@@ -202,8 +202,89 @@ router.get('/entity/:slug/amenities', (req, res) => {
 
 // ── POST /api/gcr/track ────────────────────────────────────────────
 router.post('/track', (req, res) => {
-  // Tracking — accept and ignore (analytics handled separately)
   res.json({ ok: true });
+});
+
+// ══════════════════════════════════════════════════════════════════
+// WRITE ENDPOINTS — dashboard/AI/PIN links write here
+// Protected by API key in Authorization header or x-api-key
+// ══════════════════════════════════════════════════════════════════
+
+function authWrite(req, res, next) {
+  const API_KEY = process.env.GCR_WRITE_KEY;
+  if (!API_KEY) return next(); // no key set = open (dev only)
+  const key = req.headers['x-api-key'] || req.headers['authorization']?.replace('Bearer ', '');
+  if (key !== API_KEY) return res.status(401).json({ error: 'Unauthorized' });
+  next();
+}
+
+function writeSection(dir, slug, data, res) {
+  try {
+    const filePath = path.join(dir, `${slug}.json`);
+    const existing = readJSON(filePath) || {};
+    const updated = { ...existing, ...data, slug };
+    fs.writeFileSync(filePath, JSON.stringify(updated, null, 2));
+    res.json({ ok: true, slug, updated });
+  } catch(e) {
+    res.status(500).json({ error: e.message });
+  }
+}
+
+// ── PATCH /api/gcr/entity/:slug ────────────────────────────────────
+router.patch('/entity/:slug', authWrite, (req, res) => {
+  writeSection(ENTITIES_DIR, req.params.slug, req.body, res);
+});
+
+// ── PATCH /api/gcr/entity/:slug/menu ──────────────────────────────
+router.patch('/entity/:slug/menu', authWrite, (req, res) => {
+  writeSection(MENUS_DIR, req.params.slug, req.body, res);
+});
+
+// ── PATCH /api/gcr/entity/:slug/hours ─────────────────────────────
+router.patch('/entity/:slug/hours', authWrite, (req, res) => {
+  writeSection(HOURS_DIR, req.params.slug, req.body, res);
+});
+
+// ── PATCH /api/gcr/entity/:slug/photos ────────────────────────────
+router.patch('/entity/:slug/photos', authWrite, (req, res) => {
+  writeSection(PHOTOS_DIR, req.params.slug, req.body, res);
+});
+
+// ── PATCH /api/gcr/entity/:slug/offers ────────────────────────────
+router.patch('/entity/:slug/offers', authWrite, (req, res) => {
+  writeSection(OFFERS_DIR, req.params.slug, req.body, res);
+});
+
+// ── PATCH /api/gcr/entity/:slug/info ──────────────────────────────
+router.patch('/entity/:slug/info', authWrite, (req, res) => {
+  writeSection(INFO_DIR, req.params.slug, req.body, res);
+});
+
+// ── PATCH /api/gcr/entity/:slug/about ─────────────────────────────
+router.patch('/entity/:slug/about', authWrite, (req, res) => {
+  writeSection(ABOUT_DIR, req.params.slug, req.body, res);
+});
+
+// ── PATCH /api/gcr/entity/:slug/amenities ─────────────────────────
+router.patch('/entity/:slug/amenities', authWrite, (req, res) => {
+  writeSection(AMENITIES_DIR, req.params.slug, req.body, res);
+});
+
+// ── POST /api/gcr/entity ──────────────────────────────────────────
+router.post('/entity', authWrite, (req, res) => {
+  const slug = req.body.slug;
+  if (!slug) return res.status(400).json({ error: 'slug required' });
+  writeSection(ENTITIES_DIR, slug, req.body, res);
+});
+
+// ── DELETE /api/gcr/entity/:slug ──────────────────────────────────
+router.delete('/entity/:slug', authWrite, (req, res) => {
+  const slug = req.params.slug;
+  ['entities','menus','hours','photos','offers','info','about','amenities'].forEach(dir => {
+    const f = path.join(DATA, dir, `${slug}.json`);
+    if (fs.existsSync(f)) fs.unlinkSync(f);
+  });
+  res.json({ ok: true, slug, deleted: true });
 });
 
 module.exports = router;
