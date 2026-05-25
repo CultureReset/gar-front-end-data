@@ -1,25 +1,201 @@
 {
-  "generated_at": "2026-05-25T02:11:18.753Z",
-  "total_entities": 1000,
-  "total_types": 12,
-  "total_subtypes": 82,
+  "generated_at": "2026-05-25T02:33:06.513Z",
+  "total_entities": 3301,
+  "total_types": 17,
+  "total_subtypes": 123,
   "sections": [
+    {
+      "type": "business",
+      "name": "Business",
+      "icon": "🏢",
+      "count": 1938,
+      "subtypes": [
+        {
+          "name": "General",
+          "type": "general",
+          "count": 1889,
+          "slug": "general"
+        },
+        {
+          "name": "Service",
+          "type": "service",
+          "count": 17,
+          "slug": "service"
+        },
+        {
+          "name": "Market",
+          "type": "market",
+          "count": 3,
+          "slug": "market"
+        },
+        {
+          "name": "Attraction",
+          "type": "attraction",
+          "count": 2,
+          "slug": "attraction"
+        },
+        {
+          "name": "Video Arcade",
+          "type": "video_arcade",
+          "count": 2,
+          "slug": "video_arcade"
+        },
+        {
+          "name": "Park",
+          "type": "park",
+          "count": 2,
+          "slug": "park"
+        },
+        {
+          "name": "Car-wash",
+          "type": "car-wash",
+          "count": 2,
+          "slug": "car-wash"
+        },
+        {
+          "name": "Courier Service",
+          "type": "courier_service",
+          "count": 2,
+          "slug": "courier_service"
+        },
+        {
+          "name": "Municipal-government",
+          "type": "municipal-government",
+          "count": 1,
+          "slug": "municipal-government"
+        },
+        {
+          "name": "Government",
+          "type": "government",
+          "count": 1,
+          "slug": "government"
+        },
+        {
+          "name": "Cleaning-services",
+          "type": "cleaning-services",
+          "count": 1,
+          "slug": "cleaning-services"
+        },
+        {
+          "name": "Venue",
+          "type": "venue",
+          "count": 1,
+          "slug": "venue"
+        },
+        {
+          "name": "Flea Market",
+          "type": "flea_market",
+          "count": 1,
+          "slug": "flea_market"
+        },
+        {
+          "name": "Laundry-service",
+          "type": "laundry-service",
+          "count": 1,
+          "slug": "laundry-service"
+        },
+        {
+          "name": "Educational Institution",
+          "type": "educational_institution",
+          "count": 1,
+          "slug": "educational_institution"
+        },
+        {
+          "name": "Boat Rental",
+          "type": "boat_rental",
+          "count": 1,
+          "slug": "boat_rental"
+        },
+        {
+          "name": "Gas-station",
+          "type": "gas-station",
+          "count": 1,
+          "slug": "gas-station"
+        },
+        {
+          "name": "Shopping",
+          "type": "shopping",
+          "count": 1,
+          "slug": "shopping"
+        },
+        {
+          "name": "Restoration-services",
+          "type": "restoration-services",
+          "count": 1,
+          "slug": "restoration-services"
+        },
+        {
+          "name": "Bar",
+          "type": "bar",
+          "count": 1,
+          "slug": "bar"
+        },
+        {
+          "name": "Food",
+          "type": "food",
+          "count": 1,
+          "slug": "food"
+        },
+        {
+          "name": "Watersports",
+          "type": "watersports",
+          "count": 1,
+          "slug": "watersports"
+        },
+        {
+          "name": "Real-estate",
+          "type": "real-estate",
+          "count": 1,
+          "slug": "real-estate"
+        },
+        {
+          "name": "Manufacturer",
+          "type": "manufacturer",
+          "count": 1,
+          "slug": "manufacturer"
+        },
+        {
+          "name": "Playground",
+          "type": "playground",
+          "count": 1,
+          "slug": "playground"
+        },
+        {
+          "name": "Association Or Organization",
+          "type": "association_or_organization",
+          "count": 1,
+          "slug": "association_or_organization"
+        },
+        {
+          "name": "Laundromat",
+          "type": "laundromat",
+          "count": 1,
+          "slug": "laundromat"
+        }
+      ]
+    },
     {
       "type": "shopping",
       "name": "Shopping",
       "icon": "🛍️",
-      "count": 213,
+      "count": 243,
       "subtypes": [
+        {
+          "name": "General",
+          "type": "general",
+          "count": 155,
+          "slug": "general"
+        },
         {
           "name": "Shopping",
           "type": "shopping",
-          "count": 141,
+          "count": 27,
           "slug": "shopping"
         },
         {
           "name": "Clothing",
           "type": "clothing",
-          "count": 19,
+          "count": 15,
           "slug": "clothing"
         },
         {
@@ -29,28 +205,16 @@
           "slug": "clothing_store"
         },
         {
-          "name": "Boutique",
-          "type": "boutique",
-          "count": 8,
-          "slug": "boutique"
-        },
-        {
-          "name": "General",
-          "type": "general",
-          "count": 5,
-          "slug": "general"
-        },
-        {
           "name": "Store",
           "type": "store",
-          "count": 4,
+          "count": 9,
           "slug": "store"
         },
         {
-          "name": "Retail",
-          "type": "retail",
-          "count": 4,
-          "slug": "retail"
+          "name": "Boutique",
+          "type": "boutique",
+          "count": 3,
+          "slug": "boutique"
         },
         {
           "name": "Gift Shop",
@@ -71,10 +235,22 @@
           "slug": "liquor-store"
         },
         {
+          "name": "Furniture Store",
+          "type": "furniture_store",
+          "count": 2,
+          "slug": "furniture_store"
+        },
+        {
           "name": "Home Goods Store",
           "type": "home_goods_store",
           "count": 2,
           "slug": "home_goods_store"
+        },
+        {
+          "name": "Attractions",
+          "type": "attractions",
+          "count": 2,
+          "slug": "attractions"
         },
         {
           "name": "Womens Clothing Store",
@@ -89,40 +265,22 @@
           "slug": "food_store"
         },
         {
-          "name": "Art Gallery",
-          "type": "art_gallery",
+          "name": "Cafe",
+          "type": "cafe",
           "count": 1,
-          "slug": "art_gallery"
+          "slug": "cafe"
         },
         {
-          "name": "Restaurant",
-          "type": "restaurant",
+          "name": "Florist",
+          "type": "florist",
           "count": 1,
-          "slug": "restaurant"
-        },
-        {
-          "name": "Book Store",
-          "type": "book_store",
-          "count": 1,
-          "slug": "book_store"
-        },
-        {
-          "name": "Gas-station",
-          "type": "gas-station",
-          "count": 1,
-          "slug": "gas-station"
+          "slug": "florist"
         },
         {
           "name": "Cosmetics Store",
           "type": "cosmetics_store",
           "count": 1,
           "slug": "cosmetics_store"
-        },
-        {
-          "name": "Furniture Store",
-          "type": "furniture_store",
-          "count": 1,
-          "slug": "furniture_store"
         },
         {
           "name": "Thrift Store",
@@ -141,6 +299,12 @@
           "type": "shoe_store",
           "count": 1,
           "slug": "shoe_store"
+        },
+        {
+          "name": "Art Gallery",
+          "type": "art_gallery",
+          "count": 1,
+          "slug": "art_gallery"
         }
       ]
     },
@@ -148,19 +312,43 @@
       "type": "restaurant",
       "name": "Restaurant",
       "icon": "🍽️",
-      "count": 142,
+      "count": 234,
       "subtypes": [
+        {
+          "name": "General",
+          "type": "general",
+          "count": 106,
+          "slug": "general"
+        },
         {
           "name": "Restaurant",
           "type": "restaurant",
-          "count": 95,
+          "count": 60,
           "slug": "restaurant"
+        },
+        {
+          "name": "Ice Cream Shop",
+          "type": "ice_cream_shop",
+          "count": 13,
+          "slug": "ice_cream_shop"
         },
         {
           "name": "Bar",
           "type": "bar",
-          "count": 11,
+          "count": 7,
           "slug": "bar"
+        },
+        {
+          "name": "Bakery",
+          "type": "bakery",
+          "count": 6,
+          "slug": "bakery"
+        },
+        {
+          "name": "Coffee Shop",
+          "type": "coffee_shop",
+          "count": 4,
+          "slug": "coffee_shop"
         },
         {
           "name": "Cafe",
@@ -169,22 +357,10 @@
           "slug": "cafe"
         },
         {
-          "name": "Coffee Shop",
-          "type": "coffee_shop",
-          "count": 3,
-          "slug": "coffee_shop"
-        },
-        {
           "name": "Steak House",
           "type": "steak_house",
           "count": 3,
           "slug": "steak_house"
-        },
-        {
-          "name": "Mexican Restaurant",
-          "type": "mexican_restaurant",
-          "count": 3,
-          "slug": "mexican_restaurant"
         },
         {
           "name": "Shopping",
@@ -193,10 +369,22 @@
           "slug": "shopping"
         },
         {
-          "name": "Bakery",
-          "type": "bakery",
+          "name": "Cocktail Bar",
+          "type": "cocktail_bar",
           "count": 2,
-          "slug": "bakery"
+          "slug": "cocktail_bar"
+        },
+        {
+          "name": "Brunch Restaurant",
+          "type": "brunch_restaurant",
+          "count": 2,
+          "slug": "brunch_restaurant"
+        },
+        {
+          "name": "Mexican Restaurant",
+          "type": "mexican_restaurant",
+          "count": 2,
+          "slug": "mexican_restaurant"
         },
         {
           "name": "Chicken Restaurant",
@@ -205,22 +393,10 @@
           "slug": "chicken_restaurant"
         },
         {
-          "name": "General",
-          "type": "general",
-          "count": 2,
-          "slug": "general"
-        },
-        {
           "name": "Donut Shop",
           "type": "donut_shop",
           "count": 2,
           "slug": "donut_shop"
-        },
-        {
-          "name": "Ice Cream Shop",
-          "type": "ice_cream_shop",
-          "count": 2,
-          "slug": "ice_cream_shop"
         },
         {
           "name": "Breakfast Restaurant",
@@ -235,22 +411,58 @@
           "slug": "deli"
         },
         {
-          "name": "Venue",
-          "type": "venue",
+          "name": "Restaurants",
+          "type": "restaurants",
           "count": 1,
-          "slug": "venue"
+          "slug": "restaurants"
         },
         {
-          "name": "Brunch Restaurant",
-          "type": "brunch_restaurant",
+          "name": "Dessert Shop",
+          "type": "dessert_shop",
           "count": 1,
-          "slug": "brunch_restaurant"
+          "slug": "dessert_shop"
+        },
+        {
+          "name": "Bar And Grill",
+          "type": "bar_and_grill",
+          "count": 1,
+          "slug": "bar_and_grill"
+        },
+        {
+          "name": "Catering Service",
+          "type": "catering_service",
+          "count": 1,
+          "slug": "catering_service"
         },
         {
           "name": "Hamburger Restaurant",
           "type": "hamburger_restaurant",
           "count": 1,
           "slug": "hamburger_restaurant"
+        },
+        {
+          "name": "Meal Takeaway",
+          "type": "meal_takeaway",
+          "count": 1,
+          "slug": "meal_takeaway"
+        },
+        {
+          "name": "Convenience Store",
+          "type": "convenience_store",
+          "count": 1,
+          "slug": "convenience_store"
+        },
+        {
+          "name": "Catering",
+          "type": "catering",
+          "count": 1,
+          "slug": "catering"
+        },
+        {
+          "name": "Activity",
+          "type": "activity",
+          "count": 1,
+          "slug": "activity"
         },
         {
           "name": "Pizza Delivery",
@@ -263,6 +475,12 @@
           "type": "tex_mex_restaurant",
           "count": 1,
           "slug": "tex_mex_restaurant"
+        },
+        {
+          "name": "Sandwich Shop",
+          "type": "sandwich_shop",
+          "count": 1,
+          "slug": "sandwich_shop"
         },
         {
           "name": "Barbecue Restaurant",
@@ -281,6 +499,12 @@
           "type": "italian_restaurant",
           "count": 1,
           "slug": "italian_restaurant"
+        },
+        {
+          "name": "Night Club",
+          "type": "night_club",
+          "count": 1,
+          "slug": "night_club"
         }
       ]
     },
@@ -288,43 +512,61 @@
       "type": "activity",
       "name": "Activity",
       "icon": "🎯",
-      "count": 133,
+      "count": 197,
       "subtypes": [
         {
           "name": "Activity",
           "type": "activity",
-          "count": 73,
+          "count": 89,
           "slug": "activity"
-        },
-        {
-          "name": "General",
-          "type": "general",
-          "count": 30,
-          "slug": "general"
-        },
-        {
-          "name": "Service",
-          "type": "service",
-          "count": 4,
-          "slug": "service"
-        },
-        {
-          "name": "Shopping",
-          "type": "shopping",
-          "count": 4,
-          "slug": "shopping"
-        },
-        {
-          "name": "Marina",
-          "type": "marina",
-          "count": 4,
-          "slug": "marina"
         },
         {
           "name": "Hotel",
           "type": "hotel",
-          "count": 3,
+          "count": 24,
           "slug": "hotel"
+        },
+        {
+          "name": "Park",
+          "type": "park",
+          "count": 17,
+          "slug": "park"
+        },
+        {
+          "name": "Service",
+          "type": "service",
+          "count": 7,
+          "slug": "service"
+        },
+        {
+          "name": "Marina",
+          "type": "marina",
+          "count": 7,
+          "slug": "marina"
+        },
+        {
+          "name": "Vacation-home",
+          "type": "vacation-home",
+          "count": 5,
+          "slug": "vacation-home"
+        },
+        {
+          "name": "Attraction",
+          "type": "attraction",
+          "count": 5,
+          "slug": "attraction"
+        },
+        {
+          "name": "Rv Park",
+          "type": "rv_park",
+          "count": 4,
+          "slug": "rv_park"
+        },
+        {
+          "name": "Spa",
+          "type": "spa",
+          "count": 4,
+          "slug": "spa"
         },
         {
           "name": "Things-to-do",
@@ -333,10 +575,16 @@
           "slug": "things-to-do"
         },
         {
-          "name": "Charter-fishing",
-          "type": "charter-fishing",
+          "name": "Beach",
+          "type": "beach",
           "count": 2,
-          "slug": "charter-fishing"
+          "slug": "beach"
+        },
+        {
+          "name": "Rentals",
+          "type": "rentals",
+          "count": 2,
+          "slug": "rentals"
         },
         {
           "name": "Attractions",
@@ -345,10 +593,28 @@
           "slug": "attractions"
         },
         {
-          "name": "Attraction",
-          "type": "attraction",
+          "name": "Beach Access",
+          "type": "beach_access",
           "count": 2,
-          "slug": "attraction"
+          "slug": "beach_access"
+        },
+        {
+          "name": "Shopping",
+          "type": "shopping",
+          "count": 2,
+          "slug": "shopping"
+        },
+        {
+          "name": "Art Gallery",
+          "type": "art_gallery",
+          "count": 2,
+          "slug": "art_gallery"
+        },
+        {
+          "name": "Amusement-park",
+          "type": "amusement-park",
+          "count": 1,
+          "slug": "amusement-park"
         },
         {
           "name": "Jet-ski-rentals-tours",
@@ -357,10 +623,34 @@
           "slug": "jet-ski-rentals-tours"
         },
         {
+          "name": "Charter-fishing",
+          "type": "charter-fishing",
+          "count": 1,
+          "slug": "charter-fishing"
+        },
+        {
+          "name": "Massage Spa",
+          "type": "massage_spa",
+          "count": 1,
+          "slug": "massage_spa"
+        },
+        {
           "name": "Marina-and-rentals",
           "type": "marina-and-rentals",
           "count": 1,
           "slug": "marina-and-rentals"
+        },
+        {
+          "name": "Nature Preserve",
+          "type": "nature_preserve",
+          "count": 1,
+          "slug": "nature_preserve"
+        },
+        {
+          "name": "Museum",
+          "type": "museum",
+          "count": 1,
+          "slug": "museum"
         },
         {
           "name": "Parasailing",
@@ -369,72 +659,96 @@
           "slug": "parasailing"
         },
         {
-          "name": "Clothing",
-          "type": "clothing",
+          "name": "Movie Theater",
+          "type": "movie_theater",
           "count": 1,
-          "slug": "clothing"
+          "slug": "movie_theater"
         },
         {
-          "name": "Park",
-          "type": "park",
+          "name": "Boat Launch",
+          "type": "boat_launch",
           "count": 1,
-          "slug": "park"
+          "slug": "boat_launch"
         },
         {
-          "name": "Watersports",
-          "type": "watersports",
+          "name": "Golf-course",
+          "type": "golf-course",
           "count": 1,
-          "slug": "watersports"
+          "slug": "golf-course"
+        },
+        {
+          "name": "Sporting Goods Store",
+          "type": "sporting_goods_store",
+          "count": 1,
+          "slug": "sporting_goods_store"
+        },
+        {
+          "name": "Festival",
+          "type": "festival",
+          "count": 1,
+          "slug": "festival"
+        },
+        {
+          "name": "Yoga Studio",
+          "type": "yoga_studio",
+          "count": 1,
+          "slug": "yoga_studio"
+        },
+        {
+          "name": "Sports Club",
+          "type": "sports_club",
+          "count": 1,
+          "slug": "sports_club"
+        },
+        {
+          "name": "Fishing Pier",
+          "type": "fishing_pier",
+          "count": 1,
+          "slug": "fishing_pier"
+        },
+        {
+          "name": "Fitness",
+          "type": "fitness",
+          "count": 1,
+          "slug": "fitness"
+        },
+        {
+          "name": "Store",
+          "type": "store",
+          "count": 1,
+          "slug": "store"
+        },
+        {
+          "name": "Storage",
+          "type": "storage",
+          "count": 1,
+          "slug": "storage"
         },
         {
           "name": "Observation Deck",
           "type": "observation_deck",
           "count": 1,
           "slug": "observation_deck"
+        },
+        {
+          "name": "Transportation Service",
+          "type": "transportation_service",
+          "count": 1,
+          "slug": "transportation_service"
         }
       ]
     },
     {
-      "type": "park",
-      "name": "Park",
-      "icon": "🍽️",
-      "count": 122,
+      "type": "other",
+      "name": "Other",
+      "icon": "📍",
+      "count": 174,
       "subtypes": [
         {
-          "name": "Park",
-          "type": "park",
-          "count": 116,
-          "slug": "park"
-        },
-        {
-          "name": "Attractions",
-          "type": "attractions",
-          "count": 2,
-          "slug": "attractions"
-        },
-        {
-          "name": "Rentals",
-          "type": "rentals",
-          "count": 1,
-          "slug": "rentals"
-        },
-        {
-          "name": "State Park",
-          "type": "state_park",
-          "count": 1,
-          "slug": "state_park"
-        },
-        {
-          "name": "Hiking Area",
-          "type": "hiking_area",
-          "count": 1,
-          "slug": "hiking_area"
-        },
-        {
-          "name": "Amusement-park",
-          "type": "amusement-park",
-          "count": 1,
-          "slug": "amusement-park"
+          "name": "General",
+          "type": "general",
+          "count": 174,
+          "slug": "general"
         }
       ]
     },
@@ -442,43 +756,49 @@
       "type": "hotel",
       "name": "Hotel",
       "icon": "🏨",
-      "count": 113,
+      "count": 144,
       "subtypes": [
+        {
+          "name": "General",
+          "type": "general",
+          "count": 87,
+          "slug": "general"
+        },
         {
           "name": "Hotel",
           "type": "hotel",
-          "count": 90,
+          "count": 33,
           "slug": "hotel"
         },
         {
           "name": "Lodging",
           "type": "lodging",
-          "count": 8,
+          "count": 10,
           "slug": "lodging"
         },
         {
           "name": "Rentals",
           "type": "rentals",
-          "count": 5,
+          "count": 4,
           "slug": "rentals"
         },
         {
           "name": "Condo",
           "type": "condo",
-          "count": 3,
+          "count": 4,
           "slug": "condo"
-        },
-        {
-          "name": "General",
-          "type": "general",
-          "count": 2,
-          "slug": "general"
         },
         {
           "name": "Bed And Breakfast",
           "type": "bed_and_breakfast",
           "count": 2,
           "slug": "bed_and_breakfast"
+        },
+        {
+          "name": "Rv Park",
+          "type": "rv_park",
+          "count": 2,
+          "slug": "rv_park"
         },
         {
           "name": "Activity",
@@ -491,12 +811,34 @@
           "type": "vacation-rental",
           "count": 1,
           "slug": "vacation-rental"
-        },
+        }
+      ]
+    },
+    {
+      "type": "things-to-do",
+      "name": "Things-to-do",
+      "icon": "🍽️",
+      "count": 83,
+      "subtypes": [
         {
-          "name": "Rv Park",
-          "type": "rv_park",
-          "count": 1,
-          "slug": "rv_park"
+          "name": "General",
+          "type": "general",
+          "count": 83,
+          "slug": "general"
+        }
+      ]
+    },
+    {
+      "type": "nightlife",
+      "name": "Nightlife",
+      "icon": "🍷",
+      "count": 76,
+      "subtypes": [
+        {
+          "name": "General",
+          "type": "general",
+          "count": 76,
+          "slug": "general"
         }
       ]
     },
@@ -504,19 +846,25 @@
       "type": "artist",
       "name": "Artist",
       "icon": "🎨",
-      "count": 106,
+      "count": 52,
       "subtypes": [
-        {
-          "name": "Artist",
-          "type": "artist",
-          "count": 53,
-          "slug": "artist"
-        },
         {
           "name": "General",
           "type": "general",
-          "count": 50,
+          "count": 40,
           "slug": "general"
+        },
+        {
+          "name": "Restaurant",
+          "type": "restaurant",
+          "count": 5,
+          "slug": "restaurant"
+        },
+        {
+          "name": "Bar",
+          "type": "bar",
+          "count": 3,
+          "slug": "bar"
         },
         {
           "name": "Entertainment",
@@ -525,54 +873,50 @@
           "slug": "entertainment"
         },
         {
-          "name": "Restaurant",
-          "type": "restaurant",
+          "name": "Resort",
+          "type": "resort",
           "count": 1,
-          "slug": "restaurant"
+          "slug": "resort"
         },
         {
-          "name": "Bar",
-          "type": "bar",
+          "name": "Florist",
+          "type": "florist",
           "count": 1,
-          "slug": "bar"
+          "slug": "florist"
+        },
+        {
+          "name": "Coffee Shop",
+          "type": "coffee_shop",
+          "count": 1,
+          "slug": "coffee_shop"
         }
       ]
     },
     {
-      "type": "bar",
-      "name": "Bar",
-      "icon": "🍷",
-      "count": 67,
+      "type": "hotels",
+      "name": "Hotels",
+      "icon": "🍽️",
+      "count": 49,
       "subtypes": [
-        {
-          "name": "Bar",
-          "type": "bar",
-          "count": 63,
-          "slug": "bar"
-        },
-        {
-          "name": "Restaurants",
-          "type": "restaurants",
-          "count": 1,
-          "slug": "restaurants"
-        },
-        {
-          "name": "Shopping",
-          "type": "shopping",
-          "count": 1,
-          "slug": "shopping"
-        },
         {
           "name": "General",
           "type": "general",
-          "count": 1,
+          "count": 49,
           "slug": "general"
-        },
+        }
+      ]
+    },
+    {
+      "type": "coffee-sweets",
+      "name": "Coffee-sweets",
+      "icon": "🍽️",
+      "count": 41,
+      "subtypes": [
         {
-          "name": "Restaurant",
-          "type": "restaurant",
-          "count": 1,
-          "slug": "restaurant"
+          "name": "General",
+          "type": "general",
+          "count": 41,
+          "slug": "general"
         }
       ]
     },
@@ -580,14 +924,8 @@
       "type": "service",
       "name": "Service",
       "icon": "🔧",
-      "count": 52,
+      "count": 32,
       "subtypes": [
-        {
-          "name": "Service",
-          "type": "service",
-          "count": 30,
-          "slug": "service"
-        },
         {
           "name": "Massage",
           "type": "massage",
@@ -597,14 +935,20 @@
         {
           "name": "Salon",
           "type": "salon",
-          "count": 3,
+          "count": 4,
           "slug": "salon"
         },
         {
-          "name": "Spa",
-          "type": "spa",
+          "name": "Shopping",
+          "type": "shopping",
+          "count": 4,
+          "slug": "shopping"
+        },
+        {
+          "name": "Rentals",
+          "type": "rentals",
           "count": 3,
-          "slug": "spa"
+          "slug": "rentals"
         },
         {
           "name": "Car Rental",
@@ -613,10 +957,28 @@
           "slug": "car_rental"
         },
         {
-          "name": "Salon-spa",
-          "type": "salon-spa",
+          "name": "Spa",
+          "type": "spa",
           "count": 2,
-          "slug": "salon-spa"
+          "slug": "spa"
+        },
+        {
+          "name": "Real Estate",
+          "type": "real_estate",
+          "count": 2,
+          "slug": "real_estate"
+        },
+        {
+          "name": "Parking Lot",
+          "type": "parking_lot",
+          "count": 1,
+          "slug": "parking_lot"
+        },
+        {
+          "name": "Hair Salon",
+          "type": "hair_salon",
+          "count": 1,
+          "slug": "hair_salon"
         },
         {
           "name": "Heliport",
@@ -625,16 +987,16 @@
           "slug": "heliport"
         },
         {
-          "name": "Shopping",
-          "type": "shopping",
+          "name": "Salon-spa",
+          "type": "salon-spa",
           "count": 1,
-          "slug": "shopping"
+          "slug": "salon-spa"
         },
         {
-          "name": "Real Estate",
-          "type": "real_estate",
+          "name": "Real-estate-agent",
+          "type": "real-estate-agent",
           "count": 1,
-          "slug": "real_estate"
+          "slug": "real-estate-agent"
         },
         {
           "name": "Chiropractor",
@@ -649,104 +1011,36 @@
           "slug": "spa-wellness"
         },
         {
+          "name": "Government-services",
+          "type": "government-services",
+          "count": 1,
+          "slug": "government-services"
+        },
+        {
+          "name": "Bank",
+          "type": "bank",
+          "count": 1,
+          "slug": "bank"
+        },
+        {
           "name": "Transportation Service",
           "type": "transportation_service",
           "count": 1,
           "slug": "transportation_service"
-        },
-        {
-          "name": "Medical-spa",
-          "type": "medical-spa",
-          "count": 1,
-          "slug": "medical-spa"
         }
       ]
     },
     {
-      "type": "business",
-      "name": "Business",
-      "icon": "🏢",
-      "count": 35,
+      "type": "restaurants",
+      "name": "Restaurants",
+      "icon": "🍽️",
+      "count": 25,
       "subtypes": [
-        {
-          "name": "Restaurant",
-          "type": "restaurant",
-          "count": 23,
-          "slug": "restaurant"
-        },
-        {
-          "name": "Venue",
-          "type": "venue",
-          "count": 2,
-          "slug": "venue"
-        },
-        {
-          "name": "Park",
-          "type": "park",
-          "count": 2,
-          "slug": "park"
-        },
-        {
-          "name": "Service",
-          "type": "service",
-          "count": 2,
-          "slug": "service"
-        },
-        {
-          "name": "Shopping",
-          "type": "shopping",
-          "count": 1,
-          "slug": "shopping"
-        },
-        {
-          "name": "Video Arcade",
-          "type": "video_arcade",
-          "count": 1,
-          "slug": "video_arcade"
-        },
-        {
-          "name": "Food",
-          "type": "food",
-          "count": 1,
-          "slug": "food"
-        },
-        {
-          "name": "Watersports",
-          "type": "watersports",
-          "count": 1,
-          "slug": "watersports"
-        },
-        {
-          "name": "Playground",
-          "type": "playground",
-          "count": 1,
-          "slug": "playground"
-        },
         {
           "name": "General",
           "type": "general",
-          "count": 1,
+          "count": 25,
           "slug": "general"
-        }
-      ]
-    },
-    {
-      "type": "accommodation",
-      "name": "Accommodation",
-      "icon": "🍽️",
-      "count": 13,
-      "subtypes": [
-        {
-          "name": "Vacation-home",
-          "type": "vacation-home",
-          "count": 10,
-          "slug": "vacation-home"
-        },
-        {
-          "name": "Condo",
-          "type": "condo",
-          "count": 3,
-          "slug": "condo"
         }
       ]
     },
@@ -754,19 +1048,71 @@
       "type": "venue",
       "name": "Venue",
       "icon": "🍽️",
-      "count": 3,
+      "count": 5,
       "subtypes": [
         {
           "name": "Venue",
           "type": "venue",
-          "count": 2,
+          "count": 4,
           "slug": "venue"
         },
+        {
+          "name": "Live Music Venue",
+          "type": "live_music_venue",
+          "count": 1,
+          "slug": "live_music_venue"
+        }
+      ]
+    },
+    {
+      "type": "park",
+      "name": "Park",
+      "icon": "🍽️",
+      "count": 4,
+      "subtypes": [
+        {
+          "name": "Hiking Area",
+          "type": "hiking_area",
+          "count": 2,
+          "slug": "hiking_area"
+        },
+        {
+          "name": "General",
+          "type": "general",
+          "count": 1,
+          "slug": "general"
+        },
+        {
+          "name": "State Park",
+          "type": "state_park",
+          "count": 1,
+          "slug": "state_park"
+        }
+      ]
+    },
+    {
+      "type": "bar",
+      "name": "Bar",
+      "icon": "🍷",
+      "count": 3,
+      "subtypes": [
         {
           "name": "Shopping",
           "type": "shopping",
           "count": 1,
           "slug": "shopping"
+        },
+        {
+          "name": "Bar",
+          "type": "bar",
+          "count": 1,
+          "slug": "bar"
+        },
+        {
+          "name": "Restaurant",
+          "type": "restaurant",
+          "count": 1,
+          "slug": "restaurant"
         }
       ]
     },
@@ -787,102 +1133,148 @@
   ],
   "stats": {
     "by_type": {
-      "shopping": 213,
-      "restaurant": 142,
-      "activity": 133,
-      "park": 122,
-      "hotel": 113,
-      "artist": 106,
-      "bar": 67,
-      "service": 52,
-      "business": 35,
-      "accommodation": 13,
-      "venue": 3,
+      "business": 1938,
+      "shopping": 243,
+      "restaurant": 234,
+      "activity": 197,
+      "other": 174,
+      "hotel": 144,
+      "things-to-do": 83,
+      "nightlife": 76,
+      "artist": 52,
+      "hotels": 49,
+      "coffee-sweets": 41,
+      "service": 32,
+      "restaurants": 25,
+      "venue": 5,
+      "park": 4,
+      "bar": 3,
       "gcr_business": 1
     },
     "by_subtype": {
-      "shopping": 152,
-      "restaurant": 122,
-      "park": 119,
-      "hotel": 93,
-      "general": 91,
-      "bar": 75,
-      "activity": 74,
-      "artist": 53,
-      "service": 36,
-      "clothing": 20,
+      "general": 2726,
+      "activity": 91,
+      "restaurant": 67,
+      "hotel": 57,
+      "shopping": 38,
+      "service": 24,
+      "park": 19,
+      "clothing": 15,
+      "ice_cream_shop": 13,
+      "bar": 12,
       "clothing_store": 10,
-      "vacation-home": 10,
-      "boutique": 8,
-      "lodging": 8,
-      "rentals": 6,
-      "condo": 6,
+      "store": 10,
+      "lodging": 10,
+      "rentals": 9,
+      "attraction": 7,
+      "marina": 7,
+      "bakery": 6,
+      "spa": 6,
+      "rv_park": 6,
       "venue": 5,
       "massage": 5,
-      "store": 4,
+      "vacation-home": 5,
+      "coffee_shop": 5,
+      "cafe": 4,
+      "salon": 4,
       "attractions": 4,
-      "marina": 4,
-      "retail": 4,
-      "salon": 3,
-      "cafe": 3,
-      "spa": 3,
-      "coffee_shop": 3,
+      "condo": 4,
+      "sporting_goods_store": 3,
+      "boutique": 3,
       "steak_house": 3,
+      "market": 3,
       "gift_shop": 3,
-      "mexican_restaurant": 3,
-      "sporting_goods_store": 2,
+      "art_gallery": 3,
+      "cocktail_bar": 2,
       "liquor-store": 2,
       "things-to-do": 2,
+      "beach": 2,
       "car_rental": 2,
-      "charter-fishing": 2,
+      "brunch_restaurant": 2,
+      "video_arcade": 2,
       "bed_and_breakfast": 2,
-      "salon-spa": 2,
+      "furniture_store": 2,
       "home_goods_store": 2,
-      "attraction": 2,
-      "bakery": 2,
+      "car-wash": 2,
+      "hiking_area": 2,
+      "mexican_restaurant": 2,
+      "convenience_store": 2,
       "chicken_restaurant": 2,
+      "florist": 2,
       "donut_shop": 2,
-      "ice_cream_shop": 2,
       "breakfast_restaurant": 2,
       "womens_clothing_store": 2,
+      "real_estate": 2,
+      "courier_service": 2,
       "food_store": 2,
-      "watersports": 2,
+      "beach_access": 2,
+      "transportation_service": 2,
+      "municipal-government": 1,
+      "parking_lot": 1,
+      "government": 1,
+      "cleaning-services": 1,
+      "amusement-park": 1,
       "jet-ski-rentals-tours": 1,
       "deli": 1,
       "restaurants": 1,
-      "brunch_restaurant": 1,
+      "dessert_shop": 1,
+      "bar_and_grill": 1,
+      "charter-fishing": 1,
+      "massage_spa": 1,
+      "flea_market": 1,
+      "laundry-service": 1,
+      "educational_institution": 1,
+      "catering_service": 1,
+      "boat_rental": 1,
+      "hair_salon": 1,
       "marina-and-rentals": 1,
       "hamburger_restaurant": 1,
-      "art_gallery": 1,
-      "book_store": 1,
-      "gas-station": 1,
-      "entertainment": 1,
+      "nature_preserve": 1,
+      "meal_takeaway": 1,
       "heliport": 1,
+      "museum": 1,
+      "salon-spa": 1,
+      "catering": 1,
+      "gas-station": 1,
       "parasailing": 1,
+      "movie_theater": 1,
+      "live_music_venue": 1,
+      "boat_launch": 1,
+      "golf-course": 1,
       "pizza_delivery": 1,
+      "restoration-services": 1,
       "tex_mex_restaurant": 1,
       "vacation-rental": 1,
-      "video_arcade": 1,
-      "real_estate": 1,
+      "festival": 1,
       "food": 1,
+      "real-estate-agent": 1,
+      "yoga_studio": 1,
+      "sandwich_shop": 1,
       "chiropractor": 1,
+      "sports_club": 1,
       "spa-wellness": 1,
-      "rv_park": 1,
+      "government-services": 1,
+      "watersports": 1,
       "state_park": 1,
+      "fishing_pier": 1,
+      "bank": 1,
       "cosmetics_store": 1,
-      "furniture_store": 1,
       "barbecue_restaurant": 1,
       "thrift_store": 1,
-      "hiking_area": 1,
-      "convenience_store": 1,
+      "fitness": 1,
       "shoe_store": 1,
       "pizza_restaurant": 1,
-      "amusement-park": 1,
+      "real-estate": 1,
+      "manufacturer": 1,
       "playground": 1,
+      "association_or_organization": 1,
       "italian_restaurant": 1,
-      "transportation_service": 1,
+      "storage": 1,
+      "night_club": 1,
       "observation_deck": 1,
-      "medical-spa": 1
+      "entertainment": 1,
+      "resort": 1,
+      "laundromat": 1
     }
   }
 }

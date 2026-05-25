@@ -2,20 +2,21 @@
   "id": "21ba5ad2-d3a3-4a72-8564-5a3fffacab47",
   "slug": "alamo-rent-a-car-aha6ek",
   "name": "Alamo Rent A Car",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
+  "entity_type": "service",
+  "entity_subtype": "car_rental",
   "icon": "🏪",
   "description": "",
   "phone": "(844) 351-0786",
   "email": null,
+  "website_url": "https://www.alamo.com/en/car-rental-locations/us/al/gulf-shores-international-airport-55kh.html?mcid=yext:245709",
   "address_line_1": "1155 Commerce Dr, Gulf Shores, AL 36542, USA",
   "city": "Gulf Shores",
   "state": "AL",
   "zip": "36542",
-  "website_url": "https://www.alamo.com/en/car-rental-locations/us/al/gulf-shores-international-airport-55kh.html?mcid=yext:245709",
   "rating": 4,
   "review_count": null,
   "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/21ba5ad2-d3a3-4a72-8564-5a3fffacab47/21ba5ad2-d3a3-4a72-8564-5a3fffacab47_1779139720782.344.jpg",
+  "photos": [],
   "hours": [],
   "menu_sections": [],
   "drink_sections": [],
@@ -24,47 +25,8 @@
     "sections": []
   },
   "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/21ba5ad2-d3a3-4a72-8564-5a3fffacab47/21ba5ad2-d3a3-4a72-8564-5a3fffacab47_1779131439956.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/21ba5ad2-d3a3-4a72-8564-5a3fffacab47/21ba5ad2-d3a3-4a72-8564-5a3fffacab47_1779131982195.225.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/21ba5ad2-d3a3-4a72-8564-5a3fffacab47/21ba5ad2-d3a3-4a72-8564-5a3fffacab47_1779139720782.344.jpg",
-      "caption": null
-    }
-  ],
   "amenities": [],
-  "tags": [
-    {
-      "tag": "car rental",
-      "tag_category": "type"
-    },
-    {
-      "tag": "point of interest",
-      "tag_category": "type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "type"
-    },
-    {
-      "tag": "car_rental",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    }
-  ],
+  "tags": [],
   "featured": false,
   "is_active": true
 }

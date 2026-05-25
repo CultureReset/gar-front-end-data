@@ -1,13 +1,32 @@
 {
-  "id": "b9fa1710-393e-4eea-9e87-a77fedf80c89",
+  "id": "82803a9c-e589-4895-acb6-3d34837551a1",
   "slug": "gcr-verify-1776204576026",
   "name": "GCR Verify Test (auto-delete)",
   "entity_type": "restaurant",
+  "entity_subtype": "general",
+  "icon": "🏪",
+  "description": "",
+  "phone": null,
+  "email": null,
+  "website_url": "https://example.com",
+  "address_line_1": "",
   "city": "Orange Beach",
   "state": "Alabama",
   "zip": null,
-  "address_line_1": "",
-  "website_url": "https://example.com",
-  "is_active": true,
-  "email": null
+  "rating": 4,
+  "review_count": null,
+  "hero_image_url": null,
+  "photos": [],
+  "hours": [],
+  "menu_sections": [],
+  "drink_sections": [],
+  "happy_hour": {
+    "schedule": "",
+    "sections": []
+  },
+  "events": [],
+  "amenities": [],
+  "tags": [],
+  "featured": false,
+  "is_active": true
 }

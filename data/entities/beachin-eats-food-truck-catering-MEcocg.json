@@ -2,20 +2,21 @@
   "id": "e0a75758-dfb2-45ba-8bb6-0f66f0f4f597",
   "slug": "beachin-eats-food-truck-catering-MEcocg",
   "name": "Beachin’ Eats Food Truck & Catering",
-  "entity_type": "park",
-  "entity_subtype": "park",
+  "entity_type": "restaurant",
+  "entity_subtype": "catering_service",
   "icon": "🏪",
   "description": "",
   "phone": "(251) 979-8238",
   "email": null,
+  "website_url": "http://facebook.com/BeachinEatsOBA",
   "address_line_1": "2104 E 2nd St STE D, Gulf Shores, AL 36542, USA",
   "city": "Gulf Shores",
   "state": "AL",
   "zip": "36542",
-  "website_url": "http://facebook.com/BeachinEatsOBA",
   "rating": 4.2,
   "review_count": 16,
   "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/9d582cc3-611e-460d-8dc4-343c6b3b544e/image_1.jpg",
+  "photos": [],
   "hours": [],
   "menu_sections": [],
   "drink_sections": [],
@@ -24,98 +25,8 @@
     "sections": []
   },
   "events": [],
-  "photos": [],
   "amenities": [],
-  "tags": [
-    {
-      "tag": "delivery",
-      "tag_category": "service"
-    },
-    {
-      "tag": "takeout",
-      "tag_category": "service"
-    },
-    {
-      "tag": "catering service",
-      "tag_category": "type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "type"
-    },
-    {
-      "tag": "food delivery",
-      "tag_category": "type"
-    },
-    {
-      "tag": "point of interest",
-      "tag_category": "type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "type"
-    },
-    {
-      "tag": "catering_service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food_delivery",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "delivery",
-      "tag_category": "service"
-    },
-    {
-      "tag": "takeout",
-      "tag_category": "service"
-    },
-    {
-      "tag": "catering service",
-      "tag_category": "type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "type"
-    },
-    {
-      "tag": "food delivery",
-      "tag_category": "type"
-    },
-    {
-      "tag": "point of interest",
-      "tag_category": "type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "type"
-    },
-    {
-      "tag": "catering_service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food_delivery",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    }
-  ],
+  "tags": [],
   "featured": false,
   "is_active": true
 }

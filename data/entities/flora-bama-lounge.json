@@ -1,12 +1,73 @@
 {
+  "id": "93371c68-c034-4002-b0ce-e8aa6cf6c574",
   "slug": "flora-bama-lounge",
-  "name": "Flora-Bama Lounge",
+  "name": "Flora-Bama Lounge, Package and Oyster Bar",
   "entity_type": "business",
-  "entity_subtype": "general",
+  "entity_subtype": "bar",
   "icon": "🏪",
   "description": "",
-  "city": "",
-  "hours": [],
+  "phone": "(251) 980-5118",
+  "email": "info@florabama.com",
+  "website_url": "https://www.florabama.com",
+  "address_line_1": "17401 Perdido Key Dr.",
+  "city": "Perdido Key",
+  "state": "FL",
+  "zip": "32507",
+  "rating": 4,
+  "review_count": null,
+  "hero_image_url": null,
+  "photos": [],
+  "hours": [
+    {
+      "entity_id": "93371c68-c034-4002-b0ce-e8aa6cf6c574",
+      "day_of_week": "Friday",
+      "open_time": "11:00:00",
+      "close_time": "02:30:00",
+      "is_closed": false
+    },
+    {
+      "entity_id": "93371c68-c034-4002-b0ce-e8aa6cf6c574",
+      "day_of_week": "Monday",
+      "open_time": "11:00:00",
+      "close_time": "02:30:00",
+      "is_closed": false
+    },
+    {
+      "entity_id": "93371c68-c034-4002-b0ce-e8aa6cf6c574",
+      "day_of_week": "Saturday",
+      "open_time": "11:00:00",
+      "close_time": "02:30:00",
+      "is_closed": false
+    },
+    {
+      "entity_id": "93371c68-c034-4002-b0ce-e8aa6cf6c574",
+      "day_of_week": "Sunday",
+      "open_time": "11:00:00",
+      "close_time": "02:30:00",
+      "is_closed": false
+    },
+    {
+      "entity_id": "93371c68-c034-4002-b0ce-e8aa6cf6c574",
+      "day_of_week": "Thursday",
+      "open_time": "11:00:00",
+      "close_time": "02:30:00",
+      "is_closed": false
+    },
+    {
+      "entity_id": "93371c68-c034-4002-b0ce-e8aa6cf6c574",
+      "day_of_week": "Tuesday",
+      "open_time": "11:00:00",
+      "close_time": "02:30:00",
+      "is_closed": false
+    },
+    {
+      "entity_id": "93371c68-c034-4002-b0ce-e8aa6cf6c574",
+      "day_of_week": "Wednesday",
+      "open_time": "11:00:00",
+      "close_time": "02:30:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -14,11 +75,117 @@
     "sections": []
   },
   "events": [],
-  "photos": [],
-  "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "beach bar",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "oyster bar",
+      "tag_category": null
+    },
+    {
+      "tag": "honky tonk",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal",
+      "tag_category": null
+    },
+    {
+      "tag": "nightlife",
+      "tag_category": null
+    },
+    {
+      "tag": "dining",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "events",
+      "tag_category": null
+    },
+    {
+      "tag": "famous",
+      "tag_category": null
+    },
+    {
+      "tag": "legendary",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "music venue",
+      "tag_category": null
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Live Music Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Oyster Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "bar",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true,
-  "sources": {}
+  "is_active": true
 }

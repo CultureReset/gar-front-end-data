@@ -1,293 +1,32 @@
 {
+  "id": "c71ab988-7ec3-4ddc-845f-707be4c521ab",
   "slug": "tin-top-restaurant-oyster-bar",
   "name": "The Tin Top Restaurant & Oyster Bar",
-  "description": "Located in Bon Secour along the Bon Secour River, The Tin Top Restaurant & Oyster Bar has been serving exceptional Gulf seafood and premium aged steaks since 2004. Founded by Bob Hallmark with a passion for cooking and Southern hospitality, Tin Top offers the finest casual dining experience with fresh oysters, Gulf shrimp, Royal Reds, hand-cut steaks, and seasonal house favorites. The restaurant features a relaxed coastal atmosphere with indoor and patio seating, scratch-made dishes, and a thoughtful selection of beers, wines, and cocktails. Known for exceptional ingredients treated with respect and genuine Southern hospitality, Tin Top is a local favorite and coastal dining destination.",
   "entity_type": "business",
-  "entity_subtype": "restaurant",
+  "entity_subtype": "general",
+  "icon": "🏪",
+  "description": "",
   "phone": "(251) 949-5086",
-  "website_url": "https://tintoprestaurant.com",
-  "email": "",
-  "rating": null,
-  "review_count": 0,
-  "price_range": null,
+  "email": null,
+  "website_url": null,
   "address_line_1": "17451 County Rd. 49 S.",
-  "address_line_2": null,
   "city": "Bon Secour",
-  "state": "AL",
-  "zip": "36511",
-  "latitude": null,
-  "longitude": null,
-  "social_facebook": "https://facebook.com/tintoprestaurant",
-  "social_instagram": "",
-  "social_tiktok": "",
-  "booking_url": null,
-  "reservation_url": null,
-  "order_url": null,
-  "hours": [
-    {
-      "day_of_week": "Monday",
-      "open_time": "11:00 AM",
-      "close_time": "9:00 PM",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Tuesday",
-      "open_time": "11:00 AM",
-      "close_time": "9:00 PM",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Wednesday",
-      "open_time": "11:00 AM",
-      "close_time": "9:00 PM",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Thursday",
-      "open_time": "11:00 AM",
-      "close_time": "10:00 PM",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Friday",
-      "open_time": "11:00 AM",
-      "close_time": "10:00 PM",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Saturday",
-      "open_time": "11:00 AM",
-      "close_time": "10:00 PM",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Sunday",
-      "open_time": "10:00 AM",
-      "close_time": "9:00 PM",
-      "is_closed": false
-    }
-  ],
-  "menu_items_count": 16,
-  "happy_hour_items_count": 0,
-  "specials_count": 0,
-  "tags": [
-    {
-      "tag": "seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "oysters",
-      "tag_category": null
-    },
-    {
-      "tag": "steaks",
-      "tag_category": null
-    },
-    {
-      "tag": "gulf-seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "prime-steaks",
-      "tag_category": null
-    },
-    {
-      "tag": "casual-dining",
-      "tag_category": null
-    },
-    {
-      "tag": "waterfront-dining",
-      "tag_category": null
-    },
-    {
-      "tag": "bon-secour",
-      "tag_category": null
-    },
-    {
-      "tag": "alabama-coast",
-      "tag_category": null
-    },
-    {
-      "tag": "brunch",
-      "tag_category": null
-    },
-    {
-      "tag": "lunch",
-      "tag_category": null
-    },
-    {
-      "tag": "dinner",
-      "tag_category": null
-    },
-    {
-      "tag": "happy-hour",
-      "tag_category": null
-    },
-    {
-      "tag": "weekly-specials",
-      "tag_category": null
-    },
-    {
-      "tag": "river-view",
-      "tag_category": null
-    },
-    {
-      "tag": "southern-cuisine",
-      "tag_category": null
-    },
-    {
-      "tag": "fresh-catch",
-      "tag_category": null
-    },
-    {
-      "tag": "hand-cut-steaks",
-      "tag_category": null
-    },
-    {
-      "tag": "royal-reds",
-      "tag_category": null
-    },
-    {
-      "tag": "shrimp",
-      "tag_category": null
-    },
-    {
-      "tag": "crab",
-      "tag_category": null
-    },
-    {
-      "tag": "mahi",
-      "tag_category": null
-    },
-    {
-      "tag": "trigger-fish",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Seafood",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Steakhouse",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Fine Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Waterfront Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Brunch",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Lunch",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Dinner",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Happy Hour",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Oyster Bar",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Gulf Cuisine",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Southern Food",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Local Favorites",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Things To Do",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    }
-  ],
-  "features": [
-    {
-      "icon": null,
-      "text": "Fresh Gulf seafood",
-      "sort_order": 0
-    },
-    {
-      "icon": null,
-      "text": "Prime hand-cut steaks",
-      "sort_order": 1
-    },
-    {
-      "icon": null,
-      "text": "Waterfront dining",
-      "sort_order": 2
-    },
-    {
-      "icon": null,
-      "text": "Patio seating",
-      "sort_order": 3
-    },
-    {
-      "icon": null,
-      "text": "River views",
-      "sort_order": 4
-    },
-    {
-      "icon": null,
-      "text": "Casual atmosphere",
-      "sort_order": 5
-    },
-    {
-      "icon": null,
-      "text": "Southern hospitality",
-      "sort_order": 6
-    },
-    {
-      "icon": null,
-      "text": "Scratch-made dishes",
-      "sort_order": 7
-    },
-    {
-      "icon": null,
-      "text": "Gift cards available",
-      "sort_order": 8
-    },
-    {
-      "icon": null,
-      "text": "Gift shop",
-      "sort_order": 9
-    },
-    {
-      "icon": null,
-      "text": "Family-friendly",
-      "sort_order": 10
-    }
-  ],
-  "photos_count": 0
+  "state": "",
+  "zip": null,
+  "rating": 4,
+  "review_count": null,
+  "hero_image_url": null,
+  "photos": [],
+  "hours": [],
+  "menu_sections": [],
+  "drink_sections": [],
+  "happy_hour": {
+    "schedule": "",
+    "sections": []
+  },
+  "events": [],
+  "amenities": [],
+  "tags": [],
+  "featured": false,
+  "is_active": true
 }
