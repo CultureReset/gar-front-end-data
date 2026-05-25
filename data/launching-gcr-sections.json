@@ -1,0 +1,143 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-05-25T01:16:47.059Z",
+  "total_sections": 8,
+  "total_entities": 5580,
+  "api_endpoint": "gar-front-end-data",
+  "display_sections": [
+    {
+      "id": "business",
+      "name": "Business",
+      "icon": "🏢",
+      "count": 4673,
+      "type": "business",
+      "route": "directory",
+      "subtypes": [
+        {
+          "id": "general",
+          "name": "General",
+          "count": 4672,
+          "filter": "entity_subtype=general"
+        },
+        {
+          "id": "bakery",
+          "name": "Bakery",
+          "count": 1,
+          "filter": "entity_subtype=bakery"
+        }
+      ]
+    },
+    {
+      "id": "nightlife",
+      "name": "Nightlife",
+      "icon": "🍷",
+      "count": 270,
+      "type": "nightlife",
+      "route": "nightlife",
+      "subtypes": [
+        {
+          "id": "bars",
+          "name": "Bars",
+          "count": 270,
+          "filter": "entity_subtype=bars"
+        }
+      ]
+    },
+    {
+      "id": "artist",
+      "name": "Artist",
+      "icon": "🎨",
+      "count": 230,
+      "type": "artist",
+      "route": "artists",
+      "subtypes": [
+        {
+          "id": "art",
+          "name": "Art",
+          "count": 230,
+          "filter": "entity_subtype=art"
+        }
+      ]
+    },
+    {
+      "id": "park",
+      "name": "Park",
+      "icon": "🍽️",
+      "count": 157,
+      "type": "park",
+      "route": "public-spots",
+      "subtypes": [
+        {
+          "id": "parks",
+          "name": "Parks",
+          "count": 157,
+          "filter": "entity_subtype=parks"
+        }
+      ]
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurant",
+      "icon": "🍽️",
+      "count": 140,
+      "type": "restaurant",
+      "route": "restaurants",
+      "subtypes": [
+        {
+          "id": "restaurants",
+          "name": "Restaurants",
+          "count": 140,
+          "filter": "entity_subtype=restaurants"
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "icon": "🛍️",
+      "count": 90,
+      "type": "shopping",
+      "route": "shopping",
+      "subtypes": [
+        {
+          "id": "stores",
+          "name": "Stores",
+          "count": 90,
+          "filter": "entity_subtype=stores"
+        }
+      ]
+    },
+    {
+      "id": "hotel",
+      "name": "Hotel",
+      "icon": "🏨",
+      "count": 18,
+      "type": "hotel",
+      "route": "staying",
+      "subtypes": [
+        {
+          "id": "hotels",
+          "name": "Hotels",
+          "count": 18,
+          "filter": "entity_subtype=hotels"
+        }
+      ]
+    },
+    {
+      "id": "activity",
+      "name": "Activity",
+      "icon": "🎯",
+      "count": 2,
+      "type": "activity",
+      "route": "things-to-do",
+      "subtypes": [
+        {
+          "id": "activities",
+          "name": "Activities",
+          "count": 2,
+          "filter": "entity_subtype=activities"
+        }
+      ]
+    }
+  ]
+}

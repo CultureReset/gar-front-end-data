@@ -41,6 +41,12 @@ function getAllEntities() {
   return readDataFile('entities-index.json');
 }
 
+// ── GET /api/gcr/sections ──────────────────────────────────────────
+router.get('/sections', (req, res) => {
+  const sections = readDataFile('sections.json');
+  res.json(sections);
+});
+
 // ── GET /api/gcr/entities ──────────────────────────────────────────
 router.get('/entities', (req, res) => {
   let entities = getAllEntities();

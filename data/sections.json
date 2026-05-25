@@ -1,0 +1,149 @@
+{
+  "generated_at": "2026-05-25T01:16:07.235Z",
+  "total_entities": 5580,
+  "total_types": 8,
+  "total_subtypes": 9,
+  "sections": [
+    {
+      "type": "business",
+      "name": "Business",
+      "icon": "🏢",
+      "count": 4673,
+      "subtypes": [
+        {
+          "name": "General",
+          "type": "general",
+          "count": 4672,
+          "slug": "general"
+        },
+        {
+          "name": "Bakery",
+          "type": "bakery",
+          "count": 1,
+          "slug": "bakery"
+        }
+      ]
+    },
+    {
+      "type": "nightlife",
+      "name": "Nightlife",
+      "icon": "🍷",
+      "count": 270,
+      "subtypes": [
+        {
+          "name": "Bars",
+          "type": "bars",
+          "count": 270,
+          "slug": "bars"
+        }
+      ]
+    },
+    {
+      "type": "artist",
+      "name": "Artist",
+      "icon": "🎨",
+      "count": 230,
+      "subtypes": [
+        {
+          "name": "Art",
+          "type": "art",
+          "count": 230,
+          "slug": "art"
+        }
+      ]
+    },
+    {
+      "type": "park",
+      "name": "Park",
+      "icon": "🍽️",
+      "count": 157,
+      "subtypes": [
+        {
+          "name": "Parks",
+          "type": "parks",
+          "count": 157,
+          "slug": "parks"
+        }
+      ]
+    },
+    {
+      "type": "restaurant",
+      "name": "Restaurant",
+      "icon": "🍽️",
+      "count": 140,
+      "subtypes": [
+        {
+          "name": "Restaurants",
+          "type": "restaurants",
+          "count": 140,
+          "slug": "restaurants"
+        }
+      ]
+    },
+    {
+      "type": "shopping",
+      "name": "Shopping",
+      "icon": "🛍️",
+      "count": 90,
+      "subtypes": [
+        {
+          "name": "Stores",
+          "type": "stores",
+          "count": 90,
+          "slug": "stores"
+        }
+      ]
+    },
+    {
+      "type": "hotel",
+      "name": "Hotel",
+      "icon": "🏨",
+      "count": 18,
+      "subtypes": [
+        {
+          "name": "Hotels",
+          "type": "hotels",
+          "count": 18,
+          "slug": "hotels"
+        }
+      ]
+    },
+    {
+      "type": "activity",
+      "name": "Activity",
+      "icon": "🎯",
+      "count": 2,
+      "subtypes": [
+        {
+          "name": "Activities",
+          "type": "activities",
+          "count": 2,
+          "slug": "activities"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "by_type": {
+      "business": 4673,
+      "nightlife": 270,
+      "artist": 230,
+      "park": 157,
+      "restaurant": 140,
+      "shopping": 90,
+      "hotel": 18,
+      "activity": 2
+    },
+    "by_subtype": {
+      "general": 4672,
+      "bars": 270,
+      "art": 230,
+      "parks": 157,
+      "restaurants": 140,
+      "stores": 90,
+      "hotels": 18,
+      "activities": 2,
+      "bakery": 1
+    }
+  }
+}
