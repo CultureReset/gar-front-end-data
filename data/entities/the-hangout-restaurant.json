@@ -16,7 +16,50 @@
   "rating": 4,
   "review_count": null,
   "hero_image_url": null,
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,116 @@
   "events": [],
   "photos": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Myrtle Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "beach bar",
+      "tag_category": null
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "foam parties",
+      "tag_category": null
+    },
+    {
+      "tag": "cold drinks",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "group dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Spring Break",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation destination",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-restaurants.json",
+      "name": "The Hangout Restaurant",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.358Z"
 }

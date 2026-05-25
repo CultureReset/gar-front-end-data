@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Get amazing color & confidence at one of 600+ tanning salons with exclusive Premier Collection® products, spray tanning and sunbeds. No contracts. Palm Beach Tan Foley offers professional tanning beds and custom spray tans to red light therapy and infrared sauna, our location offers everything you need to look and feel your best. With a trusted reputation and convenient Foley location, Palm Beach Tan makes it easy to get a sun-kissed glow safely and effectively.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "09:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "12:00",
+      "close_time": "18:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,95 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "tanning",
+      "tag_category": null
+    },
+    {
+      "tag": "spray tanning",
+      "tag_category": null
+    },
+    {
+      "tag": "sunbed tanning",
+      "tag_category": null
+    },
+    {
+      "tag": "red light therapy",
+      "tag_category": null
+    },
+    {
+      "tag": "infrared sauna",
+      "tag_category": null
+    },
+    {
+      "tag": "wellness",
+      "tag_category": null
+    },
+    {
+      "tag": "skin care",
+      "tag_category": null
+    },
+    {
+      "tag": "beauty salon",
+      "tag_category": null
+    },
+    {
+      "tag": "tanning salon",
+      "tag_category": null
+    },
+    {
+      "tag": "self-tanning",
+      "tag_category": null
+    },
+    {
+      "tag": "cosmetic services",
+      "tag_category": null
+    },
+    {
+      "tag": "Beauty Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Tanning Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wellness Centers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Skin Care",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Health & Beauty",
+      "tag_category": "category"
+    },
+    {
+      "tag": "beauty-and-wellness",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "beauty-salon",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-358-0242",
+  "email": "media@palmbeachtan.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "foley-attractions.json",
+      "name": "Palm Beach Tan Foley",
+      "phone": "251-358-0242",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.724Z"
 }

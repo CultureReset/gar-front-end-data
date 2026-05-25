@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
-  "city": "",
-  "hours": [],
+  "description": "The Wharf is a premier, 222-acre entertainment district located at Foley Beach Expressway and Canal Road in Orange Beach, AL. The Wharf is a relaxed, family friendly atmosphere with a 15-screen movie theater, one of the tallest Ferris wheels in the Southeast, the Wharf Express Train, an 18-hole Mini Golf Course and ziplines. With an array of amenities, choose from over 30 retail shops specializing in fashion, home, souvenirs and spas. Enjoy fine dining, casual southern flair and local seafood favorites at numerous restaurants. The Wharf Amphitheater is a 10,000-seat open-air venue that serves as the backdrop for dozens of top performers in country, hip hop and rock and roll. It is one of the largest music venues along the Gulf Coast, featuring the fan-favorite C Spire Concert Series.",
+  "city": "Orange Beach",
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "12:00 PM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,101 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "concert venue",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "amphitheater",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "orange beach",
+      "tag_category": null
+    },
+    {
+      "tag": "country music",
+      "tag_category": null
+    },
+    {
+      "tag": "rock music",
+      "tag_category": null
+    },
+    {
+      "tag": "hip hop",
+      "tag_category": null
+    },
+    {
+      "tag": "family entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "ticketed events",
+      "tag_category": null
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Concerts & Live Music",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things to Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 224-1020",
+  "website": "https://alwharf.com/amphitheater",
+  "address": "23101 Canal Rd",
+  "rating": 4.6,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "13_gcr-master-database_json.json",
+      "name": "The wharf amphitheater",
+      "phone": "",
+      "address": "8599 AL-180, Gulf Shores, AL 36542, USA",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.855Z",
+  "category": "Entertainment & Family Fun",
+  "state": "AL",
+  "zip": "36561.0",
+  "source": "https://alwharf.com/attractions/amphitheater/"
 }

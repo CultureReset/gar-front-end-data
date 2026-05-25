@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Florida State Parks is a statewide system comprising 175 state parks and trails offering outdoor activities for all ages and interests. At over 4,000 acres, Tarkiln Bayou Preserve is home to four species of endangered pitcher plants as well as other rare and endangered plant species. The carnivorous white-topped pitcher plant is unique to the Gulf Coast and found only between the Apalachicola and Mississippi rivers. Almost 100 other rare plants and animals depend on the wet prairie habitat, including the alligator snapping turtle, sweet pitcher plant and Chapman's butterwort. Visitors can enjoy picnicking and hiking on nature trails to observe rare plants and animals. The system provides opportunities for camping, boating, fishing, wildlife viewing, educational programs, and cultural experiences across diverse ecosystems throughout Florida.",
-  "phone": null,
+  "phone": "850-245-2157",
   "email": "FSP.Feedback@FloridaDEP.gov",
   "website_url": "https://www.floridastateparks.org",
   "address_line_1": "2401 Bauer Road",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "8:00 AM",
+      "close_time": "Sunset",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "8:00 AM",
+      "close_time": "Sunset",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "8:00 AM",
+      "close_time": "Sunset",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "8:00 AM",
+      "close_time": "Sunset",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "8:00 AM",
+      "close_time": "Sunset",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "8:00 AM",
+      "close_time": "Sunset",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "8:00 AM",
+      "close_time": "Sunset",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,136 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "state parks",
+      "tag_category": null
+    },
+    {
+      "tag": "nature trails",
+      "tag_category": null
+    },
+    {
+      "tag": "hiking",
+      "tag_category": null
+    },
+    {
+      "tag": "fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "camping",
+      "tag_category": null
+    },
+    {
+      "tag": "kayaking",
+      "tag_category": null
+    },
+    {
+      "tag": "birding",
+      "tag_category": null
+    },
+    {
+      "tag": "wildlife viewing",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor recreation",
+      "tag_category": null
+    },
+    {
+      "tag": "Florida",
+      "tag_category": null
+    },
+    {
+      "tag": "conservation",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "beaches",
+      "tag_category": null
+    },
+    {
+      "tag": "wetlands",
+      "tag_category": null
+    },
+    {
+      "tag": "botanical",
+      "tag_category": null
+    },
+    {
+      "tag": "historic sites",
+      "tag_category": null
+    },
+    {
+      "tag": "paddling",
+      "tag_category": null
+    },
+    {
+      "tag": "picnicking",
+      "tag_category": null
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "State Parks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nature & Hiking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Camping & Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Sports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wildlife Viewing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Educational Programs",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "attractions",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "pensacola-attractions.json",
+      "name": "Florida State Parks",
+      "phone": "850-245-2157",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:23.596Z"
 }

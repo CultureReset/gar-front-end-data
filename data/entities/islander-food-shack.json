@@ -6,18 +6,61 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Welcome to the Islander Food Shack, a casual dining restaurant that opened in June 2016. Our menu features a variety of delicious options including fried pickles, famous Jamaican meat pies, gumbo, plus all the regulars like seafood and chicken. Our owner, Ed Caldwell, takes pride in providing a unique dining experience for all of our guests. Come visit us and enjoy a great meal with friends and family! Looking for a place to enjoy a refreshing frozen margarita or a unique Bushwacker? Look no further than our establishment! With both indoor and outdoor seating options, you can enjoy your drink of choice in any setting.",
-  "phone": null,
+  "phone": "(850) 378-8202",
   "email": null,
   "website_url": "https://www.islanderfoodshack.com",
   "address_line_1": "13818 Perdido Key Drive",
   "city": "Pensacola",
   "state": "FL",
   "zip": "32507",
-  "rating": 4,
+  "rating": 4.3,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00 am",
+      "close_time": "8:00 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00 am",
+      "close_time": "8:00 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00 am",
+      "close_time": "8:00 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00 am",
+      "close_time": "8:00 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00 am",
+      "close_time": "8:00 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00 am",
+      "close_time": "8:00 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "10:00 am",
+      "close_time": "8:00 pm",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,118 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "sandwiches",
+      "tag_category": null
+    },
+    {
+      "tag": "tacos",
+      "tag_category": null
+    },
+    {
+      "tag": "jamaican food",
+      "tag_category": null
+    },
+    {
+      "tag": "fried baskets",
+      "tag_category": null
+    },
+    {
+      "tag": "platters",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "perdido key",
+      "tag_category": null
+    },
+    {
+      "tag": "pensacola",
+      "tag_category": null
+    },
+    {
+      "tag": "tropical drinks",
+      "tag_category": null
+    },
+    {
+      "tag": "margaritas",
+      "tag_category": null
+    },
+    {
+      "tag": "bushwacker",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "American",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Caribbean",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Burgers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sandwiches",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "13818 Perdido Key Dr",
+  "menus": [],
+  "reviews": 0,
+  "businesses": [
+    {
+      "source": "pensacola-other.json",
+      "name": "Islander Food Shack",
+      "phone": "(850) 378-8202",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:25.463Z"
 }

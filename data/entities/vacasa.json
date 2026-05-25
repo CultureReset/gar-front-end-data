@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Vacasa is North America's #1 vacation rental partner, providing expert care to more than 40,000 vacation homes in the most sought-after guest destinations. We're dedicated to providing the most comprehensive care for our homeowners, so they can rent with confidence knowing that our local and national teams are with them every step of the way. Our owners benefit from Vacasa's 360-degree revenue management, which yields more bookings than our competitors in 92% of the markets we serve. Our nightly rates are determined by the industry's fastest and most precise data and forecasting, fueled by billions of data points on guest demand, available properties and even local events and weather. Guests can find our wide range of properties—from tiny houses to resort condos to large, family-friendly homes—in more places guests are looking and booking through our direct partnerships with Airbnb, Vrbo and Booking.com, as well as exclusive platforms including American Express Select Homes + Retreats and Homes & Villas by Marriott Bonvoy. Owners and guests alike can rest easy upon arrival at a clean, comfortable and well-maintained home each and every stay. From secure e-locks, to 24/7 on-the-ground-support, we're ready to welcome you to your next five-star stay. Vacasa was born around a dining room table. It began in 2009, when our founder struggled to find a property manager that could offer both professional care and strong financial returns for a family vacation home on the Washington coast. He knew there had to be a better way to care for vacation homes and provide guests with an exceptional experience. So he decided to give the vacation rental industry a renovation. The market was ready for a company with a forward-thinking approach—using technology and data to enable local teams to care for homes and guests, while maximizing revenue for homeowners. Vacasa quickly grew from one house on the Washington coast to servicing homes across North America. Today, Vacasa is the leading full-service vacation rental management company in North America.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,295 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Plantation",
+      "tag_category": null
+    },
+    {
+      "tag": "condo rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "oceanfront",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "Fort Morgan",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "short-term rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "property management",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation homes",
+      "tag_category": null
+    },
+    {
+      "tag": "Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Condo Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Oceanfront Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Property Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    },
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "beach homes",
+      "tag_category": null
+    },
+    {
+      "tag": "condos",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf shores",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "property management",
+      "tag_category": null
+    },
+    {
+      "tag": "short-term rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "dog-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "pet-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "WiFi",
+      "tag_category": null
+    },
+    {
+      "tag": "hot tub",
+      "tag_category": null
+    },
+    {
+      "tag": "pool",
+      "tag_category": null
+    },
+    {
+      "tag": "oceanfront",
+      "tag_category": null
+    },
+    {
+      "tag": "water view",
+      "tag_category": null
+    },
+    {
+      "tag": "snowbird",
+      "tag_category": null
+    },
+    {
+      "tag": "long-term rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Property Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Short-Term Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Tourism",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Resorts & Hotels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "vacation-rental-management",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    },
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "property management",
+      "tag_category": null
+    },
+    {
+      "tag": "short-term rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation homes",
+      "tag_category": null
+    },
+    {
+      "tag": "resort rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "holiday rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "furnished rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal properties",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "travel accommodations",
+      "tag_category": null
+    },
+    {
+      "tag": "home sharing",
+      "tag_category": null
+    },
+    {
+      "tag": "full-service rental management",
+      "tag_category": null
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Property Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Travel & Tourism",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Real Estate Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Short-Term Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hospitality",
+      "tag_category": "category"
+    },
+    {
+      "tag": "travel-hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "+1-800-544-0300",
+  "email": "privacy@vacasa.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "portland-accommodations.json",
+      "name": "Vacasa",
+      "phone": "+1-800-544-0300",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.374Z"
 }

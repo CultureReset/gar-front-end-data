@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "The Flora-Bama Yacht Club has become almost as legendary as the bar across the street. Guest and food critics are always amazed at the unique and scrumptious offerings on the menu. When you combine the food with the warm service, fantastic waterfront settings and live music... well it doesn't get any better. Located on the line between Orange Beach and Perdido Key, the Flora-Bama Yacht Club is a \"Must Visit Often\" location on the coast. At the Flora-Bama Yacht Club we pride ourselves in using fresh local seafood and locally grown ingredients. Our team takes the time to seek out area farms and seafood houses who believe in the same fresh standards. We also participate in the Oyster Shell Recycling Program because we strive to better our local environment. The program will recycle oyster shells from restaurants and get them back into Alabama waters, enhancing oyster production among other benefits. You can come by boat, car, paddleboard, float... as long as you get here. We are known for our original menu items and local seafood. There is something for almost everyone. Our award winning Chefs and the friendly staff make every dining experience fun. We have large outdoor deck and beach area. Relax on our sand and listen to the fantastic music from local and visiting musicians. Nothing like a dinner and Bushwacker at the FBYC. We are proud to offer local Isle Dauphine Oysters at all Flora-Bama locations. Sample one of the best southern delicacies.",
-  "phone": null,
+  "phone": "(850) 483-6272",
   "email": "info@florabama.com",
   "website_url": "https://www.florabamayachtclub.com",
   "address_line_1": "17350 Perdido Key Drive",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,112 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "oysters",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront dining",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Perdido Key",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh local ingredients",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "tacos",
+      "tag_category": null
+    },
+    {
+      "tag": "shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "crab",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "steakhouse",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "MASTER-BUSINESSES-WITH-EVENTS.json",
+      "name": "Flora-Bama Yacht Club",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:23.544Z"
 }

@@ -6,18 +6,61 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Upon entering Kitty's Kafe, locals and visitors alike are greeted by a warm, friendly, casual family atmosphere. Whether joining us for a Southern Style Country Breakfast, enjoying one of our many delicious lunch items, or one of our scrumptious entrees, our food is prepared daily from the freshest ingredients. We invite you to dine with us, and enjoy a cocktail from our full service bar.",
-  "phone": null,
+  "phone": "(251) 948-5233",
   "email": null,
   "website_url": "https://kittyskafe.com",
   "address_line_1": "",
   "city": "",
   "state": "",
   "zip": null,
-  "rating": 4,
+  "rating": 4.6,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,94 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "southern-cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "lunch",
+      "tag_category": null
+    },
+    {
+      "tag": "dinner",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "full-bar",
+      "tag_category": null
+    },
+    {
+      "tag": "local",
+      "tag_category": null
+    },
+    {
+      "tag": "country-cooking",
+      "tag_category": null
+    },
+    {
+      "tag": "home-style-meals",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Breakfast",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Southern Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Lounges",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Local Favorites",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "3800 Gulf Shores Pkwy #100",
+  "menus": [],
+  "website": "http://www.kittyskafe.com/",
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "Kitty's Kafe",
+      "phone": "(251) 948-5233",
+      "address": "",
+      "placeId": "",
+      "website": "http://www.kittyskafe.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:25.880Z"
 }

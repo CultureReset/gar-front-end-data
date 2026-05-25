@@ -4,9 +4,40 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Hancock Whitney Bank was founded over a century ago with one mission: To help the people of the Gulf South reach their financial goals and dreams and achieve the quality of life we all cherish. Our founders created an institution anchored in values, reinforced with the strength and resilience of the people of the gulf coast, and focused on growth and opportunity. Today, Hancock Whitney carries on that remarkable legacy as one of America's strongest, safest banks serving one of the nation's most vibrant corridors. Our service area includes over 200 full-service financial centers in Mississippi, Louisiana, Alabama, Florida and Texas, plus nearly 300 ATMs throughout the region. We offer a full array of banking services, including checking and savings accounts, online and mobile banking, credit cards, loans, mortgages, and wealth management and private banking services to individuals and large and small businesses. But Hancock Whitney is more than simply a bank; we're a trusted financial partner committed to creating opportunities for the people and communities we serve in the scenic coastal region we call home.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "17:30",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +48,102 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "banking",
+      "tag_category": null
+    },
+    {
+      "tag": "financial-services",
+      "tag_category": null
+    },
+    {
+      "tag": "checking-accounts",
+      "tag_category": null
+    },
+    {
+      "tag": "savings-accounts",
+      "tag_category": null
+    },
+    {
+      "tag": "mortgages",
+      "tag_category": null
+    },
+    {
+      "tag": "loans",
+      "tag_category": null
+    },
+    {
+      "tag": "credit-cards",
+      "tag_category": null
+    },
+    {
+      "tag": "wealth-management",
+      "tag_category": null
+    },
+    {
+      "tag": "atm",
+      "tag_category": null
+    },
+    {
+      "tag": "online-banking",
+      "tag_category": null
+    },
+    {
+      "tag": "mobile-banking",
+      "tag_category": null
+    },
+    {
+      "tag": "Banks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Financial Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Personal Banking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Business Banking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Commercial Banking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wealth Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "ATM Locations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "financial-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "bank",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "phone": "(251) 967-1212",
+  "businesses": [
+    {
+      "source": "gulf-shores-other.json",
+      "name": "Hancock Whitney Bank at Gulf Shores",
+      "phone": "(251) 967-1212",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.713Z"
 }

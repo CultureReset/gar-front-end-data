@@ -94,7 +94,6 @@ router.get('/entities', (req, res) => {
   const response = { entities: paged, businesses: paged, total: entities.length };
 
   // Cache the response
-  const cacheKey = `entities:${JSON.stringify(req.query)}`;
   req.app.setCache(cacheKey, response);
   res.set('X-Cache', 'MISS');
   res.json(response);

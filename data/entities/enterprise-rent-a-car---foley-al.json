@@ -4,9 +4,46 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Enterprise Rent-A-Car is part of the world's largest car rental provider, as measured by revenue, fleet, and employees. The Foley location at 3410 S McKenzie St offers convenient car rental services with a wide selection of vehicles including economy cars, full-size sedans, SUVs, minivans, and pickup trucks. Enterprise provides excellent customer service, competitive rates, and flexibility for all your transportation needs - whether you need a short-term rental, one-way rental, long-term rental, or specialty vehicle.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "08:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "08:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "08:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "08:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "08:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "09:00",
+      "close_time": "12:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +54,87 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "car rental",
+      "tag_category": null
+    },
+    {
+      "tag": "vehicle rental",
+      "tag_category": null
+    },
+    {
+      "tag": "truck rental",
+      "tag_category": null
+    },
+    {
+      "tag": "van rental",
+      "tag_category": null
+    },
+    {
+      "tag": "exotic cars",
+      "tag_category": null
+    },
+    {
+      "tag": "one-way rental",
+      "tag_category": null
+    },
+    {
+      "tag": "long-term rental",
+      "tag_category": null
+    },
+    {
+      "tag": "business rental",
+      "tag_category": null
+    },
+    {
+      "tag": "affordable rates",
+      "tag_category": null
+    },
+    {
+      "tag": "locations nationwide",
+      "tag_category": null
+    },
+    {
+      "tag": "Car Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Truck Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Van Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Exotic Car Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Used Car Sales",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fleet Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Transportation Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "automotive-rental",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "phone": "+1 251-943-3888"
 }

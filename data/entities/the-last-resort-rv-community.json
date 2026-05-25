@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "There's a Reason We Call It The Last Resort. The Last Resort wasn't created as a place to rush through. It was designed for those moments when you slow down and think, this feels right. We noticed that so many RV parks felt temporary—somewhere to stop before moving on. We wanted something different. A place that works whether you're staying for a season, a while, or something in between. So we built The Last Resort with intention. Spacious lots. Thoughtful amenities. A welcoming atmosphere where neighbors wave, conversations come easy, and days don't feel so hurried. Some guests come for a short stay. Others settle in for the season. And for those ready to make it their own, lot ownership is an option too. However long you're here, the goal is the same—to feel comfortable, welcome, and right at home. That's why we call it The Last Resort. Not because it's your last option—but because, for many, it's the place that finally fits.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "10:30",
+      "close_time": "14:30",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,107 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "RV park",
+      "tag_category": null
+    },
+    {
+      "tag": "RV lots",
+      "tag_category": null
+    },
+    {
+      "tag": "RV community",
+      "tag_category": null
+    },
+    {
+      "tag": "RV rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "full hookups",
+      "tag_category": null
+    },
+    {
+      "tag": "Foley Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores nearby",
+      "tag_category": null
+    },
+    {
+      "tag": "seasonal stays",
+      "tag_category": null
+    },
+    {
+      "tag": "long-term RV",
+      "tag_category": null
+    },
+    {
+      "tag": "RV lots for sale",
+      "tag_category": null
+    },
+    {
+      "tag": "RV lots for rent",
+      "tag_category": null
+    },
+    {
+      "tag": "amenities",
+      "tag_category": null
+    },
+    {
+      "tag": "pool",
+      "tag_category": null
+    },
+    {
+      "tag": "pickleball",
+      "tag_category": null
+    },
+    {
+      "tag": "Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "RV Parks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-481-8889",
+  "email": "info@gatewayparkmanagement.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "foley-accommodations.json",
+      "name": "The Last Resort RV Community",
+      "phone": "251-481-8889",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.402Z"
 }

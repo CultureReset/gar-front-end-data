@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,30 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "resort",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Beach Club Resort",
+      "phone": "",
+      "address": {
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "https://www.beachclubresort.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.820Z"
 }

@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Zales Outlet carries a unique selection of quality jewelry, including famous-maker watches, certified diamond engagement rings and on-trend fashion jewelry. You will also find a variety of exclusive designer collections, as well as close-out and discontinued styles at special value pricing. Set up an appointment today to browse the best fine jewelry selection of engagement rings, wedding bands, promise rings, gold chains, necklaces, earrings, bracelets, and watches.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "18:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,118 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "jewelry",
+      "tag_category": null
+    },
+    {
+      "tag": "engagement rings",
+      "tag_category": null
+    },
+    {
+      "tag": "wedding bands",
+      "tag_category": null
+    },
+    {
+      "tag": "diamonds",
+      "tag_category": null
+    },
+    {
+      "tag": "necklaces",
+      "tag_category": null
+    },
+    {
+      "tag": "earrings",
+      "tag_category": null
+    },
+    {
+      "tag": "bracelets",
+      "tag_category": null
+    },
+    {
+      "tag": "watches",
+      "tag_category": null
+    },
+    {
+      "tag": "fine jewelry",
+      "tag_category": null
+    },
+    {
+      "tag": "custom jewelry",
+      "tag_category": null
+    },
+    {
+      "tag": "lab-grown diamonds",
+      "tag_category": null
+    },
+    {
+      "tag": "gemstones",
+      "tag_category": null
+    },
+    {
+      "tag": "luxury jewelry",
+      "tag_category": null
+    },
+    {
+      "tag": "bridal",
+      "tag_category": null
+    },
+    {
+      "tag": "gift jewelry",
+      "tag_category": null
+    },
+    {
+      "tag": "Jewelry Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Engagement Rings",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wedding & Bridal",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fine Jewelry",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Watches",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "retail",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "jewelry-store",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "+12519701171",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "foley-shopping.json",
+      "name": "Zales",
+      "phone": "+12519701171",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.738Z"
 }

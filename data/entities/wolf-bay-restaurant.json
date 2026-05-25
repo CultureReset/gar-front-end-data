@@ -5,7 +5,7 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Wolf Bay is a family-owned Gulf Coast tradition known for its high quality fresh seafood & local ambience. Its rich history began as a bait shop nestled in the trees along the beautiful waters of Wolf Bay in Elberta, Alabama in the 1940's. Charlie & Sandra Wrape purchased it in 1973. Through their hard work & determination, they began serving a full menu of delicious seafood recipes – many of which were created by ladies that worked there or lived nearby. Although the restaurant was \"off the beaten path,\" it soon became a favorite among the locals & area visitors alike. On December 7th, 2008 the original lodge was completely destroyed by fire. It has since reopened in two locations – Foley, Alabama and Orange Beach, Alabama. These new locations, with their laid back atmosphere and awesome menu items, have become favorites among both locals and the many visitors to the Alabama Gulf Coast. Wolf Bay is known for being a local seafood tradition, and prides itself in serving high quality, fresh meals in a family-friendly atmosphere. Furthermore, many of the dishes enjoyed today are recipes from the Wrapes' original menu including the seafood gumbo, crab stuffing, stuffed shrimp, stuffed whole flounder and many of our salad dressings. \"Thank you for choosing Wolf Bay. I know you have a lot of dining choices. I am honored you chose to dine with us. Because of you, I'm able to carry on the legacy my parents started. They believed that great food requires hard work and attention to detail. As always your seafood is hand battered and cooked to order. Our recipes are from scratch. We hope you enjoy your meal and come back again to be part of the Wolf Bay tradition.\" —Char Haber",
   "phone": "251-987-5129",
   "email": null,
   "website_url": null,
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,140 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "family-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "local tradition",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "salad bar",
+      "tag_category": null
+    },
+    {
+      "tag": "fried shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "gumbo",
+      "tag_category": null
+    },
+    {
+      "tag": "steaks",
+      "tag_category": null
+    },
+    {
+      "tag": "prime rib",
+      "tag_category": null
+    },
+    {
+      "tag": "grouper",
+      "tag_category": null
+    },
+    {
+      "tag": "mullet",
+      "tag_category": null
+    },
+    {
+      "tag": "catfish",
+      "tag_category": null
+    },
+    {
+      "tag": "happy hour",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "private dining",
+      "tag_category": null
+    },
+    {
+      "tag": "bar",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "foley-restaurants.json",
+      "name": "Wolf Bay Restaurant",
+      "phone": "251-987-5129",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.716Z"
 }

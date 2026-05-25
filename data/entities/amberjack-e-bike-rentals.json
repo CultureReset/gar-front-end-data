@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,96 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "e-bike rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "bike rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf shores",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "trail access",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor recreation",
+      "tag_category": null
+    },
+    {
+      "tag": "eco-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "transportation",
+      "tag_category": null
+    },
+    {
+      "tag": "adventure",
+      "tag_category": null
+    },
+    {
+      "tag": "Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bike Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Transportation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Shores Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Amberjack E-Bike Rentals",
+      "phone": "",
+      "address": {
+        "city": "Gulf Shores",
+        "state": "Alabama",
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "https://www.amberjackebikerentals.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.786Z"
 }

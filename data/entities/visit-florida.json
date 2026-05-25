@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "VISIT FLORIDA, the state's official tourism marketing corporation, serves as Florida's official source for travel planning to visitors across the globe. The website features comprehensive information about Florida's 1,300 miles of coastline, thousands of beaches, attractions, theme parks, dining experiences, shopping destinations, events, and accommodations. From natural wonders and pristine beaches to fantastical theme parks and cultural attractions, VISIT FLORIDA provides detailed guides for planning the perfect vacation in Florida.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,149 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "florida tourism",
+      "tag_category": null
+    },
+    {
+      "tag": "travel guide",
+      "tag_category": null
+    },
+    {
+      "tag": "beaches",
+      "tag_category": null
+    },
+    {
+      "tag": "theme parks",
+      "tag_category": null
+    },
+    {
+      "tag": "attractions",
+      "tag_category": null
+    },
+    {
+      "tag": "events",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation planning",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "atlantic coast",
+      "tag_category": null
+    },
+    {
+      "tag": "family vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "beach vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor adventures",
+      "tag_category": null
+    },
+    {
+      "tag": "water sports",
+      "tag_category": null
+    },
+    {
+      "tag": "dining",
+      "tag_category": null
+    },
+    {
+      "tag": "shopping",
+      "tag_category": null
+    },
+    {
+      "tag": "accommodations",
+      "tag_category": null
+    },
+    {
+      "tag": "Travel & Tourism",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beaches",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Events & Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Travel Guides",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Theme Parks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hotels & Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Sports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "State Parks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "attractions",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "email": "partner@VISITFLORIDA.org",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "VISIT FLORIDA",
+      "phone": "",
+      "address": {
+        "city": "Florida",
+        "state": "FL",
+        "coordinates": {
+          "lat": 27.6648,
+          "lng": -81.5158
+        }
+      },
+      "placeId": "",
+      "website": "https://www.visitflorida.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:34.363Z"
 }

@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Whether you are planning a weekend getaway to the Pensacola Bay Area or a long vacation stay, let Visit Pensacola help make your vacation the best possible! With world famous sugar white sand and emerald green waters you'll never want to leave paradise. The Pensacola Bay Area is famous for its natural beauty and historic culture. From the hustle and bustle of the Uptown area to the brick-paved sidewalks of Downtown to miles and miles of shoreline - museums, outdoor activities, fine dining, festivals, concerts, and award-winning sugar-white beaches are only a glimpse of what Pensacola has in store for you.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "24/7",
+      "close_time": "24/7",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "24/7",
+      "close_time": "24/7",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "24/7",
+      "close_time": "24/7",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "24/7",
+      "close_time": "24/7",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "24/7",
+      "close_time": "24/7",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "24/7",
+      "close_time": "24/7",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "24/7",
+      "close_time": "24/7",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,99 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "beaches",
+      "tag_category": null
+    },
+    {
+      "tag": "Pensacola Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Perdido Key",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Islands National Seashore",
+      "tag_category": null
+    },
+    {
+      "tag": "sugar-white sand",
+      "tag_category": null
+    },
+    {
+      "tag": "tourism",
+      "tag_category": null
+    },
+    {
+      "tag": "visitor information",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "water activities",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal destination",
+      "tag_category": null
+    },
+    {
+      "tag": "Tourism & Travel",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Visitor Information Centers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beaches",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Events & Festivals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "tourism",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "attractions",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(800) 874-1234",
+  "email": "enews@visitpensacola.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "pensacola-attractions.json",
+      "name": "Visit Pensacola",
+      "phone": "(800) 874-1234",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.409Z"
 }

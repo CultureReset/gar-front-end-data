@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Moe's Original BBQ was founded by Mike Fernandez, Ben Gilbert and Jeff Kennedy. After meeting at the University of Alabama, they instantly became friends and had a mutual interest in all things Southern: BBQ, blues, college football, and whiskey. In 1988, Mike learned to fire roast meats from Tuscaloosa legend Moses Day, whose distinct style makes up Moe's original flavor of BBQ. Eventually the founding partners all relocated to Vail, CO, where each refined their cooking skills. Together, they created something special by using fruit wood to smoke their meats and complementing them with two sauces. A trip to Moe's Original BBQ means a chance to slow down, make connections and enjoy our quality recipes passed down for generations. When you dine at Moe's, you're always the guest. The Moe's Original team takes pride in ensuring that their customers enjoy themselves as much as their meal. Expect to be served top notch BBQ, soulful sides and a beer or bushwacker complemented by a smile and thank you. Today, Moe's Original BBQ has been named in the Top 10 BBQ Chains in America by USA Today and The Daily Meal, one of the fastest growing, emerging restaurant chains by Restaurant Business Magazine, and one of the Top 10 Rib Joints in the U.S. by Relish. The Orange Beach location, in the mid-2000s, was partnered with Mark \"Pinto\" White to test the BBQ waters of Alabama and it turned out to be a success. Since then, partners Lee Nelson and Matt Lovato joined Mark to keep the beach BBQ joint running smoothly. After an extensive fire in 2020, an Ole Hickory smoking pit was added along with more square footage to make the dining room, bathrooms and kitchen larger. There is now seating for 110, inside and outdoors. Additionally, salads, bushwackers and liquor drinks are available. Guests dining in now receive buzzers while waiting for their orders. Take out customers are texted when orders are ready and can grab them quickly from a designated pick up window. We also feature live music in the backyard when weather permits.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "19:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,146 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "BBQ",
+      "tag_category": null
+    },
+    {
+      "tag": "barbecue",
+      "tag_category": null
+    },
+    {
+      "tag": "smoked meats",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama BBQ",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "bushwackers",
+      "tag_category": null
+    },
+    {
+      "tag": "pulled pork",
+      "tag_category": null
+    },
+    {
+      "tag": "ribs",
+      "tag_category": null
+    },
+    {
+      "tag": "chicken",
+      "tag_category": null
+    },
+    {
+      "tag": "sausage",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "beach restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "southern food",
+      "tag_category": null
+    },
+    {
+      "tag": "smokehouse",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "BBQ",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Food & Drink",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 981-7427",
+  "email": "lee@moesoriginalbbq.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "jsonld.json",
+      "name": "Moe's Original BBQ - Orange Beach",
+      "phone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Orange Beach"
+      },
+      "placeId": "",
+      "website": ""
+    },
+    {
+      "source": "orange-beach-attractions.json",
+      "name": "Moe's Original BBQ Orange Beach",
+      "phone": "(251) 981-7427",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:26.980Z"
 }

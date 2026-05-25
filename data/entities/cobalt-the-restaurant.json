@@ -13,11 +13,11 @@
   "city": "",
   "state": "",
   "zip": null,
-  "rating": 4,
+  "rating": 4.5,
   "review_count": null,
   "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN0zS7Ig3Adah2f8vDv0kp8SBIwNbSpeiLc-awATrXKibO8Uz8re8gqV0B5LjKuuO-J9_rt3SM8zYyY4TJBxbCNyjxY8aqTp7xW8tjZ_YwWb_oP_gyuJvm3zPDioAPz1pUnji4U92lNJ01eRphjvfzUfnNxtg0cX4tQuZn2a9bDqxIHDCX12-O133fLZvtvHpfGMR_QQY7JWVaAArzonBXU1GX6klyM8R7txqZi6775-ENFKzOvxZvcwR-jTSXlz-uIUiO3GJbDxrYTEDETon3t4BAezE6jHHTDysly0bAsLdP1Pmv4KsXw4yX7K_SuEqKkRodKZUdooEfyWbvH29XnQwJHKsFHQQi38qWojmDTcCsEFRD3e2BDlqOWzYINSBw2dBHzHrVy_eH727cZlHBuohBps-kMW7DuoNJVqZ_J-Ms2YDA1Fo-Ul1BVRT626&key=AIzaSyA53S45dU9xRY5D-YKfEPPIHA1cP_nBvTY",
   "photos": [],
-  "hours": [],
+  "hours": "Monday: 11:00 AM – 9:30 PM; Tuesday: 11:00 AM – 9:30 PM; Wednesday: 11:00 AM – 9:30 PM; Thursday: 11:00 AM – 9:30 PM; Friday: 11:00 AM – 10:00 PM; Saturday: 11:00 AM – 10:00 PM; Sunday: 11:00 AM – 9:30 PM",
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +26,175 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal-cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "contemporary",
+      "tag_category": null
+    },
+    {
+      "tag": "happy-hour",
+      "tag_category": null
+    },
+    {
+      "tag": "live-music",
+      "tag_category": null
+    },
+    {
+      "tag": "brunch",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "orange-beach",
+      "tag_category": null
+    },
+    {
+      "tag": "bay-view",
+      "tag_category": null
+    },
+    {
+      "tag": "dock-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fine Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Coastal Cuisine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Happy Hour",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Live Music",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Brunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "pizza",
+      "tag_category": null
+    },
+    {
+      "tag": "breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "full-bar",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Full Bar",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "28099 Perdido Beach Blvd",
+  "menus": [],
+  "website": "http://www.cobaltrestaurant.net/",
+  "google_places_id": "ChIJs5Kz5JwHmogRyeMoXBx1gX8",
+  "businesses": [
+    {
+      "source": "orange-beach-restaurants.json",
+      "name": "Cobalt The Restaurant",
+      "phone": "2519235300",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.407Z"
 }

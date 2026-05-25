@@ -6,7 +6,50 @@
   "icon": "🏪",
   "description": "",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,58 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "real estate",
+      "tag_category": null
+    },
+    {
+      "tag": "properties",
+      "tag_category": null
+    },
+    {
+      "tag": "contact",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "Real Estate",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Property Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "real-estate",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "real-estate",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-752-7664",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "2_gcr-businesses-COMPLETE_json.json",
+      "name": "REALSOUTH PROPERTIES",
+      "phone": "251-752-7664",
+      "address": "",
+      "placeId": "",
+      "website": "http://www.realsouth.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.525Z"
 }

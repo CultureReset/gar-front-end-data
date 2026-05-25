@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "The Gulf is the seaside hideaway you dreamed you'd find for a gathering of friends, family or loved ones. A truly enchanting seaside setting with a chic and casual ambience that makes everyone comfortable and welcome. The elegant rustic cuisine has made the Gulf a destination experience with seasonal menus featuring the freshest local ingredients. The bar seems to anticipate the mood and mixture of the moment and with genuine thoughtfulness the staff sets just the appropriate tone. The design features shipping containers, reclaimed, recycled and salvaged building materials that contrast attractively and good-naturedly with the sand, surf and palms. Gulf Coast scenery, amazing food, and handcrafted cocktails— plus fresh catch, chef specials, and a waterfront view of the GULF that never gets old.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,106 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "fine-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "handcrafted-cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh-catch",
+      "tag_category": null
+    },
+    {
+      "tag": "chef-specials",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-coast",
+      "tag_category": null
+    },
+    {
+      "tag": "seasonal-menu",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "event-venue",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fine Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cocktail Bar",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-424-1800",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-attractions.json",
+      "name": "The Gulf Orange Beach",
+      "phone": "251-424-1800",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.356Z"
 }

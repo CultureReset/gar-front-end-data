@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Lively music, a vibrant crowd, inventive cocktails and the best sushi in Gulf Shores. You know when you're in Mikato Japanese Steakhouse because there's no other place like it. Order up the freshest sushi caught daily from the Gulf. Delight in our signature rolls or amazing Japanese fusion cuisine. Whatever you choose, it's all served with a big side of Anything Can Happen. So bring your friends or make new ones. Either way, you're in for a great time. Hibachi-style has come to signify grilled Japanese-style cuisine, the grills they're cooked on, and even the restaurants themselves. Sushi, the artful dining experience once uniquely Japanese, has now evolved to another level beyond the traditional Japanese methods. Experience rare spirits and handcrafted cocktails curated uniquely for your taste at our Cocktail Bar.",
-  "phone": null,
+  "phone": "(251) 968-2525",
   "email": null,
   "website_url": "http://mikatojapanese.com/",
   "address_line_1": "3800 Gulf Shores Pkwy, Ste 200",
@@ -17,7 +17,44 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "16:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "16:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "16:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "16:00",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "16:00",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "16:00",
+      "close_time": "22:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,104 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "Japanese steakhouse",
+      "tag_category": null
+    },
+    {
+      "tag": "hibachi",
+      "tag_category": null
+    },
+    {
+      "tag": "sushi",
+      "tag_category": null
+    },
+    {
+      "tag": "Japanese fusion",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "fine dining",
+      "tag_category": null
+    },
+    {
+      "tag": "teppanyaki",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "sake bar",
+      "tag_category": null
+    },
+    {
+      "tag": "Japanese cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Japanese",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Steakhouse",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sushi",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fine Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hibachi",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-entertainment.json",
+      "name": "Mikato Japanese Steakhouse",
+      "phone": "(251) 968-2525",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:26.813Z"
 }

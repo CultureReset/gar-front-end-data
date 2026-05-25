@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Discover authentic Gulf Coast cuisine amidst an intimate setting and panoramic Gulf views while dining at Voyagers. Located in Orange Beach, Alabama, Voyagers features a seasonal menu consisting of local produce, sustainable seafood, and organic meats reflecting the flavors of the Orange Beach region. The combination of spectacular views, an award-winning wine list, local gulf caught seafood and dry aged steaks make Voyagers a unique culinary destination. Chef Brody Olive's skillfully prepared and perfectly executed dishes are accompanied by first class service. Voyagers' floor to ceiling windows, contemporary décor, and relaxing background music create a tranquil ambiance. Specializing in fresh coastal cuisine, Voyagers features the Gulf Wild brand which ensures that all seafood served is responsibly caught and harvested by local fisherman operating in the Gulf of Mexico.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "17:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "17:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "17:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "17:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "17:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "17:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "17:00",
+      "close_time": "22:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,113 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "steaks",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-coast",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "fine-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "romantic",
+      "tag_category": null
+    },
+    {
+      "tag": "orange-beach",
+      "tag_category": null
+    },
+    {
+      "tag": "panoramic-views",
+      "tag_category": null
+    },
+    {
+      "tag": "seasonal-menu",
+      "tag_category": null
+    },
+    {
+      "tag": "wine-list",
+      "tag_category": null
+    },
+    {
+      "tag": "private-events",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fine Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Steakhouse",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Cuisine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Private Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Brunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 981-9811",
+  "website": "https://voyagersrestaurant.com/",
+  "address": "27200 Perdido Beach Blvd #3205",
+  "rating": 4.7,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-other.json",
+      "name": "Voyagers",
+      "phone": "251-981-9811",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.409Z"
 }

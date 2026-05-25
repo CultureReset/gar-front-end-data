@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "The Alabama State Parks Division operates and maintains 21 state parks encompassing approximately 48,000 acres of land and water in Alabama. The parks range from Gulf Coast beaches to Appalachian Mountains providing opportunities and facilities from basic day-use activities to resort convention lodging, restaurant and golfing areas. Mission: To acquire and preserve natural areas; to develop, furnish, operate and maintain recreational facilities, and to extend the public's knowledge of the state's natural environment. Goals: To manage and operate the parks system in an economically sound and efficient manner on the most self-sustaining basis possible. To provide and maintain high quality facilities and services to meet the needs of visitors; to provide an opportunity for personal growth and development of individuals through outdoor experiences. To promote use of state parks facilities. To preserve unique natural features and integrity of state parks for future generations. To promote good will and enhance the public image of Alabama, and the Alabama State Parks through dedicated, courteous employees.",
-  "phone": null,
+  "phone": "1-800-ALA-PARK (252-7275)",
   "email": "civilrightsassistance@dcnr.alabama.gov",
   "website_url": "https://www.alapark.com",
   "address_line_1": "64 North Union St., Room 538",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,160 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "state parks",
+      "tag_category": null
+    },
+    {
+      "tag": "camping",
+      "tag_category": null
+    },
+    {
+      "tag": "hiking",
+      "tag_category": null
+    },
+    {
+      "tag": "fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor recreation",
+      "tag_category": null
+    },
+    {
+      "tag": "nature",
+      "tag_category": null
+    },
+    {
+      "tag": "trails",
+      "tag_category": null
+    },
+    {
+      "tag": "RV camping",
+      "tag_category": null
+    },
+    {
+      "tag": "cabins",
+      "tag_category": null
+    },
+    {
+      "tag": "lodging",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "Appalachian Mountains",
+      "tag_category": null
+    },
+    {
+      "tag": "cave tours",
+      "tag_category": null
+    },
+    {
+      "tag": "zip lines",
+      "tag_category": null
+    },
+    {
+      "tag": "water sports",
+      "tag_category": null
+    },
+    {
+      "tag": "picnic areas",
+      "tag_category": null
+    },
+    {
+      "tag": "group events",
+      "tag_category": null
+    },
+    {
+      "tag": "educational programs",
+      "tag_category": null
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Parks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Camping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hiking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fishing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nature",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Educational",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Event Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Sports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "attractions",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Alabama State Parks",
+      "phone": "1-800-ALA-PARK (252-7275)",
+      "address": {
+        "street": "64 North Union St., Room 538",
+        "city": "Montgomery",
+        "state": "AL"
+      },
+      "placeId": "",
+      "website": "https://www.alapark.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.784Z"
 }

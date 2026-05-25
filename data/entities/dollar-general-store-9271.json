@@ -4,9 +4,52 @@
   "entity_type": "shopping",
   "entity_subtype": "stores",
   "icon": "🏪",
-  "description": "",
+  "description": "DG is proud to be America's neighborhood general store. We strive to make shopping hassle-free and affordable with more than 20,000 convenient, easy-to-shop stores in 48 states. Our stores deliver everyday low prices on items including food, snacks, health and beauty aids, cleaning supplies, basic apparel, housewares, seasonal items, paper products and much more from America's most-trusted brands and products, along with high-quality private brands. From serving our customers with value and convenience and our employees with career opportunities to serving the communities we call home through literacy and education, Dollar General has been committed to its mission of Serving Others since the company's founding in 1939.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "8:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "8:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "8:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "8:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "8:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "8:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "8:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,139 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "dollar store",
+      "tag_category": null
+    },
+    {
+      "tag": "discount retail",
+      "tag_category": null
+    },
+    {
+      "tag": "general merchandise",
+      "tag_category": null
+    },
+    {
+      "tag": "everyday essentials",
+      "tag_category": null
+    },
+    {
+      "tag": "budget shopping",
+      "tag_category": null
+    },
+    {
+      "tag": "food and beverage",
+      "tag_category": null
+    },
+    {
+      "tag": "health and beauty",
+      "tag_category": null
+    },
+    {
+      "tag": "household supplies",
+      "tag_category": null
+    },
+    {
+      "tag": "cleaning products",
+      "tag_category": null
+    },
+    {
+      "tag": "seasonal items",
+      "tag_category": null
+    },
+    {
+      "tag": "office supplies",
+      "tag_category": null
+    },
+    {
+      "tag": "toys",
+      "tag_category": null
+    },
+    {
+      "tag": "pet supplies",
+      "tag_category": null
+    },
+    {
+      "tag": "apparel",
+      "tag_category": null
+    },
+    {
+      "tag": "electronics",
+      "tag_category": null
+    },
+    {
+      "tag": "gift cards",
+      "tag_category": null
+    },
+    {
+      "tag": "DG Delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dollar Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "General Merchandise",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Discount Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Grocery & Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Health & Beauty",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Household Supplies",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Office & School Supplies",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Electronics",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Party & Seasonal",
+      "tag_category": "category"
+    },
+    {
+      "tag": "retail",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "retail",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "email": "digitalcare@dollargeneral.com",
+  "menus": [],
+  "phone": "(850) 308-1164",
+  "businesses": [
+    {
+      "source": "pensacola-shopping.json",
+      "name": "Dollar General Store #9271",
+      "phone": "(850) 308-1164",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:23.109Z"
 }

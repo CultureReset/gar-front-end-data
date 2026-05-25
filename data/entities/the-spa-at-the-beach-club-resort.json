@@ -4,9 +4,40 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Set inside The Beach Club Resort on the scenic Fort Morgan peninsula, our full-service Aveda spa is a place where pampering has a personal touch and premium all-natural products deliver skin and body care that makes you feel good, inside and out. Inspired by the natural surroundings of our coastal resort location, our newly-renovated retreat is a peaceful oasis where modern sophistication meets timeless self-care with private treatment spaces, calm and ambient lighting, soothing aromatherapy and inviting walk-in showers. Whether you choose just one service or fill a full day, we promise to delight you in every detail. Our team of licensed massage therapists and cosmetologists get to know every guest and craft custom spa experiences tailored to your needs. Let our team of highly-skilled professionals whisk you away to a new kind of bliss–one that leaves you feeling refreshed, recentered and renewed.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +48,143 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "spa",
+      "tag_category": null
+    },
+    {
+      "tag": "massage",
+      "tag_category": null
+    },
+    {
+      "tag": "facials",
+      "tag_category": null
+    },
+    {
+      "tag": "nail salon",
+      "tag_category": null
+    },
+    {
+      "tag": "hair salon",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "relaxation",
+      "tag_category": null
+    },
+    {
+      "tag": "wellness",
+      "tag_category": null
+    },
+    {
+      "tag": "luxury spa",
+      "tag_category": null
+    },
+    {
+      "tag": "full-service spa",
+      "tag_category": null
+    },
+    {
+      "tag": "Aveda",
+      "tag_category": null
+    },
+    {
+      "tag": "body treatments",
+      "tag_category": null
+    },
+    {
+      "tag": "skincare",
+      "tag_category": null
+    },
+    {
+      "tag": "manicures",
+      "tag_category": null
+    },
+    {
+      "tag": "pedicures",
+      "tag_category": null
+    },
+    {
+      "tag": "bridal services",
+      "tag_category": null
+    },
+    {
+      "tag": "CBD treatments",
+      "tag_category": null
+    },
+    {
+      "tag": "hot stone massage",
+      "tag_category": null
+    },
+    {
+      "tag": "all-natural products",
+      "tag_category": null
+    },
+    {
+      "tag": "Spas",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beauty & Wellness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Massage Therapy",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nail Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hair Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Day Spas",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Skincare Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Health & Wellness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "wellness-and-beauty",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "spa",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-224-2772",
+  "email": "spadesk@spectrumresorts.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-accommodations.json",
+      "name": "The Spa at The Beach Club Resort",
+      "phone": "251-224-2772",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.441Z"
 }

@@ -6,18 +6,61 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Mexican restaurant located in Gulf Shores, Alabama offering online ordering with pickup and delivery options.",
-  "phone": null,
+  "phone": "(251) 948-0550",
   "email": null,
   "website_url": "https://agavebargrillal.com/",
   "address_line_1": "3800 Gulf Shores Pkwy ste 370",
   "city": "Gulf Shores",
   "state": "AL",
   "zip": "36542",
-  "rating": 4,
+  "rating": 4.5,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00 am",
+      "close_time": "9:00 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00 am",
+      "close_time": "9:00 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00 am",
+      "close_time": "9:00 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00 am",
+      "close_time": "9:30 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00 am",
+      "close_time": "9:30 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00 am",
+      "close_time": "9:30 pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00 am",
+      "close_time": "9:00 pm",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,154 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "Mexican restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "Mexican food",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Bar and grill",
+      "tag_category": null
+    },
+    {
+      "tag": "Quesadillas",
+      "tag_category": null
+    },
+    {
+      "tag": "Dips",
+      "tag_category": null
+    },
+    {
+      "tag": "Salsa",
+      "tag_category": null
+    },
+    {
+      "tag": "Online ordering",
+      "tag_category": null
+    },
+    {
+      "tag": "Pickup",
+      "tag_category": null
+    },
+    {
+      "tag": "Delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Mexican",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Mexican restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "Mexican cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "bar and grill",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "online ordering",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Mexican",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Food & Drink",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "3800 Gulf Shores Pkwy # 370",
+  "menus": [],
+  "reviews": 0,
+  "businesses": [
+    {
+      "source": "gulf-shores-restaurants.json",
+      "name": "Agave Bar & Grill",
+      "phone": "(251) 257-3798",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:20.668Z"
 }

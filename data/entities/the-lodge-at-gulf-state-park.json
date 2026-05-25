@@ -4,9 +4,52 @@
   "entity_type": "park",
   "entity_subtype": "parks",
   "icon": "🏪",
-  "description": "",
+  "description": "The Lodge at Gulf State Park is a full-service resort with access to an array of amenities, activities, and facilities. Resting on the Gulf Coast, our eco-friendly resort offers plenty of things to do and amenities to enjoy. As a leader in the sustainable tourism movement, we are set up to make a difference. The 350 room Lodge at Gulf State Park features spacious rooms designed to elevate your stay with stunning views of Alabama's Gulf Coast or Lake Shelby. We offer five delicious dining venues to satisfy any cravings. Modern, flexible spaces with inspiring views are hallmarks of our meeting spaces. The Lodge was constructed to meet the elevated standards of LEED© Gold, SITES© Platinum, and FORTIFIED Commercial™ certifications. During construction, over six football fields of coastal dunes and native plant communities within the building site were protected.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "24 hours",
+      "close_time": "24 hours",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "24 hours",
+      "close_time": "24 hours",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "24 hours",
+      "close_time": "24 hours",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "24 hours",
+      "close_time": "24 hours",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "24 hours",
+      "close_time": "24 hours",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "24 hours",
+      "close_time": "24 hours",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "24 hours",
+      "close_time": "24 hours",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,108 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "gulf coast resort",
+      "tag_category": null
+    },
+    {
+      "tag": "eco-friendly hotel",
+      "tag_category": null
+    },
+    {
+      "tag": "sustainable tourism",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama hotels",
+      "tag_category": null
+    },
+    {
+      "tag": "golf shores accommodation",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf state park",
+      "tag_category": null
+    },
+    {
+      "tag": "family resort",
+      "tag_category": null
+    },
+    {
+      "tag": "conferences",
+      "tag_category": null
+    },
+    {
+      "tag": "meetings and events",
+      "tag_category": null
+    },
+    {
+      "tag": "Hotels & Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Meeting & Event Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Shores Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "hotel",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 540-4000",
+  "email": "info@lodgegsp.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "The Lodge at Gulf State Park",
+      "phone": "(251) 540-4000",
+      "address": {
+        "street": "21196 East Beach Blvd",
+        "city": "Gulf Shores",
+        "state": "AL",
+        "zip": "36542",
+        "coordinates": {
+          "lat": 30.250184,
+          "lng": -87.6644393
+        }
+      },
+      "placeId": "",
+      "website": "https://lodgeatgulfstatepark.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.826Z"
 }

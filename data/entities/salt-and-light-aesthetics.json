@@ -4,9 +4,46 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "My name is Magan McInnis. I am a licensed esthetician and owner operator of Salt and Light Aesthetics. I have always dreamed of being an entrepreneur thats core value is for women to feel good about themselves and feel beautiful in their own skin. I believe in healing the skin from the inside out.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "08:00",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "08:00",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "08:00",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "08:00",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "08:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "08:00",
+      "close_time": "13:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +54,111 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "esthetician",
+      "tag_category": null
+    },
+    {
+      "tag": "facial",
+      "tag_category": null
+    },
+    {
+      "tag": "skincare",
+      "tag_category": null
+    },
+    {
+      "tag": "waxing",
+      "tag_category": null
+    },
+    {
+      "tag": "lash services",
+      "tag_category": null
+    },
+    {
+      "tag": "brow services",
+      "tag_category": null
+    },
+    {
+      "tag": "chemical peels",
+      "tag_category": null
+    },
+    {
+      "tag": "dermaplane",
+      "tag_category": null
+    },
+    {
+      "tag": "microchanneling",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "beauty services",
+      "tag_category": null
+    },
+    {
+      "tag": "spa treatments",
+      "tag_category": null
+    },
+    {
+      "tag": "Spas & Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Esthetics",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Facial Treatments",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waxing Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lash & Brow Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Skincare",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beauty Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "health-and-beauty",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "spa",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "+12515042802",
+  "email": "saltandlightaesthetics@yahoo.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-other.json",
+      "name": "Salt And Light Aesthetics",
+      "phone": "+12515042802",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:28.542Z"
 }

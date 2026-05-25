@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "ONE Club Gulf Shores is a premier five-star resort and residence community located on 30+ acres in Gulf Shores, Alabama. The community features luxury apartments with 1, 2, and 3-bedroom floor plans, a championship-inspired 9-hole executive golf course, two resort-style pools (including a 21+ adult pool), state-of-the-art fitness center, pickleball courts, beach volleyball, Bar 45 restaurant and bar, and extensive indoor and outdoor amenities. ONE Club is open to everyone—no membership required to dine at Bar 45 or enjoy the community. The property offers both year-round apartment rentals and short-term vacation rentals within minutes of Gulf Shores' white sand beaches. With flexible memberships (Pool, Social Club, Golf Exclusive, and Ultimate Sport), curated resident events, and a vibrant community atmosphere, ONE Club serves active lifestyle enthusiasts, families, couples, snowbirds, and vacationers. The community has been voted the #1 place to live and vacation in Baldwin County for six consecutive years.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "8:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "8:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "8:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "8:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "8:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "12:00 PM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,127 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "luxury apartments",
+      "tag_category": null
+    },
+    {
+      "tag": "golf course",
+      "tag_category": null
+    },
+    {
+      "tag": "resort-style living",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Bar 45",
+      "tag_category": null
+    },
+    {
+      "tag": "fitness center",
+      "tag_category": null
+    },
+    {
+      "tag": "pools",
+      "tag_category": null
+    },
+    {
+      "tag": "pickleball",
+      "tag_category": null
+    },
+    {
+      "tag": "event venue",
+      "tag_category": null
+    },
+    {
+      "tag": "corporate events",
+      "tag_category": null
+    },
+    {
+      "tag": "weddings",
+      "tag_category": null
+    },
+    {
+      "tag": "family reunions",
+      "tag_category": null
+    },
+    {
+      "tag": "memberships",
+      "tag_category": null
+    },
+    {
+      "tag": "short-term rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "snowbird destination",
+      "tag_category": null
+    },
+    {
+      "tag": "Apartments",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Luxury Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Golf Courses",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Event Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fitness & Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "real-estate",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "apartment-community",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "+1-251-220-4404",
+  "email": "Leasing@ONEClubGulfshores.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-other.json",
+      "name": "ONE Club Gulf Shores",
+      "phone": "+1-251-220-4404",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.340Z"
 }

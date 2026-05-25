@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Fun for all ages, The Track Family Fun Park provides rides, thrills and laughter! It's your one stop, action packed fun for everyone. Enjoy go karts, family rides, thrill zones, arcade games and more! With six locations throughout the Southeast (Gulf Shores AL, Destin FL, Orange Beach AL, Myrtle Beach SC, Pigeon Forge TN), The Track offers premier go-karting with multiple elevated tracks, blaster boats, mini golf, Kids Country rides, thrill rides like the Skycoaster and SkyFlyer, and Fat Daddy's Arcade with 50+ classic and interactive games. Points never expire and can be used at any location.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,115 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "go-karts",
+      "tag_category": null
+    },
+    {
+      "tag": "family fun",
+      "tag_category": null
+    },
+    {
+      "tag": "arcade games",
+      "tag_category": null
+    },
+    {
+      "tag": "mini golf",
+      "tag_category": null
+    },
+    {
+      "tag": "thrill rides",
+      "tag_category": null
+    },
+    {
+      "tag": "kids activities",
+      "tag_category": null
+    },
+    {
+      "tag": "bumper cars",
+      "tag_category": null
+    },
+    {
+      "tag": "blaster boats",
+      "tag_category": null
+    },
+    {
+      "tag": "kiddie rides",
+      "tag_category": null
+    },
+    {
+      "tag": "southeastern locations",
+      "tag_category": null
+    },
+    {
+      "tag": "point system",
+      "tag_category": null
+    },
+    {
+      "tag": "indoor entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "Amusement Parks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Arcade",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Go-Kart Racing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Thrill Rides",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Kids Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Recreational Facilities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "amusement-park",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "The Track & Fat Daddy's Arcade",
+      "phone": "",
+      "address": {
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "https://www.funatthetrack.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:34.363Z"
 }

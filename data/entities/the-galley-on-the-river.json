@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "The Galley on the River offers fresh cuisine, relaxed dining, and stunning river views right on the Bon Secour River. Whether you arrive by boat at our 70-foot pier or by car, we're the perfect spot for any occasion. We specialize in locally-sourced dishes and handcrafted drinks, from our famous seafood platters and Ahi Tuna Nachos to hand-pressed burgers and wood-fired pizzas. Every visit is a fresh experience. Perfect For: Date night, family dinner, waterfront lunch, group celebrations, or just relaxing with a cold drink by the river.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:30 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:30 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:30 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:30 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:30 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:30 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "10:30 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,170 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "riverside-restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "boat-accessible",
+      "tag_category": null
+    },
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "pizza",
+      "tag_category": null
+    },
+    {
+      "tag": "local-ingredients",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh-catch",
+      "tag_category": null
+    },
+    {
+      "tag": "hook-and-cook",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "group-celebrations",
+      "tag_category": null
+    },
+    {
+      "tag": "date-night",
+      "tag_category": null
+    },
+    {
+      "tag": "bon-secour-river",
+      "tag_category": null
+    },
+    {
+      "tag": "foley-alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "fried-seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "sandwiches",
+      "tag_category": null
+    },
+    {
+      "tag": "salads",
+      "tag_category": null
+    },
+    {
+      "tag": "appetizers",
+      "tag_category": null
+    },
+    {
+      "tag": "key-lime-cheesecake",
+      "tag_category": null
+    },
+    {
+      "tag": "handcrafted-cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor-seating",
+      "tag_category": null
+    },
+    {
+      "tag": "pier-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Burgers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pizza",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sandwiches",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Salads",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Fun",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 200-5595",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "The Galley on the River",
+      "phone": "(251) 200-5595",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.347Z"
 }

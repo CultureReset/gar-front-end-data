@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Breakout Games - #1 Escape Room in Orange Beach has thrilling escape rooms with a variety of game themes that are perfect for having fun with your friends, family, or even a team building exercise with your coworkers. Our company is a leader in the escape room industry and you'll experience the difference when you visit us in Orange Beach. We've spent the last 10 years hosting corporate and community teams across a wide range of industries and organizations. Every member of your group is essential to the story. In a Breakout escape room, you'll work together to solve problems in an immersive, story-driven world — with real-world benefits for your team. Fun Comes First - From the moment you walk in, your team is here to play, laugh, and celebrate together. Connection Builds Community - Collaboration creates bonds that last beyond the game — whether it's classmates or colleagues. Every Guest is a Main Character - No one gets left behind — every student, coworker, or teammate has a role in the story. We Lead the Way - We take care of the details so you can focus on your team, not the logistics.",
-  "phone": null,
+  "phone": "251-929-8330",
   "email": null,
   "website_url": "https://www.breakoutgames.com/orange-beach",
   "address_line_1": "4776 Main Street Suite L208",
@@ -17,7 +17,38 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +57,116 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "escape room",
+      "tag_category": null
+    },
+    {
+      "tag": "team building",
+      "tag_category": null
+    },
+    {
+      "tag": "corporate events",
+      "tag_category": null
+    },
+    {
+      "tag": "birthday parties",
+      "tag_category": null
+    },
+    {
+      "tag": "family entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "puzzle games",
+      "tag_category": null
+    },
+    {
+      "tag": "immersive experience",
+      "tag_category": null
+    },
+    {
+      "tag": "group activity",
+      "tag_category": null
+    },
+    {
+      "tag": "school groups",
+      "tag_category": null
+    },
+    {
+      "tag": "youth groups",
+      "tag_category": null
+    },
+    {
+      "tag": "couples night out",
+      "tag_category": null
+    },
+    {
+      "tag": "adventure games",
+      "tag_category": null
+    },
+    {
+      "tag": "problem-solving",
+      "tag_category": null
+    },
+    {
+      "tag": "entertainment venue",
+      "tag_category": null
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Team Building",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Corporate Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Birthday Parties",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Indoor Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "attractions",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-attractions.json",
+      "name": "Breakout Games - Orange Beach",
+      "phone": "251-929-8330",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:21.870Z",
+  "category": "Entertainment & Family Fun",
+  "address": "4776 Main Street, Suite L208, Orange Beach, AL 36561",
+  "website": "https://breakoutgames.com/orange-beach/",
+  "source": "https://breakoutgames.com/orange-beach/"
 }

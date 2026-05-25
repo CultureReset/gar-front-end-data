@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "The City of Gulf Shores Recreation & Cultural Affairs Department enriches lives and fosters harmony within the community through area-wide leisure services targeted to improve healthy life styles, educational and recreational opportunities, public participation, and environmental and economical stewardship. The department provides top quality recreation and leisure activities for the community while striving to be the best stewards of the public resources that fall within the department's care, adapting as necessary to meet the varied needs of the residents and visitors.",
-  "phone": null,
+  "phone": "251-968-2425",
   "email": "gbrown@gulfshoresal.gov",
   "website_url": "https://www.gulfshoresal.gov",
   "address_line_1": "1905 W 1st Street",
@@ -17,7 +17,44 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00 AM",
+      "close_time": "3:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,116 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "gulf-shores",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "parks",
+      "tag_category": null
+    },
+    {
+      "tag": "recreation",
+      "tag_category": null
+    },
+    {
+      "tag": "public-services",
+      "tag_category": null
+    },
+    {
+      "tag": "community-events",
+      "tag_category": null
+    },
+    {
+      "tag": "library",
+      "tag_category": null
+    },
+    {
+      "tag": "beaches",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor-activities",
+      "tag_category": null
+    },
+    {
+      "tag": "sports",
+      "tag_category": null
+    },
+    {
+      "tag": "fitness",
+      "tag_category": null
+    },
+    {
+      "tag": "municipal-services",
+      "tag_category": null
+    },
+    {
+      "tag": "Government",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Parks & Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Public Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Community Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Libraries",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sports & Fitness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Access",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "government-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "municipal-government",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-attractions.json",
+      "name": "City of Gulf Shores",
+      "phone": "251-968-2425",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.380Z"
 }

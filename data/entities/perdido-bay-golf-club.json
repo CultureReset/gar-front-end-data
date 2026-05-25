@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Perdido Bay Golf Club was the former site of the Pensacola Open for 10 years, and continues to hold its integrity as a premier championship golf course. Located in Pensacola, FL, less than a 30-minute drive along the gulf from Gulf Shores, AL, Perdido Bay Golf Club is a popular destination for our neighbors to the west in Alabama and the surrounding areas. We are a public golf course and we offer golf club memberships! We were nominated for \"Best New Public Golf Course\" by Golf Digest.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "8:00 AM",
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "8:00 AM",
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "8:00 AM",
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "8:00 AM",
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "8:00 AM",
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "8:00 AM",
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "8:00 AM",
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,98 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "golf",
+      "tag_category": null
+    },
+    {
+      "tag": "golf course",
+      "tag_category": null
+    },
+    {
+      "tag": "18-hole",
+      "tag_category": null
+    },
+    {
+      "tag": "public golf",
+      "tag_category": null
+    },
+    {
+      "tag": "championship course",
+      "tag_category": null
+    },
+    {
+      "tag": "memberships",
+      "tag_category": null
+    },
+    {
+      "tag": "lessons",
+      "tag_category": null
+    },
+    {
+      "tag": "tournaments",
+      "tag_category": null
+    },
+    {
+      "tag": "Pensacola",
+      "tag_category": null
+    },
+    {
+      "tag": "Florida",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "golfing",
+      "tag_category": null
+    },
+    {
+      "tag": "sports",
+      "tag_category": null
+    },
+    {
+      "tag": "Golf Courses",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sports & Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dining & Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "sports-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "golf-course",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "850-492-1223",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "pensacola-other.json",
+      "name": "Perdido Bay Golf Club",
+      "phone": "850-492-1223",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.813Z"
 }

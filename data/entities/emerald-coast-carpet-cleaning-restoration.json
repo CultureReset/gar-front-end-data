@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Emerald Coast Carpet Cleaning, LLC is family owned and operated by life long Baldwin County residents. We've been serving the Gulf Coast since 1997. We specialize in water damage restoration and mold remediation, carpet, tile, and upholstery cleaning. Located in Orange Beach, AL, Emerald Coast Carpet Cleaning, LLC specializes in water damage restoration, mold remediation, carpet, tile, and upholstery cleaning, pet odor & stain removal. Our staff includes technicians that are IICRC certified in carpet cleaning, water damage, and mold remediation. Serving South Baldwin County, Alabama and Perdido Key, Florida. John Haber took over ownership of Emerald Coast Carpet Cleaning in 1997 after retiring from Gulf Telephone Company. His family moved from Elberta to Orange Beach in 2002. Since then, the business has grown from one truck mount van into 5 vans and a warehouse of equipment. In 2019, his son, Jamie, took over the family business. Our technicians are IICRC certified in carpet, upholstery, tile & grout cleaning and water damage restoration. Jamie is also certified in mold remediation.",
-  "phone": null,
+  "phone": "2519482161",
   "email": "eccc.llc@hotmail.com",
   "website_url": "http://www.emeraldcoastcarpetcleaners.com/",
   "address_line_1": "25299 Canal Road, Unit B9",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,108 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "carpet cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "water damage restoration",
+      "tag_category": null
+    },
+    {
+      "tag": "mold remediation",
+      "tag_category": null
+    },
+    {
+      "tag": "tile cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "upholstery cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "pet odor removal",
+      "tag_category": null
+    },
+    {
+      "tag": "emergency services",
+      "tag_category": null
+    },
+    {
+      "tag": "IICRC certified",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Foley",
+      "tag_category": null
+    },
+    {
+      "tag": "Elberta",
+      "tag_category": null
+    },
+    {
+      "tag": "Perdido Key",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Florida",
+      "tag_category": null
+    },
+    {
+      "tag": "Home Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cleaning Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Damage Restoration",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Disaster Recovery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Local Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "home-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "service",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-other.json",
+      "name": "Emerald Coast Carpet Cleaning & Restoration",
+      "phone": "2519482161",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:23.266Z"
 }

@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,100 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "beach condo",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf shores",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation rental",
+      "tag_category": null
+    },
+    {
+      "tag": "2 bedroom",
+      "tag_category": null
+    },
+    {
+      "tag": "2 bathroom",
+      "tag_category": null
+    },
+    {
+      "tag": "heated pool",
+      "tag_category": null
+    },
+    {
+      "tag": "hot tub",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf shores plantation",
+      "tag_category": null
+    },
+    {
+      "tag": "family vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal getaway",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama beach",
+      "tag_category": null
+    },
+    {
+      "tag": "resort amenities",
+      "tag_category": null
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Condos",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "lodging",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "vacation-rental",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "Endless Summer Condo 2312",
+      "phone": "(251) 281-8071",
+      "address": "",
+      "placeId": "",
+      "website": "http://airbnb.com/h/endlesssummercondo2312"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:23.289Z"
 }

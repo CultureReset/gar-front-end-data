@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Angry Crab Shack is a casual Cajun/Creole-style seafood restaurant famous for its customizable seafood boils. Think crab, shrimp, crawfish, lobster, and more with bold Asian-Cajun sauces and spice levels. Beyond boils, many locations also offer appetizers, sandwiches, Po'Boys, fried seafood baskets, salads, and non-seafood options like chicken or burgers. Whether you are celebrating a big birthday, a milestone anniversary, or another special occasion, Angry Crab Shack is the place for a one-of-a-kind experience, with multiple locations worldwide. Delicious food, a fun environment, and a team of amazing staff make a visit to Angry Crab Shack memorable for everyone. Bibs are provided to keep shirts clean, but you can get as messy as you want as the tables are covered with paper. Those who do not love seafood can choose from flavorful Po'Boys, delicious cheeseburgers, juicy chicken sandwiches, and more. Angry Crab Shack even offers vegetable and tofu options for vegetarians.",
-  "phone": null,
+  "phone": "(251) 981-1136",
   "email": null,
   "website_url": "https://www.angrycrabshack.com",
   "address_line_1": "2345 South Alma School Rd. Suite 106",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,182 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "cajun",
+      "tag_category": null
+    },
+    {
+      "tag": "creole",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood-boils",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "crab",
+      "tag_category": null
+    },
+    {
+      "tag": "shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "crawfish",
+      "tag_category": null
+    },
+    {
+      "tag": "lobster",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "po-boys",
+      "tag_category": null
+    },
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "chicken",
+      "tag_category": null
+    },
+    {
+      "tag": "vegetarian",
+      "tag_category": null
+    },
+    {
+      "tag": "group-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "private-events",
+      "tag_category": null
+    },
+    {
+      "tag": "birthday-parties",
+      "tag_category": null
+    },
+    {
+      "tag": "anniversaries",
+      "tag_category": null
+    },
+    {
+      "tag": "corporate-events",
+      "tag_category": null
+    },
+    {
+      "tag": "holiday-parties",
+      "tag_category": null
+    },
+    {
+      "tag": "messy-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "hands-on-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "customizable-menu",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cajun",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Creole",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Fun",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Group Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Private Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Birthday Parties",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Corporate Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "25751 Perdido Beach Blvd #1-A",
+  "menus": [],
+  "website": "https://www.angrycrabshack.com/perdido-blvd-orange-beach-al/",
+  "businesses": [
+    {
+      "source": "MASTER-BUSINESSES-WITH-EVENTS.json",
+      "name": "Angry Crab Shack",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:21.034Z"
 }

@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Da' Car Wash is Alabama's most cutting-edge express car wash! We make getting a clean car as easy and convenient as possible! Simply drive up on our state of the art conveyor system, then sit back and glide to a clean ride!",
-  "phone": null,
+  "phone": "(251) 981-6666",
   "email": "info@dacarwash.com",
   "website_url": "http://www.dacarwash.com",
   "address_line_1": "24130 Canal Road",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,92 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "car wash",
+      "tag_category": null
+    },
+    {
+      "tag": "express car wash",
+      "tag_category": null
+    },
+    {
+      "tag": "auto detailing",
+      "tag_category": null
+    },
+    {
+      "tag": "vehicle cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "conveyor wash",
+      "tag_category": null
+    },
+    {
+      "tag": "self-service vacuum",
+      "tag_category": null
+    },
+    {
+      "tag": "unlimited membership",
+      "tag_category": null
+    },
+    {
+      "tag": "fast pass",
+      "tag_category": null
+    },
+    {
+      "tag": "Automotive Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Car Wash",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Express Car Wash",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Auto Detailing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vehicle Maintenance",
+      "tag_category": "category"
+    },
+    {
+      "tag": "automotive-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "car-wash",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-other.json",
+      "name": "Da' Car Wash",
+      "phone": "(251) 981-6666",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.606Z"
 }

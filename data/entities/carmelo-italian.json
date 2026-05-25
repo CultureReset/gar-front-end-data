@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Located in Orange Beach, Alabama is a purveyor of fine Italian dining. Italian hospitality and innovated Italian cuisine that is guaranteed to grow your appetite. Enjoy choosing the perfect wine from our expansive collection to complement your meal as you sit in our dining room that combines contemporary decor with vintage Italian staples.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "3:00 PM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "3:00 PM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,87 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "italian",
+      "tag_category": null
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "fine-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "wine",
+      "tag_category": null
+    },
+    {
+      "tag": "orange-beach",
+      "tag_category": null
+    },
+    {
+      "tag": "italian-cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "reservations",
+      "tag_category": null
+    },
+    {
+      "tag": "online-ordering",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Italian",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fine Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wine Bar",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251)200-4375",
+  "email": "info@kolhospitality.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-other.json",
+      "name": "Carmelo Italian",
+      "phone": "(251)200-4375",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.347Z"
 }

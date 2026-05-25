@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Lagoon Park was built on a pair of privately owned sites purchased by the City of Gulf Shores, where a convenience store and private boat launch known as Mo's Landing and RV Park used to be. The park is 1.8 miles west of Highway 59 on Fort Morgan Road (Highway 180). The restroom deck overlooking the Lagoon provides a good resting point for cyclists, walkers, and joggers on the 5.3 mile paved bike path and walking trail that winds between the trees on the north side of Fort Morgan Road. Two concrete boat ramps, parking for both vehicles and boat trailers, and restrooms are available for public use. In addition to the public boat ramps that provide access for fishing, sports, and recreational boating, the park also provides a fine access point for kayaks and canoes to the north shores of Little Lagoon, which are characterized by single family homes in pine tree sheltered properties with piers and boathouses extending into the shallow waters.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "dawn",
+      "close_time": "dusk",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "dawn",
+      "close_time": "dusk",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "dawn",
+      "close_time": "dusk",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "dawn",
+      "close_time": "dusk",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "dawn",
+      "close_time": "dusk",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "dawn",
+      "close_time": "dusk",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "dawn",
+      "close_time": "dusk",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,107 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "boat launch",
+      "tag_category": null
+    },
+    {
+      "tag": "public boat ramps",
+      "tag_category": null
+    },
+    {
+      "tag": "fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "kayaking",
+      "tag_category": null
+    },
+    {
+      "tag": "canoe",
+      "tag_category": null
+    },
+    {
+      "tag": "little lagoon",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "recreational boating",
+      "tag_category": null
+    },
+    {
+      "tag": "paved bike path",
+      "tag_category": null
+    },
+    {
+      "tag": "walking trail",
+      "tag_category": null
+    },
+    {
+      "tag": "restrooms",
+      "tag_category": null
+    },
+    {
+      "tag": "parking",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "Parks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Boating",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fishing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Kayaking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Sports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "parks-and-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "park",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "email": "gbrown@gulfshoresal.gov",
+  "menus": [],
+  "phone": "251-968-2425",
+  "businesses": [
+    {
+      "source": "gulf-shores-bars.json",
+      "name": "Mo's Landing",
+      "phone": "251-968-2425",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:26.994Z"
 }

@@ -13,11 +13,11 @@
   "city": "",
   "state": "",
   "zip": null,
-  "rating": 4,
+  "rating": 4.1,
   "review_count": null,
   "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN0AHG7VDhv4vPDydY6QhyN-vIK8oS1jkzavCRzhiuVDwC4UmXRW9tat0A8fEm0Kz03wSSTwOLu1j2yYFRDR_pkRou2HZ4kFZHnWdIk_msfVpFacY3hTsWUkoojILwVzmdckJAZ4a2t1pVIkSYWKI55yPxzGlSAXSYXk6T1QkV1qhdPnA_PTkHNXLHtANRfZ__tN-NojrsCinCZy1gY-ViISJ_tUd482AcsGH5Jv0VTS_IIIPCb4c02q9apNQ50Q3o96BfdKEZm-emQzVvNpkNP6qP1OUP4b3jJHd4SwkqZMHA3qXk2joo7W4aS21E5C1o0uoa9T0kfH4eNgdtmNABUy1gs0CrskMZiOL2pIV0kQOIz27B4TboOvN8sNt91X_YKIojBNMQktITRfoB0hSB6H70ByGNzpd24ODbYyTeJ0vw&key=AIzaSyA53S45dU9xRY5D-YKfEPPIHA1cP_nBvTY",
   "photos": [],
-  "hours": [],
+  "hours": "Hours not available",
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +26,68 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    "campground",
+    "establishment",
+    "lodging",
+    "park",
+    "point_of_interest",
+    {
+      "tag": "campground",
+      "tag_category": null
+    },
+    {
+      "tag": "camping",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor",
+      "tag_category": null
+    },
+    {
+      "tag": "recreation",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "Camping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "campground",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "website": "https://southportcampground.com/wp/",
+  "address": "108 Waterway W Blvd, Gulf Shores, AL 36542, USA",
+  "menus": [],
+  "google_places_id": "ChIJvWiOTkwbmogRbbSSfsWeHaY",
+  "businesses": [
+    {
+      "source": "gulf-shores-accommodations.json",
+      "name": "Southport Campground",
+      "phone": "(251) 968-6220",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:28.783Z"
 }

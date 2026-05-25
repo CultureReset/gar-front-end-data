@@ -6,7 +6,50 @@
   "icon": "🏪",
   "description": "",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,67 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "beach resort",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal",
+      "tag_category": null
+    },
+    {
+      "tag": "lodging",
+      "tag_category": null
+    },
+    {
+      "tag": "spectrum resorts",
+      "tag_category": null
+    },
+    {
+      "tag": "Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hospitality",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Destinations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "resort",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "The Beach Club",
+      "phone": "#ERROR!",
+      "address": {
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "http://thebeachclub.spectrumresorts.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.691Z"
 }

@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "With two locations on the Alabama Gulf Coast, The Southern Grind has been the beach's specialty coffee house since 2012. More than a coffee house, The Southern Grind offers comfort food to fresh food including, vegetarian, vegan and gluten-free options. We are known for homemade desserts, pastries, muffins, cookies and brownies as well as Gelato (Italian Ice Cream.) Enjoy free Wi-Fi surrounded by a cool, coastal vibe where you can shop for home decor, jewelry and local art or relax in our pet-friendly outdoor patio. Check for daily breakfast and lunch specials. Need a pick me up? Try our Nitro Draft Cold Brew Coffee and get your grind on!",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "07:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "07:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "07:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "07:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "07:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "07:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "07:00",
+      "close_time": "21:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,167 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "coffee",
+      "tag_category": null
+    },
+    {
+      "tag": "specialty coffee",
+      "tag_category": null
+    },
+    {
+      "tag": "cafe",
+      "tag_category": null
+    },
+    {
+      "tag": "gelato",
+      "tag_category": null
+    },
+    {
+      "tag": "Italian ice cream",
+      "tag_category": null
+    },
+    {
+      "tag": "breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "lunch",
+      "tag_category": null
+    },
+    {
+      "tag": "dinner",
+      "tag_category": null
+    },
+    {
+      "tag": "sandwiches",
+      "tag_category": null
+    },
+    {
+      "tag": "pastries",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "vegetarian",
+      "tag_category": null
+    },
+    {
+      "tag": "vegan",
+      "tag_category": null
+    },
+    {
+      "tag": "gluten-free",
+      "tag_category": null
+    },
+    {
+      "tag": "pet-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "homemade",
+      "tag_category": null
+    },
+    {
+      "tag": "cold brew",
+      "tag_category": null
+    },
+    {
+      "tag": "Nitro Draft Coffee",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Coffee Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cafes",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Desserts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gelato",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Breakfast",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dinner",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vegetarian",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vegan",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gluten-Free",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pet-Friendly",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Coastal Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 923-3265",
+  "email": "info@thesoutherngrind.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-coffee-sweets.json",
+      "name": "The Southern Grind Coffee House",
+      "phone": "(251) 923-3265",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.439Z"
 }

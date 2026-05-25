@@ -5,8 +5,8 @@
   "entity_type": "restaurant",
   "entity_subtype": "restaurant",
   "icon": "🏪",
-  "description": "",
-  "phone": null,
+  "description": "Off the beaten path on Canal Road in Orange Beach, Cosmo's Restaurant & Bar is far from ordinary. Serving fresh and eclectic food since day one, Cosmo's features a wide range of dining, enticing even the most discriminate. Using chef inspired ingredients, you can enjoy everything from hand-cut steaks to local seafood and pasta. This neighborhood favorite on the Gulf Coast has taken cuisine to the cutting edge. With variations of local staples, their versions will make you sit back and take notice. Culinary greats such as the chicken roulade, the sesame seared tuna salad and the traditional crab cakes done with a twist, will have you wanting more. And to top it all off, The Year of Alabama Food named their Banana Leaf Wrapped Fish as one of \"the top 100 dishes to eat before you die.\" This epicurean delight is just one of the many masterpieces created daily in this out-of-the-way hot spot on Alabama's Gulf Coast. Cosmo's Restaurant & Bar has long been an Orange Beach favorite for over fourteen years. Owners Brian and Jodi Harsany's attention to detail and love of dining has created something truly memorable that has become a favorite for locals and visitors alike. The personable and attentive staff as well as unique cuisine and specialized catering, has created a synergistic harmony that provides for an unforgettable dining experience.",
+  "phone": "251-948-9663",
   "email": null,
   "address_line_1": "",
   "city": "",
@@ -16,7 +16,50 @@
   "rating": 4,
   "review_count": null,
   "hero_image_url": null,
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "21:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "21:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "21:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "21:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "21:30",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,124 @@
   "events": [],
   "photos": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "steaks",
+      "tag_category": null
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh ingredients",
+      "tag_category": null
+    },
+    {
+      "tag": "eclectic cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "upscale casual",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "full bar",
+      "tag_category": null
+    },
+    {
+      "tag": "happy hour",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor deck",
+      "tag_category": null
+    },
+    {
+      "tag": "date night",
+      "tag_category": null
+    },
+    {
+      "tag": "special occasions",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Steakhouses",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pasta Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fine Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Live Music Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "raw.json",
+      "name": "Cosmos Restaurant and Bar",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.427Z"
 }

@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,124 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "lifestyle brand",
+      "tag_category": null
+    },
+    {
+      "tag": "content creator",
+      "tag_category": null
+    },
+    {
+      "tag": "YouTube",
+      "tag_category": null
+    },
+    {
+      "tag": "TikTok",
+      "tag_category": null
+    },
+    {
+      "tag": "Instagram",
+      "tag_category": null
+    },
+    {
+      "tag": "apparel",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor adventure",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal living",
+      "tag_category": null
+    },
+    {
+      "tag": "country culture",
+      "tag_category": null
+    },
+    {
+      "tag": "family vlog",
+      "tag_category": null
+    },
+    {
+      "tag": "streaming TV",
+      "tag_category": null
+    },
+    {
+      "tag": "podcast",
+      "tag_category": null
+    },
+    {
+      "tag": "Florida Keys",
+      "tag_category": null
+    },
+    {
+      "tag": "Perdido Key",
+      "tag_category": null
+    },
+    {
+      "tag": "off-grid living",
+      "tag_category": null
+    },
+    {
+      "tag": "merchandise",
+      "tag_category": null
+    },
+    {
+      "tag": "Content Creators",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Influencers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lifestyle Brands",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Apparel & Merchandise",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Podcasters",
+      "tag_category": "category"
+    },
+    {
+      "tag": "YouTube Creators",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Social Media",
+      "tag_category": "category"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "influencer",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "perdido-key-attractions.json",
+      "name": "Beachbilly Lifestyle",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:21.538Z"
 }

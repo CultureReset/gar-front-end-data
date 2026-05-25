@@ -20,5 +20,23 @@
   "tags": [],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "businesses": [
+    {
+      "source": "jsonld.json",
+      "name": "Hooters of Gulf Shores",
+      "phone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": null,
+        "addressLocality": null,
+        "addressRegion": null,
+        "postalCode": null,
+        "addressCountry": null
+      },
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:19.782Z"
 }

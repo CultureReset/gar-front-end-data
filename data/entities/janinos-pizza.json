@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,74 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "pizza",
+      "tag_category": null
+    },
+    {
+      "tag": "italian",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pizza",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Italian",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Quick Service",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Janino's Pizza",
+      "phone": "",
+      "address": {
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "https://janinospizza.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.187Z"
 }

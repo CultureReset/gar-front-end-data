@@ -6,18 +6,61 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Welcome to our locally owned coffee and ice cream shop! We are excited to serve you delicious brews and delightful frozen treats made with love. Come in and enjoy the atmosphere while yourself to your favorite flavors. Your perfect cup and scoop await! At City Coffee, where every cup is a testament to our passion for locally roasted perfection. Our signature blend captures the essence of our vibrant community, delivering rich flavors that awaken your senses. Join us in celebrating the art of coffee, crafted with care and brewed to inspire. Indulge in our delightful selection of ice cream, sundaes, and milkshakes that are sure to satisfy your sweet cravings! Don't forget to try our refreshing Boba tea and slushies, perfect for cooling down on a warm day.",
-  "phone": null,
+  "phone": "850-542-7468",
   "email": null,
   "website_url": "https://www.citycoffeeandicecream.com",
   "address_line_1": "13700 Perdido Key Drive, A105",
   "city": "Pensacola",
   "state": "FL",
   "zip": "32507",
-  "rating": 4,
+  "rating": 4.3,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "7:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "7:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "7:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "7:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "7:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "7:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "7:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,110 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "coffee",
+      "tag_category": null
+    },
+    {
+      "tag": "espresso",
+      "tag_category": null
+    },
+    {
+      "tag": "ice cream",
+      "tag_category": null
+    },
+    {
+      "tag": "boba tea",
+      "tag_category": null
+    },
+    {
+      "tag": "cafe",
+      "tag_category": null
+    },
+    {
+      "tag": "perdido key",
+      "tag_category": null
+    },
+    {
+      "tag": "locally roasted",
+      "tag_category": null
+    },
+    {
+      "tag": "sundaes",
+      "tag_category": null
+    },
+    {
+      "tag": "milkshakes",
+      "tag_category": null
+    },
+    {
+      "tag": "frozen treats",
+      "tag_category": null
+    },
+    {
+      "tag": "coffee shop",
+      "tag_category": null
+    },
+    {
+      "tag": "tea",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Cafes",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Coffee Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Desserts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Ice Cream",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Tea Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "cafe",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "13700 Perdido Key Dr a105",
+  "menus": [],
+  "reviews": 0,
+  "businesses": [
+    {
+      "source": "pensacola-coffee-sweets.json",
+      "name": "City Coffee and Ice Cream",
+      "phone": "850-542-7468",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.379Z"
 }

@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Presto! is owned and operated by Publix Super Markets, offering surcharge-free ATM access available 24 hours a day, 7 days a week, at over 1,400 Publix stores in Florida, Georgia, Alabama, Tennessee, North Carolina, South Carolina, Virginia, and Kentucky. For customers of Presto! member financial institutions, there is no surcharge fee when accessing cash at Presto! ATMs. The network provides convenient locations, secure technology with anti-skimming features, and customer service support at on-site Publix associates. All Presto! ATMs are brightly lit and equipped with security cameras for safety.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,84 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "ATM",
+      "tag_category": null
+    },
+    {
+      "tag": "surcharge-free",
+      "tag_category": null
+    },
+    {
+      "tag": "cash withdrawal",
+      "tag_category": null
+    },
+    {
+      "tag": "financial network",
+      "tag_category": null
+    },
+    {
+      "tag": "debit network",
+      "tag_category": null
+    },
+    {
+      "tag": "Publix",
+      "tag_category": null
+    },
+    {
+      "tag": "convenience",
+      "tag_category": null
+    },
+    {
+      "tag": "24/7 access",
+      "tag_category": null
+    },
+    {
+      "tag": "Financial Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Banking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "ATM Networks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Payment Processing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "financial-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "financial-services",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "1-800-242-1227",
+  "email": "PrestoCustomerSupport@publix.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Presto!",
+      "phone": "1-800-242-1227",
+      "address": {
+        "street": "3300 Publix Corporate Parkway",
+        "city": "Lakeland",
+        "state": "FL",
+        "zip": "33811"
+      },
+      "placeId": "",
+      "website": "https://prestoatms.publix.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.447Z"
 }

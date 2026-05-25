@@ -4,9 +4,46 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Roses and Blooms offers a wide selection of fresh flowers, including locally sourced blooms and exotic varieties. Weather you're looking for a classic dozen or a custom-designed arrangement for a special event, our expert florist can bring your vision to life. We also specialize in wedding and event flowers, providing personalized service from consultation to delivery.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "09:00",
+      "close_time": "14:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +54,111 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "florist",
+      "tag_category": null
+    },
+    {
+      "tag": "flower delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "wedding flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "event flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "sympathy flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "funeral arrangements",
+      "tag_category": null
+    },
+    {
+      "tag": "same-day delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "local florist",
+      "tag_category": null
+    },
+    {
+      "tag": "custom arrangements",
+      "tag_category": null
+    },
+    {
+      "tag": "Valentine's Day flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "Mother's Day flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "anniversary flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "birthday flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "gift flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "Florists",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Flower Delivery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gift Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Weddings",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "retail-flowers",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "florist",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 609-2789",
+  "email": "gulfshoresrosesandblooms@gmail.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "Roses and Blooms",
+      "phone": "(251) 609-2789",
+      "address": "",
+      "placeId": "",
+      "website": "https://gulfshoresrosesandblooms.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:28.469Z"
 }

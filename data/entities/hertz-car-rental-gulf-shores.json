@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,76 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "car rental",
+      "tag_category": null
+    },
+    {
+      "tag": "vehicle rental",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "airport",
+      "tag_category": null
+    },
+    {
+      "tag": "FBO Gulf Air",
+      "tag_category": null
+    },
+    {
+      "tag": "Hertz",
+      "tag_category": null
+    },
+    {
+      "tag": "transportation",
+      "tag_category": null
+    },
+    {
+      "tag": "Car Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vehicle Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Transportation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Travel Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "transportation-and-rentals",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-accommodations.json",
+      "name": "Hertz Car Rental - Gulf Shores",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.760Z"
 }

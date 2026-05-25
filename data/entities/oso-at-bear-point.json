@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "The word OSO means bear in Spanish. We describe our food as Coastal Cuisine, as our flavor profiles from Florida to Mexico. So come enjoy fresh seafood, an OSO Hatch Chili Burger, Crawfish Ettouffe or a Blackened Fish Burrito. Our sister restaurant, Bolo, a resort casual restaurant specializing in hand-cut steaks, seafood, and small plates. It is located down Canal Road. Check her out www.bolorestaurantoba.com",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,104 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "steaks",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront dining",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "orange beach",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "dockside pickup",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "American",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 345-6738",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "OSO at Bear Point",
+      "phone": "(251) 345-6738",
+      "address": {
+        "street": "5749 Bay La Launch Avenue",
+        "city": "Orange Beach",
+        "state": "AL",
+        "zip": "36561",
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "https://www.osobearpoint.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.327Z"
 }

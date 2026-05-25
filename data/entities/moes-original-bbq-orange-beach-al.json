@@ -28,5 +28,23 @@
   "amenities": [],
   "tags": [],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "businesses": [
+    {
+      "source": "jsonld.json",
+      "name": "Moe's Original BBQ Orange Beach, AL",
+      "phone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "25603 Perdido Beach Blvd",
+        "addressLocality": "Orange Beach",
+        "addressRegion": "AL",
+        "postalCode": "36561",
+        "addressCountry": "US"
+      },
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:26.980Z"
 }

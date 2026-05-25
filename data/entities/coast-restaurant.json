@@ -4,9 +4,52 @@
   "entity_type": "restaurant",
   "entity_subtype": "restaurants",
   "icon": "🏪",
-  "description": "",
+  "description": "Welcome to Coast at The Beach Club Resort & Spa, where fine family dining meets relaxed Gulf-side charm and fresh coastal cuisine. Nestled along the glittering Gulf of Mexico, Coast Restaurant wraps every meal in breathtaking views and magical moments filled with world-class service and the finest local flavors. Let us welcome your family into our spacious dining room and upscale bar, or have a seat on the outdoor veranda to watch the waves roll over sugar-white sands. Savor the taste of fresh Gulf seafood and other family favorites from award-winning Chef John Hamme and his culinary team. Our Gulf-inspired dishes are made from locally-sourced ingredients and paired perfectly with handcrafted cocktails and curated wines, offering a mouthwatering experience that captures the best of Gulf Shores in every bite.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "8:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "8:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "8:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "8:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "8:00 AM",
+      "close_time": "8:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,154 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "steaks",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "fine dining",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "wine",
+      "tag_category": null
+    },
+    {
+      "tag": "beer",
+      "tag_category": null
+    },
+    {
+      "tag": "brunch",
+      "tag_category": null
+    },
+    {
+      "tag": "breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "chef",
+      "tag_category": null
+    },
+    {
+      "tag": "award-winning",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh local ingredients",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Steakhouses",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fine Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Brunch Spots",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cocktail Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wine Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beachfront Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Date Night Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-224-3600",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-restaurants.json",
+      "name": "Coast Restaurant",
+      "phone": "251-224-3600",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.386Z"
 }

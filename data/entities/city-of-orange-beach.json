@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "The City of Orange Beach, Alabama is a vibrant coastal community committed to providing excellent municipal services. The city government oversees planning and development, public safety, parks and recreation, water utilities, and community services. Orange Beach features beautiful beaches, parks, trails including the Hugh S. Branyon Backcountry Trail system, and various recreational facilities. The city maintains high-performing schools, promotes economic development, and preserves the natural environment while sustaining tourism-based economy.",
-  "phone": null,
+  "phone": "251-981-6979",
   "email": "info@orangebeachal.gov",
   "website_url": "https://www.orangebeachal.gov",
   "address_line_1": "4099 Orange Beach Boulevard",
@@ -17,7 +17,38 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "8:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "8:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "8:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "8:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "8:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +57,108 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "city government",
+      "tag_category": null
+    },
+    {
+      "tag": "municipal services",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "public administration",
+      "tag_category": null
+    },
+    {
+      "tag": "parks and recreation",
+      "tag_category": null
+    },
+    {
+      "tag": "beaches",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal management",
+      "tag_category": null
+    },
+    {
+      "tag": "fire department",
+      "tag_category": null
+    },
+    {
+      "tag": "police department",
+      "tag_category": null
+    },
+    {
+      "tag": "planning and zoning",
+      "tag_category": null
+    },
+    {
+      "tag": "Government",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Municipal Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Parks & Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Public Works",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Emergency Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Community Development",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Libraries",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Arts & Culture",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Tourism",
+      "tag_category": "category"
+    },
+    {
+      "tag": "municipal-government",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "government",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-attractions.json",
+      "name": "City of Orange Beach",
+      "phone": "251-981-6979",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.381Z"
 }

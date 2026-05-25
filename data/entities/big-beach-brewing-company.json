@@ -6,8 +6,8 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Big Beach Brewing Company is Alabama's southernmost brewery, located in Gulf Shores, Alabama. The brewery features beer and wine on tap, live music, and events.",
-  "phone": null,
-  "email": null,
+  "phone": "251-948-2337",
+  "email": "info@bigbeachbrewing.com",
   "website_url": "https://bigbeachbrewing.com",
   "address_line_1": "300 East 24th Avenue",
   "city": "Gulf Shores",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,115 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "craft beer",
+      "tag_category": null
+    },
+    {
+      "tag": "brewery",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "beer bar",
+      "tag_category": null
+    },
+    {
+      "tag": "local brewery",
+      "tag_category": null
+    },
+    {
+      "tag": "beer tasting",
+      "tag_category": null
+    },
+    {
+      "tag": "southernmost brewery",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "events venue",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "private events",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Breweries",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Craft Beer",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Local Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Event Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "brewery",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "jsonld.json",
+      "name": "Big Beach Brewing Company",
+      "phone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "US",
+        "addressLocality": "Gulf Shores",
+        "addressRegion": "AL",
+        "postalCode": "36542",
+        "streetAddress": "300 East 24th Avenue"
+      },
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:19.307Z"
 }

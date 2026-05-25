@@ -4,9 +4,52 @@
   "entity_type": "nightlife",
   "entity_subtype": "bars",
   "icon": "🏪",
-  "description": "",
+  "description": "Hibas Karaoke & Arcade Bar is the best place in Gulf Shores for karaoke, arcade games, and late-night entertainment. Sing every night from 8 PM to midnight, challenge friends at the arcade, or dance with live DJs on weekends. Whether you're out for music, fun, or drinks, Hibas delivers an unforgettable night. We offer a top-tier nightlife experience with karaoke, DJ sets, and arcade gaming, making us a must-visit destination. Our space is perfect for group outings, parties, and anyone looking for the best bar in Gulf Shores. With a focus on great service, safety, and entertainment, we bring the energy every night. Visit Hibas for the ultimate karaoke and nightlife experience in Gulf Shores. At Hibas Gulf Shores, our mission is to create unforgettable nightlife experiences for the vibrant community of Gulf Shores, Alabama, and beyond. We are dedicated to providing a dynamic and inclusive space where people from all walks of life can come together to celebrate, connect, and express themselves through the power of music and entertainment.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "20:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "20:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "20:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "20:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "20:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "20:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "20:00",
+      "close_time": "03:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,109 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "karaoke",
+      "tag_category": null
+    },
+    {
+      "tag": "arcade games",
+      "tag_category": null
+    },
+    {
+      "tag": "DJ",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "nightlife",
+      "tag_category": null
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "bar",
+      "tag_category": null
+    },
+    {
+      "tag": "late night",
+      "tag_category": null
+    },
+    {
+      "tag": "dancing",
+      "tag_category": null
+    },
+    {
+      "tag": "self-service karaoke",
+      "tag_category": null
+    },
+    {
+      "tag": "party venue",
+      "tag_category": null
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Karaoke Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Arcade Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Music Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Shores Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "bar",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-bars.json",
+      "name": "Hibas Karaoke & Arcade Bar",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.775Z"
 }

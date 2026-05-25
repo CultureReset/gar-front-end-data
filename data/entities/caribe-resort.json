@@ -6,18 +6,61 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Caribe Resort is a premier destination property located on the Alabama Gulf Coast in Orange Beach. The staff and management of Caribe Resort are dedicated to making your vacation a life-long dream. We offer hundreds of vacation rentals ranging from 2 to 4+ bedroom condominiums, all fully equipped with everything you need for a comfortable stay. You won't have to go far to enjoy relaxing amenities such as the lazy river, pools, slides, saunas, hot tubs, tennis courts, and more. Our property features complimentary boat slips for guests, an on-site marina, and access to world-class dining at Cobalt Restaurant. Whether you're planning a family vacation, romantic getaway, group retreat, or special event, Caribe Resort provides the perfect blend of luxury and leisure. We are within minutes of many popular locations, stores, and restaurants, and provide complimentary trolley service from 8:00 am to 8:00 pm to the public beach access point and throughout the property.",
-  "phone": null,
+  "phone": "(251) 980-9000",
   "email": "[email protected]",
   "website_url": "https://www.cariberesort.com",
   "address_line_1": "28103 Perdido Beach Blvd",
   "city": "Orange Beach",
   "state": "AL",
   "zip": "36561",
-  "rating": 4,
+  "rating": 4.5,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -25,8 +68,257 @@
     "sections": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
+  "amenities": [
+    "E-mail Sign Up",
+    "1-800-211-7892",
+    "Rentals",
+    "Phoenix Condos",
+    "Beach Houses",
+    "Orange Beach Condos",
+    "Gulf Shores Condos",
+    "New Rental Properties",
+    "Hot Deals",
+    "Seasonal Monthly Rentals",
+    "Short Stay Rentals",
+    "Phoenix All Suites Hotels",
+    "Generali Global Assistance Travel Protection",
+    "Parking Pass - VRPS",
+    "Offers & Experiences",
+    "Current Promotions",
+    "Last Minute Deals",
+    "1 or 2 Night Stays",
+    "Group Experiences",
+    "Family Reunions",
+    "Wedding Planning",
+    "Area Guide",
+    "Blogs - Area Guide",
+    "Travel Guide",
+    "Webcams",
+    "Real Estate",
+    "Orange Beach",
+    "Gulf Shores",
+    "Mobile / Saraland",
+    "Overview",
+    "History of Brett/Robinson",
+    "Terms & Conditions",
+    "F.A.Q.s",
+    "Join Our Rental Program",
+    "Home",
+    "Hotels",
+    "Sales",
+    "About",
+    "Job Opportunities",
+    "Office Locations",
+    "Contact",
+    "Owners Portal",
+    "Facebook Link",
+    "Instagram Link",
+    "Pinterest Link",
+    "Twitter Link"
+  ],
+  "tags": [
+    {
+      "tag": "condo rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "orange beach",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "lazy river",
+      "tag_category": null
+    },
+    {
+      "tag": "family vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "beach resort",
+      "tag_category": null
+    },
+    {
+      "tag": "poolside",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "luxury accommodations",
+      "tag_category": null
+    },
+    {
+      "tag": "group rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "wedding venue",
+      "tag_category": null
+    },
+    {
+      "tag": "event space",
+      "tag_category": null
+    },
+    {
+      "tag": "pet-friendly alternatives",
+      "tag_category": null
+    },
+    {
+      "tag": "complimentary boat slips",
+      "tag_category": null
+    },
+    {
+      "tag": "marina",
+      "tag_category": null
+    },
+    {
+      "tag": "trolley service",
+      "tag_category": null
+    },
+    {
+      "tag": "multiple pools",
+      "tag_category": null
+    },
+    {
+      "tag": "slides",
+      "tag_category": null
+    },
+    {
+      "tag": "saunas",
+      "tag_category": null
+    },
+    {
+      "tag": "hot tubs",
+      "tag_category": null
+    },
+    {
+      "tag": "tennis courts",
+      "tag_category": null
+    },
+    {
+      "tag": "putting green",
+      "tag_category": null
+    },
+    {
+      "tag": "fitness center",
+      "tag_category": null
+    },
+    {
+      "tag": "Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Condo Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wedding Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Event Spaces",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Destinations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Orange Beach Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality-accommodations",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "website": "https://www.cariberesort.com/",
+  "address": "28103 Perdido Beach Blvd #100",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-accommodations.json",
+      "name": "Caribe Resort",
+      "phone": "(251) 980-9000",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.344Z",
+  "about": "Job Opportunities\nOffice Locations\nContact\nOwners Portal\nFacebook Link\nInstagram Link\nPinterest Link\nTwitter Link\n\nGULF SHORES CONDOS / ORANGE BEACH CONDOS\n\n© 2026 Brett-Robinson. All Rights Reserved\nPRIVACY POLICY\n\nWeb Chat Toggle\nHi, I'm Pearl. How can I help?",
+  "unitTypes": [],
+  "attractions": [],
+  "faqs": [],
+  "images": [
+    "https://www.brett-robinson.com/assets/images/br-logo.svg",
+    "https://track-pm.s3.amazonaws.com/brett-robinson/image/f8c65e3e-0807-4f98-b106-2d27d0f095a7",
+    "https://tr.aidaptive.com/pixel/pixel2.gif?source=https%3A//www.brett-robinson.com/404.php&type=recommendation&click_id=527b83f54ef6a1e7db39a30c03d7e9001562ec43&entity_id=tracks-brett-robinson:hospitality_listings:1148&slot=3&experiment_id=100034068&aidaptive_cohort=test&cid=tracks-brett-robinson&page_type=home&ga_client_id=2071799841.1778408609",
+    "https://track-pm.s3.amazonaws.com/brett-robinson/image/fed6f170-891f-466d-8a6e-6e9e8887a388",
+    "https://tr.aidaptive.com/pixel/pixel2.gif?source=https%3A//www.brett-robinson.com/404.php&type=recommendation&click_id=527b83f54ef6a1e7db39a30c03d7e9001562ec43&entity_id=tracks-brett-robinson:hospitality_listings:2949&slot=6&experiment_id=100034068&aidaptive_cohort=test&cid=tracks-brett-robinson&page_type=home&ga_client_id=2071799841.1778408609",
+    "https://track-pm.s3.amazonaws.com/brett-robinson/image/2145e02c-6d9d-44b2-9a3d-12449acb097e",
+    "https://tr.aidaptive.com/pixel/pixel2.gif?source=https%3A//www.brett-robinson.com/404.php&type=recommendation&click_id=527b83f54ef6a1e7db39a30c03d7e9001562ec43&entity_id=tracks-brett-robinson:hospitality_listings:4395&slot=4&experiment_id=100034068&aidaptive_cohort=test&cid=tracks-brett-robinson&page_type=home&ga_client_id=2071799841.1778408609",
+    "https://www.brett-robinson.com/assets/images/BRV-25-95-Vacations-Logo-GS-OB-PK-Horizontal-V2.png",
+    "https://bat.bing.com/action/0?ti=5220679&Ver=2&mid=85c4f153-c413-4e14-a7da-caf157f5f4f7&bo=1&sid=4a0e42a04c5a11f19fe92d134bef27f8&vid=4a0e83a04c5a11f19f8739e5e28123a1&vids=1&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&p=https%3A%2F%2Fwww.brett-robinson.com%2F404.php&r=&lt=1911&evt=pageLoad&sv=2&cdb=AQAQ&rn=841791"
+  ],
+  "phones": [
+    "+18009326760",
+    "+18002117892"
+  ],
+  "emails": [],
+  "images_local": [
+    "condos_images/caribe-resort/image_00.jpg",
+    "condos_images/caribe-resort/image_01.jpg",
+    "condos_images/caribe-resort/image_02.gif",
+    "condos_images/caribe-resort/image_03.jpg",
+    "condos_images/caribe-resort/image_04.gif",
+    "condos_images/caribe-resort/image_05.jpg",
+    "condos_images/caribe-resort/image_06.gif",
+    "condos_images/caribe-resort/image_07.png"
+  ],
+  "image_count": 8
 }

@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "WDs Wine, Beer & Liquor is a destination for good times and great drinks. Pick up your go-tos or discover a new favorite with our helpful color-coded tags. Plus, create the perfect charcuterie board! Over 1,700 bottles of wine from around the world, with intriguing selection of over 500 different brews with more than 70 locally made. Impressive variety of bourbon, scotch, tequila, rum, cognacs and ideas for mixing up new cocktails. Robust collection of cigars from all over the world. Over 70 specialty cheeses and toppings to choose from to build the perfect charcuterie board. Commitment to quality and a close relationship with growers, distillers and brewers keeps selection top notch.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "9:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "9:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "9:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "9:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "9:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "9:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "9:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,137 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "wine",
+      "tag_category": null
+    },
+    {
+      "tag": "beer",
+      "tag_category": null
+    },
+    {
+      "tag": "liquor",
+      "tag_category": null
+    },
+    {
+      "tag": "spirits",
+      "tag_category": null
+    },
+    {
+      "tag": "craft beer",
+      "tag_category": null
+    },
+    {
+      "tag": "local breweries",
+      "tag_category": null
+    },
+    {
+      "tag": "charcuterie",
+      "tag_category": null
+    },
+    {
+      "tag": "cigars",
+      "tag_category": null
+    },
+    {
+      "tag": "bourbon",
+      "tag_category": null
+    },
+    {
+      "tag": "scotch",
+      "tag_category": null
+    },
+    {
+      "tag": "tequila",
+      "tag_category": null
+    },
+    {
+      "tag": "rum",
+      "tag_category": null
+    },
+    {
+      "tag": "cognac",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "Jacksonville",
+      "tag_category": null
+    },
+    {
+      "tag": "specialty drinks",
+      "tag_category": null
+    },
+    {
+      "tag": "color-coded guides",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery available",
+      "tag_category": null
+    },
+    {
+      "tag": "Liquor Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wine Retailers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beer Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Specialty Beverages",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Retail Alcohol",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Grocery Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Food and Drink",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "retail-liquor-store",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "844-745-0463",
+  "email": "media@thewinndixiecompany.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "WDs Wine, Beer & Liquor",
+      "phone": "844-745-0463",
+      "address": {
+        "street": "4472 Hendricks Ave",
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32207",
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "https://www.winndixie.com/wds"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.945Z"
 }

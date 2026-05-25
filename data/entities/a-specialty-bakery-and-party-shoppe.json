@@ -6,8 +6,8 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "A Specialty Bakery and Party Shoppe has been the go-to destination in Gulf Shores, AL, for those looking to add a touch of sweetness and joy to their celebrations. Our dedication to quality, creativity, and customer satisfaction sets us apart. Making custom cakes that are as beautiful to look at as they are to eat, we're here to ensure your special moments are unforgettable. Let us be part of your next celebration and help satisfy your next sweet tooth! At A Specialty Bakery and Party Shoppe, we are passionate about creating delicious and beautiful custom cakes for all occasions. Our journey began with a love for baking and a desire to bring joy to our customers through our delectable treats. From weddings to birthdays and everything in between, we are dedicated to making each celebration extra special with our handcrafted, one-of-a-kind creations. Our custom cakes are the heart and soul of our bakery. With a variety of cake flavors and icing options, we can bring your vision to life in the form of a delectable, personalized masterpiece. Whether you prefer a traditional tiered cake or a modern confection, we are here to make your dream cake a reality. In addition to our custom cakes, we also offer a delightful selection of handheld sweets, including cookies, cupcakes, cake truffles, brownies, cheese straws, and chocolate-dipped strawberries. Perfect for any occasion or just as a sweet treat for yourself, our handheld sweets are sure to satisfy your cravings.",
-  "phone": null,
-  "email": null,
+  "phone": "251-968-2253",
+  "email": "aspecialtybakery@gulftel.com",
   "website_url": "http://aspecialtybakery.net/",
   "address_line_1": "2200 East 2nd Street",
   "city": "Gulf Shores",
@@ -17,7 +17,38 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "09:00",
+      "close_time": "12:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +57,116 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "bakery",
+      "tag_category": null
+    },
+    {
+      "tag": "custom cakes",
+      "tag_category": null
+    },
+    {
+      "tag": "cupcakes",
+      "tag_category": null
+    },
+    {
+      "tag": "cookies",
+      "tag_category": null
+    },
+    {
+      "tag": "brownies",
+      "tag_category": null
+    },
+    {
+      "tag": "wedding cakes",
+      "tag_category": null
+    },
+    {
+      "tag": "birthday cakes",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "party supplies",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "handcrafted",
+      "tag_category": null
+    },
+    {
+      "tag": "artisanal",
+      "tag_category": null
+    },
+    {
+      "tag": "celebration",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "Bakeries",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Desserts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cafes",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Food & Drink",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Party Supplies",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wedding Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "data.json",
+      "name": "A Specialty Bakery and Party Shoppe",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:20.637Z"
 }

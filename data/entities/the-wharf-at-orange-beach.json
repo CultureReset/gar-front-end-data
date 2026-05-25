@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "The Wharf is a premier, 222-acre entertainment district located at Foley Beach Expressway and Canal Road in Orange Beach, AL. The Wharf is a relaxed, family friendly atmosphere with a 15-screen movie theater, one of the tallest Ferris wheels in the Southeast, the Wharf Express Train, an 18-hole Mini Golf Course and ziplines. With an array of amenities, choose from over 30 retail shops specializing in fashion, home, souvenirs and spas. Enjoy fine dining, casual southern flair and local seafood favorites at numerous restaurants. The property features Portside on Main, which consists of over 33,000 square feet of retail, office and entertainment space, in addition to approximately 26,000 square feet of green and open space which includes an outdoor stage.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "12:00",
+      "close_time": "18:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,150 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "attractions",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "ferris wheel",
+      "tag_category": null
+    },
+    {
+      "tag": "shopping",
+      "tag_category": null
+    },
+    {
+      "tag": "restaurants",
+      "tag_category": null
+    },
+    {
+      "tag": "movie theater",
+      "tag_category": null
+    },
+    {
+      "tag": "mini golf",
+      "tag_category": null
+    },
+    {
+      "tag": "ziplines",
+      "tag_category": null
+    },
+    {
+      "tag": "orange beach",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "things to do",
+      "tag_category": null
+    },
+    {
+      "tag": "destination",
+      "tag_category": null
+    },
+    {
+      "tag": "theme park",
+      "tag_category": null
+    },
+    {
+      "tag": "entertainment district",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor activities",
+      "tag_category": null
+    },
+    {
+      "tag": "dining",
+      "tag_category": null
+    },
+    {
+      "tag": "retail",
+      "tag_category": null
+    },
+    {
+      "tag": "nightlife",
+      "tag_category": null
+    },
+    {
+      "tag": "events venue",
+      "tag_category": null
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Theme Parks & Amusement",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Event Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "attractions",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-224-1000",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-attractions.json",
+      "name": "The Wharf at Orange Beach",
+      "phone": "251-224-1000",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.558Z"
 }

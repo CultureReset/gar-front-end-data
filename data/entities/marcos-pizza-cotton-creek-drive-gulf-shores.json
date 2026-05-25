@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Founded in Oregon, Ohio, just outside of Toledo, Marco's Pizza has been a Slice of the Community since 1978. We got here by doing things the right way, because when you love pizza this much, that's the only way to do things. Our dedication to quality has made us one of the fastest-growing pizza brands in America, providing plenty of delicious moments and opportunities along the way. Our founder, Pasquale 'Pat' Giammarco, learned the importance of doing things the right way in the Old World, bringing with him a dedication to never cutting corners. Pat founded Marco's Pizza in 1978, and we've been cutting delicious slices ever since. What was one store in the Toledo area is now over 1,100 stores across 33 states with locations in Puerto Rico and the Bahamas. Today, we are the fastest-growing pizza company in America and #5 in systemwide sales. We prepare fresh dough daily in our stores, use our original sauce recipe, and top every pizza with our signature three-cheese blend. Counter-serve chain serving up a menu of specialty or custom pizzas for takeout or delivery.",
-  "phone": null,
+  "phone": "(251) 975-1200",
   "email": "datainquiry@marcos.com",
   "website_url": "https://www.marcos.com",
   "address_line_1": "160 Cotton Creek Drive",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:30",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:30",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:30",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:30",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:30",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:30",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "10:30",
+      "close_time": "23:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,112 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "pizza",
+      "tag_category": null
+    },
+    {
+      "tag": "fast-casual",
+      "tag_category": null
+    },
+    {
+      "tag": "italian",
+      "tag_category": null
+    },
+    {
+      "tag": "wings",
+      "tag_category": null
+    },
+    {
+      "tag": "salads",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "carryout",
+      "tag_category": null
+    },
+    {
+      "tag": "curbside",
+      "tag_category": null
+    },
+    {
+      "tag": "dine-in",
+      "tag_category": null
+    },
+    {
+      "tag": "thin crust",
+      "tag_category": null
+    },
+    {
+      "tag": "specialty pizza",
+      "tag_category": null
+    },
+    {
+      "tag": "build-your-own",
+      "tag_category": null
+    },
+    {
+      "tag": "quick service",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pizza",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Italian Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fast Casual",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Takeout",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Delivery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dine-In",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-other.json",
+      "name": "Marco's Pizza Cotton Creek Drive, Gulf Shores",
+      "phone": "(251) 975-1200",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:26.602Z"
 }

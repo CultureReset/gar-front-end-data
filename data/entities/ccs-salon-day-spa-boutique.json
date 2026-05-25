@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "CC's Salon, Day Spa, and Boutique is a full-service salon designed to help you relax and unwind serving clients in Gulf Shores, Perdido Key, Foley, and Orange Beach. Our salon professionals use their 50+ years of combined experience to help clients escape their busy schedules and focus on beauty, relaxation, and style. Located on Gulf Shores Parkway, our team strives to provide premier customer service with Gulf Coast charm. To us, our customers are more than clients – they're friends. We help our friends tell their stories through beauty and style. Since 2009, CC's Salon, Day Spa & Boutique has been helping clients in Gulf Shores, Orange Beach, Foley, and Perdido Key look and feel their best. At CC's, our clients are more than guests – they're friends. Our salon professionals, estheticians, and nail technicians help clients achieve the perfect look through our hair design services, fresh manicures and pedicures, our trendy boutique items, and more.",
-  "phone": null,
+  "phone": "(251) 968-2077",
   "email": "gulfshoressalon@yahoo.com",
   "website_url": "https://www.ccssalondayspaboutique.com/",
   "address_line_1": "1556 Gulf Shores Parkway, Building 5",
@@ -17,7 +17,44 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "08:00",
+      "close_time": "14:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,148 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "hair salon",
+      "tag_category": null
+    },
+    {
+      "tag": "day spa",
+      "tag_category": null
+    },
+    {
+      "tag": "boutique",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "manicures",
+      "tag_category": null
+    },
+    {
+      "tag": "pedicures",
+      "tag_category": null
+    },
+    {
+      "tag": "massage",
+      "tag_category": null
+    },
+    {
+      "tag": "facials",
+      "tag_category": null
+    },
+    {
+      "tag": "waxing",
+      "tag_category": null
+    },
+    {
+      "tag": "makeup",
+      "tag_category": null
+    },
+    {
+      "tag": "microblading",
+      "tag_category": null
+    },
+    {
+      "tag": "eyelash extensions",
+      "tag_category": null
+    },
+    {
+      "tag": "cryotherapy",
+      "tag_category": null
+    },
+    {
+      "tag": "bridal services",
+      "tag_category": null
+    },
+    {
+      "tag": "wedding hair",
+      "tag_category": null
+    },
+    {
+      "tag": "special events",
+      "tag_category": null
+    },
+    {
+      "tag": "hair color",
+      "tag_category": null
+    },
+    {
+      "tag": "hair extensions",
+      "tag_category": null
+    },
+    {
+      "tag": "Brazilian blowout",
+      "tag_category": null
+    },
+    {
+      "tag": "Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Day Spas",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beauty & Wellness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hair Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nail Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Massage Therapy",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Esthetics",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Boutique",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bridal Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "beauty-wellness",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "salon-spa",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-shopping.json",
+      "name": "CC's Salon, Day Spa & Boutique",
+      "phone": "(251) 968-2077",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.355Z"
 }

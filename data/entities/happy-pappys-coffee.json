@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "At Happy Pappys Coffeehouse, every cup of coffee tells a story – and it's our family's story we're proud to share with you. The Papadelias' have always had an infatuation with coffee. Even the kids, Mallorie and Tony, picked up a taste for coffee at an early age. Prior to opening Happy Pappys, Thomas worked for an insurance company that took him to Texas short-term. The initial month of work turned into years! Missing his family as they prayed for his work to bring him home, Thomas was in search of a way to get back home to Gulf Shores. He knew it was time to act on his dream of owning his own business. When Julie, Mallorie, and Tony were in Texas visiting, the family stumbled upon a coffee shop outside of Dallas and was struck with inspiration. Not only was this a place where you can get high-quality coffee, but a space where you feel at home. The vision for Happy Pappys Coffeehouse was born. After 5 years, Thomas was finally able to move back to Gulf Shores. He and Julie sat down and diligently planned their coffee shop, and asked Mallorie and Tony to contribute to the planning. After 3 years of creating a business plan, searching for the right building, expanding their coffee knowledge, and encapsulating their vision for what the community wanted and needed, Happy Pappys Coffeehouse was born. We opened in August of 2019, surviving both Hurricane Sally and the COVID Pandemic in our first year of business. We are blessed and have proudly served our community since then. We knew we wanted to bring a special place to our community. Everyone needs a physical space beyond home and work—a third place. A place found on one's own that brings a sense of belonging, community, and connection from others. Here at Happy Pappy's Coffeehouse, that's exactly what we aim to do for the community we love! We serve others high quality coffee, a delicious light fare of food and pastries, and most importantly, provide our customers with a genuine love, happiness, and belonging. Our story began with a simple appreciation for good coffee — now, we've turned a passion into a place where friends and family can gather, sip, and create memories. We look forward to serving you soon, Be Happy! Mission: Happy Pappys is a local, family-owned coffee shop with a vision to spread love and happiness throughout the community. Our mission is to provide a premium \"third place\" where patrons can unwind, socialize, and recharge, all while enjoying high-quality coffee and delicious foods. At Happy Pappys, we are dedicated to creating a welcoming space that brings joy in every visit. Be happy!",
-  "phone": null,
+  "phone": "(251) 967-2779",
   "email": null,
   "website_url": "https://www.happypappyscoffee.com",
   "address_line_1": "1550 West 2nd Street, Unit A5",
@@ -17,7 +17,44 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "7:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "7:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "7:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "7:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "7:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "7:00 AM",
+      "close_time": "1:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,104 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "coffee",
+      "tag_category": null
+    },
+    {
+      "tag": "cafe",
+      "tag_category": null
+    },
+    {
+      "tag": "coffeehouse",
+      "tag_category": null
+    },
+    {
+      "tag": "third place",
+      "tag_category": null
+    },
+    {
+      "tag": "local",
+      "tag_category": null
+    },
+    {
+      "tag": "family-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "pastries",
+      "tag_category": null
+    },
+    {
+      "tag": "sandwiches",
+      "tag_category": null
+    },
+    {
+      "tag": "light fare",
+      "tag_category": null
+    },
+    {
+      "tag": "specialty coffee",
+      "tag_category": null
+    },
+    {
+      "tag": "community gathering",
+      "tag_category": null
+    },
+    {
+      "tag": "coffee shop",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Coffee Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cafes",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Food & Drink",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Local Businesses",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-coffee-sweets.json",
+      "name": "Happy Pappys Coffee",
+      "phone": "(251) 967-2779",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.727Z"
 }

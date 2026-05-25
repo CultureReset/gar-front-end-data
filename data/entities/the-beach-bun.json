@@ -6,17 +6,60 @@
   "entity_subtype": "park",
   "icon": "🏪",
   "description": "The Beach Bun brings burgers, dogs, and more to Orange Beach! Family-owned, fun, and full of flavor—come grab your new go-to meal. Burgers. Dogs. Beach Days Forever.",
-  "phone": null,
-  "email": null,
+  "phone": "(251) 398-2866",
+  "email": "TheBeachBun@LyonsDenHoldingsLLC.com",
   "address_line_1": "Orange Beach, AL",
   "city": "",
   "state": "AL",
   "zip": null,
   "website_url": "https://www.thebeachbunoba.com",
-  "rating": 4,
+  "rating": 4.5,
   "review_count": null,
   "hero_image_url": null,
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00am",
+      "close_time": "06:00pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00am",
+      "close_time": "06:00pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00am",
+      "close_time": "06:00pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00am",
+      "close_time": "06:00pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00am",
+      "close_time": "08:00pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00am",
+      "close_time": "08:00pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00am",
+      "close_time": "06:00pm",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,102 @@
   "events": [],
   "photos": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "hot dogs",
+      "tag_category": null
+    },
+    {
+      "tag": "smash burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "beach restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "fast casual",
+      "tag_category": null
+    },
+    {
+      "tag": "American food",
+      "tag_category": null
+    },
+    {
+      "tag": "comfort food",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Burgers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hot Dogs",
+      "tag_category": "category"
+    },
+    {
+      "tag": "American Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Takeout",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "website": "https://thebeachbunoba.com/",
+  "address": "25775 Perdido Beach Blvd Ste A",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "MASTER-BUSINESSES.json",
+      "name": "The Beach Bun",
+      "phone": "+1 251-398-2866",
+      "address": "25775 Perdido Beach Blvd Ste A, Orange Beach, AL 36561, USA",
+      "placeId": "",
+      "website": "https://thebeachbunoba.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.175Z"
 }

@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "IHG Hotels & Resorts is a global hospitality company operating in more than 100 countries with over 6,000 hotels and 880,000 rooms. We are home to some of the world's most trusted and successful brands including Six Senses, Regent Hotels, InterContinental Hotels and Resorts, Vignette Collection, Kimpton, Hotel Indigo, Iberostar Beachfront Resorts, voco, Ruby, Crowne Plaza, EVEN, Hualuxe Hotels & Resorts, Holiday Inn, Holiday Inn Resort, Holiday Inn Express, Garner, avid hotels, Atwell Suites, Staybridge Suites, Holiday Inn Club Vacations, and Candlewood Suites. We predominantly franchise our brands to, and manage hotels on behalf of, independent owners. We also operate IHG® One Rewards, our core loyalty programme. We provide a team of global hospitality experts focused on building sustainable hotel businesses through comprehensive support at every stage of the hotel lifecycle, from initial development through to ongoing operations.",
-  "phone": null,
+  "phone": "1-877-834-3613",
   "email": "privacyoffice@ihg.com",
   "website_url": "https://www.ihg.com",
   "address_line_1": "Three Ravinia Drive",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,128 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "hotel chain",
+      "tag_category": null
+    },
+    {
+      "tag": "luxury hotels",
+      "tag_category": null
+    },
+    {
+      "tag": "budget hotels",
+      "tag_category": null
+    },
+    {
+      "tag": "mid-range hotels",
+      "tag_category": null
+    },
+    {
+      "tag": "extended stay",
+      "tag_category": null
+    },
+    {
+      "tag": "loyalty program",
+      "tag_category": null
+    },
+    {
+      "tag": "business travel",
+      "tag_category": null
+    },
+    {
+      "tag": "leisure travel",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "pet friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "all-inclusive resorts",
+      "tag_category": null
+    },
+    {
+      "tag": "beach resorts",
+      "tag_category": null
+    },
+    {
+      "tag": "city hotels",
+      "tag_category": null
+    },
+    {
+      "tag": "golf resorts",
+      "tag_category": null
+    },
+    {
+      "tag": "spa resorts",
+      "tag_category": null
+    },
+    {
+      "tag": "Hotels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Luxury Hotels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Budget Hotels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Resort Hotels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Business Hotels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Hotels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pet-Friendly Hotels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "All-Inclusive Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Extended Stay Hotels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "hotel-chain",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "IHG Hotels & Resorts",
+      "phone": "(770) 604-2000",
+      "address": "",
+      "placeId": "",
+      "website": "https://www.ihg.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:25.275Z"
 }

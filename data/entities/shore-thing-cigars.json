@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Shore Thing Cigars is like no other cigar experience. Located on scenic highway 30A in Watersound, FL, the stand alone building is completely open and bright with filtered fresh air and a unique lifestyle lounge. Local draft beers and wines available by the bottle and glass compliment the large walk in humidor, full of hand crafted premium cigars. Shore Thing Cigars is a unique store in its design and business concept. The \"break the mold\" business has won several industry awards and has countless write-ups in magazines and has been featured on Fox News, the New York Times, Daily Mail, and many other platforms. Owned by Award Winning Country Music Star and American Idol Judge, Luke Bryan and by Paul Copeland who has over 10 years in the premium cigar industry. Spend your time off the beach or boat with us, see you soon!",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00 AM",
+      "close_time": "12:00 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00 AM",
+      "close_time": "12:00 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "12:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,107 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "cigars",
+      "tag_category": null
+    },
+    {
+      "tag": "premium cigars",
+      "tag_category": null
+    },
+    {
+      "tag": "beer",
+      "tag_category": null
+    },
+    {
+      "tag": "wine",
+      "tag_category": null
+    },
+    {
+      "tag": "lifestyle lounge",
+      "tag_category": null
+    },
+    {
+      "tag": "30A",
+      "tag_category": null
+    },
+    {
+      "tag": "Watersound Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Luke Bryan",
+      "tag_category": null
+    },
+    {
+      "tag": "humidor",
+      "tag_category": null
+    },
+    {
+      "tag": "cigar shop",
+      "tag_category": null
+    },
+    {
+      "tag": "local",
+      "tag_category": null
+    },
+    {
+      "tag": "Panhandle Florida",
+      "tag_category": null
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cigars & Accessories",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beverages",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lifestyle Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "retail-lifestyle",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "retail",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(850) 213-3750",
+  "email": "room319@shorethingcigars.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "Shore Thing Cigars",
+      "phone": "(850) 213-3750",
+      "address": "",
+      "placeId": "",
+      "website": "http://shorethingcigars.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:28.736Z"
 }

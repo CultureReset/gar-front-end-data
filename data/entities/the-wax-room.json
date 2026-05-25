@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Wax Room, Body Bar and Massage Therapy We offer a variety of services for women and men and it's all in one incredible place. We help you, take care of you. The best journey in life is the journey back to yourself. Take a well-deserved break from the stresses of your busy day to focus on you. With a full-range of professional treatments The Wax Room and Body Bar is the ultimate rejuvenating and relaxing experience. Serving Orange beach, Gulf Shores, Perdido Key and Foley!",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,31 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "beauty-wellness",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "salon",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 223-9489",
+  "email": "thewaxroomoba@gmail.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-bars.json",
+      "name": "The Wax Room",
+      "phone": "(251) 223-9489",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.551Z"
 }

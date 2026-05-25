@@ -5,8 +5,8 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
-  "phone": null,
+  "description": "All Island Flowers is a local Orange Beach, AL florist delivering friendly and professional service along with the highest quality flowers and gift items around. Let our talented florists design a flower arrangement that suits the occasion, as well as your budget and the particular style you're seeking. Our courteous staff is ready to assist you with placing orders for local delivery in Orange Beach AL, Gulf Shores, AL and Perdido Key, FL or anywhere in the world. If you're not sure what to send, let our florists create an arrangement using this season's best flowers. All Island Flowers is open to serve your flower and gift giving needs. We offer wedding and special event flowers, sympathy and memorial flowers, and wonderful gift items for any occasion including lush green and flowering plants, dish gardens, environmentally-friendly candles, luxury spa and bath products, chocolates, gift baskets, baby items, and home décor.",
+  "phone": "(251) 981-9188",
   "email": null,
   "website_url": "https://www.allislandflowers.net/",
   "address_line_1": "",
@@ -17,7 +17,44 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "14:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,100 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "florist",
+      "tag_category": null
+    },
+    {
+      "tag": "flower delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "floral arrangements",
+      "tag_category": null
+    },
+    {
+      "tag": "wedding flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "sympathy flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "orange beach",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf shores",
+      "tag_category": null
+    },
+    {
+      "tag": "perdido key",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "gift baskets",
+      "tag_category": null
+    },
+    {
+      "tag": "plants",
+      "tag_category": null
+    },
+    {
+      "tag": "seasonal flowers",
+      "tag_category": null
+    },
+    {
+      "tag": "Florists",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gift Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Flowers & Gifts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wedding Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Event Planning",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "retail-flowers",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "florist",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "12_gcr-other-COMPLETE_json.json",
+      "name": "ALL ISLAND FLOWERS",
+      "phone": "(251) 981-9188",
+      "address": "25405 Perdido Beach Blvd. Ste 7A",
+      "placeId": "",
+      "website": "https://www.allislandflowers.net"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.785Z"
 }

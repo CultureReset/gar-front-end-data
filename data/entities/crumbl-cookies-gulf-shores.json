@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Crumbl started with one big dream, a unique cookie concept, and a desire to bring friends and family together. What started as a small cookie shop in Logan, Utah in 2017 by co-founders Jason McGowan and Sawyer Hemsley has grown to over 1000 locations offering fresh baked gourmet cookies with 6 classic flavors plus 4 new rotating flavors every week. Looking for the best cookie and dessert delivery service in Gulf Shores, Alabama? We offer a variety of gourmet treats ready to be delivered straight to your door. We also offer in-store pickup and catering from our locally owned and operated dessert shop. Our desserts are made fresh daily with an exciting weekly rotating menu from the best chocolate chip cookies to mini pies and cakes. Crumbl delivers unique flavors that are perfect for gifting and sharing with friends and family. With the genius idea of structuring the bakery as an open-concept kitchen, Crumbl provides customers a first-hand experience watching as their cookies are mixed, balled, and baked. Crumbl's boxes are designed perfectly to fit each cookie and dessert side by side. The brand's most popular and notable 4-Pack pink box was developed in 2018 by founder Sawyer Hemsley and his fellow college classmates.",
-  "phone": null,
+  "phone": "(251) 238-6939",
   "email": "[email protected]",
   "website_url": "https://crumblcookies.com",
   "address_line_1": "3800 Gulf Shores Pkwy, Bldg 100, Ste 138",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "08:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "08:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "08:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "08:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "08:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "08:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "08:00",
+      "close_time": "22:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,120 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "cookies",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "gourmet cookies",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh baked",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "pickup",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "rotating menu",
+      "tag_category": null
+    },
+    {
+      "tag": "chocolate chip",
+      "tag_category": null
+    },
+    {
+      "tag": "mini pies",
+      "tag_category": null
+    },
+    {
+      "tag": "cakes",
+      "tag_category": null
+    },
+    {
+      "tag": "pink box",
+      "tag_category": null
+    },
+    {
+      "tag": "dirty sodas",
+      "tag_category": null
+    },
+    {
+      "tag": "franchise",
+      "tag_category": null
+    },
+    {
+      "tag": "dessert shop",
+      "tag_category": null
+    },
+    {
+      "tag": "Bakery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Desserts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cookies",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Food & Drink",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Delivery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Takeout",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gourmet Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "bakery",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-other.json",
+      "name": "Crumbl Cookies Gulf Shores",
+      "phone": "(251) 238-6939",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.514Z"
 }

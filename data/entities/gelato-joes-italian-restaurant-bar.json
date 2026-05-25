@@ -4,9 +4,9 @@
   "entity_type": "restaurant",
   "entity_subtype": "restaurants",
   "icon": "🏪",
-  "description": "",
+  "description": "Counter-serve eatery with Italian sandwiches & dishes, plus homemade desserts & an outdoor tiki bar.",
   "city": "",
-  "hours": [],
+  "hours": "[\\Monday: 11:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u200910:00\\\\u202fPM\\, \\Tuesday: 11:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u200910:00\\\\u202fPM\\, \\Wednesday: 11:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u200910:00\\\\u202fPM\\, \\Thursday: 11:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u200910:00\\\\u202fPM\\, \\Friday: 11:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u200910:00\\\\u202fPM\\, \\Saturday: 11:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u200910:00\\\\u202fPM\\, \\Sunday: 11:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u20098:00\\\\u202fPM\\]",
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -15,10 +15,255 @@
   },
   "events": [],
   "photos": [],
-  "hero_image_url": null,
+  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN1cMpRLp7Ohg3AS6gXdunZzah6hDeiB_6EJCVpgryvU1BLEox3wHQIsZe_c6NzF6fkekg0geeh6Ft5xMHeJvL3Ubje7CSEcljlQLFQI3fvB2mCBmAh7l1DpAfEpUNfSQqInrDfI_oo9mQzZhXbo3uUOLziUk9YsqUQ2HaciL3G7cb0Dy2WVYSdkP1IphimPMY8AjKyPPj52DIUrEugJXXc2k7F0DLMAydqQQr2hCJx2yw4eGeh-w7AdKkw_rD2DgFPZ1cUJLvMFpQZTmAgWHEBMZIFz_DHqDmY5ONKOvZXGSQ&key=AIzaSyA53S45dU9xRY5D-YKfEPPIHA1cP_nBvTY",
   "amenities": [],
-  "tags": [],
+  "tags": [
+    "bakery",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "store",
+    {
+      "tag": "italian",
+      "tag_category": null
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "gelato",
+      "tag_category": null
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "foley-alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "karaoke-nights",
+      "tag_category": null
+    },
+    {
+      "tag": "live-music",
+      "tag_category": null
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "bar",
+      "tag_category": null
+    },
+    {
+      "tag": "reservations",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "date-night",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Italian",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bar",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Desserts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gelato",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Live Music",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Karaoke",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Fun",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Italian restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "gelato",
+      "tag_category": null
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "paninis",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "bar",
+      "tag_category": null
+    },
+    {
+      "tag": "karaoke",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "trivia night",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "Foley Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "date night",
+      "tag_category": null
+    },
+    {
+      "tag": "handcrafted gelato",
+      "tag_category": null
+    },
+    {
+      "tag": "authentic Italian",
+      "tag_category": null
+    },
+    {
+      "tag": "homemade pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "wine bar",
+      "tag_category": null
+    },
+    {
+      "tag": "entertainment venue",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Italian Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Lounges",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dessert Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 971-5637",
+  "address": "202 E Michigan Ave A",
+  "menus": [],
+  "website": "https://gelatojoesfoley.com/",
+  "rating": 4.6,
+  "google_places_id": "ChIJzbilBD4OmogRExBWNK4eHFs",
+  "email": "gelatojoes@aol.com",
+  "businesses": [
+    {
+      "source": "google-places-critical.json",
+      "name": "Gelato Joe's Italian Restaurant & Bar",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:20.963Z"
 }

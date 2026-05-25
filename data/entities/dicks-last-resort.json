@@ -5,9 +5,9 @@
   "entity_type": "restaurant",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
-  "phone": null,
-  "email": null,
+  "description": "It was 1985. Leg warmers and mullets were the rage. Dick was hard up. His big league plans had failed and opening a laid back bar full of attitude was all he could muster up the strength to do. Dick's was really his last resort. Thankfully, dick jokes became synonymous with good food & cold beers and the first Dick's Last Resort opened with huge success in the West End in Dallas, TX. Dick's traveled the world, partied with celebrities, had an ex-wife or two and opened a custom trailer home dealership too. Dick delivered to the world & QVC many innovative technologies, contributed to modern medicine and ghostwrote over fifty Top 10 radio hits. In spite of all the fame and fortune, Dick longed to return to his roots, the place where he could be true to himself. Is Dick real? Hell yes. Is he feisty? More than ever. Will you meet him? Maybe. Because Dick's done dicking around. Dick's Last Resort is a fun, sarcastic casual dining restaurant serving food and drinks with a side of sass. We serve you and your guests as much food, drinks and scarcasm as they can handle. With multiple locations across the Gulf Coast and beyond, Dick's is known for its feisty atmosphere, roasting service, free insults, free paper hats, free ketchup, and an experience unlike any other.",
+  "phone": "210-504-6690",
+  "email": "ali@dickslastresort.com",
   "website_url": "https://dickslastresort.com",
   "address_line_1": "",
   "city": "",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "12:00 PM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "12:00 PM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "12:00 PM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "12:00 PM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "12:00 PM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:30 AM",
+      "close_time": "11:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "10:30 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,253 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "fun atmosphere",
+      "tag_category": null
+    },
+    {
+      "tag": "sarcastic service",
+      "tag_category": null
+    },
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "BBQ",
+      "tag_category": null
+    },
+    {
+      "tag": "ribs",
+      "tag_category": null
+    },
+    {
+      "tag": "wings",
+      "tag_category": null
+    },
+    {
+      "tag": "tacos",
+      "tag_category": null
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "salads",
+      "tag_category": null
+    },
+    {
+      "tag": "appetizers",
+      "tag_category": null
+    },
+    {
+      "tag": "full bar",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "beer",
+      "tag_category": null
+    },
+    {
+      "tag": "wine",
+      "tag_category": null
+    },
+    {
+      "tag": "frozen drinks",
+      "tag_category": null
+    },
+    {
+      "tag": "group events",
+      "tag_category": null
+    },
+    {
+      "tag": "birthday parties",
+      "tag_category": null
+    },
+    {
+      "tag": "bachelorette parties",
+      "tag_category": null
+    },
+    {
+      "tag": "conventions",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "kids menu",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor seating",
+      "tag_category": null
+    },
+    {
+      "tag": "private dining",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "roasting service",
+      "tag_category": null
+    },
+    {
+      "tag": "free insults",
+      "tag_category": null
+    },
+    {
+      "tag": "free paper hats",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast dining",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation destination",
+      "tag_category": null
+    },
+    {
+      "tag": "tourist friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "American Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "BBQ & Grilled",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Burgers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Mexican Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pasta & Italian",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Appetizers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Salads",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bar & Grill",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Full Bar",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cocktail Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beer Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Group Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Party Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Kids Friendly",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Dick's Last Resort",
+      "phone": "210-504-6690",
+      "address": {
+        "street": "Multiple Locations",
+        "city": "Various",
+        "state": "Multiple States",
+        "zip": "Various"
+      },
+      "placeId": "",
+      "website": "https://dickslastresort.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.897Z"
 }

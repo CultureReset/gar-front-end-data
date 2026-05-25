@@ -4,9 +4,40 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Gulf Coast Bank & Trust Company offers several personal & business banking services to the communities in Baton Rouge, New Orleans, and surrounding Southeast Louisiana areas, as well as Florida and Alabama. Banking services include checking and savings accounts with online and mobile banking options as well as personal loans, home loans, business loans, and trust and brokerage services. Our mission is to strengthen our relationship with our customers by combining the values of old fashioned community banking that focus on individualized customer service with innovative, competitive banking products and trust and brokerage services. Originally founded in 1883 as American Savings, the bank was taken over in 1990 by a group of local investors led by Bank Chairman and CEO Guy T. Williams who shared a vision of building a bank that adhered to the old principles of customer service, yet backed them with the most powerful of today's banking technologies. Gulf Coast's philosophy remains people-oriented. We help our customers get what they want, one on one. Banking today is more complicated, but that doesn't mean it has to be an ordeal. We work with our customers individually to match our services to their needs. We make banking easy and secure for our customers by providing straight talk instead of the old run-around.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "8:30",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "8:30",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "8:30",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "8:30",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "8:30",
+      "close_time": "17:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +48,115 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "banking",
+      "tag_category": null
+    },
+    {
+      "tag": "personal banking",
+      "tag_category": null
+    },
+    {
+      "tag": "business banking",
+      "tag_category": null
+    },
+    {
+      "tag": "loans",
+      "tag_category": null
+    },
+    {
+      "tag": "mortgages",
+      "tag_category": null
+    },
+    {
+      "tag": "trust services",
+      "tag_category": null
+    },
+    {
+      "tag": "wealth management",
+      "tag_category": null
+    },
+    {
+      "tag": "checking accounts",
+      "tag_category": null
+    },
+    {
+      "tag": "savings accounts",
+      "tag_category": null
+    },
+    {
+      "tag": "financial planning",
+      "tag_category": null
+    },
+    {
+      "tag": "investment services",
+      "tag_category": null
+    },
+    {
+      "tag": "community bank",
+      "tag_category": null
+    },
+    {
+      "tag": "Louisiana bank",
+      "tag_category": null
+    },
+    {
+      "tag": "FDIC insured",
+      "tag_category": null
+    },
+    {
+      "tag": "Banks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Financial Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Mortgage Lenders",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wealth Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Trust Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Business Banking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Personal Banking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "financial-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "bank",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "email": "callcenter@gulfbank.com",
+  "menus": [],
+  "phone": "1-800-223-2060",
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "Gulf Coast Bank & Trust Company",
+      "phone": "(504) 539-7310",
+      "address": "",
+      "placeId": "",
+      "website": "https://www.gulfbank.com/transcontinental"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.324Z"
 }

@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Welcome To SeaSpray of Perdido Key Florida! We would like to welcome everyone to visit our newly renovated property! With new water facing windows, new signage, fresh paint and beautiful landscaping, the 7 sprawling acres of SeaSpray are sure to be your vacation destination for years & years to come. Nestled on 300 feet of gulf front property, SeaSpray offers one, two, and three bedroom condominiums for your perfect vacation rental. The East and West buildings are directly on the gulf overlooking the pristine white sandy beach. Across the street is the River building which overlooks Ol' River and Marina. SeaSpray offers 3 swimming pools, hot tub, fitness center, tennis courts, a BBQ grill area, and our beautiful Marina with boat launch. Nineteen boat slips are available for guests to use. Sailing, boating, jet skiing, kayaking, fishing, and biking are just a few of the activities the area has to offer. Moments away are some of the best restaurants serving local fare and live music. Close by is the Naval Air Museum, home to the Blue Angels, the Navy's flight demonstration team. Visit historic downtown Pensacola, named \"The Greatest Place in Florida\" by the American Planning Association People's Choice Award.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,91 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "vacation rental",
+      "tag_category": null
+    },
+    {
+      "tag": "condo rental",
+      "tag_category": null
+    },
+    {
+      "tag": "beach resort",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf front",
+      "tag_category": null
+    },
+    {
+      "tag": "riverside",
+      "tag_category": null
+    },
+    {
+      "tag": "perdido key",
+      "tag_category": null
+    },
+    {
+      "tag": "florida",
+      "tag_category": null
+    },
+    {
+      "tag": "family vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront property",
+      "tag_category": null
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Condo Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Properties",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Perdido Key Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "+1-850-492-2200",
+  "email": "rentals@seasprayperdidokey.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "pensacola-accommodations.json",
+      "name": "SeaSpray Perdido Key",
+      "phone": "+1-850-492-2200",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:28.704Z"
 }

@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Here at Angel Hair Salon & Boutique, we are dedicated to making you look and feel your best. Our staff is highly trained in all hair types and a wide range of techniques. Whether you are looking for a spunky new do, a jaw dropping makeover, or a glamorous outfit for a night out on the town, our stylists are here to help. Our goal is to give you exactly what you want and the undivided attention you deserve! We offer a wide range of services, guaranteed to make you look and feel fabulous.",
-  "phone": null,
+  "phone": "(251) 923-6992",
   "email": "angelhair2013@gmail.com",
   "website_url": "http://myangelhair.com",
   "address_line_1": "128 Cove Avenue",
@@ -17,7 +17,44 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "9:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "9:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "9:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "9:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "9:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "9:00 AM",
+      "close_time": "4:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,128 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "hair salon",
+      "tag_category": null
+    },
+    {
+      "tag": "day spa",
+      "tag_category": null
+    },
+    {
+      "tag": "hair cuts",
+      "tag_category": null
+    },
+    {
+      "tag": "hair color",
+      "tag_category": null
+    },
+    {
+      "tag": "extensions",
+      "tag_category": null
+    },
+    {
+      "tag": "botox",
+      "tag_category": null
+    },
+    {
+      "tag": "fillers",
+      "tag_category": null
+    },
+    {
+      "tag": "makeup",
+      "tag_category": null
+    },
+    {
+      "tag": "lashes",
+      "tag_category": null
+    },
+    {
+      "tag": "brows",
+      "tag_category": null
+    },
+    {
+      "tag": "waxing",
+      "tag_category": null
+    },
+    {
+      "tag": "bridal",
+      "tag_category": null
+    },
+    {
+      "tag": "prom",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "beauty services",
+      "tag_category": null
+    },
+    {
+      "tag": "hair treatment",
+      "tag_category": null
+    },
+    {
+      "tag": "keratin",
+      "tag_category": null
+    },
+    {
+      "tag": "Brazilian blowout",
+      "tag_category": null
+    },
+    {
+      "tag": "Hair Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Day Spas",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beauty Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hair Extensions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Makeup Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cosmetic Procedures",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bridal Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "beauty-and-wellness",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "salon",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-other.json",
+      "name": "Angel Hair Salon & Day Spa",
+      "phone": "(251) 923-6992",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:21.005Z"
 }

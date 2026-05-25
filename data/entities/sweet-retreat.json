@@ -6,7 +6,50 @@
   "icon": "🏪",
   "description": "",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,31 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "unknown",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "unknown",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Sweet Retreat",
+      "phone": "",
+      "address": {
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "https://sweetretreat.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.682Z"
 }

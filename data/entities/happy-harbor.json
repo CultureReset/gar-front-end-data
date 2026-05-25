@@ -6,8 +6,8 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Happy Harbor is the largest watersports company in Orange Beach with two convenient locations. We offer a great atmosphere for families to enjoy water activities with friendly, clean, and fast service. Choose from our huge selection of family fun double-decker pontoons with slides, waverunners, center consoles, kayaks and more. Whether you have a need for speed or would like to cruise on the water for the day, we have it all. Get your happy on at Happy Harbor Marina!",
-  "phone": null,
-  "email": null,
+  "phone": "(251) 981-6111",
+  "email": "info@happyharbors.com",
   "website_url": "https://www.happyharbors.com",
   "address_line_1": "27212 Marina Road",
   "city": "Orange Beach",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,112 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "pontoon-rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "jet-ski-rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "watersports",
+      "tag_category": null
+    },
+    {
+      "tag": "center-console",
+      "tag_category": null
+    },
+    {
+      "tag": "kayak-rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "water-activities",
+      "tag_category": null
+    },
+    {
+      "tag": "family-fun",
+      "tag_category": null
+    },
+    {
+      "tag": "orange-beach",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-shores",
+      "tag_category": null
+    },
+    {
+      "tag": "boat-rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "waverunners",
+      "tag_category": null
+    },
+    {
+      "tag": "paddlesports",
+      "tag_category": null
+    },
+    {
+      "tag": "Watersports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Boat Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Jet Ski Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pontoon Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Fun",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "watersports",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-attractions.json",
+      "name": "Happy Harbor",
+      "phone": "(251) 981-6111",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.723Z"
 }

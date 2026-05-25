@@ -6,7 +6,7 @@
   "entity_subtype": "bar",
   "icon": "🏪",
   "description": "",
-  "phone": null,
+  "phone": "850-492-5600",
   "email": null,
   "address_line_1": "",
   "city": "",
@@ -16,7 +16,44 @@
   "rating": 4,
   "review_count": null,
   "hero_image_url": null,
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "3:00 PM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,116 @@
   "events": [],
   "photos": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "oysters",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "marina",
+      "tag_category": null
+    },
+    {
+      "tag": "Cajun cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "fish",
+      "tag_category": null
+    },
+    {
+      "tag": "steaks",
+      "tag_category": null
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "salads",
+      "tag_category": null
+    },
+    {
+      "tag": "appetizers",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Marina Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cajun Cuisine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "perdido-key-bars.json",
+      "name": "Oyster Bar 31",
+      "phone": "850-492-5600",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.698Z"
 }

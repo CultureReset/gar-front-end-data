@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Since 2004, Advanced Carpet Cleaning and Restoration has been a proud family-owned and operated business. We take great pride in our work and are committed to ensuring every customer is fully satisfied with the results of their cleaning. We love our small island and the community we serve. Whether it's routine cleaning or support during an unexpected disaster, we're dedicated to taking care of our neighbors with the same respect and reliability we'd give our own family. We don't call ourselves the PROS for nothing. From the beach to the Eastern Shore, our team of IICRC-certified technicians delivers expert cleaning that brings new life to your home or business. Our services go beyond carpets. We clean tile and grout, hardwood and LVP flooring, upholstery, drapes, and more, providing professional results you can see and feel.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,219 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "carpet cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "floor cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "tile and grout cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "upholstery cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "water damage restoration",
+      "tag_category": null
+    },
+    {
+      "tag": "fire damage restoration",
+      "tag_category": null
+    },
+    {
+      "tag": "mold remediation",
+      "tag_category": null
+    },
+    {
+      "tag": "odor removal",
+      "tag_category": null
+    },
+    {
+      "tag": "dryer vent cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "car cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "boat cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "RV cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "emergency services",
+      "tag_category": null
+    },
+    {
+      "tag": "24/7 emergency response",
+      "tag_category": null
+    },
+    {
+      "tag": "IICRC certified",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Baldwin County",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "family-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "pet odor",
+      "tag_category": null
+    },
+    {
+      "tag": "smoke odor",
+      "tag_category": null
+    },
+    {
+      "tag": "water extraction",
+      "tag_category": null
+    },
+    {
+      "tag": "hardwood floor cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "area rug cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "oriental rug cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "natural stone cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "vinyl floor cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "furniture restoration",
+      "tag_category": null
+    },
+    {
+      "tag": "mattress cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "sectional cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "sofa cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "chair cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "drape cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "microfiber cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "leather cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "Cleaning Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Home Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Carpet Cleaning",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Floor Cleaning",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Damage Restoration",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fire Damage Restoration",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Mold Remediation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Upholstery Cleaning",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Emergency Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restoration Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Professional Cleaning",
+      "tag_category": "category"
+    },
+    {
+      "tag": "home-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "cleaning-services",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "email": "advanced.carpet.cleaning@gmail.com",
+  "menus": [],
+  "phone": "2519551234",
+  "businesses": [
+    {
+      "source": "orange-beach-other.json",
+      "name": "Advanced Carpet Cleaning & Restoration LLC",
+      "phone": "2519551234",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:20.662Z"
 }

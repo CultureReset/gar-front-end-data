@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Right down the road. If you are in Fort Morgan you are no more than ten minutes away. Fort Morgan Pizza delivers fresh pizza to all beach houses and communities in the Fort Morgan area including Martinique, The Beach Club, The Plantation, Kiva Dunes, Fort Morgan Town Homes, The Indies, The Dunes and every beach house in between.",
-  "phone": null,
+  "phone": "(251) 540-2622",
   "email": null,
   "website_url": "http://www.fortmorganpizza.com/",
   "address_line_1": "9989 Alabama Highway 180",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,94 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "pizza",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "beach area",
+      "tag_category": null
+    },
+    {
+      "tag": "fort morgan",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf shores",
+      "tag_category": null
+    },
+    {
+      "tag": "italian",
+      "tag_category": null
+    },
+    {
+      "tag": "fast food",
+      "tag_category": null
+    },
+    {
+      "tag": "dine-in",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pizza",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Italian",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Delivery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Shores Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "9989 AL-180",
+  "menus": [],
+  "website": "http://www.fortmorganpizza.com/",
+  "businesses": [
+    {
+      "source": "gulf-shores-attractions.json",
+      "name": "Fort Morgan Pizza",
+      "phone": "(251) 540-2622",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:23.911Z"
 }

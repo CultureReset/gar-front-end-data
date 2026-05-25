@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "With over 90,000 businesses relying on Vagaro every day, we're a pioneer in mobile app and desktop business management software. Our unique platform is crafted for solo entrepreneurs to growing enterprises, delivering innovation and practicality directly into the hands of businesses. Vagaro currently has more than 83,000 beauty, wellness, and fitness businesses in the USA, Canada, UK, and Australia, managing their daily activities in a secure and reliable system that takes care of all of their technology needs from Online Booking, Automated Email / Text / Push Notification confirmations and reminders, Point of Sale, Payroll, Taxes, Inventory, Customer Relations, Employee Management, Email Marketing, Websites, and Social Marketing.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "12:00 AM",
+      "close_time": "7:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "12:00 AM",
+      "close_time": "7:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "12:00 AM",
+      "close_time": "7:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "12:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "12:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "8:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "8:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,104 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "salon software",
+      "tag_category": null
+    },
+    {
+      "tag": "spa software",
+      "tag_category": null
+    },
+    {
+      "tag": "fitness software",
+      "tag_category": null
+    },
+    {
+      "tag": "appointment scheduling",
+      "tag_category": null
+    },
+    {
+      "tag": "online booking",
+      "tag_category": null
+    },
+    {
+      "tag": "POS system",
+      "tag_category": null
+    },
+    {
+      "tag": "payment processing",
+      "tag_category": null
+    },
+    {
+      "tag": "business management",
+      "tag_category": null
+    },
+    {
+      "tag": "beauty industry",
+      "tag_category": null
+    },
+    {
+      "tag": "wellness industry",
+      "tag_category": null
+    },
+    {
+      "tag": "Business Software",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Salon Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Spa Software",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fitness Software",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Point of Sale",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Appointment Scheduling",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Payment Processing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "business-software",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "software-platform",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(925) 718-0971",
+  "email": "support@vagaro.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Vagaro",
+      "phone": "(925) 718-0971",
+      "address": {
+        "street": "Unknown",
+        "city": "Unknown",
+        "state": "CA",
+        "zip": "Unknown"
+      },
+      "placeId": "",
+      "website": "https://www.vagaro.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.916Z"
 }

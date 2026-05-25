@@ -4,9 +4,38 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Nestled within the sun-kissed shores of Gulf Shores, Gone Coastal is more than just a place to stay – it's a heartfelt promise of hospitality. As the proud owner, my journey began in the 90s when I ventured here with my two beloved Golden Retrievers, only to find a lack of pet-friendly accommodations. Determined to fill that void, I embarked on a mission to create spaces that marry immaculate cleanliness with a warm welcome for both pets and their human companions. Each property, whether a cozy condo for couples or a spacious house for group getaways, reflects my commitment to 5-star hospitality, ensuring that every guest feels like family.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +46,95 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "beach rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "pet friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf shores",
+      "tag_category": null
+    },
+    {
+      "tag": "fort morgan",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation homes",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal living",
+      "tag_category": null
+    },
+    {
+      "tag": "short-term rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "family vacations",
+      "tag_category": null
+    },
+    {
+      "tag": "weekend getaways",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama coast",
+      "tag_category": null
+    },
+    {
+      "tag": "Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pet-Friendly Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Tourist Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "email": "laurel@gonecoastalgs.com",
+  "menus": [],
+  "phone": "251-330-5143",
+  "businesses": [
+    {
+      "source": "gulf-shores-accommodations.json",
+      "name": "Gone Coastal in Gulf Shores LLC",
+      "phone": "251-330-5143",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.037Z"
 }

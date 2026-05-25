@@ -4,9 +4,52 @@
   "entity_type": "artist",
   "entity_subtype": "art",
   "icon": "🏪",
-  "description": "",
+  "description": "Perdido Artist Gallery and Gifts opened on January 4, 2019, to offer the many talented Gulf Coast artists a way to affordably show their work. Over 50 local artists display in the gallery and many assist in the daily operation. Each time you visit the gallery you will meet different artists that love to share their work and the story behind their artistic journey. We keep a good variety of artists. No one does the same work, allowing for a wonderfully diverse selection. Whether you are looking for a special piece of art, are in need of a gift or just want to get your coastal vibe going, stop in and you will be pleased with the unique offerings. The gallery and gift shop contains jewelry, pottery, paintings, glass work, wood, and much more. It is an ideal place to find the unique gift for weddings, anniversaries and much more.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "12:00",
+      "close_time": "17:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,127 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "art gallery",
+      "tag_category": null
+    },
+    {
+      "tag": "local artists",
+      "tag_category": null
+    },
+    {
+      "tag": "gifts",
+      "tag_category": null
+    },
+    {
+      "tag": "jewelry",
+      "tag_category": null
+    },
+    {
+      "tag": "pottery",
+      "tag_category": null
+    },
+    {
+      "tag": "paintings",
+      "tag_category": null
+    },
+    {
+      "tag": "glass work",
+      "tag_category": null
+    },
+    {
+      "tag": "wood art",
+      "tag_category": null
+    },
+    {
+      "tag": "Perdido Key",
+      "tag_category": null
+    },
+    {
+      "tag": "Pensacola",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal art",
+      "tag_category": null
+    },
+    {
+      "tag": "unique gifts",
+      "tag_category": null
+    },
+    {
+      "tag": "wedding gifts",
+      "tag_category": null
+    },
+    {
+      "tag": "anniversary gifts",
+      "tag_category": null
+    },
+    {
+      "tag": "art classes",
+      "tag_category": null
+    },
+    {
+      "tag": "sip and shop",
+      "tag_category": null
+    },
+    {
+      "tag": "unity ceremony",
+      "tag_category": null
+    },
+    {
+      "tag": "Art Galleries",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gift Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Art Classes",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Event Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Local Artisans",
+      "tag_category": "category"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "attractions",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "850-266-5474",
+  "email": "perdidoartistgallery@gmail.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "pensacola-entertainment.json",
+      "name": "Perdido Artist Gallery and Gifts",
+      "phone": "850-266-5474",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.811Z"
 }

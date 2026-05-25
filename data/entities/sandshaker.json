@@ -5,8 +5,8 @@
   "entity_type": "business",
   "entity_subtype": "restaurant",
   "icon": "🏪",
-  "description": "",
-  "phone": null,
+  "description": "Home of the 'original' Bushwacker with 2 locations featuring live music every weekend with never a cover charge.",
+  "phone": "850-932-2211",
   "email": null,
   "address_line_1": "",
   "city": "",
@@ -16,7 +16,50 @@
   "rating": 4,
   "review_count": null,
   "hero_image_url": null,
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "03:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "10:00",
+      "close_time": "03:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,84 @@
   "events": [],
   "photos": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "beach bar",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "bushwacker",
+      "tag_category": null
+    },
+    {
+      "tag": "pensacola beach",
+      "tag_category": null
+    },
+    {
+      "tag": "orange beach",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "nightlife",
+      "tag_category": null
+    },
+    {
+      "tag": "weekend entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "no cover charge",
+      "tag_category": null
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Live Music Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "bar",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "jsonld.json",
+      "name": "Sandshaker",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.014Z"
 }

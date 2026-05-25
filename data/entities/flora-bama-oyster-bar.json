@@ -4,9 +4,52 @@
   "entity_type": "nightlife",
   "entity_subtype": "bars",
   "icon": "🏪",
-  "description": "",
+  "description": "Flora-Bama's World Famous Oyster Bar is a beachfront dining destination offering everything from burgers, wraps, and po-boys to the world-famous oysters. Located inside the iconic Flora-Bama, this casual oyster bar serves fresh Gulf seafood including hand-breaded shrimp and signature dishes like the Bushwacker. No trip to the beach is complete without experiencing the best oysters on the beach.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,110 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "oysters",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "po-boys",
+      "tag_category": null
+    },
+    {
+      "tag": "wraps",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "bushwacker",
+      "tag_category": null
+    },
+    {
+      "tag": "fried-food",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-coast",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Oyster Bar",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Burgers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 980-5118",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "1_gcr-businesses-COMPLETE_json.json",
+      "name": "FLORA-BAMA OYSTER BAR",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": "https://www.florabama.com/oyster-bar"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.695Z"
 }

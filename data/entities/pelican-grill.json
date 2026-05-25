@@ -7,7 +7,7 @@
   "icon": "🦐",
   "description": "Welcome to Pelican Grill located at the SanRoc Cay Marina! At Pelican Grill, we offer an unforgettable dining experience with our exquisite Gulf Coast cuisine. Nestled in the heart of Orange Beach, Alabama, our seafood restaurant is perfect for family-friendly dining and enjoying local favorites like shrimp baked potato, charbroiled oysters, and chicken tenders.",
   "phone": "(251) 483-3665",
-  "email": null,
+  "email": "pelicangrillob@gmail.com",
   "website_url": "https://www.pelicangrillob.com",
   "address_line_1": "27267 Perdido Beach Blvd.",
   "city": "Orange Beach",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,116 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf coast cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "oysters",
+      "tag_category": null
+    },
+    {
+      "tag": "grouper",
+      "tag_category": null
+    },
+    {
+      "tag": "shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "crab",
+      "tag_category": null
+    },
+    {
+      "tag": "filet",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "charbroiled",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh catch",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront dining",
+      "tag_category": null
+    },
+    {
+      "tag": "marina restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Orange Beach Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-restaurants.json",
+      "name": "Pelican Grill",
+      "phone": "(251) 483-3665",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.781Z"
 }

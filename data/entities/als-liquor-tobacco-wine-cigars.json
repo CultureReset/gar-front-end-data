@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Al's Liquor, Tobacco, Wine & Cigars is Southern Alabama's leader in providing top-quality alcohol and tobacco products. With eight locations throughout Gulf Shores, Orange Beach, and Foley, Alabama, we are your one-stop shop for everything you need. We carry Alabama's largest selection of fine wines, including red, white, and sweet wines, that are perfect for any celebration, whether you're visiting for your anniversary, Spring Break, or a local relaxing after a long day at work. Our stores are well-stocked with a variety of premium craft beers from local, national, and international distilleries, ranging from Pilsners and Lagers to Stouts, Ales, IPAs, and Belgian brews. We provide customers with an extensive selection of premium spirits from leading local, national and international makers and distillers. Our Cigar Shop is stocked with Alabama's largest selection of handcrafted premium cigars, boutique cigars, and machine-made cigars from top brands including Romeo y Julieta, Montecristo, Macanudo, Arturo Fuente, Davidoff, Acid, Rocky Patel, La Gloria Cubana, Don Pepin Garcia, Swisher Sweets, and Dutch Masters. We also carry cigar accessories from top manufacturers including Xikar, Zippo, Vertigo, Colibri, and Klipit. In addition to our extensive wine, beer, spirits, and cigar selection, we also have a variety of mixers, cocktail necessities, and more. Our customer service team members can help you find everything you need in any location. We offer a rewards program for customers 21 and older, and we provide pickup, delivery, and shipping options for added convenience.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "09:00",
+      "close_time": "00:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "09:00",
+      "close_time": "00:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,107 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "liquor store",
+      "tag_category": null
+    },
+    {
+      "tag": "wine shop",
+      "tag_category": null
+    },
+    {
+      "tag": "craft beer",
+      "tag_category": null
+    },
+    {
+      "tag": "cigars",
+      "tag_category": null
+    },
+    {
+      "tag": "spirits",
+      "tag_category": null
+    },
+    {
+      "tag": "premium alcohol",
+      "tag_category": null
+    },
+    {
+      "tag": "tobacco",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Foley",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "retail",
+      "tag_category": null
+    },
+    {
+      "tag": "Liquor Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wine Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Craft Beer Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cigar Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Spirits Retailers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Tobacco Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "liquor-store",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "email": "info@alsliquortobaccowine.com",
+  "menus": [],
+  "phone": "(251) 981-6105",
+  "businesses": [
+    {
+      "source": "orange-beach-other.json",
+      "name": "Al's Liquor, Tobacco, Wine & Cigars",
+      "phone": "(251) 981-6105",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:20.979Z"
 }

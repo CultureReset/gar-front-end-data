@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Once you visit Hazel's Nook, you'll continue to come back for more. If you're in the mood for some good ole' southern cooking, there's no place better. Located in Gulf Shores Alabama, and original since 1957, Hazel's Nook is a tiny mom-&-pop destination for breakfast and lunch buffets and menu items, with retro décor & checkered tablecloths. We offer it all from our Old Time Country Breakfast to our world famous Gumbo. Our two different menus have a wide assortment of different types of food, tasty flavors, and entrees to try. When it comes to types of foods, we have everything from country style home cooking, seafood, to 'creating your own' omelet by adding your choice of extras. Our breakfast menu has it all, from ordering select entrees off the list, a well-stocked breakfast buffet, omelet bar with many different extras to choose from, a fresh fruit station, and we let's not forget our five different types of cakes. From the well-known classic, Egg's Benedict, we also offer our famous Bienville Omelet with the option of being stuffed with crabmeat, or Cajun shrimp straight from the Gulf Coast caught daily topped off with a melt in your mouth Hollandaise sauce. Our lunch menu is second to none, including, Hazel's 'Famous Fried Shrimp,' entree, our piled high Shrimp Po-Boy, and lastly but not least, our Conecuh BLT. And if it's seafood your craving, our seafood specials consist of a wide variety of finger licking treats. From our all-you-can-eat seafood buffet to world-famous gumbo, from many more favorites to choose from, you won't be disappointed when you come to visit Hazel's Nook.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "06:30",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "06:30",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "06:30",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "06:30",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "06:30",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "06:30",
+      "close_time": "14:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "06:30",
+      "close_time": "14:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,115 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "breakfast buffet",
+      "tag_category": null
+    },
+    {
+      "tag": "lunch buffet",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Southern cooking",
+      "tag_category": null
+    },
+    {
+      "tag": "buffet restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "family dining",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "retro diner",
+      "tag_category": null
+    },
+    {
+      "tag": "omelets",
+      "tag_category": null
+    },
+    {
+      "tag": "fried shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "po-boys",
+      "tag_category": null
+    },
+    {
+      "tag": "sandwiches",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Buffet Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Southern Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Local Favorites",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 968-7065",
+  "email": "info@hazelsnook.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-other.json",
+      "name": "Hazel's Nook",
+      "phone": "(251) 968-7065",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.744Z"
 }

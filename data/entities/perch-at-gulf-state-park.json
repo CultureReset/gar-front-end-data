@@ -4,9 +4,40 @@
   "entity_type": "park",
   "entity_subtype": "parks",
   "icon": "🏪",
-  "description": "",
+  "description": "Since 2018, Perch has focused on sourcing the highest quality ingredients and products from trusted local fishermen and regional farmers and producers. Enjoy our elevated menu featuring steaks and coastal seafood and hand crafted cocktails—combined with a perfect sunset, this experience cannot be duplicated anywhere but here on the Gulf Coast. Perch is not the typical steakhouse or coastal seafood restaurant. It's the perfect venue where everyone can relax, enjoy elevated food, unique wines, and hand-crafted cocktails, all while enjoying a gorgeous view of Alabama's Gulf Coast.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "17:00",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "17:00",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "17:00",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "17:00",
+      "close_time": "23:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "17:00",
+      "close_time": "23:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +48,135 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "steakhouse",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "fine dining",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "handcrafted cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "sunset views",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "romantic dining",
+      "tag_category": null
+    },
+    {
+      "tag": "date night",
+      "tag_category": null
+    },
+    {
+      "tag": "special occasions",
+      "tag_category": null
+    },
+    {
+      "tag": "patio dining",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "elevated cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "premium steaks",
+      "tag_category": null
+    },
+    {
+      "tag": "local ingredients",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Steakhouses",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fine Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Lounges",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cocktail Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Special Events Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Private Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Date Night Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 540-6100",
+  "email": "lzaldivar@lodgegsp.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-attractions.json",
+      "name": "Perch at Gulf State Park",
+      "phone": "(251) 540 6100",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.806Z"
 }

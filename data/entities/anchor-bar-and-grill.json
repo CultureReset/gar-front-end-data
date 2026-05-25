@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Anchor Bar & Grill is a unique and popular restaurant and pub in Superior, Wisconsin, known for serving the best burgers and fries around. Featured on the TV show Diners, Drive-Ins, and Dives, this iconic dive bar offers a variety of homemade burgers and fresh-cut fries at great prices. The walls are covered with nautical memorabilia and artifacts. The restaurant features a game room and outdoor seating. Founded over 20 years ago, it's a must-visit destination in the Superior area.",
-  "phone": null,
+  "phone": "715-394-9747",
   "email": null,
   "website_url": "https://anchorbarandgrill.com",
   "address_line_1": "413 Tower Avenue",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00 AM",
+      "close_time": "2:00 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00 AM",
+      "close_time": "2:00 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00 AM",
+      "close_time": "2:00 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00 AM",
+      "close_time": "2:00 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00 AM",
+      "close_time": "2:30 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00 AM",
+      "close_time": "2:30 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00 AM",
+      "close_time": "2:00 AM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,106 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "fries",
+      "tag_category": null
+    },
+    {
+      "tag": "dive bar",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Superior Wisconsin",
+      "tag_category": null
+    },
+    {
+      "tag": "Diners Drive-Ins and Dives",
+      "tag_category": null
+    },
+    {
+      "tag": "affordable",
+      "tag_category": null
+    },
+    {
+      "tag": "nautical theme",
+      "tag_category": null
+    },
+    {
+      "tag": "bar food",
+      "tag_category": null
+    },
+    {
+      "tag": "Great Lakes",
+      "tag_category": null
+    },
+    {
+      "tag": "Twin Ports",
+      "tag_category": null
+    },
+    {
+      "tag": "local favorite",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Burgers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pub Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Anchor Bar and Grill",
+      "phone": "715-394-9747",
+      "address": {
+        "street": "413 Tower Avenue",
+        "city": "Superior",
+        "state": "WI",
+        "zip": "54880",
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "https://anchorbarandgrill.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:34.362Z"
 }

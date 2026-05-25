@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Born and raised in Tennessee, my husband and I are beach bums at heart. Although we love our home, the Ocean calls our names. Our love of the ocean sent us on a search to find a spot in Paradise that our family could enjoy and make memories with family and friends. In 2005, our search lead us to Perdido Key, Florida. Right away, we knew this was the spot. Perdido Key is very laid back and not as busy or crowded as many places. There are not long lines of concrete condominium towers on the beach as you drive by in other locations. Since acquiring our home away from home, we have made plenty of memories that we will treasure forever. Like the time the fish was in the pond...haha Or the time the crabs almost got loose... ;) Too many to recall and hopefully many more to come. With the beautiful white sugar sand beach and emerald green waters, it is the perfect place to Come and Relax your stress away!!",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,87 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "beach condo",
+      "tag_category": null
+    },
+    {
+      "tag": "ocean front",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation rental",
+      "tag_category": null
+    },
+    {
+      "tag": "Perdido Key",
+      "tag_category": null
+    },
+    {
+      "tag": "Florida",
+      "tag_category": null
+    },
+    {
+      "tag": "family vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront property",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal getaway",
+      "tag_category": null
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Condo Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Perdido Key Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "615-405-8704",
+  "email": "jonesja@realtracs.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "perdido-key-attractions.json",
+      "name": "Windemere Condo",
+      "phone": "615-405-8704",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.704Z"
 }

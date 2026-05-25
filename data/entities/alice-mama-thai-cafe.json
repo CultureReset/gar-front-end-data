@@ -6,18 +6,55 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Step into a world of authentic Thai flavors at Alice Mama Thai Cafe. Our passionate chefs craft each dish with care, using only the freshest ingredients and traditional recipes. From spicy curries to delicate noodle soups, every bite is a journey through the vibrant streets of Thailand. Join us and experience the true essence of Thai cuisine.",
-  "phone": null,
+  "phone": "(850) 733-9012",
   "email": null,
   "website_url": "https://alicemamathaicafe.com",
   "address_line_1": "4104 Gulf Breeze Parkway",
   "city": "Gulf Breeze",
   "state": "FL",
   "zip": "32563",
-  "rating": 4,
+  "rating": 4.9,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "20:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "20:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "20:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "20:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "20:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "12:00",
+      "close_time": "20:30",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,98 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "Thai cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "authentic Thai",
+      "tag_category": null
+    },
+    {
+      "tag": "Thai restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Breeze",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "noodles",
+      "tag_category": null
+    },
+    {
+      "tag": "curries",
+      "tag_category": null
+    },
+    {
+      "tag": "rice dishes",
+      "tag_category": null
+    },
+    {
+      "tag": "Asian food",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Thai",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Takeout",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Delivery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Asian Cuisine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "4104 Gulf Breeze Pkwy",
+  "menus": [],
+  "reviews": 0,
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "Alice MaMa Thai Cafe",
+      "phone": "(850) 733-9012",
+      "address": "",
+      "placeId": "",
+      "website": "https://alicemamathaicafe.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:20.968Z"
 }

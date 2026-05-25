@@ -4,9 +4,40 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Gulf Shores is an upbeat yet relaxed beach town where you can slow down, unwind and reconnect with yourself and your family along 32 miles of sugar-white sands and mesmerizing emerald waters. Combining the best of Alabama's Southern hospitality with a distinct island flair, Paradise Isle Resort is an oasis of tranquility. Enjoy a relaxing stay in well-appointed comfort in a 1-bedroom or 2-bedroom deluxe suite featuring full kitchens and baths and separate living and dining areas that can accommodate from 4 to 6 guests. The beach is right across the street from Paradise Isle Resort. Spend the day basking in the sun on powdery white sand. Grab a boogie board and catch a wave. Experience the thrill of jet skiing or parasailing. When you return from the beach, rinse off the salt water with a refreshing plunge in the resort's outdoor pool. Grill up the day's catch from your deep-sea fishing adventure along with some juicy steaks to create a memorable outdoor surf and turf feast at sunset. Cap off the perfect day with a relaxing hot tub soak while mild Gulf breezes soothe you.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "09:00",
+      "close_time": "18:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +48,94 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "timeshare",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation rental",
+      "tag_category": null
+    },
+    {
+      "tag": "beach resort",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation ownership",
+      "tag_category": null
+    },
+    {
+      "tag": "Bluegreen Vacations",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "family vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "seaside getaway",
+      "tag_category": null
+    },
+    {
+      "tag": "Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Timeshare",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hotels & Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Destinations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "resort",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-948-6811",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-accommodations.json",
+      "name": "Paradise Isle Resort",
+      "phone": "251-948-6811",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.752Z"
 }

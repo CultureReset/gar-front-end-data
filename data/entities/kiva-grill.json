@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Located on the Fort Morgan peninsula of Gulf Shores, Alabama, Kiva Grill has a comprehensive breakfast and lunch menu that will satisfy anyone. Open to the public seven days a week, the grill has a warm atmosphere with a full bar. Beat the beach crowds and experience one of the best brunches on the island! Located inside Kiva Lodge at 815 Plantation Rd. Gulf Shores, AL 36542",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "07:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "07:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "07:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "07:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "07:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "07:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "07:00",
+      "close_time": "18:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,92 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "brunch",
+      "tag_category": null
+    },
+    {
+      "tag": "lunch",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Fort Morgan",
+      "tag_category": null
+    },
+    {
+      "tag": "bar",
+      "tag_category": null
+    },
+    {
+      "tag": "grill",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "full bar",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Shores Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 540-7211",
+  "address": "815 Plantation Ln",
+  "menus": [],
+  "email": "angiepalmer@kivadunes.com",
+  "businesses": [
+    {
+      "source": "gulf-shores-restaurants.json",
+      "name": "Kiva Grill",
+      "phone": "(251) 540-7211",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:25.887Z"
 }

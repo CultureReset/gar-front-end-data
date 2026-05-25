@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Tidal Wave Auto Spa is a leading car wash brand, delivering fast, high-quality service with cutting-edge technology since 1999. With over 300+ locations across 30 states, we make it easy to find a car wash near you that's convenient, reliable, and leaves your vehicle sparkling clean. Recognized as one of the top four conveyor car wash companies in the country, Tidal Wave has been featured on the Inc. 5000 list of America's Fastest-Growing Companies since 2020. We're also proud to be a 2023 Champion of Charity honoree, with over $7 million donated to community causes. Tidal Wave Auto Spa began in 1999 in Thomaston, Georgia, when founders Scott and Hope Blackstock set out to deliver a better car wash experience. What started as a single wash location has grown into one of the nation's leading conveyor car wash brands. Known for its commitment to advanced car wash technology and exceptional customer service, Tidal Wave has earned recognition as one of America's Fastest Growing Companies. But success at Tidal Wave goes beyond clean cars. Through Charity Day and fundraising efforts the company has donated over $6 million to charitable organizations across the country. Tidal Wave Auto Spa continues to expand with a mission to deliver an outstanding wash and make a lasting difference in every community it serves.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "08:00",
+      "close_time": "20:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,111 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "car wash",
+      "tag_category": null
+    },
+    {
+      "tag": "express car wash",
+      "tag_category": null
+    },
+    {
+      "tag": "auto spa",
+      "tag_category": null
+    },
+    {
+      "tag": "vehicle cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "car detailing",
+      "tag_category": null
+    },
+    {
+      "tag": "unlimited membership",
+      "tag_category": null
+    },
+    {
+      "tag": "soft-cloth wash",
+      "tag_category": null
+    },
+    {
+      "tag": "ceramic coating",
+      "tag_category": null
+    },
+    {
+      "tag": "graphene oxide",
+      "tag_category": null
+    },
+    {
+      "tag": "fleet services",
+      "tag_category": null
+    },
+    {
+      "tag": "fundraising",
+      "tag_category": null
+    },
+    {
+      "tag": "Foley Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "fast service",
+      "tag_category": null
+    },
+    {
+      "tag": "eco-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "water recycling",
+      "tag_category": null
+    },
+    {
+      "tag": "Automotive Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Car Wash",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Auto Care",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fleet Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Membership Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "automotive-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "car-wash",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(706) 558-6500",
+  "email": "fleetpartners@tidalwaveautospa.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "foley-other.json",
+      "name": "Tidal Wave Auto Spa",
+      "phone": "(706) 558-6500",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.049Z"
 }

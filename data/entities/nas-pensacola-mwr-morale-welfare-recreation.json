@@ -4,9 +4,34 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "The Morale, Welfare & Recreation mission is to contribute to the retention, readiness and mental, physical and emotional well-being of military personnel and to the welfare of their families by providing a variety of recreational activities. NAS Pensacola, located on the white sands of the Gulf Coast, is the Cradle of Aviation, known for its longstanding history of aviation and for being the home of the U.S. Navy Blue Angels Flight Demonstration Team. NAS Pensacola is also home to the Navy Aviation Schools Command, Naval Air Technical Training Center, and the headquarters of Navy Education Training Command. MWR supports the four geographic areas of NAS Pensacola Mainside, Corry Station, Saufley Field and the Blue Angel Recreation area with Fitness Centers and Pools, Marinas, Ballfields, Child Care, Golf Course, Bowling Center, Movie Theaters, Single Service Member Programs and multiple Club and Food and Beverage facilities.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "08:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "08:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "08:00",
+      "close_time": "16:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +42,147 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "Navy",
+      "tag_category": null
+    },
+    {
+      "tag": "military",
+      "tag_category": null
+    },
+    {
+      "tag": "recreation",
+      "tag_category": null
+    },
+    {
+      "tag": "fitness",
+      "tag_category": null
+    },
+    {
+      "tag": "family-services",
+      "tag_category": null
+    },
+    {
+      "tag": "RV-park",
+      "tag_category": null
+    },
+    {
+      "tag": "camping",
+      "tag_category": null
+    },
+    {
+      "tag": "bowling",
+      "tag_category": null
+    },
+    {
+      "tag": "golf",
+      "tag_category": null
+    },
+    {
+      "tag": "child-care",
+      "tag_category": null
+    },
+    {
+      "tag": "Pensacola",
+      "tag_category": null
+    },
+    {
+      "tag": "Florida",
+      "tag_category": null
+    },
+    {
+      "tag": "Blue-Angels",
+      "tag_category": null
+    },
+    {
+      "tag": "pavilion-rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "paintball",
+      "tag_category": null
+    },
+    {
+      "tag": "disc-golf",
+      "tag_category": null
+    },
+    {
+      "tag": "marinas",
+      "tag_category": null
+    },
+    {
+      "tag": "pools",
+      "tag_category": null
+    },
+    {
+      "tag": "Military Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fitness Centers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "RV Parks & Camping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Golf",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bowling",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Child Care",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Parks & Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Sports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "military-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "military-recreation",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "email": "PensacolaMarketing@us.navy.mil",
+  "menus": [],
+  "phone": "850-452-3806",
+  "businesses": [
+    {
+      "source": "pensacola-other.json",
+      "name": "NAS Pensacola MWR (Morale, Welfare & Recreation)",
+      "phone": "850-452-3806",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.032Z"
 }

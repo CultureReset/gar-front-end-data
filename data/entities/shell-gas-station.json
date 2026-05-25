@@ -6,7 +6,50 @@
   "icon": "🏪",
   "description": "",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "00:00",
+      "close_time": "23:59",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,121 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "gas",
+      "tag_category": null
+    },
+    {
+      "tag": "fuel",
+      "tag_category": null
+    },
+    {
+      "tag": "convenience store",
+      "tag_category": null
+    },
+    {
+      "tag": "car wash",
+      "tag_category": null
+    },
+    {
+      "tag": "shell",
+      "tag_category": null
+    },
+    {
+      "tag": "foley",
+      "tag_category": null
+    },
+    {
+      "tag": "service station",
+      "tag_category": null
+    },
+    {
+      "tag": "Gas Stations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fuel",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Car Wash",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Convenience Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "fuel-and-convenience",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "gas-station",
+      "tag_category": "type"
+    },
+    {
+      "tag": "gas station",
+      "tag_category": null
+    },
+    {
+      "tag": "fuel",
+      "tag_category": null
+    },
+    {
+      "tag": "convenience store",
+      "tag_category": null
+    },
+    {
+      "tag": "c-store",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "gasoline",
+      "tag_category": null
+    },
+    {
+      "tag": "diesel",
+      "tag_category": null
+    },
+    {
+      "tag": "Gas Stations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Convenience Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fuel",
+      "tag_category": "category"
+    },
+    {
+      "tag": "fuel-and-convenience",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "gas-station",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-shopping.json",
+      "name": "Shell Gas Station",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:28.722Z"
 }

@@ -4,9 +4,46 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Anchored Coffee House is a welcoming cafe offering locally roasted coffee blends paired with delicious pastries and light fare. Located in Gulf Shores AL, we provide a warm environment where friends gather over cappuccinos or croissants. Our complimentary conference room is perfect for small meetings while soothing Christian tunes set a peaceful tone. Every sip tells our story of community connection and quality craftsmanship. At Anchored Coffee House every cup reflects care — from ethically sourced beans to perfectly baked treats. We blend comfort and flavor so guests enjoy more than just great coffee; they feel truly anchored here.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "6:30am",
+      "close_time": "2:30pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "6:30am",
+      "close_time": "2:30pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "6:30am",
+      "close_time": "2:30pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "6:30am",
+      "close_time": "2:30pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "6:30am",
+      "close_time": "2:30pm",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "6:30am",
+      "close_time": "2:30pm",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +54,106 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "coffee",
+      "tag_category": null
+    },
+    {
+      "tag": "cafe",
+      "tag_category": null
+    },
+    {
+      "tag": "locally roasted",
+      "tag_category": null
+    },
+    {
+      "tag": "pastries",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "Christian atmosphere",
+      "tag_category": null
+    },
+    {
+      "tag": "light fare",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "specialty drinks",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cafes",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Coffee Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bakeries",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Takeout",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Delivery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 486-0600",
+  "address": "1229 Gulf Shores Pkwy Suite 101",
+  "menus": [],
+  "website": "https://anchoredcoffeehouse0557.s4shops.com/",
+  "rating": 4.4,
+  "email": "hello@anchoredcoffeehouse.com",
+  "businesses": [
+    {
+      "source": "gulf-shores-coffee-sweets.json",
+      "name": "Anchored Coffee House",
+      "phone": "(251) 486-0600",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:20.995Z"
 }

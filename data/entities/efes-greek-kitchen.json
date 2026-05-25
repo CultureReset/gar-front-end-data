@@ -6,18 +6,61 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "We are a Mediterranean restaurant featuring casual quick service classics. Offering drive through pickup with a small outside patio.",
-  "phone": null,
+  "phone": "(256) 342-1000",
   "email": null,
   "website_url": "https://efesgreekkitchen.com",
   "address_line_1": "1550 AL-59",
   "city": "Gulf Shores",
   "state": "Alabama",
   "zip": "36542",
-  "rating": 4,
+  "rating": 4.9,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:30",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:30",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:30",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:30",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:30",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:30",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "10:30",
+      "close_time": "22:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,130 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "Mediterranean cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "Greek food",
+      "tag_category": null
+    },
+    {
+      "tag": "quick service",
+      "tag_category": null
+    },
+    {
+      "tag": "gyros",
+      "tag_category": null
+    },
+    {
+      "tag": "falafel",
+      "tag_category": null
+    },
+    {
+      "tag": "hand-cut fries",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "drive-through",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "casual quick service",
+      "tag_category": null
+    },
+    {
+      "tag": "pita sandwiches",
+      "tag_category": null
+    },
+    {
+      "tag": "Greek salads",
+      "tag_category": null
+    },
+    {
+      "tag": "milkshakes",
+      "tag_category": null
+    },
+    {
+      "tag": "ice cream",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor seating",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Mediterranean",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Quick Service",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Shores Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Drive-Through",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Takeout",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "13310 Mirella St",
+  "menus": [],
+  "reviews": 0,
+  "businesses": [
+    {
+      "source": "gcr_businesses.json",
+      "name": "Efe's Greek Kitchen",
+      "phone": "",
+      "address": "200 W 23rd Ave",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.255Z"
 }

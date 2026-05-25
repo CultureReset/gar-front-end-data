@@ -4,9 +4,40 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Truist is a purpose-driven financial services company and a top-ten US commercial bank committed to inspiring and building better lives and communities. With total assets of $534 billion as of September 30, 2025, Truist is headquartered in Charlotte, N.C., with a presence in high-growth markets across the country. The company serves clients with deep financial knowledge, unwavering care, and a wide range of products and services through its wholesale and consumer businesses, including consumer banking, wealth management, small business banking, payments, commercial banking, specialized lending, and corporate and investment banking. Truist Bank is a Member FDIC.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +48,95 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "banking",
+      "tag_category": null
+    },
+    {
+      "tag": "financial-services",
+      "tag_category": null
+    },
+    {
+      "tag": "checking-accounts",
+      "tag_category": null
+    },
+    {
+      "tag": "savings-accounts",
+      "tag_category": null
+    },
+    {
+      "tag": "mortgages",
+      "tag_category": null
+    },
+    {
+      "tag": "loans",
+      "tag_category": null
+    },
+    {
+      "tag": "wealth-management",
+      "tag_category": null
+    },
+    {
+      "tag": "investments",
+      "tag_category": null
+    },
+    {
+      "tag": "credit-cards",
+      "tag_category": null
+    },
+    {
+      "tag": "business-banking",
+      "tag_category": null
+    },
+    {
+      "tag": "commercial-banking",
+      "tag_category": null
+    },
+    {
+      "tag": "Banks",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Financial Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Mortgage Lenders",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Investment Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Insurance Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "financial-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "bank",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-968-6893",
+  "email": "matthew.greer@truist.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-other.json",
+      "name": "Truist Gulf Shores Branch",
+      "phone": "251-968-6893",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.331Z"
 }

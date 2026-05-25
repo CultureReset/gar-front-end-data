@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,119 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "athletic shoes",
+      "tag_category": null
+    },
+    {
+      "tag": "sportswear",
+      "tag_category": null
+    },
+    {
+      "tag": "footwear",
+      "tag_category": null
+    },
+    {
+      "tag": "apparel",
+      "tag_category": null
+    },
+    {
+      "tag": "Jordan Brand",
+      "tag_category": null
+    },
+    {
+      "tag": "Converse",
+      "tag_category": null
+    },
+    {
+      "tag": "running shoes",
+      "tag_category": null
+    },
+    {
+      "tag": "basketball shoes",
+      "tag_category": null
+    },
+    {
+      "tag": "casual sneakers",
+      "tag_category": null
+    },
+    {
+      "tag": "sports clothing",
+      "tag_category": null
+    },
+    {
+      "tag": "activewear",
+      "tag_category": null
+    },
+    {
+      "tag": "men's fashion",
+      "tag_category": null
+    },
+    {
+      "tag": "women's fashion",
+      "tag_category": null
+    },
+    {
+      "tag": "kids clothing",
+      "tag_category": null
+    },
+    {
+      "tag": "sale items",
+      "tag_category": null
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shoe Store",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Clothing Retailer",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sportswear",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Footwear",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fashion Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Athletic Apparel",
+      "tag_category": "category"
+    },
+    {
+      "tag": "sportswear-and-footwear",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "retail",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Nike",
+      "phone": "",
+      "address": {
+        "city": "Beaverton",
+        "state": "Oregon"
+      },
+      "placeId": "",
+      "website": "https://www.nike.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.274Z"
 }

@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
-  "city": "",
-  "hours": [],
+  "description": "Welcome to the SanRoc Cay Marina in Orange Beach, Alabama. Whether you're looking for boutique shopping, fine dining, a little rest & relaxation in our courtyard, or that fishing trip of a lifetime, we have it all. The SanRoc Cay Marina is one of Orange Beach's top local destinations and an Entertainment District. You can relax with friends and family at one of its dockside restaurants, enjoying the fresh seafood and scenic views. The marina provides convenient access to the Gulf of Mexico for boaters and fishermen, making it an excellent starting point for deep-sea fishing trips and other marine activities. The marina offers well-equipped docking facilities, boat charters, and fishing tours. Its prime location and services make it a favorite among recreational and seasoned boaters. The SanRoc Cay Marina is one of the most laid-back shopping centers in Orange Beach, Alabama. From the Luxury Boutiques to the views on the water around the Marina, you can see why many local businesses call it home. There's a sunrise and a sunset every single day, and they're absolutely free.",
+  "city": "Orange Beach",
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "18:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "12:00",
+      "close_time": "18:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,117 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "marina",
+      "tag_category": null
+    },
+    {
+      "tag": "orange beach",
+      "tag_category": null
+    },
+    {
+      "tag": "fishing charters",
+      "tag_category": null
+    },
+    {
+      "tag": "deep sea fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "boat rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront dining",
+      "tag_category": null
+    },
+    {
+      "tag": "shopping",
+      "tag_category": null
+    },
+    {
+      "tag": "entertainment district",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Marina",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fishing Charters",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Boat Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Watersports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Spas & Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "marina",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 980-0016",
+  "email": "info@SanRocCay.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "data.json",
+      "name": "SanRoc Cay Marina",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:28.641Z",
+  "category": "Marina",
+  "address": "27267 Perdido Beach Blvd",
+  "state": "AL",
+  "zip": "36561.0",
+  "website": "https://sanroccay.com/marina/",
+  "source": "sanroccay.com"
 }

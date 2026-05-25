@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Alabama's first Seaside Bed and Breakfast Inn, has received a small part of the Charm, Romance and Simplicity that drew people to the beach decades ago. As one of the first houses built in 1924 by two Mobile, AL business men, Spurgeon Roche and Carl \"Zeke\" Martin, the house and the beach utilizes the first letters of their name \"ROMAR.\" The Inn features over 100 year old doors from New Orleans on each guest room and turned sideways as wainscoting on the downstairs hall. Historical stained glass windows, each with a unique story, antique brass fixtures and hand picked furniture carefully chosen from the period of when the house was built decorate the entire interior. The original picnic table built at the home in 1926, by Mr. Roche and his architect friend, stand in the kitchen today. Experience the roar of the crashing waves and the delicate mist of the warm sea as the tide rolls in. Drag your toes through the warm and soothing sand. Whether you are seeking a peaceful retreat, a romantic getaway, or simply want to experience a natural wonder, you will find what you are looking for at the Original Romar House Bed and Breakfast Inn. You'll wake up to rediscover romance in a charmingly historic atmosphere, as the sun streams through the stained-glass windows of your room. After breakfast, take a morning swim in the pool or stroll along the beach collecting seashells, perhaps, curl up in a cypress swing or hammock and read a book, or relax in the hot tub. You are only minutes by car to gift shops, golf course, seafood restaurants, marinas and entertainment.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,121 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "bed and breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "seaside inn",
+      "tag_category": null
+    },
+    {
+      "tag": "historic property",
+      "tag_category": null
+    },
+    {
+      "tag": "romantic getaway",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "homemade breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf of Mexico",
+      "tag_category": null
+    },
+    {
+      "tag": "vintage charm",
+      "tag_category": null
+    },
+    {
+      "tag": "anniversary packages",
+      "tag_category": null
+    },
+    {
+      "tag": "couples retreat",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal lodging",
+      "tag_category": null
+    },
+    {
+      "tag": "Bed & Breakfast",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hotels & Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Romantic Getaways",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Coastal Properties",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Historic Inns",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Alabama Tourism",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Orange Beach Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "bed-and-breakfast",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-974-1625",
+  "email": "theoriginalromarhouse@gmail.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "jsonld.json",
+      "name": "The Original Romar House Bed & Breakfast Inn",
+      "phone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23500 Perdido Beach Boulevard",
+        "addressLocality": "Orange Beach",
+        "addressRegion": "Alabama",
+        "postalCode": "36561"
+      },
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.434Z"
 }

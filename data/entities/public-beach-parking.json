@@ -13,11 +13,11 @@
   "city": "",
   "state": "",
   "zip": null,
-  "rating": 4,
+  "rating": 4.7,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": "Hours not available",
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +26,25 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    "establishment",
+    "parking",
+    "point_of_interest"
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "14259 Perdido Key Dr, Pensacola, FL 32507, USA",
+  "menus": [],
+  "google_places_id": "ChIJVXkjZpmvkIgR5LTpOaC51Uo",
+  "businesses": [
+    {
+      "source": "gcr_businesses.json",
+      "name": "Public Beach Parking",
+      "phone": "30.2455",
+      "address": "14259 Perdido Key Dr, Pensacola, FL 32507, USA",
+      "placeId": "",
+      "website": "(251) 968-1171"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.386Z"
 }

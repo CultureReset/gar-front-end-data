@@ -6,8 +6,8 @@
   "entity_subtype": "restaurant",
   "icon": "🏪",
   "description": "Locally-Owned Seafood Restaurant in Gulf Shores, AL",
-  "phone": null,
-  "email": null,
+  "phone": "(251) 948-7294",
+  "email": "cody@desotosseafood.com",
   "address_line_1": "Gulf Shores, AL",
   "city": "",
   "state": "AL",
@@ -16,7 +16,50 @@
   "rating": 4,
   "review_count": null,
   "hero_image_url": null,
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,344 @@
   "events": [],
   "photos": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "locally-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "lunch specials",
+      "tag_category": null
+    },
+    {
+      "tag": "dinner entrees",
+      "tag_category": null
+    },
+    {
+      "tag": "steaks",
+      "tag_category": null
+    },
+    {
+      "tag": "chicken",
+      "tag_category": null
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "appetizers",
+      "tag_category": null
+    },
+    {
+      "tag": "salads",
+      "tag_category": null
+    },
+    {
+      "tag": "sandwiches",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "dine-in",
+      "tag_category": null
+    },
+    {
+      "tag": "beachside",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "American Cuisine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "locally-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-shores",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh-food",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "lunch-specials",
+      "tag_category": null
+    },
+    {
+      "tag": "dinner",
+      "tag_category": null
+    },
+    {
+      "tag": "award-winning",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "American Cuisine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Local Favorites",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "family-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "locally-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh-seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-shores",
+      "tag_category": null
+    },
+    {
+      "tag": "lunch-specials",
+      "tag_category": null
+    },
+    {
+      "tag": "dinner",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "steak",
+      "tag_category": null
+    },
+    {
+      "tag": "chicken",
+      "tag_category": null
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "salads",
+      "tag_category": null
+    },
+    {
+      "tag": "sandwiches",
+      "tag_category": null
+    },
+    {
+      "tag": "appetizers",
+      "tag_category": null
+    },
+    {
+      "tag": "homemade-rolls",
+      "tag_category": null
+    },
+    {
+      "tag": "wine",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "kid-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront-location",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Locally Owned",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lunch Specials",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dinner",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Steak",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Chicken",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pasta",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Salads",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sandwiches",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Appetizers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "data.json",
+      "name": "DeSoto's Seafood Kitchen",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.993Z"
 }

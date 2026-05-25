@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,88 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "bakery",
+      "tag_category": null
+    },
+    {
+      "tag": "cafe",
+      "tag_category": null
+    },
+    {
+      "tag": "pastries",
+      "tag_category": null
+    },
+    {
+      "tag": "coffee",
+      "tag_category": null
+    },
+    {
+      "tag": "breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "lunch",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "baked goods",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bakeries",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cafes",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Desserts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "unknown-coffee-sweets.json",
+      "name": "Coastal Bakery",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.389Z"
 }

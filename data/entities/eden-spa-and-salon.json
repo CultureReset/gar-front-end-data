@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "In 2001, Master Cosmetologist Pamela Elledge opened the Spa of Eden in Gulf Shores, Alabama with the goal of building lasting relationships with clients by providing personalized services in a unique setting. After relocating the spa to Orange Beach, Alabama, the result is an eclectically charming, Island Oasis. A place where clientele - local residents as well as visitors, women and men, of all ages - can treat themselves or someone they care for to the ultimate pampering experience.\n\nLocated directly across the street from the beautiful Gulf of Mexico, our spa is a relaxing oasis in the heart of Orange Beach, Alabama. From the moment you walk in the door, our focus is on your complete relaxation. From facials and massage to nail and hair treatments, our services are a great way to take a step back from the bustle of everyday life. Come take a break with us.\n\nWe offer salon services including hair care (style, cuts, color, perms), master barbering, blowout station, and hair removal (waxing). Our licensed, experienced therapists and estheticians can provide a wide range of treatments including facial care (cleansing, exfoliation, hydration), and body care (several types of massage, aromatherapy, body wraps, mud masks).\n\nOur professional staff of stylists, estheticians, and therapists is committed to providing our clients with the \"ultimate indulgence\" - a relaxing, rejuvenating and stress relieving hour . . . or an entire day or week filled with personalized treatments, including hair, nail, skin and body care. If you are planning a vacation to the area, especially during the high season (April thru August), we strongly suggest that you schedule your appointment in advance. We can accommodate large groups, and we can arrange for out-calls (we come to you) for special events including bridal parties, corporate meetings, etc.",
-  "phone": null,
+  "phone": "251-981-8600",
   "email": null,
   "website_url": "http://www.edenspaandsalonllc.com",
   "address_line_1": "25741 Perdido Beach Boulevard",
@@ -17,7 +17,38 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "17:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +57,128 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "spa",
+      "tag_category": null
+    },
+    {
+      "tag": "salon",
+      "tag_category": null
+    },
+    {
+      "tag": "massage",
+      "tag_category": null
+    },
+    {
+      "tag": "facials",
+      "tag_category": null
+    },
+    {
+      "tag": "hair care",
+      "tag_category": null
+    },
+    {
+      "tag": "nails",
+      "tag_category": null
+    },
+    {
+      "tag": "waxing",
+      "tag_category": null
+    },
+    {
+      "tag": "esthetician",
+      "tag_category": null
+    },
+    {
+      "tag": "relaxation",
+      "tag_category": null
+    },
+    {
+      "tag": "pampering",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "cosmetics",
+      "tag_category": null
+    },
+    {
+      "tag": "beauty services",
+      "tag_category": null
+    },
+    {
+      "tag": "therapist",
+      "tag_category": null
+    },
+    {
+      "tag": "body care",
+      "tag_category": null
+    },
+    {
+      "tag": "skin care",
+      "tag_category": null
+    },
+    {
+      "tag": "Spas",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beauty & Wellness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hair Care",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Massage Therapy",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Esthetics",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Personal Care",
+      "tag_category": "category"
+    },
+    {
+      "tag": "beauty-and-wellness",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "spa",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-other.json",
+      "name": "Eden Spa and Salon",
+      "phone": "251-981-8600",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:23.250Z"
 }

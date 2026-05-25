@@ -6,18 +6,61 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Crico's Pizza and Subs in Gulf Shores, AL, is a beloved local eatery renowned for its delicious pizzas and mouthwatering subs. Nestled in the heart of Gulf Shores, this cozy establishment offers a welcoming atmosphere where patrons can enjoy freshly prepared meals with friends and family. From traditional pepperoni pizzas to specialty pies loaded with gourmet toppings, Crico's caters to every pizza lover's cravings. Their subs range from classic Italian combos to hearty meatball subs.",
-  "phone": null,
+  "phone": "(251) 948-3100",
   "email": null,
   "website_url": "https://cricospizza.com",
   "address_line_1": "309 Gulf Shores Parkway",
   "city": "Gulf Shores",
   "state": "AL",
   "zip": "36542",
-  "rating": 4,
+  "rating": 4.6,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,122 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "pizza",
+      "tag_category": null
+    },
+    {
+      "tag": "subs",
+      "tag_category": null
+    },
+    {
+      "tag": "sandwiches",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Italian",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "local favorite",
+      "tag_category": null
+    },
+    {
+      "tag": "beach town",
+      "tag_category": null
+    },
+    {
+      "tag": "pepperoni",
+      "tag_category": null
+    },
+    {
+      "tag": "specialty pizzas",
+      "tag_category": null
+    },
+    {
+      "tag": "meatball subs",
+      "tag_category": null
+    },
+    {
+      "tag": "Italian combos",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pizza",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sandwiches",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Italian",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Takeout & Delivery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "309 Gulf Shores Pkwy",
+  "menus": [],
+  "website": "https://www.cricospizza.com/",
+  "businesses": [
+    {
+      "source": "gulf-shores-attractions.json",
+      "name": "Crico's Pizza & Subs",
+      "phone": "(251) 948-3100",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.495Z"
 }

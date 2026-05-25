@@ -4,9 +4,52 @@
   "entity_type": "restaurant",
   "entity_subtype": "restaurants",
   "icon": "🏪",
-  "description": "",
+  "description": "Local spot known for steamed royal red shrimp & other Gulf seafood dishes served in a rustic nook.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,117 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-coast",
+      "tag_category": null
+    },
+    {
+      "tag": "family-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh-seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "royal-reds",
+      "tag_category": null
+    },
+    {
+      "tag": "shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "grouper",
+      "tag_category": null
+    },
+    {
+      "tag": "snapper",
+      "tag_category": null
+    },
+    {
+      "tag": "po-boys",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "local-favorite",
+      "tag_category": null
+    },
+    {
+      "tag": "southern-cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Southern Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Friendly",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Takeout",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 968-5464",
+  "address": "1137 Gulf Shores Pkwy",
+  "menus": [],
+  "website": "https://kingneptunes.website/",
+  "rating": 4.1,
+  "businesses": [
+    {
+      "source": "gulf-shores-restaurants.json",
+      "name": "King Neptune's Seafood Restaurant",
+      "phone": "251-968-5464",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:25.879Z"
 }

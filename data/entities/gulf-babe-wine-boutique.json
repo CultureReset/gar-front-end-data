@@ -5,19 +5,62 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
-  "phone": null,
-  "email": null,
+  "description": "Gulf Babe was born out of a selfish need for a good glass of wine, a true craft martini, and a place where women actually had a seat at the bar. Founded by Andrea Elenz (Texas) and VP, Rhiannon Harpel (Indiana), Gulf Babe is the women's sports bar we were all waiting for—where the wine flows, the martinis hit just right, and the vibe is always coastal, feminine, and fun. Gulf Babe is more than just wine – it's a lifestyle. A place to feel confident, comfortable, and completely yourself. Come sip, unwind, and remember that being a babe is a state of mind, no matter the day.",
+  "phone": "(251) 495-0573",
+  "email": "gulfbabewine@gmail.com",
   "website_url": "https://gulfbabe.com",
   "address_line_1": "",
   "city": "",
   "state": "",
   "zip": null,
-  "rating": 4,
+  "rating": 5,
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00 AM",
+      "close_time": "12:00 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00 AM",
+      "close_time": "12:00 AM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,110 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "wine",
+      "tag_category": null
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "martinis",
+      "tag_category": null
+    },
+    {
+      "tag": "women's bar",
+      "tag_category": null
+    },
+    {
+      "tag": "sports bar",
+      "tag_category": null
+    },
+    {
+      "tag": "wine club",
+      "tag_category": null
+    },
+    {
+      "tag": "coastal",
+      "tag_category": null
+    },
+    {
+      "tag": "feminine",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "craft cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "wine tasting",
+      "tag_category": null
+    },
+    {
+      "tag": "private events",
+      "tag_category": null
+    },
+    {
+      "tag": "wine boutique",
+      "tag_category": null
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wine Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lounges",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "bar",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "4593 Main St Suite C-101",
+  "menus": [],
+  "website": "http://gulfbabe.com/",
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "Gulf Babe Wine Boutique",
+      "phone": "(251) 495-0573",
+      "address": "",
+      "placeId": "",
+      "website": "http://gulfbabe.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.417Z"
 }

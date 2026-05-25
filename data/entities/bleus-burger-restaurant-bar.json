@@ -4,9 +4,52 @@
   "entity_type": "restaurant",
   "entity_subtype": "restaurants",
   "icon": "🏪",
-  "description": "",
+  "description": "Bleus Burger in Gulf Shores, AL, elevates the humble burger to an art form. We specialize in gourmet craft smash burgers, alongside crispy wings, juicy tenders, and inventive sandwiches. Not just a burger joint, we offer vibrant veggie options and fresh salads. Pair your meal with a handcrafted cocktail or explore our selection of fifteen craft beers on tap. It's flavor, elevated. We use 100% FRESH CAB chuck, sourced from Alabama-based, family owned Evans Meats. Supporting small farms and ranches in Alabama. Our toppings are as fresh as it gets. All burger sauces are made in house with love. Not a fry-guy (or gal)? We've got you covered. O-rings, house-made tots, chips & queso, fried okra, Mac & Cheese, hand-cut slaw, sweet potato fries and more. Fifteen taps of craft beer with a great bourbon selection and craft cocktails. Bleus Burger is a From Scratch Kitchen. We use only the freshest and finest ingredients possible. All of our burger and fry sauces are made from scratch daily right in our kitchen in Gulf Shores. Our burgers are 100% fresh, NEVER frozen, premium CAB beef, hand-smashed to order. You'll never get \"superstore\" meat at Bleus.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "20:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "20:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,135 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "smash burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "craft cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "craft beer",
+      "tag_category": null
+    },
+    {
+      "tag": "wings",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "pasta",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "bar food",
+      "tag_category": null
+    },
+    {
+      "tag": "cajun",
+      "tag_category": null
+    },
+    {
+      "tag": "southern comfort food",
+      "tag_category": null
+    },
+    {
+      "tag": "hand-smashed burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh never frozen",
+      "tag_category": null
+    },
+    {
+      "tag": "craft beer on tap",
+      "tag_category": null
+    },
+    {
+      "tag": "full bar",
+      "tag_category": null
+    },
+    {
+      "tag": "house-made sauces",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Burgers",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Cajun & Creole",
+      "tag_category": "category"
+    },
+    {
+      "tag": "American",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Shores Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-219-8448",
+  "email": "info@bleusburger.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "jsonld.json",
+      "name": "Bleus Burger Restaurant & Bar",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:21.833Z"
 }

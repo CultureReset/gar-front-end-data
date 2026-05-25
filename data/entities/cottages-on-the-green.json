@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Cottages on the Green at Perdido Bay Golf Club is the perfect place for family outings, reunions, company retreats, individual vacations and golf vacations. Located on the first fairway of the golf course, we are only five minutes from the beautiful white beaches of Perdido Key and 10 minutes from the Naval Air Station. Our newly renovated lodging facilities have housed legends such as Arnold Palmer, Gary Player, Bob Hope, President Ford, Jimmy Buffet and Willie Mayes. Stay where golf legends and celebrities have stayed for more than 30 years. The Cottages on the Green at Perdido Bay Golf Club offer premier lodging for any guest. Whether you desire a room for a one night stay or a week-long vacation, we have the answer. We look forward to helping make your stay unforgettable!",
-  "phone": null,
+  "phone": "(850) 492-2214",
   "email": "cottages@perdidobaygolf.com",
   "website_url": "https://www.cottagesonthegreen.com",
   "address_line_1": "1 Doug Ford Dr",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "15:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "10:00",
+      "close_time": "15:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,105 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "cottages",
+      "tag_category": null
+    },
+    {
+      "tag": "golf resort",
+      "tag_category": null
+    },
+    {
+      "tag": "perdido bay",
+      "tag_category": null
+    },
+    {
+      "tag": "pensacola",
+      "tag_category": null
+    },
+    {
+      "tag": "florida",
+      "tag_category": null
+    },
+    {
+      "tag": "lodging",
+      "tag_category": null
+    },
+    {
+      "tag": "guest rooms",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "golf packages",
+      "tag_category": null
+    },
+    {
+      "tag": "stay and play",
+      "tag_category": null
+    },
+    {
+      "tag": "bar and grill",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Golf Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hotels & Motels",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "lodging",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "address": "1 Doug Ford Dr #8707",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "Cottages On the Green",
+      "phone": "(850) 492-2214",
+      "address": "",
+      "placeId": "",
+      "website": "http://www.cottagesonthegreen.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:22.427Z"
 }

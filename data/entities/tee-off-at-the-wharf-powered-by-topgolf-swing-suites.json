@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Tee Off powered by Topgolf Swing Suite is a dining and entertainment venue that features golf-simulation games and a variety of other virtual sports and games using state-of-the-art technology. This fun and interactive restaurant is located at The Wharf in sunny Orange Beach, Alabama and is ideal for team-building events, corporate outings, happy hours, birthday parties and more.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00 AM",
+      "close_time": "11:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00 AM",
+      "close_time": "11:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,95 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "golf simulator",
+      "tag_category": null
+    },
+    {
+      "tag": "sports simulator",
+      "tag_category": null
+    },
+    {
+      "tag": "topgolf",
+      "tag_category": null
+    },
+    {
+      "tag": "sports bar",
+      "tag_category": null
+    },
+    {
+      "tag": "arcade games",
+      "tag_category": null
+    },
+    {
+      "tag": "virtual sports",
+      "tag_category": null
+    },
+    {
+      "tag": "party venue",
+      "tag_category": null
+    },
+    {
+      "tag": "family entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "The Wharf",
+      "tag_category": null
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sports & Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars & Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Party Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 228-4899",
+  "email": "info@teeoffatthewharf.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-other.json",
+      "name": "Tee Off at The Wharf Powered by TOPGOLF Swing Suites",
+      "phone": "251-228-4899",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.156Z"
 }

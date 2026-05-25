@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "At Sunglass Hut, our mission is to be the premier shopping and inspiration destination for high quality fashion and performance sunglasses. Starting out in 1971 as a small kiosk in Miami, Sunglass Hut is now the leading international retailer of sunglasses and is part of the Italian-based Luxottica Group, the world's largest eyewear company. Visit our Foley Sunglass Hut at 2601 S. McKenzie St to shop the newest styles of the season. Whether you're on the hunt for high fashion frames or just wanting something classically cool, look no further. Step in to style with thousands of pairs for every shade of you.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "10:00",
+      "close_time": "19:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,94 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "sunglasses",
+      "tag_category": null
+    },
+    {
+      "tag": "designer eyewear",
+      "tag_category": null
+    },
+    {
+      "tag": "fashion sunglasses",
+      "tag_category": null
+    },
+    {
+      "tag": "performance sunglasses",
+      "tag_category": null
+    },
+    {
+      "tag": "Ray-Ban",
+      "tag_category": null
+    },
+    {
+      "tag": "men's sunglasses",
+      "tag_category": null
+    },
+    {
+      "tag": "women's sunglasses",
+      "tag_category": null
+    },
+    {
+      "tag": "kids sunglasses",
+      "tag_category": null
+    },
+    {
+      "tag": "eyewear retail",
+      "tag_category": null
+    },
+    {
+      "tag": "Foley",
+      "tag_category": null
+    },
+    {
+      "tag": "Tanger Outlets",
+      "tag_category": null
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Eyewear",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sunglasses",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fashion Accessories",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "retail",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "retail",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 943-6967",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "foley-shopping.json",
+      "name": "Sunglass Hut Foley",
+      "phone": "(251) 943-6967",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.111Z"
 }

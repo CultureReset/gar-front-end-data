@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,96 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "direct booking",
+      "tag_category": null
+    },
+    {
+      "tag": "beach rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "condos",
+      "tag_category": null
+    },
+    {
+      "tag": "homes",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "no fees",
+      "tag_category": null
+    },
+    {
+      "tag": "zero commission",
+      "tag_category": null
+    },
+    {
+      "tag": "property management",
+      "tag_category": null
+    },
+    {
+      "tag": "short-term rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Travel & Tourism",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Real Estate",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Marketplace",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Coastal Properties",
+      "tag_category": "category"
+    },
+    {
+      "tag": "travel-and-lodging",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "vacation-rental-marketplace",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Houfy",
+      "phone": "",
+      "address": {},
+      "placeId": "",
+      "website": "https://www.houfy.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.165Z"
 }

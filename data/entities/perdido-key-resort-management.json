@@ -4,9 +4,46 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Perdido Key Resort Management (PKRM) was established in 2005 by John Cason in the picturesque coastal town of Perdido Key, Florida. Witnessing rapid growth, JD Hallam joined the team in 2006, spearheading business development as the operations manager. Under his leadership, PKRM has evolved into a premier Vacation Rental and Perdido Key Property Management company, specializing in resort rental program management, condo rentals, and luxury Perdido Key vacation rentals. Our dedicated team boasts extensive market knowledge and a commitment to exceptional service, ensuring guests and property owners alike receive top-notch assistance with a smile. With a diverse portfolio of vacation home properties, ranging from spacious homes accommodating large families to cozy condos perfect for a romantic getaway, we ensure high occupancy rates and meticulously maintained properties for our valued clients. Perdido Key condos provide an alternative to a Pensacola hotel. Stay in a professionally managed condo on the beach in a resort setting.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "9:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +54,98 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "condo rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "perdido key",
+      "tag_category": null
+    },
+    {
+      "tag": "florida beach",
+      "tag_category": null
+    },
+    {
+      "tag": "resort management",
+      "tag_category": null
+    },
+    {
+      "tag": "property management",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation homes",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf coast",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Property Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Condo Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Resort Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hospitality",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(866) 760-7576",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "perdido-key-accommodations.json",
+      "name": "Perdido Key Resort Management",
+      "phone": "(866) 760-7576",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.896Z"
 }

@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Kraken Reels Charter Services delivers the best deep sea fishing experience out of Orange Beach, Alabama. Led by Captain Jon Ray and his experienced crew, every trip is a fishing adventure tailored to your needs — from family-friendly nearshore runs to adrenaline-filled offshore expeditions. Operating out of Reel Surprise Marina in Orange Beach, Kraken Reels runs a 47-foot Sports Fisherman and a 30-foot Robalo Center Console, both equipped with state-of-the-art electronics, federal permits, and everything you need for a trophy day on the water. Perfect For: Families, bachelor parties, corporate outings, experienced anglers, or first-timers looking for an unforgettable day on the Gulf of Mexico.",
-  "phone": null,
+  "phone": "(850) 659-7998",
   "email": null,
   "website_url": "https://www.krakenreels.com/locations/kraken-reels-orange-beach",
   "address_line_1": "27267 Perdido Beach Blvd #100B",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "05:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "05:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "05:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "05:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "05:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "05:00",
+      "close_time": "19:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "05:00",
+      "close_time": "19:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,128 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "deep-sea-fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "nearshore-fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "charter-fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "orange-beach",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-of-mexico",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "trophy-fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "overnight-expedition",
+      "tag_category": null
+    },
+    {
+      "tag": "captain-jon-ray",
+      "tag_category": null
+    },
+    {
+      "tag": "red-snapper",
+      "tag_category": null
+    },
+    {
+      "tag": "wahoo",
+      "tag_category": null
+    },
+    {
+      "tag": "tuna",
+      "tag_category": null
+    },
+    {
+      "tag": "amberjack",
+      "tag_category": null
+    },
+    {
+      "tag": "king-mackerel",
+      "tag_category": null
+    },
+    {
+      "tag": "boat-charter",
+      "tag_category": null
+    },
+    {
+      "tag": "fishing-license-included",
+      "tag_category": null
+    },
+    {
+      "tag": "catch-cleaning",
+      "tag_category": null
+    },
+    {
+      "tag": "private-charter",
+      "tag_category": null
+    },
+    {
+      "tag": "Charter Fishing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Fun",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf of Mexico",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fishing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "charter-fishing",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-things-to-do.json",
+      "name": "Kraken Reels Charter Services",
+      "phone": "(850) 659-7998",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:25.897Z"
 }

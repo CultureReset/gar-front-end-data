@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Big Mike's Steakhouse is a casual steakhouse that serves Certified Angus Beef and has been voted Alabama's Best Steak by the Alabama Cattlemen's Association. With multiple locations across Alabama, we offer a first-come, first-serve dining experience with full bars at each location. We specialize in premium steaks and offer weekly chef features, private parties, and catering services with custom grilling available for off-site events.",
-  "phone": null,
+  "phone": "334-636-2260",
   "email": null,
   "website_url": "https://bigmikessteakhouse.com",
   "address_line_1": "",
@@ -17,7 +17,44 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "16:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "16:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "16:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "16:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "16:00",
+      "close_time": "21:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "16:00",
+      "close_time": "21:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,112 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "steakhouse",
+      "tag_category": null
+    },
+    {
+      "tag": "certified angus beef",
+      "tag_category": null
+    },
+    {
+      "tag": "wood-fired grill",
+      "tag_category": null
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "group dining",
+      "tag_category": null
+    },
+    {
+      "tag": "alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "rural steakhouse",
+      "tag_category": null
+    },
+    {
+      "tag": "ribeye",
+      "tag_category": null
+    },
+    {
+      "tag": "filet mignon",
+      "tag_category": null
+    },
+    {
+      "tag": "crab cakes",
+      "tag_category": null
+    },
+    {
+      "tag": "shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "private events",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Steakhouses",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bar & Grill",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Alabama Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Big Mike's Steakhouse",
+      "phone": "334-636-2260",
+      "address": "",
+      "placeId": "",
+      "website": "https://bigmikessteakhouse.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.840Z"
 }

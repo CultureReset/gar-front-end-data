@@ -6,8 +6,8 @@
   "entity_subtype": "restaurant",
   "icon": "🏪",
   "description": "Tacky Jacks Seafood Restaurant and Tavern in Orange Beach, Gulf Shores, and Fort Morgan AL. The best waterfront seafood restaurants in Orange Beach and Gulf Shores AL. Great Food, Casual Dining, Waterfront Views",
-  "phone": null,
-  "email": null,
+  "phone": "(251) 981-4144",
+  "email": "OrangeBeachEvents@TackyJacks.com",
   "address_line_1": "Multiple locations: Orange Beach, Gulf Shores, and Fort Morgan, Alabama",
   "city": "",
   "state": "AL",
@@ -16,7 +16,50 @@
   "rating": 4,
   "review_count": null,
   "hero_image_url": null,
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "7:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "7:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "7:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "7:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "7:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "7:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "7:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,116 @@
   "events": [],
   "photos": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "tavern",
+      "tag_category": null
+    },
+    {
+      "tag": "bar",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "brunch",
+      "tag_category": null
+    },
+    {
+      "tag": "happy hour",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "local favorite",
+      "tag_category": null
+    },
+    {
+      "tag": "beach dining",
+      "tag_category": null
+    },
+    {
+      "tag": "bushwacker",
+      "tag_category": null
+    },
+    {
+      "tag": "bloody mary",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Brunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "data.json",
+      "name": "Tacky Jacks Seafood Restaurant and Tavern",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.141Z"
 }

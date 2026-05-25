@@ -4,9 +4,52 @@
   "entity_type": "nightlife",
   "entity_subtype": "bars",
   "icon": "🏪",
-  "description": "",
+  "description": "Enjoy ocean fare + beach sides at Tiki & Raw Bar Orange Beach. Everything from fresh oysters and tuna to Nashville Hot Chicken and everything in between. Tiki is your go-to open-air watering hole right on the water, offering stunning views of Terry Cove. This laid-back oasis invites you to relax & enjoy fresh seafood, tropical drinks, and the best sunsets around.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00 AM",
+      "close_time": "10:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00 AM",
+      "close_time": "9:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,134 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "raw bar",
+      "tag_category": null
+    },
+    {
+      "tag": "oysters",
+      "tag_category": null
+    },
+    {
+      "tag": "tiki drinks",
+      "tag_category": null
+    },
+    {
+      "tag": "tropical cocktails",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront",
+      "tag_category": null
+    },
+    {
+      "tag": "live music",
+      "tag_category": null
+    },
+    {
+      "tag": "orange beach",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "beach bar",
+      "tag_category": null
+    },
+    {
+      "tag": "tuna",
+      "tag_category": null
+    },
+    {
+      "tag": "nashville hot chicken",
+      "tag_category": null
+    },
+    {
+      "tag": "bushwackers",
+      "tag_category": null
+    },
+    {
+      "tag": "margaritas",
+      "tag_category": null
+    },
+    {
+      "tag": "crawfish boil",
+      "tag_category": null
+    },
+    {
+      "tag": "boat drinks",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Live Music Venues",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Raw Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Tropical Cocktail Bars",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "251-277-4800",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-bars.json",
+      "name": "Tiki & Raw Bar Orange Beach",
+      "phone": "251-277-4800",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.160Z"
 }

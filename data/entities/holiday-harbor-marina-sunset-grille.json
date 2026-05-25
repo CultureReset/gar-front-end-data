@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Holiday Harbor Marina is a family owned full service marina that is home to the Sunset Grille. We are known for our great service, and even better sunsets. Holiday Harbor Marina is a family-owned, full-service marina located on beautiful Perdido Key, Florida. Miles of white sand beaches, tiny islands waiting for you to discover, inshore fishing, offshore fishing, and plenty of protected water, are all just minutes from Holiday Harbor Marina. We are situated on the Intracoastal Canal between Mobile, AL and Pensacola, FL with direct access to the Gulf of Mexico through either Perdido Pass (Orange Beach, AL) or Pensacola Pass. Our full array of facilities and services can accommodate the needs of both local and transient boaters. Our on-site restaurant, Sunset Grille, has waterside dining in a relaxed, family atmosphere with the best sunsets views on the Key. We offer a full menu, including fresh seafood daily, a full bar menu and a boating-themed playground for children. And, we are pet-friendly.",
-  "phone": null,
+  "phone": "850-492-0555",
   "email": "office@myholidayharbor.com",
   "website_url": "https://myholidayharbor.com",
   "address_line_1": "14050 Canal-A-Way",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "8:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "8:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "8:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "8:00 AM",
+      "close_time": "6:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "7:00 AM",
+      "close_time": "7:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "7:00 AM",
+      "close_time": "7:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "7:00 AM",
+      "close_time": "7:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,108 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood restaurant",
+      "tag_category": null
+    },
+    {
+      "tag": "marina",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront dining",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "Perdido Key",
+      "tag_category": null
+    },
+    {
+      "tag": "Pensacola",
+      "tag_category": null
+    },
+    {
+      "tag": "dock-side",
+      "tag_category": null
+    },
+    {
+      "tag": "pet friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "boat accessible",
+      "tag_category": null
+    },
+    {
+      "tag": "sunset views",
+      "tag_category": null
+    },
+    {
+      "tag": "intracoastal waterway",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf of Mexico access",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Marina Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "pensacola-restaurants.json",
+      "name": "Holiday Harbor Marina & Sunset Grille",
+      "phone": "850-492-0555",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.913Z"
 }

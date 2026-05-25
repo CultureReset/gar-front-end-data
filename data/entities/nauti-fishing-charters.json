@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Experience some unforgettable fishing adventures in Gulf Shores and Orange Beach Alabama with Nauti Fishing Charters. From inshore, nearshore, to offshore fishing trips, our expert guides will take you on epic fishing excursions to catch the big ones. Book your fishing charter today and get ready for an unforgettable experience on the water.",
-  "phone": null,
+  "phone": "850-324-0566",
   "email": null,
   "website_url": "http://nautifishco.com/",
   "address_line_1": "Gulf Shores Yacht Club & Marina at Ft. Morgan",
@@ -17,7 +17,38 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "09:00",
+      "close_time": "17:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +57,132 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "fishing charters",
+      "tag_category": null
+    },
+    {
+      "tag": "inshore fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "nearshore fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "offshore fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "red snapper",
+      "tag_category": null
+    },
+    {
+      "tag": "king mackerel",
+      "tag_category": null
+    },
+    {
+      "tag": "spanish mackerel",
+      "tag_category": null
+    },
+    {
+      "tag": "redfish",
+      "tag_category": null
+    },
+    {
+      "tag": "trout",
+      "tag_category": null
+    },
+    {
+      "tag": "flounder",
+      "tag_category": null
+    },
+    {
+      "tag": "sheepshead",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf shores",
+      "tag_category": null
+    },
+    {
+      "tag": "orange beach",
+      "tag_category": null
+    },
+    {
+      "tag": "fairhope",
+      "tag_category": null
+    },
+    {
+      "tag": "mobile bay",
+      "tag_category": null
+    },
+    {
+      "tag": "fort morgan",
+      "tag_category": null
+    },
+    {
+      "tag": "guided fishing trips",
+      "tag_category": null
+    },
+    {
+      "tag": "family fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "fishing adventures",
+      "tag_category": null
+    },
+    {
+      "tag": "Fishing Charters",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Sports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Shores Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Orange Beach Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fairhope Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Charter Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "charter-fishing",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-things-to-do.json",
+      "name": "Nauti Fishing Charters",
+      "phone": "850-324-0566",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:27.035Z"
 }

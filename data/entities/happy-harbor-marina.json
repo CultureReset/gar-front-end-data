@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Happy Harbor is the largest watersports rental company in Orange Beach, AL! In business since 2007, we are a family owned and operated company that has been providing fun on the water for over 18 years. We pride ourselves on our family friendly atmosphere and helpful crew, as well as the cleanest and best maintained inventory in the business. We have over 50 vessels to choose from, including double and single deck pontoons for the whole family, center consoles to cruise around the waterways, jet skis to feed your need for speed, or paddle sports for a more relaxing excursion.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,115 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "watersports",
+      "tag_category": null
+    },
+    {
+      "tag": "boat-rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "pontoon-rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "jet-ski-rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "center-console-rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "paddlesports",
+      "tag_category": null
+    },
+    {
+      "tag": "orange-beach",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-shores",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "water-activities",
+      "tag_category": null
+    },
+    {
+      "tag": "marine-service",
+      "tag_category": null
+    },
+    {
+      "tag": "Watersports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Boat Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Jet Ski Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Paddlesports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Fun",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "watersports",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 981-6111",
+  "email": "info@happyharbors.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-other.json",
+      "name": "Happy Harbor Marina",
+      "phone": "(251) 981-6111",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:24.723Z"
 }

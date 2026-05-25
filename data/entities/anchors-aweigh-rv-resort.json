@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "If you've never been to Alabama, you're missing one of the most picturesque areas of the country. Anchors Aweigh RV Resort is a premier RV park and campground only 7 miles from the Gulf of Mexico in Foley, Baldwin County, and offers the finest camping near the Alabama Gulf Coast! Anchors Aweigh RV Resort is committed to providing a website that is accessible to the widest possible audience, regardless of technology or ability. We aim to comply with WCAG accessibility standards up to level AA.",
-  "phone": null,
+  "phone": "(251) 971-6644",
   "email": "aarvresort@aol.com",
   "website_url": "https://anchorsaweighrvresort.com",
   "address_line_1": "19814 County Road 20 South",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "8:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "8:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "8:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "8:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "8:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "8:00 AM",
+      "close_time": "4:30 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "8:00 AM",
+      "close_time": "2:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,108 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "RV park",
+      "tag_category": null
+    },
+    {
+      "tag": "RV resort",
+      "tag_category": null
+    },
+    {
+      "tag": "camping",
+      "tag_category": null
+    },
+    {
+      "tag": "RV sites",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Foley",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "full hookups",
+      "tag_category": null
+    },
+    {
+      "tag": "pool",
+      "tag_category": null
+    },
+    {
+      "tag": "hot tub",
+      "tag_category": null
+    },
+    {
+      "tag": "dog park",
+      "tag_category": null
+    },
+    {
+      "tag": "pickleball",
+      "tag_category": null
+    },
+    {
+      "tag": "fishing pond",
+      "tag_category": null
+    },
+    {
+      "tag": "RV Parks & Campgrounds",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "foley-accommodations.json",
+      "name": "Anchors Aweigh RV Resort",
+      "phone": "(251) 971-6644",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:20.996Z"
 }

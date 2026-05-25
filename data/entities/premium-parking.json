@@ -4,9 +4,38 @@
   "entity_type": "park",
   "entity_subtype": "parks",
   "icon": "🏪",
-  "description": "",
+  "description": "Premium Parking offers convenient, reliable, and affordable parking options for individuals and businesses. Experience personalized service and innovative technology that makes parking stress-free, whether you're looking for daily, monthly, or yearly parking solutions.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +46,89 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "parking",
+      "tag_category": null
+    },
+    {
+      "tag": "convenient parking",
+      "tag_category": null
+    },
+    {
+      "tag": "secure parking",
+      "tag_category": null
+    },
+    {
+      "tag": "daily parking",
+      "tag_category": null
+    },
+    {
+      "tag": "monthly parking",
+      "tag_category": null
+    },
+    {
+      "tag": "yearly parking",
+      "tag_category": null
+    },
+    {
+      "tag": "parking management",
+      "tag_category": null
+    },
+    {
+      "tag": "affordable parking",
+      "tag_category": null
+    },
+    {
+      "tag": "personalized service",
+      "tag_category": null
+    },
+    {
+      "tag": "innovative technology",
+      "tag_category": null
+    },
+    {
+      "tag": "Parking",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Parking Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Transportation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Business Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "parking-services",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "parking",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "businesses": [
+    {
+      "source": "merged.json",
+      "name": "Premium Parking",
+      "phone": "",
+      "address": {
+        "city": "New Orleans",
+        "state": "LA",
+        "coordinates": {}
+      },
+      "placeId": "",
+      "website": "https://www.premiumparking.com"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:33.441Z"
 }

@@ -16,7 +16,50 @@
   "rating": 4,
   "review_count": null,
   "hero_image_url": null,
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,148 @@
   "events": [],
   "photos": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "oyster-bar",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "gumbo",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh-gulf-seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "po-boys",
+      "tag_category": null
+    },
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "happy-hour",
+      "tag_category": null
+    },
+    {
+      "tag": "kids-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "outdoor-playground",
+      "tag_category": null
+    },
+    {
+      "tag": "sustainable-seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "alligator",
+      "tag_category": null
+    },
+    {
+      "tag": "crab",
+      "tag_category": null
+    },
+    {
+      "tag": "shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "crawfish",
+      "tag_category": null
+    },
+    {
+      "tag": "salad-bar",
+      "tag_category": null
+    },
+    {
+      "tag": "cheesy-grits",
+      "tag_category": null
+    },
+    {
+      "tag": "key-lime-pie",
+      "tag_category": null
+    },
+    {
+      "tag": "chocolate-chip-peanut-butter-pie",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Oyster Bar",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Fun",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Happy Hour",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Southern Cuisine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fresh Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "spanish-fort-other.json",
+      "name": "The Original Oyster House",
+      "phone": "(251) 626-2188",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.413Z"
 }

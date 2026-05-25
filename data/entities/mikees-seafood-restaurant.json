@@ -4,9 +4,52 @@
   "entity_type": "restaurant",
   "entity_subtype": "restaurants",
   "icon": "🏪",
-  "description": "",
+  "description": "For over 35 years, Mikee's Seafood has been a Gulf Shores staple, serving up fresh, Southern-style seafood with a warm, family-friendly atmosphere. Proudly family-owned and operated since 1987, Mikee's is more than just a restaurant—it's a local tradition. Whether you're craving all-you-can-eat snow crab, a golden-fried seafood platter, or a refreshing Bushwacker from the bar, Mikee's is the spot where locals and visitors come together to eat, laugh, and make memories. The menu is packed with crowd favorites, from perfectly fried shrimp to grilled catch-of-the-day, all seasoned with that unmistakable Gulf Coast flavor.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "11:00",
+      "close_time": "22:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,222 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "family-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-shores",
+      "tag_category": null
+    },
+    {
+      "tag": "southern-cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "all-you-can-eat",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh-seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "fried-seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "grilled-fish",
+      "tag_category": null
+    },
+    {
+      "tag": "shrimp",
+      "tag_category": null
+    },
+    {
+      "tag": "crab",
+      "tag_category": null
+    },
+    {
+      "tag": "local-favorite",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Southern Cuisine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "All-You-Can-Eat",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lunch Spots",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dinner Spots",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-shores",
+      "tag_category": null
+    },
+    {
+      "tag": "family-owned",
+      "tag_category": null
+    },
+    {
+      "tag": "southern-cuisine",
+      "tag_category": null
+    },
+    {
+      "tag": "all-you-can-eat",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "fried-seafood",
+      "tag_category": null
+    },
+    {
+      "tag": "fresh-catch",
+      "tag_category": null
+    },
+    {
+      "tag": "takeout",
+      "tag_category": null
+    },
+    {
+      "tag": "delivery",
+      "tag_category": null
+    },
+    {
+      "tag": "waterfront-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "local-favorite",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Seafood",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Friendly",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Southern Cuisine",
+      "tag_category": "category"
+    },
+    {
+      "tag": "All-You-Can-Eat",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Waterfront Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Takeout",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Delivery",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 948-6452",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gulf-shores-restaurants.json",
+      "name": "Mikee's Seafood Restaurant",
+      "phone": "(251) 948-6452",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:26.966Z"
 }

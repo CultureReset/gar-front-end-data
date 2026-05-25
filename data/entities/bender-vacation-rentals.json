@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Bender Realty is a small, boutique real estate and property management company serving the Gulf Shores and Orange Beach areas along the Gulf Coast of Alabama. Our team is dedicated to providing top-notch service to our guests and owners alike. We don't strive to be the biggest company in the area, but rather the best. Our team has combined decades of experience in real estate and vacation property management, and have a deep understanding of the needs of those living and traveling to the Gulf Coast. Bender Vacation Rentals offers vacation condos and property management services throughout the Alabama Gulf Coast area. We manage over 100 vacation condos and homes in prime locations near beaches, dining, and attractions. Our rentals feature comfortable, fully equipped condos and homes with stunning views of the Gulf of Mexico and friendly service from local experts. We have been matching families with the perfect place to make memories since 1986.",
-  "phone": null,
+  "phone": "(251) 948-2651",
   "email": "management@bendervacationrentals.com",
   "website_url": "https://www.benderrealty.com/",
   "address_line_1": "956 West Beach Boulevard",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "09:00",
+      "close_time": "16:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "08:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "08:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "08:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "08:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "08:00",
+      "close_time": "17:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "08:00",
+      "close_time": "17:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,112 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "condos",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "beachfront",
+      "tag_category": null
+    },
+    {
+      "tag": "dog-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "family vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "beach houses",
+      "tag_category": null
+    },
+    {
+      "tag": "property management",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "vacation homes",
+      "tag_category": null
+    },
+    {
+      "tag": "condo rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "group rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "beach getaway",
+      "tag_category": null
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Condos",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Property Management",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Group Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pet-Friendly Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "vacation-rentals",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "shopping-tourist-services-OLD-API-enhanced.json",
+      "name": "Bender Vacation Rentals",
+      "phone": "+1 251-948-2651",
+      "address": "956 W Beach Blvd, Gulf Shores, AL 36542, USA",
+      "placeId": "",
+      "website": "http://www.benderrealty.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:21.552Z"
 }

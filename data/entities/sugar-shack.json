@@ -4,9 +4,46 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Sugar Shack is home to the best adult entertainment in Lake Geneva. We have been hosting the finest female dancers for over thirty years and recently added Wisconsin's only male dancers venue on our second floor. Our Girls and Guys are here to make your get-together memorable. From bachelor parties to birthdays, there's always a good time at Sugar Shack. Perfect for bachelorette parties, girls' nights out, and special celebrations.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "19:00",
+      "close_time": "02:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "19:00",
+      "close_time": "02:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "19:00",
+      "close_time": "02:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "19:00",
+      "close_time": "02:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "19:00",
+      "close_time": "02:30",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "19:00",
+      "close_time": "02:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +54,103 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "adult-entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "nightlife",
+      "tag_category": null
+    },
+    {
+      "tag": "dancers",
+      "tag_category": null
+    },
+    {
+      "tag": "bachelor-parties",
+      "tag_category": null
+    },
+    {
+      "tag": "bachelorette-parties",
+      "tag_category": null
+    },
+    {
+      "tag": "lake-geneva",
+      "tag_category": null
+    },
+    {
+      "tag": "wisconsin",
+      "tag_category": null
+    },
+    {
+      "tag": "nightclub",
+      "tag_category": null
+    },
+    {
+      "tag": "live-entertainment",
+      "tag_category": null
+    },
+    {
+      "tag": "dance-club",
+      "tag_category": null
+    },
+    {
+      "tag": "Nightlife",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Adult Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Live Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Entertainment",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bachelor Parties",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Bachelorette Parties",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Special Events",
+      "tag_category": "category"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "entertainment",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(262) 248-2550",
+  "email": "info@sugarshack.com",
+  "menus": [],
+  "businesses": [
+    {
+      "source": "google-places-new.json",
+      "name": "Sugar Shack",
+      "phone": "(262) 248-2550",
+      "address": "",
+      "placeId": "",
+      "website": "https://www.sugarshack.com/"
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.094Z"
 }

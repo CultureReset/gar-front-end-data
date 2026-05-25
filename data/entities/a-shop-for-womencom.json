@@ -4,9 +4,46 @@
   "entity_type": "shopping",
   "entity_subtype": "stores",
   "icon": "🏪",
-  "description": "",
+  "description": "A Shop for Women is celebrating their 40th year as a premier women's retail destination in Downtown Pensacola. The shop specializes in high-quality women's clothing, shoes, and Italian linens. They feature curated designer collections including Bottega di Brunella.",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "10:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "10:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "10:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "10:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "10:00 AM",
+      "close_time": "5:00 PM",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "10:00 AM",
+      "close_time": "4:00 PM",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +54,87 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "women's clothing",
+      "tag_category": null
+    },
+    {
+      "tag": "shoes",
+      "tag_category": null
+    },
+    {
+      "tag": "Italian linens",
+      "tag_category": null
+    },
+    {
+      "tag": "boutique",
+      "tag_category": null
+    },
+    {
+      "tag": "fashion retail",
+      "tag_category": null
+    },
+    {
+      "tag": "downtown Pensacola",
+      "tag_category": null
+    },
+    {
+      "tag": "designer",
+      "tag_category": null
+    },
+    {
+      "tag": "luxury retail",
+      "tag_category": null
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Women's Fashion",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Clothing Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shoe Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Boutiques",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Shopping",
+      "tag_category": "category"
+    },
+    {
+      "tag": "fashion-and-retail",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "retail",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "email": "[email protected]",
+  "phone": "850.434.3012",
+  "businesses": [
+    {
+      "source": "pensacola-shopping.json",
+      "name": "A SHOP FOR WOMEN.COM",
+      "phone": "850.434.3012",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:20.637Z"
 }

@@ -5,8 +5,8 @@
   "entity_type": "hotel",
   "entity_subtype": "hotel",
   "icon": "🏪",
-  "description": "",
-  "phone": null,
+  "description": "At Perdido Key Resort Management (PKRM), we are incredibly proud to be the exclusive rental management company administering the Purple Parrot Resort's rental program. Our deep connection to this iconic resort goes beyond its operations—it's a place we genuinely love and feel at home. The Purple Parrot Resort is a true gem in Perdido Key, offering unmatched amenities and a welcoming, laid-back vibe. It's the only resort on the island featuring a lagoon-style outdoor pool, complete with a tropical waterfall and island hot tub, providing the ultimate space for relaxation. For cooler months, our indoor pool ensures that every season is perfect for a visit. Guests also enjoy the island's only designated beach volleyball area, adding an extra touch of fun and community spirit to their stay. Steps from the resort, you'll find the pristine Gulf Islands National Seashore, offering seven miles of untouched beaches and breathtaking views. Within the resort gates, the much-loved Purple Parrot Tiki Bar serves as a lively social hub, with live music, great food, and a friendly atmosphere that keeps guests coming back. From the moment you drive through the privacy gates, you'll feel the charm of this unique community. The paver-lined streets, upscale coastal architecture, and clusters of cottage-style condos surrounded by lush greenspaces create a picturesque setting. Whether you're enjoying soak therapy in the hot tub, floating in the lagoon pool, or chatting with neighbors and guests, the Purple Parrot exudes a welcoming, laid-back vibe that feels like home. PKRM's dedicated team brings extensive market knowledge and a commitment to exceptional service to every guest and property owner interaction. With a diverse portfolio of vacation properties, ranging from cozy one-bedroom condos for romantic getaways to spacious three-bedroom homes for families and groups, the Purple Parrot Resort offers accommodations for every need. For us at PKRM, the Purple Parrot Resort is more than just a place to work—it's a beloved community and an extraordinary destination that we're privileged to call home.",
+  "phone": "(850) 492-9999",
   "email": null,
   "address_line_1": "",
   "city": "",
@@ -16,7 +16,44 @@
   "rating": 4,
   "review_count": null,
   "hero_image_url": null,
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "08:15",
+      "close_time": "17:45",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "08:15",
+      "close_time": "17:45",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "08:15",
+      "close_time": "17:45",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "08:15",
+      "close_time": "17:45",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "08:15",
+      "close_time": "17:45",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "08:15",
+      "close_time": "17:45",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +63,96 @@
   "events": [],
   "photos": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "vacation rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "condo rentals",
+      "tag_category": null
+    },
+    {
+      "tag": "beach resort",
+      "tag_category": null
+    },
+    {
+      "tag": "Perdido Key",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Coast",
+      "tag_category": null
+    },
+    {
+      "tag": "tropical resort",
+      "tag_category": null
+    },
+    {
+      "tag": "family vacation",
+      "tag_category": null
+    },
+    {
+      "tag": "group accommodations",
+      "tag_category": null
+    },
+    {
+      "tag": "resort amenities",
+      "tag_category": null
+    },
+    {
+      "tag": "pool and hot tub",
+      "tag_category": null
+    },
+    {
+      "tag": "beach getaway",
+      "tag_category": null
+    },
+    {
+      "tag": "Vacation Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Condo Rentals",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beach Accommodations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lodging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Hotels & Resorts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "hospitality-and-accommodations",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "rentals",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "perdido-key-accommodations.json",
+      "name": "Purple Parrot Resort",
+      "phone": "(850) 492-9999",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:28.222Z"
 }

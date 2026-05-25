@@ -4,9 +4,52 @@
   "entity_type": "business",
   "entity_subtype": "general",
   "icon": "🏪",
-  "description": "",
+  "description": "Hey there, sugar—welcome to Sunliner Diner! We're so glad you rolled in. Around here, we believe in slowing things down, turning up the jukebox, and making every meal feel like a celebration. From chrome booths and creamy milkshakes to breakfast all day and burgers that'll make your heart sing, we've packed a whole lot of joy into every corner of this 1950s dream. Whether you're sharing pancakes with your little ones or catching up with old friends over a slice of pie, Sunliner is all about togetherness, nostalgia, and the kind of comfort that never goes out of style. So hop in, baby—your table's ready, the coffee's hot, and there's always room for a little more sweetness in your day. We're so happy you're here. The Sunliner Diner Family",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "Not specified",
+      "close_time": "Not specified",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "Not specified",
+      "close_time": "Not specified",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "Not specified",
+      "close_time": "Not specified",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "Not specified",
+      "close_time": "Not specified",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "Not specified",
+      "close_time": "Not specified",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "Not specified",
+      "close_time": "Not specified",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "Not specified",
+      "close_time": "Not specified",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,102 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "1950s themed",
+      "tag_category": null
+    },
+    {
+      "tag": "retro diner",
+      "tag_category": null
+    },
+    {
+      "tag": "breakfast all day",
+      "tag_category": null
+    },
+    {
+      "tag": "burgers",
+      "tag_category": null
+    },
+    {
+      "tag": "milkshakes",
+      "tag_category": null
+    },
+    {
+      "tag": "classic american",
+      "tag_category": null
+    },
+    {
+      "tag": "family friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "nostalgia",
+      "tag_category": null
+    },
+    {
+      "tag": "chrome booths",
+      "tag_category": null
+    },
+    {
+      "tag": "jukebox",
+      "tag_category": null
+    },
+    {
+      "tag": "casual dining",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Diners",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "American Food",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "phone": "(251) 280-8446",
+  "website": "https://sunlinerdiner.com/",
+  "address": "26035 Perdido Beach Blvd",
+  "rating": 4.9,
+  "menus": [],
+  "email": "GMGS@sunlinerDiner.com",
+  "businesses": [
+    {
+      "source": "gulf-shores-other.json",
+      "name": "Sunliner Diner",
+      "phone": "(251) 937-6590",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:29.112Z"
 }

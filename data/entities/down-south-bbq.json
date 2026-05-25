@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Down South Barbecue is located between Foley and Gulf Shores, Alabama, right on the way to the Alabama Beach. We serve the best barbecue on the coast from our family-size umbrella covered tables. Now serving breakfast! Drop by and eat your lunch or supper. After a long drive to the beach, don't worry about cooking! Let Mama relax. Get a complete meal for all your family. Great food at a fair price. We cater for big orders - call ahead so we have time to properly prepare the very best Southern Barbecue for your group!",
-  "phone": null,
+  "phone": "251-955-6622",
   "email": null,
   "website_url": "https://downsouthbbq.com",
   "address_line_1": "19891 County Rd. 10",
@@ -17,7 +17,26 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Thursday",
+      "open_time": "07:00",
+      "close_time": "15:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "07:00",
+      "close_time": "15:00",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "07:00",
+      "close_time": "15:00",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +45,108 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "bbq",
+      "tag_category": null
+    },
+    {
+      "tag": "barbecue",
+      "tag_category": null
+    },
+    {
+      "tag": "foley-alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "gulf-shores",
+      "tag_category": null
+    },
+    {
+      "tag": "casual-dining",
+      "tag_category": null
+    },
+    {
+      "tag": "lunch",
+      "tag_category": null
+    },
+    {
+      "tag": "dinner",
+      "tag_category": null
+    },
+    {
+      "tag": "breakfast",
+      "tag_category": null
+    },
+    {
+      "tag": "catering",
+      "tag_category": null
+    },
+    {
+      "tag": "family-friendly",
+      "tag_category": null
+    },
+    {
+      "tag": "local-favorite",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "BBQ",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Local Favorites",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Breakfast",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Lunch",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Dinner",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Catering",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Friendly",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "foley-bars.json",
+      "name": "Down South BBQ",
+      "phone": "251-955-6622",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:23.173Z"
 }

@@ -6,7 +6,50 @@
   "icon": "🏪",
   "description": "",
   "city": "",
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": "",
+      "close_time": "",
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -17,8 +60,97 @@
   "photos": [],
   "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "med spa",
+      "tag_category": null
+    },
+    {
+      "tag": "skin care",
+      "tag_category": null
+    },
+    {
+      "tag": "massage",
+      "tag_category": null
+    },
+    {
+      "tag": "spa treatments",
+      "tag_category": null
+    },
+    {
+      "tag": "wellness",
+      "tag_category": null
+    },
+    {
+      "tag": "rejuvenation",
+      "tag_category": null
+    },
+    {
+      "tag": "aesthetic services",
+      "tag_category": null
+    },
+    {
+      "tag": "relaxation",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": null
+    },
+    {
+      "tag": "Spas",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Med Spas",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Massage",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Skin Care",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wellness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beauty Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Health and Wellness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "health-and-wellness",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "spa",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "menus": [],
+  "businesses": [
+    {
+      "source": "orange-beach-attractions.json",
+      "name": "Rejuvenation Med Spa Orange Beach",
+      "phone": "",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:28.265Z"
 }

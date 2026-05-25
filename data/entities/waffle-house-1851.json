@@ -20,5 +20,23 @@
   "tags": [],
   "featured": false,
   "is_active": true,
-  "sources": {}
+  "sources": {},
+  "businesses": [
+    {
+      "source": "jsonld.json",
+      "name": "Waffle House #1851",
+      "phone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "12615 FOLEY BEACH",
+        "addressLocality": "FOLEY",
+        "addressRegion": "AL",
+        "postalCode": "36535",
+        "addressCountry": "US"
+      },
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:30.417Z"
 }

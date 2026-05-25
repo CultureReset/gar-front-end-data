@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,112 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "chocolate",
+      "tag_category": null
+    },
+    {
+      "tag": "fudge",
+      "tag_category": null
+    },
+    {
+      "tag": "ice-cream",
+      "tag_category": null
+    },
+    {
+      "tag": "caramel-apples",
+      "tag_category": null
+    },
+    {
+      "tag": "confections",
+      "tag_category": null
+    },
+    {
+      "tag": "hand-crafted",
+      "tag_category": null
+    },
+    {
+      "tag": "sweet-treats",
+      "tag_category": null
+    },
+    {
+      "tag": "desserts",
+      "tag_category": null
+    },
+    {
+      "tag": "gift-shop",
+      "tag_category": null
+    },
+    {
+      "tag": "caramel-corn",
+      "tag_category": null
+    },
+    {
+      "tag": "brittle",
+      "tag_category": null
+    },
+    {
+      "tag": "chocolate-dipped",
+      "tag_category": null
+    },
+    {
+      "tag": "dubai-chocolate",
+      "tag_category": null
+    },
+    {
+      "tag": "Restaurants",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Desserts",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Ice Cream",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Sweets & Candy",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gift Shops",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Casual Dining",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Family Fun",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Things To Do",
+      "tag_category": "category"
+    },
+    {
+      "tag": "food-and-drink",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "confectionery",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "gcr_businesses.json",
+      "name": "Kilwins",
+      "phone": "",
+      "address": "4751 Main St Unit F113",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:32.258Z"
 }

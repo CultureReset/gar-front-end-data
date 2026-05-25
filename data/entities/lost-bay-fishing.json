@@ -6,7 +6,7 @@
   "entity_subtype": "general",
   "icon": "🏪",
   "description": "Welcome to Lost Bay Guide Service, the Gulf Coast's premier fishing charter serving Perdido Key, Gulf Shores, Orange Beach, and Pensacola. With over 30 years of local experience, our team of seasoned captains knows every tide, reef, and sandbar of these emerald waters — and we guarantee one thing: you're going to catch fish. From chasing bull reds on the flats to battling monster snapper offshore, every trip is personalized for your group's skill level and fishing goals. Whether you're a first-time angler, a seasoned pro, or a family looking for unforgettable fun on the water, we make sure every cast counts. Our captains specialize in both inshore and offshore trips that cover the full range of the Gulf's most exciting species: Inshore fishing targets Redfish, Speckled Trout, Flounder, and Black Drum. Nearshore fishing targets King Mackerel, Cobia, and Spanish Mackerel. Offshore fishing targets Red Snapper, Grouper, Amberjack, and Triggerfish. No matter the season, you'll fish prime local waters where the action never stops. From sight-casting bull reds in the fall to bottom-fishing reefs for trophy snapper in summer, every charter is designed for maximum fun and success. We're more than just a charter company — we're a team of full-time captains who live and breathe Gulf fishing. For us, it's not just about catching fish; it's about creating memories that last a lifetime. You'll laugh, learn, and leave with a cooler full of fresh fillets and a camera roll full of smiles.",
-  "phone": null,
+  "phone": "(850) 748-5076",
   "email": "captbillwillis@yahoo.com",
   "website_url": "http://lostbayfishing.com/",
   "address_line_1": "",
@@ -17,7 +17,50 @@
   "review_count": null,
   "hero_image_url": null,
   "photos": [],
-  "hours": [],
+  "hours": [
+    {
+      "day_of_week": "Monday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Tuesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Wednesday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Thursday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Friday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Saturday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    },
+    {
+      "day_of_week": "Sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": false
+    }
+  ],
   "menu_sections": [],
   "drink_sections": [],
   "happy_hour": {
@@ -26,7 +69,160 @@
   },
   "events": [],
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "fishing charter",
+      "tag_category": null
+    },
+    {
+      "tag": "inshore fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "offshore fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "redfish",
+      "tag_category": null
+    },
+    {
+      "tag": "snapper",
+      "tag_category": null
+    },
+    {
+      "tag": "light tackle",
+      "tag_category": null
+    },
+    {
+      "tag": "fly fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": null
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": null
+    },
+    {
+      "tag": "Perdido Key",
+      "tag_category": null
+    },
+    {
+      "tag": "sight fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "bull reds",
+      "tag_category": null
+    },
+    {
+      "tag": "speckled trout",
+      "tag_category": null
+    },
+    {
+      "tag": "grouper",
+      "tag_category": null
+    },
+    {
+      "tag": "amberjack",
+      "tag_category": null
+    },
+    {
+      "tag": "triggerfish",
+      "tag_category": null
+    },
+    {
+      "tag": "cobia",
+      "tag_category": null
+    },
+    {
+      "tag": "kingfish",
+      "tag_category": null
+    },
+    {
+      "tag": "black drum",
+      "tag_category": null
+    },
+    {
+      "tag": "flounder",
+      "tag_category": null
+    },
+    {
+      "tag": "shark fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "flounder gigging",
+      "tag_category": null
+    },
+    {
+      "tag": "family fishing",
+      "tag_category": null
+    },
+    {
+      "tag": "guided trips",
+      "tag_category": null
+    },
+    {
+      "tag": "Charter Fishing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fishing Guides",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Outdoor Recreation",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Water Sports",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Coast Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Perdido Key Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Gulf Shores Activities",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Orange Beach Attractions",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Pensacola Area Fishing",
+      "tag_category": "category"
+    },
+    {
+      "tag": "outdoor-recreation",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "charter-fishing",
+      "tag_category": "type"
+    }
+  ],
   "featured": false,
-  "is_active": true
+  "is_active": true,
+  "menus": [],
+  "businesses": [
+    {
+      "source": "perdido-key-other.json",
+      "name": "Lost Bay Fishing",
+      "phone": "(850) 748-5076",
+      "address": "",
+      "placeId": "",
+      "website": ""
+    }
+  ],
+  "consolidatedAt": "2026-05-22T11:53:26.281Z"
 }
