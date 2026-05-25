@@ -2,96 +2,356 @@
   "id": "e4753441-5e18-48ba-b75a-4883090ffec8",
   "slug": "alise-co-salon-0-tJyk",
   "name": "Alise & Co. Salon",
-  "subtitle": null,
   "entity_type": "service",
   "entity_subtype": "salon",
-  "secondary_types": null,
+  "icon": "🏪",
   "description": "A salon that brings an intimate + creative vibe to GULF SHORES. Our goal is to create an environment that makes you feel at ease; a place we can connect and enhance each persons unique self by focusing on the beauty each of us holds and the gratitude we should all have being unique individuals. We are a team of artist who prioritize education, collaboration and excellence from start to finish.",
-  "short_description": null,
-  "tagline": null,
+  "phone": "(251) 923-4477",
+  "email": null,
   "address_line_1": "3849 Gulf Shores Pkwy STE 5, Gulf Shores, AL 36542, USA",
-  "address_line_2": null,
   "city": "Gulf Shores",
   "state": "AL",
   "zip": "36542",
-  "country": "USA",
-  "latitude": 30.3055819,
-  "longitude": -87.6839256,
-  "phone": "(251) 923-4477",
-  "email": null,
   "website_url": "http://www.aliseandcosalon.com/",
-  "booking_url": null,
-  "reservation_url": null,
-  "order_url": null,
-  "menu_url": null,
-  "directions_url": null,
-  "call_url": null,
-  "social_facebook": "https://www.facebook.com/salonkarma36542/",
-  "social_instagram": "https://www.instagram.com/aliseandcosalon",
-  "social_tiktok": null,
-  "social_twitter": null,
-  "social_youtube": null,
-  "hours_text": "Monday: 9:00 AM – 3:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 3:00 PM\nSunday: Closed",
-  "open_time": null,
-  "close_time": null,
-  "hh_days": null,
-  "hh_start": null,
-  "hh_end": null,
-  "hh_description": null,
-  "hero_image_url": null,
-  "logo_url": null,
-  "icon": null,
   "rating": 4.8,
   "review_count": 143,
-  "google_places_id": "ChIJ2yafBEQFmogRPQrcY0-tJyk",
-  "google_type": "beauty_salon",
-  "dine_in": false,
-  "takeout": false,
-  "delivery": false,
-  "reservable": false,
-  "wifi": false,
-  "outdoor_seating": false,
-  "parking": false,
-  "live_music": false,
-  "price_level": null,
-  "price_range": null,
-  "price_from": null,
-  "price_to": null,
-  "price_unit": null,
-  "is_active": true,
-  "gcr_listed": false,
-  "gcr_verified": false,
-  "featured": false,
-  "sort_order": 0,
-  "metadata_json": {
-    "payment": {
-      "acceptsNfc": true,
-      "acceptsCashOnly": false,
-      "acceptsDebitCards": true,
-      "acceptsCreditCards": true
-    },
-    "sources": [
-      "gcr-organized",
-      "structured-data",
-      "gcr-import-ready"
-    ],
-    "atmosphere": null,
-    "cuisineType": null,
-    "google_types": [
-      "beauty_salon",
-      "hair_salon",
-      "hair_care",
-      "point_of_interest",
-      "service",
-      "establishment"
-    ],
-    "accessibility": {
-      "wheelchairAccessibleParking": true,
-      "wheelchairAccessibleEntrance": true,
-      "wheelchairAccessibleRestroom": true
-    },
-    "parking_details": {}
+  "hero_image_url": null,
+  "hours": [],
+  "menu_sections": [],
+  "drink_sections": [],
+  "happy_hour": {
+    "schedule": "",
+    "sections": []
   },
-  "created_at": "2026-05-22T08:54:41.188534",
-  "updated_at": "2026-05-22T09:47:28.196253"
+  "events": [],
+  "photos": [],
+  "amenities": [],
+  "tags": [
+    {
+      "tag": "hair salon",
+      "tag_category": "type"
+    },
+    {
+      "tag": "blonding",
+      "tag_category": "type"
+    },
+    {
+      "tag": "hair extensions",
+      "tag_category": "type"
+    },
+    {
+      "tag": "eyelash extensions",
+      "tag_category": "type"
+    },
+    {
+      "tag": "precision haircuts",
+      "tag_category": "type"
+    },
+    {
+      "tag": "wedding styles",
+      "tag_category": "type"
+    },
+    {
+      "tag": "color services",
+      "tag_category": "type"
+    },
+    {
+      "tag": "balayage",
+      "tag_category": "type"
+    },
+    {
+      "tag": "highlights",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Brazilian blowout",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": "type"
+    },
+    {
+      "tag": "beauty services",
+      "tag_category": "type"
+    },
+    {
+      "tag": "hair care",
+      "tag_category": "type"
+    },
+    {
+      "tag": "styling",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hair Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wellness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "beauty-and-wellness",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "salon",
+      "tag_category": "type"
+    },
+    {
+      "tag": "hair_salon",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "hair_care",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "service",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "point_of_interest",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "establishment",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "hair care",
+      "tag_category": "type"
+    },
+    {
+      "tag": "hair salon",
+      "tag_category": "type"
+    },
+    {
+      "tag": "blonding",
+      "tag_category": "type"
+    },
+    {
+      "tag": "hair extensions",
+      "tag_category": "type"
+    },
+    {
+      "tag": "eyelash extensions",
+      "tag_category": "type"
+    },
+    {
+      "tag": "precision haircuts",
+      "tag_category": "type"
+    },
+    {
+      "tag": "wedding styles",
+      "tag_category": "type"
+    },
+    {
+      "tag": "color services",
+      "tag_category": "type"
+    },
+    {
+      "tag": "balayage",
+      "tag_category": "type"
+    },
+    {
+      "tag": "highlights",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Brazilian blowout",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": "type"
+    },
+    {
+      "tag": "beauty services",
+      "tag_category": "type"
+    },
+    {
+      "tag": "hair care",
+      "tag_category": "type"
+    },
+    {
+      "tag": "styling",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hair Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beauty Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hair Care",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wellness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "beauty-and-wellness",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "salon",
+      "tag_category": "type"
+    },
+    {
+      "tag": "beauty_salon",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "hair_salon",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "hair_care",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "service",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "point_of_interest",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "establishment",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "hair salon",
+      "tag_category": "type"
+    },
+    {
+      "tag": "blonding",
+      "tag_category": "type"
+    },
+    {
+      "tag": "hair extensions",
+      "tag_category": "type"
+    },
+    {
+      "tag": "eyelash extensions",
+      "tag_category": "type"
+    },
+    {
+      "tag": "precision haircuts",
+      "tag_category": "type"
+    },
+    {
+      "tag": "wedding styles",
+      "tag_category": "type"
+    },
+    {
+      "tag": "color services",
+      "tag_category": "type"
+    },
+    {
+      "tag": "balayage",
+      "tag_category": "type"
+    },
+    {
+      "tag": "highlights",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Brazilian blowout",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Gulf Shores",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Alabama",
+      "tag_category": "type"
+    },
+    {
+      "tag": "beauty services",
+      "tag_category": "type"
+    },
+    {
+      "tag": "styling",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hair Salons",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Beauty Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Hair Care",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Wellness",
+      "tag_category": "category"
+    },
+    {
+      "tag": "beauty-and-wellness",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "salon",
+      "tag_category": "type"
+    },
+    {
+      "tag": "beauty_salon",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "hair_salon",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "hair_care",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "service",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "point_of_interest",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "establishment",
+      "tag_category": "google_type"
+    }
+  ],
+  "featured": false,
+  "is_active": true
 }

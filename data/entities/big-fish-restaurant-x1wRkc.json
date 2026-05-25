@@ -2,100 +2,152 @@
   "id": "e974215c-8b28-4404-beb8-4bd7a2017a14",
   "slug": "big-fish-restaurant-x1wRkc",
   "name": "Big Fish Restaurant",
-  "subtitle": null,
   "entity_type": "restaurant",
   "entity_subtype": "restaurant",
-  "secondary_types": null,
+  "icon": "🏪",
   "description": "Varied menu focused on seafood also offers steaks & pasta at this comfortable strip-mall eatery.",
-  "short_description": null,
-  "tagline": null,
+  "phone": "(251) 981-5516",
+  "email": null,
   "address_line_1": "25814 Canal Rd, Orange Beach, AL 36561, USA",
-  "address_line_2": null,
   "city": "Orange Beach",
   "state": "AL",
   "zip": "25814",
-  "country": "USA",
-  "latitude": 30.290588,
-  "longitude": -87.584251,
-  "phone": "(251) 981-5516",
-  "email": null,
   "website_url": "https://bigfishrestaurantbar.com/",
-  "booking_url": null,
-  "reservation_url": null,
-  "order_url": null,
-  "menu_url": null,
-  "directions_url": null,
-  "call_url": null,
-  "social_facebook": null,
-  "social_instagram": null,
-  "social_tiktok": null,
-  "social_twitter": null,
-  "social_youtube": null,
-  "hours_text": "Monday: 3:00 – 9:00 PM\nTuesday: 3:00 – 9:00 PM\nWednesday: 3:00 – 9:00 PM\nThursday: 3:00 – 9:00 PM\nFriday: 3:00 – 9:00 PM\nSaturday: 3:00 – 9:00 PM\nSunday: Closed",
-  "open_time": null,
-  "close_time": null,
-  "hh_days": null,
-  "hh_start": null,
-  "hh_end": null,
-  "hh_description": null,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e974215c-8b28-4404-beb8-4bd7a2017a14/e974215c-8b28-4404-beb8-4bd7a2017a14_1779139729051.0864.jpg",
-  "logo_url": null,
-  "icon": null,
   "rating": 4.5,
   "review_count": 1641,
-  "google_places_id": "ChIJNYHyl04GmogRUllxWx1wRkc",
-  "google_type": "seafood_restaurant",
-  "dine_in": true,
-  "takeout": true,
-  "delivery": false,
-  "reservable": true,
-  "wifi": false,
-  "outdoor_seating": true,
-  "parking": true,
-  "live_music": false,
-  "price_level": "EXPENSIVE",
-  "price_range": null,
-  "price_from": null,
-  "price_to": null,
-  "price_unit": null,
-  "is_active": true,
-  "gcr_listed": false,
-  "gcr_verified": false,
-  "featured": false,
-  "sort_order": 0,
-  "metadata_json": {
-    "payment": {
-      "acceptsNfc": true,
-      "acceptsCashOnly": false,
-      "acceptsDebitCards": true,
-      "acceptsCreditCards": true
-    },
-    "sources": [
-      "gcr-organized",
-      "all-businesses",
-      "consolidation",
-      "scraped-menus"
-    ],
-    "atmosphere": null,
-    "cuisineType": null,
-    "google_types": [
-      "bar",
-      "establishment",
-      "food",
-      "point_of_interest",
-      "restaurant"
-    ],
-    "accessibility": {
-      "wheelchairAccessibleParking": true,
-      "wheelchairAccessibleSeating": true,
-      "wheelchairAccessibleEntrance": true,
-      "wheelchairAccessibleRestroom": true
-    },
-    "parking_details": {
-      "freeParkingLot": true,
-      "freeStreetParking": true
-    }
+  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e974215c-8b28-4404-beb8-4bd7a2017a14/e974215c-8b28-4404-beb8-4bd7a2017a14_1779139729051.0864.jpg",
+  "hours": [],
+  "menu_sections": [],
+  "drink_sections": [],
+  "happy_hour": {
+    "schedule": "",
+    "sections": []
   },
-  "created_at": "2026-05-22T08:54:41.188534",
-  "updated_at": "2026-05-22T09:45:59.482059"
+  "events": [],
+  "photos": [],
+  "amenities": [],
+  "tags": [
+    {
+      "tag": "thai restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "seafood restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "steak house",
+      "tag_category": "type"
+    },
+    {
+      "tag": "sushi restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "american restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "bar",
+      "tag_category": "type"
+    },
+    {
+      "tag": "japanese restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "restaurant",
+      "tag_category": "type"
+    },
+    {
+      "tag": "food",
+      "tag_category": "type"
+    },
+    {
+      "tag": "point of interest",
+      "tag_category": "type"
+    },
+    {
+      "tag": "outdoor seating",
+      "tag_category": "vibe"
+    },
+    {
+      "tag": "dinner",
+      "tag_category": "food"
+    },
+    {
+      "tag": "dessert",
+      "tag_category": "food"
+    },
+    {
+      "tag": "good for groups",
+      "tag_category": "vibe"
+    },
+    {
+      "tag": "beer",
+      "tag_category": "drinks"
+    },
+    {
+      "tag": "wheelchair accessible",
+      "tag_category": "service"
+    },
+    {
+      "tag": "wine",
+      "tag_category": "drinks"
+    },
+    {
+      "tag": "dine in",
+      "tag_category": "service"
+    },
+    {
+      "tag": "cocktails",
+      "tag_category": "drinks"
+    },
+    {
+      "tag": "takeout",
+      "tag_category": "service"
+    },
+    {
+      "tag": "coffee",
+      "tag_category": "drinks"
+    },
+    {
+      "tag": "seafood",
+      "tag_category": "food"
+    },
+    {
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "thai_restaurant",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "american_restaurant",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "sushi_restaurant",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "steak_house",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "japanese_restaurant",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "point_of_interest",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "establishment",
+      "tag_category": "google_type"
+    }
+  ],
+  "featured": false,
+  "is_active": true
 }

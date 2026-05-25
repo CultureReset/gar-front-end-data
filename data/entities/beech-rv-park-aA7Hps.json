@@ -2,86 +2,72 @@
   "id": "28396ebf-9563-4e0b-91a6-4eb5ebfc34bb",
   "slug": "beech-rv-park-aA7Hps",
   "name": "Beech RV Park",
-  "subtitle": null,
-  "entity_type": "activity",
+  "entity_type": "park",
   "entity_subtype": "park",
-  "secondary_types": null,
-  "description": null,
-  "short_description": null,
-  "tagline": null,
+  "icon": "🏪",
+  "description": "",
+  "phone": "(251) 752-4134",
+  "email": null,
   "address_line_1": "4224 Orange Beach Blvd, Orange Beach, AL 36561, USA",
-  "address_line_2": null,
   "city": "Orange Beach",
   "state": "AL",
   "zip": "36561",
-  "country": "USA",
-  "latitude": 30.2858007,
-  "longitude": -87.5809863,
-  "phone": "(251) 752-4134",
-  "email": null,
   "website_url": null,
-  "booking_url": null,
-  "reservation_url": null,
-  "order_url": null,
-  "menu_url": null,
-  "directions_url": null,
-  "call_url": null,
-  "social_facebook": null,
-  "social_instagram": null,
-  "social_tiktok": null,
-  "social_twitter": null,
-  "social_youtube": null,
-  "hours_text": "",
-  "open_time": null,
-  "close_time": null,
-  "hh_days": null,
-  "hh_start": null,
-  "hh_end": null,
-  "hh_description": null,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/27c00983-8ebb-4002-a5ed-4fb65348f15d/image_1.jpg",
-  "logo_url": null,
-  "icon": null,
   "rating": 4.8,
   "review_count": 10,
-  "google_places_id": "ChIJFb6mgmUHmogRRvuenaA7Hps",
-  "google_type": "park",
-  "dine_in": false,
-  "takeout": false,
-  "delivery": false,
-  "reservable": false,
-  "wifi": false,
-  "outdoor_seating": false,
-  "parking": false,
-  "live_music": false,
-  "price_level": null,
-  "price_range": null,
-  "price_from": null,
-  "price_to": null,
-  "price_unit": null,
-  "is_active": true,
-  "gcr_listed": false,
-  "gcr_verified": false,
-  "featured": false,
-  "sort_order": 0,
-  "metadata_json": {
-    "payment": {
-      "acceptsCashOnly": false
-    },
-    "sources": [
-      "gcr-organized"
-    ],
-    "atmosphere": null,
-    "cuisineType": null,
-    "google_types": [
-      "park",
-      "point_of_interest",
-      "establishment"
-    ],
-    "accessibility": {
-      "wheelchairAccessibleParking": true
-    },
-    "parking_details": {}
+  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/27c00983-8ebb-4002-a5ed-4fb65348f15d/image_1.jpg",
+  "hours": [],
+  "menu_sections": [],
+  "drink_sections": [],
+  "happy_hour": {
+    "schedule": "",
+    "sections": []
   },
-  "created_at": "2026-05-22T08:54:41.188534",
-  "updated_at": "2026-05-22T09:45:53.86688"
+  "events": [],
+  "photos": [],
+  "amenities": [],
+  "tags": [
+    {
+      "tag": "park",
+      "tag_category": "type"
+    },
+    {
+      "tag": "point of interest",
+      "tag_category": "type"
+    },
+    {
+      "tag": "establishment",
+      "tag_category": "type"
+    },
+    {
+      "tag": "outdoor",
+      "tag_category": "vibe"
+    },
+    {
+      "tag": "point_of_interest",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "park",
+      "tag_category": "type"
+    },
+    {
+      "tag": "point of interest",
+      "tag_category": "type"
+    },
+    {
+      "tag": "establishment",
+      "tag_category": "type"
+    },
+    {
+      "tag": "outdoor",
+      "tag_category": "vibe"
+    },
+    {
+      "tag": "point_of_interest",
+      "tag_category": "google_type"
+    }
+  ],
+  "featured": false,
+  "is_active": true
 }

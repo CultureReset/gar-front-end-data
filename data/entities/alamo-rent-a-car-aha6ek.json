@@ -2,86 +2,69 @@
   "id": "21ba5ad2-d3a3-4a72-8564-5a3fffacab47",
   "slug": "alamo-rent-a-car-aha6ek",
   "name": "Alamo Rent A Car",
-  "subtitle": null,
-  "entity_type": "service",
-  "entity_subtype": "car_rental",
-  "secondary_types": null,
-  "description": null,
-  "short_description": null,
-  "tagline": null,
+  "entity_type": "activity",
+  "entity_subtype": "activity",
+  "icon": "🏪",
+  "description": "",
+  "phone": "(844) 351-0786",
+  "email": null,
   "address_line_1": "1155 Commerce Dr, Gulf Shores, AL 36542, USA",
-  "address_line_2": null,
   "city": "Gulf Shores",
   "state": "AL",
   "zip": "36542",
-  "country": "USA",
-  "latitude": 30.2879451,
-  "longitude": -87.6717822,
-  "phone": "(844) 351-0786",
-  "email": null,
   "website_url": "https://www.alamo.com/en/car-rental-locations/us/al/gulf-shores-international-airport-55kh.html?mcid=yext:245709",
-  "booking_url": null,
-  "reservation_url": null,
-  "order_url": null,
-  "menu_url": null,
-  "directions_url": null,
-  "call_url": null,
-  "social_facebook": null,
-  "social_instagram": null,
-  "social_tiktok": null,
-  "social_twitter": null,
-  "social_youtube": null,
-  "hours_text": "Monday: 10:30 AM – 1:45 PM\nTuesday: Closed\nWednesday: Closed\nThursday: 8:30 – 10:30 AM, 12:15 – 2:00 PM, 3:30 – 8:15 PM\nFriday: 10:30 AM – 1:45 PM\nSaturday: Closed\nSunday: 8:45 – 11:00 AM, 12:15 – 2:00 PM, 3:30 – 8:15 PM",
-  "open_time": null,
-  "close_time": null,
-  "hh_days": null,
-  "hh_start": null,
-  "hh_end": null,
-  "hh_description": null,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/21ba5ad2-d3a3-4a72-8564-5a3fffacab47/21ba5ad2-d3a3-4a72-8564-5a3fffacab47_1779139720782.344.jpg",
-  "logo_url": null,
-  "icon": null,
-  "rating": null,
+  "rating": 4,
   "review_count": null,
-  "google_places_id": "ChIJ8VfvTjMFmogRB-H1raha6ek",
-  "google_type": "car_rental",
-  "dine_in": false,
-  "takeout": false,
-  "delivery": false,
-  "reservable": false,
-  "wifi": false,
-  "outdoor_seating": false,
-  "parking": false,
-  "live_music": false,
-  "price_level": null,
-  "price_range": null,
-  "price_from": null,
-  "price_to": null,
-  "price_unit": null,
-  "is_active": true,
-  "gcr_listed": false,
-  "gcr_verified": false,
-  "featured": false,
-  "sort_order": 0,
-  "metadata_json": {
-    "payment": {},
-    "sources": [
-      "gcr-organized",
-      "all-businesses",
-      "consolidation",
-      "raw-page-data"
-    ],
-    "atmosphere": null,
-    "cuisineType": null,
-    "google_types": [
-      "car_rental",
-      "point_of_interest",
-      "service",
-      "establishment"
-    ],
-    "accessibility": {},
-    "parking_details": {}
+  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/21ba5ad2-d3a3-4a72-8564-5a3fffacab47/21ba5ad2-d3a3-4a72-8564-5a3fffacab47_1779139720782.344.jpg",
+  "hours": [],
+  "menu_sections": [],
+  "drink_sections": [],
+  "happy_hour": {
+    "schedule": "",
+    "sections": []
   },
-  "created_at": "2026-05-22T08:54:41.188534",
-  "updated_at": "2026-05-22T09:47:27.66998"
+  "events": [],
+  "photos": [
+    {
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/21ba5ad2-d3a3-4a72-8564-5a3fffacab47/21ba5ad2-d3a3-4a72-8564-5a3fffacab47_1779131439956.jpg",
+      "caption": null
+    },
+    {
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/21ba5ad2-d3a3-4a72-8564-5a3fffacab47/21ba5ad2-d3a3-4a72-8564-5a3fffacab47_1779131982195.225.jpg",
+      "caption": null
+    },
+    {
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/21ba5ad2-d3a3-4a72-8564-5a3fffacab47/21ba5ad2-d3a3-4a72-8564-5a3fffacab47_1779139720782.344.jpg",
+      "caption": null
+    }
+  ],
+  "amenities": [],
+  "tags": [
+    {
+      "tag": "car rental",
+      "tag_category": "type"
+    },
+    {
+      "tag": "point of interest",
+      "tag_category": "type"
+    },
+    {
+      "tag": "establishment",
+      "tag_category": "type"
+    },
+    {
+      "tag": "service",
+      "tag_category": "type"
+    },
+    {
+      "tag": "car_rental",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "point_of_interest",
+      "tag_category": "google_type"
+    }
+  ],
+  "featured": false,
+  "is_active": true
 }

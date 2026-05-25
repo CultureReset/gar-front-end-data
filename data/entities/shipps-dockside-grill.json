@@ -1,11 +1,21 @@
 {
+  "id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
   "slug": "shipps-dockside-grill",
-  "name": "Shipp's Dockside Grill",
-  "entity_type": "business",
-  "entity_subtype": "general",
+  "name": "Shipps Dockside Grill",
+  "entity_type": "gcr_business",
+  "entity_subtype": "restaurant",
   "icon": "🏪",
-  "description": "",
-  "city": "",
+  "description": "Different Menus Different Decks",
+  "phone": "(251) 412-7447",
+  "email": "info@shippsdockside.com",
+  "address_line_1": "27075 Marina Road",
+  "city": "Orange Beach",
+  "state": "AL",
+  "zip": "36561-3557",
+  "website_url": "https://www.shippsdockside.com/menu",
+  "rating": 4,
+  "review_count": null,
+  "hero_image_url": null,
   "hours": [],
   "menu_sections": [],
   "drink_sections": [],
@@ -15,10 +25,13 @@
   },
   "events": [],
   "photos": [],
-  "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "waterfront",
+      "tag_category": "feature"
+    }
+  ],
   "featured": false,
-  "is_active": true,
-  "sources": {}
+  "is_active": true
 }

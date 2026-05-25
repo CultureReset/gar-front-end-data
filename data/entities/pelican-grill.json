@@ -1,11 +1,21 @@
 {
+  "id": "181a97e5-d15c-4611-b856-7a66f27db3c5",
   "slug": "pelican-grill",
   "name": "Pelican Grill",
-  "entity_type": "business",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "",
-  "city": "",
+  "entity_type": "restaurant",
+  "entity_subtype": "restaurant",
+  "icon": "🦐",
+  "description": "Welcome to Pelican Grill located at the SanRoc Cay Marina! At Pelican Grill, we offer an unforgettable dining experience with our exquisite Gulf Coast cuisine. Nestled in the heart of Orange Beach, Alabama, our seafood restaurant is perfect for family-friendly dining and enjoying local favorites like shrimp baked potato, charbroiled oysters, and chicken tenders.",
+  "phone": "(251) 483-3665",
+  "email": null,
+  "address_line_1": "27267 Perdido Beach Blvd.",
+  "city": "Orange Beach",
+  "state": "AL",
+  "zip": "36561",
+  "website_url": "https://www.pelicangrillob.com",
+  "rating": 4,
+  "review_count": null,
+  "hero_image_url": null,
   "hours": [],
   "menu_sections": [],
   "drink_sections": [],
@@ -15,10 +25,21 @@
   },
   "events": [],
   "photos": [],
-  "hero_image_url": null,
   "amenities": [],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "waterfront",
+      "tag_category": "feature"
+    },
+    {
+      "tag": "live_music",
+      "tag_category": "feature"
+    },
+    {
+      "tag": "takeout",
+      "tag_category": "feature"
+    }
+  ],
   "featured": false,
-  "is_active": true,
-  "sources": {}
+  "is_active": true
 }

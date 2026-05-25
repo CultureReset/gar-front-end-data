@@ -43,12 +43,28 @@ function getAllEntities() {
 
 // ── GET /api/gcr/sections ──────────────────────────────────────────
 router.get('/sections', (req, res) => {
+  const cached = req.app.getCache('sections');
+  if (cached) {
+    res.set('X-Cache', 'HIT');
+    return res.json(cached);
+  }
+
   const sections = readDataFile('sections.json');
+  req.app.setCache('sections', sections);
+  res.set('X-Cache', 'MISS');
   res.json(sections);
 });
 
 // ── GET /api/gcr/entities ──────────────────────────────────────────
 router.get('/entities', (req, res) => {
+  // Create cache key from query params
+  const cacheKey = `entities:${JSON.stringify(req.query)}`;
+  const cached = req.app.getCache(cacheKey);
+  if (cached) {
+    res.set('X-Cache', 'HIT');
+    return res.json(cached);
+  }
+
   let entities = getAllEntities();
 
   // Filters
@@ -75,7 +91,13 @@ router.get('/entities', (req, res) => {
   const offset = parseInt(req.query.offset) || 0;
   const paged = entities.slice(offset, offset + limit);
 
-  res.json({ entities: paged, businesses: paged, total: entities.length });
+  const response = { entities: paged, businesses: paged, total: entities.length };
+
+  // Cache the response
+  const cacheKey = `entities:${JSON.stringify(req.query)}`;
+  req.app.setCache(cacheKey, response);
+  res.set('X-Cache', 'MISS');
+  res.json(response);
 });
 
 // ── GET /api/gcr/entity/:slug ──────────────────────────────────────

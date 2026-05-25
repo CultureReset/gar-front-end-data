@@ -2,92 +2,144 @@
   "id": "2cc9d02b-89bd-4e6b-95d9-a5d889c856e4",
   "slug": "chevron-sASxFw",
   "name": "Chevron",
-  "subtitle": null,
-  "entity_type": "business",
-  "entity_subtype": "gas-station",
-  "secondary_types": null,
+  "entity_type": "shopping",
+  "entity_subtype": "shopping",
+  "icon": "🏪",
   "description": "Find the Chevron or Texaco gas station nearest to you. Fuel up on premium Chevron with Techron fuel, grab drinks and snacks inside the store, or use the car wash (at participating locations).",
-  "short_description": null,
-  "tagline": null,
+  "phone": "(251) 974-5879",
+  "email": null,
   "address_line_1": "23141 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "address_line_2": null,
   "city": "Orange Beach",
   "state": "AL",
   "zip": "36561",
-  "country": "USA",
-  "latitude": 30.2592938,
-  "longitude": -87.6296729,
-  "phone": "(251) 974-5879",
-  "email": null,
   "website_url": "https://www.chevronwithtechron.com/en_us/home/gas-station-near-me.html?/station/23141-PERDIDO-BEACH-BLVD-ORANGE-BEACH-AL-365613067-id388224",
-  "booking_url": null,
-  "reservation_url": null,
-  "order_url": null,
-  "menu_url": null,
-  "directions_url": null,
-  "call_url": null,
-  "social_facebook": "https://www.facebook.com/Chevron",
-  "social_instagram": "https://www.instagram.com/chevron",
-  "social_tiktok": null,
-  "social_twitter": null,
-  "social_youtube": null,
-  "hours_text": "",
-  "open_time": null,
-  "close_time": null,
-  "hh_days": null,
-  "hh_start": null,
-  "hh_end": null,
-  "hh_description": null,
-  "hero_image_url": null,
-  "logo_url": null,
-  "icon": null,
   "rating": 4,
   "review_count": 9,
-  "google_places_id": "ChIJbQmfXTsEmogRwguVDsASxFw",
-  "google_type": "gas_station",
-  "dine_in": false,
-  "takeout": false,
-  "delivery": false,
-  "reservable": false,
-  "wifi": false,
-  "outdoor_seating": false,
-  "parking": false,
-  "live_music": false,
-  "price_level": null,
-  "price_range": null,
-  "price_from": null,
-  "price_to": null,
-  "price_unit": null,
-  "is_active": true,
-  "gcr_listed": false,
-  "gcr_verified": false,
-  "featured": false,
-  "sort_order": 0,
-  "metadata_json": {
-    "payment": {
-      "acceptsNfc": true,
-      "acceptsCashOnly": false,
-      "acceptsDebitCards": true,
-      "acceptsCreditCards": true
-    },
-    "sources": [
-      "gcr-organized",
-      "structured-data",
-      "gcr-import-ready"
-    ],
-    "atmosphere": null,
-    "cuisineType": null,
-    "google_types": [
-      "gas_station",
-      "service",
-      "point_of_interest",
-      "establishment"
-    ],
-    "accessibility": {
-      "wheelchairAccessibleRestroom": true
-    },
-    "parking_details": {}
+  "hero_image_url": null,
+  "hours": [],
+  "menu_sections": [],
+  "drink_sections": [],
+  "happy_hour": {
+    "schedule": "",
+    "sections": []
   },
-  "created_at": "2026-05-22T08:54:41.188534",
-  "updated_at": "2026-05-22T09:46:39.30271"
+  "events": [],
+  "photos": [],
+  "amenities": [],
+  "tags": [
+    {
+      "tag": "gas station",
+      "tag_category": "type"
+    },
+    {
+      "tag": "fuel",
+      "tag_category": "type"
+    },
+    {
+      "tag": "diesel",
+      "tag_category": "type"
+    },
+    {
+      "tag": "car wash",
+      "tag_category": "type"
+    },
+    {
+      "tag": "convenience store",
+      "tag_category": "type"
+    },
+    {
+      "tag": "EV charging",
+      "tag_category": "type"
+    },
+    {
+      "tag": "automotive",
+      "tag_category": "type"
+    },
+    {
+      "tag": "rewards program",
+      "tag_category": "type"
+    },
+    {
+      "tag": "mobile payments",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Orange Beach",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Perdido Beach Boulevard",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Gas Stations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Convenience Stores",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Car Wash",
+      "tag_category": "category"
+    },
+    {
+      "tag": "EV Charging",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Automotive Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Fuel & Energy",
+      "tag_category": "category"
+    },
+    {
+      "tag": "fuel-and-automotive",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "gas-station",
+      "tag_category": "type"
+    },
+    {
+      "tag": "Auto Services",
+      "tag_category": "category"
+    },
+    {
+      "tag": "EV Charging Stations",
+      "tag_category": "category"
+    },
+    {
+      "tag": "Retail",
+      "tag_category": "category"
+    },
+    {
+      "tag": "techron",
+      "tag_category": "type"
+    },
+    {
+      "tag": "fuel-and-convenience",
+      "tag_category": "industry"
+    },
+    {
+      "tag": "gas_station",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "service",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "point_of_interest",
+      "tag_category": "google_type"
+    },
+    {
+      "tag": "establishment",
+      "tag_category": "google_type"
+    }
+  ],
+  "featured": false,
+  "is_active": true
 }
