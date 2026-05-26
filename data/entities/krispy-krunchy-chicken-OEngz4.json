@@ -1,32 +1,346 @@
 {
-  "id": "99b3e5e1-75aa-4a11-9731-75557a390113",
-  "slug": "krispy-krunchy-chicken-OEngz4",
-  "name": "Krispy Krunchy Chicken",
-  "entity_type": "restaurant",
-  "entity_subtype": "chicken_restaurant",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 948-6689",
-  "email": null,
-  "website_url": "https://www.krispykrunchy.com/?_gl=1*1hnl3b7*_gcl_au*MTEzMDIzMjQ4Ni4xNzYxNjc2MDg2*_ga*MTM4MDcwMDYxLjE3NjE2NzYwODg.*_ga_VMLLPETCW5*czE3NjE3NDgzNjgkbzIkZzEkdDE3NjE3NTI3MzYkajQ0JGwwJGgyOTk1Njc0ODI.",
-  "address_line_1": "900 W Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/4bcf1466-930a-45ce-8f92-c2d6e15fe79f/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "99b3e5e1-75aa-4a11-9731-75557a390113",
+    "place_id": "ChIJJ3u7NNAbmogRUg-DJOEngz4",
+    "google_maps_uri": "https://maps.google.com/?cid=4504487900234321746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "krispy-krunchy-chicken-OEngz4",
+    "name": "Krispy Krunchy Chicken",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "chicken_restaurant",
+    "secondary_types": [],
+    "google_type": "chicken_restaurant",
+    "google_types": [
+      "chicken_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-6689",
+    "international_phone": null,
+    "website_url": "https://www.krispykrunchy.com/?_gl=1*1hnl3b7*_gcl_au*MTEzMDIzMjQ4Ni4xNzYxNjc2MDg2*_ga*MTM4MDcwMDYxLjE3NjE2NzYwODg.*_ga_VMLLPETCW5*czE3NjE3NDgzNjgkbzIkZzEkdDE3NjE3NTI3MzYkajQ0JGwwJGgyOTk1Njc0ODI.",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "900 W Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2461724,
+    "longitude": -87.7038702,
+    "short_address": "900 W Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/4bcf1466-930a-45ce-8f92-c2d6e15fe79f/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "valetParking": false,
+      "freeParkingLot": true,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.707977+00:00",
+    "updated_at": "2026-05-17T22:22:53.164819+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "bafaae9c-b94b-4e90-a96f-6e1c9f94323e",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "c9c987b3-067d-4311-bdac-9e42232325d2",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "5fc9dffc-143d-45f4-9fce-57bcb24962c8",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "fbc0bc30-52a6-4841-8ccf-b16e1baebf13",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "fb2ed8c4-3149-40cf-a6df-f7b17f067695",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "0d171fa0-760e-48e9-b539-df7cc66a2d59",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "72f1e475-ac8b-4634-972e-710792e95d35",
+      "tag": "chicken restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "a69f658b-2d7e-4145-b677-6366682e7109",
+      "tag": "chicken restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "74b3f29b-0971-432c-bb31-a5cb6cb4644a",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "8b349ee9-3fea-43a8-a8d3-ae44c075ffdb",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "86ae8643-1197-41c3-b262-e132533c5368",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "5b0c375f-f23b-4d92-9f82-2bd5d5f5307e",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "0579b52b-8954-4687-b88f-763a4108ecc3",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "a2e255f1-0138-4c4d-9543-e5cc126c1ca8",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "cfb84437-428a-4938-bebf-f5ce30e66696",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 7
+    },
+    {
+      "id": "ae7d4f6d-2142-4a94-8e8b-3b053650c52f",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 7
+    },
+    {
+      "id": "3f590629-6d29-42f8-bfb3-388227cb6360",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "66bfb68d-cbf6-4e23-8479-3e203bd99a01",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "6175e588-277e-4a2b-ad58-aec07e32acd8",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 9
+    },
+    {
+      "id": "fb574f19-2e6f-4f2a-9cc1-42c4ddbb61e2",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 9
+    },
+    {
+      "id": "02eb0b22-7405-4d10-8e64-52e6074795d5",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "cfdb302a-268b-4267-8efd-2377cd4b99b4",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "2382eb23-a169-46b1-87c3-195bf8e1397a",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "0f42f355-8534-4f92-95fd-5f2293371583",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "4f46a3d1-6e6b-4924-89f0-c81f7363b437",
+      "tag": "chicken_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "5cc501bc-69a1-4dd2-bf8a-e24ca97c14a6",
+      "tag": "chicken_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "bae09780-f7cc-48cb-8335-9d0072a80b77",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 13
+    },
+    {
+      "id": "ad260891-4abc-4c6a-afbf-ef8f69a3381f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 13
+    }
+  ],
+  "sections": [
+    {
+      "id": "a48d163b-d93f-4b41-b362-3f5a5f013949",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

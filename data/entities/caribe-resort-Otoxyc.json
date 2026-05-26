@@ -1,32 +1,645 @@
 {
-  "id": "eb9faa54-5fee-4a35-9c9a-c618b9672f5c",
-  "slug": "caribe-resort-Otoxyc",
-  "name": "Caribe Resort",
-  "entity_type": "service",
-  "entity_subtype": "rentals",
-  "icon": "🏪",
-  "description": "Caribe Resort is a premier destination property located on the Alabama Gulf Coast in Orange Beach. The staff and management of Caribe Resort are dedicated to making your vacation a life-long dream. We offer hundreds of vacation rentals ranging from 2 to 4+ bedroom condominiums, all fully equipped with everything you need for a comfortable stay. You won't have to go far to enjoy relaxing amenities such as the lazy river, pools, slides, saunas, hot tubs, tennis courts, and more. Our property features complimentary boat slips for guests, an on-site marina, and access to world-class dining at Cobalt Restaurant. Whether you're planning a family vacation, romantic getaway, group retreat, or special event, Caribe Resort provides the perfect blend of luxury and leisure. We are within minutes of many popular locations, stores, and restaurants, and provide complimentary trolley service from 8:00 am to 8:00 pm to the public beach access point and throughout the property.",
-  "phone": "(251) 980-9000",
-  "email": null,
-  "website_url": "https://www.cariberesort.com/",
-  "address_line_1": "3485 Victor St, Santa Clara, CA 95054, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 5,
-  "review_count": 4,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb9faa54-5fee-4a35-9c9a-c618b9672f5c/eb9faa54-5fee-4a35-9c9a-c618b9672f5c_1779139893021.5037.jpg",
-  "photos": [],
+  "entity": {
+    "id": "eb9faa54-5fee-4a35-9c9a-c618b9672f5c",
+    "place_id": "ChIJY9OhUIIHmogRk0DsFOtoxyc",
+    "google_maps_uri": "https://maps.google.com/?cid=2866375046722240659&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "caribe-resort-Otoxyc",
+    "name": "Caribe Resort",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "rentals",
+    "secondary_types": [],
+    "google_type": "real_estate_agency",
+    "google_types": [
+      "establishment",
+      "health",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 980-9000",
+    "international_phone": null,
+    "website_url": "https://www.cariberesort.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3485 Victor St, Santa Clara, CA 95054, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2792816,
+    "longitude": -87.5462112,
+    "short_address": "28103 Perdido Beach Blvd #100, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 4,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Contemporary condo resort between the gulf & bay with pools, water slides, lazy river & boat slips.",
+    "description": "Caribe Resort is a premier destination property located on the Alabama Gulf Coast in Orange Beach. The staff and management of Caribe Resort are dedicated to making your vacation a life-long dream. We offer hundreds of vacation rentals ranging from 2 to 4+ bedroom condominiums, all fully equipped with everything you need for a comfortable stay. You won't have to go far to enjoy relaxing amenities such as the lazy river, pools, slides, saunas, hot tubs, tennis courts, and more. Our property features complimentary boat slips for guests, an on-site marina, and access to world-class dining at Cobalt Restaurant. Whether you're planning a family vacation, romantic getaway, group retreat, or special event, Caribe Resort provides the perfect blend of luxury and leisure. We are within minutes of many popular locations, stores, and restaurants, and provide complimentary trolley service from 8:00 am to 8:00 pm to the public beach access point and throughout the property.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb9faa54-5fee-4a35-9c9a-c618b9672f5c/eb9faa54-5fee-4a35-9c9a-c618b9672f5c_1779139893021.5037.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/cariberesort/",
+    "social_facebook": "https://www.facebook.com/CaribeFun/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "paidParkingLot": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.brett-robinson.com/beach-condo/caribe-resort/",
+      "tags": [
+        "beachfront",
+        "family-friendly",
+        "gulf views",
+        "pools",
+        "pet-friendly",
+        "vacation rental",
+        "condo resort",
+        "water activities"
+      ],
+      "type": "Vacation Rental | Condo Resort",
+      "about": {
+        "floors": null,
+        "check_in": null,
+        "check_out": null,
+        "year_built": null,
+        "description": "Caribe Resort is a beachfront vacation rental property managed by Brett/Robinson Vacation Rentals, offering family-friendly condos and beach houses with direct Gulf access and modern amenities.",
+        "total_units": null,
+        "minimum_stay": "3 nights",
+        "pet_friendly": true,
+        "elevator_pitch": "Beachfront vacation rental resort in Gulf Shores, Alabama offering spacious condos with Gulf views and resort amenities.",
+        "age_restriction": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "dining": [],
+      "contact": {
+        "zip": "36542",
+        "city": "Gulf Shores",
+        "email": null,
+        "phone": "1-800-211-7892",
+        "state": "AL",
+        "address": "3259 Gulf Shores Parkway"
+      },
+      "gallery": [
+        "https://www.brett-robinson.com/assets/images/BRV-25-95-Vacations-Logo-GS-OB-PK-Horizontal-V2.png",
+        "https://www.brett-robinson.com/uploads/BRV-26-25--Easter-30-Days-WebpageGraphic_184150.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-27--Mothers-Day-60-Days-WebpageGraphic_185358.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-11-Memorial-Day-Stays-V1-WebpageGraphic_150618.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-14-4-Bedroom-WebpageGraphic-V4_105813.jpg",
+        "https://www.brett-robinson.com/uploads/lFullSizeRender_110222.jpg",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024446PM_144957.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024255PM_144955.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024250PM_144952.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024550PM_145000.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024658PM_145003.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024800PM_145005.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024929PM_150512.png",
+        "https://www.brett-robinson.com/uploads/45dcbabd-14da-4c03-86b9-e33b1bec1699_152424.png",
+        "https://www.brett-robinson.com/uploads/f7c22236-e96b-4131-a6ef-3b8c161f6d60_152431.png",
+        "https://www.brett-robinson.com/uploads/114f4761-0d52-45a5-adf7-626f0144ccf1_152427.png",
+        "https://www.brett-robinson.com/uploads/7ea53f3d-a24b-4d65-96fa-e5f6adaf272d_152421.png",
+        "https://www.brett-robinson.com/uploads/b96b1f24-e333-42bc-9e47-d77fd57855e4_152429.png",
+        "https://www.brett-robinson.com/uploads/732961ba-7d13-4aa9-9294-690e2e1f3420_153528.png",
+        "https://www.brett-robinson.com/uploads/31e08f79-9b97-4008-a4c9-aac831c9b812_153520.png",
+        "https://www.brett-robinson.com/uploads/bad38faf-f976-4ddb-bf87-78b7a03d52df_153530.png",
+        "https://www.brett-robinson.com/uploads/9c90c840-9dd2-46b1-bc95-cc5c75810af3_153523.png",
+        "https://www.brett-robinson.com/uploads/9703bb55-7293-4a01-ad02-34e7793ffbd7_153525.png"
+      ],
+      "sources": [
+        "https://www.brett-robinson.com/beach-condo/caribe-resort",
+        "https://www.brett-robinson.com/specials-and-promotions",
+        "https://www.brett-robinson.com/specials-and-promotions/4bedrooms?icid=4+bedrooms&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/charming-beachfront-stays-for-a-tranquil-getaway?icid=Hidden-Gems&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/memorial90?icid=Memorial-Day-90&startDate=2026-05-21&endDate=2026-05-24",
+        "https://www.brett-robinson.com/specials-and-promotions/mothers-day-1?icid=Mothers-Day&startDate=2026-05-07&endDate=2026-05-09",
+        "https://www.brett-robinson.com/specials-and-promotions/spring-informationalb?icid=Spring-InformationalB&startDate=2026-03-05&endDate=2026-03-08",
+        "https://www.brett-robinson.com/specials-and-promotions/easter?icid=Easter&startDate=2026-04-02&endDate=2026-04-05",
+        "https://www.brett-robinson.com/history-of-brettrobinson",
+        "https://www.brett-robinson.com/gulf-shores-orange-beach-events",
+        "https://www.brett-robinson.com/about-brett-robinson",
+        "https://www.brett-robinson.com/office-locations",
+        "https://www.brett-robinson.com/contact",
+        "https://www.brett-robinson.com/driving-directions"
+      ],
+      "tagline": null,
+      "features": [
+        "direct beach access",
+        "private balconies",
+        "fully equipped kitchens",
+        "resort pools",
+        "fitness center",
+        "reserved parking",
+        "on-site management",
+        "24/7 guest support",
+        "washer/dryer in units",
+        "electric vehicle charger"
+      ],
+      "location": {
+        "bay_view": false,
+        "beachfront": true,
+        "description": "Beachfront property on the Gulf of Mexico in Gulf Shores, Alabama"
+      },
+      "specials": [
+        {
+          "name": "Hot Deal - Caribe The Resort D401",
+          "dates": "Jun 28 - Jul 1, 2026",
+          "price": "$175.00/night",
+          "description": "2 Bed • 2 Bath • Sleeps 10 - Corner unit with special pricing"
+        },
+        {
+          "name": "Charming Beachfront Stays",
+          "dates": "Through Jun 30, 2026",
+          "price": "Varies by unit",
+          "description": "Tranquil getaway specials on select Caribe Resort units"
+        },
+        {
+          "name": "Memorial Day Weekend",
+          "dates": "May 21-24, 2026",
+          "price": "Varies by unit",
+          "description": "Special rates for Memorial Day weekend bookings"
+        }
+      ],
+      "amenities": {
+        "spa": false,
+        "gated": false,
+        "other": [
+          "washer and dryer in units",
+          "lazy river",
+          "racquetball",
+          "basketball",
+          "shuffle board",
+          "gazebo",
+          "beach chair rentals",
+          "electric vehicle charger"
+        ],
+        "pools": [
+          "outdoor pool",
+          "indoor pool"
+        ],
+        "parking": "reserved parking, covered parking",
+        "hot_tubs": true,
+        "elevators": true,
+        "bbq_grills": true,
+        "bar_on_site": false,
+        "tennis_courts": true,
+        "fitness_center": true,
+        "business_center": false,
+        "kids_splash_pad": true,
+        "pickleball_courts": true,
+        "restaurant_on_site": false,
+        "private_beach_access": true
+      },
+      "scraped_at": "2026-03-21T21:27:19.848Z",
+      "unit_types": [
+        {
+          "name": "2 Bedroom Gulf Front",
+          "view": "gulf front",
+          "sq_ft": null,
+          "sleeps": 10,
+          "bedrooms": 2,
+          "features": [
+            "full kitchen",
+            "washer/dryer",
+            "balcony",
+            "cable TV",
+            "high-speed Wi-Fi"
+          ],
+          "bathrooms": 2,
+          "starting_price": "$175.00/night"
+        },
+        {
+          "name": "3 Bedroom Gulf Front",
+          "view": "gulf front",
+          "sq_ft": null,
+          "sleeps": 8,
+          "bedrooms": 3,
+          "features": [
+            "full kitchen",
+            "washer/dryer",
+            "balcony"
+          ],
+          "bathrooms": 2,
+          "starting_price": null
+        }
+      ],
+      "extracted_at": "2026-03-23T03:33:33.097Z",
+      "social_links": {
+        "website": "https://www.brett-robinson.com/beach-condo/caribe-resort/",
+        "facebook": "https://www.facebook.com/BrettRobinsonVacations",
+        "instagram": "https://www.instagram.com/brett_robinson_vacations"
+      },
+      "business_name": "Caribe Resort"
+    },
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb9faa54-5fee-4a35-9c9a-c618b9672f5c/eb9faa54-5fee-4a35-9c9a-c618b9672f5c_1779139893166.4038.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb9faa54-5fee-4a35-9c9a-c618b9672f5c/eb9faa54-5fee-4a35-9c9a-c618b9672f5c_1779139893396.4238.gif",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb9faa54-5fee-4a35-9c9a-c618b9672f5c/eb9faa54-5fee-4a35-9c9a-c618b9672f5c_1779139893759.7458.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb9faa54-5fee-4a35-9c9a-c618b9672f5c/eb9faa54-5fee-4a35-9c9a-c618b9672f5c_1779139894470.1108.gif",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb9faa54-5fee-4a35-9c9a-c618b9672f5c/eb9faa54-5fee-4a35-9c9a-c618b9672f5c_1779139894615.7954.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb9faa54-5fee-4a35-9c9a-c618b9672f5c/eb9faa54-5fee-4a35-9c9a-c618b9672f5c_1779139894894.0696.gif",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb9faa54-5fee-4a35-9c9a-c618b9672f5c/eb9faa54-5fee-4a35-9c9a-c618b9672f5c_1779139895196.752.png"
+    ],
+    "created_at": "2026-05-17T21:16:15.22949+00:00",
+    "updated_at": "2026-05-18T21:31:40.071256+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d9bfcdbd-0c9a-4b0c-9bf0-ad1d9e42c3c9",
+      "tag": "condo rentals",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "86bf9313-7cf0-4601-a724-715b8aec260c",
+      "tag": "vacation rentals",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "52a3fd24-1887-4f2a-b190-b552f8311837",
+      "tag": "orange beach",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "5bbbfd4f-97d8-498b-9778-2bc6dcaad7e9",
+      "tag": "gulf coast",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "4676192d-9217-4293-a867-f3542291b93b",
+      "tag": "lazy river",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "dba9e1ce-fb78-4c83-adb4-d6683ff2696a",
+      "tag": "family vacation",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "dd3e31fa-877c-44c5-a64e-ab7f08d47c3d",
+      "tag": "beach resort",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "f9ef3946-8ac9-4e6d-8db5-0ea51b4ea72e",
+      "tag": "poolside",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "e86b1703-414b-4ff0-ad53-040235fe5e99",
+      "tag": "waterfront",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "0111e92e-8437-4099-a44d-81b97e9bdabc",
+      "tag": "alabama gulf coast",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "fdf6fb6b-3127-465c-ba6e-f1985db71eb6",
+      "tag": "luxury accommodations",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "4e7ecb82-05f6-488f-a4df-ae631b025c93",
+      "tag": "group rentals",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "5401b2f9-239c-4567-9fda-baed41f0d64a",
+      "tag": "beachfront",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "aa4b506d-3401-482a-840c-f961ec83fe39",
+      "tag": "wedding venue",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "a45acf84-f556-4b63-8e90-b80a14d0b172",
+      "tag": "event space",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "bcc24e71-016a-45af-ac24-bc46eac4e332",
+      "tag": "pet-friendly alternatives",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "52ef6516-2370-41e3-bd71-e6ae66d35486",
+      "tag": "complimentary boat slips",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "7b674476-d731-4bdc-ab1e-4392c4b28a91",
+      "tag": "marina",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "386f98b9-f912-4931-8ade-1fbe3151bf69",
+      "tag": "trolley service",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "b8355e3b-5347-4589-83c1-17794af70922",
+      "tag": "multiple pools",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "d75d6bf2-89c4-4406-92e5-8ab3baf2fdee",
+      "tag": "slides",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "a14418bc-2754-4cf9-b42c-981e19bb1692",
+      "tag": "saunas",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "e5ff38b5-6b19-410a-bf66-882acfe807ad",
+      "tag": "hot tubs",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "2214a9a3-fcfa-4227-a18f-d4f8677d227f",
+      "tag": "tennis courts",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "ac46a752-1c39-408b-a8dc-4f0faead9220",
+      "tag": "putting green",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "9bae86cf-46d1-4db6-912e-f938ed831893",
+      "tag": "fitness center",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "e17a1498-650a-491a-b595-4e757f0141f8",
+      "tag": "Accommodations",
+      "tag_category": "category",
+      "sort_order": 26
+    },
+    {
+      "id": "0c6e3045-621c-44f2-8aae-168bd1df6537",
+      "tag": "Vacation Rentals",
+      "tag_category": "category",
+      "sort_order": 27
+    },
+    {
+      "id": "288232f7-ca1d-41c3-838e-e2d42c214470",
+      "tag": "Condo Rentals",
+      "tag_category": "category",
+      "sort_order": 28
+    },
+    {
+      "id": "96c52d34-ba72-47c5-812b-f9c688f86e8f",
+      "tag": "Resorts",
+      "tag_category": "category",
+      "sort_order": 29
+    },
+    {
+      "id": "990a5104-8c82-4a8d-a277-3410c8fedf85",
+      "tag": "Beach Resorts",
+      "tag_category": "category",
+      "sort_order": 30
+    },
+    {
+      "id": "cb5dbadb-9b6d-4925-aab2-b02eba2240fa",
+      "tag": "Family Accommodations",
+      "tag_category": "category",
+      "sort_order": 31
+    },
+    {
+      "id": "18f59135-08aa-483a-b442-a5f63b27ab61",
+      "tag": "Wedding Venues",
+      "tag_category": "category",
+      "sort_order": 32
+    },
+    {
+      "id": "e59dc5ed-efc8-4fe4-9259-c4cd87ab9dd7",
+      "tag": "Event Spaces",
+      "tag_category": "category",
+      "sort_order": 33
+    },
+    {
+      "id": "c8a1ce98-77f0-41a3-aee8-ae878ffa8ea4",
+      "tag": "Lodging",
+      "tag_category": "category",
+      "sort_order": 34
+    },
+    {
+      "id": "49d31a19-5c61-4fdf-aa7d-647418ae6d70",
+      "tag": "Gulf Coast Destinations",
+      "tag_category": "category",
+      "sort_order": 35
+    },
+    {
+      "id": "2b886d51-9163-4896-b9aa-21c57c56cd11",
+      "tag": "Orange Beach Attractions",
+      "tag_category": "category",
+      "sort_order": 36
+    },
+    {
+      "id": "42f776d0-d04d-4125-97cc-713b8f2616a0",
+      "tag": "hospitality-accommodations",
+      "tag_category": "industry",
+      "sort_order": 37
+    },
+    {
+      "id": "0684563c-aa2a-4c08-a42c-ebffa8701b58",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 38
+    },
+    {
+      "id": "658cd6bb-0065-4c9e-bb6d-e7f53ad5ab50",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 39
+    },
+    {
+      "id": "20ff4333-86a1-4719-b5d2-2c4ba5a95a59",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 40
+    },
+    {
+      "id": "ce3df8ff-2289-4ffb-abd5-884ce6c16d94",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 41
+    },
+    {
+      "id": "b6d71b4b-bdb4-487e-a577-c5a283fda100",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 42
+    },
+    {
+      "id": "d1baed71-2604-4c47-a7e7-84a9de3fcb55",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 43
+    },
+    {
+      "id": "6a677e2a-31af-4a87-8378-0eecd9051f9e",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 44
+    },
+    {
+      "id": "ecdacbfb-8eac-471a-91dc-d262117ae7f9",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 45
+    },
+    {
+      "id": "79f27a4e-fdc0-4349-987f-fb69cba67759",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 46
+    }
+  ],
+  "sections": [
+    {
+      "id": "a52e5771-1f7e-48b4-b4ed-2c9dc2d1ffa6",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

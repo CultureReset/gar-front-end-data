@@ -1,150 +1,1101 @@
 {
-  "id": "35014787-751f-45d9-bb8d-be73813ffe06",
-  "slug": "coastal-orange-beach-Sy-C40",
-  "name": "Coastal Orange Beach",
-  "entity_type": "park",
-  "entity_subtype": "park",
-  "icon": "🏪",
-  "description": "COASTAL Orange Beach provides a waterfront restaurant, an open-air bar, and a lifestyle store all with tremendous beachfront views. Located directly on the sugar white sands, COASTAL offers beachfront breakfast, lunch, and dinner service. The restaurant serves fresh local seafood and unique culinary items from award-winning chefs. The beachside bar features live music, tropical cocktails, and fresh Gulf dishes. COASTAL Store offers apparel, accessories, beach gear, and coastal lifestyle products.",
-  "phone": "(251) 240-6001",
-  "email": null,
-  "address_line_1": "25722 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Gulf Coast",
-  "state": "AL",
-  "zip": null,
-  "website_url": "https://www.coastalorangebeach.com/",
-  "rating": 4.7,
-  "review_count": 6744,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139820790.7817.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "35014787-751f-45d9-bb8d-be73813ffe06",
+    "place_id": "ChIJv5xaw50HmogR9KQzuSy-C40",
+    "google_maps_uri": "https://maps.google.com/?cid=10163426083386664180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "coastal-orange-beach-Sy-C40",
+    "name": "Coastal Orange Beach",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "restaurant",
+    "google_types": [
+      "bar",
+      "clothing_store",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 240-6001",
+    "international_phone": null,
+    "website_url": "https://www.coastalorangebeach.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25722 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Gulf Coast",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2688315,
+    "longitude": -87.586747,
+    "short_address": "25722 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 6744,
+    "price_level": "EXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "COASTAL Orange Beach provides a waterfront restaurant, an open-air bar, and a lifestyle store all with tremendous beachfront views. Located directly on the sugar white sands, COASTAL offers beachfront breakfast, lunch, and dinner service. The restaurant serves fresh local seafood and unique culinary items from award-winning chefs. The beachside bar features live music, tropical cocktails, and fresh Gulf dishes. COASTAL Store offers apparel, accessories, beach gear, and coastal lifestyle products.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139820790.7817.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/coastalorangebeach/",
+    "social_facebook": "https://www.facebook.com/Coastal-Orange-Beach-100977162505992",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "For Starters",
+          "items": [
+            {
+              "name": "Yellowfin Tuna Dip",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Smoked Yellowfin tuna, house-baked crackers, chives, jalapeno relish",
+              "subcategory": null
+            },
+            {
+              "name": "Island Grouper Bites",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Coconut breading, piña colada sauce",
+              "subcategory": null
+            },
+            {
+              "name": "Beachside Burrata",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Marinated tomatoes, olive oil, balsamic glaze, bread (Seasonal Availability)",
+              "subcategory": null
+            },
+            {
+              "name": "Gulf Coast Blue Crab Dip",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Blue crab, parmesan cream, toasted bread",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Domestic Blue Crab Claws",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fried, served with spicy cocktail sauce",
+              "subcategory": null
+            },
+            {
+              "name": "Sesame Tuna Sashimi",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Sesame seared Yellowfin tuna, teriyaki glaze, pickled vegetables",
+              "subcategory": null
+            },
+            {
+              "name": "Sauteed Snow Crab Claws",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Snow crab claws, steamed and tossed in lemon butter",
+              "subcategory": null
+            },
+            {
+              "name": "Pimento Cheese",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "House made white cheddar pimento cheese, seasonal jam, praline pecans, house-baked crackers, seasonal fruit",
+              "subcategory": null
+            },
+            {
+              "name": "Crispy Gumbo Bites",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Cajun rice, American shrimp, Andouille sausage, crawfish, remoulade dipping sauce",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Soup and Salad",
+          "items": [
+            {
+              "name": "Shrimp & Crab Bisque",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "American shrimp, crab, corn, heavy cream",
+              "subcategory": null
+            },
+            {
+              "name": "Summer Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Arugula, fresh blackberries, heirloom tomato, roasted pepitas, feta, blackberry balsamic vinaigrette",
+              "subcategory": null
+            },
+            {
+              "name": "Ancient Grain Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Ancient grains, mixed greens, toasted pumpkin seeds, shoestring carrots, cucumbers, tomatoes, feta cheese, dried cherries, champagne vinaigrette",
+              "subcategory": null
+            },
+            {
+              "name": "Asian Tuna Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Mixed greens, seared sesame Yellowfin tuna, edamame, Mandarin oranges, cucumber, tomatoes, red peppers, crispy noodles, Asian dressing",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Oysters",
+          "items": [
+            {
+              "name": "Oysters on the Half Shell",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Local raw oysters",
+              "subcategory": null
+            },
+            {
+              "name": "Pimento Cheese Oysters",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Local oysters, house made white cheddar pimento cheese, jalapeno relish, bacon crumbles",
+              "subcategory": null
+            },
+            {
+              "name": "Traditional Baked",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Local oysters, garlic, butter, parmesan",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Beach Bar Appetizers",
+          "items": [
+            {
+              "name": "Tuna Poke Nachos",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Raw Yellowfin tuna, spicy mayo, COASTAL house slaw, avocado, diced mango, toasted sesame seeds, wontons, micro cilantro, sesame glaze",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Beach Bar Salads",
+          "items": [
+            {
+              "name": "House Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Mixed greens, shaved red onion, tomatoes, white cheddar cheese, English cucumber, shoestring carrots, garlic croutons",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Beach Bar Sandwiches",
+          "items": [
+            {
+              "name": "Signature COASTAL Burger",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Aged white cheddar, cherrywood smoked bacon, caramelized sweet onions, wild mushroom demi glace, tomato, dill pickle chips, green leaf lettuce, bacon aioli, served with house fries, pasta salad or fruit medley",
+              "subcategory": null
+            },
+            {
+              "name": "Smoked Turkey Club",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh sliced smoked turkey, aged white cheddar, cherrywood smoked bacon, tomato, green leaf lettuce, avocado mayo, served with house fries, pasta salad or fruit medley",
+              "subcategory": null
+            },
+            {
+              "name": "Gulf Fish Sandwich",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Gulf fish, COASTAL house slaw, homemade tartar sauce, served with house fries, pasta salad or fruit medley",
+              "subcategory": null
+            },
+            {
+              "name": "Gulf Coast Chicken Sandwich",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Crispy fried chicken breast, aged white cheddar pimento cheese, tomato, red onion, green leaf lettuce, dill pickle chips, bacon aioli, served with house fries, pasta salad or fruit medley",
+              "subcategory": null
+            },
+            {
+              "name": "Oyster Po'Boy",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fried Gulf oysters, COASTAL house slaw, spicy remoulade sauce, tomato, served on toasted French bread, served with house fries, pasta salad or fruit medley",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Beach Bar Baskets",
+          "items": [
+            {
+              "name": "Jumbo American Shrimp",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "COASTAL house slaw, house fries",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Breakfast on the Beach",
+          "items": [
+            {
+              "name": "Stuffed Blueberry French Toast",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Thick cut challah bread, cream cheese, fresh blueberries, fresh berry compote",
+              "subcategory": null
+            },
+            {
+              "name": "Southwest Breakfast Burrito",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Flour tortilla, scrambled eggs, chorizo, corn and black bean salsa, chipotle crema, served with house grits, homestyle potatoes or fresh fruit",
+              "subcategory": null
+            },
+            {
+              "name": "COASTAL Daily Bake",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Flaky house-baked pastry, scrambled eggs, chef's featured fillings (ask your server for today's selections), served with house grits, homestyle potatoes or fresh fruit",
+              "subcategory": null
+            },
+            {
+              "name": "Sunrise Chicken Burrito",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Flour tortilla, chicken sausage, scrambled eggs, homestyle potatoes, shredded cheese, chipotle creme, served with house grits, homestyle potatoes or fresh fruit",
+              "subcategory": null
+            },
+            {
+              "name": "Gulf View Breakfast Sandwich",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh baked buttermilk biscuit, choice of sausage, ham or bacon, fried egg, white cheddar cheese, served with house grits, homestyle potatoes or fresh fruit",
+              "subcategory": null
+            },
+            {
+              "name": "Southern Style Biscuits & Gravy",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh baked buttermilk biscuits, homemade southern style sausage gravy",
+              "subcategory": null
+            },
+            {
+              "name": "The Beachbody",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "House baked granola, vanilla Greek yogurt, mixed fruit, fresh berries",
+              "subcategory": null
+            },
+            {
+              "name": "Avocado Toast",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Multigrain toast, smashed avocado, citrus marinated vegetables, cotija cheese, fried eggs, served with house grits, homestyle potatoes or fresh fruit",
+              "subcategory": null
+            },
+            {
+              "name": "American Breakfast Burrito",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Flour tortilla, bacon meatballs, scrambled eggs, shredded cheese, homestyle potatoes, served with house grits, homestyle potatoes or fresh fruit",
+              "subcategory": null
+            },
+            {
+              "name": "Giant House Baked Cinnamon Bun",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Topped with homemade caramel icing",
+              "subcategory": null
+            },
+            {
+              "name": "Crab Cakes Benedict",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "English muffin, housemade crab cakes, poached eggs, classic hollandaise",
+              "subcategory": null
+            },
+            {
+              "name": "Traditional Eggs Benedict",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "English muffin, heritage ham, poached eggs, classic hollandaise, served with house grits, homestyle potatoes or fresh fruit",
+              "subcategory": null
+            },
+            {
+              "name": "Country Benedict",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh baked buttermilk biscuits, sausage gravy, poached eggs, sausage patties, served with house grits, homestyle potatoes or fresh fruit",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "consolidation",
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "raw-page-data",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.563689+00:00",
+    "updated_at": "2026-05-18T21:30:25.664129+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131429724.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131949618.1182.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131951313.7612.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139681255.9329.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139683289.331.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139755420.9458.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131470472.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131950034.6934.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131951675.635.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139681794.868.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139683605.5886.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139820790.7817.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131534978.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131950442.4163.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131952078.8254.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139682043.6982.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139684042.5132.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131948933.1782.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131950650.7136.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779132010823.4026.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139682617.286.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139684455.8948.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131379068.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131949240.625.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131950852.3977.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779132072700.9531.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139683025.3286.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139684864.62.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "892e76a4-ca5e-4fd2-8ca9-f6eefd45941c",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "58c812ae-45a1-4bcd-8b50-9f42b2d9a435",
+      "tag": "waterfront",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "1e4e898b-c5fe-47e6-ad3d-efd337e73873",
+      "tag": "beachfront",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "d9e7d62f-22cd-472e-a764-95b6d0fe8bd1",
+      "tag": "live-music",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "5548f40c-2448-45c6-9882-a198b14ec354",
+      "tag": "breakfast",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "49a0014f-4a0d-40b7-9e06-0ac9b3716fc1",
+      "tag": "lunch",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "4cba07ed-5b34-4d04-8d28-62055d5a4bf1",
+      "tag": "dinner",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "aae41a40-5449-4a23-b720-2bf5de9daaf0",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "b2ad218e-52f7-4028-a2a7-be7d56e2ad2e",
+      "tag": "cocktails",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "d6b82706-92d9-4a52-a239-8790ee1bb6b2",
+      "tag": "beach-bar",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "68a630d3-acab-4266-ad8f-9daf1669146d",
+      "tag": "coastal-living",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "b0b4d4ec-7d85-45f2-b002-b36c7d584270",
+      "tag": "open-air",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "9c361f5c-e9db-493d-9765-cc8f67f4b924",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 12
+    },
+    {
+      "id": "65665de5-64b8-4ba1-b0a4-ec1bc8528138",
+      "tag": "live_music",
+      "tag_category": "amenity",
+      "sort_order": 13
+    },
+    {
+      "id": "f6084cdc-f46e-4fa6-baaf-70342f36088b",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 14
+    },
+    {
+      "id": "6b9b5324-c620-4afd-b2ce-c5b08de33b77",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 15
+    },
+    {
+      "id": "f4e4e582-5e96-4bad-a7c4-0b24b8376dc7",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 16
+    },
+    {
+      "id": "f7c6d907-5ecd-46a1-a4bf-bc629cf09c43",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "03326e40-3f1b-447f-842b-378e970a366e",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "00aa8f86-780c-4267-9e3c-0f06f841bc2f",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "2c178484-2c62-4382-a1e3-52decf57ba7e",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 20
+    },
+    {
+      "id": "f916f5bb-eb25-4d0b-9deb-7a2ae5a6eb70",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 21
+    },
+    {
+      "id": "a311c0e5-13dd-4013-85b5-c2f0332c5117",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 22
+    },
+    {
+      "id": "270ee453-cee7-4e29-8dcc-fa890b1f1102",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "64be4bf0-8c10-473b-98e8-55001452c03d",
+      "tag": "brunch restaurant",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "c6f22eda-25a1-49c1-a933-b1d3994477ce",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "12bf9640-89e0-4a16-84a8-bbec81e6136d",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 26
+    },
+    {
+      "id": "9f706aab-b87e-4bc6-a690-678efff71e24",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 27
+    },
+    {
+      "id": "bdc73434-e024-42db-a1ea-34c3408a031a",
       "tag": "dessert",
-      "tag_category": "food"
+      "tag_category": "food",
+      "sort_order": 28
+    },
+    {
+      "id": "5966415b-7305-4691-83e1-d4412056601a",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 29
+    },
+    {
+      "id": "b48b6612-054a-4ddf-b486-027cc4affff2",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "529b217d-5f2f-4f29-9a88-487c01f52bb4",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "d8d141f4-d279-475b-9adc-658534cf3448",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 32
+    },
+    {
+      "id": "d219c602-ced7-4183-ae0c-8f170cf2ff2d",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 33
+    },
+    {
+      "id": "46a675d1-c8a0-4138-9c02-eae77b257d98",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 34
+    },
+    {
+      "id": "6735d43f-bc05-453f-99e3-de0bb37887f5",
+      "tag": "condominium complex",
+      "tag_category": "type",
+      "sort_order": 35
+    },
+    {
+      "id": "4a171f5a-02d8-432a-b5f9-9e81d8bd98b8",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "9d1830d4-4b07-428f-9f43-29b7a5bc74ce",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 37
+    },
+    {
+      "id": "f152fe0a-60a9-476f-a4f4-a7bd3eb2cf4f",
+      "tag": "brunch",
+      "tag_category": "food",
+      "sort_order": 38
+    },
+    {
+      "id": "140e840a-afca-42f3-b04a-f39593bbb72e",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 39
+    },
+    {
+      "id": "60842fb7-0a67-4c64-ba1b-a2cc8d33e039",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 40
+    },
+    {
+      "id": "6b7938df-e6ee-41bc-abc9-a72ab39fed02",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 41
+    },
+    {
+      "id": "ef797b52-222c-492c-91b9-c5a92e16e98a",
+      "tag": "brunch_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 42
+    },
+    {
+      "id": "d32144a0-7fa8-4ede-aeac-65e56dcdcb6a",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "26be9a41-d613-4740-b0d1-c43989a2bea5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 44
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "7dd38b5c-8393-4d7c-84cf-f14e1d954543",
+      "section_key": "events",
+      "section_label": "Events",
+      "section_type": "events",
+      "sort_order": 10
+    },
+    {
+      "id": "cdaad631-e9b8-44a2-951a-afc9b824c07e",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "bc7bcdec-98de-49f3-bc89-dbc1dcc61381",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131429724.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:33.864332+00:00"
+    },
+    {
+      "id": "facc2c3f-dfbc-47cc-b2be-1e115c007a56",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131949618.1182.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:34.601616+00:00"
+    },
+    {
+      "id": "31776600-6b7f-455e-a0c7-9c8bd770ab3d",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131951313.7612.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:35.32479+00:00"
+    },
+    {
+      "id": "54ba176f-f0c5-4f7e-9447-5fb4c3ab17c5",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139681255.9329.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:36.046765+00:00"
+    },
+    {
+      "id": "f25de468-48f7-46ac-bdb1-c19e220c945f",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139683289.331.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:36.80551+00:00"
+    },
+    {
+      "id": "2ab9b35f-c74b-4841-bc19-67abec7f5d9e",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139755420.9458.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:37.529417+00:00"
+    },
+    {
+      "id": "3648374d-a4b2-46c1-bda5-c262d7c5ae79",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131470472.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:34.015953+00:00"
+    },
+    {
+      "id": "7584c0ab-956a-4c98-8dda-b6007193457f",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131950034.6934.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:34.750054+00:00"
+    },
+    {
+      "id": "c8519047-3743-476b-92ab-682cc44a30db",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131951675.635.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:35.474188+00:00"
+    },
+    {
+      "id": "85cb8fab-510b-492b-bf2e-b15be76714b0",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139681794.868.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:36.211557+00:00"
+    },
+    {
+      "id": "4e80f552-2b58-4d71-a13e-8e9d2834fa44",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139683605.5886.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:36.949644+00:00"
+    },
+    {
+      "id": "0f598b87-1c8f-41f1-91e2-2ce3b089a9c8",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139820790.7817.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:37.672229+00:00"
+    },
+    {
+      "id": "d00ad07a-ded3-46a2-b343-15c9a2a90620",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131534978.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:34.157632+00:00"
+    },
+    {
+      "id": "917299ae-11c1-4615-b625-93ec19f8efaf",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131950442.4163.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:34.894624+00:00"
+    },
+    {
+      "id": "37fe7c03-f2cc-4baf-afc0-dd0c10a021a4",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131952078.8254.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:35.617823+00:00"
+    },
+    {
+      "id": "d3abd3ef-bc09-4814-b12e-affc453ee96f",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139682043.6982.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:36.35805+00:00"
+    },
+    {
+      "id": "dd5ad4ef-ce1b-435f-9837-0a383b265944",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139684042.5132.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:37.099829+00:00"
+    },
+    {
+      "id": "e51f01da-b1e1-4139-86aa-1d4e1d513cbc",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131948933.1782.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:34.301212+00:00"
+    },
+    {
+      "id": "48941ff1-0b72-4e4a-b1a8-a8b8756c1fa6",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131950650.7136.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:35.036842+00:00"
+    },
+    {
+      "id": "3ab3474b-21ec-410a-896e-7d0f3d6bec2f",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779132010823.4026.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:35.76078+00:00"
+    },
+    {
+      "id": "73ffd49c-5a62-44f9-b343-158ea69b6c40",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139682617.286.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:36.505495+00:00"
+    },
+    {
+      "id": "6f6985c2-0951-4c6b-9389-323a68fc4643",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139684455.8948.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:37.24436+00:00"
+    },
+    {
+      "id": "ea666c6d-d3c3-4050-94ab-8d39622224e4",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131379068.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:33.708473+00:00"
+    },
+    {
+      "id": "5eebb42f-4310-4bf9-b0bd-c482c79b541f",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131949240.625.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:34.443091+00:00"
+    },
+    {
+      "id": "4227a60d-c877-4b69-b839-0872076abe11",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779131950852.3977.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:35.182434+00:00"
+    },
+    {
+      "id": "cff6ce8c-e2fc-4745-ab9b-5eb249010670",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779132072700.9531.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:35.903219+00:00"
+    },
+    {
+      "id": "e491a290-d9a5-4c7c-85e2-9b98f3c2752d",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139683025.3286.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:36.656457+00:00"
+    },
+    {
+      "id": "83738907-e009-4cb9-b130-73b157804436",
+      "entity_id": "35014787-751f-45d9-bb8d-be73813ffe06",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/35014787-751f-45d9-bb8d-be73813ffe06/35014787-751f-45d9-bb8d-be73813ffe06_1779139684864.62.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:37.387398+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

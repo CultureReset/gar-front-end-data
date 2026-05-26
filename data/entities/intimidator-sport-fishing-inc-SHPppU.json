@@ -1,32 +1,395 @@
 {
-  "id": "6327f603-6725-47a6-b93e-5b43739aa3d0",
-  "slug": "intimidator-sport-fishing-inc-SHPppU",
-  "name": "Intimidator Sport Fishing Inc.",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "{\"description\":\"Intimidator Deep Sea Fishing Charters is a professional offshore fishing charter service operating out of Orange Beach Marina. They offer half-day, full-day, and overnight deep sea fishing trips targeting both reef species and big game fish. The operation is led by Captain Johnny Greene and features a 65x19 ft Sportfisherman vessel built specifically for extended offshore fishing charters. They serve Orange Beach, Gulf Shores, Fort Morgan, and Perdido Key.\",\"elevator_pitch\":\"Professional offshore deep sea fishing charters with a safety-first crew, modern equipment, and a clear game plan for reef fish and big game pelagics.\",\"vibe\":\"Professional, safety-focused, experienced crew with a focus on real fishing rather than casual tourist experiences.\",\"best_for\":[\"serious anglers\",\"fishing enthusiasts\",\"group fishing trips\",\"families interested in offshore fishing\",\"big game hunters\"],\"established\":\"1996\",\"reservations\":\"Required. Book online through new booking system or call/text (251) 747-2872. No walk-ons accepted.\",\"insider_tip\":\"Text your date, group size, trip type (Day/Full/Overnight), and target fish to (251) 747-2872 for crew recommendations on best booking option.\"}",
-  "phone": "(251) 747-2872",
-  "email": null,
-  "website_url": "http://fishorangebeach.com/",
-  "address_line_1": "27075 Marina Rd Slp E-13, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 5,
-  "review_count": 108,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b44e8c4c-3631-412c-b12a-38b621bc8967/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "6327f603-6725-47a6-b93e-5b43739aa3d0",
+    "place_id": "ChIJUfSAoqMHmogRBOHrQSHPppU",
+    "google_maps_uri": "https://maps.google.com/?cid=10783534099532079364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "intimidator-sport-fishing-inc-SHPppU",
+    "name": "Intimidator Sport Fishing Inc.",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": [],
+    "google_type": "fishing_charter",
+    "google_types": [
+      "fishing_charter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 747-2872",
+    "international_phone": null,
+    "website_url": "http://fishorangebeach.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27075 Marina Rd Slp E-13, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2832615,
+    "longitude": -87.5626957,
+    "short_address": "27075 Marina Rd Slp E-13, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 108,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"Intimidator Deep Sea Fishing Charters is a professional offshore fishing charter service operating out of Orange Beach Marina. They offer half-day, full-day, and overnight deep sea fishing trips targeting both reef species and big game fish. The operation is led by Captain Johnny Greene and features a 65x19 ft Sportfisherman vessel built specifically for extended offshore fishing charters. They serve Orange Beach, Gulf Shores, Fort Morgan, and Perdido Key.\",\"elevator_pitch\":\"Professional offshore deep sea fishing charters with a safety-first crew, modern equipment, and a clear game plan for reef fish and big game pelagics.\",\"vibe\":\"Professional, safety-focused, experienced crew with a focus on real fishing rather than casual tourist experiences.\",\"best_for\":[\"serious anglers\",\"fishing enthusiasts\",\"group fishing trips\",\"families interested in offshore fishing\",\"big game hunters\"],\"established\":\"1996\",\"reservations\":\"Required. Book online through new booking system or call/text (251) 747-2872. No walk-ons accepted.\",\"insider_tip\":\"Text your date, group size, trip type (Day/Full/Overnight), and target fish to (251) 747-2872 for crew recommendations on best booking option.\"}",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b44e8c4c-3631-412c-b12a-38b621bc8967/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 6:00 AM – 7:00 PM",
+      "Tuesday: 6:00 AM – 7:00 PM",
+      "Wednesday: 6:00 AM – 7:00 PM",
+      "Thursday: 6:00 AM – 7:00 PM",
+      "Friday: 6:00 AM – 7:00 PM",
+      "Saturday: 6:00 AM – 7:00 PM",
+      "Sunday: 6:00 AM – 7:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.fishorangebeach.com",
+      "menu": null,
+      "tags": [
+        "deep sea fishing",
+        "offshore charter",
+        "reef fishing",
+        "big game fishing",
+        "Gulf Coast",
+        "professional crew",
+        "safety-first"
+      ],
+      "type": "Fishing Charter",
+      "about": {
+        "vibe": "Professional, safety-focused, experienced crew with a focus on real fishing rather than casual tourist experiences.",
+        "best_for": [
+          "serious anglers",
+          "fishing enthusiasts",
+          "group fishing trips",
+          "families interested in offshore fishing",
+          "big game hunters"
+        ],
+        "description": "Intimidator Deep Sea Fishing Charters is a professional offshore fishing charter service operating out of Orange Beach Marina. They offer half-day, full-day, and overnight deep sea fishing trips targeting both reef species and big game fish. The operation is led by Captain Johnny Greene and features a 65x19 ft Sportfisherman vessel built specifically for extended offshore fishing charters. They serve Orange Beach, Gulf Shores, Fort Morgan, and Perdido Key.",
+        "established": "1996",
+        "insider_tip": "Text your date, group size, trip type (Day/Full/Overnight), and target fish to (251) 747-2872 for crew recommendations on best booking option.",
+        "reservations": "Required. Book online through new booking system or call/text (251) 747-2872. No walk-ons accepted.",
+        "elevator_pitch": "Professional offshore deep sea fishing charters with a safety-first crew, modern equipment, and a clear game plan for reef fish and big game pelagics."
+      },
+      "hours": {
+        "notes": "Hours vary by trip type. Book online or call for availability.",
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [
+        {
+          "day": null,
+          "name": "Half Day Trips",
+          "time": null,
+          "recurring": true,
+          "description": "Bottom fishing for reef species including Triggerfish, Vermilion Snapper, Great Amberjack, and other reef fish. Red Snapper and Grouper available seasonally."
+        },
+        {
+          "day": null,
+          "name": "Full Day Trips",
+          "time": null,
+          "recurring": true,
+          "description": "Extended range and more time on productive structures with better odds at quality reef fish when conditions permit."
+        },
+        {
+          "day": null,
+          "name": "Overnight / Multi-Day Trips",
+          "time": null,
+          "recurring": true,
+          "description": "Big game pelagic fishing targeting Yellowfin Tuna, Blue Marlin, Wahoo, Mahi Mahi (Dorado/Dolphin) and other pelagic species. Limited to 4-8 passengers due to USCG requirements. One night offshore for overnights, 2 nights offshore for multi-day trips."
+        }
+      ],
+      "contact": {
+        "zip": "36561",
+        "city": "Orange Beach",
+        "email": "fishorangebeach@gmail.com",
+        "phone": "(251) 747-2872",
+        "state": "AL",
+        "address": "27075 Marina Road, Orange Beach Marina, Boat Slip E13"
+      },
+      "gallery": [
+        "https://www.fishorangebeach.com/images/logos/vFinale-Intimidator-logo-2400w-2026-transparent.webp",
+        "https://www.fishorangebeach.com/images/logos/tripavisor-logo.jpg",
+        "https://www.fishorangebeach.com/images/logos/facebook-icon.png",
+        "https://www.fishorangebeach.com/images/logos/twitter-icon.png",
+        "https://www.fishorangebeach.com/images/logos/youtube-icon.png",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_2770.webp",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_2963.webp",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_3395.webp",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_3650.webp",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_3680.webp",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_3874.webp",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_4100.webp",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_5120.webp",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_7072.webp",
+        "https://www.fishorangebeach.com/images/Slide-Show-2026/IMG_8324.webp",
+        "https://www.fishorangebeach.com/images/LAYOUT/rates-160w-RO.jpg",
+        "https://www.fishorangebeach.com/images/layout/Specials-160w-RO.jpg",
+        "https://www.fishorangebeach.com/images/layout/mates-160w-RO.jpg",
+        "https://www.fishorangebeach.com/images/layout/Intimidator-Charter-Boat.jpg",
+        "https://www.fishorangebeach.com/images/LAYOUT/Boat/2019-Boat/Intimidator-salon.jpg",
+        "https://www.fishorangebeach.com/images/LAYOUT/Boat/2019-Boat/Intimidator--Green-egg.jpg",
+        "https://www.fishorangebeach.com/images/LAYOUT/Boat/2019-Boat/Intimidator-bathroom-1.jpg",
+        "https://www.fishorangebeach.com/images/LAYOUT/Boat/2019-Boat/Intimidator-bathroom-2.jpg",
+        "https://www.fishorangebeach.com/images/LAYOUT/Boat/2019-Boat/Intimidator-back-of-boat.jpg",
+        "https://www.fishorangebeach.com/images/LAYOUT/Boat/2019-Boat/Intimidator-back-of-boat-2.jpg",
+        "https://www.fishorangebeach.com/images/LAYOUT/Boat/2019-Boat/Intimidator-bunks.jpg",
+        "https://www.fishorangebeach.com/images/LAYOUT/Boat/2019-Boat/Intimidator-kitchen.jpg",
+        "https://www.fishorangebeach.com/images/layout/Boat/100_0026_1.jpg",
+        "https://www.fishorangebeach.com/images/layout/OB-Marina-facility-2010.jpg",
+        "https://www.fishorangebeach.com/images/layout/Directions/Marina-Road-Orange-Beach.jpg",
+        "https://www.fishorangebeach.com/images/layout/Directions/Orange-Beach-Marina.jpg",
+        "https://www.fishorangebeach.com/images/layout/Directions/Charter-Boat-Parking.jpg",
+        "https://www.fishorangebeach.com/images/layout/Directions/Walk-to-charter-boat.jpg",
+        "https://www.fishorangebeach.com/images/layout/Directions/Dock-Store.jpg",
+        "https://www.fishorangebeach.com/images/layout/Directions/left-side-of-dock-store.jpg",
+        "https://www.fishorangebeach.com/images/layout/Directions/Fish-cleaning-station.jpg"
+      ],
+      "sources": [
+        "https://www.fishorangebeach.com",
+        "https://www.fishorangebeach.com/Deep-Sea-Fishing-Orange-Beach-About-the-Boat.htm",
+        "https://www.fishorangebeach.com/Deep-Sea-Fishing-Orange-Beach-Contact-Us.htm",
+        "https://www.fishorangebeach.com/Deep-Sea-Fishing-Orange-Beach-Directions.htm"
+      ],
+      "tagline": "Orange Beach Deep Sea Fishing Charters for the Alabama Gulf Coast",
+      "features": [
+        "65x19 ft Sportfisherman vessel",
+        "Air conditioning and heating",
+        "Sleeps 10 passengers plus crew",
+        "Modern offshore electronics",
+        "Satellite TV",
+        "Full galley with refrigerator, microwave, toaster oven",
+        "Big Green Egg Grill",
+        "Bathrooms with showers",
+        "1000 pound per day ice maker",
+        "350 qt YETI cooler",
+        "41 ft Rupp outriggers",
+        "Pompanette 130 class fighting chair",
+        "Custom Tuna Tower",
+        "GPS, Radar, Sonar equipment",
+        "VHF and SSB radios",
+        "Satellite phone",
+        "EPIRB safety equipment",
+        "Twin 600 hp Caterpillar Diesel engines",
+        "Twin 21kw generators",
+        "Fish cleaning station"
+      ],
+      "specials": [
+        {
+          "days": [],
+          "name": "NEW BOOKING SYSTEM",
+          "time": null,
+          "description": "New online booking system implemented for easier trip reservations"
+        }
+      ],
+      "scraped_at": "2026-03-21T19:53:10.774Z",
+      "price_range": "$$$",
+      "extracted_at": "2026-03-23T03:41:27.467Z",
+      "social_links": {
+        "twitter": "twitter.com/intimidator",
+        "website": "https://www.fishorangebeach.com",
+        "youtube": "youtube.com",
+        "facebook": "facebook.com/intimidatorfishing",
+        "instagram": null,
+        "tripadvisor": "tripadvisor.com"
+      },
+      "business_name": "Intimidator Deep Sea Fishing Charters",
+      "additional_info": {
+        "captain": "Johnny Greene",
+        "merchandise": "Store on-site selling t-shirts, seasonings, and branded hooks",
+        "vessel_name": "Intimidator",
+        "service_area": [
+          "Orange Beach",
+          "Gulf Shores",
+          "Fort Morgan",
+          "Perdido Key",
+          "Alabama Gulf Coast"
+        ],
+        "mailing_address": "P.O. Box 1543, Orange Beach, AL 36561",
+        "services_available": [
+          "Fishing rod and reel rental",
+          "Tackle and bait provided",
+          "Fish storage and ice",
+          "Pre-trip game plan briefing",
+          "Post-booking checklist provided"
+        ],
+        "crew_certifications": "All crew members are CPR and first aid certified and comply with USCG zero tolerance random drug testing",
+        "Coast_Guard_compliance": "USCG inspected for 46 passengers, yearly inspections of safety equipment and hull"
+      }
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.908176+00:00",
+    "updated_at": "2026-05-17T22:22:53.980743+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "42edf5db-a319-4249-827e-f72c51bd3d67",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "04f2fddd-61d0-4547-8c52-a42a16b47e33",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "48d1b67f-f2e1-4807-971a-cc188c3b7ab9",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "dbd37d90-7a8d-404d-9773-5eb9dcaf519b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "1c386a83-6c59-41e0-8637-26ab9fdedee5",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "dc5f68ce-9218-49da-8049-69deaae7c38d",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "431afbff-59cf-4f8f-a21a-526da571e6d9",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "b49c9c1b-aa07-4dac-8155-ae86b2613df3",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

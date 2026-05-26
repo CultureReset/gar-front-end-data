@@ -1,32 +1,317 @@
 {
-  "id": "5bbf3633-f1b6-4db1-873d-127d90f6d5f9",
-  "slug": "class-act-charters-fishing-YWJnAY",
-  "name": "Class Act Charters Fishing",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "{\"description\":null,\"elevator_pitch\":null,\"vibe\":null,\"best_for\":[],\"capacity\":null,\"duration_options\":[],\"departure_location\":null,\"what_provided\":[],\"what_to_bring\":[],\"age_restriction\":null,\"weight_restriction\":null,\"reservations\":null,\"cancellation_policy\":null,\"insider_tip\":null}",
-  "phone": "(251) 391-0935",
-  "email": null,
-  "website_url": "http://www.classactfishing.net/",
-  "address_line_1": "26619 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "26619",
-  "rating": 4.6,
-  "review_count": 31,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/917fe420-2724-4892-bf03-08a5515c2e07/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "5bbf3633-f1b6-4db1-873d-127d90f6d5f9",
+    "place_id": "ChIJ6xKDDAgHmogRWCO5FYWJnAY",
+    "google_maps_uri": "https://maps.google.com/?cid=476406865282540376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "class-act-charters-fishing-YWJnAY",
+    "name": "Class Act Charters Fishing",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": "",
+    "google_type": "fishing_charter",
+    "google_types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 391-0935",
+    "international_phone": null,
+    "website_url": "http://www.classactfishing.net/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26619 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "26619",
+    "latitude": 30.2758598,
+    "longitude": -87.5700336,
+    "short_address": "26619 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 31,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":null,\"elevator_pitch\":null,\"vibe\":null,\"best_for\":[],\"capacity\":null,\"duration_options\":[],\"departure_location\":null,\"what_provided\":[],\"what_to_bring\":[],\"age_restriction\":null,\"weight_restriction\":null,\"reservations\":null,\"cancellation_policy\":null,\"insider_tip\":null}",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/917fe420-2724-4892-bf03-08a5515c2e07/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 4:30 AM – 11:00 PM",
+      "Tuesday: 4:30 AM – 11:00 PM",
+      "Wednesday: 4:30 AM – 11:00 PM",
+      "Thursday: 4:30 AM – 11:00 PM",
+      "Friday: 4:30 AM – 11:00 PM",
+      "Saturday: 4:30 AM – 11:00 PM",
+      "Sunday: 4:30 AM – 11:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://classactfishing.net",
+      "note": "Website returned 403 Forbidden error - no data accessible",
+      "tags": [
+        "fishing"
+      ],
+      "type": "Fishing Charter",
+      "about": {
+        "vibe": null,
+        "best_for": [],
+        "capacity": null,
+        "description": null,
+        "insider_tip": null,
+        "reservations": null,
+        "what_provided": [],
+        "what_to_bring": [],
+        "elevator_pitch": null,
+        "age_restriction": null,
+        "duration_options": [],
+        "departure_location": null,
+        "weight_restriction": null,
+        "cancellation_policy": null
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null
+      },
+      "gallery": [],
+      "sources": [
+        "https://classactfishing.net"
+      ],
+      "tagline": null,
+      "features": [],
+      "packages": [],
+      "specials": [],
+      "scraped_at": "2026-03-21T19:49:32.890Z",
+      "extracted_at": "2026-03-23T03:35:02.855Z",
+      "social_links": {
+        "website": "https://classactfishing.net",
+        "facebook": null,
+        "instagram": null,
+        "tripadvisor": null
+      },
+      "business_name": "Class Act Fishing"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.027834+00:00",
+    "updated_at": "2026-05-18T21:06:18.134723+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ef0a2d3f-0a61-45f6-b6b4-3086d925dd5d",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "12fef0d9-6d49-45df-a69a-428d2fc7bbf2",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "f48e39ff-3dd4-49ac-849f-239ca0035868",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "5a983580-4121-42e7-aef5-e218ea3358bc",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "6cc8c982-9e58-4f10-bf68-620de666f494",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "db2f40ef-ea38-48c7-a53f-c2d3e604992a",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "9b6be18e-d4d6-45d6-ab91-f29ca7601386",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "f23136f5-4396-469d-9003-e4407f6969a5",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "f7d2e739-a59e-4dce-834e-b79775bb115d",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "d7982129-36c0-4fba-9b76-5ccd609423ca",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "f324188e-a060-4b50-9491-f525008b44aa",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "884baa7c-b628-4f63-af68-9faaea8a376f",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "c9ca7a53-5e13-4193-b4c1-4b4d20318198",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "04c003f7-ecbd-46bf-8b57-6e97d181bc39",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "9496e0be-0ad3-4c1f-bfc1-e16322e456d0",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,89 +1,535 @@
 {
-  "id": "f885a727-f24e-4481-bc6f-50d9eec09261",
-  "slug": "tacky-jacks-gulf-shores-X98pQ0",
-  "name": "Tacky Jacks Gulf Shores",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Breezy waterfront eatery specializing in seafood, plus bar bites, beers & live music.",
-  "phone": "(251) 948-8881",
-  "email": null,
-  "address_line_1": "240 E 24th Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Coast",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://tackyjacks.com/",
-  "rating": 4.4,
-  "review_count": 7221,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/f885a727-f24e-4481-bc6f-50d9eec09261/f885a727-f24e-4481-bc6f-50d9eec09261_1779139737778.6733.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "f885a727-f24e-4481-bc6f-50d9eec09261",
+    "place_id": "ChIJZQQ0OicFmogRY_Wk7X98pQ0",
+    "google_maps_uri": "https://maps.google.com/?cid=983328982540023139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "tacky-jacks-gulf-shores-X98pQ0",
+    "name": "Tacky Jacks Gulf Shores",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": [],
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-8881",
+    "international_phone": null,
+    "website_url": "http://tackyjacks.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "240 E 24th Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Coast",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2787094,
+    "longitude": -87.6836932,
+    "short_address": "240 E 24th Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 7221,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Breezy waterfront eatery specializing in seafood, plus bar bites, beers & live music.",
+    "description": "Breezy waterfront eatery specializing in seafood, plus bar bites, beers & live music.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/f885a727-f24e-4481-bc6f-50d9eec09261/f885a727-f24e-4481-bc6f-50d9eec09261_1779139737778.6733.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": false,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:30 AM – 9:00 PM",
+      "Tuesday: 7:30 AM – 9:00 PM",
+      "Wednesday: 7:30 AM – 9:00 PM",
+      "Thursday: 7:30 AM – 9:00 PM",
+      "Friday: 7:30 AM – 10:00 PM",
+      "Saturday: 7:30 AM – 10:00 PM",
+      "Sunday: 7:30 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://tackyjacks.com/",
+      "menu": {
+        "categories": [
+          {
+            "name": "Seafood",
+            "type": "lunch",
+            "items": [
+              {
+                "name": "Steamed North American Snow Crab Platter",
+                "tags": [
+                  "seafood",
+                  "crab"
+                ],
+                "price": null,
+                "allergens": [
+                  "shellfish"
+                ],
+                "description": "1 pound of steamed crab legs, corn, red potatoes, and warm butter"
+              },
+              {
+                "name": "Tacky Jacks Seafood Trio",
+                "tags": [
+                  "seafood",
+                  "signature"
+                ],
+                "price": null,
+                "allergens": [
+                  "shellfish",
+                  "fish"
+                ],
+                "description": "Shrimp, Oysters, and Flaky Fish"
+              },
+              {
+                "name": "Fried Oyster Poboy",
+                "tags": [
+                  "seafood",
+                  "sandwich"
+                ],
+                "price": null,
+                "allergens": [
+                  "shellfish",
+                  "gluten"
+                ],
+                "description": "Fried oyster Poboy with french-fries and chips"
+              }
+            ]
+          },
+          {
+            "name": "Entrees",
+            "type": "lunch",
+            "items": [
+              {
+                "name": "Shrimp and Grits",
+                "tags": [
+                  "seafood",
+                  "southern"
+                ],
+                "price": null,
+                "allergens": [
+                  "shellfish",
+                  "gluten",
+                  "dairy"
+                ],
+                "description": null
+              }
+            ]
+          },
+          {
+            "name": "Appetizers",
+            "type": "lunch",
+            "items": [
+              {
+                "name": "Mexican Garbage - The Ultimate Beef & Cheese Nachos",
+                "tags": [
+                  "appetizer",
+                  "nachos"
+                ],
+                "price": null,
+                "allergens": [
+                  "gluten",
+                  "dairy",
+                  "beef"
+                ],
+                "description": "The Best in Alabama"
+              }
+            ]
+          },
+          {
+            "name": "Burgers",
+            "type": "lunch",
+            "items": [
+              {
+                "name": "The TJ Burger",
+                "tags": [
+                  "burger",
+                  "signature"
+                ],
+                "price": null,
+                "allergens": [
+                  "gluten",
+                  "beef"
+                ],
+                "description": "2 Quarter Pound Burger-balls, hand-smashed and griddled to juicy perfection"
+              }
+            ]
+          },
+          {
+            "name": "Drinks",
+            "type": "drinks",
+            "items": [
+              {
+                "name": "World-famous Bushwacker",
+                "tags": [
+                  "signature drink",
+                  "cocktail"
+                ],
+                "price": null,
+                "allergens": [],
+                "description": null
+              },
+              {
+                "name": "Bloody Mary - loaded",
+                "tags": [
+                  "cocktail"
+                ],
+                "price": null,
+                "allergens": [],
+                "description": "A Bloody Mary topped with awesomeness"
+              },
+              {
+                "name": "Party in a Cup",
+                "tags": [
+                  "cocktail"
+                ],
+                "price": null,
+                "allergens": [],
+                "description": null
+              }
+            ]
+          }
+        ]
+      },
+      "tags": [
+        "seafood",
+        "casual",
+        "tavern",
+        "waterfront",
+        "breakfast",
+        "lunch",
+        "dinner",
+        "live music",
+        "events",
+        "outdoor seating"
+      ],
+      "type": "Seafood Restaurant & Tavern",
+      "about": {
+        "vibe": "Casual, fun, local favorite hangout with waterfront views, live entertainment, and a relaxed tavern atmosphere",
+        "best_for": [
+          "families",
+          "casual dining",
+          "seafood lovers",
+          "waterfront dining",
+          "events",
+          "breakfast"
+        ],
+        "description": "Tacky Jacks Seafood Restaurant and Tavern operates three waterfront locations in Orange Beach, Gulf Shores, and Fort Morgan, Alabama. The restaurant serves breakfast, lunch, and dinner daily with a casual tavern atmosphere.",
+        "established": null,
+        "insider_tip": null,
+        "reservations": null,
+        "elevator_pitch": "Waterfront seafood restaurant and tavern across three Alabama Gulf Coast locations, serving fresh seafood and comfort food in a fun, casual setting."
+      },
+      "hours": {
+        "notes": "Open everyday. Hours vary by location: Orange Beach 7:00 AM, Gulf Shores 7:30 AM, Fort Morgan 8:00 AM. Serving Breakfast, Lunch, and Dinner Daily",
+        "friday": "7:00 AM (varies by location)",
+        "monday": "7:00 AM (varies by location)",
+        "sunday": "7:00 AM (varies by location)",
+        "tuesday": "7:00 AM (varies by location)",
+        "saturday": "7:00 AM (varies by location)",
+        "thursday": "7:00 AM (varies by location)",
+        "wednesday": "7:00 AM (varies by location)"
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [
+        {
+          "day": null,
+          "name": "Brunch with Bunny",
+          "time": null,
+          "recurring": true,
+          "description": null
+        }
+      ],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null
+      },
+      "gallery": [
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1508334248750-FUCN1OGSV1FWN3KI3SYC/TackyJacks-New-Fish-Logo-png.png",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1509393280915-G74DKZC74ER3F3UE0EI1/OB.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1512234033943-ZKAFHI7TNG5KB4XHB96N/pastel-yellow.jpg?format=2500w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715717063794-WNYKBQE4Q93O1RFH45KU/DJI_0206.JPG?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1508862261524-HNFNULPCV4ASFPSRI2KM/best2.JPG?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1508862806375-AZ1E3WFH8QPUD36G8TPP/music.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715713178110-5OHDB8I2SUIXPTWWVLV5/Snow+Crab.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715713154191-B2NY7C7S3LNPC8AXGOOX/nacho.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715717559976-Z5P37354YR207LRM7IL7/Shrimpand+Grits.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715713161379-QBYL4VGN71ONGVCQMG3L/seafoodPlatter.jpg?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715713146289-564DP3B795LJR7TML2BA/burger.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715713159316-1KERAYYHYHQBXBI2CYZS/poorBoy.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715713146939-WL1P8V4C4LJHL97DUTQT/bushWacker.jpg?format=1000w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715713141019-ZP68MJNVAT41F1OKLQU6/bloodyMary.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/59e72205f09ca4e836d8a3a9/1715713151548-HJCBUMMDLH5DBQ3EPYZW/layerDrink.jpg?format=500w"
+      ],
+      "sources": [
+        "http://tackyjacks.com",
+        "https://tackyjacks.com"
+      ],
+      "tagline": "By Land or By Sea - Voted Local's Favorite Hangout",
+      "features": [
+        "waterfront setting",
+        "outdoor seating",
+        "full bar",
+        "breakfast available daily",
+        "live entertainment",
+        "events venue",
+        "delivery (DoorDash)"
+      ],
+      "specials": [],
+      "locations": [
+        {
+          "zip": "36561",
+          "city": "Orange Beach",
+          "name": "Orange Beach",
+          "hours": "OPEN EVERYDAY at 7:00 AM",
+          "phone": "(251) 981-4144",
+          "state": "AL",
+          "address": "27206 Safe Harbor Dr."
+        },
+        {
+          "zip": "36542",
+          "city": "Gulf Shores",
+          "name": "Gulf Shores",
+          "hours": "OPEN EVERYDAY at 7:30 AM",
+          "phone": "(251) 948-8881",
+          "state": "AL",
+          "address": "240 E 24th Ave"
+        },
+        {
+          "zip": "36542",
+          "city": "Gulf Shores",
+          "name": "Fort Morgan",
+          "hours": "OPEN EVERYDAY at 8:00 AM",
+          "phone": "(251) 968-8341",
+          "state": "AL",
+          "address": "1577 AL-180"
+        }
+      ],
+      "scraped_at": "2026-03-21T14:37:41.887Z",
+      "price_range": "$$",
+      "extracted_at": "2026-03-23T04:09:39.138Z",
+      "social_links": {
+        "website": "https://www.tackyjacks.com",
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Tacky Jacks Seafood Restaurant and Tavern"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "consolidation",
+      "gcr-organized",
+      "all-businesses",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.431465+00:00",
+    "updated_at": "2026-05-18T21:29:02.990369+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "b458286f-b95f-4178-9f53-9541b827946a",
       "tag": "seafood_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "breakfast_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "bar",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "7f5a6ca2-9c4a-4c3d-bee8-dbf1e8276cb8",
       "tag": "seafood_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "732d0bc9-05f9-4c3d-b265-6c8345207d3f",
       "tag": "breakfast_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "41308ead-2d15-450f-8cc5-cfe0e34cf21f",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "a848c9e8-3bfe-4ec9-8523-cbc1bc05e476",
       "tag": "bar",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "1844869d-264d-4a18-a703-b0aa00be0180",
+      "tag": "bar",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "abfa2360-2253-425c-9569-d30c64360645",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "1c4ab8cf-d144-4a02-8a4b-af78e73e40f1",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "63540e21-2c38-42ed-9bc3-875b9b850f89",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "5e915932-68d3-435b-b6dc-71adb9032ac6",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "ffb0fb5a-8a7e-4eb7-855c-b5dd0923ec0f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "551465dd-ff72-4274-bc8f-b2165e97153b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "a6a6fd18-42a9-4046-a3e1-b3fb69fbef68",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "50c581ae-8fcd-4a2f-9508-51aa2184d671",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 6
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "359d24ca-f19d-4358-b0f4-9e4a2a6ca332",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

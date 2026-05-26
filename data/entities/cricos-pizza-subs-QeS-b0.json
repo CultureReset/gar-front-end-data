@@ -1,32 +1,662 @@
 {
-  "id": "32ed3e81-fa84-4e4c-a0ae-99a2b835d082",
-  "slug": "cricos-pizza-subs-QeS-b0",
-  "name": "Crico's Pizza & Subs",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Crico's Pizza and Subs in Gulf Shores, AL, is a beloved local eatery renowned for its delicious pizzas and mouthwatering subs. Nestled in the heart of Gulf Shores, this cozy establishment offers a welcoming atmosphere where patrons can enjoy freshly prepared meals with friends and family. From traditional pepperoni pizzas to specialty pies loaded with gourmet toppings, Crico's caters to every pizza lover's cravings. Their subs are equally tantalizing, with a variety of options ranging from classic Italian combos to hearty meatball subs. With friendly service and quality ingredients, Crico's Pizza and Subs is a must-visit destination for both locals and tourists craving authentic and satisfying meal on the Alabama Gulf Coast.",
-  "phone": "(251) 948-3100",
-  "email": null,
-  "website_url": "https://www.cricospizza.com/",
-  "address_line_1": "309 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 2168,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/0ffbe77c-d855-4637-9c73-73905267c9aa/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "32ed3e81-fa84-4e4c-a0ae-99a2b835d082",
+    "place_id": "ChIJKSQKBbcEmogR9dOaPQeS-b0",
+    "google_maps_uri": "https://maps.google.com/?cid=13689133102165316597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "cricos-pizza-subs-QeS-b0",
+    "name": "Crico's Pizza & Subs",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "pizza_restaurant",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-3100",
+    "international_phone": null,
+    "website_url": "https://www.cricospizza.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "309 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2505993,
+    "longitude": -87.6897378,
+    "short_address": "309 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 2168,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Pies with various toppings, a lunch buffet, subs & salads are offered in a basic space with a patio.",
+    "description": "Crico's Pizza and Subs in Gulf Shores, AL, is a beloved local eatery renowned for its delicious pizzas and mouthwatering subs. Nestled in the heart of Gulf Shores, this cozy establishment offers a welcoming atmosphere where patrons can enjoy freshly prepared meals with friends and family. From traditional pepperoni pizzas to specialty pies loaded with gourmet toppings, Crico's caters to every pizza lover's cravings. Their subs are equally tantalizing, with a variety of options ranging from classic Italian combos to hearty meatball subs. With friendly service and quality ingredients, Crico's Pizza and Subs is a must-visit destination for both locals and tourists craving authentic and satisfying meal on the Alabama Gulf Coast.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/0ffbe77c-d855-4637-9c73-73905267c9aa/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://facebook.com/profile.php?id=100063740042280",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00��PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": {
+        "categories": []
+      },
+      "hours": {
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "images": [],
+      "contact": {
+        "zip": "36542",
+        "city": "Gulf Shores",
+        "email": null,
+        "phone": "(251) 948-3100",
+        "state": "AL",
+        "address": "309 Gulf Shores Parkway",
+        "website": "https://cricospizza.com"
+      },
+      "features": [
+        "pickup",
+        "delivery",
+        "takeout"
+      ],
+      "specials": [],
+      "description": "Crico's Pizza and Subs in Gulf Shores, AL, is a beloved local eatery renowned for its delicious pizzas and mouthwatering subs. Nestled in the heart of Gulf Shores, this cozy establishment offers a welcoming atmosphere where patrons can enjoy freshly prepared meals with friends and family. From traditional pepperoni pizzas to specialty pies loaded with gourmet toppings, Crico's caters to every pizza lover's cravings. Their subs are equally tantalizing, with a variety of options ranging from classic Italian combos to hearty meatball subs. With friendly service and quality ingredients, Crico's Pizza and Subs is a must-visit destination for both locals and tourists craving authentic and satisfying meal on the Alabama Gulf Coast.",
+      "price_range": null,
+      "cuisine_type": "Pizza, Subs",
+      "extracted_at": "2026-05-16T19:13:45.700Z",
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Crico's Pizza & Subs"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.804093+00:00",
+    "updated_at": "2026-05-18T21:06:22.899848+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "b6a0e25e-9064-4367-862b-766337f1dd13",
+      "tag": "pizza",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "abac52dc-0bc3-43a7-ba1c-8acf0d26a7a3",
+      "tag": "pizza",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "b8569a32-4f73-4edf-a320-043c7c03e22a",
+      "tag": "subs",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "020867cd-6d70-484f-bfa2-e6e4b16a047d",
+      "tag": "subs",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "8b56a756-a799-4f7d-ba5c-0472b74a3dc8",
+      "tag": "sandwiches",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "9812dfa5-b78f-4116-b027-a0992317ec93",
+      "tag": "sandwiches",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "e13a00a6-f3e5-4a84-a929-df633212ceda",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "d23ed758-360a-468a-9b55-a83e6dfac239",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "5c45da02-c971-423d-b07d-36fb10c20a81",
+      "tag": "carryout",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "982270e8-2e17-474a-bb34-cd56525576ed",
+      "tag": "carryout",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "cdf337bb-ea4b-4f87-8ade-7e5753e160d9",
+      "tag": "delivery",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "0eccf481-fcbe-46c3-9ab8-36e3e83425e5",
+      "tag": "delivery",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "3e6f26ca-e60b-4203-a224-bc2a80e4b5e9",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "f223af16-d766-41c3-9273-831facc15d57",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "d0534dcc-0cd0-4aff-94a1-a3ad9d053352",
+      "tag": "local-favorite",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "04ed724c-8887-49da-9b48-a85bb2f6c60c",
+      "tag": "local-favorite",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "50a18458-4f48-407a-9ac5-5666288597e5",
+      "tag": "italian",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "407a7baa-e2a4-43c3-8f7c-8bda57f9984b",
+      "tag": "italian",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "98fddb70-de7c-421c-bde8-b7f6ec52d39e",
+      "tag": "quick-service",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "b9d99024-527d-4ca6-9f15-3e3f77233ad3",
+      "tag": "quick-service",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "e044bbbd-931e-4762-a06a-777b40e214e1",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 10
+    },
+    {
+      "id": "6116114f-1076-455e-972a-06aee8bd13b8",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 10
+    },
+    {
+      "id": "72ebb951-892c-485f-b190-2f7a0a3c43b8",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 11
+    },
+    {
+      "id": "eb8cea9f-0784-4ce9-93cc-58437b4d6d9c",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 11
+    },
+    {
+      "id": "af19e0c9-293d-44e7-9b7c-e3d3f0f7d737",
+      "tag": "takeout",
+      "tag_category": "amenity",
+      "sort_order": 12
+    },
+    {
+      "id": "94885a3b-b41e-4fe1-980e-21bfb6e398a5",
+      "tag": "takeout",
+      "tag_category": "amenity",
+      "sort_order": 12
+    },
+    {
+      "id": "c2150035-3273-4b7a-81ad-ad5061b3a07c",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "050d057b-b016-4b59-9423-45103f78ef56",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "85643ed0-7b9d-4f3b-a403-5b1895f3f71e",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "33284a08-a510-4fda-9778-5e35f48e35e1",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "fd1707c4-088a-4680-98cb-7b8b7b773a5d",
+      "tag": "pasta",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "245fe35b-920d-4e43-8f70-69a2ac8fe433",
+      "tag": "pasta",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "ba11f467-0458-4405-ac8e-35444cc44685",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 16
+    },
+    {
+      "id": "29e589c8-9902-4ff3-ac33-09b02d66ec16",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 16
+    },
+    {
+      "id": "894c4656-9485-4b93-8b28-ddc72b020cfd",
+      "tag": "alabama-gulf-coast",
+      "tag_category": "search",
+      "sort_order": 17
+    },
+    {
+      "id": "db4361c8-d514-4a8d-94ad-a80055a5ada1",
+      "tag": "alabama-gulf-coast",
+      "tag_category": "search",
+      "sort_order": 17
+    },
+    {
+      "id": "7308d548-38ce-46ae-aeda-bbee06b4c15e",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "360fd9d2-8cda-45eb-b17e-816b5eb4261c",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "3e5c8f5c-e8de-4c21-b0d7-2072ba39d89f",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "49e4c7d9-b586-4c61-a8d4-c302aedc93d3",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "7aeafbfc-61df-4fc7-a9fa-84137c7d689d",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "6f90ef79-fbf4-42eb-a56c-d005b6f4a7e8",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "3793b213-d9ea-4a42-806a-4837a5f2ad1c",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "a2fb643d-5be4-4bcd-b988-bc8129ef26ec",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "ee38cc42-7c3d-4277-8734-fbc16060add8",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 22
+    },
+    {
+      "id": "ed64ae96-6557-496c-aa63-e39b7d28b7de",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 22
+    },
+    {
+      "id": "b74ae45c-56d2-4ef4-a5b9-95be3cd4fbe1",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "d6a52758-eeba-4854-8c8e-df7b534b542e",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "936b8888-32bd-44e3-8df8-c82832e627be",
+      "tag": "sandwich shop",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "a1ed42c9-b1e2-4554-a24c-d0c506d6557c",
+      "tag": "sandwich shop",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "90140f7d-d3e6-4ba0-ad0c-fa579de2ec09",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "fb6c3494-2d7a-4b32-a6a1-3d37e603bb66",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "197424d7-f6d1-4b0d-81b8-47f5b898b373",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 26
+    },
+    {
+      "id": "ae46ccb2-c1db-4399-a85e-acba31a5e214",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 26
+    },
+    {
+      "id": "eac77e19-91ce-4589-b7a4-12a47b29f32d",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 27
+    },
+    {
+      "id": "ef812e24-bf7b-4879-93f9-2f0c9b171d61",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 27
+    },
+    {
+      "id": "1b7f25f6-07e8-4b9b-9d9a-4c6f1708e428",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 28
+    },
+    {
+      "id": "6ba16cfd-97c2-4190-9a37-cb67311f65c4",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 28
+    },
+    {
+      "id": "484c1ca5-f579-49bf-b0f6-67a57fa34e8f",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "3fd7e641-e70e-409f-9cd1-418abb005dbc",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "2459ed84-061d-4efe-ab40-b5a7a1d46f4f",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 30
+    },
+    {
+      "id": "5dc734b2-6439-4184-896d-c1af36a06d88",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 30
+    },
+    {
+      "id": "ab0aed7d-79f4-4651-95e3-d4c719eede7c",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 31
+    },
+    {
+      "id": "8e833a85-bbbd-4082-b1cf-e0e7f082be0e",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 31
+    },
+    {
+      "id": "58d1354b-4b35-4799-81c5-db683519dcd5",
+      "tag": "pizza restaurant",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "84146022-747e-42c7-ab7c-fb9812c17336",
+      "tag": "pizza restaurant",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "b7fb87dd-5b48-4a51-b3e7-b7836bac75c0",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "260a9b4f-7d27-4152-a428-cd4094fc5aa7",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "00a650aa-2d33-4e94-9bba-86afc3eb8c2d",
+      "tag": "pizza_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "628b8ec6-3bdb-405f-b481-9b53794e1ab2",
+      "tag": "pizza_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "66fa32a6-0fa9-4cb4-9cad-146d1840fe61",
+      "tag": "sandwich_shop",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "1a218c8a-2628-49d0-a6e8-913fb7b55da2",
+      "tag": "sandwich_shop",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "3f381327-6fa7-4643-bab3-f30a4cd9abc1",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "01574776-1256-4f54-9397-f58a716807a9",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 36
+    }
+  ],
+  "sections": [
+    {
+      "id": "6a5e3bee-1023-4ca2-8355-4adb9f58caa2",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

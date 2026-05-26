@@ -1,157 +1,138 @@
 {
-  "id": "362f08dd-6bc2-45d0-a953-5306de0a6a17",
-  "slug": "pirates-cove",
-  "name": "Pirates Cove",
-  "entity_type": "nightlife",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "Pirate-themed, dog-friendly haunt is a local go-to for simple American eats & live music.",
-  "phone": "(251) 987-1224",
-  "email": "info@piratescoveriffraff.com",
-  "website_url": null,
-  "address_line_1": "6664 Co Rd 95, Elberta, AL 36530, USA",
-  "city": "",
-  "state": "",
-  "zip": null,
-  "rating": 4.5,
-  "review_count": null,
-  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN2tufz8tQDvrO2zKYsngD-SdQ7JG1VFp7q4Moj0OXxpIZeLaKGFSmfv5l68tQ6H-1pCpcohBXRZtlHecO43eZq3Gs0HsicHoZGViQqh0hqVFHPwoHDU221X9FEPXoxpT6GiGnArxhGW5Qr99IhcqPz7BWNR0dbjwSHV15uhS_2jD5CRS80FGq4WJr-c8-F2-8Ww-KXjiS1kHDdvvyN-0dKJw7SxqKGh696ilRF39kFNxXznvzCdPpGV0BgrPo30_If2yYaZjbqVdLblWEfy8T7gAjADtqDdJ727Ac5EyXl6g_Bq_Io_ZMLZjvcv71VyQq-DwT1A24MwsbOPQ1ujZmlrNYK3n6DCYZY6AaXtv4Q82n8kqqdoZSdImOuGldSx1zvMjE9ZJZ8aLDWfZTFPw-3nCmiKE1BfaDXvFHLLbSJ00Y5A&key=AIzaSyA53S45dU9xRY5D-YKfEPPIHA1cP_nBvTY",
+  "entity": {
+    "id": "33a2fddd-21d5-4951-a220-d0a1938c6e07",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "pirates-cove",
+    "name": "Pirates Cove",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "+1-251-987-1224",
+    "international_phone": null,
+    "website_url": "http://piratescoveriffraff.com/",
+    "email": "info@piratescoveriffraff.com",
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Orange Beach, AL / Elberta, AL",
+    "address_line_2": null,
+    "city": null,
+    "state": "AL",
+    "zip": null,
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": "Pirates Cove in Orange Beach, AL: A historic bar and grill offering the best cheeseburgers on the gulf coast, ice cold bushwhackers and live music since 1957. Where good times, great food, and cold drinks meet! Join us in Orange Beach, Alabama for live music, waterfront views, and a one-of-a-kind atmosphere!",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/piratescoveriffraff",
+    "social_facebook": "https://www.facebook.com/piratescove",
+    "social_tiktok": "https://www.tiktok.com/@piratescoveriffraff",
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-21T04:57:17.148512+00:00",
+    "updated_at": "2026-05-21T04:57:17.148512+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": "Bar & Grill",
+    "atmosphere": "Historic waterfront bar with pirate theme, casual relaxed atmosphere",
+    "extraction_confidence": "medium",
+    "extraction_timestamp": "2026-05-15T06:16:22.788+00:00",
+    "extraction_notes": "Website provides basic information about Pirates Cove as a historic bar and grill in Orange Beach, AL operating since 1957. Limited menu details available - only signature items (cheeseburgers and bushwhackers) and live music mentioned. Missing: specific hours of operation, full menu with prices, happy hour details, private event information, parking details, accessibility info, dress code, payment methods, reservations policy, loyalty programs, detailed descriptions of food/drinks, dietary accommodations, and reviews. The HTML appears to be primarily header/footer styling and metadata with the main content section truncated. Website was last modified April 30, 2026 according to metadata.",
+    "social_twitter": "https://x.com/pcriffraff",
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
   "photos": [],
-  "hours": "[\\Monday: 8:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u20099:00\\\\u202fPM\\, \\Tuesday: 8:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u20099:00\\\\u202fPM\\, \\Wednesday: 8:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u20099:00\\\\u202fPM\\, \\Thursday: 8:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u20099:00\\\\u202fPM\\, \\Friday: 8:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u200910:00\\\\u202fPM\\, \\Saturday: 8:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u200911:00\\\\u202fPM\\, \\Sunday: 8:00\\\\u202fAM\\\\u2009\\\\u2013\\\\u200910:00\\\\u202fPM\\]",
-  "menu_sections": [],
-  "drink_sections": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [
-    "bar",
-    "establishment",
-    "food",
-    "point_of_interest",
-    "restaurant",
-    {
-      "tag": "cheeseburgers",
-      "tag_category": null
-    },
-    {
-      "tag": "bushwackers",
-      "tag_category": null
-    },
-    {
-      "tag": "live music",
-      "tag_category": null
-    },
-    {
-      "tag": "waterfront bar",
-      "tag_category": null
-    },
-    {
-      "tag": "gulf coast",
-      "tag_category": null
-    },
-    {
-      "tag": "wood-fired pizza",
-      "tag_category": null
-    },
-    {
-      "tag": "casual dining",
-      "tag_category": null
-    },
-    {
-      "tag": "beach bar",
-      "tag_category": null
-    },
-    {
-      "tag": "Elberta Alabama",
-      "tag_category": null
-    },
-    {
-      "tag": "seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "burgers",
-      "tag_category": null
-    },
-    {
-      "tag": "fried food",
-      "tag_category": null
-    },
-    {
-      "tag": "frozen drinks",
-      "tag_category": null
-    },
-    {
-      "tag": "craft beer",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Bars",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Seafood",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Burgers",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Pizza",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Nightlife",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Live Music Venues",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Beach Bars",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Waterfront Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    }
-  ],
-  "featured": false,
-  "is_active": true,
-  "website": "http://www.piratescoveriffraff.com/",
-  "address": "6664 Co Rd 95, Elberta, AL 36530, USA",
-  "menus": [],
-  "google_places_id": "ChIJKaRD5v2nkIgRB_1fB_a3zR0",
-  "businesses": [
-    {
-      "source": "google-places-new.json",
-      "name": "Pirates Cove",
-      "phone": "(251) 987-1224",
-      "address": "",
-      "placeId": "",
-      "website": "http://www.piratescoveriffraff.com/"
-    }
-  ],
-  "consolidatedAt": "2026-05-22T11:53:19.597Z"
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

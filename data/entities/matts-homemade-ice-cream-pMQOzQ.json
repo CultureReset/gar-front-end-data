@@ -1,32 +1,275 @@
 {
-  "id": "0fd3aa6d-cb02-415c-a5aa-f0ac7735a22f",
-  "slug": "matts-homemade-ice-cream-pMQOzQ",
-  "name": "Matt's Homemade Ice Cream",
-  "entity_type": "restaurant",
-  "entity_subtype": "ice_cream_shop",
-  "icon": "🏪",
-  "description": "Creative flavors of small batch, housemade ice cream offered at this cozy, colorful parlor.",
-  "phone": "(251) 948-7098",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "1308 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.5,
-  "review_count": 1682,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/8b01b39c-bda7-481e-8b78-9133d2d4420f/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "0fd3aa6d-cb02-415c-a5aa-f0ac7735a22f",
+    "place_id": "ChIJ55vNgs8EmogRVVMC4pMQOzQ",
+    "google_maps_uri": "https://maps.google.com/?cid=3763620140936221525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "matts-homemade-ice-cream-pMQOzQ",
+    "name": "Matt's Homemade Ice Cream",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "ice_cream_shop",
+    "secondary_types": "",
+    "google_type": "ice_cream_shop",
+    "google_types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-7098",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1308 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2629987,
+    "longitude": -87.6880843,
+    "short_address": "1308 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 1682,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Creative flavors of small batch, housemade ice cream offered at this cozy, colorful parlor.",
+    "description": "Creative flavors of small batch, housemade ice cream offered at this cozy, colorful parlor.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/8b01b39c-bda7-481e-8b78-9133d2d4420f/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:11.614761+00:00",
+    "updated_at": "2026-05-18T21:07:03.040312+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "9e90393a-f54b-40e5-9115-8d0521fde089",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "ace2ff2e-a065-49c7-a009-cfb17002ef51",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "a1633158-46a4-4525-b621-1b3e97953943",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "3ab6f799-28b8-48b0-b106-7cbab89db01e",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "1165d4b7-f5ec-4c14-a1e8-a6ba19c2711d",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "a644ca23-4ade-464e-80ea-8437c0970014",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "23281129-c564-48c1-9544-37a1a0537c7d",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "5ba1e2d7-9e58-432a-8577-15b8730df7e5",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "b839f150-c83f-4b54-8d8d-db324963d9e9",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "d830811f-3c47-460b-bf36-199c79ac9f0c",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "a63b1236-58db-4417-b65f-403266fc8cb2",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "e2a93b78-e6e0-44c8-a31f-b7a3685d532f",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "dc45ae7a-18ee-4718-ac36-4b2636a0b5d0",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "4bc305a2-1ae7-47ef-8d9d-d5d9ecd8b5a3",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "7e4b5e73-e428-4649-a8b5-64a3e48515c7",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "8ee90701-9dfe-4b42-aaf5-795844d47180",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "0b230ee0-e947-41e1-af8c-df84f43207c9",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

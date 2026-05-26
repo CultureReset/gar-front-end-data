@@ -1,32 +1,1014 @@
 {
-  "id": "b0576ccd-0482-4ee3-bbca-ecf1b125f075",
-  "slug": "cottons-restaurant-qpp6Tg",
-  "name": "Cotton's Restaurant",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Seafood & steaks in a wood-paneled, 1950s former beach house with water views.",
-  "phone": "(251) 981-9268",
-  "email": null,
-  "website_url": "https://cottonsorangebeach.com/",
-  "address_line_1": "26009 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 3.9,
-  "review_count": 1503,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/b0576ccd-0482-4ee3-bbca-ecf1b125f075/b0576ccd-0482-4ee3-bbca-ecf1b125f075_1779139721619.1204.jpg",
-  "photos": [],
+  "entity": {
+    "id": "b0576ccd-0482-4ee3-bbca-ecf1b125f075",
+    "place_id": "ChIJA3L1YP4GmogRbyM_jqpp6Tg",
+    "google_maps_uri": "https://maps.google.com/?cid=4100925116949406575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "cottons-restaurant-qpp6Tg",
+    "name": "Cotton's Restaurant",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "seafood_restaurant",
+      "steak_house",
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-9268",
+    "international_phone": null,
+    "website_url": "https://cottonsorangebeach.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26009 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2713448,
+    "longitude": -87.581243,
+    "short_address": "26009 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 3.9,
+    "review_count": 1503,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Seafood & steaks in a wood-paneled, 1950s former beach house with water views.",
+    "description": "Seafood & steaks in a wood-paneled, 1950s former beach house with water views.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/b0576ccd-0482-4ee3-bbca-ecf1b125f075/b0576ccd-0482-4ee3-bbca-ecf1b125f075_1779139721619.1204.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 4:00 – 10:00 PM",
+      "Tuesday: 4:00 – 10:00 PM",
+      "Wednesday: 4:00 – 10:00 PM",
+      "Thursday: 4:00 – 10:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 4:00 – 10:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Starters",
+          "items": [
+            {
+              "name": "Potato Skins",
+              "tags": [],
+              "price": 10.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Fried Potato Jackets topped with melted Cheddar Cheese, Chives & Bacon Bits. Sour Cream served on the side.",
+              "subcategory": null
+            },
+            {
+              "name": "Tuna Nachos",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "House made fried Won Tons with seared Ahi Tuna, Seaweed Salad & topped with Spicy Mayo & Eel Sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Gulf Shrimp Steamed",
+              "tags": [],
+              "price": 10.95,
+              "dietary": [],
+              "popular": false,
+              "description": "8-10 per order. Served hot or cold.",
+              "subcategory": null
+            },
+            {
+              "name": "Cotton's Crab Queso",
+              "tags": [],
+              "price": 12.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Melted Pepper Jack Cheese infused with Onions & Crab Meat. Served with toasted Pita Points.",
+              "subcategory": null
+            },
+            {
+              "name": "Cotton's Crab Cakes",
+              "tags": [],
+              "price": 14.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Deep fried or blackened, topped with lump Crabmeat & our Remoulade Sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Cove Spicy Shrimp",
+              "tags": [],
+              "price": 12.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Fried Bay Shrimp tossed in a mild Chili Sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Green Tomatoes",
+              "tags": [],
+              "price": 12.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh local grown Tomatoes breaded & fried. Topped with our house made Tomato Relish, Feta Cheese & Remoulade Sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Crab Claws",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh from the Gulf of Mexico. Fried or Sautéed.",
+              "subcategory": null
+            },
+            {
+              "name": "'Shrooms",
+              "tags": [],
+              "price": 12.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Local favorite for over 35 years. Fresh Mushroom Caps filled with our signature Herb Cheese & deep fried to perfection.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Salads & Such",
+          "items": [
+            {
+              "name": "Cove Burger",
+              "tags": [],
+              "price": 14.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Hand pattied Angus Ground Beef, seasoned & cooked over flame roasted chargrill, toasted Bun with Lettuce, Tomato, sliced Onion & hamburger Dill Pickles. Cooked to order. One side.",
+              "subcategory": null
+            },
+            {
+              "name": "House Salad",
+              "tags": [],
+              "price": 6.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh tossed Greens with seasonal Vegetables, Cheddar Cheese, Bacon Bits & your choice of dressing.",
+              "subcategory": null
+            },
+            {
+              "name": "Stuffed Avocado",
+              "tags": [],
+              "price": 14.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Avocado Seasoned and Chargrilled. Stuffed with Blackened Chicken or Shrimp, Black Bean Pico, Mozzarella and Cheddar Cheese. Topped with a Creamy Tequila Lime Avocado Sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Fish Tacos",
+              "tags": [],
+              "price": 18.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Three lightly seasoned grilled Fish Tacos, Corn Tortilla, spicy Mayo and Slaw. One side.",
+              "subcategory": null
+            },
+            {
+              "name": "Shrimp or Chicken Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh tossed Greens with seasonal Vegetables, Cheddar Cheese, Bacon bits & your choice of dressing. Fried, grilled or blackened.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "House Specialties",
+          "items": [
+            {
+              "name": "Catch of the Day",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Fish caught straight from the Gulf of Mexico. Stuffed, broiled, fried or blackened.",
+              "subcategory": null
+            },
+            {
+              "name": "Seared Tuna",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "6oz. Tuna Steak grilled or Blackened topped with Lemon Beurre Blanc Sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Stuffed Chicken Breast",
+              "tags": [],
+              "price": 20.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Local favorite! Chicken filled with delectable Herbs & Cheese, topped with sauteéd Celery & Mushrooms.",
+              "subcategory": null
+            },
+            {
+              "name": "Ribeye",
+              "tags": [],
+              "price": 44.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Thick and juicy choice hand cut & charbroiled. 14 oz.",
+              "subcategory": null
+            },
+            {
+              "name": "Filet Mignon",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Tender choice hand cut, charbroiled to perfection.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Seafood - Fried, Broiled, Steamed",
+          "items": [
+            {
+              "name": "Fried Oyster Dinner",
+              "tags": [],
+              "price": 26.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Select fresh shucked Oysters lightly battered & fried.",
+              "subcategory": null
+            },
+            {
+              "name": "Stuffed Shrimp",
+              "tags": [],
+              "price": 22.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Crabmeat Stuffing adds the perfect touch to our popular broiled Gulf Shrimp.",
+              "subcategory": null
+            },
+            {
+              "name": "Crab Cake Dinner",
+              "tags": [],
+              "price": 18.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Crabmeat dressing deep fried, topped with lump Crabmeat & our Remoulade sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Lobster Dinner",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Broiled, stuffed, steamed or blackened. When available, we offer 2 (4 oz.) 3 (4 oz.) Tails.",
+              "subcategory": null
+            },
+            {
+              "name": "Snow Crab Legs",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "With their sweet delicate flavor, these snowy white gems are absolutely luscious.",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Seafood Platter",
+              "tags": [],
+              "price": 28.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Gulf Shrimp, Oysters, Stuffed Crab & Fresh Catch.",
+              "subcategory": null
+            },
+            {
+              "name": "Gulf Shrimp",
+              "tags": [],
+              "price": 20.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Lightly battered & deep fried or broiled.",
+              "subcategory": null
+            },
+            {
+              "name": "Deluxe Seafood Platter",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "1 Lobster tail, Snow Crab Legs, Stuffed Shrimp & Steamed Shrimp.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Popular Combinations",
+          "items": [
+            {
+              "name": "5 OZ Filet Mignon",
+              "tags": [],
+              "price": 38.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Tender choice & hand cut.",
+              "subcategory": null
+            },
+            {
+              "name": "14 OZ Ribeye",
+              "tags": [],
+              "price": 52.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Thick & juicy choice hand cut & charbroiled.",
+              "subcategory": null
+            },
+            {
+              "name": "Stuffed Chicken Breast",
+              "tags": [],
+              "price": 28.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Local favorite! Chicken filled with delectable Herbs & Cheese, topped with sauteéd Celery & Mushrooms.",
+              "subcategory": null
+            },
+            {
+              "name": "10 OZ Filet Mignon",
+              "tags": [],
+              "price": 52.95,
+              "dietary": [],
+              "popular": false,
+              "description": "Tender choice & hand cut.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Cotton Blues Cheesecake",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "It will melt in your mouth. Chocolate, Strawberry, Caramel Topping",
+              "subcategory": null
+            },
+            {
+              "name": "Key Lime Pie",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Our most popular dessert will complete your meal.",
+              "subcategory": null
+            },
+            {
+              "name": "Hot Southern Apple Pie",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Topped with walnuts, ice cream & caramel.",
+              "subcategory": null
+            },
+            {
+              "name": "Brownie Delight",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Warm brownie topped with ice cream, walnuts & chocolate sauce… Simply Delightful!",
+              "subcategory": null
+            },
+            {
+              "name": "Ice Cream",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Vanilla • Vanilla with chocolate sauce",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Frozen Drinks",
+          "items": [
+            {
+              "name": "Pina Colada",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Strawberry",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Margarita",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Peach",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Banana",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Amaretto",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Lime",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Amaretto Orange Blossom",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Strawberry Margarita",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Strawberry Colada",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Orange",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Raspberry",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Mango",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Hurricane",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Bushwacker",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "We claim to have the first on the island made with ice cream, rums and flavored liqueurs. Make it even better and add a topper of 151 Rum or Peppermint Schnapps, Skrewball (Peanut Butter Whiskey) or Hoodoo (Chickory Liqueur).",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "gcr-organized",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.340344+00:00",
+    "updated_at": "2026-05-18T21:28:46.490907+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "5613559d-d4f0-41d7-8a93-96a1a5cf6947",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "9e504146-7b82-4b0f-8c67-5b5190fe3708",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "d37301b8-e4ba-408f-a7e7-2e8f62480dd6",
+      "tag": "steak house",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "8498398b-10ec-4bb2-b929-b3436e4db9a5",
+      "tag": "steak house",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "fa642b46-1aba-4626-9df1-f8821c6534eb",
+      "tag": "lounge bar",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "2f935a9c-c0ff-48f0-8ac7-bff2e2f8eb6b",
+      "tag": "lounge bar",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "1f6a6e6b-a07d-45ae-981a-e6ebd8bec6b5",
+      "tag": "night club",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "fa4cd542-b1c8-4385-b20b-4937109fa00e",
+      "tag": "night club",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "0f3c602d-bd7e-4ec5-a1d8-a5e30ee13562",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "84b6f0b2-773d-4593-8f57-0bc69acc702e",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "27282aa7-2d50-4d5e-a426-9fd3b5e912e5",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "40f5171e-b551-4dc0-941c-88b28eb28e08",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "bf41cdf6-e7e4-4eca-aae2-08d4d6c7e267",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "5a76bb05-bbb3-4e7d-9e19-76fc1818c57b",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "4ae1fe75-0f40-4c72-a425-d181026ee4f9",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "6a5ca073-70c4-4f90-be41-857cef21c2e7",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "a0ab9dd0-9c5b-4a74-9521-5b909221a819",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "e3a2f425-37aa-4ce9-b968-838f9913e36b",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "818b11aa-1e90-4b32-9703-181ce0fb316e",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "fb84cfb5-49bc-4d08-bca7-b79de4fba7ff",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "a8a3a843-7b03-4e09-8da9-2fd9f8e9b149",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "6882e638-feeb-4731-9f4f-69fc3462d47c",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "4b1e48da-d1bb-41ff-837e-fa263fe9e5d1",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 11
+    },
+    {
+      "id": "24ba4f4b-3a15-473d-8492-00cfb2df81f6",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 11
+    },
+    {
+      "id": "d714bde1-38ef-4a45-b0a7-13c69d42ea89",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "f6d29c9c-7868-47c1-928f-e64f15f3b98a",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "fa8b0aa1-185c-4200-9752-dd771c6738fb",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "8a23fc76-6d79-455d-bc48-440e6aad6282",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "a7b1f4d3-e83b-4273-a17c-94aa3a9e7e85",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 14
+    },
+    {
+      "id": "b4459cc8-696d-4f64-a067-0dad252159bc",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 14
+    },
+    {
+      "id": "2dc0721d-bbb4-4fbf-b135-ae8914c86c2c",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 15
+    },
+    {
+      "id": "c6b368d0-f615-4be6-9f99-3f9343f6e0e0",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 15
+    },
+    {
+      "id": "1c88b22c-a78e-4267-bc39-84dbdefdd8bc",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "afe18b53-685b-43e5-ac9b-87c362cabc05",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "1b2e0922-6d7f-4b92-a3f0-753f7feefdbb",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "8690c2dd-644f-4e26-bb65-47c862b4d69c",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "af584f33-646d-478d-a7ef-586564f36f11",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 18
+    },
+    {
+      "id": "b9b1a54b-775a-4d8e-9fff-3676a274f533",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 18
+    },
+    {
+      "id": "31d0d1ee-e378-4a57-ad25-a01217e53303",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 19
+    },
+    {
+      "id": "bedb5f96-a027-4c69-a644-4b8b28adfafd",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 19
+    },
+    {
+      "id": "efaf7831-6454-49ca-affa-ba7ed37d76c0",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "de3247dd-2675-45f7-96c2-a395a1d88400",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "ff9a0283-d0cd-4fa9-836b-a5e47670bc84",
+      "tag": "seafood",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "0f05c1de-7b28-45f7-b83c-c75c8d4422ee",
+      "tag": "seafood",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "28713b84-697e-4820-903c-97e4ee19f408",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "4a27c93b-3bd0-4861-b13a-b3d6c1ae6e54",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "cce1ee26-0950-4748-9c7e-926469d75fd1",
+      "tag": "lounge_bar",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "a5bf7cb7-c4b9-4ae4-aa5a-520cc0e4f4dd",
+      "tag": "lounge_bar",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "f4d6a648-b728-4a42-93ec-9ef3fe8eb42c",
+      "tag": "night_club",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "2a8c1da2-e017-458c-837b-fe49cce86f22",
+      "tag": "night_club",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "27f3d6a4-2919-4545-9db2-bb1ec5a53378",
+      "tag": "steak_house",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "aa4795ad-00f4-45ba-b4b2-7292b8ce683e",
+      "tag": "steak_house",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "cec9026e-5280-48ee-a989-0a12b31ea4a7",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "74157d3c-9a5c-4601-bf10-8a1d589e825d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    }
+  ],
+  "sections": [
+    {
+      "id": "1c956995-e278-4c02-abb7-6487ef455e1a",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

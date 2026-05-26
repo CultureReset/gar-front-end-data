@@ -1,32 +1,428 @@
 {
-  "id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
-  "slug": "cruisin-tikis-orange-beach-u9A1gg",
-  "name": "Cruisin' Tikis Orange Beach",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "{\"description\":\"Cruisin' Tikis appears to be a floating tiki bar boat tour company, offering guests a unique on-the-water experience with a tropical tiki theme. Guests cruise aboard decorated tiki boats while enjoying drinks and scenic waterway views.\",\"elevator_pitch\":\"Set sail on a one-of-a-kind floating tiki bar experience where tropical vibes, refreshing drinks, and stunning waterway views combine for an unforgettable adventure.\",\"established\":null,\"owner\":null,\"chef\":null,\"vibe\":\"Tropical, festive, relaxed floating tiki party\",\"best_for\":[\"groups\",\"date night\",\"bachelorette parties\",\"birthday celebrations\",\"tourists\"],\"age_restriction\":null,\"dress_code\":null,\"parking\":null,\"accessibility\":null,\"reservations\":\"Reservations likely required\",\"insider_tip\":\"Book in advance as tiki boat tours tend to fill up quickly, especially on weekends.\",\"awards\":[],\"press\":[]}",
-  "phone": "(844) 622-8454",
-  "email": null,
-  "website_url": "https://cruisintikis.com/orange-beach/",
-  "address_line_1": "26619 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "26619",
-  "rating": 4.9,
-  "review_count": 430,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779139883805.831.jpg",
-  "photos": [],
+  "entity": {
+    "id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+    "place_id": "ChIJt8bOmDsHmogRQFV5yu9A1gg",
+    "google_maps_uri": "https://maps.google.com/?cid=636767795957814592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "cruisin-tikis-orange-beach-u9A1gg",
+    "name": "Cruisin' Tikis Orange Beach",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": "",
+    "google_type": "tour_agency",
+    "google_types": [
+      "establishment",
+      "point_of_interest",
+      "travel_agency"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(844) 622-8454",
+    "international_phone": null,
+    "website_url": "https://cruisintikis.com/orange-beach/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26619 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "26619",
+    "latitude": 30.2753617,
+    "longitude": -87.5691303,
+    "short_address": "26619 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 430,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"Cruisin' Tikis appears to be a floating tiki bar boat tour company, offering guests a unique on-the-water experience with a tropical tiki theme. Guests cruise aboard decorated tiki boats while enjoying drinks and scenic waterway views.\",\"elevator_pitch\":\"Set sail on a one-of-a-kind floating tiki bar experience where tropical vibes, refreshing drinks, and stunning waterway views combine for an unforgettable adventure.\",\"established\":null,\"owner\":null,\"chef\":null,\"vibe\":\"Tropical, festive, relaxed floating tiki party\",\"best_for\":[\"groups\",\"date night\",\"bachelorette parties\",\"birthday celebrations\",\"tourists\"],\"age_restriction\":null,\"dress_code\":null,\"parking\":null,\"accessibility\":null,\"reservations\":\"Reservations likely required\",\"insider_tip\":\"Book in advance as tiki boat tours tend to fill up quickly, especially on weekends.\",\"awards\":[],\"press\":[]}",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779139883805.831.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.cruisin-tikis.com",
+      "menu": {
+        "categories": []
+      },
+      "tags": [
+        "tiki",
+        "boat tour",
+        "floating bar",
+        "tropical",
+        "outdoor",
+        "waterway",
+        "unique experience",
+        "BYOB",
+        "party boat"
+      ],
+      "type": "Boat Tour / Tiki Bar Experience",
+      "about": {
+        "chef": null,
+        "vibe": "Tropical, festive, relaxed floating tiki party",
+        "owner": null,
+        "press": [],
+        "awards": [],
+        "parking": null,
+        "best_for": [
+          "groups",
+          "date night",
+          "bachelorette parties",
+          "birthday celebrations",
+          "tourists"
+        ],
+        "dress_code": null,
+        "description": "Cruisin' Tikis appears to be a floating tiki bar boat tour company, offering guests a unique on-the-water experience with a tropical tiki theme. Guests cruise aboard decorated tiki boats while enjoying drinks and scenic waterway views.",
+        "established": null,
+        "insider_tip": "Book in advance as tiki boat tours tend to fill up quickly, especially on weekends.",
+        "reservations": "Reservations likely required",
+        "accessibility": null,
+        "elevator_pitch": "Set sail on a one-of-a-kind floating tiki bar experience where tropical vibes, refreshing drinks, and stunning waterway views combine for an unforgettable adventure.",
+        "age_restriction": null
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null
+      },
+      "gallery": [],
+      "sources": [],
+      "tagline": null,
+      "features": [
+        "boat tours",
+        "floating bar",
+        "outdoor experience",
+        "group bookings",
+        "scenic views"
+      ],
+      "hashtags": [
+        "#cruisintikis",
+        "#tikiboat",
+        "#floatingbar",
+        "#tikitour",
+        "#boatlife",
+        "#tropicalvibes",
+        "#partyboat",
+        "#waterwayadventure"
+      ],
+      "specials": [],
+      "atmosphere": [
+        "Festive",
+        "Tropical",
+        "Outdoor",
+        "Party",
+        "Unique"
+      ],
+      "categories": [
+        "Boat Tour",
+        "Bar",
+        "Entertainment",
+        "Attraction"
+      ],
+      "scraped_at": "2026-03-21T19:28:22.289Z",
+      "price_range": "$$",
+      "extracted_at": "2026-03-21T20:38:17.938Z",
+      "neighborhood": null,
+      "social_links": {
+        "yelp": null,
+        "tiktok": null,
+        "twitter": null,
+        "website": "https://www.cruisin-tikis.com",
+        "youtube": null,
+        "facebook": null,
+        "instagram": null,
+        "opentable": null,
+        "google_maps": null,
+        "tripadvisor": null
+      },
+      "business_name": "Cruisin' Tikis",
+      "cuisine_types": []
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.198986+00:00",
+    "updated_at": "2026-05-18T21:31:28.677037+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "220e0199-006e-4e4a-98cd-75435923a6b9",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "38ab51d8-5c10-4a55-885b-38b400fe8306",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "776215ea-3ea4-45b2-be4e-769e747a7029",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "7946e4c7-5569-42c9-b19f-f54bd5c934ef",
+      "tag": "tour agency",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "d6d346ae-93e0-41d4-b62b-42d731c17b13",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "531d717c-74f7-4e6c-99d1-4a0d7211643e",
+      "tag": "tours",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "68339025-a059-4d95-9052-8facce11d4d3",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "1a3bde41-74fc-430c-917c-93e6af9979f8",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "78198797-f85d-4f86-ab48-ed6c8096870f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    }
+  ],
+  "sections": [
+    {
+      "id": "8390b159-eaf4-4843-9c0f-1decc86b340e",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "39145557-901a-41bd-90db-162a974b39d3",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779131532711.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:15.526875+00:00"
+    },
+    {
+      "id": "36ed288f-d5ed-4a18-9a63-bbe9fadc063f",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779132136167.9624.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:16.133643+00:00"
+    },
+    {
+      "id": "09f0d84e-5c53-498d-a11d-15960fc62f32",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779131468418.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:15.36529+00:00"
+    },
+    {
+      "id": "88d67378-64e6-42fe-87f6-efaf96a2cd36",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779132069951.4336.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:15.969753+00:00"
+    },
+    {
+      "id": "af365113-5ee1-4f82-bcce-8a939bf67343",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779139883805.831.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:16.584739+00:00"
+    },
+    {
+      "id": "503041ff-5ffb-48bf-935e-e4a3d8971b56",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779131377288.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:15.193125+00:00"
+    },
+    {
+      "id": "a8634948-ae99-4f1a-806d-8562a4defb6e",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779132009394.2568.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:15.826484+00:00"
+    },
+    {
+      "id": "3b41b5e3-d41b-4322-b144-87380ab1e14d",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779139818284.022.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:16.439979+00:00"
+    },
+    {
+      "id": "d79cd35b-eac5-4b04-9fad-ffc266bc0105",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779131600990.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:15.676632+00:00"
+    },
+    {
+      "id": "4e03589b-44f2-4cd7-9553-13458dae9a8e",
+      "entity_id": "5e9c002d-c583-47da-8fe4-5d3fb88a4d02",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5e9c002d-c583-47da-8fe4-5d3fb88a4d02/5e9c002d-c583-47da-8fe4-5d3fb88a4d02_1779139752827.6238.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:16.278018+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

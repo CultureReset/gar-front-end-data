@@ -1,390 +1,798 @@
 {
-  "id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
-  "slug": "krispy-kreme-XNwprE",
-  "name": "Krispy Kreme",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Krispy Kreme Doughnuts is a globally renowned doughnut and coffeehouse chain headquartered in Winston-Salem, North Carolina, USA. Founded in 1937 by Vernon Rudolph, Krispy Kreme has grown into one of the most recognizable and beloved doughnut brands worldwide.",
-  "phone": "(251) 972-1212",
-  "email": null,
-  "address_line_1": "3031 S McKenzie St, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "https://site.krispykreme.com/al/foley/3031-s-mckenzie-st?y_source=1_MTE4OTc5OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-  "rating": 4.4,
-  "review_count": 1456,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139408733.7285.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+    "place_id": "ChIJC3V2JjUOmogRJfpraXNwprE",
+    "google_maps_uri": "https://maps.google.com/?cid=12801042631839447589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "krispy-kreme-XNwprE",
+    "name": "Krispy Kreme",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "donut_shop",
+    "google_types": [
+      "donut_shop",
+      "fast_food_restaurant",
+      "coffee_shop",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "bakery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 972-1212",
+    "international_phone": null,
+    "website_url": "https://site.krispykreme.com/al/foley/3031-s-mckenzie-st?y_source=1_MTE4OTc5OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3031 S McKenzie St, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3695105,
+    "longitude": -87.6823912,
+    "short_address": "3031 S McKenzie St, Foley",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 1456,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Longtime chain serving a variety of donut flavors & shapes, plus coffee & frozen drinks.",
+    "description": "Krispy Kreme Doughnuts is a globally renowned doughnut and coffeehouse chain headquartered in Winston-Salem, North Carolina, USA. Founded in 1937 by Vernon Rudolph, Krispy Kreme has grown into one of the most recognizable and beloved doughnut brands worldwide.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139408733.7285.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/krispykreme",
+    "social_facebook": "https://www.facebook.com/krispykreme",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 6:00 AM – 10:00 PM",
+      "Tuesday: 6:00 AM – 10:00 PM",
+      "Wednesday: 6:00 AM – 10:00 PM",
+      "Thursday: 6:00 AM – 10:00 PM",
+      "Friday: 6:00 AM – 11:00 PM",
+      "Saturday: 6:00 AM – 11:00 PM",
+      "Sunday: 6:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139409412.0225.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139410028.4802.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139410436.0046.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139410845.7766.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139411064.8843.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139411460.3071.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139411868.623.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139412278.5764.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139412563.1216.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:12.7741+00:00",
+    "updated_at": "2026-05-18T21:23:37.557709+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131710098.5784.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131712259.8718.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139410436.0046.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139411868.623.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139412278.5764.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131401504.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131710904.6853.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131711794.9385.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139412563.1216.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131709517.3005.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131710257.301.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131711152.2725.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139408733.7285.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139410845.7766.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131709825.604.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131710626.0073.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131711422.1416.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139410028.4802.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139411460.3071.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139409412.0225.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139411064.8843.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "bb125d47-c889-4653-bc7b-ab498d0e510d",
       "tag": "doughnuts",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
-      "tag": "coffee",
-      "tag_category": "type"
-    },
-    {
-      "tag": "bakery",
-      "tag_category": "type"
-    },
-    {
-      "tag": "pastries",
-      "tag_category": "type"
-    },
-    {
-      "tag": "breakfast",
-      "tag_category": "type"
-    },
-    {
-      "tag": "casual dining",
-      "tag_category": "type"
-    },
-    {
-      "tag": "drive-thru",
-      "tag_category": "type"
-    },
-    {
-      "tag": "takeout",
-      "tag_category": "type"
-    },
-    {
-      "tag": "delivery",
-      "tag_category": "type"
-    },
-    {
-      "tag": "catering",
-      "tag_category": "type"
-    },
-    {
-      "tag": "gift cards",
-      "tag_category": "type"
-    },
-    {
-      "tag": "rewards",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Alabama",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Foley",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Bakery",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Coffee Shops",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Breakfast & Brunch",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Desserts & Sweets",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    },
-    {
-      "tag": "donut_shop",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "fast_food_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "coffee_shop",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "cafe",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "dessert_shop",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "confectionery",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "fbc1d196-ee95-420d-8fd0-492094bcef60",
       "tag": "doughnuts",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "09b9cb88-ddc3-4d02-bbbc-65a3ed2bcf38",
       "tag": "coffee",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "62fe68fd-2695-44ed-9101-a89deac7849c",
+      "tag": "coffee",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "5eb6883d-b7fd-4ff6-8ef4-efef2b0ec4dd",
       "tag": "bakery",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "dedc246b-8ee3-43a8-b8ff-9ee486202765",
+      "tag": "bakery",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "45ebbb0a-0532-40cf-80b6-15c8d7d6fe65",
       "tag": "pastries",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "62f02362-6ad0-4489-a3ea-1f006bb0c90d",
+      "tag": "pastries",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "6975b1d3-7af5-46c7-9fd0-cca0634ee62c",
       "tag": "breakfast",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "84c7c115-5d36-4281-b3ff-6f9e3acc81be",
+      "tag": "breakfast",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "2338d8fc-f608-4ec1-ad9b-9dac60e2d37e",
       "tag": "casual dining",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "c748cc39-a756-4abe-914e-14380a524ccc",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "1139edb0-554f-4174-b390-609fc623be02",
       "tag": "drive-thru",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "2ff486b2-478d-43d1-bf2c-9238f2c61798",
+      "tag": "drive-thru",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "574c777b-136e-4569-963d-6e47a1a31e3a",
       "tag": "takeout",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "65648b73-7db9-4a7f-a0ff-dcd9104d00e4",
+      "tag": "takeout",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "a0df430a-40ca-469f-bbd1-0e79f98b1bda",
       "tag": "delivery",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
+      "id": "c4ab1763-35b5-4c5b-97d0-f8f1ec3b1ed1",
+      "tag": "delivery",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "a8604140-3db4-42cc-91bc-b982d0cf0cd4",
       "tag": "catering",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 9
     },
     {
+      "id": "64e5e459-513c-4f29-b0c3-06fbeafb51e3",
+      "tag": "catering",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "fb5c0757-a3dc-4364-a673-0cd2328aec03",
       "tag": "gift cards",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "341e8b9b-bd6d-4124-a9ab-31bc323905eb",
+      "tag": "gift cards",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "ecf78cd1-8849-43a1-89a1-497277849256",
       "tag": "rewards",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 11
     },
     {
+      "id": "5b57065f-9cab-45eb-a94a-6fdaa7886d6c",
+      "tag": "rewards",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "4821bc7c-5239-4d81-b984-f90dc64fdcd7",
       "tag": "Alabama",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 12
     },
     {
+      "id": "d9a1ca50-f858-4c5f-af0e-9356c3e779f5",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "ce035192-ad2b-46a8-9344-9932a9cb69f5",
       "tag": "Foley",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 13
     },
     {
+      "id": "9420bad9-c7fd-47d1-83c7-aea19eed68ca",
+      "tag": "Foley",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "1389938e-133a-43c2-8942-0f90207aef86",
       "tag": "Restaurants",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 14
     },
     {
+      "id": "21c47ec5-a361-4d1b-9a70-7f0af5803ef5",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "d17bc55a-4653-4006-91d1-62f657b484a5",
       "tag": "Bakery",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 15
     },
     {
+      "id": "ee506219-d023-442e-b79a-deff9165060c",
+      "tag": "Bakery",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "b3596267-aff1-4cfc-bed6-c55ba8e98aed",
       "tag": "Coffee Shops",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 16
     },
     {
+      "id": "1919dc5e-c272-4a60-9d5d-eb5516cf2f3f",
+      "tag": "Coffee Shops",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "f4fd28d1-7faa-49ff-90f5-002687c08353",
       "tag": "Casual Dining",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 17
     },
     {
+      "id": "f44c8e42-87b5-48a8-9eac-e36257112234",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "cc57ce58-0277-45ee-885e-1b98e241d6f3",
       "tag": "Breakfast & Brunch",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 18
     },
     {
+      "id": "8146c469-e746-4058-8add-2c32ee1d9416",
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "f9b1355c-cf90-41d5-a7f7-7dcace1d69f9",
       "tag": "Desserts & Sweets",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 19
     },
     {
+      "id": "c34f075e-edb3-4eb8-a90a-e3f931e1f69b",
+      "tag": "Desserts & Sweets",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "82c8a094-c99f-4f5c-8fb6-b5baf6dc5419",
       "tag": "Catering",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 20
     },
     {
+      "id": "35250077-728b-4614-b848-6cf180526c54",
+      "tag": "Catering",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "3b68790e-8d07-416e-acca-5fd93fe38583",
       "tag": "food-and-drink",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 21
     },
     {
+      "id": "1da2998f-0aac-4aab-a402-17808e4a73aa",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 21
+    },
+    {
+      "id": "44fdc172-d3a4-4284-b4fe-8b9752c65cfd",
       "tag": "restaurant",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 22
     },
     {
+      "id": "b83a806e-3bd9-40a3-98ac-27de7cd60af2",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "b9cd6fec-8069-449d-b537-4c941af66dc5",
       "tag": "donut_shop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 23
     },
     {
+      "id": "a5f628b1-cd9b-431a-ac0c-9984362c1c22",
+      "tag": "donut_shop",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "84734878-da5b-4774-b9f7-15e61cfb2eef",
       "tag": "fast_food_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 24
     },
     {
+      "id": "0a43ed7d-2db9-4ef1-ac08-07528d6c8444",
+      "tag": "fast_food_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "5ba02992-c155-4724-87f4-d1c1d8384a47",
       "tag": "coffee_shop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 25
     },
     {
+      "id": "2904b647-6047-4a91-8e40-1ab2863d6dfb",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "b2f99cbe-6ca6-4993-a709-c74b8146af3d",
       "tag": "cafe",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 26
     },
     {
+      "id": "e2be8466-ca6a-46c6-9f8d-730f1743d443",
+      "tag": "cafe",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "980923d3-41e8-43b1-b53c-9257f43a0323",
       "tag": "dessert_shop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 27
     },
     {
+      "id": "0eb9c9bd-586e-4bb9-977e-6f4f416ea833",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "a9512323-8679-44fe-a913-3f17001eb22f",
       "tag": "confectionery",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 28
     },
     {
+      "id": "abf0c803-c4c8-4d87-9019-722f7d125c20",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "8d3f7929-c690-45b6-bbe4-800a1905aedb",
       "tag": "food_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 29
     },
     {
+      "id": "2f723196-4906-4c9a-ad8f-b032801e52e4",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "84be6e50-ef6e-4523-bfc1-61a3de1779b0",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 30
     },
     {
+      "id": "915cd3f2-f681-461a-9fc8-4ffe34048588",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 30
+    },
+    {
+      "id": "9ffaad3a-3330-42dd-8b49-025f6ed345d3",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 31
     },
     {
+      "id": "3b8554dd-1820-48ad-a77d-328106a4656e",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "817f9057-3d02-45f5-92cf-0e25f559a3fe",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 32
     },
     {
+      "id": "cf5f6d53-7a29-4c2e-9722-016d3458488c",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "0540ff5e-4302-4ed8-92f1-4f861ac72a13",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 33
     },
     {
-      "tag": "Catering",
-      "tag_category": "category"
+      "id": "6c9f36c8-cb76-4fc6-917a-f153d6f381da",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 33
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "2928e68c-e38b-46ef-b18a-445dc1a72c29",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "34c92275-d8b6-499d-833f-99ce00a13527",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131710098.5784.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:29.6651+00:00"
+    },
+    {
+      "id": "9cd9f31c-b1d1-4c68-99bc-3fd7e72e62f3",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131712259.8718.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:30.671819+00:00"
+    },
+    {
+      "id": "8bc2a3c7-0dc3-4318-a051-94b9824e4f73",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139410436.0046.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:31.260538+00:00"
+    },
+    {
+      "id": "9c0090a2-cdae-4e16-95bf-10360890f7f0",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139411868.623.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:31.842075+00:00"
+    },
+    {
+      "id": "11281000-e683-4a98-95fb-6b41db5e1d9e",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139412278.5764.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:32.001156+00:00"
+    },
+    {
+      "id": "3fe13aa1-2125-45c1-8260-993dd02d0be1",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131401504.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:29.234518+00:00"
+    },
+    {
+      "id": "15fe3f18-a9ac-45b1-afd7-953e192c1899",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131710904.6853.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:30.099791+00:00"
+    },
+    {
+      "id": "5e03cb9f-5970-426c-bc60-55f7632fe0f1",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131711794.9385.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:30.526682+00:00"
+    },
+    {
+      "id": "417e351b-fc9f-4879-b88f-24e3c157fe0e",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139412563.1216.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:32.154277+00:00"
+    },
+    {
+      "id": "02918fba-f964-476a-a874-ca6b8cc7dc54",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131709517.3005.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:29.376814+00:00"
+    },
+    {
+      "id": "040c535d-20ca-47f3-9a60-b5dd9c67f280",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131710257.301.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:29.810681+00:00"
+    },
+    {
+      "id": "bfc944cf-cd80-4d66-9c9d-739e3db817bf",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131711152.2725.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:30.242166+00:00"
+    },
+    {
+      "id": "de4117e2-95f6-4e2a-abe3-f21b85af047a",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139408733.7285.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:30.817146+00:00"
+    },
+    {
+      "id": "b52069a7-06e3-4fe4-9304-ec458b6f87e6",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139410845.7766.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:31.40426+00:00"
+    },
+    {
+      "id": "7fe8ba23-6417-4bd6-88b2-c18d887b1669",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131709825.604.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:29.521708+00:00"
+    },
+    {
+      "id": "ffb6993b-c3a3-433c-bab8-fe9200d17d9a",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131710626.0073.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:29.953605+00:00"
+    },
+    {
+      "id": "9d288885-cf89-4487-aded-245003c55630",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779131711422.1416.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:30.383981+00:00"
+    },
+    {
+      "id": "ee71969c-cf94-4947-8205-8a7d3ed13650",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139410028.4802.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:31.118365+00:00"
+    },
+    {
+      "id": "a95d90ea-2437-4fd3-9cd8-c7c96bf993cf",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139411460.3071.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:31.694823+00:00"
+    },
+    {
+      "id": "439139bb-30fc-4364-abbc-a172cc75fe01",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139409412.0225.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:30.972195+00:00"
+    },
+    {
+      "id": "66d53360-b5db-458f-9885-60dda49f7fe0",
+      "entity_id": "4fba9868-9cd0-4731-b9b9-cc6eea941724",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/4fba9868-9cd0-4731-b9b9-cc6eea941724/4fba9868-9cd0-4731-b9b9-cc6eea941724_1779139411064.8843.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:31.546818+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

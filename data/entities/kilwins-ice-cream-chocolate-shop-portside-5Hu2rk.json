@@ -1,32 +1,427 @@
 {
-  "id": "ec68ab8f-3a68-417a-bdcf-e4e62d4f529e",
-  "slug": "kilwins-ice-cream-chocolate-shop-portside-5Hu2rk",
-  "name": "Kilwins Ice Cream & Chocolate Shop (Portside)",
-  "entity_type": "restaurant",
-  "entity_subtype": "ice_cream_shop",
-  "icon": "🏪",
-  "description": "Traditional store selling chocolates, confections & fudge, as well as original recipe ice cream.",
-  "phone": "(251) 424-7425",
-  "email": null,
-  "website_url": "https://www.kilwins.com/pages/stores-near-me-orange-beach-al-36561-0269",
-  "address_line_1": "4601 Main St B 104, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 5,
-  "review_count": 3,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/4bbff70a-3777-4696-9ba7-d50cb169c2fe/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "ec68ab8f-3a68-417a-bdcf-e4e62d4f529e",
+    "place_id": "ChIJP4oKWu8FmogRGzvKA5Hu2rk",
+    "google_maps_uri": "https://maps.google.com/?cid=13392278748540844827&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "kilwins-ice-cream-chocolate-shop-portside-5Hu2rk",
+    "name": "Kilwins Ice Cream & Chocolate Shop (Portside)",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "ice_cream_shop",
+    "secondary_types": [],
+    "google_type": "ice_cream_shop",
+    "google_types": [
+      "ice_cream_shop",
+      "chocolate_shop",
+      "candy_store",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 424-7425",
+    "international_phone": null,
+    "website_url": "https://www.kilwins.com/pages/stores-near-me-orange-beach-al-36561-0269",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4601 Main St B 104, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2923935,
+    "longitude": -87.628177,
+    "short_address": "4601 Main St B 104, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 3,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Traditional store selling chocolates, confections & fudge, as well as original recipe ice cream.",
+    "description": "Traditional store selling chocolates, confections & fudge, as well as original recipe ice cream.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/4bbff70a-3777-4696-9ba7-d50cb169c2fe/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": false
+    },
+    "parking": {
+      "valetParking": false,
+      "freeParkingLot": false,
+      "paidParkingLot": false,
+      "freeGarageParking": false,
+      "freeStreetParking": false,
+      "paidGarageParking": false,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": false,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": false,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 12:00 – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:27.38073+00:00",
+    "updated_at": "2026-05-17T22:48:09.535384+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "b1f0f0ab-2fa1-4ddf-931c-16aec7098abb",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "ab459c9d-bc2e-4375-bfc1-3b2692796100",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "906a27fe-2fc9-4bcd-aa3e-cd78c03fe78d",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "be3974df-4a3c-4bef-86df-8d2ef86d8732",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "361a517f-47b7-4453-b70c-bf054433c85b",
+      "tag": "chocolate shop",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "56cb2bf4-5597-4bce-b39a-2764e507cab9",
+      "tag": "chocolate shop",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "8113cd17-53a4-412f-a114-f333391fe903",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "b0483b61-dc1f-4e1c-978a-e8db60d9025b",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "adba0924-e669-4a66-ab6e-985898094840",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "7112bd3d-8fb1-4d46-83f2-911f8144cc4f",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "1186fdc3-9625-42b6-9502-9bd3741ca2af",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "aa0e44de-e2ea-40c3-8f9d-6ad2d21cf86c",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "b48361be-bc2b-41da-b87c-ff9ad04a1a44",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "815cc166-7b3f-4f7c-96f7-4e7010d2bcb3",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "c5c61a22-0f7d-4721-90c8-0975dad54c05",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "d2d22a9a-f2e1-4d31-89a1-1cffd8aa6a11",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "84f8e13e-c688-45a5-8d64-75d1eaff2739",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "33b5eae3-8bd4-4a67-b79d-0261770e4fe1",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "b911ed23-4c2d-41cc-9192-ae8266109430",
+      "tag": "candy store",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "aabe8ccb-a6eb-48ba-bcf6-03a208873e32",
+      "tag": "candy store",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "79e4556f-04d7-4167-8666-abcd8ae7f852",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "fd87f117-3349-4286-bfe6-c921a7f471a5",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "72f8b143-249c-4779-842d-d02ffce43a42",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "b4f55a3d-fd58-4ffb-8f37-6ca380383b35",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "469440cc-e91c-469b-b928-e045df0bfe4d",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 12
+    },
+    {
+      "id": "e6ba8266-3db9-4123-abb8-a92a52528c97",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 12
+    },
+    {
+      "id": "526eadb0-7cd8-4cf4-a37f-7688fd531dfb",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "d0025f60-6991-46c7-b330-be25c959aeb3",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "c5487511-a385-496e-b278-a83e8d988032",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "d36cb659-95f2-4ae2-9b96-bda7c3c52de0",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "bf85d984-3d7b-44e0-9eee-177fb2a33c8c",
+      "tag": "chocolate_shop",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "d239279e-df3f-4765-bba8-a5a4f9b76e51",
+      "tag": "chocolate_shop",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "2562875b-8c7f-47c4-8a6a-22bf4e6e7413",
+      "tag": "candy_store",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "86dffd57-b1e5-4b87-b63f-c521caab145f",
+      "tag": "candy_store",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "d9ebafce-014c-487a-9897-c42da6b176e1",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "1944f410-fd72-413f-9bf6-72fa00c16ab9",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "4dbc0cc8-82e6-4d1b-aadc-57db75381f93",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "44cc9ef3-2ac5-4f4b-9924-eb7978ab8d8c",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "f8a00b1c-8acf-400b-bbbc-64d93d601e10",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "bb73f878-4290-4e55-8bbd-41f62804e1b7",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 19
+    }
+  ],
+  "sections": [
+    {
+      "id": "92511dae-fea5-43ff-bc29-3eeef22f16a0",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,57 +1,228 @@
 {
-  "id": "e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67",
-  "slug": "chute-em-up-parasail-d56939",
-  "name": "Chute Em Up Parasail",
-  "entity_type": "activity",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 981-7673",
-  "email": null,
-  "address_line_1": "27212 Marina Rd, Orange Beach, AL 36561, USA",
-  "city": "orange beach",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://parasailorangebeach.com/",
-  "rating": 4.8,
-  "review_count": 916,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133618599.931.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67",
+    "place_id": "dd6c3da2-1192-40b6-a419-875aebd56939",
+    "google_maps_uri": null,
+    "slug": "chute-em-up-parasail-d56939",
+    "name": "Chute Em Up Parasail",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": null,
+    "secondary_types": [],
+    "google_type": "tour_agency",
+    "google_types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-7673",
+    "international_phone": null,
+    "website_url": "http://parasailorangebeach.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27212 Marina Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "orange beach",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2820653,
+    "longitude": -87.5607617,
+    "short_address": null,
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 916,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133618599.931.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133618884.5015.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133619073.8967.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133619219.4924.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133619363.1714.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133619519.0396.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133619676.6616.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133619847.0615.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133619987.045.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133620184.7722.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133620354.379.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67/e8ed0d6c-3c6a-43b9-aa65-7097cdf50c67_1779133620522.8862.jpg"
+    ],
+    "created_at": "2026-05-17T21:14:30.650287+00:00",
+    "updated_at": "2026-05-18T19:47:05.275418+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "1357184d-1a52-4104-91dc-0af24bda4683",
       "tag": "activity",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
-      "tag": "watersports",
-      "tag_category": "type"
-    },
-    {
-      "tag": "tripshock",
-      "tag_category": "type"
-    },
-    {
+      "id": "901f6d0d-25d7-4b48-8bfe-c38c3390b761",
       "tag": "activity",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "de5cc550-b662-4111-af29-a09069b61008",
+      "tag": "activity",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "e389f299-40ee-46eb-baf8-e5f3a5835596",
       "tag": "watersports",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "cda838e1-3d15-423f-a8f9-fded9bd61bf4",
+      "tag": "watersports",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "b646bb16-c723-4787-ab33-483bb0c3fa91",
+      "tag": "watersports",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d0245e9e-7f50-4e7c-af78-a3b2673d8c0f",
       "tag": "tripshock",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "d0075761-69eb-4965-b37a-13845f5efdcd",
+      "tag": "tripshock",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "f612e2d0-9d12-4713-9bc9-fea2f8cabf27",
+      "tag": "tripshock",
+      "tag_category": "type",
+      "sort_order": 2
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "dd6d025f-8c04-47d7-9460-09c81e2431c0",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,597 @@
 {
-  "id": "abefd73f-dd6b-4e01-9862-411cfa826ad5",
-  "slug": "milkshake-momma-mama-orange-beach-AA2hZ8",
-  "name": "Milkshake Momma (Mama) Orange Beach",
-  "entity_type": "restaurant",
-  "entity_subtype": "ice_cream_shop",
-  "icon": "🏪",
-  "description": "Milkshake Momma was founded in 2019 in Crawford, Alabama as part of Southern Roots Country Store and Cafe. The business is known for Freak Shakes and Southern-style comfort foods. Founded by Sylvia Nolan, the concept has expanded to multiple locations including Columbus, GA and Orange Beach, AL. The company emphasizes community engagement, outstanding customer service, and a family-friendly atmosphere.",
-  "phone": "(251) 228-4970",
-  "email": null,
-  "website_url": "http://milkshakemomma.com/",
-  "address_line_1": "25908 Canal Rd Suite F, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.5,
-  "review_count": 74,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "abefd73f-dd6b-4e01-9862-411cfa826ad5",
+    "place_id": "ChIJjxkW9jkHmogRuWKDGAA2hZ8",
+    "google_maps_uri": "https://maps.google.com/?cid=11494652997972222649&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "milkshake-momma-mama-orange-beach-AA2hZ8",
+    "name": "Milkshake Momma (Mama) Orange Beach",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "ice_cream_shop",
+    "secondary_types": [],
+    "google_type": "ice_cream_shop",
+    "google_types": [
+      "ice_cream_shop",
+      "hamburger_restaurant",
+      "hot_dog_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "chicken_restaurant",
+      "american_restaurant",
+      "food_store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 228-4970",
+    "international_phone": null,
+    "website_url": "http://milkshakemomma.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25908 Canal Rd Suite F, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2907496,
+    "longitude": -87.5830271,
+    "short_address": "25908 Canal Rd Suite F, Orange Beach",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 74,
+    "price_level": "MODERATE",
+    "business_status": "CLOSED_TEMPORARILY",
+    "editorial_summary": null,
+    "description": "Milkshake Momma was founded in 2019 in Crawford, Alabama as part of Southern Roots Country Store and Cafe. The business is known for Freak Shakes and Southern-style comfort foods. Founded by Sylvia Nolan, the concept has expanded to multiple locations including Columbus, GA and Orange Beach, AL. The company emphasizes community engagement, outstanding customer service, and a family-friendly atmosphere.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Burgers",
+          "items": [
+            {
+              "name": "Jacked Up Burger",
+              "tags": [
+                "beef"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Two 4oz hand patted all beef burgers, grilled cheese sandwich center, jalapenos, mayo, mustard, ketchup, lettuce, tomato, onion, pickle on toasted bun. Served with fries.",
+              "subcategory": null
+            },
+            {
+              "name": "John Wayne Burger",
+              "tags": [
+                "beef"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Two 4oz hand patted all beef burgers topped with cheese, mayo, mustard, ketchup, lettuce, tomato, onion, pickles on toasted bun. Served with fries.",
+              "subcategory": null
+            },
+            {
+              "name": "John Jr.",
+              "tags": [
+                "beef"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "One 4oz hand patted all beef burger topped with cheese, mayo, mustard, ketchup, lettuce, tomato, onion, pickles on toasted bun. Served with fries.",
+              "subcategory": null
+            },
+            {
+              "name": "Smashed & Hungover",
+              "tags": [
+                "beef",
+                "bacon"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "4oz smash burger topped with house made pimento cheese, bacon, mayo, pickles on toasted bun. Served with fries.",
+              "subcategory": null
+            },
+            {
+              "name": "Burnyard Burger",
+              "tags": [
+                "beef",
+                "chicken"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Single 4oz patted beef burger, 2 chicken tenders, topped with cheese, lettuce, tomato, onions, pickles and choice of sauce. Served with fries.",
+              "subcategory": null
+            },
+            {
+              "name": "Hella Chili Burger",
+              "tags": [
+                "beef",
+                "chili"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "4oz hand patted all beef burger topped with home made chili and shredded cheddar cheese on bun. Served with fries.",
+              "subcategory": null
+            },
+            {
+              "name": "Cowboy Up",
+              "tags": [
+                "beef",
+                "philly"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "4oz hand patted all beef burger topped with thinly sliced philly, white American cheese, bell peppers and onions. Served with fries.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Hot Dogs",
+          "items": [
+            {
+              "name": "Scrambled Dog",
+              "tags": [
+                "hot dog",
+                "chili"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "2 regular all beef hot dogs chopped up with bun, covered in house made chili, topped with onions, slaw, pickles and oyster crackers. Served with fries or tots.",
+              "subcategory": null
+            },
+            {
+              "name": "Big Don",
+              "tags": [
+                "hot dog",
+                "chili"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "1lb all beef hot dog, smothered in house made chili, topped with onions, slaw, pickles. Served with fries or tots.",
+              "subcategory": null
+            },
+            {
+              "name": "Fiddle Stix Dog",
+              "tags": [
+                "hot dog",
+                "chili"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Footlong hot dog, topped with mustard, house made chili, shredded cheese, french fries on top. Served with fries or tots.",
+              "subcategory": null
+            },
+            {
+              "name": "Good Ol' Boy",
+              "tags": [
+                "hot dog"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "6 inch plain all beef hot dog, topped with mustard, ketchup, onions, and pickles. Served with fries or tots.",
+              "subcategory": null
+            },
+            {
+              "name": "Outlaw Chili Dog",
+              "tags": [
+                "hot dog",
+                "chili"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "6 foot hot dog, topped with mustard, house made chili, onions, slaw, pickles. Served with fries or tots.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Other Grub",
+          "items": [
+            {
+              "name": "Chicken Coop Basket",
+              "tags": [
+                "chicken"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "5 chicken tenders, fries and a slice of Texas toast. Can be made as wrap.",
+              "subcategory": null
+            },
+            {
+              "name": "Cowboy Philly Sammy",
+              "tags": [
+                "philly"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Thinly sliced steak blended with sauteed bell pepper and onions, topped with white American cheese, served on Texas toast. Can be made as quesadilla or wrap.",
+              "subcategory": null
+            },
+            {
+              "name": "Beach Chic",
+              "tags": [
+                "chicken"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "2 chicken tenders topped with lettuce, tomato and drizzled in house made ranch dressing. Choice of bun or wrap.",
+              "subcategory": null
+            },
+            {
+              "name": "Hot Chic",
+              "tags": [
+                "chicken",
+                "spicy"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "2 buffaloed chicken tenders topped with hot honey drizzle, lettuce, tomato, ranch and pickles. Choice of bun or wrap.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Funkey Fries",
+          "items": [
+            {
+              "name": "Loaded Fries",
+              "tags": [
+                "fries",
+                "vegetarian"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Basket of fries topped with chili, cheese, jalapenos.",
+              "subcategory": null
+            },
+            {
+              "name": "Cowboy Fries",
+              "tags": [
+                "fries"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Basket of fries topped with philly steak, bell peppers, onions, and cheese.",
+              "subcategory": null
+            },
+            {
+              "name": "Hot Chic Fries",
+              "tags": [
+                "fries",
+                "chicken",
+                "spicy"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Basket of fries topped with cheese, battered chicken bites, buffalo sauce, and ranch dressing drizzle.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Lil Tikes",
+          "items": [
+            {
+              "name": "Hot Dog",
+              "tags": [
+                "hot dog"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with fries and drink.",
+              "subcategory": null
+            },
+            {
+              "name": "Tenders",
+              "tags": [
+                "chicken"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with fries and drink.",
+              "subcategory": null
+            },
+            {
+              "name": "Grilled Cheese",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with fries and drink.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Coop Salad",
+              "tags": [
+                "chicken",
+                "salad"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Grilled or fried chicken tenders, lettuce, tomato, shredded cheese.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Drinks",
+          "items": [
+            {
+              "name": "Fountain Drink",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Iced Tea",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Bottled Water",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Bottled Soda",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Dairy Free options available.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.225833+00:00",
+    "updated_at": "2026-05-17T22:48:07.904845+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "081c5d29-4df0-4da3-8f0e-c4b5a73d5c11",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "6e04b78f-854c-45cf-936a-91cf2ea349c3",
+      "tag": "hot_dog_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "4bef560a-19ba-4242-ab33-95581862506c",
+      "tag": "hamburger_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "7ac92020-fc67-4ef4-bf36-5352b1c64a8c",
+      "tag": "chicken_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "38cc8803-bf60-44f4-bab6-cf8255f36125",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "75879a23-2a0b-4fbb-b403-73a68fee5fdd",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "9f6925e4-7d62-4769-b1f8-8652e20126d4",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "deae431a-c157-45aa-880e-b9f2051da886",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "0e5a8dc2-6b05-4178-b0e3-6a60e48fa121",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "919324e7-2347-45ac-b380-cb429e806de7",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "391915c7-dece-425d-a434-58538d208fc2",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "f0c5206a-9f36-45ab-a009-73e120b518be",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "b3d04dba-1a3d-4e37-b012-23da72267b49",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 12
+    }
+  ],
+  "sections": [
+    {
+      "id": "994d2e14-3dcf-47f6-92f6-1b63b25d6c59",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

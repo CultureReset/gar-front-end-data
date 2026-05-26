@@ -1,32 +1,325 @@
 {
-  "id": "06379011-38dc-4d10-a5a1-340398bd4dc4",
-  "slug": "sun-outdoors-orange-beach-Y30MQ4",
-  "name": "Sun Outdoors Orange Beach",
-  "entity_type": "activity",
-  "entity_subtype": "hotel",
-  "icon": "🏪",
-  "description": "Tranquil RV resort offering outdoor swimming pools, BBQ grills, a hot tub & wooded nature trails.",
-  "phone": "(844) 707-4343",
-  "email": null,
-  "website_url": "https://www.sunoutdoors.com/alabama/sun-outdoors-orange-beach?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
-  "address_line_1": "4100 Pandion Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.6,
-  "review_count": 697,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b11e55e3-f252-4ba1-be67-6fa66dd52bf8/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "06379011-38dc-4d10-a5a1-340398bd4dc4",
+    "place_id": "ChIJqZDrIsYFmogRta1W4Y30MQ4",
+    "google_maps_uri": "https://maps.google.com/?cid=1022867480597933493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "sun-outdoors-orange-beach-Y30MQ4",
+    "name": "Sun Outdoors Orange Beach",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "hotel",
+    "secondary_types": "",
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "resort_hotel",
+      "hotel",
+      "campground",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(844) 707-4343",
+    "international_phone": null,
+    "website_url": "https://www.sunoutdoors.com/alabama/sun-outdoors-orange-beach?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4100 Pandion Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.286958,
+    "longitude": -87.634596,
+    "short_address": "4100 Pandion Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 697,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Tranquil RV resort offering outdoor swimming pools, BBQ grills, a hot tub & wooded nature trails.",
+    "description": "Tranquil RV resort offering outdoor swimming pools, BBQ grills, a hot tub & wooded nature trails.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b11e55e3-f252-4ba1-be67-6fa66dd52bf8/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/sunoutdoorsorangebeach/",
+    "social_facebook": "https://www.facebook.com/SunOutdoorsOrangeBeach",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:29.815771+00:00",
+    "updated_at": "2026-05-18T21:07:07.202368+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "c0b448a9-1996-454b-a548-dae649a63194",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "d8825f5f-075d-487a-9acd-f09bca4faf93",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "735684ab-a908-4813-8a87-0d109c4fb8ca",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "6eb45fa4-8755-4696-887a-a6f55e7ad499",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "46671a3a-49f3-4d9e-9257-5d239e49a2fb",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "f5f08276-ada4-4c39-9260-c28647e5c0d5",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "231cb6b2-e313-4d20-9e60-1d13724c170a",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "5cdbb920-02eb-419f-8c92-e44c2085f586",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "125c42a4-3149-4ed4-904c-50e7d7313d19",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "8bfd7cfd-b4ba-4517-9767-fbe1bc194183",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "4876c5a3-46a3-40f4-85bf-1338706f4f05",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "6331fdee-2d39-4cda-973b-47ef56b2403c",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "8a29f2d0-b8d9-4976-8bba-1686afb88827",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "238f2a52-86ad-4ed1-ae7f-2eecbb013a80",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "0f9a3ca5-6be9-49ef-a5d0-faebf0c98138",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "2a510469-d6b5-4791-b174-b7f056e2a987",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "6ac174a5-7167-42ad-ae38-8e23cf265aaf",
+      "tag": "resort_hotel",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "966345c9-b24f-4a17-92e9-1be58fdd604a",
+      "tag": "resort_hotel",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "59c15732-b1a8-4d57-a59f-a08ba640a243",
+      "tag": "hotel",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "bc4605f2-00ab-40d7-b533-52cf286c3524",
+      "tag": "hotel",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "dffcb666-6c40-4d4d-b4e8-dd5d90f6eb10",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "bd341186-68c6-4a2e-a19a-a9521740e1ef",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "690f8fbe-143d-4ab0-8160-43d217105b0b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "ef80b388-b223-47db-97d4-7ba3bd3e22b5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    }
+  ],
+  "sections": [
+    {
+      "id": "8e07fd5c-3cda-4bb2-9444-d8e886b30c3d",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

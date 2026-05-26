@@ -1,32 +1,262 @@
 {
-  "id": "d7dd0b61-2613-4733-a39d-3c51fc714d49",
-  "slug": "cotton-bayou-boat-launch-zR8Ts4",
-  "name": "Cotton Bayou Boat Launch",
-  "entity_type": "activity",
-  "entity_subtype": "boat_launch",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 968-7576",
-  "email": null,
-  "website_url": "http://www.outdooralabama.com/cotton-bayou",
-  "address_line_1": "25808 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.6,
-  "review_count": 58,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "d7dd0b61-2613-4733-a39d-3c51fc714d49",
+    "place_id": "ChIJqQDC3P4GmogRO0zVFzR8Ts4",
+    "google_maps_uri": "https://maps.google.com/?cid=14865955983176584251&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "cotton-bayou-boat-launch-zR8Ts4",
+    "name": "Cotton Bayou Boat Launch",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "boat_launch",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-7576",
+    "international_phone": null,
+    "website_url": "http://www.outdooralabama.com/cotton-bayou",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25808 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2715772,
+    "longitude": -87.5829687,
+    "short_address": "25808 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 58,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": null,
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:29.815771+00:00",
+    "updated_at": "2026-05-17T21:17:46.136214+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "32278073-5f65-4009-b08c-f69847d27888",
+      "tag": "boat_ramp",
+      "tag_category": "feature",
+      "sort_order": 0
+    },
+    {
+      "id": "7e654327-cdce-4a2d-8202-0c17ffc012cf",
+      "tag": "boat_ramp",
+      "tag_category": "feature",
+      "sort_order": 0
+    },
+    {
+      "id": "5b20d4a3-f269-46e3-a0c0-92c1cca80406",
+      "tag": "trailer_parking",
+      "tag_category": "feature",
+      "sort_order": 1
+    },
+    {
+      "id": "4446e5a6-e9c3-4363-ab02-cd1cf2f2e3e3",
+      "tag": "trailer_parking",
+      "tag_category": "feature",
+      "sort_order": 1
+    },
+    {
+      "id": "2ca5861b-6e55-4e5f-85c8-1af60627cb8f",
+      "tag": "fishing_access",
+      "tag_category": "feature",
+      "sort_order": 2
+    },
+    {
+      "id": "f403f9de-7ef9-4f34-b778-6189e9b24d69",
+      "tag": "fishing_access",
+      "tag_category": "feature",
+      "sort_order": 2
+    },
+    {
+      "id": "f8562b31-7760-475d-ad70-0403d073eb9e",
+      "tag": "boat_launch",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "e4eba137-9ec1-494a-a91e-ca91d18ae2cd",
+      "tag": "boat_launch",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "20ab7151-6820-49f0-8d0d-e7e62792dd0c",
+      "tag": "parking",
+      "tag_category": "feature",
+      "sort_order": 4
+    },
+    {
+      "id": "46b4cea1-7dd4-42fb-b244-0d6b8fc45b19",
+      "tag": "parking",
+      "tag_category": "feature",
+      "sort_order": 4
+    },
+    {
+      "id": "e8eb8317-e0c9-4851-b2dc-154207b89020",
+      "tag": "water_access",
+      "tag_category": "feature",
+      "sort_order": 5
+    },
+    {
+      "id": "4fc968f2-68eb-4382-b2b8-090d8b697efe",
+      "tag": "water_access",
+      "tag_category": "feature",
+      "sort_order": 5
+    },
+    {
+      "id": "2c0d3b19-9981-4902-a5d2-601bd285939f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "2966805a-6ed4-4e41-b27b-102a00ebe68e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "1227601b-9655-4da7-96e5-6780e3706896",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "31535944-f26b-4eab-a6b4-c4a1b0e023be",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "62ee4c54-12df-435e-8204-e3486affce6a",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

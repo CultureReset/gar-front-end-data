@@ -1,32 +1,1149 @@
 {
-  "id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
-  "slug": "chicken-salad-chick-v8wh64",
-  "name": "Chicken Salad Chick",
-  "entity_type": "restaurant",
-  "entity_subtype": "chicken_restaurant",
-  "icon": "🏪",
-  "description": "Chain outlet specializing in many different types of chicken salads, plus sandwiches, soups & sides.",
-  "phone": "(251) 240-0058",
-  "email": null,
-  "website_url": "https://chickensaladchick.com/gulf-shores-al",
-  "address_line_1": "160 Cotton Creek Dr Unit 290, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.7,
-  "review_count": 366,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139346618.1108.jpg",
-  "photos": [],
+  "entity": {
+    "id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+    "place_id": "ChIJ4QCXtM0FmogRRJSBzv8wh64",
+    "google_maps_uri": "https://maps.google.com/?cid=12576074359694791748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "chicken-salad-chick-v8wh64",
+    "name": "Chicken Salad Chick",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "chicken_restaurant",
+    "secondary_types": "",
+    "google_type": "chicken_restaurant",
+    "google_types": [
+      "chicken_restaurant",
+      "catering_service",
+      "food_delivery",
+      "salad_shop",
+      "meal_takeaway",
+      "cafe",
+      "soup_restaurant",
+      "restaurant",
+      "service",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 240-0058",
+    "international_phone": null,
+    "website_url": "https://chickensaladchick.com/gulf-shores-al",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "160 Cotton Creek Dr Unit 290, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2977801,
+    "longitude": -87.6811129,
+    "short_address": "160 Cotton Creek Dr Unit 290, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 366,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Chain outlet specializing in many different types of chicken salads, plus sandwiches, soups & sides.",
+    "description": "Chain outlet specializing in many different types of chicken salads, plus sandwiches, soups & sides.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139346618.1108.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Chicken Salads",
+          "items": [
+            {
+              "name": "Jill Pickle",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Limited-time chicken salad, made with diced dill pickles for a refreshing burst of flavor and the perfect balance of savory and bright",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Pimento Cheese & More Salads, Sides & Soups",
+          "items": [],
+          "description": null
+        },
+        {
+          "name": "Signature Sandwiches",
+          "items": [],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139346952.9504.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139347356.5203.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139347536.036.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139347971.4219.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139348585.3047.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139348790.9812.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139349213.8584.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139349547.1936.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139349733.6692.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:11.614761+00:00",
+    "updated_at": "2026-05-18T21:22:34.68512+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "21278cce-d336-4aaa-9939-828c1c6fe3d2",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "f84fb860-6992-4724-ba64-fbe75f375fb6",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "85396e78-33ae-4e06-96da-208df3c89d29",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 1
+    },
+    {
+      "id": "6c6a46c8-2104-4bab-a7e7-e7ab18725016",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 1
+    },
+    {
+      "id": "fa9b45f4-d19f-4eae-a44a-d6129146a896",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 2
+    },
+    {
+      "id": "2b5a8c8c-fc29-453c-a9c9-815f41b951c9",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 2
+    },
+    {
+      "id": "9c46d47a-fb0b-4dfa-b703-5097a6e86cc0",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 3
+    },
+    {
+      "id": "c3d1dc70-3a24-4bd7-85d1-0ee258159c31",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 3
+    },
+    {
+      "id": "845b413d-440e-4071-a742-94b5789295cd",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "cbdec4cf-2489-4e57-9064-5e9da79af7ce",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "b29e424f-0c29-42cc-a5f2-01e709e8e7a7",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 5
+    },
+    {
+      "id": "0d34140d-e559-4476-b089-841ccc95b020",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 5
+    },
+    {
+      "id": "c486324c-3ae9-4368-bb1b-c51a0becb1c4",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "5419ba2c-d741-4764-add5-28a57685cb0d",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "d8d0d14a-4ea4-4337-b090-2147df9ed50d",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "3970dfaf-e5ef-46cb-a330-24a84ab1c055",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "d964d2f5-f9fc-4fdf-adf7-41cf00c4f8c8",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "b711bc68-f536-406f-b4bc-6c15a52e91d8",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "fb9791dd-96b3-428b-b0d3-50fef55029c5",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "fb20380d-e53e-4223-9ba8-c3a3fff6c76a",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "50ad74d7-6646-4d51-af07-b7e33a5c29f3",
+      "tag": "chicken restaurant",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "e0246a02-87e2-4907-abdb-9745093ace89",
+      "tag": "chicken restaurant",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "170dad82-4adb-41f3-ae52-418dcd70885f",
+      "tag": "food delivery",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "54e9cc04-1c00-4930-99ab-74ad3aecd3cf",
+      "tag": "food delivery",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "86a3e419-f54a-47fc-b31e-b95d36b299f6",
+      "tag": "soup restaurant",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "f82f7fd7-c413-4798-b0ec-884f734301a1",
+      "tag": "soup restaurant",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "abc9cdae-ec50-4028-98ee-b1d90f06e73c",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "09eb3825-3739-41c0-9e0e-fe4003937aa8",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "59433f2a-1fe8-4a9d-803b-f73c69ef6042",
+      "tag": "catering service",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "cd9c0e69-42fe-43d7-82ab-c1eff29e03ee",
+      "tag": "catering service",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "39256286-7f59-4c3c-b19a-826bd7f68c73",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "dcd5cb7d-9192-4262-a047-654d02520e9d",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "3459bcc5-5771-4bd1-a81c-0fe52caa0e17",
+      "tag": "salad shop",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "9973588c-905e-46c0-917c-aac3597e2438",
+      "tag": "salad shop",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "179f5f16-4f50-4b2f-b45e-882c27a04565",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "309f17b2-b988-481c-b068-5c75867694b0",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "2d3cadf7-42f2-441e-9d78-2e573733d3d7",
+      "tag": "meal takeaway",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "b6173f89-c873-455c-86dc-1be50fc6ae23",
+      "tag": "meal takeaway",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "d94ddb33-e398-4c3c-86c5-b075e25f58c0",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "ca6e01fa-7ea4-4d68-8c44-4dc835da5bde",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "33b10fed-05e0-4455-928a-11c86bf24bad",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "b69aa9ca-df37-4b46-a714-b95346c10c48",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "3f71a3df-5a5f-426d-ba7b-724293bceb94",
+      "tag": "chicken_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "eacc4efc-d127-4012-b572-5657caabf981",
+      "tag": "chicken_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "cce3bfc4-a0ed-44cd-a1af-905a562def6f",
+      "tag": "salad_shop",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "b4da03db-9214-44a4-8a6f-405003ff7035",
+      "tag": "salad_shop",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "5e7d7205-d67b-4db6-90c0-77170eef3a8e",
+      "tag": "catering_service",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "63189e14-2c39-4995-a2ef-525bc5542a57",
+      "tag": "catering_service",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "52e7d941-55a8-4627-b8cb-187a3c2c3de6",
+      "tag": "food_delivery",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "716807fe-6c05-44fc-a157-84afefa77e4d",
+      "tag": "food_delivery",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "3bd20c18-206d-4bf7-b41b-dce8f1faf05b",
+      "tag": "soup_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "eaf4e3da-5b9d-4eb1-a5d4-b7328f5081be",
+      "tag": "soup_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "ddb29312-84cf-420c-82f4-5a62ab08d32e",
+      "tag": "meal_takeaway",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "778b149f-451b-4517-a0cf-05c5cad04a33",
+      "tag": "meal_takeaway",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "e7f28785-ea2f-412a-8a00-c5168b902787",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "e56bfa74-d449-4f81-af59-de1d34b255ed",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "f10c4ebe-501e-4196-90fe-c724fb09ffd2",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "40288c85-a86a-4e2e-b06e-4297e3074f73",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "fb4fa89e-fe21-4344-be38-57f8a54d445a",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "00f1f21b-1e76-49c6-87db-7988f1a7c223",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 29
+    }
+  ],
+  "sections": [
+    {
+      "id": "0365c776-3914-4606-bd26-010305d96d29",
+      "section_key": "create-your-meal",
+      "section_label": "CREATE YOUR MEAL",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "5665bbcf-7202-408a-ae7b-ad7172320dd9",
+          "title": "CREATE YOUR MEAL",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": [
+            {
+              "id": "6da8adeb-41ca-4ac5-b64a-87214accff9f",
+              "group_id": "5665bbcf-7202-408a-ae7b-ad7172320dd9",
+              "item_name": "Create Your Meal",
+              "item_description": "Build your own meal with your choice of 1 or 2 sides, a pickle & a cookie",
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 0
+            }
+          ]
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "eb013004-666f-477a-a830-50412dcd24c1",
+      "section_key": "create-your-specialty-meal",
+      "section_label": "CREATE YOUR SPECIALTY MEAL",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "5b269e76-de59-4e74-9b41-b7c77ba5a6ad",
+          "title": "CREATE YOUR SPECIALTY MEAL",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "bab9dbb3-9fd3-4b17-8fa8-9a64d58b0d4a",
+      "section_key": "quick-chicks",
+      "section_label": "QUICK CHICKS",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "41a31cba-cda5-4505-b2d4-74ca0b79b1b0",
+          "title": "QUICK CHICKS",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "0ba625e5-54db-42bd-aead-20d3f1ec7cf3",
+      "section_key": "large-fresh-sides",
+      "section_label": "LARGE FRESH SIDES",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "a755966e-82d2-4447-abe7-881196f0b9fc",
+          "title": "LARGE FRESH SIDES",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": [
+            {
+              "id": "512f23ce-d6b7-43c1-8f6a-9d1f32a51c03",
+              "group_id": "a755966e-82d2-4447-abe7-881196f0b9fc",
+              "item_name": "Large Fresh Sides",
+              "item_description": "Selection of fresh side dishes in large portions",
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 0
+            }
+          ]
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "0c22a050-ae05-4a64-a258-7502e6b0f0ea",
+      "section_key": "fresh-signature-sides",
+      "section_label": "FRESH SIGNATURE SIDES",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "63d0a079-b656-478f-8781-37f02a0e4738",
+          "title": "FRESH SIGNATURE SIDES",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": [
+            {
+              "id": "41d996ac-c9ed-468f-913c-dc0bbd31f095",
+              "group_id": "63d0a079-b656-478f-8781-37f02a0e4738",
+              "item_name": "Fresh Signature Sides",
+              "item_description": "Selection of signature side dishes",
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 0
+            }
+          ]
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "3c9e3f32-a01a-4e93-ad1a-b48a6117c033",
+      "section_key": "chicken_salads",
+      "section_label": "Chicken Salads",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "3f5c9548-751d-460c-8ce9-80c8ec4df867",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [
+    {
+      "id": "6da8adeb-41ca-4ac5-b64a-87214accff9f",
+      "section_id": "0365c776-3914-4606-bd26-010305d96d29",
+      "group_id": "5665bbcf-7202-408a-ae7b-ad7172320dd9",
+      "item_name": "Create Your Meal",
+      "item_description": "Build your own meal with your choice of 1 or 2 sides, a pickle & a cookie",
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "512f23ce-d6b7-43c1-8f6a-9d1f32a51c03",
+      "section_id": "0ba625e5-54db-42bd-aead-20d3f1ec7cf3",
+      "group_id": "a755966e-82d2-4447-abe7-881196f0b9fc",
+      "item_name": "Large Fresh Sides",
+      "item_description": "Selection of fresh side dishes in large portions",
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "41d996ac-c9ed-468f-913c-dc0bbd31f095",
+      "section_id": "0c22a050-ae05-4a64-a258-7502e6b0f0ea",
+      "group_id": "63d0a079-b656-478f-8781-37f02a0e4738",
+      "item_name": "Fresh Signature Sides",
+      "item_description": "Selection of signature side dishes",
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "cc084a14-4ad8-4f2e-ad62-bf6fd78333e0",
+      "section_id": "3c9e3f32-a01a-4e93-ad1a-b48a6117c033",
+      "group_id": null,
+      "item_name": "Jill Pickle",
+      "item_description": "Limited-time chicken salad, made with diced dill pickles for a refreshing burst of flavor and the perfect balance of savory and bright",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    }
+  ],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "54493c13-c6f6-42d0-ad4a-03131fbcde0c",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131664135.6526.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:21.73147+00:00"
+    },
+    {
+      "id": "37f31fd5-6e3b-4d64-8c84-7f4b6f6fa240",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131665611.579.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:22.472958+00:00"
+    },
+    {
+      "id": "0cf1b7e2-b9f4-41fe-a938-68a1caa8cdae",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139347356.5203.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:23.150258+00:00"
+    },
+    {
+      "id": "d54c79f3-0281-4def-bd9b-7d4b1e27a8ba",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139348790.9812.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:23.752905+00:00"
+    },
+    {
+      "id": "a54a8a5e-0e71-4602-b0ff-c0458bc2e87d",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139349733.6692.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:24.229791+00:00"
+    },
+    {
+      "id": "cfda9885-aa12-4319-802b-b40e7cc54f67",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131663661.0398.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:21.433145+00:00"
+    },
+    {
+      "id": "d3d16e45-496e-490e-a8fe-963a3e71ee5d",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131665154.061.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:22.174832+00:00"
+    },
+    {
+      "id": "53c6585f-b41e-4a08-9204-4e1a9ff9700c",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139346618.1108.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:22.853007+00:00"
+    },
+    {
+      "id": "a53ad0f4-2d8f-4e0b-81f6-973950cce5bc",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139347971.4219.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:23.458231+00:00"
+    },
+    {
+      "id": "38fbdee7-bb00-4229-8260-2a2e6962bc46",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131664544.0168.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:21.877919+00:00"
+    },
+    {
+      "id": "8237afc9-b11a-4eec-b3d1-cb366033d5fc",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139347536.036.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:23.29528+00:00"
+    },
+    {
+      "id": "8413b524-24ab-4a9a-9f63-93f470b12f69",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139349213.8584.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:23.908018+00:00"
+    },
+    {
+      "id": "62f52a41-cdd9-4106-8928-4ee83028f5d2",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131663398.6765.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:21.281124+00:00"
+    },
+    {
+      "id": "a6f2971d-5b3b-4fb6-a0ec-71fa968a981b",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131663930.4373.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:21.583919+00:00"
+    },
+    {
+      "id": "7a404afa-6d4a-485b-a574-fd27bd8cccd7",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131665363.6665.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:22.324564+00:00"
+    },
+    {
+      "id": "607d736e-52ab-4f70-88a2-41d44fb3ebc2",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139346952.9504.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:22.998548+00:00"
+    },
+    {
+      "id": "562bbad6-3d06-4ca8-94dc-5612e04c9c2b",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139348585.3047.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:23.606168+00:00"
+    },
+    {
+      "id": "4aab219c-ff82-4e45-a22d-440c3731157a",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779139349547.1936.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:24.074711+00:00"
+    },
+    {
+      "id": "bf65df7a-d508-4e08-aa4f-cdc3fa2758eb",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131395404.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:21.136779+00:00"
+    },
+    {
+      "id": "e9651da0-3811-4a0c-94d0-2edeaba7c637",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131664933.9543.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:22.021285+00:00"
+    },
+    {
+      "id": "52d97307-51d9-461e-8591-95197c562c85",
+      "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3cd884a0-6a5d-4fa3-8236-b26ad818e373/3cd884a0-6a5d-4fa3-8236-b26ad818e373_1779131665988.456.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:22.697275+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [
+      {
+        "id": "0365c776-3914-4606-bd26-010305d96d29",
+        "section_name": "CREATE YOUR MEAL",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+        "sort_order": 0
+      },
+      {
+        "id": "eb013004-666f-477a-a830-50412dcd24c1",
+        "section_name": "CREATE YOUR SPECIALTY MEAL",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+        "sort_order": 0
+      },
+      {
+        "id": "bab9dbb3-9fd3-4b17-8fa8-9a64d58b0d4a",
+        "section_name": "QUICK CHICKS",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+        "sort_order": 0
+      },
+      {
+        "id": "0ba625e5-54db-42bd-aead-20d3f1ec7cf3",
+        "section_name": "LARGE FRESH SIDES",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+        "sort_order": 0
+      },
+      {
+        "id": "0c22a050-ae05-4a64-a258-7502e6b0f0ea",
+        "section_name": "FRESH SIGNATURE SIDES",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+        "sort_order": 0
+      },
+      {
+        "id": "3c9e3f32-a01a-4e93-ad1a-b48a6117c033",
+        "section_name": "Chicken Salads",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "3cd884a0-6a5d-4fa3-8236-b26ad818e373",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": [
+      {
+        "id": "6da8adeb-41ca-4ac5-b64a-87214accff9f",
+        "item_name": "Create Your Meal",
+        "description": "Build your own meal with your choice of 1 or 2 sides, a pickle & a cookie",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "0365c776-3914-4606-bd26-010305d96d29"
+      },
+      {
+        "id": "512f23ce-d6b7-43c1-8f6a-9d1f32a51c03",
+        "item_name": "Large Fresh Sides",
+        "description": "Selection of fresh side dishes in large portions",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "0ba625e5-54db-42bd-aead-20d3f1ec7cf3"
+      },
+      {
+        "id": "41d996ac-c9ed-468f-913c-dc0bbd31f095",
+        "item_name": "Fresh Signature Sides",
+        "description": "Selection of signature side dishes",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "0c22a050-ae05-4a64-a258-7502e6b0f0ea"
+      },
+      {
+        "id": "cc084a14-4ad8-4f2e-ad62-bf6fd78333e0",
+        "item_name": "Jill Pickle",
+        "description": "Limited-time chicken salad, made with diced dill pickles for a refreshing burst of flavor and the perfect balance of savory and bright",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "3c9e3f32-a01a-4e93-ad1a-b48a6117c033"
+      }
+    ]
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

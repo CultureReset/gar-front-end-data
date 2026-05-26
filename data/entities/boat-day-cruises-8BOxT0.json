@@ -1,32 +1,254 @@
 {
-  "id": "d84aed29-33ca-4e26-a2c0-22b950c62b59",
-  "slug": "boat-day-cruises-8BOxT0",
-  "name": "Boat Day Cruises",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 981-6314",
-  "email": null,
-  "website_url": "https://www.boatdaycruises.com/",
-  "address_line_1": "26651 Marina Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.7,
-  "review_count": 15,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/53559501-3856-48db-b0c8-03e9188ed56f/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "d84aed29-33ca-4e26-a2c0-22b950c62b59",
+    "place_id": "ChIJ17kNFCoHmogRt8WpV8BOxT0",
+    "google_maps_uri": "https://maps.google.com/?cid=4451050394737034679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "boat-day-cruises-8BOxT0",
+    "name": "Boat Day Cruises",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": [],
+    "google_type": "fishing_charter",
+    "google_types": [
+      "fishing_charter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-6314",
+    "international_phone": null,
+    "website_url": "https://www.boatdaycruises.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26651 Marina Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2826742,
+    "longitude": -87.5696764,
+    "short_address": "26651 Marina Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 15,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/53559501-3856-48db-b0c8-03e9188ed56f/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 7:30 PM",
+      "Tuesday: 7:00 AM – 7:30 PM",
+      "Wednesday: 7:00 AM – 7:30 PM",
+      "Thursday: 7:00 AM – 7:30 PM",
+      "Friday: 7:00 AM – 7:30 PM",
+      "Saturday: 7:00 AM – 7:30 PM",
+      "Sunday: 7:00 AM – 7:30 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:10.908862+00:00",
+    "updated_at": "2026-05-17T22:22:52.239069+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "03ae65ec-bdb6-4878-a18d-c2927fd2b9a6",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "1f6f805f-efb1-4a7a-b3d5-705337f724ab",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "e1bbdeb4-1bac-4a9e-81d1-0b660dfced15",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "c7e63c33-3516-4e4a-b9da-929634536600",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "1b1871f6-999a-4433-8bf1-c7d087b4e5b6",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "1f22593b-b4a7-4647-aa8f-0037aa4920d0",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "6b64be9b-95d4-45d3-a92d-741b8a511c64",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "d7626aec-a2ab-42ce-b333-96704349939f",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "95024dcf-a3b9-47ea-bd58-83d93f472400",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "0f665c9d-c0ba-47ca-9545-24cc1188d3e4",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "10d663c2-20b1-4508-8701-9314490a9a58",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "183c7dfe-47d3-4087-a274-550f21798e5a",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "7a15966c-0b28-4f3b-8bd3-36f004f5aa44",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "d5c7f70a-6372-447e-8325-f0176abfd24e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "3f0723e9-39b6-4f1b-a3f9-a8a18a458537",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

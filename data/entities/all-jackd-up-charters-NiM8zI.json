@@ -1,157 +1,553 @@
 {
-  "id": "d94d9e9b-a9ff-4f14-8c0c-81b5355838fa",
-  "slug": "all-jackd-up-charters-NiM8zI",
-  "name": "All Jack'd Up Charters",
-  "entity_type": "activity",
-  "entity_subtype": "charter-fishing",
-  "icon": "🏪",
-  "description": "Your happiness is our mission and we go the extra mile to ensure that you and your family are taken care of without compromise. Our trips begin by you allowing us to custom tailor your fishing adventure. We do this in a way that best matches your desires, needs and by always trying to exceed your expectations. We are the leader in family fishing. You will be treated with respect at all times and you will never have to worry about your family's safety when you are with us. Our charter service is profanity-free and \"G\" rated. We are easy-going and laid-back with you and your kids helping them reach our goal to help you catch fish and build memories that will last a lifetime. Families and \"family fishing\" has always been our core business and we strive to be the best on the Gulf Coast. Now, let's get All Jack'd Up together!",
-  "phone": "(850) 384-9059",
-  "email": null,
-  "address_line_1": "13420 Gongora Dr, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": "http://www.alljackdupcharters.com/",
-  "rating": 4.9,
-  "review_count": 43,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "d94d9e9b-a9ff-4f14-8c0c-81b5355838fa",
+    "place_id": "ChIJf0_qEwWlkIgR8f-rjNiM8zI",
+    "google_maps_uri": "https://maps.google.com/?cid=3671432982937993201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "all-jackd-up-charters-NiM8zI",
+    "name": "All Jack'd Up Charters",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "charter-fishing",
+    "secondary_types": [],
+    "google_type": "fishing_charter",
+    "google_types": [
+      "fishing_charter",
+      "tourist_attraction",
+      "tour_agency",
+      "travel_agency",
+      "school",
+      "educational_institution",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 384-9059",
+    "international_phone": null,
+    "website_url": "http://www.alljackdupcharters.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "13420 Gongora Dr, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.308118,
+    "longitude": -87.425597,
+    "short_address": "13420 Gongora Dr, Pensacola",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 43,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Your happiness is our mission and we go the extra mile to ensure that you and your family are taken care of without compromise. Our trips begin by you allowing us to custom tailor your fishing adventure. We do this in a way that best matches your desires, needs and by always trying to exceed your expectations. We are the leader in family fishing. You will be treated with respect at all times and you will never have to worry about your family's safety when you are with us. Our charter service is profanity-free and \"G\" rated. We are easy-going and laid-back with you and your kids helping them reach our goal to help you catch fish and build memories that will last a lifetime. Families and \"family fishing\" has always been our core business and we strive to be the best on the Gulf Coast. Now, let's get All Jack'd Up together!",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/all_jackd_up_charters/",
+    "social_facebook": "https://www.facebook.com/AllJackdUpCharters/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": false,
+      "wheelchairAccessibleRestroom": false
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 5:30 AM – 8:30 PM",
+      "Tuesday: 5:30 AM – 8:30 PM",
+      "Wednesday: 5:30 AM – 8:30 PM",
+      "Thursday: 5:30 AM – 8:30 PM",
+      "Friday: 5:30 AM – 8:30 PM",
+      "Saturday: 5:30 AM – 8:30 PM",
+      "Sunday: 5:30 AM – 8:30 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.923903+00:00",
+    "updated_at": "2026-05-17T21:17:45.022452+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
-      "tag": "red snapper",
-      "tag_category": "type"
-    },
-    {
+      "id": "d16fa39e-65fe-463b-8585-d36b043df4ae",
       "tag": "fishing charter",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "04088c98-7824-4438-b845-45e92b374f22",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "661f591f-b4f8-470c-bb44-185b4fad6d34",
       "tag": "inshore fishing",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "dc221340-6f75-460b-8e9d-2933e4ac87e9",
+      "tag": "inshore fishing",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "756ae90c-d5dd-4aad-b608-a9f1937c3d4d",
+      "tag": "offshore fishing",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "430a7856-90e3-4408-928e-dc9759f763e8",
+      "tag": "offshore fishing",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "233d3c1a-cf4d-48be-b405-35fd3231a9b4",
       "tag": "deep sea fishing",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "9e920120-3d2d-4a99-bf8a-2c40a7bbf42e",
+      "tag": "deep sea fishing",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "45e02b14-bdb3-4e97-a8fb-211fb469e725",
       "tag": "family fishing",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "8cee3193-1ece-4103-b70e-bb49f1cbd3e6",
+      "tag": "family fishing",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "8de6f44e-2863-4ea9-ac34-0a19815c2039",
       "tag": "Gulf Coast",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "7570316c-8fb7-4534-b4ad-aa8c40dea736",
+      "tag": "Gulf Coast",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "f1d673e8-0629-4c69-96ef-45a5acde4d14",
       "tag": "Perdido Key",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "fc77014c-6393-4883-9117-087da8f27433",
+      "tag": "Perdido Key",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "33baf4cb-51d0-462a-ba7a-eb53946b8e67",
       "tag": "Pensacola",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "9e277562-3bcc-4330-90d2-ba6ef07dea15",
+      "tag": "Pensacola",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "5e31c602-b230-4ffc-ab23-a08431342ee1",
       "tag": "Orange Beach",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
+      "id": "9934a1d2-c2e1-42c9-a3cd-f62c0f17af77",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "ed579304-4dd9-4c01-b49f-f7f6a58fb4db",
       "tag": "private charter",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 9
     },
     {
+      "id": "83b2662d-44e6-4ad9-ac74-c7bccf815e82",
+      "tag": "private charter",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "5495120e-9bb8-4c5d-b1fc-42df44214149",
       "tag": "fish species",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "a4141358-a1cb-49a7-91fb-67c6269471c1",
+      "tag": "fish species",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "11101cc3-4bc3-4086-8469-8a3100a84827",
       "tag": "red snapper",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 11
     },
     {
+      "id": "85db74f9-c5bd-4e95-afd6-c90b78c2675e",
+      "tag": "red snapper",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "fbb7d74a-542e-4258-9073-310a063215c9",
       "tag": "grouper",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 12
     },
     {
+      "id": "6bbe3bcc-d9db-4148-80c7-8c3e583e1b8d",
+      "tag": "grouper",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "3a0f0da2-a53a-4b22-be56-b2ee633fef18",
       "tag": "mahi mahi",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 13
     },
     {
+      "id": "08e0f849-ea4f-4a2d-8791-ca4b62126bfc",
+      "tag": "mahi mahi",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "f526990f-89fd-4f2e-8232-71731ef4eb6a",
       "tag": "captain michael choron",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 14
     },
     {
+      "id": "c6edf3b7-eb07-48ab-b317-de91e60cbde9",
+      "tag": "captain michael choron",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "9e552f04-dfbe-4d44-95fb-c45fc0862d91",
       "tag": "Fishing Charters",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 15
     },
     {
+      "id": "b50ae671-96b4-465f-89b1-a14b1be73447",
+      "tag": "Fishing Charters",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "76a532f4-39aa-42e6-b1a8-9ee1c11860ac",
       "tag": "Water Sports",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 16
     },
     {
+      "id": "359cbe13-b7ae-4503-89ae-221ded47609d",
+      "tag": "Water Sports",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "01d6fa67-eb96-461a-bef2-0a864ded9077",
       "tag": "Outdoor Recreation",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 17
     },
     {
+      "id": "f186720a-faa6-4d6e-9e10-2fb3beff4704",
+      "tag": "Outdoor Recreation",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "af93e3ef-3371-44fe-8614-f33804d5e514",
       "tag": "Attractions",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 18
     },
     {
+      "id": "29b11753-f677-4fc0-9b7b-70c88ad941b3",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "1a0ef1c1-ddc2-4bcf-898c-ca52349f1eed",
       "tag": "Tours",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 19
     },
     {
+      "id": "abc388ff-9007-4b7a-bf91-7b3ed2d39e4b",
+      "tag": "Tours",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "0007b7de-94bf-447d-bad2-44a2ec3fffdf",
       "tag": "outdoor-recreation",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 20
     },
     {
+      "id": "844069fa-63be-4c69-9343-0e022ffa145c",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 20
+    },
+    {
+      "id": "02eb62a5-b23d-4a4e-8453-2a228fabf3e0",
       "tag": "charter-fishing",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 21
     },
     {
+      "id": "d07b6673-92f0-4f16-99ac-f450e57a6c14",
+      "tag": "charter-fishing",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "3557632c-5b3e-4568-bdf0-a9d52bd62121",
       "tag": "fishing_charter",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 22
     },
     {
+      "id": "6acd256c-38b4-4101-9dc7-c5d73c7f31a9",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "032c519d-6568-488f-8c11-1f3fc1608197",
       "tag": "tour_agency",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 23
     },
     {
+      "id": "fc91309b-ca99-4dfb-963c-0124cf6dd954",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "76f7ac53-bb31-4252-b492-d67614d16ce8",
       "tag": "tourist_attraction",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 24
     },
     {
+      "id": "acf86320-6089-4f75-b584-5988dfc5be92",
+      "tag": "tourist_attraction",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "090c33c6-8306-45a0-8687-2ba3fac4e23e",
       "tag": "travel_agency",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 25
     },
     {
+      "id": "9aea69d2-883e-4902-bafe-c647b8845c70",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "eea0e79a-a958-4357-b01a-21f446815595",
       "tag": "school",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 26
     },
     {
+      "id": "0d6fbe14-b982-4bd2-8f8b-b62ed0678bd5",
+      "tag": "school",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "d5a02761-fdd9-422a-8a98-cab407eab40d",
       "tag": "educational_institution",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 27
     },
     {
+      "id": "ebdb82b0-ee40-4a4c-9092-5c4f40c081d5",
+      "tag": "educational_institution",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "bd02c77e-dd6e-474a-8d64-da1e66bebf10",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 28
     },
     {
+      "id": "ab41dc91-48d0-4229-beb7-79af7668131c",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "493fa414-83f1-4477-b689-85e8ec374601",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 29
     },
     {
+      "id": "725b8329-c4de-43fa-abd6-c422de41c7cf",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "025e821c-047b-4c4f-9c8d-19668e6a5adb",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 30
+    },
+    {
+      "id": "28f17434-c7de-4148-884c-294227d6191c",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 30
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "34abe0cf-c804-4afc-aeb2-a44a4f17204b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

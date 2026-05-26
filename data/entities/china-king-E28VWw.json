@@ -1,32 +1,381 @@
 {
-  "id": "cbac1be7-f72a-4b4f-a09b-71c4bb36698f",
-  "slug": "china-king-E28VWw",
-  "name": "China King",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Shopping-center destination for Chinese soups, meat & seafood dishes, plus lunch specials.",
-  "phone": "(251) 224-1888",
-  "email": null,
-  "website_url": "http://www.chinakingal.com/",
-  "address_line_1": "25637 Canal Rd Unit G, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.1,
-  "review_count": 325,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/8034552e-cad9-4d71-8066-f7fc312b9d13/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "cbac1be7-f72a-4b4f-a09b-71c4bb36698f",
+    "place_id": "ChIJM4fXFU8GmogRK84dyE28VWw",
+    "google_maps_uri": "https://maps.google.com/?cid=7806352571372523051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "china-king-E28VWw",
+    "name": "China King",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "chinese_restaurant",
+    "google_types": [
+      "chinese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 224-1888",
+    "international_phone": null,
+    "website_url": "http://www.chinakingal.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25637 Canal Rd Unit G, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2911417,
+    "longitude": -87.5874286,
+    "short_address": "25637 Canal Rd Unit G, Orange Beach",
+    "plus_code": null,
+    "rating": 4.1,
+    "review_count": 325,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Shopping-center destination for Chinese soups, meat & seafood dishes, plus lunch specials.",
+    "description": "Shopping-center destination for Chinese soups, meat & seafood dishes, plus lunch specials.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/8034552e-cad9-4d71-8066-f7fc312b9d13/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:30 AM ��� 10:00 PM",
+      "Tuesday: 10:30 AM – 10:00 PM",
+      "Wednesday: 10:30 AM – 10:00 PM",
+      "Thursday: 10:30 AM – 10:00 PM",
+      "Friday: 10:30 AM – 10:00 PM",
+      "Saturday: 10:30 AM – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.904525+00:00",
+    "updated_at": "2026-05-17T22:22:53.304835+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "a8ce0dc1-6ea9-4ef9-be44-670d1a57bee7",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "b832d7dd-01c9-4080-a681-6c701b6f16d1",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "a6e13b1f-295d-4f36-9f2a-b88e7cc6f796",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "26a0a62d-1da8-4c11-a5c1-06ae108ff8d3",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "f34fcb81-3414-403c-9de9-61eb71e23246",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "f2d4d14b-ebba-4066-99b7-f2cef7c8e3d7",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "e2c617ec-5372-498c-9b53-bddc5a4e9222",
+      "tag": "chinese restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "fb72cefc-7593-494c-a3a8-33037678e3c5",
+      "tag": "chinese restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "c2c1d4dc-76a8-494c-ac5e-2ecf66b9f109",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "a23338b4-06cb-416b-ade7-13aa8aea5c4f",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "35fc6bbd-e0b2-44d3-99ea-490e5bd22929",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "3445ea51-bfc1-4d56-9343-587d86fd661e",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "1758cdbe-89f4-456b-9f08-dbb51abda3a2",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "6d434332-d9ab-4f15-b015-3eb5d3d5a2dd",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "9af1b61c-8744-403d-9346-bdd09fa5c215",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "f5317db5-5feb-43ed-aba4-0c3c9085bb1c",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "954c44b6-e862-4ae0-a1a3-84c42722b48a",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 8
+    },
+    {
+      "id": "03075e3b-167f-4a64-a5f2-06aff91a4101",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 8
+    },
+    {
+      "id": "658b9bd2-daa9-4fdb-82be-83c65fab4a47",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "d27ff47c-fe70-40ba-97e0-07d161d5e284",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "69534cc2-ed9d-456f-8fd9-e99584f11882",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "73b1731e-6f45-4442-9c73-4e50e837e344",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "35d39871-104d-47d9-b127-2331d1b94d84",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "70b54d3e-cd2f-4b2e-9fc8-b520b1889e26",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "a5ea406f-6602-4125-85f9-2f0e0c87346f",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "6650d604-d4f9-4fc8-82ee-d078e5e7ac79",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "06ce5a4f-73e2-4bc2-9b59-7396a598956b",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "c1c0e7cf-9ec6-4a06-b5ec-7b79233c398d",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "37894c6f-8650-4a9b-a818-0b9bceb4bcae",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "a297c49b-cba8-43f7-b06f-9661206619e9",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "18fed3bf-6e48-4c6a-a76c-21719191a5f2",
+      "tag": "chinese_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "9da230d9-ae5f-4324-8865-3546307a98d9",
+      "tag": "chinese_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "51023a1c-a744-401b-b99f-04719c329e06",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "9890faaf-e133-4e39-8a22-4a219ea6b3cb",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 16
+    }
+  ],
+  "sections": [
+    {
+      "id": "271c1531-719c-43e4-bb9c-4e94ce311e5e",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

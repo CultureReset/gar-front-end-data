@@ -1,32 +1,246 @@
 {
-  "id": "cc65c21b-780c-456f-8315-ebab3a7a91d2",
-  "slug": "austin-massage-T23sbo",
-  "name": "Austin Massage",
-  "entity_type": "service",
-  "entity_subtype": "massage",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 272-9191",
-  "email": null,
-  "website_url": "https://austin.massagetherapy.com/",
-  "address_line_1": "1574 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.9,
-  "review_count": 394,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/cc65c21b-780c-456f-8315-ebab3a7a91d2/cc65c21b-780c-456f-8315-ebab3a7a91d2_1779139775500.696.jpg",
-  "photos": [],
+  "entity": {
+    "id": "cc65c21b-780c-456f-8315-ebab3a7a91d2",
+    "place_id": "ChIJEYtUbNAEmogR8ii1bT23sbo",
+    "google_maps_uri": "https://maps.google.com/?cid=13452735036393859314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "austin-massage-T23sbo",
+    "name": "Austin Massage",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "massage",
+    "secondary_types": [],
+    "google_type": "massage",
+    "google_types": [
+      "massage",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 272-9191",
+    "international_phone": null,
+    "website_url": "https://austin.massagetherapy.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1574 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2676143,
+    "longitude": -87.6881103,
+    "short_address": "1574 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 394,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/cc65c21b-780c-456f-8315-ebab3a7a91d2/cc65c21b-780c-456f-8315-ebab3a7a91d2_1779139775500.696.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.140955+00:00",
+    "updated_at": "2026-05-18T21:29:40.467461+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "9d1773d6-1389-4592-b823-3d0dc679a678",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "7726dab5-6a97-487e-9da7-d8ac597bb41a",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "3c3159f4-8841-4917-84bf-9ff512be9dc7",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "785bbd4b-bc4e-41c1-9dab-00a59a45545e",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "3e8d44b5-df99-4538-b38b-f61b4f756019",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "4944851c-f7b5-4fc0-a1ee-93858f66462e",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "a99c46d5-7b91-4199-a782-c6b26f7b173f",
+      "tag": "massage",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "4bd0751c-f784-4bc3-8e2c-5ac6ec345a79",
+      "tag": "massage",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "c5ccc25c-3ee1-4a85-b0bf-2b1838b2e8a7",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "493fae92-05e9-47c3-8765-e62a7ffc5c72",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "cfc674d1-9201-4d26-9b8b-31f50ebbef12",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "666b629f-dbfc-4f14-91cc-15f59b4868e6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "5b7036cd-e93a-47aa-aa32-7fc8d2e734c4",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

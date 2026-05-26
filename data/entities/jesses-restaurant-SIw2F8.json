@@ -1,32 +1,711 @@
 {
-  "id": "9749e787-7b30-4257-ae7b-561c4e053b87",
-  "slug": "jesses-restaurant-SIw2F8",
-  "name": "Jesses Restaurant",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Jesse's Restaurant offers a comfortable and inviting atmosphere that is perfect for a casual fine dining experience. Their menu features flavorful and innovative dishes that are created with fresh, locally sourced ingredients, as well as hand-crafted cocktails and a diverse selection of wines. Jesse's is committed to providing exceptional, personalized service and an unparalleled dining experience that keep their customers coming back for more. Whether you are celebrating a special occasion or simply looking to enjoy a delicious meal with friends and family, Jesse's Restaurant is the perfect destination for a memorable dining experience.",
-  "phone": "(251) 965-3827",
-  "email": null,
-  "address_line_1": "14770 Oak St, Magnolia Springs, AL 36555, USA",
-  "city": "Magnolia Springs",
-  "state": "AL",
-  "zip": "36555",
-  "website_url": "http://www.jessesrestaurant.com/",
-  "rating": 4.7,
-  "review_count": 2077,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "9749e787-7b30-4257-ae7b-561c4e053b87",
+    "place_id": "ChIJCeULprQWmogRuRjQVSIw2F8",
+    "google_maps_uri": "https://maps.google.com/?cid=6906322952599378105&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "jesses-restaurant-SIw2F8",
+    "name": "Jesses Restaurant",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "restaurant",
+      "family_restaurant",
+      "american_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 965-3827",
+    "international_phone": null,
+    "website_url": "http://www.jessesrestaurant.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "14770 Oak St, Magnolia Springs, AL 36555, USA",
+    "address_line_2": null,
+    "city": "Magnolia Springs",
+    "state": "AL",
+    "zip": "36555",
+    "latitude": 30.4012808,
+    "longitude": -87.7706391,
+    "short_address": "14770 Oak St, Magnolia Springs",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 2077,
+    "price_level": "EXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Relaxed restaurant serving sandwiches, steak & seafood in a former general store.",
+    "description": "Jesse's Restaurant offers a comfortable and inviting atmosphere that is perfect for a casual fine dining experience. Their menu features flavorful and innovative dishes that are created with fresh, locally sourced ingredients, as well as hand-crafted cocktails and a diverse selection of wines. Jesse's is committed to providing exceptional, personalized service and an unparalleled dining experience that keep their customers coming back for more. Whether you are celebrating a special occasion or simply looking to enjoy a delicious meal with friends and family, Jesse's Restaurant is the perfect destination for a memorable dining experience.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://www.jessesrestaurant.com/",
+      "pages": [],
+      "pdfUrls": [],
+      "scraper": "chrome-visible",
+      "pdfTexts": [],
+      "imageUrls": [],
+      "scraped_at": "2026-03-22T09:18:18.470Z",
+      "business_name": "Jesses Restaurant"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.040151+00:00",
+    "updated_at": "2026-05-17T21:17:42.263382+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "0835c663-8afd-42cf-84a9-d99f0716250d",
+      "tag": "fine-dining",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "04597c54-a76e-468c-b797-55b8bcb4c1ee",
+      "tag": "fine-dining",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "43efd114-8409-4521-8f2e-1e4727fbddc1",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "c0fc042f-eb93-472a-b986-f4823ed2d0c8",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "908a404e-9079-47da-891c-24e0d134b1e7",
+      "tag": "fresh-ingredients",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "c4f5d540-7a71-42ed-8b3d-9757bfd099fe",
+      "tag": "fresh-ingredients",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "b14509b8-25c5-4f00-be86-5e63edfca261",
+      "tag": "locally-sourced",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "9230824e-2186-481e-b9f7-0b59e803579a",
+      "tag": "locally-sourced",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "c9472810-e55a-47c5-8269-0bafee1c6014",
+      "tag": "hand-crafted-cocktails",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "449e70df-394b-4b13-b7ff-9dfe0a4b67d5",
+      "tag": "hand-crafted-cocktails",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "e2aa4d85-649f-4005-812b-679e241fd226",
+      "tag": "wine-selection",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "478a3fd6-b5d5-417c-83fb-1f537c10027e",
+      "tag": "wine-selection",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "1af00721-6a47-452e-8bca-d1cdab6b962d",
+      "tag": "special-occasions",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "d4ae4fa8-3acf-44cf-9a87-928ea6dbb9e9",
+      "tag": "special-occasions",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "219a1857-e4b9-4ac8-aa35-6367860be472",
+      "tag": "waterfront-dining",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "6ddb95de-d4b6-4c75-b2f3-c79c86362def",
+      "tag": "waterfront-dining",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "3b990ac5-458b-454b-94ce-97ca291e935a",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 8
+    },
+    {
+      "id": "dba76c1e-6c7c-4dd5-a2b1-810846400968",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 8
+    },
+    {
+      "id": "4ffba667-07a5-4f78-bba6-56c93147cbaa",
+      "tag": "fine dining",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "3ac6b4f9-86e3-4ce3-98b2-024ddf493382",
+      "tag": "fine dining",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "579be140-1c58-4033-8aa2-4c87a7e33f88",
+      "tag": "casual fine dining",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "e24e8db6-5cae-4101-b6f5-9588b49d651c",
+      "tag": "casual fine dining",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "6ecb6c8b-b67c-4503-bdb5-e9677485379d",
+      "tag": "locally sourced ingredients",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "d949beb8-e81b-47df-a7a3-50a379d1fcc1",
+      "tag": "locally sourced ingredients",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "3669bce3-75cd-4444-8a95-65801093b21b",
+      "tag": "hand-crafted cocktails",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "3ac0ddc7-a3b7-4c53-8288-3598c98511cf",
+      "tag": "hand-crafted cocktails",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "d2540a42-3e69-4b55-acd5-fb7f6c673466",
+      "tag": "diverse wine selection",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "c9b23cf5-aafa-4ab2-b438-1bc34e58efb0",
+      "tag": "diverse wine selection",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "7aad072b-5ffa-416d-89bb-5dbe22049ef6",
+      "tag": "Gulf Coast",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "4ad77e24-8a87-4cf8-afac-d7456dfa2dab",
+      "tag": "Gulf Coast",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "ab5b88d4-40ea-46de-a9a1-41c81558aa33",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "d6c218fc-39a2-45f4-9811-d998da731291",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "3ded242a-d5dd-4e7e-ac18-d2819cfe2a0e",
+      "tag": "seafood",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "cf817d85-c21a-46e0-a629-1e5ab580c0a7",
+      "tag": "seafood",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "415b3fde-a679-4cab-9aac-6fecd0ca8ad0",
+      "tag": "innovative dishes",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "86717203-062c-44db-a333-4c6feecbc981",
+      "tag": "innovative dishes",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "696412a5-5622-49d8-8ea5-bb70dbffb2c1",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "29ad5c9c-de9d-4f02-a38a-ae4f3b3410e2",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "ceac5daa-34f5-415d-a34f-636b292d9975",
+      "tag": "Fine Dining",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "98e8fedf-461e-4447-80b8-a24cfc325099",
+      "tag": "Fine Dining",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "42b36bd2-0d13-4194-a0af-bdbf4860b720",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "d5b25623-1eb7-420f-bccd-ec6236f1acc3",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "997e2c76-c921-4394-9e2c-d74370a83a5a",
+      "tag": "Bars & Lounges",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "2c13876a-f91d-4d51-925b-8bc07221a9f5",
+      "tag": "Bars & Lounges",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "b10fbe8e-2f79-456c-9b1b-aa2f476f8554",
+      "tag": "Gulf Coast Restaurants",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "1a95ca56-4f86-43a5-b579-fd3aef3db582",
+      "tag": "Gulf Coast Restaurants",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "bac79b3c-1cd6-45d3-9005-d5d99be4cade",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 23
+    },
+    {
+      "id": "24c1f5f6-7d33-4454-b904-76faff0d9268",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 23
+    },
+    {
+      "id": "9029a215-c5ee-47c1-a80b-741784a18a15",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "b16ad1b2-b0c5-464c-86ba-13670fd4f8c4",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "e4cd4fc9-b0f0-42b7-b599-82a1d7ae54f6",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 25
+    },
+    {
+      "id": "6175f553-dbda-4a54-a28e-ab06279ac635",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 25
+    },
+    {
+      "id": "194fad74-a237-4963-aa0e-4c45c0b146ab",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 26
+    },
+    {
+      "id": "117c9ea2-2af1-428a-875b-fa2c3833efb6",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 26
+    },
+    {
+      "id": "82178a83-e7b9-451a-a431-21fb86194caf",
+      "tag": "family_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "00e6d62f-f034-4bb4-94f4-1651b99ead20",
+      "tag": "family_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "ae7a49c2-8a18-4e83-a747-45356ccfd928",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "39280929-cceb-4e7f-bb50-b88b4d63ae37",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "618c96c7-8179-4a48-b67b-cfc0b05db2ce",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "e35fab07-94a6-4826-804f-60d0722227f2",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "c1c3df60-35bf-4593-8e1d-49234ea17643",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 30
+    },
+    {
+      "id": "4d131900-b447-4ea6-875a-1098e1cf0fe4",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 30
+    },
+    {
+      "id": "f719b598-7c3d-43a3-9d2a-da9cd3e8a013",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "1e805e59-06d0-4934-87cf-1277c1d24cf6",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 31
+    }
+  ],
+  "sections": [
+    {
+      "id": "df66bd02-1057-4784-bd8d-31b31e1bf9d3",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
   "photos": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "4ba28e6f-2547-4937-94af-d01f6e01a63a",
+      "entity_id": "9749e787-7b30-4257-ae7b-561c4e053b87",
+      "place_id": "ChIJL3RjNOYHmogRr6ty7giLZ2U",
+      "event_name": "Riley Lynn | Zeke's Restaurant | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Riley Lynn",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:14.281877+00:00"
+    },
+    {
+      "id": "9311e718-7f79-41a3-8ff9-4feabe9c05f3",
+      "entity_id": "9749e787-7b30-4257-ae7b-561c4e053b87",
+      "place_id": "ChIJL3RjNOYHmogRr6ty7giLZ2U",
+      "event_name": "Chris Hergenroder | Zeke’s Restaurant | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Chris Hergenroder",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:14.436737+00:00"
+    },
+    {
+      "id": "dee275f1-0b28-41a7-960f-ad48823077f5",
+      "entity_id": "9749e787-7b30-4257-ae7b-561c4e053b87",
+      "place_id": "ChIJL3RjNOYHmogRr6ty7giLZ2U",
+      "event_name": "Riley Lynn | Zeke's Restaurant | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Riley Lynn",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:14.5088+00:00"
+    },
+    {
+      "id": "e643d735-a342-4c0e-9b3a-ba5ee49c783a",
+      "entity_id": "9749e787-7b30-4257-ae7b-561c4e053b87",
+      "place_id": "ChIJL3RjNOYHmogRr6ty7giLZ2U",
+      "event_name": "Ariel Casey Acoustic | Zeke’s Restaurant | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Ariel Casey Acoustic",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:14.578898+00:00"
+    },
+    {
+      "id": "6a717a1e-503b-43ba-9bcc-560cb90ec431",
+      "entity_id": "9749e787-7b30-4257-ae7b-561c4e053b87",
+      "place_id": "ChIJL3RjNOYHmogRr6ty7giLZ2U",
+      "event_name": "Andy Lyle Hall | Zeke’s Restaurant | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Andy Lyle Hall",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:14.210481+00:00"
+    },
+    {
+      "id": "36b635ad-791b-4169-a7cf-18e75829c83a",
+      "entity_id": "9749e787-7b30-4257-ae7b-561c4e053b87",
+      "place_id": "ChIJL3RjNOYHmogRr6ty7giLZ2U",
+      "event_name": "Ronnie Presley | Zeke’s Restaurant | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Ronnie Presley",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:14.358753+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

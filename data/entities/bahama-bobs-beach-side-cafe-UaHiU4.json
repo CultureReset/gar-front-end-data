@@ -1,32 +1,1387 @@
 {
-  "id": "84157877-e26b-47c7-980f-f3e52dfe1d79",
-  "slug": "bahama-bobs-beach-side-cafe-UaHiU4",
-  "name": "Bahama Bob's Beach Side Cafe",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurants",
-  "icon": "🏪",
-  "description": "Bahama Bob's is a beachside restaurant in Gulf Shores, Alabama, offering fresh seafood, burgers, and classic beach fare. Known for generous portions, crispy fries, excellent service, and a friendly, welcoming atmosphere. A local favorite for lunch and dinner with a cozy, clean dining environment perfect for families and groups.",
-  "phone": "(251) 948-2100",
-  "email": null,
-  "website_url": "http://www.bahamabobs.com/",
-  "address_line_1": "601 W Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.5,
-  "review_count": 4372,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/84157877-e26b-47c7-980f-f3e52dfe1d79/84157877-e26b-47c7-980f-f3e52dfe1d79_1779139749311.1228.jpg",
-  "photos": [],
+  "entity": {
+    "id": "84157877-e26b-47c7-980f-f3e52dfe1d79",
+    "place_id": "ChIJp9uFwkwbmogR7uZI2UaHiU4",
+    "google_maps_uri": "https://maps.google.com/?cid=5659203145130632942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "bahama-bobs-beach-side-cafe-UaHiU4",
+    "name": "Bahama Bob's Beach Side Cafe",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurants",
+    "secondary_types": [],
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "seafood_restaurant",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-2100",
+    "international_phone": null,
+    "website_url": "http://www.bahamabobs.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "601 W Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2463987,
+    "longitude": -87.6986501,
+    "short_address": "601 W Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 4372,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Seafood shack amid the sand dunes serving Caribbean & Southern-style eats steps from the water.",
+    "description": "Bahama Bob's is a beachside restaurant in Gulf Shores, Alabama, offering fresh seafood, burgers, and classic beach fare. Known for generous portions, crispy fries, excellent service, and a friendly, welcoming atmosphere. A local favorite for lunch and dinner with a cozy, clean dining environment perfect for families and groups.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/84157877-e26b-47c7-980f-f3e52dfe1d79/84157877-e26b-47c7-980f-f3e52dfe1d79_1779139749311.1228.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/Bahama-Bobs-102198286490359/",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Appetizers",
+          "items": [
+            {
+              "name": "16 Wings",
+              "tags": [],
+              "price": 27.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "8 Wings",
+              "tags": [],
+              "price": 15.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Alligator Bites",
+              "tags": [],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": "An island specialty! Gator tail lightly breaded and deep fried. Served with Gator Sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Bimini Steamed Shrimp",
+              "tags": [],
+              "price": 14.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Steamed in our island spices. 1/2 lb U peel-em",
+              "subcategory": null
+            },
+            {
+              "name": "Boneless Wings",
+              "tags": [],
+              "price": 12.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cheese Stix",
+              "tags": [],
+              "price": 10.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with a tasty marinara sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Cheese & Jalapenos Stuffed Shrimp",
+              "tags": [
+                "spicy"
+              ],
+              "price": 13.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Jumbo shrimp stuffed with cheese & jalapenos lightly breaded and fried to perfection!",
+              "subcategory": null
+            },
+            {
+              "name": "Crab Cay Crab Claws SMALL",
+              "tags": [],
+              "price": 40.99,
+              "dietary": [],
+              "popular": false,
+              "description": "A local favorite, served with cocktail sauce. Fried or scampi style* (Tossed in garlic butter and topped with herbs and Parmesan cheese)",
+              "subcategory": null
+            },
+            {
+              "name": "Crab Cay Crab Claws LARGE",
+              "tags": [],
+              "price": 25.99,
+              "dietary": [],
+              "popular": false,
+              "description": "A local favorite, served with cocktail sauce. Fried or scampi style* (Tossed in garlic butter and topped with herbs and Parmesan cheese)",
+              "subcategory": null
+            },
+            {
+              "name": "Coconut Fried Shrimp Appetizer",
+              "tags": [],
+              "price": 15.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Jumbo shrimp fried in a coconut batter.",
+              "subcategory": null
+            },
+            {
+              "name": "Spicy Cajun Fried Crawfish Tails",
+              "tags": [
+                "spicy"
+              ],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Cajun popcorn! Served with a zesty dipping sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Pickles",
+              "tags": [],
+              "price": 9.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Generous portion of dill pickle slices.",
+              "subcategory": null
+            },
+            {
+              "name": "Gumbo Bowl",
+              "tags": [],
+              "price": 10.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Loaded with seafood & fresh veggies.",
+              "subcategory": null
+            },
+            {
+              "name": "Gumbo Cup",
+              "tags": [],
+              "price": 7.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Loaded with seafood & fresh veggies.",
+              "subcategory": null
+            },
+            {
+              "name": "Hush Puppies",
+              "tags": [],
+              "price": 6.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Popcorn Shrimp App",
+              "tags": [],
+              "price": 15.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fried to perfection! Grilled, Blackened or Buffalo style.",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Mushrooms",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 10.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Lightly breaded and deep fried. Served with Ranch dressing.",
+              "subcategory": null
+            },
+            {
+              "name": "Smoked Tuna Dip",
+              "tags": [],
+              "price": 9.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Smoked Yellowfin Tuna blended with just a hint of spice.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Sandwiches",
+          "items": [
+            {
+              "name": "1/2 Shrimp 1/2 Oyster PoBoy",
+              "tags": [],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "PoBoys"
+            },
+            {
+              "name": "Alligator PoBoy",
+              "tags": [],
+              "price": 24.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "PoBoys"
+            },
+            {
+              "name": "Cold Shrimp Salad PoBoy",
+              "tags": [],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "PoBoys"
+            },
+            {
+              "name": "Crawfish PoBoy",
+              "tags": [],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "PoBoys"
+            },
+            {
+              "name": "Fish PoBoy",
+              "tags": [],
+              "price": 15.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "PoBoys"
+            },
+            {
+              "name": "Oyster PoBoy",
+              "tags": [],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "PoBoys"
+            },
+            {
+              "name": "Shrimp PoBoy",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "PoBoys"
+            },
+            {
+              "name": "Trigger PoBoy",
+              "tags": [],
+              "price": 21.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "PoBoys"
+            },
+            {
+              "name": "Crabby Patty",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Crab and shrimp lightly dusted in Panko breading and fried. Served with Remoulade sauce.",
+              "subcategory": "Sandwiches"
+            },
+            {
+              "name": "Flounder Sandwich",
+              "tags": [],
+              "price": 15.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Sandwiches"
+            },
+            {
+              "name": "Trigger Sandwich",
+              "tags": [],
+              "price": 21.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Sandwiches"
+            },
+            {
+              "name": "Tuna Sandwich Grilled",
+              "tags": [],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Sandwiches"
+            },
+            {
+              "name": "Chicken Sandwich",
+              "tags": [],
+              "price": 15.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Sandwiches"
+            },
+            {
+              "name": "Bob Burger",
+              "tags": [],
+              "price": 18.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Burgers"
+            },
+            {
+              "name": "Hamburger",
+              "tags": [],
+              "price": 13.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Burgers"
+            },
+            {
+              "name": "Cheeseburger",
+              "tags": [],
+              "price": 15.49,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Burgers"
+            }
+          ],
+          "description": "All PoBoys served on New Orleans style French bread. All sandwiches served on a fresh bun with lettuce & tomato."
+        },
+        {
+          "name": "Entrees",
+          "items": [
+            {
+              "name": "Grilled Shrimp & Scallop Combo",
+              "tags": [],
+              "price": 22.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Skewer of grilled shrimp and scallops.",
+              "subcategory": null
+            },
+            {
+              "name": "Grand Bahama Chicken",
+              "tags": [],
+              "price": 18.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Chicken breast topped with grilled pineapple.",
+              "subcategory": null
+            },
+            {
+              "name": "Baked White Fish",
+              "tags": [],
+              "price": 22.99,
+              "dietary": [],
+              "popular": false,
+              "description": "White fish filet glazed with our special seasoning and char-grilled.",
+              "subcategory": null
+            },
+            {
+              "name": "Big Kahuna",
+              "tags": [],
+              "price": 42.99,
+              "dietary": [],
+              "popular": false,
+              "description": "A large choice, hand-cut USDA steak char-grilled to order. Doesn't get any better!",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Captain's Platter",
+              "tags": [],
+              "price": 35.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Shrimp, oysters, and flounder plus stuffed shrimp, coconut shrimp and scallops. (no Substitutions)",
+              "subcategory": null
+            },
+            {
+              "name": "Coconut Shrimp Dinner",
+              "tags": [],
+              "price": 23.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Captain Steve's deep fried coconut battered shrimp, served with a zesty dipping sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Crab Legs 1LB",
+              "tags": [],
+              "price": 39.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Some of the largest sized crab legs steamed in our special spices. Served with garlic butter.",
+              "subcategory": null
+            },
+            {
+              "name": "Crab Legs 2LB",
+              "tags": [],
+              "price": 69.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Some of the largest sized crab legs steamed in our special spices. Served with garlic butter.",
+              "subcategory": null
+            },
+            {
+              "name": "Crab Legs 3LB",
+              "tags": [],
+              "price": 99.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Some of the largest sized crab legs steamed in our special spices. Served with garlic butter.",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Crawfish Dinner",
+              "tags": [],
+              "price": 26.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Tender, sweet crawfish, lightly breaded and deep fried.",
+              "subcategory": null
+            },
+            {
+              "name": "Flounder Dinner",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh catch flounder filet cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Oyster Dinner",
+              "tags": [],
+              "price": 22.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Plump oysters deep fried to perfection.",
+              "subcategory": null
+            },
+            {
+              "name": "Pecan White Fish",
+              "tags": [],
+              "price": 22.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Pecan crusted filet fried to a golden brown served over a bed of French Fries. Comes with Fries and Cole Slaw.",
+              "subcategory": null
+            },
+            {
+              "name": "Popcorn Shrimp Dinner",
+              "tags": [],
+              "price": 22.99,
+              "dietary": [],
+              "popular": false,
+              "description": "One half pound of fried popcorn shrimp.",
+              "subcategory": null
+            },
+            {
+              "name": "Scallops Dinner",
+              "tags": [],
+              "price": 23.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Seafood Platter",
+              "tags": [],
+              "price": 26.99,
+              "dietary": [],
+              "popular": false,
+              "description": "A combination of large shrimp, oysters, and flounder. (no Substitutions)",
+              "subcategory": null
+            },
+            {
+              "name": "Shrimp Dinner",
+              "tags": [],
+              "price": 20.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Gulf shrimp cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Steamed Island Combo",
+              "tags": [],
+              "price": 41.99,
+              "dietary": [],
+              "popular": false,
+              "description": "One pound of Steamed Deep-Water Reds combined with Crab Legs. Served with garlic butter.",
+              "subcategory": null
+            },
+            {
+              "name": "Steamed Deep-Water Reds",
+              "tags": [],
+              "price": 29.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Pound of tender deep-water shrimp in the rough, spiced and steamed just right. Served with garlic butter.",
+              "subcategory": null
+            },
+            {
+              "name": "Trigger Dinner",
+              "tags": [],
+              "price": 23.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Trigger Filet cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Tuna Dinner Grilled",
+              "tags": [],
+              "price": 22.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Yellowfin Tuna seasoned and grilled to order.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Chicken Salad",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice. Topped with chicken cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Cold Shrimp Salad",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Crawfish Salad",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice. Topped with fried crawfish.",
+              "subcategory": null
+            },
+            {
+              "name": "Fish Salad",
+              "tags": [],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice. Topped with white fish filet cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Oyster Salad",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice. Topped with fried oysters.",
+              "subcategory": null
+            },
+            {
+              "name": "House Salad",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 6.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice.",
+              "subcategory": null
+            },
+            {
+              "name": "Plain Large Salad",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 10.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice.",
+              "subcategory": null
+            },
+            {
+              "name": "Popcorn Shrimp Salad",
+              "tags": [],
+              "price": 18.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice. Topped with popcorn shrimp cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Scallop Salad",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice. Topped with scallops cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Shrimp Salad",
+              "tags": [],
+              "price": 18.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice. Topped with Gulf Shrimp cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Trigger Salad",
+              "tags": [],
+              "price": 21.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice. Topped with trigger filet cooked to your liking.",
+              "subcategory": null
+            },
+            {
+              "name": "Tuna Salad Grilled",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice. Topped with grilled tuna filet.",
+              "subcategory": null
+            }
+          ],
+          "description": "Fresh garden greens garnished with cheese, tomatoes, cucumbers, carrots, onions and topped with dressing of your choice."
+        },
+        {
+          "name": "Sides",
+          "items": [
+            {
+              "name": "Broccoli",
+              "tags": [
+                "vegetarian",
+                "gluten-free"
+              ],
+              "price": 5.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Dinner Roll",
+              "tags": [],
+              "price": 1.25,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Fries",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 5.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Green Beans",
+              "tags": [
+                "vegetarian",
+                "gluten-free"
+              ],
+              "price": 3.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "House Salad Side",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 6.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "New Potatoes",
+              "tags": [
+                "vegetarian",
+                "gluten-free"
+              ],
+              "price": 2.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Onion Rings",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 5.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Rice",
+              "tags": [
+                "vegetarian",
+                "gluten-free"
+              ],
+              "price": 2.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Slaw",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 2.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Vegetable of the Day",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 3.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Kids",
+          "items": [
+            {
+              "name": "Kid Burger",
+              "tags": [],
+              "price": 10,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with a side.",
+              "subcategory": null
+            },
+            {
+              "name": "Kid Cheeseburger",
+              "tags": [],
+              "price": 10,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with a side.",
+              "subcategory": null
+            },
+            {
+              "name": "Kid Chicken",
+              "tags": [],
+              "price": 10,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with a side.",
+              "subcategory": null
+            },
+            {
+              "name": "Kid Dog",
+              "tags": [],
+              "price": 10,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with a side.",
+              "subcategory": null
+            },
+            {
+              "name": "Kid Fish",
+              "tags": [],
+              "price": 10,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with a side.",
+              "subcategory": null
+            },
+            {
+              "name": "Kid Grilled Cheese",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 10,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with a side.",
+              "subcategory": null
+            },
+            {
+              "name": "Kid Shrimp",
+              "tags": [],
+              "price": 10,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": "Served with a side."
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Ice Cream - Bowl",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 5.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Ice Cream - Cup",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 2.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Key Lime Pie",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 5.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Peanut Butter Pie",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 8.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Salted Caramel Cheesecake",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 6.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Toppings",
+              "tags": [],
+              "price": 0.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Beverages",
+          "items": [
+            {
+              "name": "Tea or Soft Drink",
+              "tags": [],
+              "price": 2.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Coffee",
+              "tags": [],
+              "price": 3.49,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Milk",
+              "tags": [],
+              "price": 3.49,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Chocolate Milk",
+              "tags": [],
+              "price": 3.49,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "OJ",
+              "tags": [],
+              "price": 3.49,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cranberry Juice",
+              "tags": [],
+              "price": 3.49,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Grapefruit Juice",
+              "tags": [],
+              "price": 3.49,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Shirley Temple",
+              "tags": [],
+              "price": 3.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Virgin Mary",
+              "tags": [],
+              "price": 3.49,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data",
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.691199+00:00",
+    "updated_at": "2026-05-21T06:05:39.639543+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": "high",
+    "extraction_timestamp": "2026-05-21T06:05:36.853+00:00",
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "e687cdb9-434a-4524-a4d5-27b17961d5fe",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "baf2bda5-0740-41e1-ac15-417230c8c342",
+      "tag": "burgers",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "6fd9e777-d042-4f7c-b513-045c9efae546",
+      "tag": "casual_dining",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "26f22dee-1ec8-457b-b1b4-ce00e10f2ba4",
+      "tag": "waterfront_dining",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "c836ee57-bd9e-40cd-99d0-7dd2fdfa21d5",
+      "tag": "beach_restaurant",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "8cbaa24f-1940-4f22-9238-4a217bbf0b4a",
+      "tag": "family_friendly",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "b9c8c2b2-10ab-4f37-a112-d4450cc9a4cf",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "163ef92d-5d7f-48c3-b4fb-df6f1909d90c",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 7
+    },
+    {
+      "id": "3b1cf19c-ae71-43e7-af75-616fc67bcc78",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 8
+    },
+    {
+      "id": "9267503e-79ae-4c3c-8364-38e4278ee40a",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "3f759894-fdb5-412b-9b03-39d0903ebcbd",
+      "tag": "waterfront-dining",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "0e1309b7-170e-4016-b1cb-e0f560c3ba08",
+      "tag": "beach-restaurant",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "122eaed2-bb90-49cd-97fa-282771ffa507",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "f6c39b32-4005-46e6-ba71-d512496d1cc6",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "cf905c54-5435-4b66-9a33-43f083a9ccd3",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "13204824-cd41-409a-a2df-c0984f29c815",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 15
+    },
+    {
+      "id": "47103c57-006b-4fa1-8fe9-252dcdcffd15",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 16
+    },
+    {
+      "id": "032d47a6-216d-43e9-877f-cb637d593288",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "5c998b25-09ab-4b6e-8bd2-641a38295baa",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "e81ababb-d66c-4921-ab4d-a2c6281d691c",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 19
+    },
+    {
+      "id": "ca45485f-8d9f-4d96-b548-7efc78a5c13b",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 20
+    },
+    {
+      "id": "e171d0c6-50f7-43ae-a184-bcf4109477e8",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 21
+    },
+    {
+      "id": "41eaadbe-9de8-4c8a-b86f-917664067e1d",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "284eda6d-3e76-49c4-ba79-5ab5f5a491ca",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 23
+    },
+    {
+      "id": "6f832bf7-775a-4fda-a866-40e60f1bbea4",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 24
+    },
+    {
+      "id": "8d9891d3-d098-4c07-bccd-4ba934242b92",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 25
+    },
+    {
+      "id": "50296e6d-dc1f-429f-a8db-8c295dda7c2b",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "df3b6802-487f-4d16-bb55-af00775ba684",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 27
+    },
+    {
+      "id": "9400f267-472d-46bc-a9ce-526008d90c05",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 28
+    },
+    {
+      "id": "c338da06-09bc-4de6-bc15-4f734f1392d7",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 29
+    },
+    {
+      "id": "2786e28d-b78d-4655-9767-db21d0da64fb",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "5a48f587-8e55-4887-839a-93308fcdc686",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 31
+    },
+    {
+      "id": "74606ef0-6db4-4ecd-aea9-f0519a0954f4",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 32
+    },
+    {
+      "id": "358856d9-6c8d-4dfa-8615-54f0c2d18a02",
+      "tag": "restaurants",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "b90b53d7-a0a8-401a-8006-c0e976bdd365",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "0fa4e948-2706-4381-ae1b-ac2e3c3f0ea1",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 35
+    }
+  ],
+  "sections": [
+    {
+      "id": "6efd620a-8e46-4a8f-9e6f-3791ed3936de",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

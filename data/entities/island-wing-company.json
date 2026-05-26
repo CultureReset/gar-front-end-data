@@ -1,192 +1,138 @@
 {
-  "id": "5cc62b90-bc60-4f19-811d-82bddc961a98",
-  "slug": "island-wing-company",
-  "name": "Island Wing Company",
-  "entity_type": "restaurant",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "Island Wing Company is a full-service casual dining restaurant and bar specializing in crispy chicken wings and tenders served alongside eclectic takes on burgers, tacos, mac and cheese and more. With a lively atmosphere perfect for friends and family, we offer an extensive menu of food and drinks including a large draft beer list, frozen drinks, and cocktails. Enjoy Island Time while watching the latest game, enjoying live music, or catching up with loved ones.",
-  "phone": "877-628-9001",
-  "email": "info@islandwings.com",
-  "website_url": "https://islandwing.com",
-  "address_line_1": "",
-  "city": "",
-  "state": "",
-  "zip": null,
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": null,
+  "entity": {
+    "id": "091f85ff-5c21-4c34-90db-b950065ca4d4",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "island-wing-company",
+    "name": "Island Wing Company",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "+1-877-862-9001",
+    "international_phone": null,
+    "website_url": "https://www.islandwing.com",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": null,
+    "address_line_2": null,
+    "city": null,
+    "state": "AL",
+    "zip": null,
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": "It's always a fun time on the Island. If you're looking for good food, delicious drinks, and a lively atmosphere to enjoy with friends and family – look no further. You don't need a passport to savor some of the best eats and drinks around. We've perfected baking, steaming, and grilling so you can find your favorite from our extensive menu including crispy chicken wings, juicy burgers and more. Choose the perfect drink from our large draft beer list, frozen drinks, and cocktails. Sit back and enjoy Island Time with us when you stop by to watch the latest game, enjoy live music, or catch up with loved ones. Come find out why it's always a little better on the Island.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/islandwingtallahassee/",
+    "social_facebook": "https://www.facebook.com/islandwingtallahassee/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-21T04:57:21.869989+00:00",
+    "updated_at": "2026-05-21T04:57:21.869989+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": "American Casual Dining - Chicken Wings, Burgers, Tacos, Mac and Cheese",
+    "atmosphere": "Casual dining environment with Island Fun theme, lively atmosphere for watching games and live music",
+    "extraction_confidence": "medium",
+    "extraction_timestamp": "2026-05-15T06:29:46.19+00:00",
+    "extraction_notes": "This is a homepage extraction with limited menu details. The HTML shows general information about the restaurant chain with multiple locations across Alabama, Florida, and Virginia. Detailed menu items, pricing, specific hours, and individual location information are not available on this main homepage. The restaurant appears to have links to full menus, location-specific pages, and catering options, but these details are not included in the provided HTML. No specific reviews or ratings data visible on homepage. Many sections left null due to unavailable information on this particular page. For complete information, individual location pages would need to be accessed.",
+    "social_twitter": "https://twitter.com/islandwingtal",
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
   "photos": [],
-  "hours": [
-    {
-      "day_of_week": "Monday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Tuesday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Wednesday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Thursday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Friday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Saturday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Sunday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    }
-  ],
-  "menu_sections": [],
-  "drink_sections": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [
-    {
-      "tag": "chicken wings",
-      "tag_category": null
-    },
-    {
-      "tag": "baked not fried",
-      "tag_category": null
-    },
-    {
-      "tag": "burgers",
-      "tag_category": null
-    },
-    {
-      "tag": "tacos",
-      "tag_category": null
-    },
-    {
-      "tag": "seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "casual dining",
-      "tag_category": null
-    },
-    {
-      "tag": "island cuisine",
-      "tag_category": null
-    },
-    {
-      "tag": "sports bar",
-      "tag_category": null
-    },
-    {
-      "tag": "tropical drinks",
-      "tag_category": null
-    },
-    {
-      "tag": "frozen cocktails",
-      "tag_category": null
-    },
-    {
-      "tag": "family friendly",
-      "tag_category": null
-    },
-    {
-      "tag": "takeout",
-      "tag_category": null
-    },
-    {
-      "tag": "delivery",
-      "tag_category": null
-    },
-    {
-      "tag": "catering",
-      "tag_category": null
-    },
-    {
-      "tag": "franchise",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Wings",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Burgers",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Seafood",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Bars & Nightlife",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Appetizers",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Fast Casual",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Catering",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    }
-  ],
-  "featured": false,
-  "is_active": true,
-  "menus": [],
-  "businesses": [
-    {
-      "source": "unknown-other.json",
-      "name": "Island Wing Company",
-      "phone": "",
-      "address": "",
-      "placeId": "",
-      "website": ""
-    }
-  ],
-  "consolidatedAt": "2026-05-22T11:53:25.459Z"
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

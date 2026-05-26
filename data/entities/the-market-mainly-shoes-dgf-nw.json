@@ -1,217 +1,452 @@
 {
-  "id": "8c4b267f-eebe-4d7e-99e1-650553152ac9",
-  "slug": "the-market-mainly-shoes-dgf-nw",
-  "name": "The Market & Mainly Shoes",
-  "entity_type": "shopping",
-  "entity_subtype": "retail",
-  "icon": "🏪",
-  "description": "A Shop for Women is celebrating their 40th year as a premier women's retail destination in Downtown Pensacola. The shop specializes in high-quality women's clothing, shoes, and Italian linens. They feature curated designer collections including Bottega di Brunella.",
-  "phone": "(850) 434-3012",
-  "email": null,
-  "address_line_1": "700 S Palafox St, Pensacola, FL 32502, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32502",
-  "website_url": "http://www.ashopforwomen.com/",
-  "rating": 4.8,
-  "review_count": 14,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "8c4b267f-eebe-4d7e-99e1-650553152ac9",
+    "place_id": "ChIJ7zYXianAkIgRn_gzodgf-nw",
+    "google_maps_uri": "https://maps.google.com/?cid=9005545420158662815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "the-market-mainly-shoes-dgf-nw",
+    "name": "The Market & Mainly Shoes",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "retail",
+    "secondary_types": [],
+    "google_type": "womens_clothing_store",
+    "google_types": [
+      "womens_clothing_store",
+      "shoe_store",
+      "clothing_store",
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 434-3012",
+    "international_phone": null,
+    "website_url": "http://www.ashopforwomen.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "700 S Palafox St, Pensacola, FL 32502, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32502",
+    "latitude": 30.4054936,
+    "longitude": -87.21353,
+    "short_address": "700 S Palafox St, Pensacola",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 14,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Roomy boutique showcasing a wide range of contemporary women's apparel, footwear & accessories.",
+    "description": "A Shop for Women is celebrating their 40th year as a premier women's retail destination in Downtown Pensacola. The shop specializes in high-quality women's clothing, shoes, and Italian linens. They feature curated designer collections including Bottega di Brunella.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 11:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "structured-data",
+      "gcr-import-ready",
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.027834+00:00",
+    "updated_at": "2026-05-17T21:17:41.538902+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "b13180f2-9f4a-4b38-8fe8-d389baa5f741",
       "tag": "women's clothing",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
-      "tag": "shoes",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Italian linens",
-      "tag_category": "type"
-    },
-    {
-      "tag": "boutique",
-      "tag_category": "type"
-    },
-    {
-      "tag": "fashion retail",
-      "tag_category": "type"
-    },
-    {
-      "tag": "downtown Pensacola",
-      "tag_category": "type"
-    },
-    {
-      "tag": "designer",
-      "tag_category": "type"
-    },
-    {
-      "tag": "luxury retail",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Retail",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Women's Fashion",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Clothing Stores",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Shoe Stores",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Boutiques",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Shopping",
-      "tag_category": "category"
-    },
-    {
-      "tag": "fashion-and-retail",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "retail",
-      "tag_category": "type"
-    },
-    {
-      "tag": "womens_clothing_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "shoe_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "jewelry_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "clothing_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "94d14585-e5d0-4e23-9454-b7e03543f8c0",
       "tag": "women's clothing",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "bc4cf16b-b394-45b6-8c3b-6186205b3564",
       "tag": "shoes",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "961fd6e0-9b8c-4b7b-97e6-9d64ce68762f",
+      "tag": "shoes",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "595214b0-be9f-4e7f-9314-51b98209fb43",
       "tag": "Italian linens",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "0afad31b-1cee-4117-ad86-80ba5634a3ce",
+      "tag": "Italian linens",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "68d2acd8-924d-4419-be38-ea02e2750495",
       "tag": "boutique",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "5890f944-bce5-415f-a26c-fbfd4fdbf6ea",
+      "tag": "boutique",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "17b105ba-59d9-485b-bf01-ef90c4ff343c",
       "tag": "fashion retail",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "74b53f9f-d6c1-4194-875d-6ea1b966e18e",
+      "tag": "fashion retail",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "99cfba15-3882-4cf7-b372-08b554435fea",
       "tag": "downtown Pensacola",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "dc4cfaf8-bfad-46ab-9d31-574fddeb13da",
+      "tag": "downtown Pensacola",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "d104c937-4e43-4714-b61a-33964292f755",
       "tag": "designer",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "1c9ff30b-8826-48b6-8cf3-9ee1294bd0ae",
+      "tag": "designer",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "c0ae82fa-8f60-49ee-b60e-9f92bb273162",
       "tag": "luxury retail",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "d537690c-944d-48d0-be7d-b03729b6525d",
+      "tag": "luxury retail",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "e68d2efe-4105-4af1-9b2a-4ba6ce414827",
       "tag": "Retail",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 8
     },
     {
+      "id": "64801146-6800-4cc7-9015-ec16bb771da7",
+      "tag": "Retail",
+      "tag_category": "category",
+      "sort_order": 8
+    },
+    {
+      "id": "5ac96e38-1002-42b4-b15d-fed21219a8c8",
       "tag": "Women's Fashion",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 9
     },
     {
+      "id": "7d015b4a-51d2-4950-becf-4fd37108100e",
+      "tag": "Women's Fashion",
+      "tag_category": "category",
+      "sort_order": 9
+    },
+    {
+      "id": "62aaac5f-0395-43ba-861f-2513466f12b6",
       "tag": "Clothing Stores",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 10
     },
     {
+      "id": "3c884f58-3dbe-4884-92bd-ba8f1e1ebfc2",
+      "tag": "Clothing Stores",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "612e15d8-4880-4df2-bc01-96f3d742ec62",
       "tag": "Shoe Stores",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 11
     },
     {
+      "id": "9cf7bc05-b431-4206-9067-4e72670e1c0c",
+      "tag": "Shoe Stores",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "59e7f3b0-abc6-4c34-9d1a-7fd7339caf92",
       "tag": "Boutiques",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 12
     },
     {
+      "id": "166d304d-8bb4-438e-abd3-88ec145f1f35",
+      "tag": "Boutiques",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "e8cd7704-881f-4786-ad43-56053368fd25",
       "tag": "Shopping",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 13
     },
     {
+      "id": "73b7457a-cd0e-444a-b6a1-11769be806c0",
+      "tag": "Shopping",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "7763486d-d00b-4ef8-a274-f6732d01056a",
       "tag": "fashion-and-retail",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 14
     },
     {
+      "id": "5bd66830-b26a-47a4-92a5-c1b7b17bfc01",
+      "tag": "fashion-and-retail",
+      "tag_category": "industry",
+      "sort_order": 14
+    },
+    {
+      "id": "2645269d-b467-4f48-9fb6-6061861ffe97",
       "tag": "retail",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 15
     },
     {
+      "id": "505b3c25-d694-4b5e-aa77-428b64d9e99d",
+      "tag": "retail",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "b9fe44e7-e1ee-4911-9c31-8d3c9fa40725",
       "tag": "womens_clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 16
     },
     {
+      "id": "8874741c-890a-4f33-96fd-f4f66963e902",
+      "tag": "womens_clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "2563161c-983f-4801-bcbf-b3392f185f0d",
       "tag": "shoe_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 17
     },
     {
+      "id": "41cb085d-01b7-4422-8802-413fb1690ced",
+      "tag": "shoe_store",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "52632254-1568-4d7d-b37f-e7f5443bb0de",
       "tag": "jewelry_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 18
     },
     {
+      "id": "be864583-dbb4-46a0-b50b-d5bbd23fc712",
+      "tag": "jewelry_store",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "759250c5-adda-48d9-a10b-327949302d94",
       "tag": "clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 19
     },
     {
+      "id": "1c33a452-d282-480f-8b6c-31343307ec4a",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "fc1607f1-cc3a-4a88-86df-7c8ed378d9c7",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 20
     },
     {
+      "id": "5096dbe2-4014-45a3-8d69-6017572b6cfd",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "2e0236e5-a5d9-4797-b968-1ab1c737015c",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 21
     },
     {
+      "id": "a07fef5d-308a-4720-bd29-b745aa67a120",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "a68c1bee-8da8-4a83-988f-9036fb76cb06",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "17ba6ebd-b2b5-4f93-81af-20c1232d92ac",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 22
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "3426a491-f91f-4a2b-bfe4-b27a3d19c538",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

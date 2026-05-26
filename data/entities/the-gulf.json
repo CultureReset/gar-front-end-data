@@ -1,149 +1,138 @@
 {
-  "id": "48590c88-ea3c-4fd8-9078-d23ed41dac38",
-  "slug": "the-gulf",
-  "name": "The Gulf",
-  "entity_type": "nightlife",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "Outdoor venue made from old shipping containers offering seafood, American fare & a full bar.",
-  "phone": "(251) 424-1800",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "27500 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "",
-  "state": "",
-  "zip": null,
-  "rating": 4.7,
-  "review_count": null,
-  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN1DXWPa1Z5tvyyI65KYPzmdaJy7B3iUdWBK7KXA9L2ta9zdfha7H-wNgYArzMUCUZaD1abiZ6ZSoJVtCUU1FJI9nLzVkHz5Jeoekho3fBkvqvCLWCzp6NieviCJyiBDm6V5tei75YHaKLwu00aIaK53mUCyCRjhg5DMMeuq48xgqrYJHFfDk4Oy7Xp1cEhtSIrzlIfxZi1gj7B1ol4ZHDqHKFVR9FxUh9MLHHGv9lh7rR8_cAgm3h8MxVsVZCExUrd2rku1MNEGwmylkZR1visbNt8bgwPLhySSrcwb4LD8bg&key=AIzaSyA53S45dU9xRY5D-YKfEPPIHA1cP_nBvTY",
+  "entity": {
+    "id": "4859df03-5beb-4869-8840-7946beeaf4ea",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "the-gulf",
+    "name": "The Gulf",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": "https://thegulf.com",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": null,
+    "address_line_2": null,
+    "city": null,
+    "state": "AL",
+    "zip": null,
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": "The Gulf is the seaside hideaway you dreamed you'd find for a gathering of friends, family or loved ones. A truly enchanting seaside setting with a chic and casual ambience that makes everyone feel welcome.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-21T04:57:20.533555+00:00",
+    "updated_at": "2026-05-21T04:57:20.533555+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": "Seafood/Coastal",
+    "atmosphere": "Chic and casual seaside ambience",
+    "extraction_confidence": "low",
+    "extraction_timestamp": "2026-05-15T06:25:52.208+00:00",
+    "extraction_notes": "This HTML page contains primarily header/navigation code and structural markup with minimal restaurant content visible. The page appears to be a location page (Orange Beach) for The Gulf restaurant, but the actual page content with menu, hours, contact details, and other restaurant information is not present in the provided HTML snippet. The HTML cuts off early in the navigation section, missing the main content area. Key information such as phone number, address, hours of operation, menu details, pricing, and other restaurant-specific data could not be extracted. Only basic description from meta tags and page structure elements were successfully extracted.",
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
   "photos": [],
-  "hours": "Monday: 11:00 AM – 8:00 PM; Tuesday: 11:00 AM – 8:00 PM; Wednesday: 11:00 AM – 8:00 PM; Thursday: 11:00 AM – 8:00 PM; Friday: 11:00 AM – 8:00 PM; Saturday: 11:00 AM – 8:00 PM; Sunday: 11:00 AM – 8:00 PM",
-  "menu_sections": [],
-  "drink_sections": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [
-    "bar",
-    "establishment",
-    "food",
-    "point_of_interest",
-    "restaurant",
-    {
-      "tag": "seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "coastal",
-      "tag_category": null
-    },
-    {
-      "tag": "waterfront dining",
-      "tag_category": null
-    },
-    {
-      "tag": "cocktails",
-      "tag_category": null
-    },
-    {
-      "tag": "beach restaurant",
-      "tag_category": null
-    },
-    {
-      "tag": "casual dining",
-      "tag_category": null
-    },
-    {
-      "tag": "Gulf Coast",
-      "tag_category": null
-    },
-    {
-      "tag": "Orange Beach",
-      "tag_category": null
-    },
-    {
-      "tag": "Fort Walton Beach",
-      "tag_category": null
-    },
-    {
-      "tag": "fresh catch",
-      "tag_category": null
-    },
-    {
-      "tag": "handcrafted cocktails",
-      "tag_category": null
-    },
-    {
-      "tag": "outdoor seating",
-      "tag_category": null
-    },
-    {
-      "tag": "live music",
-      "tag_category": null
-    },
-    {
-      "tag": "events venue",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Seafood",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Bars",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Coastal Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Waterfront Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Event Venues",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Nightlife",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    }
-  ],
-  "featured": false,
-  "is_active": true,
-  "website": "http://www.thegulf.com/locations/orange-beach",
-  "address": "27500 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "menus": [],
-  "google_places_id": "ChIJaXciUJ4HmogRg3Mb_ECJLUo",
-  "businesses": [
-    {
-      "source": "google-places-new.json",
-      "name": "The Gulf",
-      "phone": "(251) 424-1800",
-      "address": "",
-      "placeId": "",
-      "website": "http://www.thegulf.com/locations/orange-beach"
-    }
-  ],
-  "consolidatedAt": "2026-05-22T11:53:23.246Z"
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

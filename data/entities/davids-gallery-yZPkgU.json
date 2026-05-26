@@ -1,32 +1,297 @@
 {
-  "id": "73c193d8-030d-4564-88b2-b767ae686f28",
-  "slug": "davids-gallery-yZPkgU",
-  "name": "David's Gallery",
-  "entity_type": "shopping",
-  "entity_subtype": "clothing",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 948-7862",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "618 Gulf Shores Pkwy Suite A 0, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.5,
-  "review_count": 591,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/767cd5f8-5f35-420f-b6f3-78302fcebd88/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "73c193d8-030d-4564-88b2-b767ae686f28",
+    "place_id": "ChIJ6dmQQcgEmogRoElPByZPkgU",
+    "google_maps_uri": "https://maps.google.com/?cid=401470341539383712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "davids-gallery-yZPkgU",
+    "name": "David's Gallery",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "clothing",
+    "secondary_types": [],
+    "google_type": "clothing_store",
+    "google_types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-7862",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "618 Gulf Shores Pkwy Suite A 0, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2536632,
+    "longitude": -87.6881695,
+    "short_address": "618 Gulf Shores Pkwy Suite A 0, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 591,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/767cd5f8-5f35-420f-b6f3-78302fcebd88/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleEntrance": false,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": false,
+      "freeGarageParking": false,
+      "freeStreetParking": true,
+      "paidGarageParking": false,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": false
+    },
+    "hours_text": [
+      "Monday: 12:00 – 7:00 PM",
+      "Tuesday: 12:00 – 7:00 PM",
+      "Wednesday: 12:00 – 7:00 PM",
+      "Thursday: 12:00 – 7:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 7:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:11.802106+00:00",
+    "updated_at": "2026-05-17T22:22:52.64544+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "07490743-4b68-40dd-bdab-ae943bdd2f53",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "665125f6-ff10-42bb-bf6f-894d9ae5b2b8",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "b0453599-607b-4994-a4ff-37ad113100fc",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "3d8a0543-a130-4542-8b14-f606eb56cf0b",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "942f3cfe-f925-430e-aa20-aa9f0a214269",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "091b1c42-81e3-43ce-a03e-c7c59bf9c1d0",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "6270ce24-af63-4cf5-a82c-62f9139650a0",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "9bc073ea-69da-4efc-8e4b-44283764242e",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "dea861fa-d8d6-467d-997f-f90c13406bbc",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "1f6e22e7-3da3-424a-9efa-18b0440ce294",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "c732f30a-c2b8-4bd3-9f0a-6c45ab5e3ca4",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "8693ced0-46dd-4fbc-bc34-93a36a215428",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "02a4d290-ab3e-4071-a5ea-cab87b842df2",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "a9699e31-5e08-4b82-be39-5454f05b1ba6",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "d35449d8-65d4-46de-b16c-f2995c4717a8",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "79f4a869-eacc-470a-af13-ff64dcc1ca37",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "9518fb80-49d4-4db6-8348-2b2c97600378",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "9d91479f-a356-4607-bfee-455ad5e9fa01",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "189b6bb3-4912-491c-8e22-866b8959bd9b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "3dc1b070-3278-44f2-8ab4-6d6ec3bd5146",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    }
+  ],
+  "sections": [
+    {
+      "id": "3d8f64f9-0156-4a00-8360-e855352d046f",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,222 @@
 {
-  "id": "b98acb12-4670-44dc-86fc-53cae0572b30",
-  "slug": "little-sunshine-by-the-sea-JOHUns",
-  "name": "Little Sunshine by the Sea",
-  "entity_type": "shopping",
-  "entity_subtype": "clothing_store",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 401-4900",
-  "email": null,
-  "website_url": "http://littlesunshinebythesea.com/",
-  "address_line_1": "4601 Main St B-106, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.8,
-  "review_count": 12,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/e4e74a1a-a160-484d-a0db-38b42e383065/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "b98acb12-4670-44dc-86fc-53cae0572b30",
+    "place_id": "ChIJnbYcsvoFmogR77z9iJOHUns",
+    "google_maps_uri": "https://maps.google.com/?cid=8886314082483682543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "little-sunshine-by-the-sea-JOHUns",
+    "name": "Little Sunshine by the Sea",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "clothing_store",
+    "secondary_types": [],
+    "google_type": "clothing_store",
+    "google_types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 401-4900",
+    "international_phone": null,
+    "website_url": "http://littlesunshinebythesea.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4601 Main St B-106, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.291196,
+    "longitude": -87.6275642,
+    "short_address": "4601 Main St B-106, Orange Beach",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 12,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/e4e74a1a-a160-484d-a0db-38b42e383065/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeGarageParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 12:00 – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.540391+00:00",
+    "updated_at": "2026-05-17T22:22:54.650022+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d7eef334-fbbb-4403-aca8-d4759e7a0f56",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "6b9de9fe-5f97-4764-99f9-ad4f1c35c623",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "4ff3778a-914d-4dca-b1fe-50210ba41ee1",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "7f4c4e17-c1db-4b44-8746-470d904ef267",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "40367261-1ed9-490d-bb6d-ae0c604b86e5",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "721d1db2-189a-408c-87e4-1b5d3852171d",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "b6c41791-cb93-481d-a3ea-faf738cd0dd7",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "e88c793c-e0c0-4e0a-92ae-d37d9765332b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "65ff9d9e-d58e-4bfd-acc9-0b1101c18ca7",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

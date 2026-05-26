@@ -1,153 +1,366 @@
 {
-  "id": "6d7b0ab9-de9e-4058-95a9-da1e85c52a18",
-  "slug": "loves-travel-stop-ujKp5M",
-  "name": "Love's Travel Stop",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 578-4496",
-  "email": null,
-  "address_line_1": "16101 US-84, Evergreen, AL 36401, USA",
-  "city": "Evergreen",
-  "state": "AL",
-  "zip": "36401",
-  "website_url": "https://www.loves.com/locations/225",
-  "rating": 4,
-  "review_count": 1403,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "6d7b0ab9-de9e-4058-95a9-da1e85c52a18",
+    "place_id": "ChIJfQn6jT4tkIgR49su_ujKp5M",
+    "google_maps_uri": "https://maps.google.com/?cid=10639695746731793379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "loves-travel-stop-ujKp5M",
+    "name": "Love's Travel Stop",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": [],
+    "google_type": "truck_stop",
+    "google_types": [
+      "truck_stop",
+      "gas_station",
+      "convenience_store",
+      "fast_food_restaurant",
+      "rv_park",
+      "lodging",
+      "auto_parts_store",
+      "car_repair",
+      "restaurant",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 578-4496",
+    "international_phone": null,
+    "website_url": "https://www.loves.com/locations/225",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "16101 US-84, Evergreen, AL 36401, USA",
+    "address_line_2": null,
+    "city": "Evergreen",
+    "state": "AL",
+    "zip": "36401",
+    "latitude": 31.4197119,
+    "longitude": -87.0079814,
+    "short_address": "16101 US-84, Evergreen",
+    "plus_code": null,
+    "rating": 4,
+    "review_count": 1403,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.923903+00:00",
+    "updated_at": "2026-05-17T21:17:45.022452+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "ae7f6e97-3de0-4747-beb4-09e4ece3c91a",
       "tag": "truck_stop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "fast_food_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "convenience_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "gas_station",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "rv_park",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "auto_parts_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "lodging",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "car_repair",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "ffc3c7a7-67d7-4b9b-b9a3-149b8a4c5d8d",
       "tag": "truck_stop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "23bcfc09-7448-4a7d-9b68-80cfef334e06",
       "tag": "fast_food_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "59cdf072-fb10-45f2-b565-4954b85cc6b2",
+      "tag": "fast_food_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "ef962ad6-1a81-4799-9536-330d977e6c03",
       "tag": "convenience_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "df2b03af-10e2-4845-8d83-fea1e046aa5a",
+      "tag": "convenience_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "f9259378-98af-427c-84fc-70a763fd4446",
       "tag": "gas_station",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "45200b0a-efb9-4822-98c4-e1839c166382",
+      "tag": "gas_station",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "1729c309-e913-4a4e-8e65-8ceb7f01e395",
       "tag": "rv_park",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "690013c5-9130-4caa-b6b9-7454176f3638",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "90d80162-182e-4cfb-a732-54fa188ea198",
       "tag": "auto_parts_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "db318027-6336-4edb-b13e-0edb52c45890",
+      "tag": "auto_parts_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "2db05ad6-9f5d-4e0f-83fb-7bef195df921",
       "tag": "lodging",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "7f8bbd40-782e-4cf1-8343-7bb37be75601",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "5acdefd0-f2ba-4b8b-8565-2374c453f07b",
       "tag": "food_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "d4049ce4-2733-46ee-abec-88910cba4408",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "72797c56-f6ed-40d3-8dfe-99cf101c990e",
       "tag": "car_repair",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
     },
     {
+      "id": "0db4d962-4fd1-4093-a4cf-9e88bc61add3",
+      "tag": "car_repair",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "bbd8aad4-501a-4ceb-a04c-0270c4960b35",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 9
     },
     {
+      "id": "81f23f59-c63e-445e-915d-3357337436b3",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "57ec678f-9dc4-4d36-aeff-f3c389f6afab",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 10
     },
     {
+      "id": "fd8ece3d-977d-4eb0-8d71-4dc887a43710",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "c6c7f1dd-ffd5-4e6f-a030-042c55a317e5",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 11
     },
     {
+      "id": "bde1be2d-d281-47cf-b80a-04adf22f14f6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "0b649485-0274-4e29-b7b6-8fb2e1e5009b",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 12
     },
     {
+      "id": "99c4d083-8224-42c1-89f8-9e9b896a3e98",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "88185949-a25c-40ad-8c40-bfd53431b69c",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 13
     },
     {
+      "id": "9d75942d-224c-4da2-aeb2-9104fbf04f58",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 13
+    },
+    {
+      "id": "7cb4d7d8-952b-4b9d-90e7-df6a2233d29b",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "323139e1-30db-4c7a-9b11-255aa6d8f255",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 14
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "6d0282c3-4990-4dd4-9201-a65f7ba840eb",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

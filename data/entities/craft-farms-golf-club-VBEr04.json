@@ -1,32 +1,764 @@
 {
-  "id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
-  "slug": "craft-farms-golf-club-VBEr04",
-  "name": "Craft Farms Golf Club",
-  "entity_type": "activity",
-  "entity_subtype": "golf-course",
-  "icon": "🏪",
-  "description": "Arnold Palmer decided to build his golf courses at Craft Farms the moment he stepped foot on this land. Craft Farms is conveniently located just north of the white sand beaches of Gulf Shores, Alabama. Here you'll be enthralled by the quiet whisper of the wind through trees, the gentle murmur of Cotton Creek, and the rich smell of the earth. There is something special about this place. We invite you to relax, soak in the beauty of Craft Farms Golf Resort and play your best round of golf. Whether you come for a vacation, tournament or a special occasion, Craft Farms Golf Club is a great destination. With the fresh Gulf Coast breezes and warm winter sunshine, Gulf Shores is the hidden jewel of the Gulf Coast. Enjoy nearby shopping, boating, beach, tourist attractions, deep sea fishing and, of course, golf! The Cotton Creek and Cypress Bend courses at Craft Farms are Alabama's only Arnold Palmer Signature Design Courses. The courses are distinctly different, and both assure a challenging yet playable golf experience.",
-  "phone": "(251) 968-3002",
-  "email": null,
-  "website_url": "http://www.craftfarms.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
-  "address_line_1": "3840 Cotton Creek Cir, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.8,
-  "review_count": 1449,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139794526.4993.jpg",
-  "photos": [],
+  "entity": {
+    "id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+    "place_id": "ChIJTYCCJHIFmogRMMuZ4VBEr04",
+    "google_maps_uri": "https://maps.google.com/?cid=5669825570055768880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "craft-farms-golf-club-VBEr04",
+    "name": "Craft Farms Golf Club",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "golf-course",
+    "secondary_types": "",
+    "google_type": "golf_course",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "health",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-3002",
+    "international_phone": null,
+    "website_url": "http://www.craftfarms.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3840 Cotton Creek Cir, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.304877,
+    "longitude": -87.6668937,
+    "short_address": "3840 Cotton Creek Cir, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 1449,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Arnold Palmer decided to build his golf courses at Craft Farms the moment he stepped foot on this land. Craft Farms is conveniently located just north of the white sand beaches of Gulf Shores, Alabama. Here you'll be enthralled by the quiet whisper of the wind through trees, the gentle murmur of Cotton Creek, and the rich smell of the earth. There is something special about this place. We invite you to relax, soak in the beauty of Craft Farms Golf Resort and play your best round of golf. Whether you come for a vacation, tournament or a special occasion, Craft Farms Golf Club is a great destination. With the fresh Gulf Coast breezes and warm winter sunshine, Gulf Shores is the hidden jewel of the Gulf Coast. Enjoy nearby shopping, boating, beach, tourist attractions, deep sea fishing and, of course, golf! The Cotton Creek and Cypress Bend courses at Craft Farms are Alabama's only Arnold Palmer Signature Design Courses. The courses are distinctly different, and both assure a challenging yet playable golf experience.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139794526.4993.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/craftfarms/",
+    "social_facebook": "https://www.facebook.com/CraftFarmsGolf/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Featured Items",
+          "items": [
+            {
+              "name": "Craft Farms Burger",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Crab Cakes",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Fried Green Tomatoes",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Signature Boar's Head Club Sandwich",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Watermelon & Peach Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "World-Famous Onion Rings",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Grab & Go",
+          "items": [
+            {
+              "name": "Breakfast Biscuit",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "with egg, cheese and your choice of bacon or sausage",
+              "subcategory": null
+            },
+            {
+              "name": "Turkey Wrap",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "freshly made",
+              "subcategory": null
+            },
+            {
+              "name": "Ham Wrap",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "freshly made",
+              "subcategory": null
+            },
+            {
+              "name": "Hotdog",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "served with full topping bar",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.746401+00:00",
+    "updated_at": "2026-05-18T21:29:59.528445+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "a2fe4bfe-3f09-4f0a-b1d5-32077f78a2e6",
+      "tag": "golf course",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "610d4d62-829b-45ec-9540-8a1e8a4d4629",
+      "tag": "arnold palmer design",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d66de491-6af7-4d5b-8719-3dcf375086e0",
+      "tag": "championship golf",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "f7d666b4-3114-4e65-9bd4-19284b70eaf5",
+      "tag": "gulf shores",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "d059d124-8edb-4a0a-a0b5-1f13a8583bbe",
+      "tag": "alabama",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "6d6bfa95-98b9-4724-8599-10f89362e6fa",
+      "tag": "golf resort",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "85489ba6-36ab-4699-b6e2-4086cf138621",
+      "tag": "18 holes",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "ac80a574-ee2e-4b10-bf72-f9e5526fce40",
+      "tag": "golf shop",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "7c8db203-1ad4-4f2e-8b67-c72739cad6a6",
+      "tag": "tournaments",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "296e496b-e86f-4c6b-af3c-3f20ebb7ab3c",
+      "tag": "group sales",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "424e5c7a-8288-4f97-8051-723534222e6a",
+      "tag": "special events",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "687a7fe1-08df-470d-a944-da17ecd276be",
+      "tag": "membership",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "d06a2498-42c2-4b39-8773-092e6fd20145",
+      "tag": "clubhouse",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "d0df9502-913d-498f-8609-8099dd3a372f",
+      "tag": "Golf Courses",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "74291f4a-59bd-48f4-84fa-b1d2af70fe72",
+      "tag": "Sports & Recreation",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "640665a8-eb90-4159-be15-66a5a17d9651",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "ed510eb2-f0cd-43f8-a02b-f83f0d63378b",
+      "tag": "Event Venues",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "e8a8670c-c962-4ea3-b210-9aec152e4ad9",
+      "tag": "Restaurants & Bars",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "cd6992c6-8ec2-40e0-bb8f-2cd6efb1da5c",
+      "tag": "sports-recreation",
+      "tag_category": "industry",
+      "sort_order": 18
+    },
+    {
+      "id": "6330190e-3d3e-44dc-977f-84fb98a8b826",
+      "tag": "golf-course",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "fbc7a90e-8a24-4bfa-a89e-fa77b044a73b",
+      "tag": "sports club",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "fe986f4b-19ec-4a5e-97f4-d3a02d585d4d",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "25e4d6d1-7d76-478b-aaaf-57b97d3c27d6",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 22
+    },
+    {
+      "id": "bae4ce6a-a25d-450a-bc3b-b4976ffec786",
+      "tag": "sports coaching",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "08e196cf-a2bf-4c62-9da1-8ce9c95721b9",
+      "tag": "sports school",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "7c7eaeda-2f3d-4771-a1ad-feb02ebb998b",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 25
+    },
+    {
+      "id": "e1f482aa-e81d-48be-a8c3-9bd7b12ec46b",
+      "tag": "athletic field",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "f6cb1001-bfda-4583-9475-ad36eb89b7b8",
+      "tag": "bar and grill",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "b59e91d9-c5ce-4636-8786-7ab2fbdf271d",
+      "tag": "sports activity location",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "7ab25fdc-4a39-475e-b6e1-a90648f9b392",
+      "tag": "health",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "a6603e9f-034e-45c3-82a7-846ba12aea44",
+      "tag": "association or organization",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "0660efab-a35a-4876-9ee1-6cc5dc05b6be",
+      "tag": "golf_course",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "e066c853-5aa7-4e32-bd5a-9a5fe1cf1417",
+      "tag": "bar_and_grill",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "367871be-63f4-4e97-821a-52f99e95e49b",
+      "tag": "sports_coaching",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "d6025639-6c8e-44d7-8819-dc5a2ee956fc",
+      "tag": "sports_school",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "18bf4dee-509d-4e3e-b205-6076455aff55",
+      "tag": "athletic_field",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "2823afac-ea3b-4c33-991a-6e7e66ac1f3e",
+      "tag": "sports_club",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "ffef4715-6153-4dc6-8d31-21bd54b3c035",
+      "tag": "association_or_organization",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "469762b2-4e73-4854-9350-88ee9201dda0",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "da2d18d6-1af5-4efc-a931-01a81defbf17",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 39
+    },
+    {
+      "id": "8f87d37d-441a-442d-aa38-005669ac6fb8",
+      "tag": "sports_activity_location",
+      "tag_category": "google_type",
+      "sort_order": 40
+    },
+    {
+      "id": "63390c50-2a5b-4f02-b464-7b548e5c102a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 41
+    },
+    {
+      "id": "12a431a7-0e90-4a33-8790-eb8d15061ac3",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 42
+    }
+  ],
+  "sections": [
+    {
+      "id": "8c7d726a-9fb1-4308-9c5d-c7b61b3cfda6",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "93c2700a-06b0-49ee-8470-1cf1d496f4d3",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131819963.098.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:52.950628+00:00"
+    },
+    {
+      "id": "ff4b9937-d9d1-4418-97e0-78801326f886",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131821917.2449.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:53.828056+00:00"
+    },
+    {
+      "id": "862f696f-1565-4afa-9be1-001001b0077c",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131413736.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:52.510404+00:00"
+    },
+    {
+      "id": "9256b9b5-e2d5-4bec-93fc-62fb5d4523ad",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131820648.0588.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:53.237848+00:00"
+    },
+    {
+      "id": "6462be89-9c2f-46d5-b802-16a9cdf0bffc",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131821728.0005.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:53.683018+00:00"
+    },
+    {
+      "id": "88585118-f59c-4db0-9004-4a58b4038e63",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139534006.777.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:54.40222+00:00"
+    },
+    {
+      "id": "a80fc639-2cac-41fb-96cd-ec32834cdfde",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139535366.5715.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:54.986821+00:00"
+    },
+    {
+      "id": "167c244a-58b7-4a68-a569-325fc4c359f8",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139537748.1838.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:55.732292+00:00"
+    },
+    {
+      "id": "98904374-9a93-4b6d-a57b-add953f9baaa",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131509803.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:52.656633+00:00"
+    },
+    {
+      "id": "70889cb1-b530-4891-9734-502027c13be4",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131820844.4797.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:53.393364+00:00"
+    },
+    {
+      "id": "5741a711-d1b4-453c-98bc-8a2cb449f288",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131822239.3962.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:53.973735+00:00"
+    },
+    {
+      "id": "41a5c2e2-eef9-4ae6-9ced-77e95e97ca5a",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139534206.7327.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:54.544887+00:00"
+    },
+    {
+      "id": "a52d264a-cb07-46a3-8fb5-7bb1bf5b7e06",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139535876.9487.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:55.131739+00:00"
+    },
+    {
+      "id": "8474234f-4779-46ae-a742-c896c4d200b3",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139536181.6704.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:55.288715+00:00"
+    },
+    {
+      "id": "2d31dc75-83e1-49d4-ace4-fb9d3f8ed00f",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131820417.0881.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:53.093874+00:00"
+    },
+    {
+      "id": "b6cee88d-4a23-4cf1-ac83-53cd44dcc7bb",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131822851.1965.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:54.115555+00:00"
+    },
+    {
+      "id": "7b3e00e0-6051-4a0f-9b10-9ff76c2e3a87",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139534546.4216.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:54.687525+00:00"
+    },
+    {
+      "id": "c8e57893-235c-40ad-a07d-7e69a5ea2922",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139536602.2864.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:55.434826+00:00"
+    },
+    {
+      "id": "8a35d1f6-b9c9-4a7c-b229-35656b358c76",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131819758.256.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:52.808736+00:00"
+    },
+    {
+      "id": "c3fb6dfa-b00d-43bf-9050-978f3f1d6702",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779131821417.9856.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:53.538403+00:00"
+    },
+    {
+      "id": "74cbb8ed-d2ec-40c3-bd4d-7417be1292d8",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779132050051.2751.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:54.255485+00:00"
+    },
+    {
+      "id": "3c0fac58-e2e3-44cc-acac-ee31a51e9c14",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139534962.0786.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:54.833942+00:00"
+    },
+    {
+      "id": "029a8ee4-4f51-4960-b26d-1d6d55cf35b5",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139794526.4993.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:55.894297+00:00"
+    },
+    {
+      "id": "7ef4a5db-6d25-4ee9-a8a4-6e6fccb03ea9",
+      "entity_id": "5828cbc5-1368-40c6-8788-de8dd58094b2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5828cbc5-1368-40c6-8788-de8dd58094b2/5828cbc5-1368-40c6-8788-de8dd58094b2_1779139537040.4592.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:55.57624+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

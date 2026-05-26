@@ -1,32 +1,505 @@
 {
-  "id": "502e9536-723a-436e-a771-56d6d55772a1",
-  "slug": "blalock-seafood-orange-beach-YIfFiU",
-  "name": "Blalock Seafood Orange Beach",
-  "entity_type": "business",
-  "entity_subtype": "market",
-  "icon": "🏪",
-  "description": "Blalock Seafood & Specialty Market is the premier source for fresh seafood on the Alabama Gulf Coast. Located in Gulf Shores, AL, our fish, seafood, and shrimp market has provided high-quality seafood and gourmet items to the region for more than 10 years. With some of the best locally caught seafood around, we're dedicated to your satisfaction. We serve our customers with pride, providing one of the widest selections of seafood in the area.",
-  "phone": "(251) 974-5811",
-  "email": null,
-  "website_url": "https://www.blalockseafoodgulfshores.com/",
-  "address_line_1": "24822 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "24822",
-  "rating": 4.7,
-  "review_count": 634,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/502e9536-723a-436e-a771-56d6d55772a1/502e9536-723a-436e-a771-56d6d55772a1_1779139872335.2544.jpg",
-  "photos": [],
+  "entity": {
+    "id": "502e9536-723a-436e-a771-56d6d55772a1",
+    "place_id": "ChIJl6m-HGkGmogRVgXD0YIfFiU",
+    "google_maps_uri": "https://maps.google.com/?cid=2672358075616396630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "blalock-seafood-orange-beach-YIfFiU",
+    "name": "Blalock Seafood Orange Beach",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "market",
+    "secondary_types": "",
+    "google_type": "market",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 974-5811",
+    "international_phone": null,
+    "website_url": "https://www.blalockseafoodgulfshores.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "24822 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "24822",
+    "latitude": 30.2897998,
+    "longitude": -87.6020405,
+    "short_address": "24822 Canal Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 634,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Blalock Seafood & Specialty Market is the premier source for fresh seafood on the Alabama Gulf Coast. Located in Gulf Shores, AL, our fish, seafood, and shrimp market has provided high-quality seafood and gourmet items to the region for more than 10 years. With some of the best locally caught seafood around, we're dedicated to your satisfaction. We serve our customers with pride, providing one of the widest selections of seafood in the area.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/502e9536-723a-436e-a771-56d6d55772a1/502e9536-723a-436e-a771-56d6d55772a1_1779139872335.2544.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": {
+        "categories": [
+          {
+            "name": "Fresh Fish",
+            "items": [
+              {
+                "name": "Salmon",
+                "price": 16.9,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Tuna",
+                "price": 18.9,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Grouper",
+                "price": 23.9,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Trigger",
+                "price": 17.9,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Mahi",
+                "price": 16.9,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Flounder",
+                "price": 13.9,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Triple tail",
+                "price": 17.9,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Cobia",
+                "price": 15.9,
+                "description": null,
+                "dietary_flags": []
+              }
+            ]
+          },
+          {
+            "name": "Shrimp",
+            "items": [
+              {
+                "name": "Royal Red Shrimp",
+                "price": null,
+                "description": "Medium, large, and jumbo sizes available. Famous shrimp from fresh, fertile waters of Mexico's gulf.",
+                "dietary_flags": []
+              },
+              {
+                "name": "Shrimp Bisque",
+                "price": null,
+                "description": "Famous shrimp bisque made with fresh shrimp",
+                "dietary_flags": []
+              }
+            ]
+          },
+          {
+            "name": "Shellfish & Specialty Items",
+            "items": [
+              {
+                "name": "Blue Crab Meat",
+                "price": null,
+                "description": "Four different types available",
+                "dietary_flags": []
+              },
+              {
+                "name": "Oysters",
+                "price": null,
+                "description": "Available by the dozen or freshly shucked",
+                "dietary_flags": []
+              },
+              {
+                "name": "Scallops",
+                "price": null,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Smoked Tuna Dip",
+                "price": null,
+                "description": "Famous specialty item",
+                "dietary_flags": []
+              },
+              {
+                "name": "Tuna Dip",
+                "price": null,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Frozen Hush Puppies",
+                "price": null,
+                "description": null,
+                "dietary_flags": []
+              }
+            ]
+          },
+          {
+            "name": "Specialty Offerings",
+            "items": [
+              {
+                "name": "Gourmet Spices",
+                "price": null,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Fine Cheeses",
+                "price": null,
+                "description": null,
+                "dietary_flags": []
+              },
+              {
+                "name": "Dips and Marinades",
+                "price": null,
+                "description": null,
+                "dietary_flags": []
+              }
+            ]
+          }
+        ]
+      },
+      "hours": {
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "images": [],
+      "contact": {
+        "zip": "36542",
+        "city": "Gulf Shores",
+        "email": "info@blalockseafoodgulfshores.com",
+        "phone": "(251) 968-5811",
+        "state": "AL",
+        "address": "1911 Gulf Shores Pkwy",
+        "website": "https://www.blalockseafoodgulfshores.com"
+      },
+      "features": [
+        "Locally owned and operated",
+        "Free pack to travel service",
+        "Steamed meal solutions",
+        "Professional wrapping and sealing",
+        "Flexible hours",
+        "Knowledgeable staff",
+        "Specialty items",
+        "Local delivery to Gulf Shores, Orange Beach, and Foley",
+        "People's Choice Award for Best Seafood Market"
+      ],
+      "specials": [
+        {
+          "days": null,
+          "name": "Steamed Meal Solutions",
+          "time": null,
+          "description": "Steamed meal solutions with all your favorite seafood products. From shrimp and scallops to salmon and trout."
+        }
+      ],
+      "description": "Blalock Seafood & Specialty Market is the premier source for fresh seafood on the Alabama Gulf Coast. Located in Gulf Shores, AL, our fish, seafood, and shrimp market has provided high-quality seafood and gourmet items to the region for more than 10 years. With some of the best locally caught seafood around, we're dedicated to your satisfaction. We serve our customers with pride, providing one of the widest selections of seafood in the area.",
+      "price_range": null,
+      "cuisine_type": "Seafood Market",
+      "extracted_at": "2026-05-16T19:09:47.499Z",
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Blalock Seafood & Specialty Market"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.429275+00:00",
+    "updated_at": "2026-05-21T06:05:39.945976+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": "high",
+    "extraction_timestamp": "2026-05-21T06:05:37.162+00:00",
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d6a8b80a-b62c-4518-a77f-a0f7f42ada9d",
+      "tag": "market",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "78668706-1251-49aa-b2c8-504fe0eab25d",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "aaf22468-96d6-4505-b86f-f7f0757ce530",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "199cd12d-68b5-4bad-9258-5681643c939d",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "8157ab69-24f3-4d7c-af17-b86778f4ca82",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "52102be6-5950-412c-886b-5775a6889c8b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "f000b4da-59e9-4513-8721-e55183cc63bc",
+      "section_key": "seafood-market-items",
+      "section_label": "Seafood Market Items",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "790c7b4c-93bf-48b8-bdfc-cb691691fa31",
+          "title": "Seafood Market Items",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "8c3b3851-dbe3-48c0-931c-e5c25102f03d",
+      "section_key": "services-&-specialty-items",
+      "section_label": "Services & Specialty Items",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "818cd1f9-34dc-4818-845d-4f4ddcf65fb8",
+          "title": "Services & Specialty Items",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "8962988c-f5ce-4a56-b2c6-afd76b784c8f",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "d00c9fe3-f42d-4c8d-aae0-8fcec089b3d0",
+      "entity_id": "502e9536-723a-436e-a771-56d6d55772a1",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/502e9536-723a-436e-a771-56d6d55772a1/502e9536-723a-436e-a771-56d6d55772a1_1779131461864.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:32.459563+00:00"
+    },
+    {
+      "id": "85df2ea4-c591-42e3-abbd-4cb1111f26ed",
+      "entity_id": "502e9536-723a-436e-a771-56d6d55772a1",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/502e9536-723a-436e-a771-56d6d55772a1/502e9536-723a-436e-a771-56d6d55772a1_1779139745501.6316.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:33.04127+00:00"
+    },
+    {
+      "id": "ae6d356c-f87c-4511-aea0-ad0fa136cd60",
+      "entity_id": "502e9536-723a-436e-a771-56d6d55772a1",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/502e9536-723a-436e-a771-56d6d55772a1/502e9536-723a-436e-a771-56d6d55772a1_1779131587915.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:32.59987+00:00"
+    },
+    {
+      "id": "fbf4f46f-6415-4cc7-b813-eebae5fb0cb7",
+      "entity_id": "502e9536-723a-436e-a771-56d6d55772a1",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/502e9536-723a-436e-a771-56d6d55772a1/502e9536-723a-436e-a771-56d6d55772a1_1779139872335.2544.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:33.186803+00:00"
+    },
+    {
+      "id": "fa80a5a0-91da-489b-aadd-6221ad75ce76",
+      "entity_id": "502e9536-723a-436e-a771-56d6d55772a1",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/502e9536-723a-436e-a771-56d6d55772a1/502e9536-723a-436e-a771-56d6d55772a1_1779132002124.5464.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:32.742624+00:00"
+    },
+    {
+      "id": "49fd9ca4-4b8b-42fc-889e-e3b9f70b5678",
+      "entity_id": "502e9536-723a-436e-a771-56d6d55772a1",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/502e9536-723a-436e-a771-56d6d55772a1/502e9536-723a-436e-a771-56d6d55772a1_1779132124185.4802.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:32.891371+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [
+      {
+        "id": "f000b4da-59e9-4513-8721-e55183cc63bc",
+        "section_name": "Seafood Market Items",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "502e9536-723a-436e-a771-56d6d55772a1",
+        "sort_order": 0
+      },
+      {
+        "id": "8c3b3851-dbe3-48c0-931c-e5c25102f03d",
+        "section_name": "Services & Specialty Items",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "502e9536-723a-436e-a771-56d6d55772a1",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

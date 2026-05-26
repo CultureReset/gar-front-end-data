@@ -1,32 +1,265 @@
 {
-  "id": "5c5fc5b8-f177-44d4-8723-0918b8cbec46",
-  "slug": "blue-parrot-8-JwnqBA",
-  "name": "Blue Parrot #8",
-  "entity_type": "hotel",
-  "entity_subtype": "bed_and_breakfast",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(678) 294-2915",
-  "email": null,
-  "website_url": "http://airbnb.com/rooms/549004324380178829",
-  "address_line_1": "1235 W Beach Blvd #8, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 3,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/0e2e5c38-d6f0-4f67-98ec-3d5b2cd37d78/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "5c5fc5b8-f177-44d4-8723-0918b8cbec46",
+    "place_id": "ChIJIdMtzWkbmogRe6084JwnqBA",
+    "google_maps_uri": "https://maps.google.com/?cid=1200252855424691579&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "blue-parrot-8-JwnqBA",
+    "name": "Blue Parrot #8",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "bed_and_breakfast",
+    "secondary_types": "",
+    "google_type": "bed_and_breakfast",
+    "google_types": [
+      "bed_and_breakfast",
+      "motel",
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(678) 294-2915",
+    "international_phone": null,
+    "website_url": "http://airbnb.com/rooms/549004324380178829",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1235 W Beach Blvd #8, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2432548,
+    "longitude": -87.7189565,
+    "short_address": "1235 W Beach Blvd #8, Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 3,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/0e2e5c38-d6f0-4f67-98ec-3d5b2cd37d78/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.707977+00:00",
+    "updated_at": "2026-05-18T21:06:09.730031+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "372a1b78-d933-417b-a464-8d3fe2d6da51",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "b1e7eaee-d0ab-4502-9c27-2b5ee5a13397",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "6a12ae32-6bbf-4ac8-933b-381b9e718979",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "42df8f1c-d982-4419-bd41-d8b049240ebd",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "613f3a1e-b0e5-410a-985e-01e0962b0c58",
+      "tag": "motel",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "c8680e3d-83af-4d2b-b831-878dee3e02b0",
+      "tag": "motel",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "2e3e569c-bbf6-47b4-931c-edca8eceef3c",
+      "tag": "hotel",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "28a5f774-8b4c-4cf6-916f-5a0eb121d46d",
+      "tag": "hotel",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "a4d9193d-2ab1-4aa2-b485-afcc2bd12c6f",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "10a3a427-50be-4d30-bb2d-23c50ea1b999",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "bc476f30-d555-45dd-bc62-3c86e32d917e",
+      "tag": "bed and breakfast",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "f94addf5-69d5-40a6-91e0-cbf56ddbe725",
+      "tag": "bed and breakfast",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "ff924b3f-d951-482f-8640-b9c94e320997",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "236ae149-37ee-4eca-8eba-2b986a9b0b3d",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "b82285f0-edaa-455d-af5a-1b2277e3de01",
+      "tag": "bed_and_breakfast",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "ebf63866-395a-4ba4-902a-c7f60c9d4278",
+      "tag": "bed_and_breakfast",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "46aa0141-1a60-4a52-92cb-c30988d5ccf4",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "83240081-a345-4633-bcae-6c3f3bde150d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    }
+  ],
+  "sections": [
+    {
+      "id": "1b4e3a9e-569b-43fb-a58d-4cd38fc6b365",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,61 +1,214 @@
 {
-  "id": "206bc55c-9898-4a84-bf11-4611caabf2ec",
-  "slug": "infinity-bicycles-E1l_-k",
-  "name": "Infinity Bicycles",
-  "entity_type": "shopping",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 607-1156",
-  "email": null,
-  "address_line_1": "915 Hillcrest Rd, Mobile, AL 36695, USA",
-  "city": "Mobile",
-  "state": "AL",
-  "zip": null,
-  "website_url": "https://www.infinity-bicycles.com/?y_source=1_MTU0OTc0NjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-  "rating": 4.8,
-  "review_count": 257,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "206bc55c-9898-4a84-bf11-4611caabf2ec",
+    "place_id": "ChIJyS6p1-eym4gRZEmZbE1l_-k",
+    "google_maps_uri": "https://maps.google.com/?cid=16861306913107298660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "infinity-bicycles-E1l_-k",
+    "name": "Infinity Bicycles",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": null,
+    "secondary_types": "",
+    "google_type": "bicycle_store",
+    "google_types": [
+      "bicycle_store",
+      "sporting_goods_store",
+      "point_of_interest",
+      "store",
+      "service",
+      "manufacturer",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 607-1156",
+    "international_phone": null,
+    "website_url": "https://www.infinity-bicycles.com/?y_source=1_MTU0OTc0NjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "915 Hillcrest Rd, Mobile, AL 36695, USA",
+    "address_line_2": null,
+    "city": "Mobile",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.6708452,
+    "longitude": -88.1901426,
+    "short_address": "915 Hillcrest Rd, Mobile",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 257,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.88986+00:00",
+    "updated_at": "2026-05-18T21:06:51.538737+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "0a346b44-7f2b-4d72-be95-d9fe65f8fd6b",
       "tag": "bicycle_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "fae91703-3a9b-4e7d-80a7-9495568b4c8a",
       "tag": "sporting_goods_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "e3b2b310-35fb-400f-939a-71843d0d8496",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "e883c2c8-7851-48d9-a3e3-30e53d355d0b",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "e6be09e3-2795-494f-9641-3f6f3ac84246",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "dd88e5eb-493f-47b9-adae-bb7ac464fa98",
       "tag": "manufacturer",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "c41e0e48-cd82-46c9-a9c5-8aa32caabbe7",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "375ab95b-05e8-4914-8f41-4fa835ca3c71",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

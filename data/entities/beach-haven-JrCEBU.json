@@ -1,32 +1,277 @@
 {
-  "id": "f6297e5a-6a87-4e83-8c95-0c03aa82e63b",
-  "slug": "beach-haven-JrCEBU",
-  "name": "Beach Haven",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(678) 457-9635",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "25350 Perdido Beach Blvd #101, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 5,
-  "review_count": 10,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/f6297e5a-6a87-4e83-8c95-0c03aa82e63b/f6297e5a-6a87-4e83-8c95-0c03aa82e63b_1779139867427.1064.jpg",
-  "photos": [],
+  "entity": {
+    "id": "f6297e5a-6a87-4e83-8c95-0c03aa82e63b",
+    "place_id": "ChIJeTUSDkoHmogRSzF2lJrCEBU",
+    "google_maps_uri": "https://maps.google.com/?cid=1517927043595383115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "beach-haven-JrCEBU",
+    "name": "Beach Haven",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": [],
+    "google_type": "travel_agency",
+    "google_types": [
+      "real_estate_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(678) 457-9635",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25350 Perdido Beach Blvd #101, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.267401,
+    "longitude": -87.5918865,
+    "short_address": "25350 Perdido Beach Blvd #101, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 10,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/f6297e5a-6a87-4e83-8c95-0c03aa82e63b/f6297e5a-6a87-4e83-8c95-0c03aa82e63b_1779139867427.1064.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false
+    },
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.923903+00:00",
+    "updated_at": "2026-05-18T21:31:12.542276+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "198a72b5-2fa0-41b8-bf9d-5fe89407da4a",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "6a442ace-50f9-4ac0-bb4f-3e535d6c5eea",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "2438b50a-ea82-44f3-a0c7-d2ca2d803f51",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "fc116ba2-3c97-429d-aac1-23f340679180",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "7a6947de-9d8e-4d7c-bc54-a55d457617dd",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "68b32808-09ae-4c7a-9dbe-02380328a1e7",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "9384b813-fb98-475b-8df8-7c404f25d5d9",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "4ac5133f-d1fa-40e1-ac15-0178abb391ad",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "85f5bb26-1922-4c16-a200-56c097f7561c",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "aab041fd-cfe1-4716-9e83-883a2ae470da",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "4e056a92-720c-4612-807c-fd5272f50a1d",
+      "tag": "tours",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "9aba82ae-e55b-4c91-b11c-d654b138fe4e",
+      "tag": "tours",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "8fdb8f21-ff37-489b-ad4d-2a9309c3e282",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "591f4335-7784-4b0e-800e-9567c00a6a1d",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "6c0c62cc-628d-4ed9-9055-b5c117116d88",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "8d60aa4f-1a08-4a2e-8c41-dcde32b0f4e2",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "f1b12f20-e66a-4c0b-b44b-111232e46fac",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "3c509118-9d44-4825-b523-93fc5d2ff9fe",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    }
+  ],
+  "sections": [
+    {
+      "id": "7b7ebca4-912d-4655-af3d-0d5d5640486e",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

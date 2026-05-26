@@ -1,32 +1,260 @@
 {
-  "id": "9331bd93-8892-4fbc-b067-61d9d155f851",
-  "slug": "selah-eivMDE",
-  "name": "Selah",
-  "entity_type": "restaurant",
-  "entity_subtype": "coffee_shop",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 424-7235",
-  "email": null,
-  "website_url": "http://selahfortmorgan.com/",
-  "address_line_1": "741 Plantation Rd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.8,
-  "review_count": 153,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/4ba6abc4-f3c4-4e6f-9366-a0bac9f0b20c/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "9331bd93-8892-4fbc-b067-61d9d155f851",
+    "place_id": "ChIJE-cuPQAhmogR0xAe2eivMDE",
+    "google_maps_uri": "https://maps.google.com/?cid=3544526321350480083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "selah-eivMDE",
+    "name": "Selah",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "coffee_shop",
+    "secondary_types": [],
+    "google_type": "coffee_shop",
+    "google_types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 424-7235",
+    "international_phone": null,
+    "website_url": "http://selahfortmorgan.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "741 Plantation Rd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2339299,
+    "longitude": -87.8888602,
+    "short_address": "741 Plantation Rd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 153,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/4ba6abc4-f3c4-4e6f-9366-a0bac9f0b20c/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 4:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 7:00 AM – 4:00 PM",
+      "Sunday: 7:00 AM – 4:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.140955+00:00",
+    "updated_at": "2026-05-17T22:48:08.723443+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "529436dd-a52c-416d-b248-c29541728b59",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "d98f68a4-23c4-4d59-9d61-c409f35549b0",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "eb34123c-bf5a-49a0-a93f-a700f9b4bab1",
+      "tag": "cafe",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "9aad8663-1b3c-4881-8b0d-f7b23cc7b649",
+      "tag": "cafe",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "98c805e8-34c4-45a5-b036-0ea3af121185",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "e743deb1-64f3-4945-ba02-3d0c4bfa8367",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "e0912ff3-cae0-4507-bb2e-4a593c422bf1",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "a9890fa3-0904-44b9-8b0a-950f857a9657",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "e0b0be4e-be57-442b-9751-67c4b6bd3f7d",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "834a7bfc-02c6-4d05-8125-ad0c5e406955",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "f0aa8e0e-1084-44fc-b53b-f5b7044dda6e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "ba749c4e-8dad-452f-85fe-55bce5a4b935",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "1109b798-70dd-4234-97ad-4721184d3e5f",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "954bcec9-8d2e-4abd-ade7-cbe19c869a0e",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "7d2717a3-8e1d-4760-a762-e13e50e6a96c",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

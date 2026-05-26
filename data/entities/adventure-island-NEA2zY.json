@@ -1,32 +1,695 @@
 {
-  "id": "079812c9-c09f-407b-8b53-0ce73808ad15",
-  "slug": "adventure-island-NEA2zY",
-  "name": "Adventure Island",
-  "entity_type": "activity",
-  "entity_subtype": "amusement-park",
-  "icon": "🏪",
-  "description": "Adventure Island has been welcoming guests to the Gulf Coast for 30 years! Still family owned and operated, Adventure Island features multiple indoor and outdoor attractions, as well as one of the largest redemption arcades in the region. Load up a new Adventure Island Treasure Card with points to easily enjoy all attractions and arcade games.",
-  "phone": "(251) 974-1500",
-  "email": null,
-  "website_url": "http://adventure-island.com/",
-  "address_line_1": "24559 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.5,
-  "review_count": 2199,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779139840182.9424.jpg",
-  "photos": [],
+  "entity": {
+    "id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+    "place_id": "ChIJC5cg-Y4GmogRfmvedNEA2zY",
+    "google_maps_uri": "https://maps.google.com/?cid=3952753997556640638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "adventure-island-NEA2zY",
+    "name": "Adventure Island",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "amusement-park",
+    "secondary_types": "",
+    "google_type": "amusement_center",
+    "google_types": [
+      "amusement_center",
+      "video_arcade",
+      "amusement_park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 974-1500",
+    "international_phone": null,
+    "website_url": "http://adventure-island.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "24559 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2668825,
+    "longitude": -87.6056267,
+    "short_address": "24559 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 2199,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Amusement park with go-karts, bumper boats, kiddie rides & glow-in-the-dark mini-golf, plus an arcade & more.",
+    "description": "Adventure Island has been welcoming guests to the Gulf Coast for 30 years! Still family owned and operated, Adventure Island features multiple indoor and outdoor attractions, as well as one of the largest redemption arcades in the region. Load up a new Adventure Island Treasure Card with points to easily enjoy all attractions and arcade games.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779139840182.9424.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/adventureislandorangebeachalabama/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM��– 8:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 8:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://adventure-island.com/",
+      "pages": [
+        {
+          "url": "http://adventure-island.com/",
+          "text": "403 - Forbidden\n\nAccess to this page is forbidden.",
+          "title": "403 - Forbidden"
+        }
+      ],
+      "imageUrls": [],
+      "scraped_at": "2026-05-16T06:56:04.426Z",
+      "business_name": "Adventure Island"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "raw-page-data",
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.040151+00:00",
+    "updated_at": "2026-05-18T21:30:45.206936+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "62c39e95-b26d-4711-a411-72fae85fcdbb",
+      "tag": "arcade games",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "60ccc21c-3924-4e5e-9db1-63eb62d048c9",
+      "tag": "arcade games",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "7aa8beeb-180b-4a53-ab13-2e9c5cc6316d",
+      "tag": "mini golf",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "105e1119-27bd-43c3-a299-d0c558a81e8a",
+      "tag": "mini golf",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "40ebb561-706a-462a-8186-2a72309ae474",
+      "tag": "go-karts",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "a050e8bc-61ad-4a1e-8518-7849fc4b141a",
+      "tag": "go-karts",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "6bb06272-cec3-4fcd-aa52-3010e6d4f10f",
+      "tag": "bumper boats",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "a7de2b35-1e39-4e86-b5f1-2f53cec6de66",
+      "tag": "bumper boats",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "9cdf83e4-44bf-401a-a88b-8aa84d8975f0",
+      "tag": "family entertainment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "263639b6-58cd-40af-975e-91dfc05c3d26",
+      "tag": "family entertainment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "e424d2bc-c508-4b2d-96b7-bc5a2d906018",
+      "tag": "indoor attractions",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "1759d964-2d65-44bd-a93a-51298b918d43",
+      "tag": "indoor attractions",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "55fab032-59c0-4fb2-a414-8984df1c5da7",
+      "tag": "outdoor attractions",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "767d2fc1-4bdb-489a-822c-e45dbb03036d",
+      "tag": "outdoor attractions",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "5ded0425-5037-4c61-8828-ceb660f8cd84",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "a31a87cf-a952-4881-8cc3-5696ad2747a2",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "a3215449-f8ec-49ce-b13f-fe3c968abe68",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "984363c3-7ecf-4ac1-a5f0-a58f30a9a041",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "d2ef05b3-1963-4bc9-8b80-859401e93b31",
+      "tag": "birthday parties",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "08f6b7fb-4801-46db-b8a5-4cb557049e91",
+      "tag": "birthday parties",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "aba5261f-0728-4a44-9e19-31d7d7ddc456",
+      "tag": "group events",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "c811868d-ac83-4c76-b42f-845fcc49e851",
+      "tag": "group events",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "95a6387a-54a5-45d0-b4ab-8f7730e34916",
+      "tag": "redemption arcade",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "577b9135-e2b3-4b5e-82fc-0d53e1025923",
+      "tag": "redemption arcade",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "676ec4f2-0078-469d-919a-ff1c10d73d4e",
+      "tag": "virtual reality",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "f3854772-8a7d-4f2e-977b-b9fa84d76e8a",
+      "tag": "virtual reality",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "8259b5e3-65d8-47f7-a486-efdef3bbfe2d",
+      "tag": "kids activities",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "fe4eed86-5ee6-4364-8af4-86ac4ddac53b",
+      "tag": "kids activities",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "86f1c6f2-3c8b-48ad-9f60-367954c113bb",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "b93e35d9-7b08-4988-b282-773f21e0f4eb",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "36e77f36-a8cb-48d5-9f9f-9791e78cc37a",
+      "tag": "Amusement Parks",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "0df0a219-1637-4c7a-ae11-4ccf67c1adbf",
+      "tag": "Amusement Parks",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "cba0f7ac-cb8c-4858-bd25-f8a2a4dc9c1d",
+      "tag": "Family Entertainment",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "e859a7d0-e17c-4dc1-9aa5-e37b31913dcc",
+      "tag": "Family Entertainment",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "75e4ffb0-d8cc-4084-8c2c-34b7668edaab",
+      "tag": "Arcade Games",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "9e5cf4b8-0ec2-4e85-8806-6d20d8e48296",
+      "tag": "Arcade Games",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "edec646c-f619-4f06-802c-7588dccd48bc",
+      "tag": "Party Venues",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "fe843c2d-d935-4b56-b03c-8971379c35b3",
+      "tag": "Party Venues",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "9e8b796d-5852-4887-8e5c-374a2c49e3b7",
+      "tag": "Children's Activities",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "73d19cef-8191-4e0c-bf2a-359d51e5c378",
+      "tag": "Children's Activities",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "43beabac-3629-4c8b-ae6c-ac2eb3829964",
+      "tag": "Recreational Activities",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "82c8f973-6f0e-4486-a4ca-121e8b265c46",
+      "tag": "Recreational Activities",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "4b4c66fb-d70a-4071-be94-8b399016712f",
+      "tag": "entertainment",
+      "tag_category": "industry",
+      "sort_order": 21
+    },
+    {
+      "id": "0ce67ac3-a9b0-4b51-b374-a2c9711b8ad3",
+      "tag": "entertainment",
+      "tag_category": "industry",
+      "sort_order": 21
+    },
+    {
+      "id": "19018118-b6ff-48e7-a5f4-3aa8ace164d3",
+      "tag": "amusement-park",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "a3f9feec-100b-4534-9c94-afe65b108246",
+      "tag": "amusement-park",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "79928e6f-ba59-4fbe-9b54-6905b28dd7ea",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "106e2d54-95fe-4eaa-aa3b-143a9e2be0d1",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "1bfe67a8-1960-4c08-bcc6-b87860e254fc",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "a1bc63cc-e554-4f82-882f-b4fd374780cb",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "a264bb3a-49a7-4671-9565-38dbfe0f8681",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 25
+    },
+    {
+      "id": "3ac86f49-34ac-4b6f-a795-ff0f607af930",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 25
+    },
+    {
+      "id": "c45bed6f-d7f3-49ec-9237-621829cdb926",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "a6d83a94-e770-4c42-9ffd-02985c626fc9",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "e0d049b0-3258-4f64-9c02-aee26bc5f05f",
+      "tag": "amusement center",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "f8f7cb5a-ee8c-49c9-83b5-bb4c9ec97631",
+      "tag": "amusement center",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "44e1d152-0799-4078-b4da-110eb8d6297b",
+      "tag": "video arcade",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "e5b3ee7f-d404-42e4-abe4-b2fdf05c437c",
+      "tag": "video arcade",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "077e11d5-a3fd-4be1-b330-53a616044dda",
+      "tag": "amusement park",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "44ff796d-8da7-49cb-8772-ba5f3f2b7ae7",
+      "tag": "amusement park",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "46662a58-91b8-4c09-9525-d2165a513664",
+      "tag": "amusement",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "d0c87e27-633a-4a06-800e-59fb06cb9851",
+      "tag": "amusement",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "11c65fbd-9512-497b-81a9-ca19ab19f670",
+      "tag": "amusement_center",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "eebc2f77-110b-4fc8-9ca3-bf2d6c88df32",
+      "tag": "amusement_center",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "a2f43aa7-1061-421b-86d8-c31aec0e685b",
+      "tag": "video_arcade",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "fadbf448-f658-44f5-a94f-b2bada4a6c35",
+      "tag": "video_arcade",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "33ea5430-c268-453f-9801-b8bd1f2b240c",
+      "tag": "amusement_park",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "8b9d0f1a-ac5e-4832-b772-e11bf21c9d15",
+      "tag": "amusement_park",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "4f2e4b69-7f3c-44de-a7d8-3e78893c0ff8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "2f1fdcbb-0000-4b29-9123-ea80f70d4910",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 34
+    }
+  ],
+  "sections": [
+    {
+      "id": "313940f7-654d-4f82-9a90-1bd356b5eb86",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "f3386b60-a481-4873-9a57-9b68b77461c9",
+      "entity_id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779131442411.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:06.595695+00:00"
+    },
+    {
+      "id": "741d0491-2477-4ddb-a850-c9e3b64576c6",
+      "entity_id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779132092691.9854.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:07.410887+00:00"
+    },
+    {
+      "id": "a5e42336-459b-410e-a7a8-693b88aea29c",
+      "entity_id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779131489718.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:06.772817+00:00"
+    },
+    {
+      "id": "556a3422-87b4-400c-a2eb-e87645fbf322",
+      "entity_id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779139723231.5178.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:07.573127+00:00"
+    },
+    {
+      "id": "ea395670-260a-4eb9-8408-fdc42fa132a5",
+      "entity_id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779131555665.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:06.931791+00:00"
+    },
+    {
+      "id": "910a7018-ddf8-4f8d-956c-8bd3a4ad2b6f",
+      "entity_id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779139773486.9321.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:07.720756+00:00"
+    },
+    {
+      "id": "5eb640f5-d4ba-429b-977f-699c81468e1d",
+      "entity_id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779131984503.9824.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:07.087372+00:00"
+    },
+    {
+      "id": "91226527-20fb-4511-8cfe-8fcc85a6b59d",
+      "entity_id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779139840182.9424.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:07.880329+00:00"
+    },
+    {
+      "id": "12533a64-333f-47d6-9309-35d6cdab20dc",
+      "entity_id": "079812c9-c09f-407b-8b53-0ce73808ad15",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/079812c9-c09f-407b-8b53-0ce73808ad15/079812c9-c09f-407b-8b53-0ce73808ad15_1779132027730.5894.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:07.249448+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

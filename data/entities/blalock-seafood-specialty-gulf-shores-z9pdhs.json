@@ -1,32 +1,1123 @@
 {
-  "id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
-  "slug": "blalock-seafood-specialty-gulf-shores-z9pdhs",
-  "name": "Blalock Seafood & Specialty Gulf Shores",
-  "entity_type": "business",
-  "entity_subtype": "market",
-  "icon": "🏪",
-  "description": "Blalock Seafood & Specialty Market is the premier source for fresh seafood on the Alabama Gulf Coast. Located in Gulf Shores, AL, our fish, seafood, and shrimp market has provided high-quality seafood and gourmet items to the region for more than 10 years. With some of the best locally caught seafood around, we're dedicated to your satisfaction. We serve our customers with pride, providing one of the widest selections of seafood in the area.",
-  "phone": "(251) 968-5811",
-  "email": null,
-  "website_url": "http://blalockseafoodgulfshores.com/",
-  "address_line_1": "1911 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.7,
-  "review_count": 742,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/011d44e8-a653-42be-a487-e9e32d9cdd1d/011d44e8-a653-42be-a487-e9e32d9cdd1d_1779139850660.3894.jpg",
-  "photos": [],
+  "entity": {
+    "id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
+    "place_id": "ChIJO7Ij3tkEmogRhFweTz9pdhs",
+    "google_maps_uri": "https://maps.google.com/?cid=1978884806907157636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "blalock-seafood-specialty-gulf-shores-z9pdhs",
+    "name": "Blalock Seafood & Specialty Gulf Shores",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "market",
+    "secondary_types": "",
+    "google_type": "market",
+    "google_types": [
+      "market",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-5811",
+    "international_phone": null,
+    "website_url": "http://blalockseafoodgulfshores.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1911 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2717365,
+    "longitude": -87.6880923,
+    "short_address": "1911 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 742,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Blalock Seafood & Specialty Market is the premier source for fresh seafood on the Alabama Gulf Coast. Located in Gulf Shores, AL, our fish, seafood, and shrimp market has provided high-quality seafood and gourmet items to the region for more than 10 years. With some of the best locally caught seafood around, we're dedicated to your satisfaction. We serve our customers with pride, providing one of the widest selections of seafood in the area.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/011d44e8-a653-42be-a487-e9e32d9cdd1d/011d44e8-a653-42be-a487-e9e32d9cdd1d_1779139850660.3894.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 4:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Fresh Fish",
+          "items": [
+            {
+              "name": "Salmon",
+              "tags": [],
+              "price": 16.9,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Tuna",
+              "tags": [],
+              "price": 18.9,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Grouper",
+              "tags": [],
+              "price": 23.9,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Trigger",
+              "tags": [],
+              "price": 17.9,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Mahi",
+              "tags": [],
+              "price": 16.9,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Flounder",
+              "tags": [],
+              "price": 13.9,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Triple tail",
+              "tags": [],
+              "price": 17.9,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cobia",
+              "tags": [],
+              "price": 15.9,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Shrimp",
+          "items": [
+            {
+              "name": "Royal Red Shrimp",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Medium, large, and jumbo sizes available. Famous shrimp from fresh, fertile waters of Mexico's gulf.",
+              "subcategory": null
+            },
+            {
+              "name": "Shrimp Bisque",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Famous shrimp bisque made with fresh shrimp",
+              "subcategory": null
+            },
+            {
+              "name": "Medium Shrimp",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Large Shrimp",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Jumbo Shrimp",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Shellfish & Specialty Items",
+          "items": [
+            {
+              "name": "Blue Crab Meat",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Four different types available",
+              "subcategory": null
+            },
+            {
+              "name": "Oysters",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Available by the dozen or freshly shucked",
+              "subcategory": null
+            },
+            {
+              "name": "Scallops",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Smoked Tuna Dip",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Famous specialty item",
+              "subcategory": null
+            },
+            {
+              "name": "Tuna Dip",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Frozen Hush Puppies",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Specialty Offerings",
+          "items": [
+            {
+              "name": "Gourmet Spices",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Fine Cheeses",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Dips and Marinades",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Shellfish",
+          "items": [
+            {
+              "name": "Blue Crab Meat",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Four Different Types",
+              "subcategory": null
+            },
+            {
+              "name": "Oysters",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "By the Dozen or Freshly Shucked",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Specialty Items",
+          "items": [
+            {
+              "name": "Shrimp Bisque",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Famous shrimp bisque",
+              "subcategory": null
+            },
+            {
+              "name": "Smoked Tuna Dip",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Tuna Dip",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Frozen Hush Puppies",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Gourmet Seasonings",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Gourmet Dry Rubs",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Fine Cheese",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Dips and Marinades",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Seafood",
+          "items": [
+            {
+              "name": "Blue Crab Meat - Four Different Types",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Oysters - By the Dozen or Freshly Shucked",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Shrimp - Medium, Large, and Jumbo",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Royal Red Shrimp",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Scallops",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Trout",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.112133+00:00",
+    "updated_at": "2026-05-21T06:05:39.85628+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": "high",
+    "extraction_timestamp": "2026-05-21T06:05:37.071+00:00",
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "a46c6d48-7688-42e7-8348-80eff912b8bc",
+      "tag": "market",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "fad93ade-123b-429b-b094-71ce2fb319fe",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "09dfba1a-73ac-450f-880e-a2f4374716ff",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "27fb0cb1-dbeb-4d5a-b33b-4c6eddd782fd",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "b80dfe09-0a66-4512-b446-a3bf92d0b0df",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "7a179373-73cf-4f11-a4d8-b17d8b355f53",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "3954db2a-dc41-41c4-b312-b1b69be3b576",
+      "section_key": "seafood-market-items",
+      "section_label": "Seafood Market Items",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+          "title": "Seafood Market Items",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": [
+            {
+              "id": "b048743c-95b1-461b-a9b8-5a7ae1a6e0a8",
+              "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+              "item_name": "Shrimp",
+              "item_description": "Fresh shrimp from the Gulf of Mexico",
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 0
+            },
+            {
+              "id": "cf526526-2ac4-4270-885f-9503c61b790c",
+              "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+              "item_name": "Mahi",
+              "item_description": "Fresh mahi fish",
+              "price_label": null,
+              "price_text": "$15.90 per lb",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 1
+            },
+            {
+              "id": "cd324271-bf39-4f92-8fc9-e898bed5722b",
+              "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+              "item_name": "Triple Tail",
+              "item_description": "Fresh triple tail fish",
+              "price_label": null,
+              "price_text": "$16.90 per lb",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 2
+            },
+            {
+              "id": "c14f2b74-a4ad-4d7e-86bb-ee390aa6c03a",
+              "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+              "item_name": "Croaker",
+              "item_description": "Fresh croaker fish",
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 3
+            },
+            {
+              "id": "74f0354f-6980-47d6-a419-f4db711d76ad",
+              "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+              "item_name": "Grouper",
+              "item_description": "Fresh grouper fish",
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 4
+            }
+          ]
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "46eaf95d-9a7b-4259-9988-d136d335e347",
+      "section_key": "services",
+      "section_label": "Services",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "d282268e-eadd-4355-add5-1e3c1df449e3",
+          "title": "Services",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": [
+            {
+              "id": "93f73da1-69da-47ff-af44-1787b689db2e",
+              "group_id": "d282268e-eadd-4355-add5-1e3c1df449e3",
+              "item_name": "Free Pack to Travel",
+              "item_description": "Professional wrapping and sealing of purchases to ensure they're packed safely for travel home",
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 0
+            },
+            {
+              "id": "8a6eb096-5a22-4735-8cdc-0328fe5e5fec",
+              "group_id": "d282268e-eadd-4355-add5-1e3c1df449e3",
+              "item_name": "Steamed Meal Solutions",
+              "item_description": "Steamed meal solutions with all your favorite seafood products",
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 1
+            }
+          ]
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "c5c82e1f-2f85-46c0-bcf8-e8f70021d1c0",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [
+    {
+      "id": "93f73da1-69da-47ff-af44-1787b689db2e",
+      "section_id": "46eaf95d-9a7b-4259-9988-d136d335e347",
+      "group_id": "d282268e-eadd-4355-add5-1e3c1df449e3",
+      "item_name": "Free Pack to Travel",
+      "item_description": "Professional wrapping and sealing of purchases to ensure they're packed safely for travel home",
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "b048743c-95b1-461b-a9b8-5a7ae1a6e0a8",
+      "section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576",
+      "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+      "item_name": "Shrimp",
+      "item_description": "Fresh shrimp from the Gulf of Mexico",
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "cf526526-2ac4-4270-885f-9503c61b790c",
+      "section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576",
+      "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+      "item_name": "Mahi",
+      "item_description": "Fresh mahi fish",
+      "price_label": null,
+      "price_text": "$15.90 per lb",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "8a6eb096-5a22-4735-8cdc-0328fe5e5fec",
+      "section_id": "46eaf95d-9a7b-4259-9988-d136d335e347",
+      "group_id": "d282268e-eadd-4355-add5-1e3c1df449e3",
+      "item_name": "Steamed Meal Solutions",
+      "item_description": "Steamed meal solutions with all your favorite seafood products",
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "cd324271-bf39-4f92-8fc9-e898bed5722b",
+      "section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576",
+      "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+      "item_name": "Triple Tail",
+      "item_description": "Fresh triple tail fish",
+      "price_label": null,
+      "price_text": "$16.90 per lb",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 2,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "c14f2b74-a4ad-4d7e-86bb-ee390aa6c03a",
+      "section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576",
+      "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+      "item_name": "Croaker",
+      "item_description": "Fresh croaker fish",
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 3,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "74f0354f-6980-47d6-a419-f4db711d76ad",
+      "section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576",
+      "group_id": "ea1cd156-dbbe-4bd7-948f-493604710034",
+      "item_name": "Grouper",
+      "item_description": "Fresh grouper fish",
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 4,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    }
+  ],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "d6e107aa-33c0-426f-9be0-2397dd9e075e",
+      "entity_id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/011d44e8-a653-42be-a487-e9e32d9cdd1d/011d44e8-a653-42be-a487-e9e32d9cdd1d_1779139729805.386.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:24.622161+00:00"
+    },
+    {
+      "id": "9138f0d5-af82-419a-9017-4dce9e695567",
+      "entity_id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/011d44e8-a653-42be-a487-e9e32d9cdd1d/011d44e8-a653-42be-a487-e9e32d9cdd1d_1779131448578.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:23.999095+00:00"
+    },
+    {
+      "id": "1d7e6398-7550-4a65-8cc4-147fbd9e5cfe",
+      "entity_id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/011d44e8-a653-42be-a487-e9e32d9cdd1d/011d44e8-a653-42be-a487-e9e32d9cdd1d_1779139850660.3894.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:24.781228+00:00"
+    },
+    {
+      "id": "7baf98fc-ccb8-42ec-a7b5-9748e243f9d6",
+      "entity_id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/011d44e8-a653-42be-a487-e9e32d9cdd1d/011d44e8-a653-42be-a487-e9e32d9cdd1d_1779131564878.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:24.147069+00:00"
+    },
+    {
+      "id": "25e81ffe-5d69-421a-aad0-9852a6eac916",
+      "entity_id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/011d44e8-a653-42be-a487-e9e32d9cdd1d/011d44e8-a653-42be-a487-e9e32d9cdd1d_1779131989846.4102.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:24.296501+00:00"
+    },
+    {
+      "id": "d57c5570-df22-4717-849c-3759f344a5fb",
+      "entity_id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/011d44e8-a653-42be-a487-e9e32d9cdd1d/011d44e8-a653-42be-a487-e9e32d9cdd1d_1779132104112.512.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:24.475995+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [
+      {
+        "id": "3954db2a-dc41-41c4-b312-b1b69be3b576",
+        "section_name": "Seafood Market Items",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
+        "sort_order": 0
+      },
+      {
+        "id": "46eaf95d-9a7b-4259-9988-d136d335e347",
+        "section_name": "Services",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "011d44e8-a653-42be-a487-e9e32d9cdd1d",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": [
+      {
+        "id": "93f73da1-69da-47ff-af44-1787b689db2e",
+        "item_name": "Free Pack to Travel",
+        "description": "Professional wrapping and sealing of purchases to ensure they're packed safely for travel home",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "46eaf95d-9a7b-4259-9988-d136d335e347"
+      },
+      {
+        "id": "b048743c-95b1-461b-a9b8-5a7ae1a6e0a8",
+        "item_name": "Shrimp",
+        "description": "Fresh shrimp from the Gulf of Mexico",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576"
+      },
+      {
+        "id": "cf526526-2ac4-4270-885f-9503c61b790c",
+        "item_name": "Mahi",
+        "description": "Fresh mahi fish",
+        "price_text": "$15.90 per lb",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576"
+      },
+      {
+        "id": "8a6eb096-5a22-4735-8cdc-0328fe5e5fec",
+        "item_name": "Steamed Meal Solutions",
+        "description": "Steamed meal solutions with all your favorite seafood products",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "46eaf95d-9a7b-4259-9988-d136d335e347"
+      },
+      {
+        "id": "cd324271-bf39-4f92-8fc9-e898bed5722b",
+        "item_name": "Triple Tail",
+        "description": "Fresh triple tail fish",
+        "price_text": "$16.90 per lb",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 2,
+        "menu_section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576"
+      },
+      {
+        "id": "c14f2b74-a4ad-4d7e-86bb-ee390aa6c03a",
+        "item_name": "Croaker",
+        "description": "Fresh croaker fish",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 3,
+        "menu_section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576"
+      },
+      {
+        "id": "74f0354f-6980-47d6-a419-f4db711d76ad",
+        "item_name": "Grouper",
+        "description": "Fresh grouper fish",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 4,
+        "menu_section_id": "3954db2a-dc41-41c4-b312-b1b69be3b576"
+      }
+    ]
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

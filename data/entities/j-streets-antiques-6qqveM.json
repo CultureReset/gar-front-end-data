@@ -1,32 +1,255 @@
 {
-  "id": "bae97115-d2e8-4a7c-bacf-6ecb679fa475",
-  "slug": "j-streets-antiques-6qqveM",
-  "name": "J Streets Antiques",
-  "entity_type": "shopping",
-  "entity_subtype": "home_goods_store",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(256) 504-7135",
-  "email": null,
-  "website_url": "http://www.jstreetsonthecanal.com/",
-  "address_line_1": "22662 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 3.6,
-  "review_count": 48,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/863f92eb-beb8-49a0-ac35-0b8c3cfaf857/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "bae97115-d2e8-4a7c-bacf-6ecb679fa475",
+    "place_id": "ChIJ94Oy4McFmogRt6Pyu6qqveM",
+    "google_maps_uri": "https://maps.google.com/?cid=16410460267482358711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "j-streets-antiques-6qqveM",
+    "name": "J Streets Antiques",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "home_goods_store",
+    "secondary_types": [],
+    "google_type": "home_goods_store",
+    "google_types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(256) 504-7135",
+    "international_phone": null,
+    "website_url": "http://www.jstreetsonthecanal.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "22662 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2880767,
+    "longitude": -87.6371859,
+    "short_address": "22662 Canal Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 3.6,
+    "review_count": 48,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/863f92eb-beb8-49a0-ac35-0b8c3cfaf857/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: Closed",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: 9:00 AM – 4:00 PM",
+      "Saturday: 9:00 AM – 1:00 PM",
+      "Sunday: 9:00��AM – 1:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.14342+00:00",
+    "updated_at": "2026-05-17T22:22:52.688682+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "75b099c9-9667-47c0-a5e4-62fb02d39bdb",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "c242dfc5-bd61-41d7-b50c-5a833cffd1f1",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "675c2f01-f81e-4f08-a035-9fb6e36115e3",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "cf3b50d0-9009-4cfa-ab0b-59f53b9da2ba",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "de711f3c-1104-4dac-bfd6-0ef16d7d237d",
+      "tag": "home goods store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "d6e9ad8a-9775-4254-a9e7-18ba98b7a877",
+      "tag": "home goods store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "0e468eb0-201f-4df3-997b-1e3081b4fb70",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "7fdd5c2b-efa5-436c-83fd-76db9870648a",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "c3307ba2-cd86-4a26-a405-4b1d7fe9c7fc",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "96d8f5ff-6daa-4688-888f-3da6281847fd",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "1313f913-23d0-49b2-b37f-1eb921479b34",
+      "tag": "home_goods_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "523fd65d-d768-424d-b271-ec2dc7ca2175",
+      "tag": "home_goods_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "91e2c0de-b16e-4b76-b659-a331b0cc6df7",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "abbdf863-dc12-4c64-9273-bc15bbd9bbf5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "ef56456c-7243-43a0-9d7f-b20be168463c",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

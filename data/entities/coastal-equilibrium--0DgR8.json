@@ -1,32 +1,226 @@
 {
-  "id": "566670a7-7168-40d8-89ff-f71e5247129f",
-  "slug": "coastal-equilibrium--0DgR8",
-  "name": "Coastal Equilibrium",
-  "entity_type": "service",
-  "entity_subtype": "massage",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 943-5600",
-  "email": null,
-  "website_url": "https://www.coastalequilibrium.com/",
-  "address_line_1": "3947 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 1,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "566670a7-7168-40d8-89ff-f71e5247129f",
+    "place_id": "ChIJYTI4FwcFmogRB7-ZU-0DgR8",
+    "google_maps_uri": "https://maps.google.com/?cid=2270100005016157959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "coastal-equilibrium--0DgR8",
+    "name": "Coastal Equilibrium",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "massage",
+    "secondary_types": "",
+    "google_type": "massage",
+    "google_types": [
+      "massage",
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-5600",
+    "international_phone": null,
+    "website_url": "https://www.coastalequilibrium.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3947 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3102213,
+    "longitude": -87.6841155,
+    "short_address": "3947 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 1,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.22949+00:00",
+    "updated_at": "2026-05-18T21:06:18.967635+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "cf0b5b5e-94e0-4727-8917-0427d2b59915",
+      "tag": "massage",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "760e099d-6122-487b-8d6e-75f5d949c22a",
+      "tag": "medical clinic",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d4cef40b-1239-422b-aae8-0ce212167745",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "1434c243-0798-4eea-a384-f9c9f4973d90",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "7f688274-42a4-4145-be85-c73eb4720de5",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "46a2a28b-fdab-4d26-b13f-5fd4a7f5be6b",
+      "tag": "health",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "ebc85216-d6bb-4c38-9d27-9c0ae0227056",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "2a4289f7-baf2-43f8-83a2-8044c939645e",
+      "tag": "medical_clinic",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "17b62d4f-ea97-4054-a7cc-591032c0c5e3",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    }
+  ],
+  "sections": [
+    {
+      "id": "a6341ac6-56fc-4140-92e3-3fcd04d1b063",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

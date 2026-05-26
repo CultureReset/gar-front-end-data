@@ -1,32 +1,437 @@
 {
-  "id": "44148e94-b69d-450a-bb8e-c0bba26a2df0",
-  "slug": "island-tower-jYFgdI",
-  "name": "Island Tower",
-  "entity_type": "hotel",
-  "entity_subtype": "condo",
-  "icon": "🏪",
-  "description": "You’ll enjoy stunning views of the beachfront and Gulf of Mexico from your room at Island Tower Gulf Shores.  Located just a few blocks west of Hwy 59, the Island Tower resort condominiums are both conveniently located and comfortably secluded just off the beaten path.  Rest and relax in the hot tub or the sauna and follow it up with a refreshing splash in one of the two pools on the property.  If you’re looking for fun in the sun and a relaxing vacation, Island Tower rentals Gulf Shores has pre",
-  "phone": "(251) 948-7001",
-  "email": null,
-  "website_url": "https://towergulfshores.com/",
-  "address_line_1": "521 W Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": null,
-  "rating": 3.9,
-  "review_count": 111,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "44148e94-b69d-450a-bb8e-c0bba26a2df0",
+    "place_id": "ChIJGXx2zUwbmogRL1dKajYFgdI",
+    "google_maps_uri": "https://maps.google.com/?cid=15168410751230170927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "island-tower-jYFgdI",
+    "name": "Island Tower",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "condo",
+    "secondary_types": "",
+    "google_type": "condominium_complex",
+    "google_types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-7001",
+    "international_phone": null,
+    "website_url": "https://towergulfshores.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "521 W Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.246738,
+    "longitude": -87.6978077,
+    "short_address": "521 W Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 3.9,
+    "review_count": 111,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "You’ll enjoy stunning views of the beachfront and Gulf of Mexico from your room at Island Tower Gulf Shores.  Located just a few blocks west of Hwy 59, the Island Tower resort condominiums are both conveniently located and comfortably secluded just off the beaten path.  Rest and relax in the hot tub or the sauna and follow it up with a refreshing splash in one of the two pools on the property.  If you’re looking for fun in the sun and a relaxing vacation, Island Tower rentals Gulf Shores has pre",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "paidParkingLot": true,
+      "paidGarageParking": true
+    },
+    "payment": null,
+    "hours_text": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.brett-robinson.com/beach-condo/island-tower/",
+      "tags": [
+        "beachfront",
+        "family-friendly",
+        "gulf front",
+        "pools",
+        "hot tub",
+        "sauna",
+        "Gulf Shores",
+        "vacation rental",
+        "condo resort"
+      ],
+      "type": "Condo Resort",
+      "about": {
+        "floors": null,
+        "check_in": null,
+        "check_out": null,
+        "year_built": null,
+        "description": "Island Tower Gulf Shores offers stunning views of the beachfront and Gulf of Mexico from room balconies. Located just a few blocks west of Hwy 59, the Island Tower resort condominiums are both conveniently located and comfortably secluded just off the beaten path. The property features two pools, hot tub, and sauna for relaxation. A family-friendly beach vacation destination with all the basics and more covered.",
+        "total_units": null,
+        "minimum_stay": null,
+        "pet_friendly": null,
+        "elevator_pitch": "Beachfront Gulf Shores condo resort with stunning Gulf views, two pools, hot tub, sauna, and convenient access to dining and attractions.",
+        "age_restriction": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "dining": [
+        {
+          "name": "Downtown Gulf Shores",
+          "type": "Multiple Restaurants",
+          "description": "Close proximity to fantastic dining choices in downtown Gulf Shores area"
+        }
+      ],
+      "contact": {
+        "zip": "36542",
+        "city": "Gulf Shores",
+        "email": null,
+        "phone": "1-800-211-7892",
+        "state": "AL",
+        "address": "521 West Beach Blvd"
+      },
+      "gallery": [
+        "https://www.brett-robinson.com/assets/images/BRV-25-95-Vacations-Logo-GS-OB-PK-Horizontal-V2.png",
+        "https://www.brett-robinson.com/uploads/BRV-26-25--Easter-30-Days-WebpageGraphic_184150.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-27--Mothers-Day-60-Days-WebpageGraphic_185358.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-11-Memorial-Day-Stays-V1-WebpageGraphic_150618.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-14-4-Bedroom-WebpageGraphic-V4_105813.jpg",
+        "https://www.brett-robinson.com/uploads/lFullSizeRender_110222.jpg",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024446PM_144957.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024255PM_144955.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024250PM_144952.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024550PM_145000.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024658PM_145003.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024800PM_145005.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024929PM_150512.png",
+        "https://www.brett-robinson.com/uploads/45dcbabd-14da-4c03-86b9-e33b1bec1699_152424.png",
+        "https://www.brett-robinson.com/uploads/f7c22236-e96b-4131-a6ef-3b8c161f6d60_152431.png",
+        "https://www.brett-robinson.com/uploads/114f4761-0d52-45a5-adf7-626f0144ccf1_152427.png",
+        "https://www.brett-robinson.com/uploads/7ea53f3d-a24b-4d65-96fa-e5f6adaf272d_152421.png",
+        "https://www.brett-robinson.com/uploads/b96b1f24-e333-42bc-9e47-d77fd57855e4_152429.png",
+        "https://www.brett-robinson.com/uploads/732961ba-7d13-4aa9-9294-690e2e1f3420_153528.png",
+        "https://www.brett-robinson.com/uploads/31e08f79-9b97-4008-a4c9-aac831c9b812_153520.png",
+        "https://www.brett-robinson.com/uploads/bad38faf-f976-4ddb-bf87-78b7a03d52df_153530.png",
+        "https://www.brett-robinson.com/uploads/9c90c840-9dd2-46b1-bc95-cc5c75810af3_153523.png",
+        "https://www.brett-robinson.com/uploads/9703bb55-7293-4a01-ad02-34e7793ffbd7_153525.png"
+      ],
+      "sources": [
+        "https://www.brett-robinson.com/beach-condo/island-tower",
+        "https://www.brett-robinson.com/specials-and-promotions",
+        "https://www.brett-robinson.com/specials-and-promotions/4bedrooms?icid=4+bedrooms&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/charming-beachfront-stays-for-a-tranquil-getaway?icid=Hidden-Gems&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/memorial90?icid=Memorial-Day-90&startDate=2026-05-21&endDate=2026-05-24",
+        "https://www.brett-robinson.com/specials-and-promotions/mothers-day-1?icid=Mothers-Day&startDate=2026-05-07&endDate=2026-05-09",
+        "https://www.brett-robinson.com/specials-and-promotions/spring-informationalb?icid=Spring-InformationalB&startDate=2026-03-05&endDate=2026-03-08",
+        "https://www.brett-robinson.com/specials-and-promotions/easter?icid=Easter&startDate=2026-04-02&endDate=2026-04-05",
+        "https://www.brett-robinson.com/history-of-brettrobinson",
+        "https://www.brett-robinson.com/gulf-shores-orange-beach-events",
+        "https://www.brett-robinson.com/about-brett-robinson",
+        "https://www.brett-robinson.com/office-locations",
+        "https://www.brett-robinson.com/contact",
+        "https://www.brett-robinson.com/driving-directions"
+      ],
+      "tagline": null,
+      "features": [
+        "beachfront access",
+        "multiple pools",
+        "on-site parking",
+        "covered parking",
+        "elevators",
+        "full kitchens",
+        "washer/dryer in units",
+        "fitness room",
+        "beach chair rentals",
+        "racquetball court",
+        "hot tub",
+        "sauna",
+        "infinity pool",
+        "on-site management"
+      ],
+      "location": {
+        "bay_view": false,
+        "beachfront": true,
+        "description": "Beachfront on Gulf of Mexico, located just a few blocks west of Hwy 59, conveniently located and comfortably secluded just off the beaten path at the end of Hwy 59"
+      },
+      "specials": [
+        {
+          "name": "Seasonal Discounts",
+          "dates": "Varies by season",
+          "description": "Seasonal discounts available on select dates"
+        },
+        {
+          "name": "Snowbird Specials",
+          "dates": "Winter months",
+          "description": "Discounts for longer stays during off-season"
+        },
+        {
+          "name": "Last-Minute Deals",
+          "dates": "Limited time offers",
+          "description": "Last-minute deals on select Gulf Shores rentals"
+        },
+        {
+          "name": "Group Rates",
+          "dates": "Varies",
+          "description": "Special rates available for large groups (4+ bedrooms sleep up to 22 guests)"
+        }
+      ],
+      "amenities": {
+        "spa": false,
+        "gated": false,
+        "other": [
+          "sauna",
+          "beach chair rentals",
+          "racquetball",
+          "infinity pool",
+          "washer/dryer in units",
+          "television",
+          "smoke detector",
+          "carbon monoxide detector"
+        ],
+        "pools": [
+          "outdoor pool",
+          "indoor pool"
+        ],
+        "parking": "on-site parking, on-site covered parking",
+        "hot_tubs": true,
+        "elevators": true,
+        "bbq_grills": true,
+        "bar_on_site": false,
+        "tennis_courts": false,
+        "fitness_center": true,
+        "business_center": false,
+        "kids_splash_pad": false,
+        "pickleball_courts": false,
+        "restaurant_on_site": false,
+        "private_beach_access": true
+      },
+      "scraped_at": "2026-03-21T21:30:55.796Z",
+      "unit_types": [
+        {
+          "name": "1 Bedroom",
+          "view": "gulf front",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": 1,
+          "features": [
+            "full kitchen",
+            "balcony with Gulf view",
+            "washer/dryer"
+          ],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "2 Bedroom",
+          "view": "gulf front",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": 2,
+          "features": [
+            "full kitchen",
+            "balcony with Gulf view",
+            "washer/dryer"
+          ],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "3 Bedroom",
+          "view": "gulf front",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": 3,
+          "features": [
+            "full kitchen",
+            "balcony with Gulf view",
+            "washer/dryer"
+          ],
+          "bathrooms": null,
+          "starting_price": null
+        }
+      ],
+      "extracted_at": "2026-03-23T03:48:46.974Z",
+      "social_links": {
+        "website": "https://www.brett-robinson.com/beach-condo/island-tower/",
+        "facebook": "https://www.facebook.com/BrettRobinsonVacations",
+        "instagram": "https://www.instagram.com/brett_robinson_vacations"
+      },
+      "business_name": "Island Tower"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "condos-data",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.45857+00:00",
+    "updated_at": "2026-05-18T21:06:53.806791+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "69adf510-c453-4773-9155-3035ff455b61",
+      "tag": "condo",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "6b321c26-3ef3-40ce-8bb8-160ba8dcf306",
+      "tag": "condo",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "fc44a429-d8a4-4b05-94e3-71b2273d8306",
+      "tag": "condominium_complex",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "6b83544e-a921-4bb8-942a-e314b95dd453",
+      "tag": "condominium_complex",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "793466ad-5b05-41d3-a50b-10a59ae69996",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "9d094911-aaa8-429a-893a-7efcf6af772d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "867eb03b-5615-47b7-9ee8-f84c44f941a3",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "a38f0fc5-aab3-41dd-ac6c-da8c87cc32b3",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "034cf003-0bc2-4c95-935d-362cee4ab726",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "8d84a6e3-c79b-43c6-8bf2-ea4db3ef31bc",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 4
+    }
+  ],
+  "sections": [
+    {
+      "id": "cfb4f6ce-d68e-4332-ab1e-191254d68b0b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

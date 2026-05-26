@@ -1,129 +1,316 @@
 {
-  "id": "3fcc0dea-12f1-44c9-8004-23e2f3f344ac",
-  "slug": "ebicycles2you-IaY9o4",
-  "name": "eBicycles2you",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 766-2525",
-  "email": null,
-  "address_line_1": "2209 N McKenzie St, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "https://ebicycles2you.com/",
-  "rating": 5,
-  "review_count": 49,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "3fcc0dea-12f1-44c9-8004-23e2f3f344ac",
+    "place_id": "ChIJ3wO4OWB-mIAR2bTVBIaY9o4",
+    "google_maps_uri": "https://maps.google.com/?cid=10301588899030742233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "ebicycles2you-IaY9o4",
+    "name": "eBicycles2you",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "bicycle_store",
+    "google_types": [
+      "bicycle_store",
+      "sporting_goods_store",
+      "point_of_interest",
+      "store",
+      "manufacturer",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 766-2525",
+    "international_phone": null,
+    "website_url": "https://ebicycles2you.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2209 N McKenzie St, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.4326773,
+    "longitude": -87.6836506,
+    "short_address": "2209 N McKenzie St, Foley",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 49,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 4:00 PM",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:25.32704+00:00",
+    "updated_at": "2026-05-18T21:06:29.851417+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "29b97b25-ca3f-4927-83fc-832a5ddf6163",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
-      "tag": "gulf_shores",
-      "tag_category": "search"
-    },
-    {
-      "tag": "bicycle_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "sporting_goods_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "manufacturer",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "81c95bc0-e41f-4a92-a485-7638c0e61189",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
-      "tag": "gulf_shores",
-      "tag_category": "search"
-    },
-    {
-      "tag": "bicycle_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "sporting_goods_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "manufacturer",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "10701be2-be53-4582-b19c-f1e494ff00f4",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "96405fd3-94ac-477b-89ce-41dc5ff2ae06",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "8bf05ed4-f363-4cb7-af71-716d9a3cab00",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "5c396029-973c-4c9d-a3be-af32d9480c90",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "96c1d0bb-ad01-4121-bf0c-0ec8a4150c46",
       "tag": "bicycle_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "f69ec814-1b55-4f23-88eb-a5ca23ee653c",
+      "tag": "bicycle_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "d1fafbb8-154f-43cc-aa2a-79fefcef7d63",
+      "tag": "bicycle_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "7e4bd015-51a1-46bc-a05d-804e15eaf7ab",
       "tag": "sporting_goods_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "53995453-ec7d-44f0-acc5-668fabc4a265",
+      "tag": "sporting_goods_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "a16cb08e-0d2a-49e6-a394-0daf381c48ee",
+      "tag": "sporting_goods_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "344ddde6-b803-4d3c-8657-b2bcaccb070a",
       "tag": "manufacturer",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "bbbef633-e196-4452-835a-9f71f19e1ac8",
+      "tag": "manufacturer",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "4907702f-0317-4ecc-aac3-d2156f9eb18c",
+      "tag": "manufacturer",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "f8c75d36-e868-4ea2-9662-073191c3bcc8",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "9aeffb4e-776f-4214-b2cc-f600bc1ba49c",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "cfa74c15-d0e4-4a98-9bee-8c2771fa9a16",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "590c6bbd-9723-45b8-ac15-f378e2d9640a",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "effc1047-fee0-4a01-a727-734af3f13c3f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "863181a5-c4ad-4c84-87ea-726416a463c0",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "472877f5-8fec-4a82-a6ac-4de856831b9d",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "82205b3a-20f3-41db-9f0e-33d3c26f664c",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "40ba1632-8184-416b-96d5-0d8fa9703579",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "babc51b3-004b-4b68-a79f-9c274e67eb8e",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

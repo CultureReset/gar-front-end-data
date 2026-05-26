@@ -1,93 +1,468 @@
 {
-  "id": "6360b230-e547-4803-a48e-3aec29ceccf1",
-  "slug": "counter-culture-foley-biN76E",
-  "name": "Counter Culture Foley",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "{\"description\":\"Fresh Eats. Fresh Treats. Counter Culture is home to The Humphrey and offers fresh sandwiches, salads, and yogurt treats.\",\"cuisine_type\":\"sandwiches\"}",
-  "phone": "(251) 943-1314",
-  "email": null,
-  "address_line_1": "2601 S McKenzie St suite 442, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "https://eatcounterculture.com/",
-  "rating": 4.8,
-  "review_count": 123,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "6360b230-e547-4803-a48e-3aec29ceccf1",
+    "place_id": "ChIJ3xui3dEPmogR0y5p_biN76E",
+    "google_maps_uri": "https://maps.google.com/?cid=11668700985205272275&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "counter-culture-foley-biN76E",
+    "name": "Counter Culture Foley",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "restaurant",
+      "salad_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-1314",
+    "international_phone": null,
+    "website_url": "https://eatcounterculture.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2601 S McKenzie St suite 442, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3743336,
+    "longitude": -87.6808558,
+    "short_address": "2601 S McKenzie St suite 442, Foley",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 123,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"Fresh Eats. Fresh Treats. Counter Culture is home to The Humphrey and offers fresh sandwiches, salads, and yogurt treats.\",\"cuisine_type\":\"sandwiches\"}",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 12:00 – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Cold Sandwiches",
+          "items": [
+            {
+              "name": "Avocado Delight",
+              "tags": [],
+              "price": null,
+              "dietary": [
+                "vegetarian"
+              ],
+              "popular": false,
+              "description": "Lightly seasoned, fresh sliced avocado served on wheat bread and dressed with mayonnaise, sprouts, tomato, lettuce, cheddar cheese and seasoning.",
+              "subcategory": null
+            },
+            {
+              "name": "Chopped Chicken",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh cooked boneless chicken breast diced and lightly seasoned served on wheat bread with tomato, lettuce, sprouts and mayonnaise.",
+              "subcategory": null
+            },
+            {
+              "name": "Smoked Turkey",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Heaping portions of thin sliced, smoked turkey on wheat bread with tomato, lettuce, sprouts, seasoning and mayonnaise.",
+              "subcategory": null
+            },
+            {
+              "name": "Chicken Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Jan's famous homemade recipe made country fresh each day with toasted almonds and a touch of pineapple. Garnished with seasoning, tomato, lettuce and sprouts on wheat bread.",
+              "subcategory": null
+            },
+            {
+              "name": "Tuna Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Delicious homemade tuna salad garnished with seasoning, tomato, lettuce and sprouts on wheat bread.",
+              "subcategory": null
+            },
+            {
+              "name": "Pimento Cheese",
+              "tags": [],
+              "price": null,
+              "dietary": [
+                "vegetarian"
+              ],
+              "popular": false,
+              "description": "Our own pimento cheese garnished with seasoning, tomato, lettuce and sprouts on wheat bread.",
+              "subcategory": null
+            },
+            {
+              "name": "Egg Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [
+                "vegetarian"
+              ],
+              "popular": false,
+              "description": "Specially prepared combination on wheat bread garnished with seasoning, tomato, lettuce and sprouts.",
+              "subcategory": null
+            },
+            {
+              "name": "Peanut Butter & Jelly Sandwich",
+              "tags": [],
+              "price": null,
+              "dietary": [
+                "vegetarian"
+              ],
+              "popular": false,
+              "description": "Three-layers of wheat bread with grape jelly and creamy peanut butter.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Hot Sandwiches",
+          "items": [
+            {
+              "name": "Steak & Cheese",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Hot and hefty portion of thinly sliced choice beef on a poboy style bun with cheddar cheese, seasoning, mustard and special dressing.",
+              "subcategory": null
+            },
+            {
+              "name": "Ham & Cheese",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Piping hot hickory smoked ham on a poboy style bun with cheddar cheese, seasoning, mustard and special dressing.",
+              "subcategory": null
+            },
+            {
+              "name": "Muffuletta",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Salami, ham, olive mix and provolone cheese on Gambino bread.",
+              "subcategory": null
+            },
+            {
+              "name": "Pizzaletta Slice",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "A Muffuletta sandwiched between two pizza crusts.",
+              "subcategory": null
+            },
+            {
+              "name": "Hot Tuna Melt",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Our homemade tuna salad dressed with seasoning, lettuce, tomato, avocado, chipotle mayo and your choice of cheese on a specialty sourdough bread.",
+              "subcategory": null
+            },
+            {
+              "name": "Hot Meat Melt",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Your choice of turkey, ham, chicken or steak dressed with seasoning, lettuce, tomato, avocado, chipotle mayo and your choice of cheese on a specialty sourdough bread.",
+              "subcategory": null
+            },
+            {
+              "name": "Grilled Cheese Sandwich",
+              "tags": [],
+              "price": null,
+              "dietary": [
+                "vegetarian"
+              ],
+              "popular": false,
+              "description": "Three-layers of wheat bread with cheddar cheese.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Soups, Salads & Sides",
+          "items": [
+            {
+              "name": "Side Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [
+                "vegetarian"
+              ],
+              "popular": false,
+              "description": "Lettuce, cheddar cheese and diced tomatoes.",
+              "subcategory": null
+            },
+            {
+              "name": "The Combination Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [
+                "vegetarian"
+              ],
+              "popular": false,
+              "description": "Delicious blend of garden-fresh, in-season vegetables topped with egg salad and sprouts. The dressing of your choice on the side.",
+              "subcategory": null
+            },
+            {
+              "name": "Chef Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "One of our appetizing combination salads garnished with your choice of tasty meats and cheddar.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:25.32704+00:00",
+    "updated_at": "2026-05-17T22:49:17.317456+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "3066cf13-c067-4456-8024-00764f9d53a7",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "cda46e43-45d4-48e0-b0ea-33a4c198f5ab",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "3c6d9290-cb15-4923-96d0-a16632faba78",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "ceb39322-4acd-4b96-b214-34f89c2d7208",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "6d366a73-e931-449d-abbf-0bd853b73d75",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "9a47a835-6d43-4e53-816d-6aa78db40b19",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "3a1c38f5-c72b-4e94-bac4-ad1d956b382d",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "e2eee4d2-7689-41b8-bf89-932b909f966e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "8a0a9a08-3f15-403f-8722-ec963a56d9e9",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "1b4e886b-946a-41a9-a99f-64e0574ebe59",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "5a03ba12-c7f9-4cef-a892-10978c57538e",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "d7d8340b-3dc9-4862-8bb8-f9973f2ad255",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "b5b04bb4-c433-4ad7-853a-6b050586c371",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "e1254bad-f9a7-4fae-858f-6e5bb60d17c6",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "c286486b-b5da-4e98-9fda-e77b62108b2f",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "5ca9bea1-576c-4b0c-9fb0-6c70c5abf3c5",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

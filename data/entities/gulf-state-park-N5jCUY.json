@@ -1,137 +1,387 @@
 {
-  "id": "66afd858-71bc-4ed9-82b9-fde4caa5cd3a",
-  "slug": "gulf-state-park-N5jCUY",
-  "name": "Gulf State Park",
-  "entity_type": "park",
-  "entity_subtype": "park",
-  "icon": "🏪",
-  "description": "Serene park with beaches, trails & pier fishing plus tennis, golf & a zip line above the dunes.",
-  "phone": "(251) 948-7275",
-  "email": null,
-  "address_line_1": "20115 State Park Road, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Coast",
-  "state": "AL",
-  "zip": null,
-  "website_url": "https://www.alapark.com/parks/gulf-state-park",
-  "rating": 4.7,
-  "review_count": 11862,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/66afd858-71bc-4ed9-82b9-fde4caa5cd3a/66afd858-71bc-4ed9-82b9-fde4caa5cd3a_1779139770755.313.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "66afd858-71bc-4ed9-82b9-fde4caa5cd3a",
+    "place_id": "ChIJAf8qlDAEmogROxDShN5jCUY",
+    "google_maps_uri": "https://maps.google.com/?cid=5046674664807600187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-state-park-N5jCUY",
+    "name": "Gulf State Park",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": [],
+    "google_type": "state_park",
+    "google_types": [
+      "campground",
+      "establishment",
+      "lodging",
+      "park",
+      "point_of_interest",
+      "rv_park",
+      "tourist_attraction"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-7275",
+    "international_phone": null,
+    "website_url": "https://www.alapark.com/parks/gulf-state-park",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "20115 State Park Road, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Coast",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2684061,
+    "longitude": -87.6342115,
+    "short_address": "20115 State Park Road, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 11862,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Serene park with beaches, trails & pier fishing plus tennis, golf & a zip line above the dunes.",
+    "description": "Serene park with beaches, trails & pier fishing plus tennis, golf & a zip line above the dunes.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/66afd858-71bc-4ed9-82b9-fde4caa5cd3a/66afd858-71bc-4ed9-82b9-fde4caa5cd3a_1779139770755.313.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "paidParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.alapark.com/parks/gulf-state-park",
+      "menu": {
+        "categories": []
+      },
+      "note": "No content provided in the text field. Unable to extract restaurant data from alapark.com",
+      "tags": [],
+      "type": null,
+      "about": {
+        "vibe": null,
+        "best_for": [],
+        "description": null,
+        "established": null,
+        "insider_tip": null,
+        "reservations": null,
+        "elevator_pitch": null
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null
+      },
+      "gallery": [],
+      "sources": [],
+      "tagline": null,
+      "features": [],
+      "specials": [],
+      "scraped_at": "2026-03-22T01:25:42.221Z",
+      "price_range": null,
+      "extracted_at": "2026-03-23T03:28:13.968Z",
+      "social_links": {
+        "website": "https://www.alapark.com",
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "alapark.com"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "gcr-organized",
+      "all-businesses"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.7741+00:00",
+    "updated_at": "2026-05-18T21:29:35.629455+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "e00c94c5-207c-4ddf-9026-7235700d5685",
       "tag": "state_park",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "hiking_area",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "tourist_attraction",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "campground",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "picnic_ground",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "fishing_pier",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "rv_park",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "park",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "sports_activity_location",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "lodging",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "1320b431-77ee-4838-b60f-4abf7d21e27f",
       "tag": "state_park",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "98841134-54d7-407c-bad3-bf5c1b6d19f3",
       "tag": "hiking_area",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "39b9e61c-4dcf-4637-9970-8bb15f358f3a",
+      "tag": "hiking_area",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "4ff2dccf-fc97-484a-8529-3663fad58426",
       "tag": "tourist_attraction",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "55ad1eaa-5479-461b-84fa-c4c645f14675",
+      "tag": "tourist_attraction",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "0e0035db-c450-4068-8ddd-010f11df9601",
       "tag": "campground",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "7e86ba71-0846-49e5-8d82-f593560d462d",
+      "tag": "campground",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "1d7db5a4-540d-44df-8cb6-40335e297a08",
       "tag": "picnic_ground",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "3bb95267-ac37-42f9-a1e5-e083a07aaec6",
+      "tag": "picnic_ground",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "f2d75af6-73a6-42cc-9bc1-13a7d6c3284e",
       "tag": "fishing_pier",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "3fe591d9-8332-4e48-903e-7e74f2333d29",
+      "tag": "fishing_pier",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "5c61b920-1e01-4fbd-9664-cb8ff7626a4f",
       "tag": "rv_park",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "adf31f65-3df2-46ec-8220-6b130ba7e78d",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "33b65614-d4c4-44f1-b1d5-dca645a50262",
       "tag": "park",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "bd433f96-7b09-455c-b4c3-b36801be1446",
+      "tag": "park",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "8837da25-d152-407a-89ec-fc01bae4d5e1",
       "tag": "sports_activity_location",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
     },
     {
+      "id": "b8b5aa51-e8c7-40c4-963c-383d7010af8e",
+      "tag": "sports_activity_location",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "e5220048-f1a9-4d96-a72c-58d1b9f4f577",
       "tag": "lodging",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 9
     },
     {
+      "id": "116cdb93-d50d-4f5d-bd2e-e60aa1b4d90c",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "5ca406de-18a3-44b8-8a47-ec8086b00003",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 10
     },
     {
+      "id": "1ebb3e52-8d6a-443d-98f1-a5c094bbddd3",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "800ce697-9224-4afc-a55e-0d200af013bc",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "78436b5c-ab85-41cf-92bb-eb3472eca578",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "5db54275-07de-45b4-bb35-5b10edf2c90c",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "1345a274-50dc-46d2-ade6-f70a8d821031",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 12
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "26c0465b-bc89-4f17-be55-121dfa8958d8",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

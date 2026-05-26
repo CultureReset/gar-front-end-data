@@ -1,32 +1,424 @@
 {
-  "id": "a9d0eef1-014c-445c-ac5e-8e1d17941501",
-  "slug": "beachside-circle-boat-rentals-and-sales-zvSNx4",
-  "name": "Beachside Circle Boat Rentals and Sales",
-  "entity_type": "business",
-  "entity_subtype": "boat_rental",
-  "icon": "🏪",
-  "description": "Experience the beauty of the water with Beachside Circle Boats, your go-to destination for easy, fun and unforgettable boat rentals. Whether you're looking to relax, explore the waterways, or spend quality time with family and friends, our boats are designed for comfort and simplicity. No license required, easy and fun to drive. Just show up and enjoy the ride!",
-  "phone": "(601) 325-1205",
-  "email": null,
-  "website_url": "https://beachsidecircleboats.com/",
-  "address_line_1": "26350 Cotton Bayou Dr, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 5,
-  "review_count": 19,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a9d0eef1-014c-445c-ac5e-8e1d17941501/a9d0eef1-014c-445c-ac5e-8e1d17941501_1779139865505.2192.jpg",
-  "photos": [],
+  "entity": {
+    "id": "a9d0eef1-014c-445c-ac5e-8e1d17941501",
+    "place_id": "ChIJawHQzBIHmogRCHDXRzvSNx4",
+    "google_maps_uri": "https://maps.google.com/?cid=2177440096907128840&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "beachside-circle-boat-rentals-and-sales-zvSNx4",
+    "name": "Beachside Circle Boat Rentals and Sales",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "boat_rental",
+    "secondary_types": [],
+    "google_type": "service",
+    "google_types": [
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(601) 325-1205",
+    "international_phone": null,
+    "website_url": "https://beachsidecircleboats.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26350 Cotton Bayou Dr, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2776904,
+    "longitude": -87.5745836,
+    "short_address": "26350 Cotton Bayou Dr, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 19,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Experience the beauty of the water with Beachside Circle Boats, your go-to destination for easy, fun and unforgettable boat rentals. Whether you're looking to relax, explore the waterways, or spend quality time with family and friends, our boats are designed for comfort and simplicity. No license required, easy and fun to drive. Just show up and enjoy the ride!",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a9d0eef1-014c-445c-ac5e-8e1d17941501/a9d0eef1-014c-445c-ac5e-8e1d17941501_1779139865505.2192.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "#",
+    "social_facebook": "#",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.beachsidecircleboats.com",
+      "menu": {
+        "categories": []
+      },
+      "tags": [
+        "boat rentals",
+        "water activities",
+        "eco-friendly",
+        "orange beach",
+        "no license required",
+        "family-friendly",
+        "events"
+      ],
+      "about": {
+        "description": "Beachside Circle Boat Rentals and Sales is a local family-owned business offering portable, eco-friendly electric circle boats for exploring the waters of Orange Beach. Perfect for families, couples, and group outings with no boating license required.",
+        "cuisine_type": null
+      },
+      "hours": {
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5",
+      "contact": {
+        "zip": null,
+        "city": "Orange Beach",
+        "phone": "(601) 325-1205",
+        "state": "AL",
+        "address": null
+      },
+      "specials": [],
+      "happy_hour": {
+        "days": null,
+        "deals": null,
+        "end_time": null,
+        "available": false,
+        "start_time": null
+      },
+      "scraped_at": "2026-03-28T07:17:59.600Z",
+      "price_range": "$$",
+      "extracted_at": "2026-04-23T10:48:41.149Z",
+      "business_name": "Beachside Circle Boats"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.638853+00:00",
+    "updated_at": "2026-05-18T21:31:10.373288+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d49583e3-0a8d-4724-81c3-c7c38323cd77",
+      "tag": "boat_rental",
+      "tag_category": "amenity",
+      "sort_order": 0
+    },
+    {
+      "id": "39a76763-cebe-4804-934c-cda10b8b49e3",
+      "tag": "boat_rental",
+      "tag_category": "amenity",
+      "sort_order": 0
+    },
+    {
+      "id": "1a3f2277-3340-4b84-8bef-e84d4e999746",
+      "tag": "water_sports",
+      "tag_category": "amenity",
+      "sort_order": 1
+    },
+    {
+      "id": "3c1cf025-5405-4f7f-935c-5e5da5524c06",
+      "tag": "water_sports",
+      "tag_category": "amenity",
+      "sort_order": 1
+    },
+    {
+      "id": "f958fb3b-9ef4-4b93-a686-eca3b1d54f85",
+      "tag": "family_friendly",
+      "tag_category": "amenity",
+      "sort_order": 2
+    },
+    {
+      "id": "a5e5ba12-293a-45ef-b96c-720662f80928",
+      "tag": "family_friendly",
+      "tag_category": "amenity",
+      "sort_order": 2
+    },
+    {
+      "id": "0631bbbe-d911-4d6b-a4db-26c2f522927e",
+      "tag": "orange_beach",
+      "tag_category": "location",
+      "sort_order": 3
+    },
+    {
+      "id": "097effa7-146e-40a3-aa86-e010af731abe",
+      "tag": "orange_beach",
+      "tag_category": "location",
+      "sort_order": 3
+    },
+    {
+      "id": "e18852bd-7ecb-4d0f-9eb1-1b03b372c1c9",
+      "tag": "gulf_shores",
+      "tag_category": "location",
+      "sort_order": 4
+    },
+    {
+      "id": "20d6bdcf-a26c-4de8-b09a-372a44b6d7e9",
+      "tag": "gulf_shores",
+      "tag_category": "location",
+      "sort_order": 4
+    },
+    {
+      "id": "00b35d0d-e32d-46ef-950b-555daf4d3ca0",
+      "tag": "circle_boats",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "40241dde-610b-4f4a-b1dd-8f37a0ecd0a9",
+      "tag": "circle_boats",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "f076eb88-c5cc-4e7f-88c0-1b8768290f07",
+      "tag": "pontoon_rental",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "fb501ac8-1acd-4bc5-ba64-f5d055ff8a5f",
+      "tag": "pontoon_rental",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "3080540c-1905-42b5-820c-8b304a439d64",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "9df3456a-0481-4765-8d2d-358bd60f6c93",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "6054710f-5f99-41aa-aa72-cf2ee119a5d9",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "d55b7011-d2c6-4340-b223-3a81a5ad07b0",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "19277697-b514-476c-80f2-e64c5bdd7764",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "9060a92a-e774-4886-a9de-840d99da6e02",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "4c17fb95-de75-48dc-ac2e-86330fd7bfb9",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "b1f07206-a5b6-4891-ab26-7a7c8e2ac146",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "ade76167-5958-4fb3-8f42-a2199acd16d9",
+      "tag": "easy_to_drive_—_no_license_required",
+      "tag_category": "feature",
+      "sort_order": 11
+    },
+    {
+      "id": "c6608431-f0a8-472a-8c5f-1ed873ee98ff",
+      "tag": "easy_to_drive_—_no_license_required",
+      "tag_category": "feature",
+      "sort_order": 11
+    },
+    {
+      "id": "706730ec-8112-4643-8c06-7fa93090daab",
+      "tag": "single_&_double_seater_options",
+      "tag_category": "feature",
+      "sort_order": 12
+    },
+    {
+      "id": "059d4cb3-0ffa-4677-9fa9-689aa1809c8a",
+      "tag": "single_&_double_seater_options",
+      "tag_category": "feature",
+      "sort_order": 12
+    },
+    {
+      "id": "bf823ef9-a41d-4554-9f80-06350055fffb",
+      "tag": "life_jackets_included",
+      "tag_category": "feature",
+      "sort_order": 13
+    },
+    {
+      "id": "c5b4ea15-a077-4238-8cab-f72afbc48a83",
+      "tag": "life_jackets_included",
+      "tag_category": "feature",
+      "sort_order": 13
+    },
+    {
+      "id": "3e0226aa-2b55-4c15-b8ba-6d93163c5ef6",
+      "tag": "orange_beach,_al",
+      "tag_category": "feature",
+      "sort_order": 14
+    },
+    {
+      "id": "ccbf1886-fcae-4ec5-ae19-25f81a224d28",
+      "tag": "orange_beach,_al",
+      "tag_category": "feature",
+      "sort_order": 14
+    },
+    {
+      "id": "83a670ea-7c4d-4671-85b2-a3542c9f7b09",
+      "tag": "on-site_staff",
+      "tag_category": "feature",
+      "sort_order": 15
+    },
+    {
+      "id": "7854692a-b5e0-4817-a03a-79a788959427",
+      "tag": "on-site_staff",
+      "tag_category": "feature",
+      "sort_order": 15
+    },
+    {
+      "id": "a21478dd-cd33-4a9d-8d49-166977de2292",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "78dc3e17-ab24-4b6f-b090-b0043c7a31dc",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 16
+    }
+  ],
+  "sections": [
+    {
+      "id": "a2dc727a-06e5-4ef7-ba68-51b39e5c3fe7",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

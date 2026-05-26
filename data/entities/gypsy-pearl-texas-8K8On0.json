@@ -1,65 +1,217 @@
 {
-  "id": "4a685132-6156-40b3-9008-0112682a1fba",
-  "slug": "gypsy-pearl-texas-8K8On0",
-  "name": "Gypsy Pearl Texas",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 943-3855",
-  "email": null,
-  "address_line_1": "417 S Alston St, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "http://www.gypsypearltx.com/",
-  "rating": 5,
-  "review_count": 2,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "4a685132-6156-40b3-9008-0112682a1fba",
+    "place_id": "ChIJAZVdWomO-4YRSU5-W8K8On0",
+    "google_maps_uri": "https://maps.google.com/?cid=16306110589441951847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gypsy-pearl-texas-8K8On0",
+    "name": "Gypsy Pearl Texas",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": "",
+    "google_type": "manufacturer",
+    "google_types": [
+      "manufacturer",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-3855",
+    "international_phone": null,
+    "website_url": "http://www.gypsypearltx.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "417 S Alston St, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.4025009,
+    "longitude": -87.6847258,
+    "short_address": "417 S Alston St, Foley",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 2,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:30 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 10:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.340344+00:00",
+    "updated_at": "2026-05-18T21:06:46.077312+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "48b9fb6e-e35c-48f8-8ab3-873ca8079096",
       "tag": "clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "911807ce-2d66-4aad-86f6-e4804b8a9040",
       "tag": "clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "0bbe681b-1ee9-40c2-8920-f57a4a751567",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "7e8e0e21-b141-4c9b-9b8b-7697ad3e301a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "ccc975df-85c1-4feb-92d5-7a7a2a2ed51b",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "80605ca5-a371-41e6-b8e6-4c2c2bb48ccb",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "c7ebd54b-8327-421c-920d-e77bc6bd2cc8",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "dec915b7-0928-44aa-90f7-b080b416f2bd",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 3
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "598907b0-a318-4f76-b55f-270e8f33cd76",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

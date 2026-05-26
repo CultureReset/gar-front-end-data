@@ -1,81 +1,248 @@
 {
-  "id": "17d1407a-0265-468e-8eea-08eddc1d5a23",
-  "slug": "herbalife-key-nutrition-Tchsz4",
-  "name": "Herbalife - Key Nutrition",
-  "entity_type": "restaurant",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 293-8484",
-  "email": null,
-  "address_line_1": "10437 Sorrento Rd Suite 204, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": null,
-  "rating": 4.8,
-  "review_count": 68,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "17d1407a-0265-468e-8eea-08eddc1d5a23",
+    "place_id": "ChIJAT4evsS7kIgR73xyWTchsz4",
+    "google_maps_uri": "https://maps.google.com/?cid=4517991372790332655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "herbalife-key-nutrition-Tchsz4",
+    "name": "Herbalife - Key Nutrition",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "restaurant",
+    "google_types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 293-8484",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "10437 Sorrento Rd Suite 204, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.3588703,
+    "longitude": -87.3611818,
+    "short_address": "10437 Sorrento Rd Suite 204, Pensacola",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 68,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 4:00 PM",
+      "Tuesday: 7:00 AM – 4:00 PM",
+      "Wednesday: 7:00 AM – 4:00 PM",
+      "Thursday: 7:00 AM – 2:00 PM",
+      "Friday: 7:00 AM – 4:00 PM",
+      "Saturday: 9:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.340344+00:00",
+    "updated_at": "2026-05-18T21:06:47.577782+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "108d75e4-9d1f-403b-abf5-3d08ca81eba2",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
-      "tag": "gulf_shores",
-      "tag_category": "search"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "3efc7245-40fc-4a7e-9c16-e69d5809cae4",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "142ebbb9-3317-40e2-8613-5de7f6b0ee0e",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "3d7c73bc-ff0c-4470-81b6-19a2a770ee37",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "380ae2a2-7838-4026-a2a5-546806135f68",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "6daac894-f64c-4d45-ad51-bd10398b892e",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "03dd2f13-37d3-40b3-b42f-5bd7cc7c23aa",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "e4f8cf34-cb2f-49fe-a4d4-9ce84d9730b1",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "c898316e-c16a-42a8-88f0-bc205435f37c",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "0fb45c01-43cd-4cc4-933c-dc104b67625e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "6505ad47-dd1b-44e2-9544-a5d9459953cd",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "d043f9be-a231-4c80-af49-05b21a91ec0e",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 5
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "377563b3-0548-4655-8b33-e565782843b0",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

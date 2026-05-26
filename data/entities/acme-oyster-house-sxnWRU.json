@@ -1,32 +1,482 @@
 {
-  "id": "62e40976-cb7a-4742-806f-bb978a7a6019",
-  "slug": "acme-oyster-house-sxnWRU",
-  "name": "Acme Oyster House",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Lively New Orleans-based chain offering oysters, po' boys, gumbo & other Cajun-Creole classics.",
-  "phone": "(251) 424-1783",
-  "email": null,
-  "website_url": "http://acmeoyster.com/",
-  "address_line_1": "216 E 24th Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.5,
-  "review_count": 3351,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/62e40976-cb7a-4742-806f-bb978a7a6019/62e40976-cb7a-4742-806f-bb978a7a6019_1779139716225.7056.jpg",
-  "photos": [],
+  "entity": {
+    "id": "62e40976-cb7a-4742-806f-bb978a7a6019",
+    "place_id": "ChIJ42RdmicFmogRUCucAsxnWRU",
+    "google_maps_uri": "https://maps.google.com/?cid=1538374873638513488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "acme-oyster-house-sxnWRU",
+    "name": "Acme Oyster House",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "seafood_restaurant",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 424-1783",
+    "international_phone": null,
+    "website_url": "http://acmeoyster.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "216 E 24th Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2786559,
+    "longitude": -87.6846313,
+    "short_address": "216 E 24th Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 3351,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Lively New Orleans-based chain offering oysters, po' boys, gumbo & other Cajun-Creole classics.",
+    "description": "Lively New Orleans-based chain offering oysters, po' boys, gumbo & other Cajun-Creole classics.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/62e40976-cb7a-4742-806f-bb978a7a6019/62e40976-cb7a-4742-806f-bb978a7a6019_1779139716225.7056.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": {
+        "categories": []
+      },
+      "hours": {
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "images": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null,
+        "website": "http://acmeoyster.com/"
+      },
+      "features": [],
+      "specials": [],
+      "description": null,
+      "price_range": null,
+      "cuisine_type": null,
+      "extracted_at": "2026-05-16T19:06:38.548Z",
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Acme Oyster House"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:11.614761+00:00",
+    "updated_at": "2026-05-18T21:28:41.492947+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d31d5668-c7ab-468d-a632-18169f44d517",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "5ff899d0-758f-4e01-a231-fb3d4ab3d1f4",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "c655b8f3-b00c-44cc-87f3-5efbd50eb2dd",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 1
+    },
+    {
+      "id": "f71ecd2a-c65e-4e0c-9a34-1632421e6b28",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 1
+    },
+    {
+      "id": "cf3ffcff-6151-4d7d-9b15-373768e0a145",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 2
+    },
+    {
+      "id": "4d6da6f2-9cf3-461a-8f61-432e1c92ff6b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 2
+    },
+    {
+      "id": "a1c3f6c8-09a5-4c9c-91fa-97390e09c6b0",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 3
+    },
+    {
+      "id": "3e287897-39a0-436b-8506-a3853843fea0",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 3
+    },
+    {
+      "id": "a15f89a7-52a2-471a-8c79-4fbeaaefb997",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "588a4ec0-e3c2-4845-a3e4-c9290f991287",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "047420b9-6bfa-4d03-95d7-3da90e9f8e5f",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "60cfa139-c055-4672-ad86-86276378f54c",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "42e56aaa-fae0-42bb-8fcd-d6322d61dea0",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "97c97654-2aa8-4255-932c-4e55b1ba4398",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "64e9a5b3-152e-4d56-af45-008dc8b3eaf6",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "e707ada0-220c-4d04-9081-aa707ee93004",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "bc12b997-29fa-4bca-b922-570658d3e1fe",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "b5bfd6c4-7194-426f-947b-6c508957086c",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "732bdcfe-d090-45e0-a13b-5d79a087377d",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "06e14b52-1d93-4b72-a827-85630d6a285b",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "5a239fbd-2af7-40be-946c-e3d3cbfbd2cc",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "aab905c0-48eb-4030-9487-a05ec9cb14b1",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "a0626b17-39ce-4bba-831d-f92680447725",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "9176b5d0-eee4-4128-82c3-6cec7b18c852",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "c9700a84-5a1c-4ba8-915d-1abb178f0d5f",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "c63d9837-e0da-4f60-a7f9-e54adf4250ea",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "bbc30700-73b2-4a42-ba08-1f38626310f5",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 13
+    },
+    {
+      "id": "d08aa255-ba76-43cf-8179-53727b4f46da",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 13
+    },
+    {
+      "id": "84672769-41b1-4b49-93ee-a36e41830ddb",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "b38e56b5-f694-49ca-a70d-78a4fef0ca63",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "59bf26ca-0af2-4194-b138-2552d9dfd19a",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 15
+    },
+    {
+      "id": "4e717061-a7f6-475e-b730-e20644520393",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 15
+    },
+    {
+      "id": "e0f539a0-0b76-4b03-a45e-9f339da988b9",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 16
+    },
+    {
+      "id": "fadaacf3-1587-489c-b992-48bfa7710ee0",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 16
+    },
+    {
+      "id": "c955e9ee-1f2d-4291-8667-b48b285b2200",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 17
+    },
+    {
+      "id": "dc500509-684c-47d9-ac60-5350eaa68eb9",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 17
+    },
+    {
+      "id": "1e17ad5d-24d0-42c3-92e4-751bebb560b5",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "739faecd-2cfe-4548-9d73-551861baf5b6",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "574c4e68-dcee-4e1e-bce4-f418d0c91424",
+      "tag": "seafood",
+      "tag_category": "food",
+      "sort_order": 19
+    },
+    {
+      "id": "3d81a22f-53b4-442f-9e15-5dc85863279b",
+      "tag": "seafood",
+      "tag_category": "food",
+      "sort_order": 19
+    },
+    {
+      "id": "d0cca56a-c588-4eeb-a1b5-88bfebab066d",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "4155bb3a-2f10-4f2f-b4a5-b38372398ec7",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "7fabcbe3-943e-4dc1-8baa-cfcd91a9b022",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "19da2432-5890-4ee7-b67c-d84528818e64",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 21
+    }
+  ],
+  "sections": [
+    {
+      "id": "4fdd6953-6ef3-4a60-bf27-972c5ef6cae9",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

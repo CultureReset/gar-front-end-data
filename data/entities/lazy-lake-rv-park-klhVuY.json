@@ -1,32 +1,465 @@
 {
-  "id": "54d73e91-6af9-4550-9e22-f34fd540a6f6",
-  "slug": "lazy-lake-rv-park-klhVuY",
-  "name": "Lazy Lake RV Park",
-  "entity_type": "hotel",
-  "entity_subtype": "rentals",
-  "icon": "🏪",
-  "description": "Lazy Lake R.V. Park is located in Gulf Shores, Alabama, 5 miles from the beautiful beaches. The park offers clean and well-maintained facilities with full hookups, cable TV, stocked lake for fishing, all spaces with lake view, bath house, laundry facilities, WiFi on site, and on-site manager. We pride ourselves on offering the best value for RV campers looking to enjoy the Gulf Coast.",
-  "phone": "(251) 968-7875",
-  "email": null,
-  "website_url": "http://www.lazylakervpark.com/",
-  "address_line_1": "18950 Old Plash Island Rd Ste B, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 3.8,
-  "review_count": 76,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/333ae4b5-c489-44b9-a6e0-baf67746bc9e/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "54d73e91-6af9-4550-9e22-f34fd540a6f6",
+    "place_id": "ChIJ61GtQ7camogRDhyj3klhVuY",
+    "google_maps_uri": "https://maps.google.com/?cid=16597560446616280078&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "lazy-lake-rv-park-klhVuY",
+    "name": "Lazy Lake RV Park",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "rentals",
+    "secondary_types": "",
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-7875",
+    "international_phone": null,
+    "website_url": "http://www.lazylakervpark.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "18950 Old Plash Island Rd Ste B, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3079285,
+    "longitude": -87.6997099,
+    "short_address": "18950 Old Plash Island Rd Ste B, Gulf Shores",
+    "plus_code": null,
+    "rating": 3.8,
+    "review_count": 76,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Comfy, family-run RV park on a small lake stocked with fish, offering showers, laundry & Wi-Fi.",
+    "description": "Lazy Lake R.V. Park is located in Gulf Shores, Alabama, 5 miles from the beautiful beaches. The park offers clean and well-maintained facilities with full hookups, cable TV, stocked lake for fishing, all spaces with lake view, bath house, laundry facilities, WiFi on site, and on-site manager. We pride ourselves on offering the best value for RV campers looking to enjoy the Gulf Coast.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/333ae4b5-c489-44b9-a6e0-baf67746bc9e/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:11.802106+00:00",
+    "updated_at": "2026-05-18T21:06:59.350467+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "22a81409-5f8f-4cfe-b809-54a5fdefa4ab",
+      "tag": "RV park",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "1099a040-ac62-4407-ba08-4157f431ab16",
+      "tag": "RV park",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "88974446-15d5-46c5-aec5-639c37fb8ab1",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "ed7a54e3-89a2-4f18-aad5-114b0a084343",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "e4bc6c76-48e0-4a28-ab1b-ca535507bd19",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "80d123d2-51dc-4202-b590-6ffa4f530b94",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "863864a2-825e-4f85-b53c-f39246c979c5",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "c3d60d02-fd4e-4fe9-9a1f-421a25caf73e",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "63a0b8ca-66a8-4593-8fe1-ae6fc31a74b7",
+      "tag": "full hookups",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "09812087-add7-47ea-827e-f606cffdc1ee",
+      "tag": "full hookups",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "d5ac2212-0edd-4b0a-9dce-554f5a8c5059",
+      "tag": "lake view",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "4e479636-83c4-4753-94e8-45ed6ffaed9a",
+      "tag": "lake view",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "2cd80481-f8fe-4ef7-ba6a-e09cf36a0a30",
+      "tag": "stocked lake",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "846e8f37-7dbe-400b-8f5e-02ee0923ea26",
+      "tag": "stocked lake",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "473c7768-e15b-4cb7-918e-c764e015dd53",
+      "tag": "fishing",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "60dc23be-395f-404e-841f-57d792230af2",
+      "tag": "fishing",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "315fa6db-40b1-4423-91ac-70d84765b325",
+      "tag": "affordable",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "b0b4de07-5185-4db8-99ed-f8bf9fb3b201",
+      "tag": "affordable",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "b1665214-49e0-445a-bf0a-25c88af5122c",
+      "tag": "family friendly",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "2ba76c16-64f7-460d-bfe0-221d9c281612",
+      "tag": "family friendly",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "946cb328-70c6-469b-83d1-314eff2ea3f0",
+      "tag": "RV Parks",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "d3946151-33a1-44fb-94e0-12ee4385d7f2",
+      "tag": "RV Parks",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "ab3e40ff-8ae5-4ccc-b3ae-9ff7cbb9f67d",
+      "tag": "Campgrounds",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "80f05d2c-a58f-4aaa-b70f-fd774d6a7e9f",
+      "tag": "Campgrounds",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "5bb88dd8-bb67-49ce-813f-eee991eb8b5f",
+      "tag": "Rentals",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "88da5f1d-b90f-4ad6-8a80-4bbfa71dacd2",
+      "tag": "Rentals",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "e1aae439-5911-470e-aba8-cc351771b735",
+      "tag": "Outdoor Recreation",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "bd449126-6b0f-4e85-b7de-24649075facf",
+      "tag": "Outdoor Recreation",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "a84b5d6e-e82c-4e2c-a06f-5825afeb58ab",
+      "tag": "Gulf Coast Accommodations",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "8b219322-cec0-4970-b87f-1fde93ebe8e0",
+      "tag": "Gulf Coast Accommodations",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "868d0fd8-bc83-4e6b-a8ab-178fb33f1e78",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 15
+    },
+    {
+      "id": "aac17eee-3fa7-4270-a4cf-1fa42434be3a",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 15
+    },
+    {
+      "id": "78e4c355-061a-46fa-90de-e7de933471d8",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "61a4956e-220b-4f19-b7de-3e8e009ef089",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "260df11e-f35f-40fb-856e-76dfcd894fb4",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "893b020f-35c7-4aa5-bef5-703620b0d23f",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "0da8a473-92ee-4bc4-8721-14a566b86e41",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 18
+    },
+    {
+      "id": "baef3174-7f85-422f-8c0f-7b57bb7b2e17",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 18
+    },
+    {
+      "id": "0b97854e-ee85-4e11-b2c0-801cb36eddf9",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "91b05ee7-b9d9-4904-b962-0405cc9e4439",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "4ed12865-53e0-4bdd-8577-9304062ffd9e",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 20
+    },
+    {
+      "id": "a68f63db-5257-4cf6-940a-f4a7ba1fd3c4",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 20
+    },
+    {
+      "id": "a67d384f-1e98-48ff-90a0-a0e31a0e1452",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "b73b36ce-6120-4b85-bd3f-ffd217d10d22",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "cf55adbe-762c-443a-bda6-53d4d569afb8",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "0dce93f7-f120-4a2f-ac5b-a5a265a8a157",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "282c1e26-70da-4ce2-bccb-43870963e680",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "d6f3e7f3-4e3d-42c5-b340-61cfead0c313",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "39288e4c-7c5b-47eb-a10c-fd1c7005bae8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "d9ef5396-d33a-4b47-8c70-9ace0c8303c1",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    }
+  ],
+  "sections": [
+    {
+      "id": "c6551934-4621-4360-970d-26485cdf64b1",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

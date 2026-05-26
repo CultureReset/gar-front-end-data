@@ -1,32 +1,342 @@
 {
-  "id": "a85f0736-9e38-42fe-901f-0dc1675b7b71",
-  "slug": "geez-louise-boutique-nWndRo",
-  "name": "Geez Louise Boutique",
-  "entity_type": "shopping",
-  "entity_subtype": "clothing",
-  "icon": "🏪",
-  "description": "Colorful women's store carrying popular brands of casual, coastal apparel & accessories, plus gifts.",
-  "phone": "(251) 270-4439",
-  "email": null,
-  "website_url": "http://shopgeezlouise.com/",
-  "address_line_1": "701 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.4,
-  "review_count": 58,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a85f0736-9e38-42fe-901f-0dc1675b7b71/a85f0736-9e38-42fe-901f-0dc1675b7b71_1779139851522.0938.jpg",
-  "photos": [],
+  "entity": {
+    "id": "a85f0736-9e38-42fe-901f-0dc1675b7b71",
+    "place_id": "ChIJQ5giJsgEmogRoK47NnWndRo",
+    "google_maps_uri": "https://maps.google.com/?cid=1906614139124166304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "geez-louise-boutique-nWndRo",
+    "name": "Geez Louise Boutique",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "clothing",
+    "secondary_types": [],
+    "google_type": "clothing_store",
+    "google_types": [
+      "shoe_store",
+      "gift_shop",
+      "womens_clothing_store",
+      "jewelry_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 270-4439",
+    "international_phone": null,
+    "website_url": "http://shopgeezlouise.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "701 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2543924,
+    "longitude": -87.6894983,
+    "short_address": "701 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 58,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Colorful women's store carrying popular brands of casual, coastal apparel & accessories, plus gifts.",
+    "description": "Colorful women's store carrying popular brands of casual, coastal apparel & accessories, plus gifts.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a85f0736-9e38-42fe-901f-0dc1675b7b71/a85f0736-9e38-42fe-901f-0dc1675b7b71_1779139851522.0938.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.315137+00:00",
+    "updated_at": "2026-05-18T21:30:56.448441+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "71c3ff1c-7c28-4e9a-9960-0fb9d5e0758c",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "9c689a48-1118-410b-a517-cad3d9020ba2",
+      "tag": "boutique",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "a9fc69de-d15e-42a7-9006-2d6ec1a45626",
+      "tag": "coastal fashion",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "56b27c10-5445-460d-8c36-56fc2c82c3a2",
+      "tag": "women's clothing",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "5f9b2536-a793-419a-b859-1939c635e501",
+      "tag": "accessories",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "283d6b80-faa4-4621-9715-284a8af84a32",
+      "tag": "gifts",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "7a26e7ad-b38d-4ba2-9d13-576ec812b0c0",
+      "tag": "Gulf Shores",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "fe34e094-cb41-4776-848c-91aa02aff2af",
+      "tag": "Southern charm",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "3633c5ef-f0cc-4083-b2ed-b45d904124f7",
+      "tag": "trendy",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "c7c58bac-73be-4b51-beb6-2653c5742d08",
+      "tag": "local boutique",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "73e46e57-1dd2-43d8-8e66-ceebb5f27dc0",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "ed663afe-3278-4afe-8f5a-9efd3bf3bf8e",
+      "tag": "shoe store",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "74aaa9ce-1fa9-49b0-b12a-71f6d4543f8e",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "4f98fc13-7d4e-40a5-bfa1-c976eb2ded9f",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "18f5bf5f-69c4-4274-895a-4fe5e65335a3",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "f16bc7fa-abd6-4f22-980a-5a1967215f48",
+      "tag": "jewelry store",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "cecf483c-4980-4bc6-9e88-19d8f56a6d25",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "9b83fb5e-6fd3-4788-8b63-97bf82ba4137",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "4cf65440-339f-489e-840a-e63ef84c8538",
+      "tag": "gift shop",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "2697141f-6f5e-44a2-a1a4-b2f45388043e",
+      "tag": "womens clothing store",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "3d00fe79-3d2d-4323-8d5b-15e705d2a910",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "70d42e98-1cbc-49dc-9a3b-0f1e577c0013",
+      "tag": "womens_clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "f81eac19-2ff4-48b6-b075-6ddd907e7f72",
+      "tag": "gift_shop",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "1abffdce-e381-4c55-bce7-12524eea79a2",
+      "tag": "jewelry_store",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "21fb1673-5fbf-4562-a9a7-55f436b8c127",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "00aa71f5-f29a-4516-8748-e0709f758883",
+      "tag": "shoe_store",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "278ac03e-0551-477a-97cd-0b57f0540f32",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    }
+  ],
+  "sections": [
+    {
+      "id": "cd121548-4b83-4d13-8eb6-1ca9255ffe00",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

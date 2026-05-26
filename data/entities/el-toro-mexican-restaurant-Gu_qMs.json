@@ -1,32 +1,549 @@
 {
-  "id": "937332ce-54b6-46c3-b0b1-2b636ee077b3",
-  "slug": "el-toro-mexican-restaurant-Gu_qMs",
-  "name": "El Toro Mexican Restaurant",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "El Toro Mexican Restaurant is a Mexican dining establishment located in Gulf Shores, Alabama, offering traditional Mexican cuisine.",
-  "phone": "(251) 968-9030",
-  "email": null,
-  "website_url": "https://eltoromexicanrestaurantgulfshoresal.com/",
-  "address_line_1": "3645 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.3,
-  "review_count": 1085,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/a16d118d-10fb-4e24-b7d5-a0842f892f1c/image_3.jpg",
-  "photos": [],
+  "entity": {
+    "id": "937332ce-54b6-46c3-b0b1-2b636ee077b3",
+    "place_id": "ChIJHa9hFTkFmogR48UxAGu_qMs",
+    "google_maps_uri": "https://maps.google.com/?cid=14675189852072429027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "el-toro-mexican-restaurant-Gu_qMs",
+    "name": "El Toro Mexican Restaurant",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "mexican_restaurant",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-9030",
+    "international_phone": null,
+    "website_url": "https://eltoromexicanrestaurantgulfshoresal.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3645 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2958975,
+    "longitude": -87.6838845,
+    "short_address": "3645 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.3,
+    "review_count": 1085,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Casual eatery serving Mexican favorites, beer & margaritas in a warm, traditional space.",
+    "description": "El Toro Mexican Restaurant is a Mexican dining establishment located in Gulf Shores, Alabama, offering traditional Mexican cuisine.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/a16d118d-10fb-4e24-b7d5-a0842f892f1c/image_3.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Popular Items",
+          "items": [
+            {
+              "name": "39. Steak or Chicken Fajitas",
+              "tags": [],
+              "price": 15.74,
+              "dietary": [],
+              "popular": false,
+              "description": "Strips of sizzling steak or chicken breast with onions, bell peppers and tomatoes. Served with guacamole salad, refried beans and rice",
+              "subcategory": null
+            },
+            {
+              "name": "20. Chicken Quesadillas",
+              "tags": [],
+              "price": 13.53,
+              "dietary": [],
+              "popular": false,
+              "description": "Two quesadillas stuffed with chicken and cheese. Served with a guacamole salad",
+              "subcategory": null
+            },
+            {
+              "name": "73. Beef Taco Platter",
+              "tags": [],
+              "price": 11.01,
+              "dietary": [],
+              "popular": false,
+              "description": "Two beef tacos topped with lettuce, tomatoes and cheese. Served with rice and beans",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.582928+00:00",
+    "updated_at": "2026-05-17T22:22:53.133703+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "1bf42a6e-a6ba-4877-864a-62e8ff25fb35",
+      "tag": "mexican",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "5a9ad133-539f-4241-81c7-5a6e08629456",
+      "tag": "mexican",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "153d68ca-5be7-442e-aa33-981a29f55970",
+      "tag": "tacos",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "279eaae4-f371-4d07-895a-138cd9df341c",
+      "tag": "tacos",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "0076a0c8-b246-4c87-8684-3e10a91435a6",
+      "tag": "margaritas",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "371c7615-5b71-4641-af97-d4fb12c7e8e1",
+      "tag": "margaritas",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "c0c2fab4-0656-461c-9bc4-85985251c006",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "e4dff780-c942-4f09-8d76-50b6c8c7084d",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "5c545697-0a8a-4920-ba15-195ff7871ec2",
+      "tag": "takeout",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "c4782ac5-388d-4fe4-8dcb-05e6cd1f22ee",
+      "tag": "takeout",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "1c246a7b-d334-4ec1-b174-5b98b7fba98a",
+      "tag": "delivery",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "9c5d18c8-23f1-4e54-ab79-8d4ed8649571",
+      "tag": "delivery",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "4dacd4a4-67ae-45dd-9d39-f3e5593d62b7",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 6
+    },
+    {
+      "id": "3c65903c-e98e-4417-bc03-1ef9e1929e25",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 6
+    },
+    {
+      "id": "5c1c4a7e-66cf-4df5-b660-205d951e510f",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "9615cf57-db72-4efa-9b30-a574dc8ab348",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "01577409-1a45-449d-9052-add8e83cca27",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "52ba8e3a-a900-40d4-8dda-4c1bf1690099",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "497dda0e-ba99-43fa-9cfe-710e28a17a77",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 9
+    },
+    {
+      "id": "692962f0-6ef8-46ca-8668-8a0b8913393b",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 9
+    },
+    {
+      "id": "568984db-541d-4809-bfec-7ce168bdd6fb",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "465fbb30-3957-49ef-a7cc-157816cee21c",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "90f2a2f1-b11d-45e7-8de5-5771f887eac8",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "7d451686-c16a-4efc-a841-c59be3d383b9",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "b4d01bdd-952c-44a2-83b2-6b7e74fb03ec",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "7b6cbe47-42e6-484f-87b2-c8d3b42cc458",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "a3eb11b4-90f3-4001-af38-4221eab88b16",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "1c6be500-e264-4a44-9b84-15cc2ea49bea",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "8be4ff50-b489-4526-b146-07e1706e8a01",
+      "tag": "latin american restaurant",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "ad84cfd8-e58b-4c76-82f7-b4c68619b0b0",
+      "tag": "latin american restaurant",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "746af41d-24e2-4e11-97b9-8fce1bf3e570",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "524000f6-b621-40fa-922e-81ee2509e20f",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "f78acbba-f4d2-4525-906f-915d2783a69d",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "d7ba6bf2-a577-45a1-955c-5410c5211490",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "e6a1ea7d-0f76-4e05-89d0-53b5b54f7ba1",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 17
+    },
+    {
+      "id": "189d3be4-21be-4948-9ed4-f7df11da6a5a",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 17
+    },
+    {
+      "id": "18dab811-67ed-463e-98f3-80afa3d1c1d6",
+      "tag": "mexican restaurant",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "22e701bb-f982-4b3e-8587-82d31e79d352",
+      "tag": "mexican restaurant",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "d57b40ba-eb47-4866-a58e-6fd0cd33f13c",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "67de3e18-4eca-45df-aea9-f335b586edc8",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "9fd5503f-c566-467b-95a0-e532227e405a",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "93a773d0-9443-41b2-bf5b-3ec132c628b2",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "bc3008a6-88ab-48bf-9b07-69530ced67e0",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "9a33705e-0c96-4b3f-9467-28b248031032",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "8884f698-ebe1-4ca3-a250-006d63fb851b",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 22
+    },
+    {
+      "id": "89cf0089-a5c8-4bd6-b4c1-f6a35441d38f",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 22
+    },
+    {
+      "id": "28505037-e86b-4bd5-a375-40dd1cbcb18d",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 23
+    },
+    {
+      "id": "439f2a88-d4a3-40cc-a34b-0971e5c83353",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 23
+    },
+    {
+      "id": "c7971fbd-a418-4bb3-a287-a218cbde70d1",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 24
+    },
+    {
+      "id": "303f0173-c9a2-42ef-8446-3c0ece17d548",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 24
+    },
+    {
+      "id": "ca46d26f-45c3-407d-8f09-8e1942c9ae67",
+      "tag": "mexican_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "397cd138-d7fd-43ee-b01a-978fdad2312f",
+      "tag": "mexican_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "cd5f4370-6ff6-4528-be77-d00f11e482d4",
+      "tag": "latin_american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "6a092c84-3dc7-43ec-835b-5de896e0db0e",
+      "tag": "latin_american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "c23433fa-7788-4ca4-8a6e-f7625a17042c",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "a542a346-33eb-4bb7-8719-a4286e27baf6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 27
+    }
+  ],
+  "sections": [
+    {
+      "id": "e3c83bf6-34d6-4f4d-a856-1778f0787c31",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

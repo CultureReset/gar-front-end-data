@@ -1,32 +1,240 @@
 {
-  "id": "d2f0303e-819f-4705-b3ce-bdc97215ad2e",
-  "slug": "circle-hook-charters-id3Les",
-  "name": "Circle Hook Charters",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 504-8275",
-  "email": null,
-  "website_url": "https://circlehookcharters.com/",
-  "address_line_1": "16650c White Ln, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.5,
-  "review_count": 39,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/a1632a45-3be5-4040-b607-ad96c3faa929/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "d2f0303e-819f-4705-b3ce-bdc97215ad2e",
+    "place_id": "ChIJOwbRWgUbmogROdP69id3Les",
+    "google_maps_uri": "https://maps.google.com/?cid=16946331986396107577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "circle-hook-charters-id3Les",
+    "name": "Circle Hook Charters",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": [],
+    "google_type": "fishing_charter",
+    "google_types": [
+      "fishing_charter",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 504-8275",
+    "international_phone": null,
+    "website_url": "https://circlehookcharters.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "16650c White Ln, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2854046,
+    "longitude": -87.7396919,
+    "short_address": "16650c White Ln, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 39,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/a1632a45-3be5-4040-b607-ad96c3faa929/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:27.38073+00:00",
+    "updated_at": "2026-05-17T22:22:53.667634+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "94bf72a5-7766-4271-9af7-492cb058ee78",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "0af8192e-909f-4d28-93e8-fa7383b9610a",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "8e49d373-d1ae-482d-818a-b1b0948a993e",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "9b277b9e-2aec-4bb2-be5e-35eb59fb69bc",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "99185679-f166-4096-9933-4f045d59a26d",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "0e177731-aabd-458a-9c2c-684653278860",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "4ce90ed4-8df0-4214-b914-0e52f636852f",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "e33f8554-29b5-4ef5-ba48-7152839fee07",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "f63b79b1-6a62-4837-8fa1-704422ffda40",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "d30e8fac-f523-4e11-afe2-13146c8e1d3f",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "234b0ca7-ab60-49b2-b6ea-229e5c2a660c",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "e2c4bd60-a8c2-49b9-b722-afbde4ddddfc",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "80586a43-c0d3-4594-b262-5070bd18723f",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

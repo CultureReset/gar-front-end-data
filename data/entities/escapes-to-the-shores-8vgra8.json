@@ -1,32 +1,360 @@
 {
-  "id": "3977fc99-98e4-4656-96b8-5cd301e25fec",
-  "slug": "escapes-to-the-shores-8vgra8",
-  "name": "Escapes! To The Shores",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "Get an Airbnb for every kind of trip. Access 8 million vacation rentals, 2 million Guest Favorites across 220+ countries and regions worldwide. Find unique homes, cabins, beach houses, and local experiences for your next getaway.",
-  "phone": "(251) 315-6853",
-  "email": null,
-  "website_url": "https://shoresatorangebeach.com/",
-  "address_line_1": "24060 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.4,
-  "review_count": 322,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3977fc99-98e4-4656-96b8-5cd301e25fec/3977fc99-98e4-4656-96b8-5cd301e25fec_1779139836187.159.jpg",
-  "photos": [],
+  "entity": {
+    "id": "3977fc99-98e4-4656-96b8-5cd301e25fec",
+    "place_id": "ChIJ8-8LZ5sGmogRnTaij8vgra8",
+    "google_maps_uri": "https://maps.google.com/?cid=12659021292501087901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "escapes-to-the-shores-8vgra8",
+    "name": "Escapes! To The Shores",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": "",
+    "google_type": "travel_agency",
+    "google_types": [
+      "condominium_complex",
+      "real_estate_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 315-6853",
+    "international_phone": null,
+    "website_url": "https://shoresatorangebeach.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "24060 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2616542,
+    "longitude": -87.61348,
+    "short_address": "24060 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 322,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Get an Airbnb for every kind of trip. Access 8 million vacation rentals, 2 million Guest Favorites across 220+ countries and regions worldwide. Find unique homes, cabins, beach houses, and local experiences for your next getaway.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3977fc99-98e4-4656-96b8-5cd301e25fec/3977fc99-98e4-4656-96b8-5cd301e25fec_1779139836187.159.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/VacationCondos/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "paidParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.hughsgulfshores.com",
+      "pages": [],
+      "pdfUrls": [],
+      "scraper": "chrome-visible",
+      "pdfTexts": [],
+      "imageUrls": [],
+      "scraped_at": "2026-03-22T02:46:36.207Z",
+      "business_name": "hughsgulfshores.com"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "structured-data",
+      "gcr-import-ready",
+      "gcr-organized",
+      "all-businesses",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.027834+00:00",
+    "updated_at": "2026-05-18T21:30:41.277782+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "817ea09c-56d5-41de-803f-6e8cd68df426",
+      "tag": "condominium complex",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "fa772e43-bd9e-438e-a5c0-f5af9098f9ef",
+      "tag": "condominium complex",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "e0ff031c-b44e-4167-a5b2-3b0284e2f227",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "e541c0ab-2d4c-4c4d-8968-bf660773c945",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "57e1784c-06ee-4ea1-969e-dc619c50c9c5",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "e0c0c60e-b7c0-449b-b3dc-98c0fb6076b8",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "72908561-9b85-425d-8b6f-f6cb198b989a",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "52c3c680-c3f8-4ff6-b0fd-07f9294bcab1",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "e9ce8e74-3edc-4066-bc06-17c9f23c117d",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "41f27dbf-e48f-4336-bd1f-0374bd3ad28f",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "f641e984-9c39-477d-bece-c3b760043043",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "e8016164-8139-4f49-aede-3732becfab2e",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "23909537-fd31-43de-a011-ee9f83964f8b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "f66b53ae-3480-487b-a626-74abb78958e7",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "64c3e223-2d27-4f73-b557-0fe32486908b",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "7cbaf738-4427-4c24-8190-e742d8adcfe7",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "3f15fcb0-9c0d-4db7-b995-11bb07ce5f0c",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "f3532f3b-3e45-43b6-966d-f924cf0c0f1e",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "3f434704-06d9-4f87-8de6-0b44b5fcb0c2",
+      "tag": "condominium_complex",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "9ed3d779-084d-4652-867b-7dde44bf206e",
+      "tag": "condominium_complex",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "919855c6-e32b-49ce-9dc3-3543583410d1",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "f8782320-f47d-4087-b2a9-0988f9e52338",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "b2580c3c-d4c1-4663-8dbb-4257831fbf2a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "182f90c9-8237-4e26-9db4-ccc7238aaa74",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    }
+  ],
+  "sections": [
+    {
+      "id": "96d0247f-af2f-40be-8fb5-fb45dc49f58d",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "630b43d5-b2b1-4a4d-bf09-f0873f9e9366",
+      "entity_id": "3977fc99-98e4-4656-96b8-5cd301e25fec",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3977fc99-98e4-4656-96b8-5cd301e25fec/3977fc99-98e4-4656-96b8-5cd301e25fec_1779131551122.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:44.848409+00:00"
+    },
+    {
+      "id": "2c1fe60c-f2ec-4f10-a972-21c77133a803",
+      "entity_id": "3977fc99-98e4-4656-96b8-5cd301e25fec",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3977fc99-98e4-4656-96b8-5cd301e25fec/3977fc99-98e4-4656-96b8-5cd301e25fec_1779132089042.3792.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:45.005342+00:00"
+    },
+    {
+      "id": "77d62e18-f6e8-4700-9df3-00045941974b",
+      "entity_id": "3977fc99-98e4-4656-96b8-5cd301e25fec",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3977fc99-98e4-4656-96b8-5cd301e25fec/3977fc99-98e4-4656-96b8-5cd301e25fec_1779139836187.159.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:45.169322+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,270 @@
 {
-  "id": "27ec907c-a7cc-480e-a865-d6283bc096e8",
-  "slug": "gulf-shores-jerky-store-pT6BbY",
-  "name": "Gulf Shores Jerky Store",
-  "entity_type": "shopping",
-  "entity_subtype": "food_store",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 281-2098",
-  "email": null,
-  "website_url": "http://www.gulfshoresjerkystore.com/",
-  "address_line_1": "108 W 3rd Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.9,
-  "review_count": 345,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b30bc441-ac1d-43f4-a20e-c37a4979d9e7/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "27ec907c-a7cc-480e-a865-d6283bc096e8",
+    "place_id": "ChIJDyXez_YGmogRUk-zupT6BbY",
+    "google_maps_uri": "https://maps.google.com/?cid=13116165006480854866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-shores-jerky-store-pT6BbY",
+    "name": "Gulf Shores Jerky Store",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "food_store",
+    "secondary_types": "",
+    "google_type": "food_store",
+    "google_types": [
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 281-2098",
+    "international_phone": null,
+    "website_url": "http://www.gulfshoresjerkystore.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "108 W 3rd Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2510347,
+    "longitude": -87.6901813,
+    "short_address": "108 W 3rd Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 345,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b30bc441-ac1d-43f4-a20e-c37a4979d9e7/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 10:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.140955+00:00",
+    "updated_at": "2026-05-18T21:06:42.748295+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "6e14a2eb-32c5-444b-a429-565343d4e538",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "ffeca804-e075-4a6d-b705-d87002b2cc4a",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "ac870fad-8df2-4320-b159-06ca7ca151c2",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "6d8c6dce-e0d9-4c7b-b5f4-96b256741e66",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "35e40a27-dffd-41a2-bba9-8225f3285a52",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "9a3c4863-fe19-43a1-94a2-0bc8d3f71858",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "1a275c47-6433-4324-812e-9b15f9548ba3",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "65df0f14-f626-44aa-a767-a36ba5099ae6",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "a4214d3b-d717-48c6-9b8a-da96e96ef076",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "5e4b69c0-698d-486d-8d34-5701e2c9775d",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "8641de4a-dc73-4e8a-b046-2563cf2da896",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "2b98a323-727e-4e9a-9bb5-627cad0cbb58",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "4be6d9e4-ee26-4504-9541-d6926a19ff29",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "83f6eaeb-9af7-4713-b713-c3500d6165ac",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "ab821bbf-3da3-4dea-ba12-d376e37d0c4a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "a23eeb93-80fa-4bb5-8175-a491c1d27640",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "811cd056-a7f1-42b3-a11c-b25c68731752",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

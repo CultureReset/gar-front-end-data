@@ -1,32 +1,306 @@
 {
-  "id": "ae237313-c72b-4de5-b4d6-b9e7fe72e620",
-  "slug": "island-shores-by-owner-TZCVL8",
-  "name": "Island Shores by Owner",
-  "entity_type": "activity",
-  "entity_subtype": "hotel",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(256) 529-7352",
-  "email": null,
-  "website_url": "http://www.kinhq.net/gulf-shores-al",
-  "address_line_1": "421 E Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 3.9,
-  "review_count": 158,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/70152d3f-ae26-446b-91e7-89c9c2ce0aca/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "ae237313-c72b-4de5-b4d6-b9e7fe72e620",
+    "place_id": "ChIJCzjLY74EmogR_AkqTTZCVL8",
+    "google_maps_uri": "https://maps.google.com/?cid=13786717160278198780&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "island-shores-by-owner-TZCVL8",
+    "name": "Island Shores by Owner",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "hotel",
+    "secondary_types": [],
+    "google_type": "condominium_complex",
+    "google_types": [
+      "condominium_complex",
+      "travel_agency",
+      "real_estate_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(256) 529-7352",
+    "international_phone": null,
+    "website_url": "http://www.kinhq.net/gulf-shores-al",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "421 E Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2487476,
+    "longitude": -87.6799815,
+    "short_address": "421 E Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 3.9,
+    "review_count": 158,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/70152d3f-ae26-446b-91e7-89c9c2ce0aca/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "paidParkingLot": true
+    },
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.040151+00:00",
+    "updated_at": "2026-05-17T22:22:52.90881+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "4bcbd320-efa3-4e0c-9f64-d3f3709ddf0e",
+      "tag": "condominium complex",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "aa84ca4b-37d2-4803-b3a6-e6893799f4dd",
+      "tag": "condominium complex",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "c9c73a49-5b68-4e48-aef3-fb86325826bb",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "57c27668-9cb0-4321-8786-0e8e3768b55c",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "e1d95f64-aeea-428a-a092-cbddc87fb660",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "b7aa6903-52a4-4e0d-b748-c7ed4c8cb72a",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "d9777ddc-db38-48d2-b54f-d6f244f63217",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "1223c463-6d5c-4663-8d13-d6d8fe9bdb9b",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "e364cf4e-1426-4b9a-abed-5020e76a6dc1",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "a4814a08-5a2d-42be-b842-ae839f40c2b3",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "399c445d-3e49-4367-a9b4-bc829f8b907f",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "94b8157d-f810-4f00-a002-24002a2f2962",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "f750cc45-cbed-41f4-83df-63719909df83",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "7ff58cdd-f27b-41c0-97cb-92fa2b527272",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "ee9196bc-651a-4c88-a8bc-6acd7c1d0ee5",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "868dbd82-1b48-47cb-80e9-a10ac5919124",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "768d34be-fd87-4f04-ac04-9a7a7b254d38",
+      "tag": "condominium_complex",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "a69519cc-cc7b-4330-a6e2-31e01971decf",
+      "tag": "condominium_complex",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "ba9c5662-6d5f-42a8-99ef-3cefd021665b",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "9e195e28-08b1-467d-9c38-83dad121bddc",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "abb66832-de5d-4076-92d0-4f39a98d6841",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "8937ff24-a33b-40cf-be03-c792ae2a15a4",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "379dda3e-02ad-4dac-b905-ec83deb72630",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "7c4155d7-2470-476f-bd4b-5e9aa675b309",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    }
+  ],
+  "sections": [
+    {
+      "id": "3e9e8b42-59d5-4e58-a045-e1eb0811c5cf",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

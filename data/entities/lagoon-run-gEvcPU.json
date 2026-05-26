@@ -1,32 +1,262 @@
 {
-  "id": "0959cde3-782a-4cc0-b4eb-c5b914dbd38f",
-  "slug": "lagoon-run-gEvcPU",
-  "name": "Lagoon Run",
-  "entity_type": "activity",
-  "entity_subtype": "hotel",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 270-0050",
-  "email": null,
-  "website_url": "http://lagoonrun.com/",
-  "address_line_1": "1784 W Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 58,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/c9039249-5ae0-4477-8107-6a33e091352e/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "0959cde3-782a-4cc0-b4eb-c5b914dbd38f",
+    "place_id": "ChIJPQP-fYMbmogRzc1BbgEvcPU",
+    "google_maps_uri": "https://maps.google.com/?cid=17685687419875216845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "lagoon-run-gEvcPU",
+    "name": "Lagoon Run",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "hotel",
+    "secondary_types": "",
+    "google_type": "condominium_complex",
+    "google_types": [
+      "condominium_complex",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 270-0050",
+    "international_phone": null,
+    "website_url": "http://lagoonrun.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1784 W Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2414741,
+    "longitude": -87.742134,
+    "short_address": "1784 W Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 58,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/c9039249-5ae0-4477-8107-6a33e091352e/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": null,
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:27.38073+00:00",
+    "updated_at": "2026-05-18T21:06:58.261215+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "4b500668-dc80-431a-91a2-e3632ae7b56b",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "4dac9f10-b558-4ec9-8be0-a616314f10d5",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "1d60b6f6-b80c-41aa-aa32-f0a7bed6cbc2",
+      "tag": "condominium complex",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "834ffbdd-651e-44d4-a69f-2d5555a8996a",
+      "tag": "condominium complex",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "3fac01ce-18fb-4ca7-8818-81e0792cdaf6",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "f58931fb-71ae-48dc-89c8-784d89c60e98",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "fd1b6635-0d99-4c3e-a9af-9bcb07282400",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "66e4b5eb-f081-4fcd-b690-c6c86d724e56",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "67630e5e-5f2d-48eb-8f4d-c2bbf4171179",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "170915ac-0af0-4744-b762-6f85bbe78af3",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "c24b2a06-3652-44ec-b7a2-cacce84d9aa5",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "c426d31e-9de8-421b-83c4-8abee01e7546",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "4867945f-6068-4e60-8eef-a2d359e7a070",
+      "tag": "condominium_complex",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "40231db7-1477-4734-a751-ca18e80616f1",
+      "tag": "condominium_complex",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "c87990c5-81dc-4d54-a702-514c32c7413a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "c7fa340d-07f0-4e24-8820-e7402eb36c60",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "04441d64-b2e7-49a8-b1f4-8a0055191fd0",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

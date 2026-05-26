@@ -1,32 +1,394 @@
 {
-  "id": "a1cdfbb7-384b-4aca-9763-58122c5f1c06",
-  "slug": "fed-up-inshore-charters-NQZK0w",
-  "name": "Fed Up Inshore Charters",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 377-7135",
-  "email": null,
-  "website_url": "http://fedupcharters.com/",
-  "address_line_1": "27075 Marina Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 5,
-  "review_count": 12,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a1cdfbb7-384b-4aca-9763-58122c5f1c06/a1cdfbb7-384b-4aca-9763-58122c5f1c06_1779139778124.0503.jpg",
-  "photos": [],
+  "entity": {
+    "id": "a1cdfbb7-384b-4aca-9763-58122c5f1c06",
+    "place_id": "ChIJGSAOZPkGmogRh80OHNQZK0w",
+    "google_maps_uri": "https://maps.google.com/?cid=5488508969675574663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "fed-up-inshore-charters-NQZK0w",
+    "name": "Fed Up Inshore Charters",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": [],
+    "google_type": "fishing_charter",
+    "google_types": [
+      "fishing_charter",
+      "tour_agency",
+      "travel_agency",
+      "school",
+      "educational_institution",
+      "service",
+      "sports_club",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 377-7135",
+    "international_phone": null,
+    "website_url": "http://fedupcharters.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27075 Marina Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2823877,
+    "longitude": -87.5630665,
+    "short_address": "27075 Marina Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 12,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a1cdfbb7-384b-4aca-9763-58122c5f1c06/a1cdfbb7-384b-4aca-9763-58122c5f1c06_1779139778124.0503.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.45857+00:00",
+    "updated_at": "2026-05-18T21:29:43.130923+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "81b642bd-1b0c-4453-8f37-465d357a63aa",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "fe5d937c-717f-4d90-ab2f-62a5eb38bc66",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "fd576c2e-bb2a-40b5-abd7-9c3ac2c199b5",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d3daf678-b920-4c77-9ffd-29f03f65a6c8",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "b0471ed9-fddf-4832-800c-11b94c3c92ff",
+      "tag": "sports club",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "1c8c26d4-fd63-4e05-9ee6-d6f39fcd67f1",
+      "tag": "sports club",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "76ee8d24-f338-4835-9033-2db4956de1c6",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "d9798c45-a32e-4561-8b38-756b704ad319",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "948ca64e-f8e6-426c-be08-f3ffc4b7b31d",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "f8b22910-93bb-4e4c-94ef-c8d561b28c52",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "735e69c3-343b-4c2d-b120-fd0465366c97",
+      "tag": "association or organization",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "5473042a-193c-4200-828b-f2285e9a24f4",
+      "tag": "association or organization",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "ea4c1997-3016-41fe-b32a-03582bb9556b",
+      "tag": "tour agency",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "20ace2e0-70d2-494c-b3cb-91d23e5a70f2",
+      "tag": "tour agency",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "1253cc46-2bc5-4ba7-88d2-b0a68171a140",
+      "tag": "educational institution",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "fb628d91-2117-4d50-ae94-b98451143804",
+      "tag": "educational institution",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "aa266960-27e1-44eb-98c2-8a7c9c0794d1",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "fc598558-e91e-4e59-9a02-e349633bd1a8",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "4abbdcd1-49cf-4c11-9e5d-a4975d3476e3",
+      "tag": "school",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "383df307-8a7e-4a0b-9af0-8fd5c25aa5b7",
+      "tag": "school",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "27b052b4-c3da-4244-9c4c-b22d34c61ed9",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "20f2a5f7-d4a0-4033-8c85-00d49bc95d57",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "49b97cf1-ab50-4e75-90c9-8afadfe43e74",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "9d684e4e-2c71-4f43-b871-5f7a0fb7bc83",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "340a888f-5d37-410f-bbaa-4b38c91b323e",
+      "tag": "sports_club",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "c3c1de2c-681e-48e1-93d9-8daa4ec6e18f",
+      "tag": "sports_club",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "d49eb9f1-3802-4147-8b35-64e981a688c6",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 13
+    },
+    {
+      "id": "cc9d0829-9ba1-4c75-826c-09be3f66e646",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 13
+    },
+    {
+      "id": "41190679-92dc-43a1-9bd9-77893d8823d7",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "76eaa757-940e-41b3-99cc-e86a69695c62",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "129cb843-898a-4540-a0b8-9deceee8796a",
+      "tag": "educational_institution",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "989dd618-2a1e-4be6-a879-d6d4f8a15f3c",
+      "tag": "educational_institution",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "6f20ae6e-9403-4792-b033-0a81692bd9c9",
+      "tag": "association_or_organization",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "9decf287-043e-42e4-b07e-c9df94a0886f",
+      "tag": "association_or_organization",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "90e31579-bbe3-42c9-8ea1-7e69398cbf02",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "cfe20169-f7df-4a46-ba9b-122cbd5311d2",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 17
+    }
+  ],
+  "sections": [
+    {
+      "id": "508cf232-cc63-40aa-90ee-4ca642c50e52",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

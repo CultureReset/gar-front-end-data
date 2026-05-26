@@ -1,32 +1,360 @@
 {
-  "id": "45bf863a-faf8-4fc9-80fd-bbc86fe4fa1d",
-  "slug": "ducks-diner-orange-beach-NEAz20",
-  "name": "Duck's Diner Orange Beach",
-  "entity_type": "restaurant",
-  "entity_subtype": "breakfast_restaurant",
-  "icon": "🏪",
-  "description": "Simple joint for diner favorites with a Southern twist, including French toast & grits.",
-  "phone": "(251) 948-9191",
-  "email": null,
-  "website_url": "http://www.ducksdiner.com/",
-  "address_line_1": "4560 Easy St, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.6,
-  "review_count": 1764,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/94edd8c1-f7cf-4a92-b6e4-e164334a5e01/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "45bf863a-faf8-4fc9-80fd-bbc86fe4fa1d",
+    "place_id": "ChIJZ30XNm4GmogROWGjHNEAz20",
+    "google_maps_uri": "https://maps.google.com/?cid=7912543968441884985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "ducks-diner-orange-beach-NEAz20",
+    "name": "Duck's Diner Orange Beach",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "breakfast_restaurant",
+    "secondary_types": "",
+    "google_type": "breakfast_restaurant",
+    "google_types": [
+      "breakfast_restaurant",
+      "diner",
+      "brunch_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-9191",
+    "international_phone": null,
+    "website_url": "http://www.ducksdiner.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4560 Easy St, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2911624,
+    "longitude": -87.6071201,
+    "short_address": "4560 Easy St, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 1764,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Simple joint for diner favorites with a Southern twist, including French toast & grits.",
+    "description": "Simple joint for diner favorites with a Southern twist, including French toast & grits.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/94edd8c1-f7cf-4a92-b6e4-e164334a5e01/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": null,
+    "serves_beer": true,
+    "serves_wine": null,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": false,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 1:15 PM",
+      "Tuesday: 7:00 AM – 1:15 PM",
+      "Wednesday: 7:00 AM – 1:15 PM",
+      "Thursday: 7:00 AM – 1:15 PM",
+      "Friday: 7:00 AM – 1:15 PM",
+      "Saturday: 7:00 AM – 1:15 PM",
+      "Sunday: 7:00 AM – 1:15 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": {
+        "categories": []
+      },
+      "hours": {
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "images": [],
+      "contact": {
+        "zip": null,
+        "city": "Orange Beach",
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null,
+        "website": "http://www.ducksdiner.com"
+      },
+      "features": [],
+      "specials": [],
+      "description": null,
+      "price_range": null,
+      "cuisine_type": null,
+      "extracted_at": "2026-05-16T19:16:07.455Z",
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Duck's Diner Orange Beach"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.22949+00:00",
+    "updated_at": "2026-05-18T21:06:29.100321+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ef6e06d4-d484-4c47-be19-7363c110a2ea",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "c9d68718-962c-4491-84d2-1f10cefb16d3",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 1
+    },
+    {
+      "id": "c7746f79-d89c-4979-acbd-010d9041660f",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 2
+    },
+    {
+      "id": "7d028c8e-09f6-45d0-a1b8-b73329ba6146",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 3
+    },
+    {
+      "id": "7e92761d-ede5-401d-9b48-e1636a36fff7",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 4
+    },
+    {
+      "id": "77ee8e83-6369-4e3a-ad7c-bfdeb55eadaa",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "abb2dba2-549d-4c9a-a53f-741ebecccbb5",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 6
+    },
+    {
+      "id": "f92d9356-7c1f-400c-b6a1-b5b44f741bf1",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "a0703c4f-d945-46f6-96cc-5c1ab57165a0",
+      "tag": "brunch",
+      "tag_category": "food",
+      "sort_order": 8
+    },
+    {
+      "id": "452e3f5b-a970-4d80-9ced-cfd8347ec332",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 9
+    },
+    {
+      "id": "f17e194b-8631-4cfe-8550-460235db302c",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "ed460510-9b7b-4b9e-9cfd-62292210b814",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "baa3bfcf-fad4-48a3-9316-c35e02ed5611",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "0e94e943-44de-46fd-8b5a-e1e50e73ddd8",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "7ca9e6f4-9a9a-462f-b41b-43447cb81fdf",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "6957d075-c315-450d-ae0a-1835e58f65ee",
+      "tag": "diner",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "011db0f3-f5d5-4230-ab3c-531901fa5299",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "56525df8-bb0c-4616-a7f6-00d7979c2a9a",
+      "tag": "brunch restaurant",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "d2531dc7-8cc4-4b44-8e88-ef6e0b21b08c",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "33a70ed1-1baa-4a51-a18f-24aaff78e473",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "c6356eb3-d183-4eb4-9509-ab848102faf1",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "19c9e108-81ad-438f-906b-b0b5170affd1",
+      "tag": "brunch_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "287fc283-5fe8-4522-9dbc-0ec73b4d344d",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "753ab74a-ae2d-4f15-a7f0-ea3f1d75e00a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 23
+    }
+  ],
+  "sections": [
+    {
+      "id": "f02c345c-f78f-4fc9-98f5-ec5417dcf6f4",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

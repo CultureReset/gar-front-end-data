@@ -1,32 +1,280 @@
 {
-  "id": "59efec8d-7808-4d13-8ecb-44e6025efd8e",
-  "slug": "dead-reckoning-boat-dock-rv-1h87zY",
-  "name": "Dead Reckoning Boat Dock & RV",
-  "entity_type": "activity",
-  "entity_subtype": "rv_park",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(334) 322-9625",
-  "email": null,
-  "website_url": "http://www.sailingdeadreckoning.com/",
-  "address_line_1": "4435 Co Rd 6, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 6,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/d80967ad-0dc1-4eed-a892-73d6a1f813db/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "59efec8d-7808-4d13-8ecb-44e6025efd8e",
+    "place_id": "ChIJ8yFdu24bmogRoVEP_1h87zY",
+    "google_maps_uri": "https://maps.google.com/?cid=3958519319160115617&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "dead-reckoning-boat-dock-rv-1h87zY",
+    "name": "Dead Reckoning Boat Dock & RV",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "rv_park",
+    "secondary_types": "",
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "marina",
+      "storage",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(334) 322-9625",
+    "international_phone": null,
+    "website_url": "http://www.sailingdeadreckoning.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4435 Co Rd 6, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2888512,
+    "longitude": -87.7355157,
+    "short_address": "4435 Co Rd 6, Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 6,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/d80967ad-0dc1-4eed-a892-73d6a1f813db/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.14342+00:00",
+    "updated_at": "2026-05-18T21:06:24.777789+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "468fab72-011e-4eda-a8f7-763e6a7d5bbf",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "375369d0-9522-41b0-b551-420005cb4198",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "b1ee6bec-6c43-4499-b598-c70b0a67b272",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "a16be8db-d114-4eeb-9e2c-c7ef459d014d",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "8e97a943-82ee-42d6-a784-a3305916ab8e",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "8f7b0a12-3590-48a1-9a52-634e719f2a79",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "5fe79c9f-cb91-4b4a-b590-b94d53245561",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "b9be315b-3fe4-4c67-81d4-4157268ea2f7",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "24430525-5f6e-42ac-a39a-f0aa929da64c",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "49556a37-e4aa-43b6-aba1-85353678a766",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "1d3f97c3-8e25-4eb1-81e7-2478a501382d",
+      "tag": "marina",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "5aefd18e-b274-4d2d-89a8-bff968ecbbcb",
+      "tag": "marina",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "4d58d13d-bd88-47f8-b12e-2826a31d51a6",
+      "tag": "storage",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "6ae34d88-9c39-4090-9cbe-65844cf556d2",
+      "tag": "storage",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "9cd60bcd-c164-496c-8231-2f48a83f3994",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "df8cd1db-f0c3-462c-a6c7-accebcb4ac12",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "b760f30e-b6cd-4e40-9ac3-7d4181a5644a",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "e19d45a4-c198-4c1a-9598-6ed382a06d50",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "5f9d20d7-e997-415f-a6ea-cae9d3a0f5ce",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "87284bb6-33ed-4524-b1db-a7dfd7b5cf3e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    }
+  ],
+  "sections": [
+    {
+      "id": "f32118e6-1546-4041-a3a9-e30d4c576f5f",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

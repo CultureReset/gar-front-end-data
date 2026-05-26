@@ -1,32 +1,232 @@
 {
-  "id": "d8b18a98-2dc9-4816-ac26-e75111a5f849",
-  "slug": "koontz-koontz-B_PkLw",
-  "name": "Koontz & Koontz",
-  "entity_type": "artist",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 986-5146",
-  "email": null,
-  "address_line_1": "24893 State Ave, Elberta, AL 36530, USA",
-  "city": "Elberta",
-  "state": "AL",
-  "zip": "36530",
-  "website_url": null,
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": null,
+  "entity": {
+    "id": "d8b18a98-2dc9-4816-ac26-e75111a5f849",
+    "place_id": "ChIJ4_Ee8q-nkIgRKU1h8B_PkLw",
+    "google_maps_uri": "https://maps.google.com/?cid=13587587811860630825&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "koontz-koontz-B_PkLw",
+    "name": "Koontz & Koontz",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": [],
+    "google_type": "consultant",
+    "google_types": [
+      "accounting",
+      "consultant",
+      "finance",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 986-5146",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "24893 State Ave, Elberta, AL 36530, USA",
+    "address_line_2": null,
+    "city": "Elberta",
+    "state": "AL",
+    "zip": "36530",
+    "latitude": 30.4144996,
+    "longitude": -87.6000623,
+    "short_address": "24893 State Ave, Elberta",
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:11.614761+00:00",
+    "updated_at": "2026-05-17T21:17:41.257703+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "f6621026-47c8-4216-9f51-5614e39dbf3f",
+      "tag": "accounting",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "7180ea2b-fa2e-4502-8025-379853e12c94",
+      "tag": "accounting",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "8ca99855-9025-40e1-9bff-70a6e9443109",
+      "tag": "finance",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "8ab8d75b-0dce-4380-95f4-709f70d23ac7",
+      "tag": "finance",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "842d76be-711b-4f40-9875-949276009335",
+      "tag": "consultant",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "389d7ba0-b440-4f5e-aa34-25c8166a724f",
+      "tag": "consultant",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "03d6f975-35c2-47a0-8486-e3d0757dd0db",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "2e4350b2-1096-4d0c-9c57-f5a4be61133d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "9faa141e-bd7c-486c-a1ad-c9504fb86da5",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "70bc5a5f-9bf9-4148-bd3d-1d3328076c46",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "b16509d8-316b-4641-a5f1-de8801f2d61a",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "835b3ae9-e4b3-4fc8-91bf-654eff017359",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "f0884c70-0f23-490b-8677-f51fd212ca0b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "photos": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

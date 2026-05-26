@@ -1,334 +1,3104 @@
 {
-  "id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
-  "slug": "hub-staceys-at-the-point-74U9L8",
-  "name": "Hub Stacey's at The Point",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Serving both the Pensacola and Perdido Key Florida areas. Hub Stacey's offers the best sandwiches in the area. Dine in or take-out, you won't be disappointed with the large portions and fantastic sandwiches. Hub's is the home of the best food, spirits, and music. Our music lineup consists of country, rock, blues, funk, and all the good ballads! Hundreds of musicians perform at both of our locations year round.",
-  "phone": "(850) 497-0071",
-  "email": null,
-  "address_line_1": "5851 Galvez Rd, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": "https://www.hubstaceyspensacolaperdido.com/menu",
-  "rating": 4.5,
-  "review_count": 2336,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139434466.9993.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+    "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+    "google_maps_uri": "https://maps.google.com/?cid=13831703164313945522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "hub-staceys-at-the-point-74U9L8",
+    "name": "Hub Stacey's at The Point",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "sandwich_shop",
+    "google_types": [
+      "sandwich_shop",
+      "breakfast_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 497-0071",
+    "international_phone": null,
+    "website_url": "https://www.hubstaceyspensacolaperdido.com/menu",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "5851 Galvez Rd, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.314572,
+    "longitude": -87.4419479,
+    "short_address": "5851 Galvez Rd, Pensacola",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 2336,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Unpretentious hangout with burgers, sandwiches & bar bites, plus live music & outdoor seating.",
+    "description": "Serving both the Pensacola and Perdido Key Florida areas. Hub Stacey's offers the best sandwiches in the area. Dine in or take-out, you won't be disappointed with the large portions and fantastic sandwiches. Hub's is the home of the best food, spirits, and music. Our music lineup consists of country, rock, blues, funk, and all the good ballads! Hundreds of musicians perform at both of our locations year round.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139434466.9993.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/HubsDowntown/",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 12:00 AM",
+      "Tuesday: 7:00 AM – 12:00 AM",
+      "Wednesday: 7:00 AM – 12:00 AM",
+      "Thursday: 7:00 AM – 12:00 AM",
+      "Friday: 7:00 AM – 12:00 AM",
+      "Saturday: 7:00 AM – 12:00 AM",
+      "Sunday: 7:00 AM – 12:00 AM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.hubstaceyspensacolaperdido.com/menu",
+      "pages": [
+        {
+          "url": "https://www.hubstaceyspensacolaperdido.com/menu",
+          "meta": {
+            "og:url": "https://www.hubstaceyspensacolaperdido.com/menu",
+            "og:type": "website",
+            "og:title": "Menu | Hub Stacey's",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Wix.com Website Builder",
+            "og:site_name": "Hub Stacey's",
+            "twitter:card": "summary_large_image",
+            "skype_toolbar": "skype_toolbar_parser_compatible",
+            "twitter:title": "Menu | Hub Stacey's",
+            "format-detection": "telephone=no",
+            "google-site-verification": "x6x2JySquslH_cllZIOZCo14WShuinKuR_-jEIA_v8Y"
+          },
+          "text": "top of pageHomeMenuHub's SpiritsLive MusicPlatter Menu'sOrder OnlineLocation & HoursMoreUse tab to navigate through the menu items.Log InOUR MENUHub's DowntownHub's at The Point BreakfastHub's at The PointHub's DowntownFor all to-go orders of 10 or more people, please call us at least 24 hours in advance. This will allow us to prepare your order efficiently and ensure the best possible experience.Munchies These items will definitely help those munchies of yours.French Fries or Tots$5.00Loaded Fries or TotsServed with queso cheese, bacon bits, and sour cream.$9.50Onion Rings$8.50Corn Fritters$8.50Fried Okra$8.50Panko Crusted Fried Pickles $8.50Mozzarella Sticks$8.50Pretzel BitesSoft baked with queso cheese for the good dippin'.$8.50Chips & QuesoWith fire roasted salsa$10.50Hub's HummusHomemade hummus served with grilled pita chips. Pro-tip, ask for olive salad on the side; you'll thank us later. $9.50Chicken or Cheese Quesadilla Served with sour cream and fire roasted salsa.Chicken Quesadilla$11.50Cheese Quesadilla$8.50Hub SamplerMozzarella Sticks, Fried Mushrooms, Corn Fritters, and Fried Pickles. $11.50SaladsAll salads come with two dressings of your choice: blue cheese, ranch, italian, thousand island, honey mustard, and our house dressing (cilantro-citrus vinaigrette). Chicken SaladA Hub's Favorite and the best you've ever had. Enjoy two scoops of a creamy blend of chicken, onions, celery, apples, grapes, pecans, seasoned mayo, herbs, and spices, served on a bed of fresh salad mix with cucumbers and tomatoes. $11.50Chef SaladFresh salad mix topped with diced turkey, ham, cheddar/jack blend, tomatoes, cucumbers, and pecans, served with your choice of dressing.$12.00Salad TrioYour choice of three (3) of our deli salads served on fresh salad mix with tomato and\ncucumbers. $13.50Shrimp Salad Shrimp salad that has a bit of a kick, onion, bell pepper, mayo, served on fresh salad mix with tomato and cucumbers.$12.50Stuffed TomatoA Fresh tomato stuffed with your choice of our homemade tuna, or chicken salad, served on fresh salad mix with cucumbers and your choice of dressing.Tuna/Chicken Salad $12.50Shrimp Salad$12.75Tuna SaladDelicious with celery, relish, onions, mayo, pepper on a bed of fresh salad mix with\ntomatoes and cucumbers.$11.50Mexican Chicken SaladA grilled chicken breast sliced on a bed of salad mix,topped with diced onions, tomatoes,\nshredded cheese, and Hub's Mexi ranch dressing. Served w/ tortilla chips$12.50WingsMild, Plain, Hot, BBQ, Garlic Parm6 WingsExtra dressing is $0.75.$8.5012 Wings Extra dressing is $0.75. $14.5024 WingsExtra Dressing is $0.75.$25.00Hub's Specialty 1/2 lb Burgers All burgers toasted with Hub's garlic butter, served with a pickle spear and your choice of potato salad or chips. Substitute French Fries $2.50, Onion Rings $3.50, Tater Tots $3.00, Loaded Fries $4.25, Loaded Tater Tots $4.75, Small Side Salad $3.50.Hubba Bubba Burger 1/2lb. burger with sauteed mushrooms,\ngravy and swiss cheese.$13.00BBQ Cheddar Burger1/2lb. burger topped with fried onion rings\nwith BBQ, lettuce, tomato and cheddar.$13.00Fried Mushroom BurgerFried mushrooms topped with Provolone\non a 1/2 lb. burger, Ranch, Lettuce, Tomato.$13.00Cheeseburger Hub's delicious l/2lb. cheeseburger with lettuce, tomato, onions, pickles, mustard and mayonnaise.$11.50Hamburger1/2lb. burger with lettuce, tomato, onions, pickles, mustard, and mayonnaise.$11.00Hub's Outstanding SandwichesAll sandwiches toasted with Hub's garlic butter, served with a pickle spear and your choice of potato salad or chips. Substitute French Fries $2.50, Onion Rings $3.50, Tater Tots $3.00, Loaded Fries $4.25, Loaded Tater Tots $4.75, Small Side Salad $3.50.\n\nSoups & 1/2 sandwich combos are available. Ask your server for our daily soup special! Cup of Soup $6.00 and a Bowl of Soup $8.00. \n\n1/2 Sandwich and Bowl of Soup $12.00.\n\nExcludes: Cuban, Main Street, LaRua, Burgers, & Club.The PalafoxSliced lean pastrami on lightly grilled rye bread topped with melted provolone cheese, lettuce, tomatoes, and spicy mustard. Whole$12.001/2$8.50The CubanOur Cuban is a MUST try! We take tender roasted pork, fresh cut ham, and smoked gouda cheese then grill it up hot and fresh with spicy mustard and dill pickle chips. $12.50The Alcaniz Pita bread stuffed with Hub's Chicken Salad, lettuce, and tomatoes. Whole$12.501/2$8.50The Spring StreetIt's a pita with lettuce and tomatoes. This time we stuffed it with Hub's shrimp salad-a mix of seasoned shrimp, chopped veggies, herbs and spices and a special creole Mayo.Whole$12.501/2$8.50The BaylenNo meat on this one. Loaded veggie sandwich. Toasted garlic wheat bread, sprouts, lettuce, tomatoes, cucumbers, onions, and your choice of cheese. Pro-Tip! Add our homemade hummus to make this PERFECT! Whole$10.251/2$7.50The ChaseGrilled chicken with provolone, lettuce, tomato, dill mayo, served on a toasted brioche bun.Whole$11.00Add Bacon$1.00BLTBacon, lettuce, tomato, mayo on toasted sourdough bread.Whole$9.501/2$7.00Grilled CheeseAmerican cheese on grilled sourdough bread.Whole$9.501/2$7.00The GardenTurkey, bacon, cheddar, ranch. Served on a grilled hoagie roll.Whole$12.001/2$8.50The Twelfth Avenue Our homemade tuna salad served on lightly grilled sourdough bread and topped with melted cheddar cheese.Whole$12.001/2$8.50The Big \"Dirty\" DogHow about a V4 pound all beef hotdog topped with melted American cheese, sauerkraut, relish, onions, mustard.$9.00The Main StreetLean tender ham, fresh sliced roast beef, Swiss cheese and top it with lettuce, tomato and dill mayo, smoked turkey, provolone cheese, more lettuce, more dill mayo and two slices of bacon. Served with sassy sauce,\ngrilled and cut into fourths.$15.00The Hubba BubbaOur lean roast beef grilled on a fresh hoagie, with sauteed mushrooms and gravy, topped with melted Swiss cheese, and a side of horseradish.Whole$12.001/2$8.50The TarragonaTHE LOCAL'S FAVORITE! Loads of smoked turkey on lightly grilled wheat bread with Swiss cheese, lettuce, tomatoes and Hub's dill mayo. Delicious!Whole$12.001/2$8.50The Romano THE LOCAL'S FAVORITE! The classic Reuben. Lean corned beef, topped with melted Swiss\ncheese, tangy sauerkraut one of a kind thousand island dressing, and served on grilled rye bread.Whole$12.001/2$8.50The Government Lean tender ham grilled with good Ole' American cheese melting out of a hoagie roll. Top it off with lettuce, tomatoes and touch of dill mayo.Whole$12.001/2$8.501/2 LaRuaLightly grilled muffuletta loaf with salami, ham, bologna and melted Provolone cheese. It's Hub's own olive salad that makes this one special!$13.50The Hub Club We highly recommend this big boy! Ham, smoked turkey, crisp bacon, lettuce, tomatoes, Swiss and cheddar\ncheese and served triple decker style on lightly grilled sourdough bread,\nwith dill mayo. $14.00The BayfrontLean roast beef topped with melted Swiss cheese, lettuce and tomatoes, dill mayo, grilled to perfection on a hoagie roll and served with a side of\nhorseradish sauce.Whole$12.001/2$8.50Chicken Tender Basket Served with french fries and a side of dressing of your choice. $11.50Traditional French DipLean Roast Beef and cheese on a lightly toasted French bread served with a side of au jus. Whole$12.001/2$8.50Kiddo's90 years of age and under! 1/2 Grilled Cheese Served with fries $8.00Chicken Tenders Two chicken tenders served with fries.$8.00HotdogServed with fries.$8.00© 1998 Hub Stacey's Pensacola & Perdido! Powered and secured by Wixbottom of page",
+          "title": "Menu | Hub Stacey's",
+          "structuredData": [
+            {
+              "@type": "BreadcrumbList",
+              "@context": "https://schema.org",
+              "itemListElement": [
+                {
+                  "item": "https://www.hubstaceyspensacolaperdido.com/",
+                  "name": "app.breadcrumbs.labels.home",
+                  "@type": "ListItem",
+                  "position": 1
+                },
+                {
+                  "item": "https://www.hubstaceyspensacolaperdido.com/menu",
+                  "name": "Menu",
+                  "@type": "ListItem",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "images": [
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_025fc2469f9a429994f241830b665a04~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1322,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8d7216c23b0547109fa16076719a7ad9~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_b4c55b23c023445a926d5a83c6b6c549~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_dbdd7ae6d3904b4ab54c2fb4096e5999~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_955391f5f92740a7a02ab5466a7eec75~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_677e73b01ccd4ebb822c4c7aa9767c92~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1365,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_aa5c96e7a19746a7a32f03d81ec395c6~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1411,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8495d6b5b44f4ca7b9121b398d173d4d~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_96c3cafccfd2458daac7ac495dd0d8df~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1397,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4ab4635d63364784b54269b874d45ec7~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_15bc9b86f5b14e7289d8812e6ca160cd~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_5427325135d141f797f67d6d8b135978~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_1719cc473e4d417daa4b8145ff1b0a52~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_6987cdf595684f13a3ecfe583d7fbe50~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_b9332c8b53ed4b00a6316c34009219c3~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1489,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_e784647fab774db39f117480dda40b7c~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1943,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_a6c81e25675944d49f1fa75ddaf1a8c0~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1376,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_5acd5b930e2745279f6f35284ca359bb~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1657,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4f63584c3fce4c2e9f91a95cb2884ca8~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1365,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4d3c8fde420a4ffb8a6072c18811edc7~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_7e812d9027514f999f25c1e46c822d25~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1365,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_bd04fed0755e408584a559a14a94ede6~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8267179359fd4fd6b46d0167cbce27d1~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_36a5a11d36c044f7a05d943c6caff90a~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_3144ecba4717486ea69e099f8430ef53~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1584,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_27272d8d1113411fb9c830211df1d2a9~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_46abb5da45734162b4fe390dde63106d~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1451,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_f794aa57233745048dab8251f6fdcd12~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_ba15f60f90ce4452adfa150a0c3ce54b~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1274,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_fe726912aa5045ffa497485070b9ee85~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1519,
+                  "height": 1263,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_52b0b4c409d44bdc930a155832408c05~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_b595956c0a964954b3f184df3f57a694~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1744,
+                  "height": 1112,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_3a3a0f57f4ee4ab1915ddb310e981ba5~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8b1744f62f334e3fb0cbc4e817d2233f~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1689,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4e0cc395dd3248a889d6200796b46947~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                }
+              ],
+              "@context": "https://schema.org/"
+            }
+          ]
+        },
+        {
+          "url": "https://www.hubstaceyspensacolaperdido.com/menu?location=Galvez+Road&menu=copy-of-hubs-downtown",
+          "meta": {
+            "og:url": "https://www.hubstaceyspensacolaperdido.com/menu",
+            "og:type": "website",
+            "og:title": "Menu | Hub Stacey's",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Wix.com Website Builder",
+            "og:site_name": "Hub Stacey's",
+            "twitter:card": "summary_large_image",
+            "skype_toolbar": "skype_toolbar_parser_compatible",
+            "twitter:title": "Menu | Hub Stacey's",
+            "format-detection": "telephone=no",
+            "google-site-verification": "x6x2JySquslH_cllZIOZCo14WShuinKuR_-jEIA_v8Y"
+          },
+          "text": "top of pageHomeMenuHub's SpiritsLive MusicPlatter Menu'sOrder OnlineLocation & HoursMoreUse tab to navigate through the menu items.Log InOUR MENUHub's DowntownHub's at The Point BreakfastHub's at The PointHub's at The PointFor all to-go orders of 10 or more people, please call us at least 24 hours in advance. This will allow us to prepare your order efficiently and ensure the best possible experience.Munchies These items will definitely help those munchies of yours.French Fries or Tots$5.00Loaded Fries or TotsServed with queso cheese, bacon bits, and sour cream.$9.50Onion Rings$8.50Corn Fritters$8.50Fried Okra$8.50Panko Crusted Fried Pickles $8.50Mozzarella Sticks$8.50Pretzel BitesSoft baked with queso cheese for the good dippin'.$8.50Chips & QuesoWith fire roasted salsa$10.50Hub's HummusHomemade hummus served with grilled pita chips. Pro-tip, ask for olive salad on the side; you'll thank us later. $9.50Chicken or Cheese Quesadilla Served with sour cream and fire roasted salsa.Chicken Quesadilla$11.50Cheese Quesadilla$8.50Hub SamplerMozzarella Sticks, Fried Mushrooms, Corn Fritters, and Fried Pickles. $11.50Sweet Potato Tots$8.50SaladsAll salads come with two dressings of your choice: blue cheese, ranch, italian, thousand island, honey mustard, and our house dressing (cilantro-citrus vinaigrette). Chicken SaladA Hub's Favorite and the best you've ever had. Enjoy two scoops of a creamy blend of chicken, onions, celery, apples, grapes, pecans, seasoned mayo, herbs, and spices, served on a bed of fresh salad mix with cucumbers and tomatoes. $11.50Chef SaladFresh salad mix topped with diced turkey, ham, cheddar/jack blend, tomatoes, cucumbers, and pecans, served with your choice of dressing.$12.00Salad TrioYour choice of three (3) of our deli salads served on fresh salad mix with tomato and\ncucumbers. $13.50Stuffed TomatoA Fresh tomato stuffed with your choice of our homemade tuna, or chicken salad, served on fresh salad mix with cucumbers and your choice of dressing.Tuna/Chicken Salad $12.50Shrimp Salad$12.75Tuna SaladDelicious with celery, relish, onions, mayo, pepper on a bed of fresh salad mix with\ntomatoes and cucumbers.$11.50Mexican Chicken SaladA grilled chicken breast sliced on a bed of salad mix,topped with diced onions, tomatoes,\nshredded cheese, and Hub's Mexi ranch dressing. Served w/ tortilla chips$12.50WingsPlain, Hot, BBQ, Mango Habanero, Garlic Parm6 WingsExtra dressing is $0.75.$8.5012 Wings Extra dressing is $0.75. $14.50Hub's Specialty 1/2 lb Burgers All burgers toasted with Hub's garlic butter, served with a pickle spear and your choice of potato salad or chips. \n\nSubstitute French Fries $2.50, Onion Rings $3.50, Tater Tots $3.00, Loaded Fries $4.25, Loaded Tater Tots $4.75, Small Side Salad $3.50, Sweet Potato Tots $3.25.Hubba Bubba Burger 1/2lb. burger with sauteed mushrooms,\ngravy and swiss cheese.$13.00BBQ Cheddar Burger1/2lb. burger topped with fried onion rings\nwith BBQ, lettuce, tomato and cheddar.$13.00Fried Mushroom Swiss BurgerFried mushrooms topped with swiss cheese\non a 1/2 lb. burger, Ranch, Lettuce, Tomato.$13.00Cheeseburger Hub's delicious l/2lb. cheeseburger with lettuce, tomato, onions, pickles, mustard and mayonnaise.$11.50Hamburger1/2lb. burger with lettuce, tomato, onions, pickles, mustard, and mayonnaise.$11.00Hub's Outstanding SandwichesAll sandwiches toasted with Hub's garlic butter, served with a pickle spear and your choice of potato salad or chips. \n\nSubstitute French Fries $2.50, Onion Rings $3.50, Tater Tots $3.00, Loaded Fries $4.25, Loaded Tater Tots $4.75, Small Side Salad $3.50, Sweet Potato Tots $3.25.\n\nFeel free to split most of our whole sandwiches for $2.00 more and add extra meat for $5.00.\nSoups & 1/2 sandwich combos are available. Ask your server for our daily soup special! Cup of Soup $6.00 and a Bowl of Soup $8.00. \n\n1/2 Sandwich and Bowl of Soup $12.00.\n\nExcludes: Cuban, Main Street, LaRua, Burgers, & Club.Traditional French DipLean Roast Beef and cheese on a lightly toasted French bread served with a side of au jus. Whole$12.001/2$8.50Chicken Tender Basket Served with french fries and a side of dressing of your choice. $11.50The PointSliced lean pastrami on lightly grilled rye bread topped with melted provolone cheese, lettuce, tomatoes, and spicy mustard. Whole$12.001/2$8.50The CubanOur Cuban is a MUST try! We take tender roasted pork, fresh cut ham, and smoked gouda cheese then grill it up hot and fresh with spicy mustard and dill pickle chips. $12.50The OnoPita bread stuffed with Hub's Chicken Salad, lettuce, and tomatoes. Whole$12.001/2$8.50The BauerNo meat on this one. Loaded veggie sandwich. Toasted garlic wheat bread, sprouts, lettuce, tomatoes, cucumbers, onions, and your choice of cheese. Pro-Tip! Add our homemade hummus to make this PERFECT! Whole$10.251/2$7.50BLTBacon, lettuce, tomato, mayo on toasted sourdough bread.Whole$9.501/2$7.00The Big Salty DogHow about a 1/4 pound all beef hotdog topped with melted American cheese, sauerkraut, relish, red onions, mustard.$9.00The Hubba BubbaOur lean roast beef grilled on a fresh hoagie, with sauteed mushrooms and gravy, topped with melted Swiss cheese, and a side of horseradish.Whole$12.001/2$8.50The GalvezTHE LOCAL'S FAVORITE! Loads of smoked turkey on lightly grilled wheat bread with Swiss cheese, lettuce, tomatoes and Hub's dill mayo. Delicious!Whole$12.001/2$8.50The River RoadTHE LOCAL'S FAVORITE! The classic Reuben. Lean corned beef, topped with melted Swiss\ncheese, tangy sauerkraut one of a kind thousand island dressing, and served on grilled rye bread.Whole$12.001/2$8.50The GulfLean tender ham grilled with good Ole' American cheese melting out of a hoagie roll. Top it off with lettuce, tomatoes and touch of dill mayo.Whole$12.001/2$8.501/2 LandingLightly grilled muffuletta loaf with salami, ham, bologna and melted Provolone cheese. It's Hub's own olive salad that makes this one special!$13.50The InnerarityTry this MONSTER! We take lean tender, ham, fresh sliced roast beef, Swiss\ncheese, and top it with lettuce, tomato and dill mayo. We then add smoked\nturkey, provolone cheese, lettuce, and slices of bacon. All this on three layers of sourdough bread grilled and cut in to 4's with a side of sassy sauce.$15.00The Johnson BeachOur homemade tuna salad served on lightly grilled sourdough bread and topped with melted cheddar cheese.Whole$12.001/2$8.50The Boss BabyA New Orleans style po boy dressed with pot roast, lettuce, tomato, mayo and brown gravy.Whole$14.001/2$9.50Kiddo's90 years of age and under! 1/2 Grilled Cheese Served with fries $8.00Chicken Tenders Two chicken tenders served with fries.$8.00CorndogServed with fries.$8.00Extra Large Ice-Cream SandwichAssorted Flavors! $6.00Sunday Fried Chicken DinnerDark Meat$12.00White Meat$13.00© 1998 Hub Stacey's Pensacola & Perdido! Powered and secured by Wixbottom of page",
+          "title": "Menu | Hub Stacey's",
+          "structuredData": [
+            {
+              "@type": "BreadcrumbList",
+              "@context": "https://schema.org",
+              "itemListElement": [
+                {
+                  "item": "https://www.hubstaceyspensacolaperdido.com/",
+                  "name": "app.breadcrumbs.labels.home",
+                  "@type": "ListItem",
+                  "position": 1
+                },
+                {
+                  "item": "https://www.hubstaceyspensacolaperdido.com/menu",
+                  "name": "Menu",
+                  "@type": "ListItem",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "images": [
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_00a9e119c76046788ff735c3602ad640~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1383,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8d7216c23b0547109fa16076719a7ad9~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_b4c55b23c023445a926d5a83c6b6c549~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_dbdd7ae6d3904b4ab54c2fb4096e5999~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_955391f5f92740a7a02ab5466a7eec75~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_677e73b01ccd4ebb822c4c7aa9767c92~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1365,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_aa5c96e7a19746a7a32f03d81ec395c6~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1411,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8495d6b5b44f4ca7b9121b398d173d4d~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_282a879047e94f62b4d3f932e147c7cd~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1397,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4ab4635d63364784b54269b874d45ec7~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_fbf8d50be0e24380bf3cb7da2bcf2f50~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_15bc9b86f5b14e7289d8812e6ca160cd~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_031bcebe98364229884438b9c8271d68~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_1719cc473e4d417daa4b8145ff1b0a52~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_6987cdf595684f13a3ecfe583d7fbe50~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_b9332c8b53ed4b00a6316c34009219c3~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1489,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_b0b188ebfdd941f98422d6b5ed81d1ff~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1741,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_a6c81e25675944d49f1fa75ddaf1a8c0~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1376,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_5acd5b930e2745279f6f35284ca359bb~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1657,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4f63584c3fce4c2e9f91a95cb2884ca8~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1365,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4d3c8fde420a4ffb8a6072c18811edc7~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_7e812d9027514f999f25c1e46c822d25~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1365,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_bd04fed0755e408584a559a14a94ede6~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8b1744f62f334e3fb0cbc4e817d2233f~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1689,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_2af0c5d1bcbe402bbbeb6f06aa761528~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_36a5a11d36c044f7a05d943c6caff90a~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_3144ecba4717486ea69e099f8430ef53~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1584,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_27272d8d1113411fb9c830211df1d2a9~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_46abb5da45734162b4fe390dde63106d~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1451,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_28287fc355494ec191bc70229d59763b~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1272,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_bc5ffaf1506d43f4af786b9b56efe96f~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1731,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_f794aa57233745048dab8251f6fdcd12~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_52b0b4c409d44bdc930a155832408c05~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_238fd03945224cf1a2eddd710619d774~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_6b7af5c8fbc9462888eb0632d99c3910~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1944,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_3a3a0f57f4ee4ab1915ddb310e981ba5~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8b1744f62f334e3fb0cbc4e817d2233f~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1689,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_d425e5c619a04318917f8ec75729457d~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_39e537b7f17a4748a2557b8af57a67d3~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_1ac1f43c475a409b9ca445cc041e73e1~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                }
+              ],
+              "@context": "https://schema.org/"
+            }
+          ]
+        },
+        {
+          "url": "https://www.hubstaceyspensacolaperdido.com/menu?location=Galvez+Road&menu=hubs-at-the-point-breakfast",
+          "meta": {
+            "og:url": "https://www.hubstaceyspensacolaperdido.com/menu",
+            "og:type": "website",
+            "og:title": "Menu | Hub Stacey's",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Wix.com Website Builder",
+            "og:site_name": "Hub Stacey's",
+            "twitter:card": "summary_large_image",
+            "skype_toolbar": "skype_toolbar_parser_compatible",
+            "twitter:title": "Menu | Hub Stacey's",
+            "format-detection": "telephone=no",
+            "google-site-verification": "x6x2JySquslH_cllZIOZCo14WShuinKuR_-jEIA_v8Y"
+          },
+          "text": "top of pageHomeMenuHub's SpiritsLive MusicPlatter Menu'sOrder OnlineLocation & HoursMoreUse tab to navigate through the menu items.Log InOUR MENUHub's DowntownHub's at The Point BreakfastHub's at The PointHub's at The Point BreakfastServed daily 7:00-11:00am. Breakfast is ONLY served at The Point location, not Downtown. Wraps & SandwichesCaptain Andrew WrapBacon, sausage, ham, bell peppers, onions, jalapeno, egg, and cheese in a wrap.Wrap$12.50Side of Sausage Gravy$2.75Wrap or Biscuit SandwichChoose bacon, sausage, or ham, with egg & cheese. Add a side of tater tots or grits for $2.75 or add a sausage or bacon biscuit for $6.50.Biscuit $7.50Wrap$8.50Biscuit & Sausage Gravy1 Biscuit & Sausage Gravy$5.502 Biscuits & Sausage Gravy$7.50OmeletsAll omelets come with grits or tater tots and biscuit or toast. Add a side of sausage gravy for $2.75.The Gentleman George Bacon, ham, sausage, bell pepper, onion, mushrooms, and cheese.$12.50Veggie OmeletTomato, bell pepper, onion, mushrooms, and cheese.$10.00Southern OmeletSausage, green pepper, onion, and cheese.$11.00Ham OmeletHam, egg, and cheese.$11.00Sausage OmeletSausage, egg, and cheese.$10.25Bacon OmeletBacon, egg, and cheese.$11.00Cheese OmeletEgg and cheese.$10.00The Classics French Toast or Lyssa's Poppin' PancakesServed with bacon, ham, or sausage.$12.00Traditional Breakfast2 or 3 eggs any style with your choice of bacon, sausage, or ham, grits or tater tots, biscuit or toast. 2 Eggs$11.003 Eggs$12.00Side ItemsBacon, Sausage, Ham $4.25Cheese, Onion, Peppers, Mushrooms, Jalapenos$1.25One Egg$3.50Two Eggs$4.50Three Eggs$5.50Biscuit or Toast$2.75Sausage Gravy$2.75GritsGrits$2.75Cheese Grits$3.25Tater Tots$2.25Sliced Tomatoes$1.00Kiddo'sKids ChoicePancakes or French Toast! Choose bacon, sausage, or ham! $8.25Kids Choice One egg plus meat and one slice of toast!$7.25BeveragesBottomless Coffee$3.00Soft Drinks$3.00Milk$3.00JuiceOrange, Pineapple, Grapefruit, Apple, or Cranberry. $3.00© 1998 Hub Stacey's Pensacola & Perdido! Powered and secured by Wixbottom of page",
+          "title": "Menu | Hub Stacey's",
+          "structuredData": [
+            {
+              "@type": "BreadcrumbList",
+              "@context": "https://schema.org",
+              "itemListElement": [
+                {
+                  "item": "https://www.hubstaceyspensacolaperdido.com/",
+                  "name": "app.breadcrumbs.labels.home",
+                  "@type": "ListItem",
+                  "position": 1
+                },
+                {
+                  "item": "https://www.hubstaceyspensacolaperdido.com/menu",
+                  "name": "Menu",
+                  "@type": "ListItem",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "images": [
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_cfdc1b7f0caf4dc5b58dfb0bd5ce34e3~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1820,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_ea1419ab9da24a058674624e145b3ac9~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1177,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_63b136de391546d7ae6f32fc3db058a6~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_a415fb0c9bd1402c9250eac2706dcefe~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1240,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_83776430ebe84dc48199c34d8c5b932d~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4467ca13b0bb44b3b64850acc49b596a~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1578,
+                  "@context": "https://schema.org/"
+                }
+              ],
+              "@context": "https://schema.org/"
+            }
+          ]
+        },
+        {
+          "url": "https://www.hubstaceyspensacolaperdido.com/menu?location=Galvez+Road",
+          "meta": {
+            "og:url": "https://www.hubstaceyspensacolaperdido.com/menu",
+            "og:type": "website",
+            "og:title": "Menu | Hub Stacey's",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Wix.com Website Builder",
+            "og:site_name": "Hub Stacey's",
+            "twitter:card": "summary_large_image",
+            "skype_toolbar": "skype_toolbar_parser_compatible",
+            "twitter:title": "Menu | Hub Stacey's",
+            "format-detection": "telephone=no",
+            "google-site-verification": "x6x2JySquslH_cllZIOZCo14WShuinKuR_-jEIA_v8Y"
+          },
+          "text": "top of pageHomeMenuHub's SpiritsLive MusicPlatter Menu'sOrder OnlineLocation & HoursMoreUse tab to navigate through the menu items.Log InOUR MENUHub's DowntownHub's at The Point BreakfastHub's at The PointHub's DowntownFor all to-go orders of 10 or more people, please call us at least 24 hours in advance. This will allow us to prepare your order efficiently and ensure the best possible experience.Munchies These items will definitely help those munchies of yours.French Fries or Tots$5.00Loaded Fries or TotsServed with queso cheese, bacon bits, and sour cream.$9.50Onion Rings$8.50Corn Fritters$8.50Fried Okra$8.50Panko Crusted Fried Pickles $8.50Mozzarella Sticks$8.50Pretzel BitesSoft baked with queso cheese for the good dippin'.$8.50Chips & QuesoWith fire roasted salsa$10.50Hub's HummusHomemade hummus served with grilled pita chips. Pro-tip, ask for olive salad on the side; you'll thank us later. $9.50Chicken or Cheese Quesadilla Served with sour cream and fire roasted salsa.Chicken Quesadilla$11.50Cheese Quesadilla$8.50Hub SamplerMozzarella Sticks, Fried Mushrooms, Corn Fritters, and Fried Pickles. $11.50SaladsAll salads come with two dressings of your choice: blue cheese, ranch, italian, thousand island, honey mustard, and our house dressing (cilantro-citrus vinaigrette). Chicken SaladA Hub's Favorite and the best you've ever had. Enjoy two scoops of a creamy blend of chicken, onions, celery, apples, grapes, pecans, seasoned mayo, herbs, and spices, served on a bed of fresh salad mix with cucumbers and tomatoes. $11.50Chef SaladFresh salad mix topped with diced turkey, ham, cheddar/jack blend, tomatoes, cucumbers, and pecans, served with your choice of dressing.$12.00Salad TrioYour choice of three (3) of our deli salads served on fresh salad mix with tomato and\ncucumbers. $13.50Shrimp Salad Shrimp salad that has a bit of a kick, onion, bell pepper, mayo, served on fresh salad mix with tomato and cucumbers.$12.50Stuffed TomatoA Fresh tomato stuffed with your choice of our homemade tuna, or chicken salad, served on fresh salad mix with cucumbers and your choice of dressing.Tuna/Chicken Salad $12.50Shrimp Salad$12.75Tuna SaladDelicious with celery, relish, onions, mayo, pepper on a bed of fresh salad mix with\ntomatoes and cucumbers.$11.50Mexican Chicken SaladA grilled chicken breast sliced on a bed of salad mix,topped with diced onions, tomatoes,\nshredded cheese, and Hub's Mexi ranch dressing. Served w/ tortilla chips$12.50WingsMild, Plain, Hot, BBQ, Garlic Parm6 WingsExtra dressing is $0.75.$8.5012 Wings Extra dressing is $0.75. $14.5024 WingsExtra Dressing is $0.75.$25.00Hub's Specialty 1/2 lb Burgers All burgers toasted with Hub's garlic butter, served with a pickle spear and your choice of potato salad or chips. Substitute French Fries $2.50, Onion Rings $3.50, Tater Tots $3.00, Loaded Fries $4.25, Loaded Tater Tots $4.75, Small Side Salad $3.50.Hubba Bubba Burger 1/2lb. burger with sauteed mushrooms,\ngravy and swiss cheese.$13.00BBQ Cheddar Burger1/2lb. burger topped with fried onion rings\nwith BBQ, lettuce, tomato and cheddar.$13.00Fried Mushroom BurgerFried mushrooms topped with Provolone\non a 1/2 lb. burger, Ranch, Lettuce, Tomato.$13.00Cheeseburger Hub's delicious l/2lb. cheeseburger with lettuce, tomato, onions, pickles, mustard and mayonnaise.$11.50Hamburger1/2lb. burger with lettuce, tomato, onions, pickles, mustard, and mayonnaise.$11.00Hub's Outstanding SandwichesAll sandwiches toasted with Hub's garlic butter, served with a pickle spear and your choice of potato salad or chips. Substitute French Fries $2.50, Onion Rings $3.50, Tater Tots $3.00, Loaded Fries $4.25, Loaded Tater Tots $4.75, Small Side Salad $3.50.\n\nSoups & 1/2 sandwich combos are available. Ask your server for our daily soup special! Cup of Soup $6.00 and a Bowl of Soup $8.00. \n\n1/2 Sandwich and Bowl of Soup $12.00.\n\nExcludes: Cuban, Main Street, LaRua, Burgers, & Club.The PalafoxSliced lean pastrami on lightly grilled rye bread topped with melted provolone cheese, lettuce, tomatoes, and spicy mustard. Whole$12.001/2$8.50The CubanOur Cuban is a MUST try! We take tender roasted pork, fresh cut ham, and smoked gouda cheese then grill it up hot and fresh with spicy mustard and dill pickle chips. $12.50The Alcaniz Pita bread stuffed with Hub's Chicken Salad, lettuce, and tomatoes. Whole$12.501/2$8.50The Spring StreetIt's a pita with lettuce and tomatoes. This time we stuffed it with Hub's shrimp salad-a mix of seasoned shrimp, chopped veggies, herbs and spices and a special creole Mayo.Whole$12.501/2$8.50The BaylenNo meat on this one. Loaded veggie sandwich. Toasted garlic wheat bread, sprouts, lettuce, tomatoes, cucumbers, onions, and your choice of cheese. Pro-Tip! Add our homemade hummus to make this PERFECT! Whole$10.251/2$7.50The ChaseGrilled chicken with provolone, lettuce, tomato, dill mayo, served on a toasted brioche bun.Whole$11.00Add Bacon$1.00BLTBacon, lettuce, tomato, mayo on toasted sourdough bread.Whole$9.501/2$7.00Grilled CheeseAmerican cheese on grilled sourdough bread.Whole$9.501/2$7.00The GardenTurkey, bacon, cheddar, ranch. Served on a grilled hoagie roll.Whole$12.001/2$8.50The Twelfth Avenue Our homemade tuna salad served on lightly grilled sourdough bread and topped with melted cheddar cheese.Whole$12.001/2$8.50The Big \"Dirty\" DogHow about a V4 pound all beef hotdog topped with melted American cheese, sauerkraut, relish, onions, mustard.$9.00The Main StreetLean tender ham, fresh sliced roast beef, Swiss cheese and top it with lettuce, tomato and dill mayo, smoked turkey, provolone cheese, more lettuce, more dill mayo and two slices of bacon. Served with sassy sauce,\ngrilled and cut into fourths.$15.00The Hubba BubbaOur lean roast beef grilled on a fresh hoagie, with sauteed mushrooms and gravy, topped with melted Swiss cheese, and a side of horseradish.Whole$12.001/2$8.50The TarragonaTHE LOCAL'S FAVORITE! Loads of smoked turkey on lightly grilled wheat bread with Swiss cheese, lettuce, tomatoes and Hub's dill mayo. Delicious!Whole$12.001/2$8.50The Romano THE LOCAL'S FAVORITE! The classic Reuben. Lean corned beef, topped with melted Swiss\ncheese, tangy sauerkraut one of a kind thousand island dressing, and served on grilled rye bread.Whole$12.001/2$8.50The Government Lean tender ham grilled with good Ole' American cheese melting out of a hoagie roll. Top it off with lettuce, tomatoes and touch of dill mayo.Whole$12.001/2$8.501/2 LaRuaLightly grilled muffuletta loaf with salami, ham, bologna and melted Provolone cheese. It's Hub's own olive salad that makes this one special!$13.50The Hub Club We highly recommend this big boy! Ham, smoked turkey, crisp bacon, lettuce, tomatoes, Swiss and cheddar\ncheese and served triple decker style on lightly grilled sourdough bread,\nwith dill mayo. $14.00The BayfrontLean roast beef topped with melted Swiss cheese, lettuce and tomatoes, dill mayo, grilled to perfection on a hoagie roll and served with a side of\nhorseradish sauce.Whole$12.001/2$8.50Chicken Tender Basket Served with french fries and a side of dressing of your choice. $11.50Traditional French DipLean Roast Beef and cheese on a lightly toasted French bread served with a side of au jus. Whole$12.001/2$8.50Kiddo's90 years of age and under! 1/2 Grilled Cheese Served with fries $8.00Chicken Tenders Two chicken tenders served with fries.$8.00HotdogServed with fries.$8.00© 1998 Hub Stacey's Pensacola & Perdido! Powered and secured by Wixbottom of page",
+          "title": "Menu | Hub Stacey's",
+          "structuredData": [
+            {
+              "@type": "BreadcrumbList",
+              "@context": "https://schema.org",
+              "itemListElement": [
+                {
+                  "item": "https://www.hubstaceyspensacolaperdido.com/",
+                  "name": "app.breadcrumbs.labels.home",
+                  "@type": "ListItem",
+                  "position": 1
+                },
+                {
+                  "item": "https://www.hubstaceyspensacolaperdido.com/menu",
+                  "name": "Menu",
+                  "@type": "ListItem",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "images": [
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_025fc2469f9a429994f241830b665a04~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1322,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8d7216c23b0547109fa16076719a7ad9~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_b4c55b23c023445a926d5a83c6b6c549~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_dbdd7ae6d3904b4ab54c2fb4096e5999~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_955391f5f92740a7a02ab5466a7eec75~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_677e73b01ccd4ebb822c4c7aa9767c92~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1365,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_aa5c96e7a19746a7a32f03d81ec395c6~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1411,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8495d6b5b44f4ca7b9121b398d173d4d~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_96c3cafccfd2458daac7ac495dd0d8df~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1397,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4ab4635d63364784b54269b874d45ec7~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_15bc9b86f5b14e7289d8812e6ca160cd~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_5427325135d141f797f67d6d8b135978~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_1719cc473e4d417daa4b8145ff1b0a52~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_6987cdf595684f13a3ecfe583d7fbe50~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_b9332c8b53ed4b00a6316c34009219c3~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1489,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_e784647fab774db39f117480dda40b7c~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1943,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_a6c81e25675944d49f1fa75ddaf1a8c0~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1376,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_5acd5b930e2745279f6f35284ca359bb~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1657,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4f63584c3fce4c2e9f91a95cb2884ca8~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1365,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4d3c8fde420a4ffb8a6072c18811edc7~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_7e812d9027514f999f25c1e46c822d25~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1365,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_bd04fed0755e408584a559a14a94ede6~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8267179359fd4fd6b46d0167cbce27d1~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_36a5a11d36c044f7a05d943c6caff90a~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_3144ecba4717486ea69e099f8430ef53~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1584,
+                  "height": 2048,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_27272d8d1113411fb9c830211df1d2a9~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_46abb5da45734162b4fe390dde63106d~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1451,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_f794aa57233745048dab8251f6fdcd12~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_ba15f60f90ce4452adfa150a0c3ce54b~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1274,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_fe726912aa5045ffa497485070b9ee85~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1519,
+                  "height": 1263,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_52b0b4c409d44bdc930a155832408c05~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_b595956c0a964954b3f184df3f57a694~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 1744,
+                  "height": 1112,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_3a3a0f57f4ee4ab1915ddb310e981ba5~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_8b1744f62f334e3fb0cbc4e817d2233f~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1689,
+                  "@context": "https://schema.org/"
+                },
+                {
+                  "url": "https://static.wixstatic.com/media/25f7c6_4e0cc395dd3248a889d6200796b46947~mv2.jpg",
+                  "@type": "ImageObject",
+                  "width": 2048,
+                  "height": 1365,
+                  "@context": "https://schema.org/"
+                }
+              ],
+              "@context": "https://schema.org/"
+            }
+          ]
+        },
+        {
+          "url": "https://www.hubstaceyspensacolaperdido.com/copy-of-live-music",
+          "meta": {
+            "og:url": "https://www.hubstaceyspensacolaperdido.com/copy-of-live-music",
+            "og:type": "website",
+            "og:title": "Platter Menu's | Hub Stacey's",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Wix.com Website Builder",
+            "og:site_name": "Hub Stacey's",
+            "twitter:card": "summary_large_image",
+            "skype_toolbar": "skype_toolbar_parser_compatible",
+            "twitter:title": "Platter Menu's | Hub Stacey's",
+            "format-detection": "telephone=no",
+            "google-site-verification": "x6x2JySquslH_cllZIOZCo14WShuinKuR_-jEIA_v8Y"
+          },
+          "text": "top of pageHomeMenuHub's SpiritsLive MusicPlatter Menu'sOrder OnlineLocation & HoursMoreUse tab to navigate through the menu items.Log InHUB'S PLATTERSFROM OUR KITCHEN TO YOUR PARTY OR EVENT!© 1998 Hub Stacey's Pensacola & Perdido! Powered and secured by Wixbottom of page",
+          "title": "Platter Menu's | Hub Stacey's",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.hubstaceyspensacolaperdido.com/live-music",
+          "meta": {
+            "og:url": "https://www.hubstaceyspensacolaperdido.com/live-music",
+            "og:type": "website",
+            "og:title": "Live Music | Hub Stacey's",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Wix.com Website Builder",
+            "og:site_name": "Hub Stacey's",
+            "twitter:card": "summary_large_image",
+            "skype_toolbar": "skype_toolbar_parser_compatible",
+            "twitter:title": "Live Music | Hub Stacey's",
+            "format-detection": "telephone=no",
+            "google-site-verification": "x6x2JySquslH_cllZIOZCo14WShuinKuR_-jEIA_v8Y"
+          },
+          "text": "top of pageHomeMenuHub's SpiritsLive MusicPlatter Menu'sOrder OnlineLocation & HoursMoreUse tab to navigate through the menu items.Log InThe Sounds of the Gulf CoastOur music lineup consists of country, rock, blues, funk, and all the good ballads! Hundreds of musicians perform at both of our locations year round. Our live music schedule will ensure a memorable experience for you!© 1998 Hub Stacey's Pensacola & Perdido! Powered and secured by Wixbottom of page",
+          "title": "Live Music | Hub Stacey's",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.hubstaceyspensacolaperdido.com/general-7",
+          "meta": {
+            "og:url": "https://www.hubstaceyspensacolaperdido.com/general-7",
+            "og:type": "website",
+            "og:title": "Hub's Spirits | Hub Stacey's",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Wix.com Website Builder",
+            "og:site_name": "Hub Stacey's",
+            "twitter:card": "summary_large_image",
+            "skype_toolbar": "skype_toolbar_parser_compatible",
+            "twitter:title": "Hub's Spirits | Hub Stacey's",
+            "format-detection": "telephone=no",
+            "google-site-verification": "x6x2JySquslH_cllZIOZCo14WShuinKuR_-jEIA_v8Y"
+          },
+          "text": "top of pageHomeMenuHub's SpiritsLive MusicPlatter Menu'sOrder OnlineLocation & HoursMoreUse tab to navigate through the menu items.Log InHUB'S SPIRITSHUB'S SPIRITSHUB'S SPIRITSHUB'S SPIRITSWine, Beer, & Spirits store located behind our \n\nHub Stacey's at the Point location!HUB'S SPIRITSDaily Store Hours\n\n9a-9p5851 Galvez Rd\n\nPensacola, FL 32507\n\nhubsspirits@gmail.com\n\n850-288-1707LOYALTY PROGRAMLOYALTY PROGRAMLOYALTY PROGRAMLOYALTY PROGRAMEvery $1.00 Spent is 1 PointPERKSPERKSPERKSPERKS10% off when you buy a case\n\n1 free bag of office for every $50 spent\n\nAccess to special liquorspoint systempoint systempoint systempoint system200 Points - 10% off \n\n350 Points - 15% off \n\n500 Points - 20% off \n\n750 Points - 25% off \n\n1,000 Points - 30% off LOYALTY PROGRAM SIGN-UP\n \n \n \n\n© 1998 Hub Stacey's Pensacola & Perdido! Powered and secured by Wixbottom of page",
+          "title": "Hub's Spirits | Hub Stacey's",
+          "structuredData": []
+        }
+      ],
+      "pdfUrls": [],
+      "pdfTexts": [],
+      "imageUrls": [
+        "https://static.wixstatic.com/media/25f7c6_55c53428843d491396d2e48c1754ec67~mv2.jpg/v1/fill/w_1200,h_381,al_c,q_85,enc_avif,quality_auto/25f7c6_55c53428843d491396d2e48c1754ec67~mv2.jpg",
+        "https://static.parastorage.com/services/restaurant-menus-showcase-ooi/da886655a5864017a5cd14f5cb992588096340d2d1b99207cb576fdf/media/menus_side_image.7077f229.jpeg",
+        "https://static.wixstatic.com/media/25f7c6_025fc2469f9a429994f241830b665a04~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_025fc2469f9a429994f241830b665a04~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_8d7216c23b0547109fa16076719a7ad9~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_8d7216c23b0547109fa16076719a7ad9~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_b4c55b23c023445a926d5a83c6b6c549~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_b4c55b23c023445a926d5a83c6b6c549~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_dbdd7ae6d3904b4ab54c2fb4096e5999~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_dbdd7ae6d3904b4ab54c2fb4096e5999~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_955391f5f92740a7a02ab5466a7eec75~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_955391f5f92740a7a02ab5466a7eec75~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_677e73b01ccd4ebb822c4c7aa9767c92~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_677e73b01ccd4ebb822c4c7aa9767c92~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_aa5c96e7a19746a7a32f03d81ec395c6~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_aa5c96e7a19746a7a32f03d81ec395c6~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_8495d6b5b44f4ca7b9121b398d173d4d~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_8495d6b5b44f4ca7b9121b398d173d4d~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_96c3cafccfd2458daac7ac495dd0d8df~mv2.jpg/v1/fill/w_147,h_100,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_96c3cafccfd2458daac7ac495dd0d8df~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_4ab4635d63364784b54269b874d45ec7~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_4ab4635d63364784b54269b874d45ec7~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_15bc9b86f5b14e7289d8812e6ca160cd~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_15bc9b86f5b14e7289d8812e6ca160cd~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_5427325135d141f797f67d6d8b135978~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_5427325135d141f797f67d6d8b135978~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_1719cc473e4d417daa4b8145ff1b0a52~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_1719cc473e4d417daa4b8145ff1b0a52~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_6987cdf595684f13a3ecfe583d7fbe50~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_6987cdf595684f13a3ecfe583d7fbe50~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_b9332c8b53ed4b00a6316c34009219c3~mv2.jpg/v1/fill/w_147,h_202,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_b9332c8b53ed4b00a6316c34009219c3~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_e784647fab774db39f117480dda40b7c~mv2.jpg/v1/fill/w_147,h_155,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_e784647fab774db39f117480dda40b7c~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_a6c81e25675944d49f1fa75ddaf1a8c0~mv2.jpg/v1/fill/w_147,h_99,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_a6c81e25675944d49f1fa75ddaf1a8c0~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_5acd5b930e2745279f6f35284ca359bb~mv2.jpg/v1/fill/w_147,h_182,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_5acd5b930e2745279f6f35284ca359bb~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_4f63584c3fce4c2e9f91a95cb2884ca8~mv2.jpg/v1/fill/w_147,h_221,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_4f63584c3fce4c2e9f91a95cb2884ca8~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_4d3c8fde420a4ffb8a6072c18811edc7~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_4d3c8fde420a4ffb8a6072c18811edc7~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_7e812d9027514f999f25c1e46c822d25~mv2.jpg/v1/fill/w_147,h_221,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_7e812d9027514f999f25c1e46c822d25~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_bd04fed0755e408584a559a14a94ede6~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_bd04fed0755e408584a559a14a94ede6~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_8267179359fd4fd6b46d0167cbce27d1~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_8267179359fd4fd6b46d0167cbce27d1~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_36a5a11d36c044f7a05d943c6caff90a~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_36a5a11d36c044f7a05d943c6caff90a~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_3144ecba4717486ea69e099f8430ef53~mv2.jpg/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_3144ecba4717486ea69e099f8430ef53~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_27272d8d1113411fb9c830211df1d2a9~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_27272d8d1113411fb9c830211df1d2a9~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_46abb5da45734162b4fe390dde63106d~mv2.jpg/v1/fill/w_147,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_46abb5da45734162b4fe390dde63106d~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_f794aa57233745048dab8251f6fdcd12~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_f794aa57233745048dab8251f6fdcd12~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_ba15f60f90ce4452adfa150a0c3ce54b~mv2.jpg/v1/fill/w_147,h_91,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_ba15f60f90ce4452adfa150a0c3ce54b~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_fe726912aa5045ffa497485070b9ee85~mv2.jpg/v1/fill/w_147,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_fe726912aa5045ffa497485070b9ee85~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_52b0b4c409d44bdc930a155832408c05~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_52b0b4c409d44bdc930a155832408c05~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_b595956c0a964954b3f184df3f57a694~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_b595956c0a964954b3f184df3f57a694~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_3a3a0f57f4ee4ab1915ddb310e981ba5~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_3a3a0f57f4ee4ab1915ddb310e981ba5~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_8b1744f62f334e3fb0cbc4e817d2233f~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_8b1744f62f334e3fb0cbc4e817d2233f~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_4e0cc395dd3248a889d6200796b46947~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_4e0cc395dd3248a889d6200796b46947~mv2.jpg",
+        "https://static.wixstatic.com/media/11062b_0bec1cadb27b4d4a9898a740648fc5a9~mv2.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_0bec1cadb27b4d4a9898a740648fc5a9~mv2.png",
+        "https://static.wixstatic.com/media/e0678ef25486466ba65ef6ad47b559e1.png/v1/fill/w_68,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e0678ef25486466ba65ef6ad47b559e1.png",
+        "https://static.wixstatic.com/media/25f7c6_00a9e119c76046788ff735c3602ad640~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_00a9e119c76046788ff735c3602ad640~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_282a879047e94f62b4d3f932e147c7cd~mv2.jpg/v1/fill/w_147,h_100,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_282a879047e94f62b4d3f932e147c7cd~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_fbf8d50be0e24380bf3cb7da2bcf2f50~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_fbf8d50be0e24380bf3cb7da2bcf2f50~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_031bcebe98364229884438b9c8271d68~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_031bcebe98364229884438b9c8271d68~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_b0b188ebfdd941f98422d6b5ed81d1ff~mv2.jpg/v1/fill/w_147,h_125,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_b0b188ebfdd941f98422d6b5ed81d1ff~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_8b1744f62f334e3fb0cbc4e817d2233f~mv2.jpg/v1/fill/w_147,h_121,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_8b1744f62f334e3fb0cbc4e817d2233f~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_2af0c5d1bcbe402bbbeb6f06aa761528~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_2af0c5d1bcbe402bbbeb6f06aa761528~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_28287fc355494ec191bc70229d59763b~mv2.jpg/v1/fill/w_147,h_91,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_28287fc355494ec191bc70229d59763b~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_bc5ffaf1506d43f4af786b9b56efe96f~mv2.jpg/v1/fill/w_147,h_124,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/25f7c6_bc5ffaf1506d43f4af786b9b56efe96f~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_238fd03945224cf1a2eddd710619d774~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_238fd03945224cf1a2eddd710619d774~mv2.jpg",
+        "https://static.wixstatic.com/media/25f7c6_6b7af5c8fbc9462888eb0632d99c3910~mv2.jpg/v1/fill/w_141,h_141,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/25f7c6_6b7af5c8fbc9462888eb0632d99c3910~mv2.jpg"
+      ],
+      "scraped_at": "2026-05-16T06:42:07.775Z",
+      "business_name": "Hub Stacey's at The Point"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "all-businesses",
+      "consolidation",
+      "consolidation-venue-data",
+      "scraped-menus",
+      "raw-page-data",
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139434693.887.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139435173.979.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139435499.857.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139436003.913.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139436434.9128.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139437058.1416.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139437674.3208.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139438287.7598.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139438769.8723.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:13.707977+00:00",
+    "updated_at": "2026-05-18T21:24:03.966476+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131734843.485.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131736327.1877.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139435499.857.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139438287.7598.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131404230.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131735135.405.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131736631.54.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139436003.913.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139438769.8723.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131733470.236.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131735402.2612.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139434466.9993.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139436434.9128.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131733767.9585.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131735597.343.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139434693.887.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139437058.1416.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131734585.7249.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131735958.7776.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139435173.979.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139437674.3208.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
-      "tag": "spirits",
-      "tag_category": "type"
-    },
-    {
+      "id": "27816f91-1f17-4ec9-8bb1-f894ada60bfc",
       "tag": "sandwiches",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
-      "tag": "burgers",
-      "tag_category": "type"
-    },
-    {
-      "tag": "salads",
-      "tag_category": "type"
-    },
-    {
-      "tag": "wings",
-      "tag_category": "type"
-    },
-    {
-      "tag": "casual dining",
-      "tag_category": "type"
-    },
-    {
-      "tag": "dine-in",
-      "tag_category": "type"
-    },
-    {
-      "tag": "takeout",
-      "tag_category": "type"
-    },
-    {
-      "tag": "live music",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Pensacola",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Perdido Key",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Florida",
-      "tag_category": "type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "type"
-    },
-    {
-      "tag": "music",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Sandwiches",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Burgers",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Bars & Nightlife",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Live Music Venues",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Family Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    },
-    {
-      "tag": "sandwich_shop",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "breakfast_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "73905505-f42d-474b-ac11-19d2bfd89cb8",
       "tag": "sandwiches",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "153aa16e-8a3d-4bf7-a915-5dad7e289b11",
       "tag": "burgers",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "68191d60-a443-4337-9f46-882f83c2ec86",
+      "tag": "burgers",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "43730103-2936-4ea5-a0b1-fe1c82f42bb0",
       "tag": "salads",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "0daa4d55-de45-403b-91da-e435d1b4b566",
+      "tag": "salads",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "fb664e15-601f-43f9-868e-b4f09dd0da12",
       "tag": "wings",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "a44f92bf-05f9-4c70-86b3-1358bfe4ed27",
+      "tag": "wings",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "1703de8e-fa88-4a9c-93b0-e6b04bed587b",
       "tag": "casual dining",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "71e2b385-b722-4658-ab6d-3d54fb8eec29",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "6316e4a6-29e9-4e76-a3e3-bd8d74d0cbfe",
       "tag": "dine-in",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "01ce4135-2041-4158-ad4d-edf113279f47",
+      "tag": "dine-in",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "6d9b6c2e-f6dc-43bf-a873-33f39081d963",
       "tag": "takeout",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "c8d1dd44-4fb5-4164-a000-44982d47d3cd",
+      "tag": "takeout",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "917cc84b-0dfc-4269-9ab7-042eb8b3fc92",
       "tag": "live music",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "f070e2a1-3757-4062-9c90-5de25cf50ad6",
+      "tag": "live music",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "a1d8b5c3-9f5f-488a-8f8b-aa69510e917e",
       "tag": "Pensacola",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
+      "id": "c727fa9e-410f-4f8d-8d86-75c89554c727",
+      "tag": "Pensacola",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "1573555c-9258-416f-a50b-305c3a385825",
       "tag": "Perdido Key",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 9
     },
     {
+      "id": "71f7f7ee-6204-4431-87f5-6dbf4bebc954",
+      "tag": "Perdido Key",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "ff8b1a2d-6fd1-4ff2-9f22-882934d101bd",
       "tag": "Florida",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "5ce08a09-dd7e-4c0a-9224-81b24e49d1c5",
+      "tag": "Florida",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "29447525-c20d-4119-b685-dffa9a2bde0f",
       "tag": "food",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 11
     },
     {
+      "id": "388e729f-f951-4382-8220-6e2713957676",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "878edfe4-b617-48e8-957b-431bd674282b",
       "tag": "spirits",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 12
     },
     {
+      "id": "9d82daee-8f6a-460c-ad09-60abdf2151e6",
+      "tag": "spirits",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "67801720-af48-491a-ba4a-0752c7139d18",
       "tag": "music",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 13
     },
     {
+      "id": "1c7d1fc9-ac64-491c-94fc-d74e25fe484b",
+      "tag": "music",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "653e3a80-267f-454b-a15c-b250bf07d781",
       "tag": "Restaurants",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 14
     },
     {
+      "id": "4b4d966c-5a77-4574-bfa6-c8febb97d58b",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "51276362-385a-4691-9c88-81ccbb12567a",
       "tag": "Sandwiches",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 15
     },
     {
+      "id": "7b15e7d9-0fb2-4953-93de-78b534b6369a",
+      "tag": "Sandwiches",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "ec35be5d-db4d-44bb-a8ce-019026814f06",
       "tag": "Burgers",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 16
     },
     {
+      "id": "362a845e-85d2-427d-8f6f-c07429ce2ebe",
+      "tag": "Burgers",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "05dc5dea-c042-4936-92a5-77de2558c642",
       "tag": "Casual Dining",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 17
     },
     {
+      "id": "a2fba463-1b77-4bd1-87b4-a24980cb58a7",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "509f168d-a7a6-4f25-8e9e-f5d4907b30d6",
       "tag": "Bars & Nightlife",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 18
     },
     {
+      "id": "28dff4bb-048c-4e83-bd61-6867a1c10479",
+      "tag": "Bars & Nightlife",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "0d5b832a-8775-48e5-8bef-5d81355c2a55",
       "tag": "Live Music Venues",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 19
     },
     {
+      "id": "ba47b21b-e4cb-44ed-abd8-30d8fc029cfe",
+      "tag": "Live Music Venues",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "ad60b539-5a73-4e2e-82eb-8c7bad2435d4",
       "tag": "Family Restaurants",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 20
     },
     {
+      "id": "a3b8fcf0-9b63-4192-965f-d5cc3c600751",
+      "tag": "Family Restaurants",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "449c2266-84ba-4abd-a690-a26743177921",
       "tag": "food-and-drink",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 21
     },
     {
+      "id": "9ada93df-5212-4f8a-95e8-a5333419de15",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 21
+    },
+    {
+      "id": "34de3413-801b-4854-ab2b-bfa76965b440",
       "tag": "restaurant",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 22
     },
     {
+      "id": "d0fb7f9b-32a5-49af-b9e3-d03a5bf7c275",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "983cd343-e5cb-4dcc-851e-a61819576472",
       "tag": "sandwich_shop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 23
     },
     {
+      "id": "935df3f7-b2a9-4195-ab4d-55af0dc75ec2",
+      "tag": "sandwich_shop",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "df51e4d3-2e0c-4fa2-9756-8751f0e9273c",
       "tag": "breakfast_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 24
     },
     {
+      "id": "ea9d01f2-b566-4965-a877-730a97d93d8f",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "e8e33ffd-6c88-4509-a131-fcd2692cb05a",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 25
     },
     {
+      "id": "72cfd1a4-b649-4a6e-b19d-8757862fc2b7",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "f531abe1-dde5-4a63-a2f0-3db249c8e3be",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "8b37c4a1-b460-488c-a76e-a36d0253e3a4",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 26
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "0b04c5dc-97d3-4860-9410-ba188d6778dc",
+      "section_key": "munchies",
+      "section_label": "Munchies",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+          "title": "Munchies",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": [
+            {
+              "id": "f5c01906-db7a-44c3-88d0-f4d24dd60343",
+              "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+              "item_name": "French Fries or Tots",
+              "item_description": null,
+              "price_label": null,
+              "price_text": "$5.00",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 0
+            },
+            {
+              "id": "9d5081e4-1e40-4789-bf65-9e8ca7328945",
+              "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+              "item_name": "Fried Okra",
+              "item_description": null,
+              "price_label": null,
+              "price_text": "$8.50",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 1
+            },
+            {
+              "id": "589c30ab-597a-4b2d-a7cb-48e46b2200db",
+              "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+              "item_name": "Panko Crusted Fried Pickles",
+              "item_description": null,
+              "price_label": null,
+              "price_text": "$8.50",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 2
+            },
+            {
+              "id": "43e3b950-d113-4601-ae78-a64d10610409",
+              "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+              "item_name": "Mozzarella Sticks",
+              "item_description": null,
+              "price_label": null,
+              "price_text": "$8.50",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 3
+            },
+            {
+              "id": "7708f288-97bb-446e-befb-efd8bef71db5",
+              "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+              "item_name": "Pretzel Bites",
+              "item_description": "Soft baked with queso cheese for the good dippin'.",
+              "price_label": null,
+              "price_text": "$8.50",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 4
+            },
+            {
+              "id": "847a5a69-e820-4be4-8b38-27c0bc8fdce5",
+              "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+              "item_name": "Chips & Queso",
+              "item_description": "With fire roasted salsa",
+              "price_label": null,
+              "price_text": "$10.50",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 5
+            },
+            {
+              "id": "aad0bfe9-4151-453b-a3f1-b77683eb0b7a",
+              "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+              "item_name": "Sweet Potato Tots",
+              "item_description": null,
+              "price_label": null,
+              "price_text": "$8.50",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 6
+            }
+          ]
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "8f364677-6fe6-478d-9777-754ecd12bbc7",
+      "section_key": "salads",
+      "section_label": "Salads",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "11190403-7c5b-4e5c-9d75-e548993b74c4",
+          "title": "Salads",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "5ba893b1-ab69-4fe3-b630-b05aa2c9fe23",
+      "section_key": "events",
+      "section_label": "Events",
+      "section_type": "events",
+      "sort_order": 10
+    },
+    {
+      "id": "01babe7b-75a9-4374-b56d-e3572544bfc9",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [
+    {
+      "id": "f5c01906-db7a-44c3-88d0-f4d24dd60343",
+      "section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc",
+      "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+      "item_name": "French Fries or Tots",
+      "item_description": null,
+      "price_label": null,
+      "price_text": "$5.00",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "9d5081e4-1e40-4789-bf65-9e8ca7328945",
+      "section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc",
+      "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+      "item_name": "Fried Okra",
+      "item_description": null,
+      "price_label": null,
+      "price_text": "$8.50",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "589c30ab-597a-4b2d-a7cb-48e46b2200db",
+      "section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc",
+      "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+      "item_name": "Panko Crusted Fried Pickles",
+      "item_description": null,
+      "price_label": null,
+      "price_text": "$8.50",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 2,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "43e3b950-d113-4601-ae78-a64d10610409",
+      "section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc",
+      "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+      "item_name": "Mozzarella Sticks",
+      "item_description": null,
+      "price_label": null,
+      "price_text": "$8.50",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 3,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "7708f288-97bb-446e-befb-efd8bef71db5",
+      "section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc",
+      "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+      "item_name": "Pretzel Bites",
+      "item_description": "Soft baked with queso cheese for the good dippin'.",
+      "price_label": null,
+      "price_text": "$8.50",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 4,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "847a5a69-e820-4be4-8b38-27c0bc8fdce5",
+      "section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc",
+      "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+      "item_name": "Chips & Queso",
+      "item_description": "With fire roasted salsa",
+      "price_label": null,
+      "price_text": "$10.50",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 5,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "aad0bfe9-4151-453b-a3f1-b77683eb0b7a",
+      "section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc",
+      "group_id": "ed5ba827-ca32-4d51-9338-20e7bd3fbaf7",
+      "item_name": "Sweet Potato Tots",
+      "item_description": null,
+      "price_label": null,
+      "price_text": "$8.50",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 6,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    }
+  ],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "a34ebf5a-ce80-40d7-951e-6b9030fa60c9",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131734843.485.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:47.293231+00:00"
+    },
+    {
+      "id": "c3993d90-4b29-438b-badb-0e26129c30db",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131736327.1877.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:48.063941+00:00"
+    },
+    {
+      "id": "79d0c30b-600c-4337-a122-42b1a49f0eec",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139435499.857.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:48.802648+00:00"
+    },
+    {
+      "id": "cd98b0c2-34cf-4677-a85f-3e332ca36420",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139438287.7598.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:49.857268+00:00"
+    },
+    {
+      "id": "c9de7661-d72a-4ac9-83d9-dc96d3dbea04",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131404230.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:46.677353+00:00"
+    },
+    {
+      "id": "aff66eef-6a1c-4aa3-9cae-ef4b6ad8d1ac",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131735135.405.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:47.444907+00:00"
+    },
+    {
+      "id": "09696400-0e60-4d31-b56d-10e4ae8fc660",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131736631.54.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:48.21263+00:00"
+    },
+    {
+      "id": "c8610967-aa51-48be-b86d-34110faee46b",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139436003.913.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:48.953637+00:00"
+    },
+    {
+      "id": "ec46ad91-6a35-4eeb-b301-32a32bc03588",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139438769.8723.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:50.008846+00:00"
+    },
+    {
+      "id": "ee1db97b-552f-47c2-b16e-6508b8c98f5e",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131733470.236.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:46.826098+00:00"
+    },
+    {
+      "id": "4c52a44b-9c99-4192-a3d9-4284b4b82415",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131735402.2612.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:47.592099+00:00"
+    },
+    {
+      "id": "d6d7781d-a1c0-4f46-afe8-bcab94f014b8",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139434466.9993.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:48.35843+00:00"
+    },
+    {
+      "id": "ae8fda70-e478-443e-80f9-daad497b7521",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139436434.9128.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:49.098521+00:00"
+    },
+    {
+      "id": "03fa95ed-5e61-4c73-bf6b-73da8fb3488d",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131733767.9585.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:46.980881+00:00"
+    },
+    {
+      "id": "fb6439d6-7ee1-4461-bac6-c222a75a8fbd",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131735597.343.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:47.765497+00:00"
+    },
+    {
+      "id": "98d5364d-8b18-4d28-8022-5a870272ceab",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139434693.887.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:48.511208+00:00"
+    },
+    {
+      "id": "62b4589d-2729-492b-9e87-df5a359fcb7d",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139437058.1416.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:49.250614+00:00"
+    },
+    {
+      "id": "d9b8d65a-780f-4a22-acda-56c3bde3d441",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131734585.7249.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:47.144136+00:00"
+    },
+    {
+      "id": "f82a1950-0bc8-4177-a1d2-9c8281fc9d67",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779131735958.7776.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:47.913821+00:00"
+    },
+    {
+      "id": "8c0a0480-c50b-46dc-b93f-5ca689653fb0",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139435173.979.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:48.657026+00:00"
+    },
+    {
+      "id": "cfceb1ac-df36-41c7-bf22-9f467bb10d48",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/25dc891e-3658-44dc-8bb0-03fbc3d100af/25dc891e-3658-44dc-8bb0-03fbc3d100af_1779139437674.3208.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:49.587766+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [
+      {
+        "id": "0b04c5dc-97d3-4860-9410-ba188d6778dc",
+        "section_name": "Munchies",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+        "sort_order": 0
+      },
+      {
+        "id": "8f364677-6fe6-478d-9777-754ecd12bbc7",
+        "section_name": "Salads",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": [
+      {
+        "id": "f5c01906-db7a-44c3-88d0-f4d24dd60343",
+        "item_name": "French Fries or Tots",
+        "description": "",
+        "price_text": "$5.00",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc"
+      },
+      {
+        "id": "9d5081e4-1e40-4789-bf65-9e8ca7328945",
+        "item_name": "Fried Okra",
+        "description": "",
+        "price_text": "$8.50",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc"
+      },
+      {
+        "id": "589c30ab-597a-4b2d-a7cb-48e46b2200db",
+        "item_name": "Panko Crusted Fried Pickles",
+        "description": "",
+        "price_text": "$8.50",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 2,
+        "menu_section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc"
+      },
+      {
+        "id": "43e3b950-d113-4601-ae78-a64d10610409",
+        "item_name": "Mozzarella Sticks",
+        "description": "",
+        "price_text": "$8.50",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 3,
+        "menu_section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc"
+      },
+      {
+        "id": "7708f288-97bb-446e-befb-efd8bef71db5",
+        "item_name": "Pretzel Bites",
+        "description": "Soft baked with queso cheese for the good dippin'.",
+        "price_text": "$8.50",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 4,
+        "menu_section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc"
+      },
+      {
+        "id": "847a5a69-e820-4be4-8b38-27c0bc8fdce5",
+        "item_name": "Chips & Queso",
+        "description": "With fire roasted salsa",
+        "price_text": "$10.50",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 5,
+        "menu_section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc"
+      },
+      {
+        "id": "aad0bfe9-4151-453b-a3f1-b77683eb0b7a",
+        "item_name": "Sweet Potato Tots",
+        "description": "",
+        "price_text": "$8.50",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 6,
+        "menu_section_id": "0b04c5dc-97d3-4860-9410-ba188d6778dc"
+      }
+    ]
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "2b2dbfee-11bc-459f-8017-f73c3e9e2dbb",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Truman Holland | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Truman Holland",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": "2026-05-21",
+      "start_time": "18:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "4cdd7839-7535-4d9a-8a33-f60304880bd6",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "The Destinations | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "The Destinations",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": "2026-05-22",
+      "start_time": "19:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "d966481b-f382-437b-821f-7851a47d2918",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Truman Holland Trio | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Truman Holland Trio",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": "2026-05-23",
+      "start_time": "19:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "65e3b591-7dc8-4239-92b4-f153f754e516",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Nick Branch Duo | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Nick Branch Duo",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": "2026-05-24",
+      "start_time": "17:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "14366b19-e628-448d-a27f-e4f0af80ebbd",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Friends of Paul | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Friends of Paul",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": "2026-05-28",
+      "start_time": "18:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "c1860c49-3dbe-4df7-b64f-9c1908b322e6",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Eric Woods & The Way Down | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Eric Woods & The Way Down",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": "2026-05-29",
+      "start_time": "19:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "67e8b3d5-3981-4eea-9b35-cad07a230fca",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Amanda Pruitt Band | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Amanda Pruitt Band",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": "2026-05-30",
+      "start_time": "19:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "3c2a6c6d-4f5b-42d9-ab8b-590b62ce8f4e",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Veronica Jean Trio | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Veronica Jean Trio",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": "2026-05-31",
+      "start_time": "17:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "c72c48fe-c738-41d1-8261-ad5758909f87",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Dead Flowers | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Dead Flowers",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": "2026-07-25",
+      "start_time": "19:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "b2abc51f-9f46-4f47-98f4-42f36f31bbb9",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Riptide | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Riptide",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.252217+00:00"
+    },
+    {
+      "id": "083a54ad-9b0d-43b4-b1c2-c11cc0e27549",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Smokey Otis Band | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Smokey Otis Band",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.326097+00:00"
+    },
+    {
+      "id": "88b6df4d-5f99-4fc1-8d0b-1aefc0c048b9",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Cowboy Johnson | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Cowboy Johnson",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.405791+00:00"
+    },
+    {
+      "id": "8a5e23a6-4069-437c-a7a5-c9dfe7b9e8fc",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Hippy Jim Duo | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Hippy Jim Duo",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.482783+00:00"
+    },
+    {
+      "id": "99368cd3-14e8-46e3-858c-c0445de290d4",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "John Hart Project | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "John Hart Project",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.557735+00:00"
+    },
+    {
+      "id": "2cb02eb7-79fd-4d75-9748-8f04bd132d88",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Cristi Dee & BAD JUJU | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Cristi Dee & BAD JUJU",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.633606+00:00"
+    },
+    {
+      "id": "320230a0-6b14-4c71-a8ba-d33b8e028987",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Jonathan Puzan | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Jonathan Puzan",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.707337+00:00"
+    },
+    {
+      "id": "e8648219-dad4-456c-b6f1-3729475584b5",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Truman Holland | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Truman Holland",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.782072+00:00"
+    },
+    {
+      "id": "219c8ba1-6f9c-411b-96ef-5972fcc051fc",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "The Destinations | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "The Destinations",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.852519+00:00"
+    },
+    {
+      "id": "634c5c6f-b79d-47e7-b511-04bb09727e53",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Truman Holland Trio | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Truman Holland Trio",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:38.956215+00:00"
+    },
+    {
+      "id": "c46ccf62-09cf-4299-b879-c666c3534eae",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Nick Branch Duo | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Nick Branch Duo",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:39.025029+00:00"
+    },
+    {
+      "id": "3ec24762-73ea-4531-b9e1-070c87399661",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Friends of Paul | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Friends of Paul",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:39.101221+00:00"
+    },
+    {
+      "id": "e02aedec-a110-4c5e-aa45-dc36a9cef6e8",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Eric Woods & The Way Down | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Eric Woods & The Way Down",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:39.171499+00:00"
+    },
+    {
+      "id": "df5331b1-cfbc-43f4-9759-4901534c8665",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Amanda Pruitt Band | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Amanda Pruitt Band",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:39.246478+00:00"
+    },
+    {
+      "id": "24390404-7a84-43b4-809c-ca4fbe8d6193",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Veronica Jean Trio | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Veronica Jean Trio",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:39.317068+00:00"
+    },
+    {
+      "id": "0d0be32c-607d-4f79-80b3-5be52aee844c",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Dead Flowers | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Dead Flowers",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:39.392493+00:00"
+    },
+    {
+      "id": "ffe21ca6-de3e-4812-9878-07d901438a08",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": "ChIJJxlDQV6vkIgRskWUk74U9L8",
+      "event_name": "Dead Flowers | Hub Stacey's at the Point | Perdido Key",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Dead Flowers",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:39.470246+00:00"
+    },
+    {
+      "id": "e241e681-0f1c-4783-bfda-4fbf00cc7b50",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Riptide | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Riptide",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "3517bbc8-dd3d-4fe5-8dd3-5e302816f3bd",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Smokey Otis Band | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Smokey Otis Band",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "bbbbf78a-7731-468d-b22d-7197bb97de25",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Cowboy Johnson | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Cowboy Johnson",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "9e0ec2ca-b693-4794-8fd8-10cdcb3159d4",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Hippy Jim Duo | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Hippy Jim Duo",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "0e0c3b3c-faab-4711-ab23-44245cb67436",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "John Hart Project | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "John Hart Project",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "d6d60896-d452-4d6e-b1d9-9181b1b09849",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Cristi Dee & BAD JUJU | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Cristi Dee & BAD JUJU",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "ffd45c46-acd7-4d62-b914-bdad0f076c49",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Jonathan Puzan | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Jonathan Puzan",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "66b64cea-f5f8-435b-b080-d54e70a1a2f4",
+      "entity_id": "25dc891e-3658-44dc-8bb0-03fbc3d100af",
+      "place_id": null,
+      "event_name": "Dead Flowers | Hub Stacey's at the Point | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Dead Flowers",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Hub Stacey's at the Point",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

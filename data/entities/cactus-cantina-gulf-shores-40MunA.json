@@ -1,32 +1,705 @@
 {
-  "id": "7c299ea9-3de9-4d1f-b6b4-16be5627eb44",
-  "slug": "cactus-cantina-gulf-shores-40MunA",
-  "name": "Cactus Cantina Gulf Shores",
-  "entity_type": "restaurant",
-  "entity_subtype": "mexican_restaurant",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 943-8115",
-  "email": null,
-  "website_url": "http://mycactuscantina.com/",
-  "address_line_1": "3849 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.4,
-  "review_count": 3066,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/6ea95918-0f53-4854-a229-0c61e9b8e3fe/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "7c299ea9-3de9-4d1f-b6b4-16be5627eb44",
+    "place_id": "ChIJ2yafBEQFmogRVdOWq40MunA",
+    "google_maps_uri": "https://maps.google.com/?cid=8122818680524821333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "cactus-cantina-gulf-shores-40MunA",
+    "name": "Cactus Cantina Gulf Shores",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "mexican_restaurant",
+    "secondary_types": [],
+    "google_type": "mexican_restaurant",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-8115",
+    "international_phone": null,
+    "website_url": "http://mycactuscantina.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3849 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3054326,
+    "longitude": -87.6836256,
+    "short_address": "3849 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 3066,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/6ea95918-0f53-4854-a229-0c61e9b8e3fe/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://mycactuscantina.com/",
+      "menu": {
+        "categories": []
+      },
+      "tags": [
+        "Mexican",
+        "casual",
+        "beach",
+        "Gulf Coast"
+      ],
+      "type": "Restaurant",
+      "about": {
+        "vibe": "Laid back beach casual",
+        "best_for": [
+          "casual dining",
+          "families",
+          "beach-goers"
+        ],
+        "description": "Started by cousins Michael and Bobby in 2011 in McDonough, Georgia. The Gulf Shores location opened in March 2013. Now operates six locations across Alabama, Georgia, and Florida. Known for laid-back Mexican cuisine by the beach.",
+        "established": "2013",
+        "insider_tip": null,
+        "reservations": null,
+        "elevator_pitch": "Voted Best Mexican Food on the Gulf Coast, offering casual Mexican dining with multiple locations across the Southeast."
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": "Gulf Shores",
+        "email": null,
+        "phone": null,
+        "state": "Alabama",
+        "address": null
+      },
+      "gallery": [
+        "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/gnfqtbpr/dc84011d-f4f6-4f55-8004-de1f117ba28b.jpg",
+        "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/gnfqtbpr/92da579a-04ec-4790-bc7b-1c3c2ac2bee8.jpg",
+        "https://popmenucloud.com/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/gnfqtbpr/68d21b46-ba2d-41a1-a84e-2adf22017389.jpg"
+      ],
+      "sources": [
+        "http://mycactuscantina.com",
+        "https://www.mycactuscantina.com/contact-us",
+        "https://www.mycactuscantina.com/about",
+        "https://www.mycactuscantina.com/menu",
+        "https://www.mycactuscantina.com",
+        "https://www.mycactuscantina.com/Catering",
+        "https://www.mycactuscantina.com/photos",
+        "https://www.mycactuscantina.com/directions",
+        "https://www.mycactuscantina.com/employment",
+        "https://www.mycactuscantina.com/reviews"
+      ],
+      "tagline": "Laid Back Mexican Cuisine By The Beach",
+      "features": [
+        "VIP program",
+        "catering",
+        "multiple locations"
+      ],
+      "specials": [],
+      "scraped_at": "2026-03-22T01:36:35.574Z",
+      "price_range": "$$",
+      "extracted_at": "2026-03-23T03:33:20.241Z",
+      "social_links": {
+        "website": "http://mycactuscantina.com",
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Cactus Cantina Mexican Grill"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:25.32704+00:00",
+    "updated_at": "2026-05-17T22:22:52.350312+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "2bb39abc-7def-46e1-bc5d-a5b8bd121d1f",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "4830ab76-a80b-42f3-bb57-8c7ca550f6e5",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "14bd048a-46c4-465a-a5d8-a0f341e8b9cf",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "fc7d19ac-5107-49cf-8bdb-7e58375aa8da",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d5d40011-ada3-4cee-ba67-03b62cb81b4d",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "81f9a03f-0a8d-4966-b02f-1dab0adc00e1",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "ac7cb3a6-3c5f-41e5-b6d1-a0f4582695e2",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "989d14fc-4435-45d8-8413-fc146b9069e8",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "7634bba1-b046-43f9-9468-e2f4f58b3e98",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "24775c2f-5b34-4982-b68a-d22147aca438",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "06b9e35d-ca24-40bd-8931-d8cf0f93b51c",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "cce4b6e2-c84b-44ff-8c7e-7aa20f99a905",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "ff0029a6-3f58-4681-968e-18514b4d3623",
+      "tag": "mexican restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "7d30e5b8-3cdc-4bf2-a494-7e074a9a5f96",
+      "tag": "mexican restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "899f16cc-e4af-4318-a53d-8c23a4ec34db",
+      "tag": "mexican restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "3067ad47-3656-4ef5-8241-f583cb4c0864",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "55f50ff3-1eaa-4e1d-9e09-d20224cec8c4",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "f18e43b5-dcb4-451e-8eb5-d149c522bc6d",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "75209500-593a-4e18-9f34-1bdc78dc32c4",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "05fb3183-3cfe-45a5-abf4-8f1cda580122",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "c6e3f5f7-7dec-477c-a0d6-cb74215b9875",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "3b1a705a-a78b-456b-9020-4747794d849f",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 7
+    },
+    {
+      "id": "c5bbfbfc-0a98-4059-a289-ba1ca94ec4a9",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 7
+    },
+    {
+      "id": "6c38bb54-ac35-4c54-b067-25eac3749a36",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 7
+    },
+    {
+      "id": "1477dec0-7d49-4455-85d2-417aec175682",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "30df7647-f503-4f43-9313-f4a4180ae826",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "e91d432b-4d57-4dd1-80c7-51fc3a1a661f",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "c0344897-7846-4956-b270-cd8812df2381",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "04ffc87e-9eb7-4db3-957d-6b300581a1ec",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "1a8c8104-bc7d-49bc-80b3-90f04b3b1531",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "390ff128-2597-4ae4-8914-829a15c2783c",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "b79a50a7-2e10-4a52-a947-c26ed9cc192a",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "cb4eee9b-13ab-406c-983d-99bd48329d23",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "3d4917dc-2d13-4fad-8e56-c2b26268feb1",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 11
+    },
+    {
+      "id": "ace54eb2-2cbb-4127-927c-8e9b3a190a01",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 11
+    },
+    {
+      "id": "0dbd9e36-dad8-4dc8-8841-099fdc2860e0",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 11
+    },
+    {
+      "id": "0d807ea3-0565-45ec-bb4f-79455c093a27",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "ac0f2895-5928-4d1b-a2ed-4340da54568a",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "02762107-a4f8-4c66-a7fa-62813aa806fb",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "a0b84eb3-ce1c-4016-8261-e5f8af35c49a",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "f0012c22-c399-4c5b-8f57-e509d8de935c",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "0b96190a-facf-45ff-85a5-5a082dcffe76",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "28d82edc-1444-422a-bb4f-8e2c8e9fa64e",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "762632d3-b305-483a-b293-d5f3f38d018f",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "9d76ce4c-7f5d-482a-a5f1-61c596abd976",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "b8fd7daa-0111-4ab3-9cec-ac4dee3d4e39",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "e252bf66-06d7-494e-b287-e29a13601bbf",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "5b492547-ab4a-4e47-8a69-c32a7c75913a",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "e6cab5fc-c4af-4553-a5f1-c643a76f8900",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "d147e8de-39bf-4649-a89a-02405f7524d8",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "abe08b3b-0c54-4486-92bc-5ee931119fb5",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "a6d0da44-3482-4d5e-8918-0d3a68d96701",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "01d34699-28e0-412a-b4ae-206919043c7c",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "948d5a1d-12b5-4c71-8617-df5a252515f2",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "8ab96ccd-9ac4-46e6-bcfb-4bebefe09418",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "3b0c80d2-5ccc-4f88-b4fb-185e245e442f",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "390c1a28-c9e7-48ab-9bfd-651696582876",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "66b4575d-8ba7-4c58-aba4-b5aeba1e15ca",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "d49bd20e-0f84-44a4-9773-2146f0efa99b",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "45e701e6-4b9d-493f-8c17-41b791698304",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "78f9eea6-67e4-4f01-b37c-627f4e18e4f3",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 20
+    },
+    {
+      "id": "4471d89f-458f-4e27-a8dd-15555b8117b4",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 20
+    },
+    {
+      "id": "feaf13db-5aea-4430-ab8b-722189f76bcb",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 20
+    },
+    {
+      "id": "17c69a47-eb54-4d70-8b05-0884d74b370c",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 21
+    },
+    {
+      "id": "5549cfa6-f2c7-47f3-856c-1fa7f6258285",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 21
+    },
+    {
+      "id": "6584e961-58ba-428d-89b1-a5b097d6c240",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 21
+    },
+    {
+      "id": "742c340b-9647-40ca-a06c-1c7e5d32d4c6",
+      "tag": "mexican",
+      "tag_category": "food",
+      "sort_order": 22
+    },
+    {
+      "id": "a380a6de-0c0a-4bb0-b566-31d80025312f",
+      "tag": "mexican",
+      "tag_category": "food",
+      "sort_order": 22
+    },
+    {
+      "id": "da8ca1f3-8456-4658-8d41-8f19819dada0",
+      "tag": "mexican",
+      "tag_category": "food",
+      "sort_order": 22
+    },
+    {
+      "id": "13318340-dbed-4114-bbe9-2a972f2e1e09",
+      "tag": "mexican_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "0e9f7265-b410-42cb-b1d7-edee4a92dc85",
+      "tag": "mexican_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "e6d91126-2774-4a33-a9f0-6206b7677397",
+      "tag": "mexican_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "334aa659-31b6-496a-978b-4e32917cba48",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "d437e691-9a8a-4162-8abb-8c642f2fc587",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "e295b60f-3023-4723-8a0d-67f34fbc6dc5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    }
+  ],
+  "sections": [
+    {
+      "id": "07044bc9-471b-4e4d-862d-5a1d2e2ab0ef",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

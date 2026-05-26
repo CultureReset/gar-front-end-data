@@ -1,32 +1,803 @@
 {
-  "id": "458ef3dd-c633-43b2-81f5-8724e8229440",
-  "slug": "crystal-tower-1209-Lz34F8",
-  "name": "Crystal Tower 1209",
-  "entity_type": "hotel",
-  "entity_subtype": "condo",
-  "icon": "🏪",
-  "description": "{\"description\":\"Crystal Tower is a beachfront condo managed by Brett/Robinson Vacation Rentals, a family-owned and operated company with over 40 years of experience in Gulf Shores and Orange Beach, Alabama. The property offers quality accommodations with dedicated onsite customer service staff.\",\"elevator_pitch\":\"Beachfront Crystal Tower condo with direct Gulf access, modern amenities, and professional property management by Brett/Robinson Vacation Rentals.\",\"total_units\":null,\"floors\":null,\"year_built\":null,\"pet_friendly\":null,\"minimum_stay\":null,\"check_in\":null,\"check_out\":null,\"age_restriction\":null}",
-  "phone": null,
-  "email": null,
-  "website_url": "https://www.vacasa.com/unit/118333",
-  "address_line_1": "1010 W Beach Blvd Unit 1209, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": null,
-  "rating": 4.4,
-  "review_count": 22,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132499755.2063.jpg",
-  "photos": [],
+  "entity": {
+    "id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+    "place_id": "ChIJRbP6TB9F500REe8z9Lz34F8",
+    "google_maps_uri": "https://maps.google.com/?cid=6908794219309297425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "crystal-tower-1209-Lz34F8",
+    "name": "Crystal Tower 1209",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "condo",
+    "secondary_types": "",
+    "google_type": "condominium_complex",
+    "google_types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": "https://www.vacasa.com/unit/118333",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1010 W Beach Blvd Unit 1209, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.245308,
+    "longitude": -87.7103919,
+    "short_address": "1010 W Beach Blvd Unit 1209, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 22,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"Crystal Tower is a beachfront condo managed by Brett/Robinson Vacation Rentals, a family-owned and operated company with over 40 years of experience in Gulf Shores and Orange Beach, Alabama. The property offers quality accommodations with dedicated onsite customer service staff.\",\"elevator_pitch\":\"Beachfront Crystal Tower condo with direct Gulf access, modern amenities, and professional property management by Brett/Robinson Vacation Rentals.\",\"total_units\":null,\"floors\":null,\"year_built\":null,\"pet_friendly\":null,\"minimum_stay\":null,\"check_in\":null,\"check_out\":null,\"age_restriction\":null}",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132499755.2063.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "paidParkingLot": true
+    },
+    "payment": null,
+    "hours_text": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.brett-robinson.com/beach-condo/crystal-tower/",
+      "tags": [
+        "beachfront",
+        "family-friendly",
+        "gulf front",
+        "condo",
+        "direct beach access"
+      ],
+      "type": "Condo",
+      "about": {
+        "floors": null,
+        "check_in": null,
+        "check_out": null,
+        "year_built": null,
+        "description": "Crystal Tower is a beachfront condo managed by Brett/Robinson Vacation Rentals, a family-owned and operated company with over 40 years of experience in Gulf Shores and Orange Beach, Alabama. The property offers quality accommodations with dedicated onsite customer service staff.",
+        "total_units": null,
+        "minimum_stay": null,
+        "pet_friendly": null,
+        "elevator_pitch": "Beachfront Crystal Tower condo with direct Gulf access, modern amenities, and professional property management by Brett/Robinson Vacation Rentals.",
+        "age_restriction": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "dining": [],
+      "contact": {
+        "zip": "36542",
+        "city": "Gulf Shores",
+        "email": null,
+        "phone": "+1-800-211-7892",
+        "state": "AL",
+        "address": "1010 W Beach Blvd"
+      },
+      "gallery": [
+        "https://www.brett-robinson.com/assets/images/BRV-25-95-Vacations-Logo-GS-OB-PK-Horizontal-V2.png",
+        "https://www.brett-robinson.com/uploads/BRV-26-25--Easter-30-Days-WebpageGraphic_184150.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-27--Mothers-Day-60-Days-WebpageGraphic_185358.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-11-Memorial-Day-Stays-V1-WebpageGraphic_150618.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-14-4-Bedroom-WebpageGraphic-V4_105813.jpg",
+        "https://www.brett-robinson.com/uploads/lFullSizeRender_110222.jpg",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024446PM_144957.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024255PM_144955.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024250PM_144952.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024550PM_145000.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024658PM_145003.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024800PM_145005.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024929PM_150512.png",
+        "https://www.brett-robinson.com/uploads/45dcbabd-14da-4c03-86b9-e33b1bec1699_152424.png",
+        "https://www.brett-robinson.com/uploads/f7c22236-e96b-4131-a6ef-3b8c161f6d60_152431.png",
+        "https://www.brett-robinson.com/uploads/114f4761-0d52-45a5-adf7-626f0144ccf1_152427.png",
+        "https://www.brett-robinson.com/uploads/7ea53f3d-a24b-4d65-96fa-e5f6adaf272d_152421.png",
+        "https://www.brett-robinson.com/uploads/b96b1f24-e333-42bc-9e47-d77fd57855e4_152429.png",
+        "https://www.brett-robinson.com/uploads/732961ba-7d13-4aa9-9294-690e2e1f3420_153528.png",
+        "https://www.brett-robinson.com/uploads/31e08f79-9b97-4008-a4c9-aac831c9b812_153520.png",
+        "https://www.brett-robinson.com/uploads/bad38faf-f976-4ddb-bf87-78b7a03d52df_153530.png",
+        "https://www.brett-robinson.com/uploads/9c90c840-9dd2-46b1-bc95-cc5c75810af3_153523.png",
+        "https://www.brett-robinson.com/uploads/9703bb55-7293-4a01-ad02-34e7793ffbd7_153525.png"
+      ],
+      "sources": [
+        "https://www.brett-robinson.com/beach-condo/crystal-tower",
+        "https://www.brett-robinson.com/specials-and-promotions",
+        "https://www.brett-robinson.com/specials-and-promotions/4bedrooms?icid=4+bedrooms&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/charming-beachfront-stays-for-a-tranquil-getaway?icid=Hidden-Gems&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/memorial90?icid=Memorial-Day-90&startDate=2026-05-21&endDate=2026-05-24",
+        "https://www.brett-robinson.com/specials-and-promotions/mothers-day-1?icid=Mothers-Day&startDate=2026-05-07&endDate=2026-05-09",
+        "https://www.brett-robinson.com/specials-and-promotions/spring-informationalb?icid=Spring-InformationalB&startDate=2026-03-05&endDate=2026-03-08",
+        "https://www.brett-robinson.com/specials-and-promotions/easter?icid=Easter&startDate=2026-04-02&endDate=2026-04-05",
+        "https://www.brett-robinson.com/history-of-brettrobinson",
+        "https://www.brett-robinson.com/gulf-shores-orange-beach-events",
+        "https://www.brett-robinson.com/about-brett-robinson",
+        "https://www.brett-robinson.com/office-locations",
+        "https://www.brett-robinson.com/contact",
+        "https://www.brett-robinson.com/driving-directions"
+      ],
+      "tagline": null,
+      "features": [
+        "on-site parking",
+        "direct beach access",
+        "on-site management",
+        "dedicated customer service",
+        "fully equipped",
+        "high-speed Wi-Fi",
+        "cable TV"
+      ],
+      "location": {
+        "bay_view": false,
+        "beachfront": true,
+        "description": "Beachfront condo on the Gulf of Mexico in Gulf Shores, Alabama"
+      },
+      "specials": [
+        {
+          "name": "Hot Deal",
+          "dates": null,
+          "description": "Crystal Tower 2004 - 2 Bed, 2 Bath, Sleeps 6 as low as $126.33/night (marked down from $145.28)"
+        },
+        {
+          "name": "Seasonal Discounts",
+          "dates": null,
+          "description": "Seasonal promotions available throughout the year"
+        },
+        {
+          "name": "Snowbird Specials",
+          "dates": null,
+          "description": "Special rates for longer stays during winter months"
+        },
+        {
+          "name": "Last-Minute Deals",
+          "dates": null,
+          "description": "Last-minute discounts on select rentals with availability"
+        }
+      ],
+      "amenities": {
+        "spa": false,
+        "gated": false,
+        "other": [
+          "sauna",
+          "pier",
+          "gazebo",
+          "washer/dryer",
+          "television",
+          "smoke detector",
+          "carbon monoxide detector"
+        ],
+        "pools": [
+          "outdoor pool",
+          "indoor pool",
+          "kiddie pool"
+        ],
+        "parking": "on-site parking",
+        "hot_tubs": true,
+        "elevators": true,
+        "bbq_grills": true,
+        "bar_on_site": false,
+        "tennis_courts": false,
+        "fitness_center": true,
+        "business_center": false,
+        "kids_splash_pad": false,
+        "pickleball_courts": false,
+        "restaurant_on_site": false,
+        "private_beach_access": true
+      },
+      "scraped_at": "2026-03-21T21:38:05.583Z",
+      "unit_types": [
+        {
+          "name": "2 Bedroom Gulf Front",
+          "view": "gulf front",
+          "sq_ft": null,
+          "sleeps": 6,
+          "bedrooms": 2,
+          "features": [
+            "washer/dryer",
+            "television",
+            "beach access",
+            "balcony"
+          ],
+          "bathrooms": 2,
+          "starting_price": "$126.33/night"
+        }
+      ],
+      "extracted_at": "2026-03-23T03:37:40.136Z",
+      "social_links": {
+        "website": "https://www.brett-robinson.com/beach-condo/crystal-tower",
+        "facebook": "https://www.facebook.com/BrettRobinsonVacations",
+        "instagram": "https://www.instagram.com/brett_robinson_vacations"
+      },
+      "business_name": "Crystal Tower"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "condos-data",
+      "scraped-menus"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500053.7664.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500230.974.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500402.3843.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500555.7444.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500940.0193.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501106.364.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501282.718.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501452.0938.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501702.148.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501869.0227.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502023.2188.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502186.912.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502376.5823.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502579.3655.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502741.1074.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502989.3896.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132503201.479.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132503397.137.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132503661.0122.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132503849.5928.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132504140.0872.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132504383.5989.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132504637.5515.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505041.6394.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505222.304.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505416.066.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505627.084.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505801.8481.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505985.7856.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132506165.6057.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132506357.7505.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132506674.1753.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132506828.892.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507001.871.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507205.8093.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507370.8955.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507531.0693.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507776.7537.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508034.2861.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508186.779.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508336.5417.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508479.614.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508721.9062.png"
+    ],
+    "created_at": "2026-05-17T21:16:14.413907+00:00",
+    "updated_at": "2026-05-18T21:06:23.705303+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "555bf567-fdac-49e2-a10d-78cf640c410c",
+      "tag": "condo",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "ad45f26e-e95f-45a5-b397-a41a4728aae8",
+      "tag": "condominium_complex",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "cf283335-b3e4-4f56-afe5-51bf3b5802de",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "a6579631-6ace-470c-a883-27d719522a30",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "cf32ab86-999e-4777-a8ad-44a689a76425",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 4
+    }
+  ],
+  "sections": [
+    {
+      "id": "6ea30012-2896-4958-bce1-639818efc0d7",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "fae2293f-5c00-49b4-960a-abcd95dcaa11",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500555.7444.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:14.917701+00:00"
+    },
+    {
+      "id": "3876e781-8894-4082-bdab-f9fd6caa32b1",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501702.148.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:15.655391+00:00"
+    },
+    {
+      "id": "b474a275-6ce0-43db-adcf-64e66d72814e",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502376.5823.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:16.23767+00:00"
+    },
+    {
+      "id": "423474a4-7c0d-471d-ac2f-bda0b268d858",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502989.3896.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:16.675496+00:00"
+    },
+    {
+      "id": "80dbcc60-da7a-4ff5-9b14-740e03eb8704",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132504383.5989.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:17.557599+00:00"
+    },
+    {
+      "id": "2cc6402d-b765-438a-84e9-cf856c653ecb",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505985.7856.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:18.585647+00:00"
+    },
+    {
+      "id": "af630dc4-0328-4bee-b194-0023a89150e4",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132506828.892.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:19.287238+00:00"
+    },
+    {
+      "id": "146afc48-e4d6-4025-b94d-ecb41ef5e5d8",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500230.974.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:14.621837+00:00"
+    },
+    {
+      "id": "53d63566-49f5-41c2-b9f4-45d73b75f3b2",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501282.718.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:15.366525+00:00"
+    },
+    {
+      "id": "060576d6-ae9e-4748-939c-0f6decc0dd15",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502023.2188.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:15.946934+00:00"
+    },
+    {
+      "id": "09d255d8-918d-4d2e-8cb5-7ef70d300772",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132503849.5928.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:17.268926+00:00"
+    },
+    {
+      "id": "252ea8bf-f578-4244-b0eb-47d0410b50cc",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505222.304.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:17.991515+00:00"
+    },
+    {
+      "id": "6e2beb77-0dfa-440d-9b8f-9f6ddacfc330",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132506357.7505.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:18.901095+00:00"
+    },
+    {
+      "id": "ffa986d9-6f29-475c-837b-797bb3d98b1f",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507205.8093.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:19.589135+00:00"
+    },
+    {
+      "id": "ffeaed4f-4307-400c-b19c-11c7c6ac18da",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508034.2861.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:20.168306+00:00"
+    },
+    {
+      "id": "71c50b78-5018-453c-a5d8-7ac26916e026",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508479.614.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:20.603116+00:00"
+    },
+    {
+      "id": "15903940-fd8c-49a1-9201-a9895f9ecd23",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132499755.2063.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:14.331815+00:00"
+    },
+    {
+      "id": "3e34ebb8-4b36-4eaa-a588-2ba165f6cf04",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501869.0227.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:15.800249+00:00"
+    },
+    {
+      "id": "7e3d51a0-2ef7-451b-8b3d-6a8da7fc51bc",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502579.3655.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:16.383947+00:00"
+    },
+    {
+      "id": "d91c27de-d43f-4211-a80b-acac9d8bb677",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132503201.479.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:16.820366+00:00"
+    },
+    {
+      "id": "8fb613dd-5125-4c7a-b81c-027088f744e3",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132503397.137.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:16.969079+00:00"
+    },
+    {
+      "id": "57612d8f-76e7-4b44-b36a-b7dcee6ff957",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132504637.5515.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:17.704916+00:00"
+    },
+    {
+      "id": "9b1b3a79-7e5c-4353-b020-43ee4a355707",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505416.066.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:18.137412+00:00"
+    },
+    {
+      "id": "2a809a1d-8236-46eb-9e7c-8b5768abb939",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507001.871.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:19.432398+00:00"
+    },
+    {
+      "id": "daacac39-eca8-4ef4-b6e6-bdaa4fbb389d",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507531.0693.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:19.882157+00:00"
+    },
+    {
+      "id": "c3c62143-e376-4c14-b9ab-b357313c59e5",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508336.5417.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:20.458786+00:00"
+    },
+    {
+      "id": "416308b8-531a-4e8a-8386-f80cdbcc3aca",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500402.3843.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:14.766166+00:00"
+    },
+    {
+      "id": "25e8a5fb-2d1e-449a-be2f-b8fb7a3f9c02",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501452.0938.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:15.508552+00:00"
+    },
+    {
+      "id": "c80f8200-dfa2-462a-afe2-07bcf208f91d",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502186.912.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:16.090488+00:00"
+    },
+    {
+      "id": "0158e754-00fb-41e3-861c-70b54cbc6433",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132502741.1074.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:16.528393+00:00"
+    },
+    {
+      "id": "d5dc538d-9069-4407-a818-fcd338b490d0",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132504140.0872.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:17.413518+00:00"
+    },
+    {
+      "id": "fea3f5c2-0c48-4357-a53e-609cef8f10b2",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505801.8481.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:18.430347+00:00"
+    },
+    {
+      "id": "6cebbf43-d8f7-448d-b0f6-93cb70010834",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132506674.1753.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:19.141525+00:00"
+    },
+    {
+      "id": "7655eae7-a2f4-4e6b-a811-338ecf38b7af",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507370.8955.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:19.730498+00:00"
+    },
+    {
+      "id": "33925088-6a8b-4cb9-a999-ff62f2eb5293",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508186.779.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:20.310259+00:00"
+    },
+    {
+      "id": "871d8dc0-4d40-448e-9f5b-2898b2672f8f",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132508721.9062.png",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:20.750064+00:00"
+    },
+    {
+      "id": "62800a5d-a221-42d1-b170-788ef2f4e9c0",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500053.7664.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:14.474966+00:00"
+    },
+    {
+      "id": "a9364fd1-e35e-4748-8489-31d2048017e1",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132500940.0193.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:15.062758+00:00"
+    },
+    {
+      "id": "0989c503-490e-4df4-97ed-f4c3db367076",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132501106.364.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:15.221808+00:00"
+    },
+    {
+      "id": "e5e85b60-52c2-456b-9257-641df542e587",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132503661.0122.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:17.125554+00:00"
+    },
+    {
+      "id": "ee0b864e-ba61-45b4-ae67-dc7014906aed",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505041.6394.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:17.846887+00:00"
+    },
+    {
+      "id": "c154430e-a62c-41ee-a403-af1031098d46",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132505627.084.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:18.282641+00:00"
+    },
+    {
+      "id": "bfa77070-4706-4f17-91b5-c00fd0a71128",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132506165.6057.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:18.747354+00:00"
+    },
+    {
+      "id": "b374f3b7-7e41-4d96-b182-16c8278a7a95",
+      "entity_id": "458ef3dd-c633-43b2-81f5-8724e8229440",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/458ef3dd-c633-43b2-81f5-8724e8229440/458ef3dd-c633-43b2-81f5-8724e8229440_1779132507776.7537.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:20.025535+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

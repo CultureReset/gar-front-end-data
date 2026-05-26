@@ -1,32 +1,237 @@
 {
-  "id": "c530aa26-7b70-48b7-a570-5101d362f8eb",
-  "slug": "gulf-state-park-jNqW-k",
-  "name": "Gulf State Park",
-  "entity_type": "park",
-  "entity_subtype": "state_park",
-  "icon": "🏪",
-  "description": "Serene park with beaches, trails & pier fishing plus tennis, golf & a zip line above the dunes.",
-  "phone": "(251) 948-7275",
-  "email": null,
-  "website_url": "https://www.alapark.com/parks/gulf-state-park",
-  "address_line_1": "243 Campground Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.8,
-  "review_count": 106,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "c530aa26-7b70-48b7-a570-5101d362f8eb",
+    "place_id": "ChIJL97tJqwFmogRCbYE_jNqW-k",
+    "google_maps_uri": "https://maps.google.com/?cid=16815150405255476745&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "gulf-state-park-jNqW-k",
+    "name": "Gulf State Park",
+    "subtitle": null,
+    "entity_type": "park",
+    "entity_subtype": "state_park",
+    "secondary_types": [],
+    "google_type": "state_park",
+    "google_types": [
+      "state_park",
+      "hotel",
+      "park",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-7275",
+    "international_phone": null,
+    "website_url": "https://www.alapark.com/parks/gulf-state-park",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "243 Campground Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2650669,
+    "longitude": -87.6386523,
+    "short_address": "243 Campground Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 106,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Serene park with beaches, trails & pier fishing plus tennis, golf & a zip line above the dunes.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.804093+00:00",
+    "updated_at": "2026-05-17T21:54:59.871987+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "78d381d1-e27a-49b9-99d8-3acaa5986370",
+      "tag": "state_park",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "94aefb3b-23ca-4a02-b67f-0eeebede977f",
+      "tag": "state_park",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "38286cfd-1d4d-47a8-9629-55feadba9d48",
+      "tag": "park",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "cff8fd6e-758a-4315-997a-c7efe826456a",
+      "tag": "park",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "01626238-d6cd-454f-862a-0f96cc31a787",
+      "tag": "hotel",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "9321d394-6f93-45ff-af3c-123637ec8326",
+      "tag": "hotel",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "c5515a21-5db1-4ff2-9e19-b59d187b1df9",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "f43e57c4-0434-4c95-96ee-2d271aa03018",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "888d1c32-aff8-43aa-96a3-2dbf98d5be4e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "f3016408-04e3-4ffa-81d0-3279c3369796",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "29073b92-b3b1-4864-8ed4-f5671967118a",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "a3302b35-8546-433e-bc00-c79c57ce6582",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "9dd917f1-cd18-4c06-abb1-add6082f32d6",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

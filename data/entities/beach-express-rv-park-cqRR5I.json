@@ -1,133 +1,462 @@
 {
-  "id": "7c8ab4bc-887b-4b67-9749-0bc39c99c408",
-  "slug": "beach-express-rv-park-cqRR5I",
-  "name": "Beach Express RV Park",
-  "entity_type": "park",
-  "entity_subtype": "park",
-  "icon": "🏪",
-  "description": "Welcome to Beach Express RV Park, where we invite you to \"Park it and enjoy!\" Nestled just minutes from Alabama's stunning Gulf of Mexico beaches, our RV park is ideally situated for an unforgettable coastal getaway. Discover everything you love nearby, from the Tanger Outlet Mall, thrilling adventures at OWA, and fresh Gulf seafood to world-class deep-sea fishing. Beach Express RV Park is your ideal destination to unwind and enjoy a relaxing vacation.",
-  "phone": "(251) 970-7277",
-  "email": null,
-  "address_line_1": "22225 US-98, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "http://beachexpressrvpark.com/",
-  "rating": 3.8,
-  "review_count": 108,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "7c8ab4bc-887b-4b67-9749-0bc39c99c408",
+    "place_id": "ChIJNco3bJkOmogRUCyoMcqRR5I",
+    "google_maps_uri": "https://maps.google.com/?cid=10540553750486461520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "beach-express-rv-park-cqRR5I",
+    "name": "Beach Express RV Park",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "rentals",
+    "secondary_types": [],
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 970-7277",
+    "international_phone": null,
+    "website_url": "http://beachexpressrvpark.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "22225 US-98, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.4077295,
+    "longitude": -87.6457229,
+    "short_address": "22225 US-98, Foley",
+    "plus_code": null,
+    "rating": 3.8,
+    "review_count": 108,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Welcome to Beach Express RV Park, where we invite you to \"Park it and enjoy!\" Nestled just minutes from Alabama's stunning Gulf of Mexico beaches, our RV park is ideally situated for an unforgettable coastal getaway. Discover everything you love nearby, from the Tanger Outlet Mall, thrilling adventures at OWA, and fresh Gulf seafood to world-class deep-sea fishing. Beach Express RV Park is your ideal destination to unwind and enjoy a relaxing vacation.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/beachexpressrvpark",
+    "social_facebook": "https://www.facebook.com/815174811843811",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.112133+00:00",
+    "updated_at": "2026-05-17T21:17:43.260296+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
-      "tag": "Rentals",
-      "tag_category": "category"
-    },
-    {
-      "tag": "rentals",
-      "tag_category": "type"
-    },
-    {
-      "tag": "rv_park",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "lodging",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "ba3aa771-4a32-47b9-ad10-8755469b69c5",
       "tag": "RV park",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "6832269d-298c-4eac-a2c0-c29ef322669b",
+      "tag": "RV park",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "6d035e6b-7f45-4adc-a15f-2690b195448f",
       "tag": "campground",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "b9b99380-0acc-4422-a851-0497e5f0128d",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "618c9f2b-c41f-4286-82d7-c0e3d5db6ced",
       "tag": "travel trailer",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "0e358377-b9f6-4cc8-ba26-a89dcd919911",
+      "tag": "travel trailer",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "0bfffc2a-d87a-419d-ad7f-c62404808a5e",
       "tag": "fifth wheel",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "a03d1d0f-5806-4b3a-8345-21ec4ae18891",
+      "tag": "fifth wheel",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "74e1c091-4366-4d5b-b9d8-48500433f553",
       "tag": "motorhome",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "9fb6b88e-a0f4-457a-b3c3-1e6847524c8a",
+      "tag": "motorhome",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "fd4137e0-0bd9-4ff9-b430-196742847bc9",
       "tag": "full hookups",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "2faf16e3-d268-448f-80c9-80452115237c",
+      "tag": "full hookups",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "be7bb286-6fe6-4c57-b25f-1db93e303f62",
       "tag": "Alabama",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "4a6b006e-2ea2-4a32-8b00-9902c11d2467",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "22a49651-3e45-411a-9e1a-2e3b1ba0e5fe",
       "tag": "Foley",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "e4cf29eb-d89c-49e9-87f2-cecb6c26bcc5",
+      "tag": "Foley",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "1063785d-4646-40ac-a751-c0b036bb4175",
       "tag": "Gulf Shores",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
+      "id": "b0d5455f-9cdf-480c-b00b-68378af00bbb",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "61e59c8d-4313-42b6-bcbb-a8e25dbb49e2",
       "tag": "Orange Beach",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 9
     },
     {
+      "id": "f51bd332-1787-44a1-9099-d49816d98e33",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "0fe27bad-3f50-4dcc-b870-e48de9314d6d",
       "tag": "camping",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "05ed0544-8ceb-4779-926d-1153e6bf0d0d",
+      "tag": "camping",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "890e4a67-7b02-4ecd-9001-23e6828eee30",
       "tag": "coastal getaway",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 11
     },
     {
+      "id": "44d69952-2c85-4c33-99a9-fe6b6b700275",
+      "tag": "coastal getaway",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "4db91159-6009-4bac-87e9-b324665178db",
       "tag": "beach vacation",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 12
     },
     {
+      "id": "0a93c54b-1d6a-4732-9ea1-1c0f90a0962a",
+      "tag": "beach vacation",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "fdda3f1c-f901-4d3d-b4eb-81e4eb2f0165",
       "tag": "Rentals",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 13
     },
     {
+      "id": "a1d9dee5-62ce-498a-8fff-bcf0e6eaac4e",
+      "tag": "Rentals",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "ed2082cc-89d8-449c-88f3-4df6e42e31a6",
       "tag": "Campgrounds and RV Parks",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 14
     },
     {
+      "id": "b76d5006-4892-4a82-96f7-387675664b09",
+      "tag": "Campgrounds and RV Parks",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "ae2d0d9e-57ed-44ae-a3a0-3a0b6951aa17",
       "tag": "Accommodations",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 15
     },
     {
+      "id": "425af737-fbcb-4fe1-996d-3762643f27a5",
+      "tag": "Accommodations",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "6321f3a4-bcd1-47b2-87a6-6dd722fdf476",
       "tag": "Travel & Tourism",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 16
     },
     {
+      "id": "067f3155-187e-4464-b15e-56b4b460be70",
+      "tag": "Travel & Tourism",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "f2a78306-8a30-4041-b99f-b62068bfcbc4",
       "tag": "outdoor-recreation",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 17
+    },
+    {
+      "id": "e9cce300-d0f8-4a1c-a3ac-6c7760045b27",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 17
+    },
+    {
+      "id": "fb06fb3a-efa5-41aa-830e-069c24354761",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "4cb4e348-929d-49e0-b2b2-2cc278f1b33a",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "47af358b-8a30-4631-a69b-a82d9b6f7cea",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "412059cf-9f84-402f-ac8c-ee4fb41eb15a",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "8424ffd9-35eb-4fe6-a61a-5ad90c9c903b",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "356faa9d-70fe-48b6-8e69-611507f91de4",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "58cfaa8b-00a6-42af-9b7f-895ad3716149",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "26e3d4a3-6686-4ee7-b247-fefab9929313",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "a9dde564-698e-4caf-bfec-d10f50c5104c",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "afc76d86-5e4d-4e0e-91cc-1901a3f1c418",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "f6e62ac0-4d8b-4275-8d88-994647b3e98e",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "952cc98d-ecb4-4cc5-a933-7663abefd8c9",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 23
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "0a74c0f6-9b70-4665-bb77-5468fad50081",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

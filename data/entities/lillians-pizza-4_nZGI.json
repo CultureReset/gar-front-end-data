@@ -1,190 +1,779 @@
 {
-  "id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
-  "slug": "lillians-pizza-4_nZGI",
-  "name": "Lillian’s Pizza",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Welcome to Lillian's Pan Pizza, located in Perdido Key in Pensacola, Florida. Known as a favorite eating-place for locals and tourists alike, Lillian's is one of the best pizza restaurants you'll try! We encourage you to bring the entire family for exceptional dining while enjoying the view and the atmosphere of beautiful Perdido Key beach. Chef Isnar personally hand makes our pizza dough every morning, and any left over dough is thrown out. The recipe is secret, and anyone who has eaten a pizza at Lillian's will testify to its quality and taste. This is probably why Lillian's has been featured in several well-known magazines, such as Pizza Today Magazine, 2002 and 2004, featured in \"The Hot 100 Independents.\" Additional awards include Award of Culinary Excellence, 1998 in \"Taste of the Times,\" and Best Seafood Pizza, 2002. As Lillian says, \"While our pizzas are known to be excellent, we also have pasta, salads and sandwiches that will please everyone from the gourmet to the vegetarian.\" Visit Lillian's Pan Pizza today! Our team of professionals make all of our dough, meatballs and lasagna by hand using the freshest ingredients every single day. We are not only known for pizza, calzones and strombolis, our other offerings include specialty pastas, signature salads, sandwiches and wings. Don't forget our homemade Ranch dressing! We can accommodate any party, large or small, in our spacious indoor or outdoor seating areas.",
-  "phone": "(850) 492-0131",
-  "email": null,
-  "address_line_1": "14514 Perdido Key Dr, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": "http://www.lillianspizza.com/",
-  "rating": 4.4,
-  "review_count": 3330,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139545830.8374.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+    "place_id": "ChIJX-UjrECvkIgRIWzBc4_nZGI",
+    "google_maps_uri": "https://maps.google.com/?cid=7090046316696398881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "lillians-pizza-4_nZGI",
+    "name": "Lillian’s Pizza",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "pizza_restaurant",
+    "google_types": [
+      "pizza_restaurant",
+      "live_music_venue",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 492-0131",
+    "international_phone": null,
+    "website_url": "http://www.lillianspizza.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "14514 Perdido Key Dr, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.2960107,
+    "longitude": -87.4452461,
+    "short_address": "14514 Perdido Key Dr, Pensacola",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 3330,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Down-to-earth spot near the beach, offering pizza, casual Italian dishes & sandwiches, plus a patio.",
+    "description": "Welcome to Lillian's Pan Pizza, located in Perdido Key in Pensacola, Florida. Known as a favorite eating-place for locals and tourists alike, Lillian's is one of the best pizza restaurants you'll try! We encourage you to bring the entire family for exceptional dining while enjoying the view and the atmosphere of beautiful Perdido Key beach. Chef Isnar personally hand makes our pizza dough every morning, and any left over dough is thrown out. The recipe is secret, and anyone who has eaten a pizza at Lillian's will testify to its quality and taste. This is probably why Lillian's has been featured in several well-known magazines, such as Pizza Today Magazine, 2002 and 2004, featured in \"The Hot 100 Independents.\" Additional awards include Award of Culinary Excellence, 1998 in \"Taste of the Times,\" and Best Seafood Pizza, 2002. As Lillian says, \"While our pizzas are known to be excellent, we also have pasta, salads and sandwiches that will please everyone from the gourmet to the vegetarian.\" Visit Lillian's Pan Pizza today! Our team of professionals make all of our dough, meatballs and lasagna by hand using the freshest ingredients every single day. We are not only known for pizza, calzones and strombolis, our other offerings include specialty pastas, signature salads, sandwiches and wings. Don't forget our homemade Ranch dressing! We can accommodate any party, large or small, in our spacious indoor or outdoor seating areas.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139545830.8374.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/LilliansPizza",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": {
+        "categories": [
+          {
+            "name": "Pizza",
+            "items": []
+          },
+          {
+            "name": "Pastas",
+            "items": []
+          },
+          {
+            "name": "Sandwiches",
+            "items": []
+          },
+          {
+            "name": "Wings",
+            "items": []
+          },
+          {
+            "name": "Salads",
+            "items": []
+          },
+          {
+            "name": "Calzones",
+            "items": []
+          },
+          {
+            "name": "Strombolis",
+            "items": []
+          }
+        ]
+      },
+      "hours": {
+        "friday": "11am-9pm",
+        "monday": "11am-9pm",
+        "sunday": "11am-10pm",
+        "tuesday": "11am-9pm",
+        "saturday": "11am-10pm",
+        "thursday": "11am-9pm",
+        "wednesday": "11am-9pm"
+      },
+      "images": [],
+      "contact": {
+        "zip": "32507",
+        "city": "Pensacola",
+        "email": null,
+        "phone": "(850) 492-0131",
+        "state": "FL",
+        "address": "14514 Perdido Key Dr.",
+        "website": "https://lillianspizza.com"
+      },
+      "features": [
+        "full bar",
+        "outdoor seating",
+        "indoor seating",
+        "takeout",
+        "delivery",
+        "live music",
+        "daiquiri bar",
+        "homemade dough",
+        "homemade meatballs",
+        "homemade lasagna",
+        "gift cards",
+        "online ordering"
+      ],
+      "specials": [
+        {
+          "days": [
+            "Monday"
+          ],
+          "name": "Monday Specials",
+          "time": null,
+          "description": "$1 off Buffet, Margarita Monday $6, $6 Margarita Monday (frozen or on the rocks)"
+        },
+        {
+          "days": [
+            "Tuesday"
+          ],
+          "name": "Tuesday Specials",
+          "time": null,
+          "description": "All Sandwiches 15% Off"
+        },
+        {
+          "days": [
+            "Wednesday"
+          ],
+          "name": "Wednesday Specials",
+          "time": null,
+          "description": "Build Your Own Pizza 15% Off"
+        },
+        {
+          "days": [
+            "Thursday"
+          ],
+          "name": "Thursday Specials",
+          "time": null,
+          "description": "50% off Wine by the Glass or Bottle, All Specialty Pastas 15% Off"
+        },
+        {
+          "days": [
+            "Friday"
+          ],
+          "name": "Friday Specials",
+          "time": null,
+          "description": "Any 1 Topping Pizza 15% Off, Big Dave Meat Pizza 15% Off, $7 Frozen Friday - All 15oz Daiquiris $7"
+        },
+        {
+          "days": [
+            "Saturday",
+            "Sunday"
+          ],
+          "name": "Saturday & Sunday Specials",
+          "time": null,
+          "description": "Lillian's Supreme Pizza 15% Off, Chicken Wings 15% Off, $5 draft all day"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "name": "Buffet",
+          "time": "11am-2pm",
+          "description": "Pizza and salad buffet $13.99 adults and $7.99 kids"
+        },
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+          ],
+          "name": "Weekday Happy Hour",
+          "time": "5pm-9pm",
+          "description": "$5 draft, $4 domestic bottle, $6 import bottle and 50% off daiquiris"
+        }
+      ],
+      "description": "Welcome to Lillian's Pizza, located on Perdido Key in Pensacola, Florida. Lillian's is known as a favorite eating-place for locals and visitors since 1989. Our team of professionals make all of our dough, meatballs and lasagna by hand using the freshest ingredients every single day. We are not only known for pizza, calzones and strombolis, our other offerings include specialty pastas, signature salads, sandwiches and wings. Don't forget our homemade Ranch dressing! We can accommodate any party, large or small, in our spacious indoor or outdoor seating areas.",
+      "price_range": null,
+      "cuisine_type": "Italian, Pizza",
+      "extracted_at": "2026-05-16T19:27:47.465Z",
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Lillians Pizza"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "consolidation",
+      "all-businesses",
+      "scraped-menus",
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "raw-page-data"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139546278.44.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139546627.8022.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139546922.6638.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139547242.5254.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139547655.8867.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139548098.6667.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139548470.054.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139549053.7788.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139549607.4321.jpg"
+    ],
+    "created_at": "2026-05-17T21:14:28.112197+00:00",
+    "updated_at": "2026-05-18T21:25:54.575407+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131414690.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131830633.0684.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131832413.7244.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139546922.6638.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139549053.7788.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131829688.5413.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131831090.712.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139545830.8374.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139547655.8867.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131830428.539.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131832066.3918.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139546627.8022.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139548470.054.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131830021.0042.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131831665.4512.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139546278.44.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139548098.6667.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131830815.5588.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131832683.1562.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139547242.5254.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139549607.4321.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "0921e202-c49a-48be-9b16-d4f31e1cdb02",
       "tag": "food-and-drink",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 0
     },
     {
-      "tag": "restaurant",
-      "tag_category": "type"
-    },
-    {
-      "tag": "pizza_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "live_music_venue",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "bar",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "event_venue",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "f5af57d7-906b-4802-94c1-a4d066e30123",
       "tag": "food-and-drink",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 0
     },
     {
+      "id": "df3648e4-a144-4837-9ac6-11d8f953fe63",
       "tag": "restaurant",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "3a114197-7a36-43c3-aeb4-af42e4b26adb",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "e8378bd0-d340-4ac1-8e7a-37050d1cc5b4",
       "tag": "pizza_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "59c70714-1c2d-4216-af07-6fff73e31eed",
+      "tag": "pizza_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "d934f87e-edfc-4866-aa52-d0117aa0b9ad",
       "tag": "live_music_venue",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "a8017060-556a-4a77-8dc7-71e696a05016",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "05c38347-a492-4eaa-a564-00568469f96c",
       "tag": "bar",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "bbcb5b4e-7fcf-4484-a888-5c5a4616c5b4",
+      "tag": "bar",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "06777ba5-9ab5-40cd-9dae-c264b40a7177",
       "tag": "event_venue",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "b3bd148e-eef4-4ac6-a701-59105bfa7013",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "f9337fc3-3ae6-45bf-a9d2-e1b7e4af5465",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "da0fe5d3-c991-4f59-9a52-c32b0463b249",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "db80c5a5-4ab8-4b4d-82d5-8fd4a74851ce",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "60c31daf-03fc-4e26-9ded-27bd3809a023",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "6c2217e0-60f5-4e1e-b440-9634b99490b6",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "d3e3f0be-4026-4f80-a90e-9ae26763a5b3",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 8
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "b9778c16-a6f4-460a-8b4c-c6e2f64f4953",
+      "section_key": "events",
+      "section_label": "Events",
+      "section_type": "events",
+      "sort_order": 10
+    },
+    {
+      "id": "0d155163-d549-4f19-8798-eacb476a1f99",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "b8d9b69f-2081-48ac-be29-a6ceee12d90b",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131414690.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:17.319629+00:00"
+    },
+    {
+      "id": "4ba6959d-74e1-460d-8c0b-7462a102128f",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131830633.0684.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:17.905494+00:00"
+    },
+    {
+      "id": "7ce1271b-992e-46be-9f59-ad7af08f62a7",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131832413.7244.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:18.641477+00:00"
+    },
+    {
+      "id": "1f348d12-71d6-4122-b75e-b0db1e45d240",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139546922.6638.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:19.395938+00:00"
+    },
+    {
+      "id": "8b2831e7-2b78-4849-afa3-bd264780c972",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139549053.7788.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:20.132143+00:00"
+    },
+    {
+      "id": "488dbab2-efb3-4bce-b74c-ae4cc0c334e5",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131829688.5413.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:17.465479+00:00"
+    },
+    {
+      "id": "6ca6473a-3a09-4ba4-9375-d4f12cee01d4",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131831090.712.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:18.206377+00:00"
+    },
+    {
+      "id": "4354ff1c-5e65-40d5-a585-cb7588d1a62f",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139545830.8374.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:18.932414+00:00"
+    },
+    {
+      "id": "b2997582-9a47-4da9-932a-f7d060282e4d",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139547655.8867.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:19.68319+00:00"
+    },
+    {
+      "id": "df325d5d-0c03-457c-ac0e-ad9f908761dd",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131830428.539.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:17.753863+00:00"
+    },
+    {
+      "id": "29be2885-0a1f-4a46-86d7-13be0ea523a7",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131832066.3918.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:18.493752+00:00"
+    },
+    {
+      "id": "52b15f3c-9ca9-45c9-8e1a-fd4ea50fb2f3",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139546627.8022.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:19.25366+00:00"
+    },
+    {
+      "id": "787923db-2177-4805-9eaa-88020d925416",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139548470.054.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:19.982623+00:00"
+    },
+    {
+      "id": "f0c05e28-60da-4119-a053-5a3d3c27d4b5",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131830021.0042.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:17.6095+00:00"
+    },
+    {
+      "id": "9ffcb8f2-bba0-4e4f-b322-5062feff86b7",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131831665.4512.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:18.35025+00:00"
+    },
+    {
+      "id": "b8b9539b-8522-47c5-9f0a-d11abf51cd4b",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139546278.44.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:19.092905+00:00"
+    },
+    {
+      "id": "4c6fd922-a9ba-4900-84c8-ae7d4877e69a",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139548098.6667.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:19.833505+00:00"
+    },
+    {
+      "id": "4c93dce6-f83c-4d10-9353-5e466fd6df1a",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131830815.5588.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:18.061113+00:00"
+    },
+    {
+      "id": "dad4f009-2a9b-4535-88d9-521ad1d2e51c",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779131832683.1562.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:18.786683+00:00"
+    },
+    {
+      "id": "66af314e-73e6-4d5f-8811-4d02d6dae91a",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139547242.5254.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:19.539623+00:00"
+    },
+    {
+      "id": "2eb8008b-d718-4584-9bf5-a7bbfdc49014",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c/5fa7e60f-32d6-41cc-b5ac-5271e7ff926c_1779139549607.4321.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:20.285698+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": [
+      {
+        "id": "4ab2c0d8-e454-4c5f-b062-a4eeaddc3717",
+        "item_name": "Happy Hour",
+        "description": "Happy Hour",
+        "price_text": "",
+        "hh_price": null
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "adcb793d-8ae1-4469-b4ba-47667ab2c872",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "event_name": "Brennan Lowery | Lillian's Pizza | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Brennan Lowery",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Lillian's Pizza",
+      "day_of_week": null,
+      "event_date": "2026-05-29",
+      "start_time": "18:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "e2c5f30a-2ef9-447d-b372-28fddf332ddc",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "event_name": "Brooks Johnson | Lillian's Pizza | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Brooks Johnson",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Lillian's Pizza",
+      "day_of_week": null,
+      "event_date": "2026-05-30",
+      "start_time": "18:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "9b6588e8-57be-4470-abdd-7aa39c52b085",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "event_name": "David Wiley | Lillian's Pizza | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "David Wiley",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Lillian's Pizza",
+      "day_of_week": null,
+      "event_date": "2026-05-31",
+      "start_time": "18:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "4dda5201-abbd-43e9-8612-b5a3f3d3a531",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "event_name": "Brennan Lowery | Lillian's Pizza | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Brennan Lowery",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Lillian's Pizza",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "e93b3251-21e7-42e5-a872-d6c6bd037c75",
+      "entity_id": "5fa7e60f-32d6-41cc-b5ac-5271e7ff926c",
+      "place_id": null,
+      "event_name": "David Wiley | Lillian's Pizza | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "David Wiley",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Lillian's Pizza",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

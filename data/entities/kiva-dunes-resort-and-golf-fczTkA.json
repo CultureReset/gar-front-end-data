@@ -1,32 +1,678 @@
 {
-  "id": "3110aa7b-f7fd-4280-910b-837048e7fb69",
-  "slug": "kiva-dunes-resort-and-golf-fczTkA",
-  "name": "Kiva Dunes Resort and Golf",
-  "entity_type": "hotel",
-  "entity_subtype": "hotel",
-  "icon": "🏪",
-  "description": "Casual houses & condos on waterfront property with 4 pools, a golf course, a private beach & dining.",
-  "phone": "(251) 540-7000",
-  "email": null,
-  "website_url": "http://www.kivadunes.com/",
-  "address_line_1": "815 Plantation Rd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 836,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3110aa7b-f7fd-4280-910b-837048e7fb69/3110aa7b-f7fd-4280-910b-837048e7fb69_1779139787477.8606.jpg",
-  "photos": [],
+  "entity": {
+    "id": "3110aa7b-f7fd-4280-910b-837048e7fb69",
+    "place_id": "ChIJOfGe1CsimogRG6SU3fczTkA",
+    "google_maps_uri": "https://maps.google.com/?cid=4633698206278263835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "kiva-dunes-resort-and-golf-fczTkA",
+    "name": "Kiva Dunes Resort and Golf",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "hotel",
+    "secondary_types": "",
+    "google_type": "resort_hotel",
+    "google_types": [
+      "resort_hotel",
+      "golf_course",
+      "hotel",
+      "athletic_field",
+      "real_estate_agency",
+      "travel_agency",
+      "lodging",
+      "sports_activity_location",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 540-7000",
+    "international_phone": null,
+    "website_url": "http://www.kivadunes.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "815 Plantation Rd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2348687,
+    "longitude": -87.8896718,
+    "short_address": "815 Plantation Rd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 836,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Casual houses & condos on waterfront property with 4 pools, a golf course, a private beach & dining.",
+    "description": "Casual houses & condos on waterfront property with 4 pools, a golf course, a private beach & dining.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3110aa7b-f7fd-4280-910b-837048e7fb69/3110aa7b-f7fd-4280-910b-837048e7fb69_1779139787477.8606.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/kivadunes",
+    "social_facebook": "https://www.facebook.com/KivaDunes",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "structured-data",
+      "gcr-import-ready",
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:27.38073+00:00",
+    "updated_at": "2026-05-18T21:29:52.344932+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "4dea9758-f51f-4a22-b361-5288050b50fa",
+      "tag": "gulf shores resort",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "ec1a2579-7c75-4872-a943-290838b7a511",
+      "tag": "gulf shores resort",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "f45db60e-29c3-4c29-ad0d-1090e0ce8803",
+      "tag": "vacation rentals",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "c3891b9e-90e6-479c-b8b8-f80280f26000",
+      "tag": "vacation rentals",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "0f99a81a-33c2-4a24-ad1f-56541a7485dc",
+      "tag": "golf course",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "238d3811-c32c-4766-964e-9fe516998320",
+      "tag": "golf course",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "84a0fe93-24d0-420b-a4b4-d5a7504936b7",
+      "tag": "beach resort",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "659eb50a-c9ef-46ff-92d5-3b0790dfbc6c",
+      "tag": "beach resort",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "7d12f3f0-16df-4796-b877-4bde3061f3e0",
+      "tag": "alabama golf",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "757b42cd-0470-4c97-9f6f-85e7c7f46c7f",
+      "tag": "alabama golf",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "e99cd2bd-2bae-4e6b-a6c5-a6c60cfef57a",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "b5a465af-4cb0-4fc3-8703-04c797a18954",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "d212bf64-9b51-418f-844c-9b7a1e70340a",
+      "tag": "beach homes",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "8850ffdc-f55b-4aef-a3ae-0ee2b1ea0a3e",
+      "tag": "beach homes",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "915f2224-9648-44ab-9536-9b5ecab0e8de",
+      "tag": "stay and play packages",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "4abef589-97be-4519-9476-ffb4c9dc22fb",
+      "tag": "stay and play packages",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "875ae2cd-dd1f-4388-85b6-44c0b8c643a2",
+      "tag": "private beach",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "8d058950-80b1-4ec9-8b69-b1b14d79be8d",
+      "tag": "private beach",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "cb87b558-b252-4e86-b43f-19b263935172",
+      "tag": "luxury resort",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "50df2117-7f35-4055-a23c-963dc76b081f",
+      "tag": "luxury resort",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "d6637b11-7ee8-48b2-bd0e-6fd093603340",
+      "tag": "Resorts",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "5117b5dc-9434-41f8-ab35-1402bf8a31e2",
+      "tag": "Resorts",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "588fd623-500b-4428-b5ac-5a3dda321157",
+      "tag": "Vacation Rentals",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "14f3ff23-a506-498a-9787-bc820a124b3b",
+      "tag": "Vacation Rentals",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "0be7f2fb-c7ea-4fb4-aeff-87e1bb06a433",
+      "tag": "Golf Courses",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "86f14159-c3af-43cf-a652-dc4599456184",
+      "tag": "Golf Courses",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "b54222c5-615e-4033-b02e-e22ea6357f47",
+      "tag": "Accommodations",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "4e4f1fd1-6ff8-43b8-a65a-b6ba1ed6faa5",
+      "tag": "Accommodations",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "54160d23-c0f9-497b-9fe4-25a41821b551",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "df13d821-89e2-436a-ab1b-3784e2c194e7",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "e57cfb4b-f8d3-48d1-9905-c841eea21569",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "4230d310-ca37-46f8-bf6b-1c13afd4ee13",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "414740f5-7190-4b88-bc53-78e44b2bfa0f",
+      "tag": "Beaches",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "8a2a6c0c-0506-4a90-b22e-a2206aa749c4",
+      "tag": "Beaches",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "886f977f-3be4-4956-be29-dd7cf2d9c45c",
+      "tag": "Hotels & Lodging",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "e2ed52ec-89c8-4071-ad50-1127e1ce61bb",
+      "tag": "Hotels & Lodging",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "c5ab36db-d1e8-46e4-b71e-e098ff6c70a7",
+      "tag": "hospitality-tourism",
+      "tag_category": "industry",
+      "sort_order": 18
+    },
+    {
+      "id": "e8dda0a7-4fb2-4035-9ebd-84ecbb5ef844",
+      "tag": "hospitality-tourism",
+      "tag_category": "industry",
+      "sort_order": 18
+    },
+    {
+      "id": "380e0e17-bc68-4a10-b340-37381d629a71",
+      "tag": "resort",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "a063df34-248b-416b-b68e-f84284334e72",
+      "tag": "resort",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "dd884b67-99d6-4bc4-b420-ab8fe099bf4d",
+      "tag": "resort hotel",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "3fde5d77-db4a-4c62-b80c-f762efb21994",
+      "tag": "resort hotel",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "53d463d3-1a86-44bb-880b-61f9f31f542d",
+      "tag": "hotel",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "2bec7447-ab71-4cf7-804d-dcca74700539",
+      "tag": "hotel",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "513c80a6-c5e3-45f4-b3e8-dba731bb93a8",
+      "tag": "athletic field",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "b4869de9-a0f5-4e22-b205-c267dc98c732",
+      "tag": "athletic field",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "1c78e27c-9e93-492f-ae48-a50488dd5893",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "53774fd7-596b-499f-a17d-625dc05a0154",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "b2a689e7-6e70-4e89-a9e2-b51b89909ec5",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "87928383-ebf5-4adf-96bc-6ab77227baa5",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "15d78739-5426-44a6-947e-d1533ac60393",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "567053d3-812b-48be-9294-70b8e19649ae",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "576ae580-1722-419d-8bb5-790e819c620e",
+      "tag": "sports activity location",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "cb266e93-23e3-4e24-a6bb-464bac914a5c",
+      "tag": "sports activity location",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "e203d39f-2cda-4040-9734-73c88d6617ad",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "5ff55c22-476c-4246-8613-44aafc8ba6e1",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "00bf39d3-e93d-4691-816b-9460b1a3c445",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "f36a5446-0d32-46d0-bbcf-4d57a5610286",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "45c83839-3bb7-4b10-9fc1-00570e642355",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 29
+    },
+    {
+      "id": "9f8e29b0-5246-4c39-9fb5-b50d8ccc303a",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 29
+    },
+    {
+      "id": "246fa7d5-42b7-4126-a2c5-202b73b3de1b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 30
+    },
+    {
+      "id": "fd366a64-4c3c-4f39-b927-8609459afe87",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 30
+    },
+    {
+      "id": "e4f51223-183b-446f-977f-5ac254ecbedb",
+      "tag": "resort_hotel",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "c665f205-f9a6-474c-b423-a6ad6919c276",
+      "tag": "resort_hotel",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "c01d4879-c237-4e8e-9bd5-dcce0145b689",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "9a4e0639-22c2-4c28-993c-66845ad54fe3",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "6dfb8923-c2da-4a0f-87ba-a4a240398eaf",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "ad8fa901-70bf-4bc4-ac05-37e99c2fad2f",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "22875d5f-8a76-4bfa-ab91-7ce38cc4873c",
+      "tag": "golf_course",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "588811fc-1ada-41d5-b4b6-3a5e31b6d3fa",
+      "tag": "golf_course",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "38b25241-2cf1-46fb-899b-2848797fc706",
+      "tag": "athletic_field",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "b946ed4d-c8ec-4ed2-88a5-5dae45c07a46",
+      "tag": "athletic_field",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "6da67f1e-c004-4822-ad42-9242976f5d63",
+      "tag": "sports_activity_location",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "5b3b5d9b-028d-4ee3-bcc4-c935671c990d",
+      "tag": "sports_activity_location",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "c7e5b429-3218-4be4-b5ce-295dfc731363",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "5f60d53f-0056-4c84-8194-4884a70f93a6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "4d52511b-723a-4e7d-9cbb-1a5cefc73fd5",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "51758e02-838e-484b-9c7c-671abd9b7fea",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 38
+    }
+  ],
+  "sections": [
+    {
+      "id": "5a51e426-c1bc-4a15-98c0-5982d9406121",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "05efa43a-62f6-401f-a554-89e3a33c60c8",
+      "entity_id": "3110aa7b-f7fd-4280-910b-837048e7fb69",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3110aa7b-f7fd-4280-910b-837048e7fb69/3110aa7b-f7fd-4280-910b-837048e7fb69_1779139787477.8606.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:10.075674+00:00"
+    },
+    {
+      "id": "6b2803f2-2788-4ee3-a82a-331c6bb5c594",
+      "entity_id": "3110aa7b-f7fd-4280-910b-837048e7fb69",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3110aa7b-f7fd-4280-910b-837048e7fb69/3110aa7b-f7fd-4280-910b-837048e7fb69_1779131502634.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:09.770064+00:00"
+    },
+    {
+      "id": "6e1cdd5c-d2c5-4484-a0fc-86b85e6b8627",
+      "entity_id": "3110aa7b-f7fd-4280-910b-837048e7fb69",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3110aa7b-f7fd-4280-910b-837048e7fb69/3110aa7b-f7fd-4280-910b-837048e7fb69_1779132043084.8728.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:09.931066+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

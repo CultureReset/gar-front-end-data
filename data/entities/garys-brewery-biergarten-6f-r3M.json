@@ -1,32 +1,467 @@
 {
-  "id": "91455d06-dda5-4595-a193-eb4cb94b5527",
-  "slug": "garys-brewery-biergarten-6f-r3M",
-  "name": "Gary's Brewery & Biergarten",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Family-owned, dog-friendly microbrewery and taproom offering 18 rotating taps of beer, cider, seltzer, and more, all crafted on site. Features a 1.3-acre beer garden, one of the largest in Florida, with cornhole, board games, and outdoor games. Also operates Gary's Home Brew Supply store offering brewing and winemaking ingredients and kits.",
-  "phone": "(850) 266-0858",
-  "email": null,
-  "address_line_1": "208 Newman Ave, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "AL",
-  "zip": null,
-  "website_url": "https://www.garysbrewery.com/brewery",
-  "rating": 4.9,
-  "review_count": 317,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/91455d06-dda5-4595-a193-eb4cb94b5527/91455d06-dda5-4595-a193-eb4cb94b5527_1779139746993.323.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "91455d06-dda5-4595-a193-eb4cb94b5527",
+    "place_id": "ChIJmVL-SIe7kIgR_JtJ46f-r3M",
+    "google_maps_uri": "https://maps.google.com/?cid=8336161432312323068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "garys-brewery-biergarten-6f-r3M",
+    "name": "Gary's Brewery & Biergarten",
+    "subtitle": null,
+    "entity_type": "bar",
+    "entity_subtype": "bar",
+    "secondary_types": [],
+    "google_type": "brewery",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 266-0858",
+    "international_phone": null,
+    "website_url": "https://www.garysbrewery.com/brewery",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "208 Newman Ave, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.3751336,
+    "longitude": -87.3193554,
+    "short_address": "208 Newman Ave, Pensacola",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 317,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Family-owned, dog-friendly microbrewery and taproom offering 18 rotating taps of beer, cider, seltzer, and more, all crafted on site. Features a 1.3-acre beer garden, one of the largest in Florida, with cornhole, board games, and outdoor games. Also operates Gary's Home Brew Supply store offering brewing and winemaking ingredients and kits.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/91455d06-dda5-4595-a193-eb4cb94b5527/91455d06-dda5-4595-a193-eb4cb94b5527_1779139746993.323.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": true,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 3:00 – 10:00 PM",
+      "Thursday: 3:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 12:00 – 8:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Non-Premium Beer",
+          "items": [
+            {
+              "name": "Pint (16 oz)",
+              "tags": [],
+              "price": 8,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "1/2 Pint (8 oz)",
+              "tags": [],
+              "price": 5,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Taster (5 oz)",
+              "tags": [],
+              "price": 3,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Pitcher (60 oz)",
+              "tags": [],
+              "price": 27,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Grunt Fill (32 oz)",
+              "tags": [],
+              "price": 14,
+              "dietary": [],
+              "popular": false,
+              "description": "Must be consumed off premises",
+              "subcategory": null
+            },
+            {
+              "name": "Growler Fill (64 oz)",
+              "tags": [],
+              "price": 25,
+              "dietary": [],
+              "popular": false,
+              "description": "Must be consumed off premises",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Premium Beer & Cider",
+          "items": [
+            {
+              "name": "Snifter (13 oz)",
+              "tags": [],
+              "price": 8,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Taster (5 oz)",
+              "tags": [],
+              "price": 5,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Pitcher (60 oz)",
+              "tags": [],
+              "price": 33,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Grunt Fill (32 oz)",
+              "tags": [],
+              "price": 17,
+              "dietary": [],
+              "popular": false,
+              "description": "Must be consumed off premises",
+              "subcategory": null
+            },
+            {
+              "name": "Growler Fill (64 oz)",
+              "tags": [],
+              "price": 28,
+              "dietary": [],
+              "popular": false,
+              "description": "Must be consumed off premises",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Beverages",
+          "items": [
+            {
+              "name": "Wine by the Glass",
+              "tags": [],
+              "price": 8,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Can of Soda",
+              "tags": [],
+              "price": 2,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Bottled Water",
+              "tags": [],
+              "price": 2,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Merchandise",
+          "items": [
+            {
+              "name": "Pint Glass",
+              "tags": [],
+              "price": 5,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Snifter Glass",
+              "tags": [],
+              "price": 7,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "T-shirt",
+              "tags": [],
+              "price": 27,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Hats",
+              "tags": [],
+              "price": 30,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "all-businesses",
+      "consolidation",
+      "gcr-organized",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.429275+00:00",
+    "updated_at": "2026-05-18T21:29:12.006482+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "3244f419-fc7c-4ebf-96bc-485f63a5da5f",
+      "tag": "brewery",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "b7d0e259-35c6-4c08-8657-acb4ea979482",
+      "tag": "beer_garden",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "b09b2260-cc4c-4ed5-8b18-608feb8a4eef",
+      "tag": "brewpub",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "2e7fa7d1-bd96-4f84-9186-ef76264173bf",
+      "tag": "pub",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "bbc148cc-d1d6-4860-98e7-56d5efdd72c2",
+      "tag": "wine_bar",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "4ae135f0-3040-4153-9a9b-6d4211cd616d",
+      "tag": "bar",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "0621c55b-6a2e-4902-9bfe-d73139030689",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "989454b2-8d1a-4bf3-a42e-92cabe9cfd13",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "481e9778-d4c8-4f56-8085-c5556cb35915",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "28537d2b-ce14-45a7-86e4-7b5d1be5970a",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "f0bdd143-17f1-4fc6-bd73-ed9b95c669d8",
+      "tag": "manufacturer",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "49a26440-63ba-4d29-b479-7238cb935247",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 11
+    }
+  ],
+  "sections": [
+    {
+      "id": "8d0fd34a-eae9-455f-9a81-b4d651da9944",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
   "photos": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "30f343e1-6996-4208-957a-49d1e69bdfb4",
+      "entity_id": "91455d06-dda5-4595-a193-eb4cb94b5527",
+      "place_id": null,
+      "event_name": "Shawn Williams | Gary’s Brewery & Biergarten | Pensacola",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Shawn Williams",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Gary’s Brewery & Biergarten",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

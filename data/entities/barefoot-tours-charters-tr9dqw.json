@@ -1,32 +1,441 @@
 {
-  "id": "5dd99925-3ff4-46fd-922a-77a06ea74614",
-  "slug": "barefoot-tours-charters-tr9dqw",
-  "name": "Barefoot Tours & Charters",
-  "entity_type": "activity",
-  "entity_subtype": "charter-fishing",
-  "icon": "🏪",
-  "description": "We spend our time with families and small groups to celebrate life, birthdays, anniversaries, proposals, vacation time, and other very special moments in life through our family boat trips. We see dolphins in the wild up close 85% of the time and we make memories 100% of the time. Joining us on our family boat trips doesn't guarantee seeing dolphins or other amazing wildlife like some companies offer, but it does promise realistic opportunities to create unforgettable memories while we search for dolphins in the wild in subtropical calm back bay waters. We are a small company of friends and family that work, live, go to school, and church together. We live off God's natural blessings and show you amazing places while we play, swim, see dolphins, go tubing, and more. We have served thousands of families over the years with our fishing charters, customizing our time with you to do what you want, at your pace, not ours! We hope to meet y'all soon! We offer unforgettable dolphin tours, fishing charters, jet ski adventures, wave runner excursions, sunset cruises, and special celebration boat tours along the scenic intercoastal waterways of Gulf Shores and Orange Beach, Alabama. Our mission is to help you and your family engage in outdoor exploration and create memories that last a lifetime.",
-  "phone": "(251) 609-3444",
-  "email": null,
-  "website_url": "https://www.barefootorangebeach.com/",
-  "address_line_1": "5749 Bay La Launch Ave Slip C5, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.9,
-  "review_count": 129,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5dd99925-3ff4-46fd-922a-77a06ea74614/5dd99925-3ff4-46fd-922a-77a06ea74614_1779139876468.3901.jpg",
-  "photos": [],
+  "entity": {
+    "id": "5dd99925-3ff4-46fd-922a-77a06ea74614",
+    "place_id": "ChIJn7NoGA6okIgRzjzI-tr9dqw",
+    "google_maps_uri": "https://maps.google.com/?cid=12427399338727587022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "barefoot-tours-charters-tr9dqw",
+    "name": "Barefoot Tours & Charters",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "charter-fishing",
+    "secondary_types": "",
+    "google_type": "tour_agency",
+    "google_types": [
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 609-3444",
+    "international_phone": null,
+    "website_url": "https://www.barefootorangebeach.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "5749 Bay La Launch Ave Slip C5, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.3093091,
+    "longitude": -87.5259556,
+    "short_address": "5749 Bay La Launch Ave Slip C5, Orange Beach",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 129,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "We spend our time with families and small groups to celebrate life, birthdays, anniversaries, proposals, vacation time, and other very special moments in life through our family boat trips. We see dolphins in the wild up close 85% of the time and we make memories 100% of the time. Joining us on our family boat trips doesn't guarantee seeing dolphins or other amazing wildlife like some companies offer, but it does promise realistic opportunities to create unforgettable memories while we search for dolphins in the wild in subtropical calm back bay waters. We are a small company of friends and family that work, live, go to school, and church together. We live off God's natural blessings and show you amazing places while we play, swim, see dolphins, go tubing, and more. We have served thousands of families over the years with our fishing charters, customizing our time with you to do what you want, at your pace, not ours! We hope to meet y'all soon! We offer unforgettable dolphin tours, fishing charters, jet ski adventures, wave runner excursions, sunset cruises, and special celebration boat tours along the scenic intercoastal waterways of Gulf Shores and Orange Beach, Alabama. Our mission is to help you and your family engage in outdoor exploration and create memories that last a lifetime.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5dd99925-3ff4-46fd-922a-77a06ea74614/5dd99925-3ff4-46fd-922a-77a06ea74614_1779139876468.3901.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/barefoot_tours",
+    "social_facebook": "https://www.facebook.com/109297029096961",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 7:00 PM",
+      "Tuesday: 8:00 AM���– 7:00 PM",
+      "Wednesday: 8:00 AM – 7:00 PM",
+      "Thursday: 8:00 AM – 7:00 PM",
+      "Friday: 8:00 AM – 7:00 PM",
+      "Saturday: 8:00 AM – 7:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "activities",
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "all-businesses",
+      "consolidation"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.540391+00:00",
+    "updated_at": "2026-05-18T21:31:21.353645+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "3a6922fa-1374-439c-a6da-e7b6e09233c7",
+      "tag": "dolphin tours",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "5767e9b2-1e42-4e94-8e55-31c25e404228",
+      "tag": "fishing charters",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "54a2b04d-26ed-4972-9bd4-01ce404dcb69",
+      "tag": "jet ski tours",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "1ab6ecca-32b1-460c-8c7e-5755ee56b799",
+      "tag": "wave runner rentals",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "cc016c2d-f0c5-4e6b-9fbe-b2093aa6082e",
+      "tag": "sunset cruises",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "e6f30926-9ca2-41ac-b874-8259ab631d4a",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "068459d2-8a39-426c-8578-70a915486a85",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "74022218-401b-4b30-bd9c-027b41c5f9fd",
+      "tag": "private boat tours",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "5f3ce7b1-c8b3-4674-b733-c99e5d691078",
+      "tag": "water sports",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "ddc933eb-4620-4287-9ba3-2a59a16ceeba",
+      "tag": "family activities",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "b2d846a1-2c62-4b6d-93e4-7cf320cf62dc",
+      "tag": "group adventures",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "6638183b-4f15-45a2-8ded-f52343b14ac9",
+      "tag": "celebration cruises",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "36a6a7d2-6435-4c7d-9c8b-3d79e4c15381",
+      "tag": "inshore fishing",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "a0f50992-a8b4-4329-b339-2d20026351ce",
+      "tag": "nearshore fishing",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "78e479d8-b37a-4ebb-a4a9-d37fda9f09f8",
+      "tag": "wildlife viewing",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "b48601ed-473d-4233-a630-f9a3358443d4",
+      "tag": "Alabama coast",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "e49a3ecf-6e88-435d-83f8-ee21b7b68f55",
+      "tag": "Charter Fishing",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "10d68d14-f2a3-494d-bfb0-df16c9ffa785",
+      "tag": "Boat Tours",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "7b0d86c4-ed1f-444c-87fb-c0ea4dca08f8",
+      "tag": "Jet Ski Rentals",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "d6707a1f-b94e-488c-a1fa-6b6af20a9e5d",
+      "tag": "Water Sports",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "ab98b246-f49b-46d9-b93f-5e8a1ff43397",
+      "tag": "Tours & Attractions",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "4ff43ef7-b61c-4b38-a31b-d8aa48d13b3a",
+      "tag": "Outdoor Recreation",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "42f8a5f3-e9d4-475b-838b-c07d81778cd9",
+      "tag": "Family Activities",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "d705d669-dd5e-43ae-bd53-b06e6eddf8d2",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 23
+    },
+    {
+      "id": "95b06476-cf0d-4608-8263-528a6f3c0b5a",
+      "tag": "charter-fishing",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "a0760a5e-c8a6-4657-bb9c-de9d4e13b4a8",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "77e709a9-f56f-40b5-aa7b-27c93a27dde2",
+      "tag": "tours",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "80112529-73d2-4408-897d-2ea76215151f",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "60100e15-63b1-42e0-829e-a182bf81a865",
+      "tag": "tour agency",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "b974cede-ba31-4cc6-b889-737b15da3258",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "0bf98cf0-6099-4151-bcad-c0cefebc16a0",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "fffae999-6a46-46e4-a7e8-0c7e67cc4a1a",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 31
+    },
+    {
+      "id": "aac140e1-977a-42be-8b5a-0936d93f69c1",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "9991f546-833f-40ba-9c3c-07245a443562",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "78140c14-0c51-459d-871d-433055069af4",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 34
+    }
+  ],
+  "sections": [
+    {
+      "id": "820fc15d-ce4c-43c4-8621-40dd98adc32d",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "4847c2a2-c2b3-4f1e-b0eb-56502d55cd24",
+      "entity_id": "5dd99925-3ff4-46fd-922a-77a06ea74614",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5dd99925-3ff4-46fd-922a-77a06ea74614/5dd99925-3ff4-46fd-922a-77a06ea74614_1779139810482.93.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:14.795067+00:00"
+    },
+    {
+      "id": "da7d5fbd-326c-4caf-b1bc-d9207197c203",
+      "entity_id": "5dd99925-3ff4-46fd-922a-77a06ea74614",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5dd99925-3ff4-46fd-922a-77a06ea74614/5dd99925-3ff4-46fd-922a-77a06ea74614_1779131525709.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:14.198267+00:00"
+    },
+    {
+      "id": "f5586642-8cfe-4346-967c-8142bcbb19fd",
+      "entity_id": "5dd99925-3ff4-46fd-922a-77a06ea74614",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5dd99925-3ff4-46fd-922a-77a06ea74614/5dd99925-3ff4-46fd-922a-77a06ea74614_1779139876468.3901.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:14.939705+00:00"
+    },
+    {
+      "id": "812ba525-b4cd-49f7-ae39-f690bb27d842",
+      "entity_id": "5dd99925-3ff4-46fd-922a-77a06ea74614",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5dd99925-3ff4-46fd-922a-77a06ea74614/5dd99925-3ff4-46fd-922a-77a06ea74614_1779132128080.2231.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:14.650286+00:00"
+    },
+    {
+      "id": "49a1d57e-3c7f-4811-acb9-29a5bc64be08",
+      "entity_id": "5dd99925-3ff4-46fd-922a-77a06ea74614",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5dd99925-3ff4-46fd-922a-77a06ea74614/5dd99925-3ff4-46fd-922a-77a06ea74614_1779132063087.6792.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:14.494214+00:00"
+    },
+    {
+      "id": "f54f83d0-bcaf-45d0-b447-7639cb5fcf45",
+      "entity_id": "5dd99925-3ff4-46fd-922a-77a06ea74614",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5dd99925-3ff4-46fd-922a-77a06ea74614/5dd99925-3ff4-46fd-922a-77a06ea74614_1779131591545.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:14.343059+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

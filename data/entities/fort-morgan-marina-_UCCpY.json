@@ -1,32 +1,255 @@
 {
-  "id": "f4c0c9ff-5d2c-4a3c-8895-3f6512d80c22",
-  "slug": "fort-morgan-marina-_UCCpY",
-  "name": "Fort Morgan Marina",
-  "entity_type": "activity",
-  "entity_subtype": "marina",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 540-2628",
-  "email": null,
-  "website_url": "http://www.fortmorganmarinaal.com/",
-  "address_line_1": "1577 AL-180 W, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 400,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/de111253-0f32-4a69-ad50-f71e042f6608/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "f4c0c9ff-5d2c-4a3c-8895-3f6512d80c22",
+    "place_id": "ChIJPROpCQsmmogRwfHG0_UCCpY",
+    "google_maps_uri": "https://maps.google.com/?cid=10811457110299570625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "fort-morgan-marina-_UCCpY",
+    "name": "Fort Morgan Marina",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "marina",
+    "secondary_types": [],
+    "google_type": "marina",
+    "google_types": [
+      "marina",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 540-2628",
+    "international_phone": null,
+    "website_url": "http://www.fortmorganmarinaal.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1577 AL-180 W, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2326793,
+    "longitude": -87.994522,
+    "short_address": "1577 AL-180 W, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 400,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/de111253-0f32-4a69-ad50-f71e042f6608/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 4:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: 6:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:27.38073+00:00",
+    "updated_at": "2026-05-17T22:22:53.699274+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "b321a70c-ecb2-44d3-88fb-48d6244ccc36",
+      "tag": "marina",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "9d12c979-dc71-463f-a75a-8ff7f478c6ad",
+      "tag": "marina",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "a597a1d8-652d-49f3-a64f-d7b3657951f2",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "e99a89c3-6763-4a15-b636-622a10976ea9",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "0c84daf4-e54c-42c4-9094-9fa14f3a635e",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "397b0426-8df2-4af3-bfae-5423408907a1",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "97efc352-d3f3-4a05-9b5c-100552d0c897",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "cef804d2-ac59-49c5-a13a-8a613612d8df",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "931623b4-d2ba-40fa-9f50-b3f42964042c",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "956bfaac-026e-44fa-aef2-18d3c08e3ba5",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "53def1a8-6fa3-44ca-aade-f2b6820001e4",
+      "tag": "waterfront",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "a45e84f4-4c4f-40a4-a391-dc3d8d4da73d",
+      "tag": "waterfront",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "bc44b371-6201-4e2e-b4e3-a07cd8b83898",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "37b11f11-c4a8-47e1-9949-8f715d8cb502",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "26cb449f-2f4b-48cb-b6d2-d2322b2c1ca5",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

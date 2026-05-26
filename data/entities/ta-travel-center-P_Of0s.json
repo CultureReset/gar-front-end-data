@@ -1,145 +1,352 @@
 {
-  "id": "6e264f67-d5f9-4fec-ac80-c5a2ddd361e3",
-  "slug": "ta-travel-center-P_Of0s",
-  "name": "TA Travel Center",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 960-1150",
-  "email": null,
-  "address_line_1": "27801 Co Rd 64 Ext, Robertsdale, AL 36567, USA",
-  "city": "Robertsdale",
-  "state": "AL",
-  "zip": "36567",
-  "website_url": "https://www.ta-petro.com/",
-  "rating": 4.3,
-  "review_count": 3477,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "6e264f67-d5f9-4fec-ac80-c5a2ddd361e3",
+    "place_id": "ChIJFUGoqc12mogRl0KqrP_Of0s",
+    "google_maps_uri": "https://maps.google.com/?cid=5440294472395670167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "ta-travel-center-P_Of0s",
+    "name": "TA Travel Center",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": [],
+    "google_type": "truck_stop",
+    "google_types": [
+      "truck_stop",
+      "fast_food_restaurant",
+      "convenience_store",
+      "diner",
+      "rest_stop",
+      "gas_station",
+      "gift_shop",
+      "food_store",
+      "service",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 960-1150",
+    "international_phone": null,
+    "website_url": "https://www.ta-petro.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27801 Co Rd 64 Ext, Robertsdale, AL 36567, USA",
+    "address_line_2": null,
+    "city": "Robertsdale",
+    "state": "AL",
+    "zip": "36567",
+    "latitude": 30.630373,
+    "longitude": -87.616021,
+    "short_address": "27801 Co Rd 64 Ext, Robertsdale",
+    "plus_code": null,
+    "rating": 4.3,
+    "review_count": 3477,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true
+    },
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.244154+00:00",
+    "updated_at": "2026-05-17T21:17:42.470716+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
-      "tag": "food_store",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "f705cbc7-b651-4432-9e18-dc9a235c3f71",
       "tag": "truck_stop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "diner",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "fast_food_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "gas_station",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "rest_stop",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "convenience_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "gift_shop",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "74e0b299-52a4-4cc0-a944-25e05567b9f4",
       "tag": "truck_stop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "22820cfc-9f29-49f0-82bb-6b4fa0768c2e",
       "tag": "diner",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "fb59891d-361e-47e3-83f6-a394bf92b782",
+      "tag": "diner",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "661a6716-dbe7-4c6a-a71e-b5ddcf405a9d",
       "tag": "fast_food_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "13b91af5-3249-48a3-bad2-c942081c844c",
+      "tag": "fast_food_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "9577e56b-2d15-41aa-9632-110bfbe51914",
       "tag": "gas_station",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "18d8e8b6-d03b-4e6d-8667-3f3a2a308c13",
+      "tag": "gas_station",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "0b3ecba0-c33a-4b82-855a-3d5c0eab4fa2",
       "tag": "rest_stop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "3dd9c79d-1deb-4492-8ebc-e996e8a55a4e",
+      "tag": "rest_stop",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "675d96cb-241c-4a56-a130-84a47a1074be",
       "tag": "convenience_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "4ea6fc38-7679-4664-aa4d-9bd2bf81d732",
+      "tag": "convenience_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "7c0ae3f6-61cf-4071-8471-ed352fa875f2",
       "tag": "gift_shop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "ae3f51a4-ea0e-4cb6-ba07-648f716be4b2",
+      "tag": "gift_shop",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "a4562c4d-62ea-4db4-b3f0-7f12639b0e14",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "67e9eebf-3a74-472b-a7bb-abefc9f92fc9",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "3c50f13d-4b76-41ff-bb9d-595d65574c6b",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
     },
     {
+      "id": "81235db1-2839-4fcf-8425-e371484473e6",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "5c76ced4-a05c-4d1c-8963-282271a169fd",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 9
     },
     {
+      "id": "1f344d0b-a158-4bec-891f-b34095521d56",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "219f0202-9de4-4cc1-affa-ab68f80b80b8",
       "tag": "food_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 10
     },
     {
+      "id": "f2050519-a8a4-433a-91ba-bb50c3b81b20",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "9cf729cb-26ec-439a-a899-432e4ec94b74",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 11
     },
     {
+      "id": "9333f118-b37f-4e95-89e1-1a2395f38776",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "e687fb18-9b44-41d9-8928-a0af61f438d0",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 12
     },
     {
+      "id": "5d54a7be-e8c4-43cf-a02c-7424bdc5ccb5",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "735bcc0d-3187-4a82-b256-ecfa57945160",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 13
+    },
+    {
+      "id": "3cf0f6ca-0c40-4f42-b012-70779a65a3df",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 13
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "771b50c5-eed7-4ec8-b895-d291555459b8",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,410 @@
 {
-  "id": "a3468b88-5c30-4daa-b730-88bec8193192",
-  "slug": "foam-coffee-zFJD6Q",
-  "name": "Foam Coffee",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Coming Fall 2032",
-  "phone": "(251) 284-1620",
-  "email": null,
-  "website_url": "http://foamcoffeeandshop.com/",
-  "address_line_1": "313 E 22nd Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.5,
-  "review_count": 430,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139689260.508.jpg",
-  "photos": [],
+  "entity": {
+    "id": "a3468b88-5c30-4daa-b730-88bec8193192",
+    "place_id": "ChIJwU95Md8EmogRBXy_0zFJD6Q",
+    "google_maps_uri": "https://maps.google.com/?cid=11821748025225608197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "foam-coffee-zFJD6Q",
+    "name": "Foam Coffee",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "coffee_shop",
+    "google_types": [
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 284-1620",
+    "international_phone": null,
+    "website_url": "http://foamcoffeeandshop.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "313 E 22nd Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2753401,
+    "longitude": -87.6820137,
+    "short_address": "313 E 22nd Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 430,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Coming Fall 2032",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139689260.508.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "http://instagram.com/foamcoffee",
+    "social_facebook": "http://www.facebook.com/foamcoffeeandshop",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": true,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM���– 2:00 PM",
+      "Tuesday: 7:00 AM – 2:00 PM",
+      "Wednesday: 7:00 AM – 2:00 PM",
+      "Thursday: 7:00 AM – 2:00 PM",
+      "Friday: 7:00 AM – 2:00 PM",
+      "Saturday: 7:00 AM – 2:00 PM",
+      "Sunday: 7:00 AM – 2:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "raw-page-data",
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139689646.0513.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139689985.4624.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139690397.485.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139690804.3794.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139690989.9448.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139691422.881.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139692037.1797.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139692347.641.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a3468b88-5c30-4daa-b730-88bec8193192/a3468b88-5c30-4daa-b730-88bec8193192_1779139692855.7537.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:17.692881+00:00",
+    "updated_at": "2026-05-18T21:28:17.933822+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d30f9cf0-4b41-42c0-aeb7-255818d222b8",
+      "tag": "coffee",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "f5b8755f-09a9-4339-9892-e3c0e5506191",
+      "tag": "espresso",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "b408801a-cf67-48c4-88dd-e52f5c5e95f2",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "941d8e7b-bb9c-4a0c-981a-e9db5770d5a9",
+      "tag": "breakfast",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "03a6418d-879f-42af-8cb1-59366e5c2746",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "f663be25-3563-4b04-b84e-b04e61566ecd",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "f7084e3b-7d13-42ad-9215-5e76f383ceba",
+      "tag": "catering",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "399a15c5-0ec7-41b7-a8e4-a4409664ad4c",
+      "tag": "coffee cart",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "480e2d17-431a-4d6e-919b-f74e1a20a515",
+      "tag": "specialty coffee",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "73ff5bf4-a3d5-40be-951e-89ca805ada66",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 9
+    },
+    {
+      "id": "367d9b15-ce5d-43e1-86e4-8d6f6b175216",
+      "tag": "Coffee Shops",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "897905b6-bbbd-48c3-88c7-c7457defab40",
+      "tag": "Cafes",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "6f1718f7-1877-4119-97f4-18fefc48ecdd",
+      "tag": "Food & Drink",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "c1bf2fc4-b2a4-45e2-af60-00fd32a752bc",
+      "tag": "Breakfast",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "565729ab-73c9-4ce6-a4de-0138fe84d89a",
+      "tag": "Catering",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "bec30c42-dd9c-4b9c-80c6-acfa7c91796f",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 15
+    },
+    {
+      "id": "f5db2e16-d3e2-4ac0-a1bd-ad82e91f836c",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "0bb0a8ba-6b35-4cc6-a9c7-18f77c8359c0",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 17
+    },
+    {
+      "id": "4bd974a8-e97c-4e21-b615-f6deaf910ba6",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "0e62a09d-0b0b-45f1-a822-20dca19507d9",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "e12b28a1-3810-47c1-9dcb-8082dde72c5b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 20
+    },
+    {
+      "id": "3b8ad187-e679-4226-ba86-cc91ad6273b8",
+      "tag": "coming-soon",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "51c50aa2-1711-4623-b274-25eea45cff0f",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "a3ec1456-585a-40d4-930f-037c6176e5c5",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "92af33c0-77ef-4248-9654-23d6d45b191f",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 24
+    },
+    {
+      "id": "bd22ea5a-7b10-4b2b-8218-7ee38368b82f",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "9b3f344b-3b10-4c17-828f-1421a968ff42",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "dd8fe705-1cc7-4cf0-b3ca-c7a492c64012",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 27
+    },
+    {
+      "id": "a79ddcb6-2253-4e33-af91-5817db49a72f",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 28
+    },
+    {
+      "id": "cac88751-9289-4124-b807-39998b8c1a74",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "fa88f1cc-3a6b-41e8-b8f5-97492ef357f9",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "e0f0b9ce-ecb2-4d37-a70c-3dfd62c15c24",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 31
+    },
+    {
+      "id": "f9b15688-9974-46cf-a1ef-cd2821a587a4",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 32
+    },
+    {
+      "id": "2be2ecbd-221f-4a8a-b73a-e673421cb9c2",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "9cae734a-b4d5-48e8-aa87-76f15484cd4e",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "3b0aea53-1e6b-44e8-8150-276fff73977f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 35
+    }
+  ],
+  "sections": [
+    {
+      "id": "6cad90e6-b7d3-413b-ba49-dc2f6615dec8",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,465 @@
 {
-  "id": "f5837559-552f-4f24-aa6d-28d27675ee16",
-  "slug": "el-rey-mexican-restaurant-8ymR68",
-  "name": "EL REY MEXICAN RESTAURANT",
-  "entity_type": "restaurant",
-  "entity_subtype": "tex_mex_restaurant",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 968-5171",
-  "email": null,
-  "website_url": "https://elreymexicanrestaurantgulfshoresal.com/",
-  "address_line_1": "1545 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4,
-  "review_count": 70,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/fbbaf3ac-9ddd-442e-93d8-20f4036e3568/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "f5837559-552f-4f24-aa6d-28d27675ee16",
+    "place_id": "ChIJGQl0VKEFmogRLrwIN8ymR68",
+    "google_maps_uri": "https://maps.google.com/?cid=12630247076010703918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "el-rey-mexican-restaurant-8ymR68",
+    "name": "EL REY MEXICAN RESTAURANT",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "tex_mex_restaurant",
+    "secondary_types": [],
+    "google_type": "tex_mex_restaurant",
+    "google_types": [
+      "tex_mex_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-5171",
+    "international_phone": null,
+    "website_url": "https://elreymexicanrestaurantgulfshoresal.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1545 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2662344,
+    "longitude": -87.690033,
+    "short_address": "1545 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4,
+    "review_count": 70,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/fbbaf3ac-9ddd-442e-93d8-20f4036e3568/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.45857+00:00",
+    "updated_at": "2026-05-17T22:22:53.04618+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "3bb1786b-a413-44d0-93e4-7c186293f9e5",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "77103d9e-1696-4690-8774-1f948920c3bb",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "4fecdf39-9e82-42f6-bef0-ea11405eb436",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "427e802f-06e6-46b8-97e5-b5eb8d48acc7",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "759bead5-34f9-4431-a28f-9c89a7cbbb05",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "3f1e04c7-bc72-4a61-9217-9fbc83e6cb8a",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "f228d1c4-31a7-4b2e-a547-4b013a54e4a7",
+      "tag": "tex mex restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "64f906df-2c66-4bcd-ab84-a5ef71678d08",
+      "tag": "tex mex restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "77c2057c-1d7b-4eaa-a80d-e118fdbf8cbb",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "e010f47d-8df6-4cfa-9a68-6f0053ff4978",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "2c5396ee-a386-4462-a0ec-922887d6381f",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "5a553755-9bae-4a1b-8006-fd1cbf1f1b9d",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "712e6f35-fd96-429e-9520-3117858ed7eb",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "c195be4e-5d59-4ce2-b7ea-163996f27184",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "e1da9d5d-34e2-42ae-bd71-a3289681f075",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "65a01b07-a6f7-4f57-b95d-c95af0c8fe3a",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "da0874d5-2f30-485f-9952-973ffa0c913b",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "45bbb7f5-abe7-415a-9e1c-bb6f2de9cd15",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "4f05acfc-21dc-4caa-ad46-9e34e696b63a",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "fad7ecb8-cc07-470e-b39f-25e7078c5acf",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "d4fde37e-7f1e-48f3-9fe6-9504ebd5a6f6",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "0c78e634-07b3-4aa4-acaf-c48f9697a89a",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "deae2ded-2e8b-402f-9b00-694213c30160",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "c97d7e31-78b0-43cf-a422-62ceae160754",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "768fdd7b-50c1-4dca-9377-de2adadc6f53",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "79fbafc1-0248-4131-b9e4-add9f012790b",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "cbe72a6e-3b4f-49b6-9afc-f9993f99841d",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "eaefbb19-9e21-4bcb-ad31-a6983885dcec",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "b07a9b18-f82f-46d8-9056-2c3567df3a06",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 14
+    },
+    {
+      "id": "aa211784-2ae7-4c80-afa3-ad6985bd9b09",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 14
+    },
+    {
+      "id": "4bae8103-5ac9-4605-92b3-309b26409924",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 15
+    },
+    {
+      "id": "762bc2a1-5c91-400e-8b9e-6bea3b8e2c17",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 15
+    },
+    {
+      "id": "fabcd864-9540-4a3e-afe8-71521823ac1b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "4b102f9f-9998-4cab-86ae-14263e97a650",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "781a322e-fa33-4c1a-90c5-465f3192fd74",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 17
+    },
+    {
+      "id": "565eeecb-751c-4111-8e3f-917c69de6602",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 17
+    },
+    {
+      "id": "e64409bf-dc8d-4813-ab5e-159b6e7915e7",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 18
+    },
+    {
+      "id": "cf5a5210-f041-4f46-9010-a4afbd9eea18",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 18
+    },
+    {
+      "id": "bb1962f9-a32a-4674-a4b3-ccb0cb3a6eda",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 19
+    },
+    {
+      "id": "c68a3ea0-5a09-4a29-99d5-7b4960f4967a",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 19
+    },
+    {
+      "id": "80bff842-f6fd-460c-8e52-78b7d119c1cd",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 20
+    },
+    {
+      "id": "c0ef3473-5122-455c-b59b-216a9bb2a4a9",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 20
+    },
+    {
+      "id": "dfc9e3a3-6fcf-44c2-a282-7b1bb02ba04d",
+      "tag": "tex_mex_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "b5eb9b5d-6458-4613-a67d-336d0697e2b9",
+      "tag": "tex_mex_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "ab5b2959-1e43-41ff-b61b-bcef79b06c4f",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "6c6d281d-058c-43ac-80f2-753aa494bbd8",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "2867f8fa-cdaa-433e-8df7-c39752c9085b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "1d4ec4ec-8807-4f03-8847-4cbb3276b98e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 23
+    }
+  ],
+  "sections": [
+    {
+      "id": "f3ae418b-0a17-41f6-a300-23070e897740",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

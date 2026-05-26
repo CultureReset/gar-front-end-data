@@ -1,32 +1,874 @@
 {
-  "id": "874af2dd-9540-43e4-beaa-6aa50f700626",
-  "slug": "amelias-deli-761oqw",
-  "name": "Amelia's Deli",
-  "entity_type": "restaurant",
-  "entity_subtype": "deli",
-  "icon": "🏪",
-  "description": "Cozy local joint with outdoor seating whipping up deli standards, like soup, salad & sandwiches.",
-  "phone": "(251) 968-8333",
-  "email": null,
-  "website_url": "http://ameliasdeli.com/",
-  "address_line_1": "2200 E 2nd St, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.7,
-  "review_count": 119,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/822962a0-87ed-4709-9b17-5427a448e988/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "874af2dd-9540-43e4-beaa-6aa50f700626",
+    "place_id": "ChIJhfGBztgEmogR4ACNk761oqw",
+    "google_maps_uri": "https://maps.google.com/?cid=12439704950874636512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "amelias-deli-761oqw",
+    "name": "Amelia's Deli",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "deli",
+    "secondary_types": [],
+    "google_type": "deli",
+    "google_types": [
+      "deli",
+      "salad_shop",
+      "sandwich_shop",
+      "meal_takeaway",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-8333",
+    "international_phone": null,
+    "website_url": "http://ameliasdeli.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2200 E 2nd St, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.275222,
+    "longitude": -87.682436,
+    "short_address": "2200 E 2nd St, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 119,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Cozy local joint with outdoor seating whipping up deli standards, like soup, salad & sandwiches.",
+    "description": "Cozy local joint with outdoor seating whipping up deli standards, like soup, salad & sandwiches.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/822962a0-87ed-4709-9b17-5427a448e988/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 3:00 PM",
+      "Tuesday: 10:00 AM – 3:00 PM",
+      "Wednesday: 10:00 AM – 3:00 PM",
+      "Thursday: 10:00 AM – 3:00 PM",
+      "Friday: 10:00 AM – 3:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Creations",
+          "items": [
+            {
+              "name": "Dockside Italian",
+              "tags": [],
+              "price": 10.85,
+              "dietary": [],
+              "popular": false,
+              "description": "mortadella, salami, prosciutto, ham, pepperoni, roasted red peppers, onions, lettuce, roasted tomato, provolone cheese topped with Italian dressing, on a french roll",
+              "subcategory": "Creations"
+            },
+            {
+              "name": "Boardwalk Blues",
+              "tags": [],
+              "price": 11.5,
+              "dietary": [],
+              "popular": false,
+              "description": "slow roasted shaved beef, blue cheese, carmelized onion jam, roasted tomato, and lettuce on a ciabatta bun",
+              "subcategory": "Creations"
+            },
+            {
+              "name": "The Beach Dip",
+              "tags": [],
+              "price": 10.86,
+              "dietary": [],
+              "popular": false,
+              "description": "braised beef, Au jus, provolone cheese, with roasted garlic aioli on a french roll",
+              "subcategory": "Creations"
+            },
+            {
+              "name": "The Beach Bunny",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 9,
+              "dietary": [],
+              "popular": false,
+              "description": "hummus, roasted red peppers, avocado, cucumber, roasted tomato, lettuce, black olives on wheat bread",
+              "subcategory": "Creations"
+            },
+            {
+              "name": "Pepperoni e Amici",
+              "tags": [],
+              "price": 10.35,
+              "dietary": [],
+              "popular": false,
+              "description": "hot ham, pepperoni, pepperoni aioli, pepperochini, mozzarella, roasted tomato, crispy pepperoni on a housemade foccacia",
+              "subcategory": "Creations"
+            },
+            {
+              "name": "The Big Dill",
+              "tags": [],
+              "price": 11,
+              "dietary": [],
+              "popular": false,
+              "description": "housemade turkey, havarti cheese, dill pickles, Miss Vickies Spicy Dill pickle chips, garlic dill aioli, lettuce on a housemade mustard bun",
+              "subcategory": "Creations"
+            },
+            {
+              "name": "Baja Breeze",
+              "tags": [
+                "spicy"
+              ],
+              "price": 10.6,
+              "dietary": [],
+              "popular": false,
+              "description": "shaved chipotle chicken, bacon, cheddar cheese, tomato, lettuce and Chipotle Aioli on a Ciabatta Bun",
+              "subcategory": "Creations"
+            }
+          ],
+          "description": "Served Monday - Friday 10am to 3pm"
+        },
+        {
+          "name": "Add-Ons",
+          "items": [
+            {
+              "name": "Chicken (Add-On)",
+              "tags": [],
+              "price": 2.25,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Add-Ons"
+            },
+            {
+              "name": "Bacon (Add-On)",
+              "tags": [],
+              "price": 2.25,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Add-Ons"
+            },
+            {
+              "name": "Turkey (Add-On)",
+              "tags": [],
+              "price": 2.25,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Add-Ons"
+            },
+            {
+              "name": "Ham (Add-On)",
+              "tags": [],
+              "price": 2.25,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Add-Ons"
+            },
+            {
+              "name": "Boiled Egg (Add-On)",
+              "tags": [],
+              "price": 1.55,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Add-Ons"
+            },
+            {
+              "name": "Avocado (Add-On)",
+              "tags": [
+                "vegan"
+              ],
+              "price": 1.55,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Add-Ons"
+            },
+            {
+              "name": "Extra Cheese (Add-On)",
+              "tags": [],
+              "price": 0.65,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Add-Ons"
+            }
+          ],
+          "description": "Add-on options for sandwiches and creations"
+        },
+        {
+          "name": "Classics",
+          "items": [
+            {
+              "name": "Amelia's Club",
+              "tags": [],
+              "price": 10.5,
+              "dietary": [],
+              "popular": false,
+              "description": "toasted sourdough, bacon, turkey, ham, swiss cheese, lettuce, tomato, mayo and deli mustard",
+              "subcategory": "Classics"
+            },
+            {
+              "name": "Ham & Swiss",
+              "tags": [],
+              "price": 8.75,
+              "dietary": [],
+              "popular": false,
+              "description": "ham, swiss cheese, lettuce, tomato, mayo, mustard on rye bread",
+              "subcategory": "Classics"
+            },
+            {
+              "name": "Turkey & Cheddar",
+              "tags": [],
+              "price": 8.75,
+              "dietary": [],
+              "popular": false,
+              "description": "turkey, cheddar cheese, lettuce, tomato, mayo, mustard on wheat bread",
+              "subcategory": "Classics"
+            },
+            {
+              "name": "B.L.T.",
+              "tags": [],
+              "price": 8.75,
+              "dietary": [],
+              "popular": false,
+              "description": "bacon, lettuce, tomato, and mayo on toasted sourdough",
+              "subcategory": "Classics"
+            },
+            {
+              "name": "Cuban",
+              "tags": [],
+              "price": 9.85,
+              "dietary": [],
+              "popular": false,
+              "description": "shaved ham, braised pork, swiss cheese, pickles, and mustard on a pressed gambino roll",
+              "subcategory": "Classics"
+            },
+            {
+              "name": "Caprese",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 10.5,
+              "dietary": [],
+              "popular": false,
+              "description": "Mozzerella cheese, pesto, tomato and a balsamic reduction on a toasted french roll",
+              "subcategory": "Classics"
+            },
+            {
+              "name": "Glorified Grilled Cheese",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 6.95,
+              "dietary": [],
+              "popular": false,
+              "description": "toasted sourdough, swiss provolone and cheddar cheese pressed to perfection",
+              "subcategory": "Classics"
+            },
+            {
+              "name": "Chicken/Tuna/Egg Salad",
+              "tags": [],
+              "price": 7.5,
+              "dietary": [],
+              "popular": false,
+              "description": "your choice of tuna, chicken or egg salad on a croissant with lettuce and tomato",
+              "subcategory": "Classics"
+            },
+            {
+              "name": "Reuben",
+              "tags": [],
+              "price": 10.75,
+              "dietary": [],
+              "popular": false,
+              "description": "house roasted corned beef, sauerkraut, swiss cheese and house made thousand island dressing on toasted marble rye",
+              "subcategory": "Classics"
+            }
+          ],
+          "description": "Served Monday - Friday 10am to 3pm"
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Chef Salad",
+              "tags": [],
+              "price": 10.35,
+              "dietary": [],
+              "popular": false,
+              "description": "Lettuce, ham, turkey, boiled egg, shredded cheese, tomato, black olives",
+              "subcategory": "Salads"
+            },
+            {
+              "name": "Healthy Salad",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 11,
+              "dietary": [],
+              "popular": false,
+              "description": "kale, fresh herbs, roasted garbanzo beans, cherry tomatoes, red onion, cucumber, marinated mozzarella, and italian dressing",
+              "subcategory": "Salads"
+            },
+            {
+              "name": "Cobb Salad",
+              "tags": [],
+              "price": 11.25,
+              "dietary": [],
+              "popular": false,
+              "description": "lettuce, chicken, avocado, tomato, bacon, blue cheese crumbles, boiled egg, with housemade blue cheese dressing",
+              "subcategory": "Salads"
+            },
+            {
+              "name": "Salad Salad",
+              "tags": [],
+              "price": 9.25,
+              "dietary": [],
+              "popular": false,
+              "description": "your choice of chicken, tuna or egg salad on a bed of lettuce with tomato and cucumber served with crackers",
+              "subcategory": "Salads"
+            },
+            {
+              "name": "Caesar Salad",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 9.25,
+              "dietary": [],
+              "popular": false,
+              "description": "Lettuce, parmesan cheese, roasted tomatoes, croutons and house made caesar dressing",
+              "subcategory": "Salads"
+            },
+            {
+              "name": "Chicken (Salad Add-On)",
+              "tags": [],
+              "price": 2.25,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Salads"
+            },
+            {
+              "name": "Bacon (Salad Add-On)",
+              "tags": [],
+              "price": 2.25,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Salads"
+            },
+            {
+              "name": "Boiled Egg (Salad Add-On)",
+              "tags": [],
+              "price": 1.5,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Salads"
+            },
+            {
+              "name": "Avocado (Salad Add-On)",
+              "tags": [
+                "vegan"
+              ],
+              "price": 1.5,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Salads"
+            },
+            {
+              "name": "Extra Dressing",
+              "tags": [],
+              "price": 0.5,
+              "dietary": [],
+              "popular": false,
+              "description": "Greek, Honey Mustard, Housemade Blue Cheese, Housemade Ranch, Housemade Balsamic Vinaigrette, Housemade Caesar and Housemade Thousand Island",
+              "subcategory": "Salads"
+            }
+          ],
+          "description": "Served Monday - Friday 10am to 3pm"
+        },
+        {
+          "name": "Wraps",
+          "items": [
+            {
+              "name": "Veggie Wrap",
+              "tags": [
+                "vegetarian",
+                "vegan"
+              ],
+              "price": 8.25,
+              "dietary": [],
+              "popular": false,
+              "description": "hummus, avocado, roasted red peppers, cucumber, tomato, and lettuce",
+              "subcategory": "Wraps"
+            },
+            {
+              "name": "Buffalo Wrap",
+              "tags": [
+                "spicy"
+              ],
+              "price": 8.25,
+              "dietary": [],
+              "popular": false,
+              "description": "lettuce, buffalo chicken, tomato, red onion, celery, housemade blue cheese dressing",
+              "subcategory": "Wraps"
+            },
+            {
+              "name": "Caesar Wrap",
+              "tags": [],
+              "price": 8.25,
+              "dietary": [],
+              "popular": false,
+              "description": "lettuce, roasted tomatos, parmesan, chicken, housemade caesar dressing",
+              "subcategory": "Wraps"
+            },
+            {
+              "name": "Grinder Wrap",
+              "tags": [],
+              "price": 10.35,
+              "dietary": [],
+              "popular": false,
+              "description": "chopped salami, ham pepperoni, provolone, parmesan, lettuce, tomato, mayo, Italian dressing, Italian seasoning, red onions, banana peppers and black olives",
+              "subcategory": "Wraps"
+            },
+            {
+              "name": "Turkey Wrap",
+              "tags": [],
+              "price": 8.25,
+              "dietary": [],
+              "popular": false,
+              "description": "turkey, lettuce, tomato, cheddar, avocado, bacon, and honey mustard dressing",
+              "subcategory": "Wraps"
+            }
+          ],
+          "description": "Served Monday - Friday 10am to 3pm"
+        },
+        {
+          "name": "Kids",
+          "items": [
+            {
+              "name": "PB&J",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 4,
+              "dietary": [],
+              "popular": false,
+              "description": "peanut butter and jelly on white bread",
+              "subcategory": "Kids"
+            },
+            {
+              "name": "Turkey & Cheddar (Kids)",
+              "tags": [],
+              "price": 5,
+              "dietary": [],
+              "popular": false,
+              "description": "turkey, cheddar and mayo on wheat bread",
+              "subcategory": "Kids"
+            },
+            {
+              "name": "Ham & Swiss (Kids)",
+              "tags": [],
+              "price": 5,
+              "dietary": [],
+              "popular": false,
+              "description": "ham, swiss cheese and mayo on white bread",
+              "subcategory": "Kids"
+            },
+            {
+              "name": "Grilled Cheese (Kids)",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 4,
+              "dietary": [],
+              "popular": false,
+              "description": "American cheese on white bread",
+              "subcategory": "Kids"
+            },
+            {
+              "name": "Grilled Ham & Cheese (Kids)",
+              "tags": [],
+              "price": 5,
+              "dietary": [],
+              "popular": false,
+              "description": "ham, and American on white bread",
+              "subcategory": "Kids"
+            }
+          ],
+          "description": "Served Monday - Friday 10am to 3pm"
+        },
+        {
+          "name": "Sides & Drinks",
+          "items": [
+            {
+              "name": "Potato Salad",
+              "tags": [],
+              "price": 2.35,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Sides"
+            },
+            {
+              "name": "Pasta Salad",
+              "tags": [],
+              "price": 2.35,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Sides"
+            },
+            {
+              "name": "Potato Chips",
+              "tags": [
+                "vegetarian"
+              ],
+              "price": 2.35,
+              "dietary": [],
+              "popular": false,
+              "description": "Miss Vickies Assorted Chips",
+              "subcategory": "Sides"
+            },
+            {
+              "name": "Side Salad",
+              "tags": [
+                "vegetarian",
+                "vegan"
+              ],
+              "price": 2.35,
+              "dietary": [],
+              "popular": false,
+              "description": "Lettuce, tomato and cucumber",
+              "subcategory": "Sides"
+            },
+            {
+              "name": "Soup (Cup)",
+              "tags": [],
+              "price": 4,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Sides"
+            },
+            {
+              "name": "Soup (Bowl)",
+              "tags": [],
+              "price": 6,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Sides"
+            },
+            {
+              "name": "Tea",
+              "tags": [],
+              "price": 2.2,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Drinks"
+            },
+            {
+              "name": "Coffee",
+              "tags": [],
+              "price": 2.2,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Drinks"
+            },
+            {
+              "name": "Bottled Beverage",
+              "tags": [],
+              "price": 3.07,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": "Drinks"
+            }
+          ],
+          "description": "Served Monday - Friday 10am to 3pm"
+        },
+        {
+          "name": "Cakes",
+          "items": [
+            {
+              "name": "Black Russian",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "A true chocolate lovers dream! Chocolate cake with vodka AND kahlua covered in chocolate fudge icing!",
+              "subcategory": "Whole Cakes"
+            },
+            {
+              "name": "Iced Lemon Pound Cake",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Classic southern pound cake with a twist. Beautifully baked cake with delightful lemon icing on top.",
+              "subcategory": "Whole Cakes"
+            },
+            {
+              "name": "Red Velvet",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Frosted with cream cheese icing, sprinkled with cake crumbs and love. Baked in a bundt pan to keep it moist.",
+              "subcategory": "Whole Cakes"
+            },
+            {
+              "name": "Hummingbird",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Bananas, pineapple, and pecans baked into two beautiful layers.",
+              "subcategory": "Whole Cakes"
+            }
+          ],
+          "description": "Whole cakes available for order with at least 3 days notice for pickup"
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.101509+00:00",
+    "updated_at": "2026-05-17T22:22:54.495344+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "57cfb9f8-e6eb-485f-9a2d-b4062cf3d178",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "bedb16f0-e033-4ccd-bf43-ecb0b531b96c",
+      "tag": "meal takeaway",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d44a5119-30d7-47cd-a054-669647ddd103",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "f556e784-c713-44c0-b6fd-760d6085fe41",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "f0a007fa-b578-48a9-81b5-689a00e53565",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "b850f876-e713-4947-bd42-c4709fb9dde8",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "3f748668-99cf-4c42-a6cb-736fd4240d60",
+      "tag": "deli",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "71cc3f71-f849-40ae-805d-1334927f287c",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "5de4277e-395c-4f3e-8e8d-21f100473cb8",
+      "tag": "salad shop",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "044379b4-932d-4737-b048-22c77c09748d",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "ff111661-07f5-4b11-b456-f37b40f25d4b",
+      "tag": "sandwich shop",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "40fda6d6-ac90-4de8-b905-2bb3327b0bbe",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "3df6cae1-b72c-49ec-a35b-921d3ef4ec51",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 12
+    },
+    {
+      "id": "fc0a60df-9a77-4fc4-aa4b-cddbb989756c",
+      "tag": "salad_shop",
+      "tag_category": "google_type",
+      "sort_order": 13
+    },
+    {
+      "id": "b7f0423c-0f39-4494-9250-3b16133b2709",
+      "tag": "sandwich_shop",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "3f940de9-7e40-4a66-ad9a-27655a8e0225",
+      "tag": "meal_takeaway",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "3d553880-f42e-4b66-a8cd-1942a6db00c7",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "067ed208-81db-403c-88a5-adf9a78160a5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 17
+    }
+  ],
+  "sections": [
+    {
+      "id": "098ba804-63a6-44e7-9c4c-ecc9049d6a22",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

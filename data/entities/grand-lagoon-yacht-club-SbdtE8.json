@@ -1,61 +1,248 @@
 {
-  "id": "2e1f4d2d-058d-4276-b472-88c4e99aa35c",
-  "slug": "grand-lagoon-yacht-club-SbdtE8",
-  "name": "Grand Lagoon Yacht Club",
-  "entity_type": "bar",
-  "entity_subtype": "bar",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 607-7569",
-  "email": null,
-  "address_line_1": "10653 Gulf Beach Hwy, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": "https://www.grandlagoonyachtclub.com/",
-  "rating": 4.7,
-  "review_count": 104,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "2e1f4d2d-058d-4276-b472-88c4e99aa35c",
+    "place_id": "ChIJYzwc4qS6kIgRjrJlnSbdtE8",
+    "google_maps_uri": "https://maps.google.com/?cid=5743458582723408526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "grand-lagoon-yacht-club-SbdtE8",
+    "name": "Grand Lagoon Yacht Club",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "venue",
+    "secondary_types": "",
+    "google_type": "marina",
+    "google_types": [
+      "sports_club",
+      "marina",
+      "point_of_interest",
+      "service",
+      "association_or_organization",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 607-7569",
+    "international_phone": null,
+    "website_url": "https://www.grandlagoonyachtclub.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "10653 Gulf Beach Hwy, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.3267883,
+    "longitude": -87.3683947,
+    "short_address": "10653 Gulf Beach Hwy, Pensacola",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 104,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 10:00 PM",
+      "Saturday: 12:30 – 9:00 PM",
+      "Sunday: 9:00 AM – 8:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.22949+00:00",
+    "updated_at": "2026-05-18T21:06:38.557273+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "ccab1def-7336-4949-a744-2205725a0bf3",
       "tag": "event_venue",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "04d04496-4362-45ce-9134-c4badb5266a0",
       "tag": "marina",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "947380f4-3ca5-47b0-86a5-afaa8b33091e",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "9ad59e86-e860-4b20-b9ed-e846ddf2bb0b",
       "tag": "sports_club",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "fac4858a-3114-4054-a049-c33bfe19f1e2",
       "tag": "association_or_organization",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "81a508d8-f34c-40e3-8b2b-55858561e681",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "96423979-dbb3-48f7-9b9f-422504c20b0b",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "fdf31f77-47f2-4985-97b6-92aabff3a940",
+      "section_key": "events",
+      "section_label": "Events",
+      "section_type": "events",
+      "sort_order": 10
+    },
+    {
+      "id": "bfa0eec5-4302-4655-8b8a-fe762675bc52",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "4d770b22-6636-40c8-bb45-fb8ec5162f06",
+      "entity_id": "2e1f4d2d-058d-4276-b472-88c4e99aa35c",
+      "place_id": null,
+      "event_name": "Zachary Thomas Diedrich Duo | Grand Lagoon Yacht Club | Perdido Key",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Zachary Thomas Diedrich Duo",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Grand Lagoon Yacht Club",
+      "day_of_week": null,
+      "event_date": "2026-05-30",
+      "start_time": "19:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

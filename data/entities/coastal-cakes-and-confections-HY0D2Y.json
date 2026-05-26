@@ -1,32 +1,250 @@
 {
-  "id": "78aed0bd-82e7-47ad-af5b-930418e2b022",
-  "slug": "coastal-cakes-and-confections-HY0D2Y",
-  "name": "Coastal Cakes and Confections",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 948-0987",
-  "email": null,
-  "website_url": "https://coastalbakery.com",
-  "address_line_1": "3800 Gulf Shores Pkwy Suite 236, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.8,
-  "review_count": 98,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "78aed0bd-82e7-47ad-af5b-930418e2b022",
+    "place_id": "ChIJxxwt8EAFmogR3H-_PHY0D2Y",
+    "google_maps_uri": "https://maps.google.com/?cid=7354154398949277660&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "coastal-cakes-and-confections-HY0D2Y",
+    "name": "Coastal Cakes and Confections",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "bakery",
+    "google_types": [
+      "bakery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-0987",
+    "international_phone": null,
+    "website_url": "https://coastalbakery.com",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3800 Gulf Shores Pkwy Suite 236, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3012304,
+    "longitude": -87.6809611,
+    "short_address": "3800 Gulf Shores Pkwy Suite 236, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 98,
+    "price_level": null,
+    "business_status": "CLOSED_PERMANENTLY",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.787635+00:00",
+    "updated_at": "2026-05-17T21:17:46.800198+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "5448a01b-7dce-491a-875f-6c3055a2e613",
+      "tag": "bakery",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "9e78e2f4-cbf5-4fb9-a407-5e198e83abf3",
+      "tag": "fresh-baked",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "6693dc08-f2cb-4a52-a407-1767e775fae4",
+      "tag": "pastries",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "d94f878f-e30a-4270-b124-9a6731417d59",
+      "tag": "coffee",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "ccf0f878-915e-46c4-8785-2f3969931ead",
+      "tag": "breakfast",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "5cf43a61-341d-4d86-80cf-2bd899758496",
+      "tag": "coastal",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "d82d141c-99a0-442f-b742-001b84a40910",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "07afc3af-2dc4-4bc4-b658-027a48f33f4a",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 7
+    },
+    {
+      "id": "d6f06063-410d-4643-8124-31c33692ee9c",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "590975f6-0c1f-4a5d-8f30-ad87f4cd7e94",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "1cfa4deb-1c58-4686-a46a-d1e7080e5641",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "532de5c4-6be4-4210-93e7-ae37485d1e21",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "bcd27749-4191-44cd-a6b3-ea3f653e0b11",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "0d6cb4f8-d3ea-4f4f-83d1-7a732298c685",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 13
+    }
+  ],
+  "sections": [
+    {
+      "id": "bcf7abfe-314e-43d1-b373-e3378b595fab",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

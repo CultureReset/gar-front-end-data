@@ -1,32 +1,223 @@
 {
-  "id": "52dd9b2a-1e18-4359-98dd-95e2e2239366",
-  "slug": "string-a-long-pZiAPc",
-  "name": "String A Long",
-  "entity_type": "artist",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 609-7907",
-  "email": null,
-  "website_url": "http://www.tophatandjackie.com/",
-  "address_line_1": "24823 Canal Rd # 3, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.2,
-  "review_count": 42,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "52dd9b2a-1e18-4359-98dd-95e2e2239366",
+    "place_id": "ChIJ-wDKr2kGmogRsZCK0pZiAPc",
+    "google_maps_uri": "https://maps.google.com/?cid=17798334127285113009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "string-a-long-pZiAPc",
+    "name": "String A Long",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": "",
+    "google_type": "store",
+    "google_types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 609-7907",
+    "international_phone": null,
+    "website_url": "http://www.tophatandjackie.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "24823 Canal Rd # 3, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2906892,
+    "longitude": -87.6017825,
+    "short_address": "24823 Canal Rd # 3, Orange Beach",
+    "plus_code": null,
+    "rating": 4.2,
+    "review_count": 42,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: Closed",
+      "Friday: 9:00 AM – 4:00 PM",
+      "Saturday: 9:00 – 11:00 AM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:24.47584+00:00",
+    "updated_at": "2026-05-18T21:07:07.125341+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "e63a5119-f890-4c3a-826d-ae032e122b0c",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "17f1e72e-4849-4d41-80f8-103ce4cde72c",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "1d0f0e36-aa4b-4ae3-bc25-56d1d97b6e18",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "4234e024-764d-47fc-ad9b-bdaaf4798722",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "f43774dd-2a39-4592-89ad-87cb63155e39",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "f0623fc0-df85-46be-8bb6-d00e36f8cb4a",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "04dcf49f-7ede-4d7d-9478-a20a7027602f",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "38a9c2e6-503a-43b3-a54a-ab2784373b9e",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "de86caf9-73f2-46bb-8e94-4b3a4b61a3fc",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 2
+    }
+  ],
+  "sections": [
+    {
+      "id": "5da39167-4dff-4813-94b9-5800ad4e146f",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

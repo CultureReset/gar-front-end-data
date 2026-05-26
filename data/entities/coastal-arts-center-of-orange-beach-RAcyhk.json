@@ -1,32 +1,929 @@
 {
-  "id": "14125f7c-6872-46bb-bc7b-cd02445f40d2",
-  "slug": "coastal-arts-center-of-orange-beach-RAcyhk",
-  "name": "Coastal Arts Center of Orange Beach",
-  "entity_type": "shopping",
-  "entity_subtype": "attractions",
-  "icon": "🏪",
-  "description": "The Coastal Arts Center of Orange Beach is a multi-studio campus that overlooks scenic Wolf Bay and offers many artistic experiences with a breathtaking view. The stunning 10,000 square foot fine art gallery features a spacious two-story building displaying works by Gulf Coast artists including watercolorists, potters, painters, photographers, sculptors and textile artists. The Hot Shop is Alabama's premier hot glass blowing studio where visitors can make their own glass piece. The Clay Studio features ceramics artist Maya Blume-Cantrell creating beautiful artwork from clay, with opportunities for the public to make their own pottery. Adult art classes are available at various times of the year. The center offers summer art camps and the Coastal Arts Student Academy (CASA) for kids. Free and open to the public, the gallery features beautiful works from local artists with a broad price range of original artwork. The waterfront grounds are accessible daily and visitors are welcome to bring a picnic or bring an easel to draw or paint the breathtaking surroundings. The facility is pet friendly if your pet is leashed and has good, quiet manners.",
-  "phone": "(251) 981-2787",
-  "email": null,
-  "website_url": "https://www.orangebeachal.gov/ArtCenter",
-  "address_line_1": "26389 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.9,
-  "review_count": 384,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/14125f7c-6872-46bb-bc7b-cd02445f40d2/14125f7c-6872-46bb-bc7b-cd02445f40d2_1779139842223.9836.jpg",
-  "photos": [],
+  "entity": {
+    "id": "14125f7c-6872-46bb-bc7b-cd02445f40d2",
+    "place_id": "ChIJGTOo9rMHmogRMjwSVRAcyhk",
+    "google_maps_uri": "https://maps.google.com/?cid=1858328652716063794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "coastal-arts-center-of-orange-beach-RAcyhk",
+    "name": "Coastal Arts Center of Orange Beach",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "attractions",
+    "secondary_types": "",
+    "google_type": "art_gallery",
+    "google_types": [
+      "art_gallery",
+      "tourist_attraction",
+      "wedding_venue",
+      "event_venue",
+      "point_of_interest",
+      "service",
+      "association_or_organization",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-2787",
+    "international_phone": null,
+    "website_url": "https://www.orangebeachal.gov/ArtCenter",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26389 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2935087,
+    "longitude": -87.575854,
+    "short_address": "26389 Canal Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 384,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Waterfront campus offering art classes in many mediums, demonstrations & a gallery with local works.",
+    "description": "The Coastal Arts Center of Orange Beach is a multi-studio campus that overlooks scenic Wolf Bay and offers many artistic experiences with a breathtaking view. The stunning 10,000 square foot fine art gallery features a spacious two-story building displaying works by Gulf Coast artists including watercolorists, potters, painters, photographers, sculptors and textile artists. The Hot Shop is Alabama's premier hot glass blowing studio where visitors can make their own glass piece. The Clay Studio features ceramics artist Maya Blume-Cantrell creating beautiful artwork from clay, with opportunities for the public to make their own pottery. Adult art classes are available at various times of the year. The center offers summer art camps and the Coastal Arts Student Academy (CASA) for kids. Free and open to the public, the gallery features beautiful works from local artists with a broad price range of original artwork. The waterfront grounds are accessible daily and visitors are welcome to bring a picnic or bring an easel to draw or paint the breathtaking surroundings. The facility is pet friendly if your pet is leashed and has good, quiet manners.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/14125f7c-6872-46bb-bc7b-cd02445f40d2/14125f7c-6872-46bb-bc7b-cd02445f40d2_1779139842223.9836.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/cityoforangebeach",
+    "social_facebook": "https://www.facebook.com/orangebeach",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": null,
+    "hours_text": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: 9:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.orangebeachal.gov/ArtCenter",
+      "pages": [
+        {
+          "url": "https://www.orangebeachal.gov/ArtCenter",
+          "text": "Skip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterCoastal Arts Center of Orange Beach\nCoastal Arts Center of Orange Beach\n\nOur multi-studio campus overlooks scenic Wolf Bay and offers many artistic experiences with a breathtaking view. The stunning 10,000 sq. ft. fine art gallery features a spacious two-story building displaying works by Gulf Coast artists.    \n\n        For the most up-to-date information on new classes, events, and more                        Sign up for our monthly newsletter HERE\n Vote for us to win USA Today's BEST SMALL TOWN ART SCENE!Click HERE  Version OptionsCoastal Arts Center of Orange BeachHeadlineto vote and you can vote every day!\n  \n\nThe Hot Shop, Alabama's premier hot glass blowing studio is where you can make your own glass piece! \nOr, come play in the clay at our Clay Studio, where you can throw on the wheel or hand build your own creation. \nAdult art classes are available at various times of the year.\nCASA kids' classes are offered throughout the year, and links are posted on the CLASSES and YOUNG ARTISTS pages.\nAppointments are required for The Hot Shop and The Clay Studio to blow glass or for pottery classes: 251-981-ARTS (2787).\nArt Center Creative Options\nMake-Your-Own classes for glass and clay\nScavenger Hunt in the gallery - Pick up at the front desk\nA Gift Shop with original unique items by local Gulf Coast artists\nSummer Art Camps\nCASA - Coastal Arts Student Academy\nDriving Directions\n\nLocated on Canal Road, east of Hwy 161, just past the Orange Beach Library and adjacent to the Waterfront Kids Park.\n\nUpcoming Events\n\n Version Options Coastal Arts Center of Orange Beach Headline\n Upcoming Events\n Upcoming Events\n\n Version OptionsCoastal Arts Center of Orange BeachHeadli\n\n Version OptionsCoastal Arts Center of Orange BeachH\n\n Version OptionsCoastal Arts Center of Orange BeachHeadline\n Version OptionsCoastal Arts Center of Orange BeachHeadline\n\nContact Us\nDesiree Hodge\nDirector - Coastal Arts Center\nPhone: 251-981-2787 (ARTS)\n\n\nCoastal Arts Center\nPhysical Address View Map\n26389 Canal Road\nOrange Beach, AL 36561\n\n\n\n\nDirections\n\n\nPhone: 251-981-2787\n\n\nOffice/Gallery/Gift Shop hours\n\nMonday through Friday\n9 am to 4 pm\n\nClosed Saturday and Sunday\n\nGallery is closed on the following holidays:\n\nNew Year's Day\nMartin Luther King Jr. Day\nMardi Gras Day\nEaster Holidays\nMemorial Day\nIndependence Day\nLabor Day\nVeteran's Day\nThanksgiving Holidays\nChristmas Holidays\n\n\nDirectory\n\n\nCoastal Arts Center of Orange Beach\nArt Gallery\nClasses\nClay Studio\nFestival of Art\nFriends of the Arts\nHot Shop\nYoung Artists\nStaff\nWeddings & Events Space\nUpcoming Events\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Coastal Arts Center of Orange Beach | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/Search/Results",
+          "text": "Search Results\n\n1 - 10 of 9634 results (0.09 seconds)\n\nEvacuation Assistance\nMay 6, 2023\nHome\nDepartments\nEmergency Management\nHurricane Preparedness\nBefore the Storm\nEvacuation Assistance\nhttps://www.orangebeachal.gov/1537/evacuation-assistance\nStaying Safe After a Hurricane\nApr 27, 2023\nHome\nDepartments\nEmergency Management\nHurricane Preparedness\nAfter the Storm\nStaying Safe After a Hurricane\nhttps://www.orangebeachal.gov/1540/staying-safe-after-a-hurricane\nReturning to Your Home or Business\nApr 27, 2023\nHome\nDepartments\nEmergency Management\nHurricane Preparedness\nAfter the Storm\nReturning to Your Home or Business\nhttps://www.orangebeachal.gov/1541/returning-to-your-home-or-business\nCity Administrator\nOct 25, 2022\nHome\nDepartments\nAdministration\nCity Administrator\nhttps://www.orangebeachal.gov/161/About\nThe City Administrator is the administrative officer of the City and is the department head for the administration department of the City.\nCoastal Resources\nNov 8, 2022\nHome\nDepartments\nCoastal Resources\nhttps://www.orangebeachal.gov/228/coastal-resources\nThe City of Orange Beach Coastal Resources is committed to preserving and restoring the local beaches to maintain our quality of life and sustain the local tourism-based economy.\nAbout\nNov 9, 2022\nHome\nDepartments\nCoastal Resources\nWildlife Center & Management Program\nAbout\nhttps://www.orangebeachal.gov/237/about\nDiscover more information about the Wildlife Center & Management Program. Access information about wildlife rehabilitation.\nFAQs\nSep 28, 2022\nHome\nFacilities\nHistory Museum\nFAQs\nhttps://www.orangebeachal.gov/248/faqs\nFind answers to the most commonly asked questions for the Indian and Sea Museum.\nCity Organizational Chart\nSep 30, 2022\nHome\nCity Hall\nCity Organizational Chart\nhttps://www.orangebeachal.gov/303/city-organizational-chart\nReview the organizational chart for the City of Orange Beach.\nSafety Links\nSep 30, 2022\nHome\nDepartments\nPolice Department\nSafety Links\nhttps://www.orangebeachal.gov/310/safety-links-\nAccess safety links to helpful resources recommended by the Police Department.\nArt Center\nOct 18, 2022\nHome\nFacilities\nArt Center\nhttps://www.orangebeachal.gov/324/About\nThe Coastal Arts Center campus overlooks scenic Wolf Bay and offers many artistic experiences with a breathtaking view.\n\n12345...964►\n\nShow \n10\n25\n50\n per page",
+          "title": ""
+        },
+        {
+          "url": "https://www.orangebeachal.gov",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nBeach Status - DAILY REPORT\nMedium hazard, moderate surf and/or moderate currents\n\n\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\nNEWS & HIGHLIGHTS\nNo Wake Zone Maps\nWhen on the water in Orange Beach, please help keep everyone safe by knowing and abiding by the wake zone rules.\nFind No Wake Zones\nabout No Wake Zone Maps\nStay Connected!\nSubscribe to Notify Me to receive updates and information about community news and happenings.\nCheck Out Notify Me!\nPickleball Complex officially opens\nNew facility on Orange Beach Recreation Campus features 14 lighted courts, shade cabanas, restrooms and a pavilion\nRead on...\nabout Pickleball Complex officially opens\nGulf State Park announces first-ever Venture Out festival\nMay 14th through 17th will feature a variety of nature and outdoor-focused activities, workshops, and tours throughout the park and along the award winning Hugh S. Branyon Backcountry Trail\nRead on...\nabout Gulf State Park announces first-ever Venture Out festival\nGulf Shores International Airport Readies for Expanded Summer Service\n$15M Terminal Expansion Close on the Horizon\nRead on...\nabout Gulf Shores International Airport Readies for Expanded Summer Service\nOrange Beach Students Paint the Town Patriotic with Hydrant Art Project\nProject part of City’s participation in America250\nRead on...\nabout Orange Beach Students Paint the Town Patriotic with Hydrant Art Project\nCity launching new online utility billing system\nNew OpenGov software to go live on May 6\nRead on...\nabout City launching new online utility billing system\nRed Snapper Season Opens 7 Day a Week Starting May 22\nNew for 2026, the season will be open 7 days a week until the end of the year or when Alabama’s quota has been met; NOAA Fisheries has set the 2026 private angler quota for Alabama at 664,552 pounds\nRead on...\nabout Red Snapper Season Opens 7 Day a Week Starting May 22\nResident beach pass information\nEach year, residents need to reactivate Resident Beach Access at CoastAL parking passes and get 2026 parking decals for Gulf State Park beach accesses; proof of residency required\nRead on...\nabout Resident beach pass information\nOrange Beach Wildlife Center spreads its wings at new facility\nNew state-of-the-art facility unveiled with ribbon-cutting ceremony on Jan. 6th\nRead on...\nabout Orange Beach Wildlife Center spreads its wings at new facility\nPolice, fire award winners announced\nLt. Zachary Cook named 2025 Firefighter of the Year; Lt. Lisa Augustin, 2025 Officer of the Year; and police IT Administrator Stephen Centrone, 2025 Employee of the Year\nRead on...\nabout Police, fire award winners announced\nOrange Beach City Schools achieves No. 2 Report Card Score in Alabama\nScore is second-highest among all 149 traditional and charter school systems in the state, an extraordinary achievement accomplished in just three years since the district’s formation on July 1, 2022\nRead on...\nabout Orange Beach City Schools achieves No. 2 Report Card Score in Alabama\nOrange Beach City Schools Rises to the State’s Elite with Score of 98\nOBES improved its report card score to a 99, up two points from last year, and OBMHS also improved to a 95, up from last year’s 94, while earning 100% of possible points in graduation rate.\nRead on...\nabout Orange Beach City Schools Rises to the State’s Elite with Score of 98\nHistoric groundbreaking ceremony held for Orange Beach City Schools Athletic Complex\nThe young Orange Beach City School System celebrated a generational step forward on Tuesday, Nov. 7, 2023 with the groundbreaking ceremony for a state-of-the-art athletic complex.\nRead on...\nabout Historic groundbreaking ceremony held for Orange Beach City Schools Athletic Complex\nWelcome to Our New Website\nThe City of Orange Beach is excited to announce the launch of a newly redesigned city website. With the MyAccount and Notify Me features, residents and visitors can customize their viewing experience and stay up-to-date on city events.\nLearn more about the new website\nVisitor Information\nWe have some of the most beautiful beaches in the world. Learn more about our area from our partners at Orange Beach & Gulf Shores Tourism.\nExplore Orange Beach\nNo Wake Zone Maps\nWhen on the water in Orange Beach, please help keep everyone safe by knowing and abiding by the wake zone rules.\nFind No Wake Zones\nabout No Wake Zone Maps\nStay Connected!\nSubscribe to Notify Me to receive updates and information about community news and happenings.\nCheck Out Notify Me!\nPickleball Complex officially opens\nNew facility on Orange Beach Recreation Campus features 14 lighted courts, shade cabanas, restrooms and a pavilion\nRead on...\nabout Pickleball Complex officially opens\nGulf State Park announces first-ever Venture Out festival\nMay 14th through 17th will feature a variety of nature and outdoor-focused activities, workshops, and tours throughout the park and along the award winning Hugh S. Branyon Backcountry Trail\nRead on...\nabout Gulf State Park announces first-ever Venture Out festival\nNext\nPrevious\nVIEW ALL NEWS\n\nIt is a pleasure to welcome you to the City of Orange Beach, Alabama website. You can find information about each department within our city and appropriate contact information for each area. City services and programs continue to grow as we provide our residents and visitors with a superb quality of life and enjoyable place to live, work and visit. The dedication of our entire city staff and support of residents makes the development of this community an ongoing process. I hope that you find this website to be a useful and informative source of information about our fine city. \n\n\n\n\nSincerely, \nTony Kennon \nMayor of the City of Orange Beach\n\nContact Your Mayor\nCONNECT WITH US\nCALENDAR\nMAY 2026\nCalendar\nSUN\tMON\tTUE\tWED\tTHU\tFRI\tSAT\n\n26\n\t\n27\n\t\n28\n\t\n29\n\t\n30\n\t\n1\n\t\n2\n\n\n3\n\t\n4\n\t\n5\n\t\n6\n\t\n7\n\t\n8\n\t\n9\n\n\n10\n\t\n11\n\t\n12\n\t\n13\n\t\n14\n\t\n15\n\t\n16\n\n\n17\n\t\n18\n\t\n19\n\t\n20\n\t\n21\n\t\n22\n\t\n23\n\n\n24\n\t\n25\n\t\n26\n\t\n27\n\t\n28\n\t\n29\n\t\n30\n\n\n31\n\t\n1\n\t\n2\n\t\n3\n\t\n4\n\t\n5\n\t\n6\nTue, May 19\nCity Council Meeting\nMon, May 25\nCity offices closed for Memorial Day\nMon, May 25\nVeterans Memorial Ribbon Cutting\nSun, May 31\n3rd Annual Nest Fest\nVIEW ALL CALENDARS\nCALENDAR\nFACEBOOK\nX (TWITTER)\nTRENDING LINKS\nBeach Weddings\nFishing Licenses\nToll Cards\nMarriage Licenses\nVoter Registration\nHurricane Decals\nDrone Use\nEvent & Film Permits\nFloodplain Management\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nEmployee Portal\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Orange Beach, AL | Official Website"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/27/City-Hall",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeCity Hall\nCity Hall\nWelcome\n\nGreetings from the City of Orange Beach, Alabama!\n\nMayor's Biography\n\nRead through the biography of the current mayor of the City of Orange Beach.\n\nCity Council\n\nThe City Council is responsible, among other things, for passing ordinances and resolutions, making public policy decisions, adopting the budget, appointing boards, commissions and committees, approving contracts, authorizing real estate transactions, awarding bids, selling property, and hiring the City’s department heads and City Attorney.\n\nCity Organizational Chart\n\nReview the organizational chart for the City of Orange Beach.\n\nContact the Office of the Mayor\n\nGet in contact with the Office of the Mayor.\n\nJobs\n\nBrowse job openings, download an application, or email your resume.\n\nWelcome\nMayor's Biography\nCity Council\nCity Organizational Chart\nContact the Office of the Mayor\nJobs\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "City Hall | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/31/Departments",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeDepartments\nDepartments\nAdministration\n\nAccess information about the City Administration Department.\n\nEvents\n\nThe City of Orange Beach is home to many great events throughout the year, including Mardi Gras parades, Seafood Festival, Freedom Fest and Festival of Art. Come out and have fun with the entire family!\n\nCity Attorney\n\nIt is the mission of the Legal Department to provide the highest quality legal services and representation to the City.\n\nCity Clerk\n\nThe City Clerk is the Custodian of public records for the City of Orange Beach.\n\nCity Schools\n\nFind the latest information on Orange Beach city schools.\n\nCommunity Development\n\nThe Community Development Department assists and serves citizens and developers with the land development process in order to ensure quality development for the City of Orange Beach.\n\nCoastal Resources\n\nThe City of Orange Beach Coastal Resources is committed to preserving and restoring the local beaches to maintain our quality of life and sustain the local tourism-based economy.\n\nEmergency Management\n\nGet details about Orange Beach Emergency Management and weather.\n\nExpect Excellence\n\nFinance Department\n\nThe Finance Department is responsible for sewer/garbage billing, taxes, business licenses, hurricane decals and vendor payments.\n\nFire Department\n\nThe Fire Department works to save lives and protect property through prevention, preparedness, education, and response.\n\nHuman Resources\n\nThe Department of Human Resources provides programs and services in support of a high-performing workforce and organizational excellence. Human Resources services include recruitment and employment, compensation and benefits, and wellness programs.\n\nMunicipal Court\n\nRead ordinances, pay court fines and learn more about the legal and court divisions of city government.\n\nParks & Recreation\n\nDiscover information about the Parks and Recreation Department events, classes, facilities, and more.\n\nPolice Department\n\nThe Police Department and its officers work hard to serve and protect the community. Here you can find helpful information about their initiatives, divisions, and more.\n\nPublic Works\n\nThe Public Works Department is dedicated to planning, developing, and maintaining the County's infrastructure, solid waste program, facilities, and other services in a manner that provides safe travel for the general public and enhances the quality of life.\n\nPurchasing\n\nThe Procurement Officer is responsible for coordinating all areas of purchasing for the City of Orange Beach. Areas of work include ensuring that all purchasing procedures comply with local, state, and federal regulations, managing the city's sealed bid process, soliciting quotes from vendors, creating and/or verifying purchase requisitions, and assigning purchase order numbers.\n\nSewer\n\nThe City of Orange Beach Sewer Department collection and wastewater treatment facility consists of twenty-five lift stations that transfer all domestic and commercial waste to a 10 million gallon-a-day treatment plant. The collection system is comprised of low-pressure and gravity lines, mostly in the corporate city limits of Orange Beach.\n\nAdministration\nEvents\nCity Attorney\nCity Clerk\nCity Schools\nCommunity Development\nCoastal Resources\nEmergency Management\nExpect Excellence\nFinance Department\nFire Department\nHuman Resources\nMunicipal Court\nParks & Recreation\nPolice Department\nPublic Works\nPurchasing\nSewer\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Departments | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/101/Facilities",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilities\nFacilities\nAdult Fitness Center\n\nThe 17,400-square-foot City of Orange Beach Adult Fitness Center is open with 24-hour accessibility for members. The facility is on the Rec Center campus, behind the Community Center.\n\nSenior Center\n\nThe Orange Beach Senior Center opened in January 2003. The center is located adjacent to the Orange Beach Library. Amenities include arts and crafts, a game room, a multi-purpose room, and a screened porch overlooking Wolf Bay. Senior adult programs are offered throughout the year by professional staff.\n\nAquatics Center\n\nThe Orange Beach Aquatics Center is located in South Baldwin County, within a mile of the Gulf of Mexico. Our program currently serves thousands of members annually and is designed for all ages and ability levels. In addition, the programs and services of the Orange Beach Aquatics Center are built upon and focused on enabling individuals and families to build healthy lifestyles.\n\nArt Center\n\nThe Coastal Arts Center campus overlooks scenic Wolf Bay and offers many artistic experiences with a breathtaking view.\n\nCommunity Center\n\nThe Community Center is part of a complex of buildings that include the Recreation Center, Tennis Complex, Aquatics Center, and Fitness Center. This 5,000-square-foot facility has a full-service kitchen and seats approximately 300 people. The center is available for meetings, events, and parties.\n\nEvent Center\n\nConveniently located in Orange Beach at the base of the Beach Express and Canal Road and easily accessible from Gulf Shores and Foley, the Event Center is home to almost 100 events annually, from corporate conferences to small trade shows as well as banquets, sporting events, seminars and more.\n\nGolf Center\n\nThe Golf Center is located on Easy Street, just off U.S. Highway 180 (Canal Road) in Orange Beach, about one and one-fourth miles east of the Foley Beach Express exit on Canal Road.\n\nHistory Museum\n\nThe building that houses the Orange Beach History Museum was originally built in 1910 as a schoolhouse. It has served as a museum since 1995 and was moved to its present location in 1999.\n\nLibrary\n\nSearch the Orange Beach card catalog, renew your items, or join us for an event at the library.\n\nParks & Trails\n\nWhile the beach is without a doubt the reason most people visit Orange Beach, there are also many Orange Beach bike trails, walking paths, parks, and green spaces to explore and enjoy.\n\nPerforming Arts Center\n\nThe City of Orange Beach Expect Excellence Theater and Orange Beach Middle/High School Theatre Program perform at the Orange Beach Performing Arts Center. The 35,000-square-foot center opened in September 2021 and includes a 710-seat main theater, and a black box theater that can seat up to 175 for intimate performances.\n\nRecreation Center/Expect Excellence Building\n\nAll about the programs within the Recreation Center\n\nSportsplex\n\nThe Orange Beach Sportsplex, which opened in the spring of 2001, includes softball, baseball, and football/soccer fields as well as a 3-court sand volleyball area. It features a 1500-seat stadium with a pressbox, locker rooms, and a second concession stand.\n\nTennis Center\n\nThe Orange Beach Tennis Center has eight lighted hard courts that are open from 7 am to 10 pm - seven days a week. The center is also home to the Orange Beach Ladies Tennis League.\n\nWind & Water Learning Center\n\nThe City of Orange Beach Wind and Water Learning Center is committed to enhancing life for locals and guests by providing coastal access, facilities, equipment, and education for sailing and paddling sports.\n\nPickleball Complex\n\nThe Orange Beach Pickleball Complex (opening May 7, 2026) features 14 lighted courts, shade cabanas, restrooms, and a pavilion.\n\nAdult Fitness Center\nSenior Center\nAquatics Center\nArt Center\nCommunity Center\nEvent Center\nGolf Center\nHistory Museum\nLibrary\nParks & Trails\nPerforming Arts Center\nRecreation Center/Expect Excellence Building\nSportsplex\nTennis Center\nWind & Water Learning Center\nPickleball Complex\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Facilities | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/35/Business",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeBusiness\nBusiness\nPermit Portal\n\nAll permit applications are now completed and submitted online through the Orange Beach Permit Portal.\n\nBids\n\nView open bids for consultants, service providers, contractors, vendors, and suppliers.\n\nCommunity Development\n\nIt is the responsibility of the Community Development Department to assist and serve citizens and developers with the land development process in order to ensure quality development for the City of Orange Beach.\n\nBusiness Licenses\n\nAnyone doing business or soliciting for business in the City of Orange Beach must have a Business License.\n\nProperty & Lodging Tax\n\nDiscover more information about Property and Lodging Tax.\n\nGIS Map\n\nGIS is a system designed to capture, store, manipulate, analyze, manage and present all types of spatial or geographical data.\n\nChamber of Commerce\n\nThe Coastal Alabama Business Chamber - formerly the Alabama Gulf Coast Area Chamber of Commerce, is a business-based, volunteer-driven, member-supported association working full-time to preserve, enhance and expand the business environment in Coastal Alabama.\n\nTourism\n\nHere, you’ll find everything you need to plan and enjoy a trip to Alabama’s sugar-white sand beaches. A variety of local restaurants, fun-filled activities, incredible lodging options, and 32 miles of pristine beaches are just a few reasons why the Alabama Gulf Coast is the ultimate beach destination.\n\nSpecial Events Permit\n\nPermit Portal\nBids\nCommunity Development\nBusiness Licenses\nProperty & Lodging Tax\nGIS Map\nChamber of Commerce\nTourism\nSpecial Events Permit\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Business | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/9/Contact-Us",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeContact Us\nContact Us\nHelpdesk & Contact the Mayor\nStay Informed\nJobs\nFAQs\nHelpdesk & Contact the Mayor\nStay Informed\nJobs\nFAQs\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Contact Us | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/312/Art-Center",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterCoastal Arts Center of Orange Beach\nCoastal Arts Center of Orange Beach\n\nOur multi-studio campus overlooks scenic Wolf Bay and offers many artistic experiences with a breathtaking view. The stunning 10,000 sq. ft. fine art gallery features a spacious two-story building displaying works by Gulf Coast artists.    \n\n        For the most up-to-date information on new classes, events, and more                        Sign up for our monthly newsletter HERE\n Vote for us to win USA Today's BEST SMALL TOWN ART SCENE!Click HERE  Version OptionsCoastal Arts Center of Orange BeachHeadlineto vote and you can vote every day!\n  \n\nThe Hot Shop, Alabama's premier hot glass blowing studio is where you can make your own glass piece! \nOr, come play in the clay at our Clay Studio, where you can throw on the wheel or hand build your own creation. \nAdult art classes are available at various times of the year.\nCASA kids' classes are offered throughout the year, and links are posted on the CLASSES and YOUNG ARTISTS pages.\nAppointments are required for The Hot Shop and The Clay Studio to blow glass or for pottery classes: 251-981-ARTS (2787).\nArt Center Creative Options\nMake-Your-Own classes for glass and clay\nScavenger Hunt in the gallery - Pick up at the front desk\nA Gift Shop with original unique items by local Gulf Coast artists\nSummer Art Camps\nCASA - Coastal Arts Student Academy\nDriving Directions\n\nLocated on Canal Road, east of Hwy 161, just past the Orange Beach Library and adjacent to the Waterfront Kids Park.\n\nUpcoming Events\n\n Version Options Coastal Arts Center of Orange Beach Headline\n Upcoming Events\n Upcoming Events\n\n Version OptionsCoastal Arts Center of Orange BeachHeadli\n\n Version OptionsCoastal Arts Center of Orange BeachH\n\n Version OptionsCoastal Arts Center of Orange BeachHeadline\n Version OptionsCoastal Arts Center of Orange BeachHeadline\n\nContact Us\nDesiree Hodge\nDirector - Coastal Arts Center\nPhone: 251-981-2787 (ARTS)\n\n\nCoastal Arts Center\nPhysical Address View Map\n26389 Canal Road\nOrange Beach, AL 36561\n\n\n\n\nDirections\n\n\nPhone: 251-981-2787\n\n\nOffice/Gallery/Gift Shop hours\n\nMonday through Friday\n9 am to 4 pm\n\nClosed Saturday and Sunday\n\nGallery is closed on the following holidays:\n\nNew Year's Day\nMartin Luther King Jr. Day\nMardi Gras Day\nEaster Holidays\nMemorial Day\nIndependence Day\nLabor Day\nVeteran's Day\nThanksgiving Holidays\nChristmas Holidays\n\n\nDirectory\n\n\nCoastal Arts Center of Orange Beach\nArt Gallery\nClasses\nClay Studio\nFestival of Art\nFriends of the Arts\nHot Shop\nYoung Artists\nStaff\nWeddings & Events Space\nUpcoming Events\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Coastal Arts Center of Orange Beach | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/330/Classes",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterClasses\nClasses\nStudio Classes available:\nGlass Blowing - weekday mornings (Minimum age: 8)\nPottery - M-Thu. mornings (Minimum age: 13)\nVisual Arts (current class list is below with various fees)\n\nAppointments are required for The Hot Shop and The Clay Studio: 251-981-ARTS (2787).\n\nFees\n\"Make Your Own\" hot glass or clay pottery lessons - $95\nPrivate glass blowing class - $225 per hour (Available after taking the general class lesson. Minimum Age 8+ to blow glass)\nFused glass suncatchers - $35-up\nPick-n-Paint - starts at $35-up\nAGE REQUIREMENT: Children under age 16 must be accompanied by an adult.\nLIMITED SPECIAL EVENING CLASSES NOW AVAILABLE!\n\nClass Price: $125 Per Student\n\nClass Info: Maximum 8 spots available from 5-7:30pm scheduled for individual 30 minute timeslots.\n\nIncludes one Swedish bowl or drinking glass per student- colors of their choice. \nStudent work available for pick-up the following Wednesday \nStudents will check-in at The Hot Shop 10 minutes prior to appointment time and must provide a receipt of payment and sign a waiver for their scheduled class time.\nPayment is non-refundable if students miss their scheduled class time.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nThe City of Orange Beach has partnered with ActiveNet to simplify and secure registration for arts and activities. To register for one of the art classes below, simply click on the link provided to sign up. Once you are on the ActiveNet site, click \"Create an Account\" and enter your information. You must then check your email to activate your account. The ActiveNet system securely stores your information, making registration for future classes much easier. Your information is never shared with a third party. Please call Amoreena if you have any questions or need assistance with registration: 251-981-4119.  \n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\nCoastal Arts Student  \nAcademy Wonderful Wednesdays\n\n \nThese classes are geared toward students in 3rd-6th grade, with all supplies provided and step-by-step instruction given. Younger students can participate with parents staying in class to help. You must reserve your spot in advance by calling 251-981-2787.\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCoastal Arts Center of Orange Beach\nArt Gallery\nClasses\nClay Studio\nFestival of Art\nFriends of the Arts\nHot Shop\nYoung Artists\nStaff\nWeddings & Events Space\nUpcoming Events\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Classes | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/400/Kids-Programs",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterYoung Artists\nYoung Artists\nCoastal Arts Student  Academy \nWonderful Wednesdays\n\n \nThese classes are geared toward students in 3rd-6th grade, with all supplies provided and step-by-step instruction given. Younger students can participate with parents staying in class to help. You must reserve your spot in advance by calling 251-981-2787.\n\n\n\n\nThe Coastal Arts Student Academy \"Camp CASA\" \nfor Summer 2026 is FULL, but you may sign up for Wonderful Wednesday classes or take a class in the Clay Studio or Hot Shop by calling 251-981-2787.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1\nArt Camp Participants Gus and Gabe\n \n2\n2021 Camp Hot Shop Glass Blowing Demonstration\n(Current Item)\n \n3\nClint Eating Culinary Art Snack\n \n4\nFamily at Summer Camp 2021\n \n5\nGirl Eating Edible Paints\n \n6\nGirl With Paint Splattered on Face Smiles for Photo\n \n7\nGirls Show Their Paintings\n \n8\nKids Art Group Painting with Casey\n \n9\nKids During Art Program\nCoastal Arts Center of Orange Beach\nArt Gallery\nClasses\nClay Studio\nFestival of Art\nFriends of the Arts\nHot Shop\nYoung Artists\nStaff\nWeddings & Events Space\nUpcoming Events\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Young Artists | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/1596/Upcoming-Events",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterUpcoming Events\nUpcoming Events\nMar. 14-15, 2026 - Orange Beach Festival of Art\nApr. 30, 2026 - Friends of the Arts Grand Event\nAug. 15, 2026 - Classics in Wood & Ivory Cello & Piano Concert, 6 PM *\nOct. 11, 2026 - Baldwin Pops, 5 PM\nOct. 22, 2026 - Arts Afire Fall Festival, 5-7 PM\nNov. 11, 2026 - Frank Brown International Songwriters' Festival Concert, 6 PM *\nNov. 19, 2026 - Best of the Vets Artist Reception\nDec. 10, 2026 - Light Up The Arts, 5:30-7:30 PM\n* call the Arts Center for tickets: 251-981-ARTS (2787)\nCoastal Arts Center of Orange Beach\nArt Gallery\nClasses\nClay Studio\nFestival of Art\nFriends of the Arts\nHot Shop\nYoung Artists\nStaff\nWeddings & Events Space\nUpcoming Events\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Upcoming Events | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/Directory.aspx",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeStaff Directory\nStaff Directory\nSearch the Directory\nCategory: \nStaff Directory\n    Accessibility (Website Accessibility Inquiries)\n    Administration\n    City Clerk\n    City Council\n    Expect Excellence\n        Expect Excellence Music Studio\n    Coastal Arts Center\n    Coastal Resources\n        Wind & Water Learning Center\n    Community Development\n        Planning & Zoning\n        Building & Inspections\n        Code Enforcement\n    Community Center\n    Emergency Management\n    Event Center\n    Finance Department\n    Fire Department\n        Fire Marshal's Office\n        Medical Records\n        Internship Program\n        Training\n    Human Resources\n    Legal\n    Mayor's Office\n    Municipal Court\n    Parks & Recreation\n        Adult Fitness Center\n        Senior Center\n        Aquatics Center\n        Golf Center\n        History Museum\n        Sportsplex\n        Youth Sports\n        Community Events\n        Community Programs\n        Tennis Center\n        Special Events\n    Parks & Trails\n        Backcountry Trail\n        Canoe Trail\n        Public Boat Launches\n        Robinson Island & Bird Island Park\n        Unleashed Dog Park\n        Waterfront Park & Kids Park\n    Performing Arts Center\n    Police Department\n        Intelligence Division\n        Investigative Division\n        Marine Division\n        Patrol Division\n            School Resource Officer (SRO)\n        Support Services Division\n    Public Works\n    Purchasing\n    Recreation Center\n    Sewer\nFirst Name: \nLast Name: \nSearch\nCategories\tTelephone\n\nAccessibility (Website Accessibility Inquiries)\nAdministration\n251-981-6979\nCity Clerk\n251-981-6979\nCity Council\n251-981-6979\nExpect Excellence\n251-981-7836\nExpect Excellence Music Studio\n251-974-2336\nCoastal Arts Center\n251-981-2787\nCoastal Resources\n251-981-1063\nWind & Water Learning Center\n251-424-5909\nCommunity Development\n251-981-2610\nPlanning & Zoning\n251-981-2610\nBuilding & Inspections\n251-981-2610\nCode Enforcement\n251-981-6978\nCommunity Center\nEmergency Management\n251-981-1063\nEvent Center\n251-981-6629\nFinance Department\n251-981-6096\nFire Department\n251-981-6166\nFire Marshal's Office\nMedical Records\n251-981-6392\nInternship Program\nTraining\nHuman Resources 251-981-6802 | 251-981-7207\nLegal\n251-981-6779\nMayor's Office\n251-981-6810\nMunicipal Court\n251-981-2444\nParks & Recreation\nAdult Fitness Center\n251-981-6028\nSenior Center\n251-981-3440\nAquatics Center\n251-974-7946\nGolf Center\n251-981-4653\nHistory Museum\n251-981-8545\nSportsplex\n251-981-6626\nYouth Sports\n251-200-8155\nCommunity Events\nCommunity Programs\nTennis Center\n251-974-6387\nSpecial Events\nParks & Trails\nBackcountry Trail\nCanoe Trail\nPublic Boat Launches\nRobinson Island & Bird Island Park\nUnleashed Dog Park\nWaterfront Park & Kids Park\n251-981-2787\nPerforming Arts Center\n251-923-0043\nPolice Department 251-981-9777 / TDD 251-981-5528\nIntelligence Division\n251-981-1018\nInvestigative Division\nMarine Division\nPatrol Division\nSchool Resource Officer (SRO)\n251-981-9777\nSupport Services Division\nPublic Works\n251-923-5858\nPurchasing\n251-981-0168\nRecreation Center\n251-981-6028\nSewer\n251-974-5617\n\n\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Staff Directory • Orange Beach, AL • CivicEngage"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/directory.aspx?did=45",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeStaff Directory\nCoastal Arts Center\n \nDirections\n\nPhysical Address:View Map\n\n26389 Canal Road\nOrange Beach, AL 36561\n\nPhone:\n\n251-981-2787\n\nLink: Coastal Arts Center Page\n\n\nOffice/Gallery/Gift Shop hours\n\nMonday through Friday\n9 am to 4 pm\n\nClosed Saturday and Sunday\n\nGallery is closed on the following holidays:\n\nNew Year's Day\nMartin Luther King Jr. Day\nMardi Gras Day\nEaster Holidays\nMemorial Day\nIndependence Day\nLabor Day\nVeteran's Day\nThanksgiving Holidays\nChristmas Holidays\n\n\nStaff\n\nName\tTitle\tEmail\tPhone\tAdditional Phone\nHodge, Desiree\tDirector - Coastal Arts Center\tEmail Desiree Hodge\t251-981-2787 (ARTS)\t \nAnderson, Katrina\tWeddings and Special Events\tEmail Katrina Anderson\t251-923-5808\t251-981-2787 (ARTS)\nBlume-Cantrell, Maya\tCeramics Artist in Residence\t\t251-981-2787 (ARTS)\t \nBrewton, Amoreena\tArt Education Coordinator\tEmail Amoreena Brewton\t251-981-2787 (ARTS)\t \nDiMario, Amy\tGallery Associate\tEmail Amy DiMario\t251-981-2787 (ARTS)\t \nDiChiara, Brianne\tEvent Specialist\tEmail Brianne DiChiara\t251-923-0044\t251-981-2787 (ARTS)\nParks, Kerry\tGlass Artist in Residence\t\t251-981-2787 (ARTS)\t \nRush, Dan\tGlass Artist in Residence\t\t251-981-2787 (ARTS)\t \nThomley, Brandy\tGallery Associate\tEmail Brandy Thomley\t251-981-2787 (ARTS)\t \n\n\nReturn to Staff Directory\n\n\n\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Staff Directory • Coastal Arts Center"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/327/About",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterArt GalleryAbout\nAbout\n\nFree and open to the public, our gorgeous waterfront gallery features beautiful works from local artists including watercolor, pottery, paintings, photography, sculpture, textiles and more. Our gift shop features a broad price range of original artwork.\n\nUnless the property has been rented for an event, the waterfront grounds are accessible daily and you are welcome to bring a picnic to enjoy or bring your easel and be inspired to draw or paint the breathtaking surroundings!\n\nPets: We are pet friendly if your furbaby is leashed and has good, quiet manners.\n\nBecoming a Gallery Artist/Exhibitor \n\nTo become an Exhibiting Artist you will need to submit three (3) works of original art to be professionally juried during our fall artist jury session. Upon positive recommendation by the jury, the artist is invited to become an exhibitor at our gallery.  Our open jury season is September/October.  \n\nTo be considered, you will need to register below and adhere to the following rules:\n\nApplicants must be a full time resident of the Gulf Coast.\nApplicants pay a one-time $25 application fee. If approved as a gallery artist, commissions are 65/35% split. Additional information about our policies and guidelines will be sent upon request.\nWe are a city owned facility. If approved to bring your work, you will need to purchase a business license through the Finance Department next to City Hall. You will also need to fill out a W9 form to get set up as a vendor.\n\nPlease register here if you interested in being a Gallery Artist.\n\nArt Center History\n\nThe Coastal Arts Center was, until 2015, located in the city's first hotel. Built in 1923, as a boarding-house style hotel for men who worked in the turpentine industry, it featured 11 bedrooms and a half bath upstairs. The family lived downstairs. The facility was only accessible by water until Canal Road was completed in the 1940s. Due to severe structural damage the building was torn down in spring 2015. Historical elements collected from the hotel (columns, wood flooring, doors and windows) are featured in the new gallery.\n\nWe look forward to your visit!\n\nAbout\nBecoming an Exhibitor\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "About | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/328/Becoming-an-Exhibitor",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterArt GalleryBecoming an Exhibitor\nBecoming an Exhibitor\n\nThe Coastal Arts Center of Orange Beach is always interested in welcoming new local artists from the Gulf Coast.\n\nTo become an Exhibiting Artist you will need to submit three (3) works of original art to be professionally juried during our fall artist reviews. Upon positive recommendation by the jury, the artist is invited to become an exhibitor at our gallery.  Our open jury season is September/October.  \n\nTo be considered, you will need to register below and adhere to the following rules:\n\nApplicants must be a full time resident of the Gulf Coast.\nApplicants pay a one-time $25 application fee. If approved as a gallery artist, commissions are 65/35% split. Additional information about our policies and guidelines will be sent upon request.\nWe are a city owned facility. If approved to bring your work, you will need to purchase a business license through the Finance Department next to City Hall. You will also need to fill out a W9 form to get set up as a vendor.\n\nPlease register to receive notification.\n\nAbout\nBecoming an Exhibitor\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Becoming an Exhibitor | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/329/Frequently-Asked-Questions-FAQs",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterArt GalleryFrequently Asked Questions (FAQs)\nFrequently Asked Questions (FAQs)\nFAQs\nAre all your items for sale? \nAre your artists local? \nCan you give an estimated value on art work I own? \nDo you offer gift certificates? \nDo you ship? \nDoes your artwork rotate? \nIs there a cost to visit your gallery or studios? \nIs the chandelier in the gallery made by the artist Chihuly? \nDo you allow field trips to your campus? \nVIEW ALL FAQS\nFAQS\nAbout\nBecoming an Exhibitor\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Frequently Asked Questions (FAQs) | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/332/About",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterClay StudioAbout\nAbout\n\nThe Clay Studio features ceramics artist Maya Blume-Cantrell making beautiful artwork from clay. The public is invited to Make-Your-Own art in a pottery class! Call for details 251-981-ARTS (2787).\n\nCLASSES\nHand building - $95 an hour\nThrowing on the pottery wheel - $95 an hour\n\"Pick-n-Paint\" - Glaze pre-made pottery - $35 and up\n\nOpen studio time for clay artist available at varying times throughout the year. \n\n\nFIELD TRIPS\n\nClay Studio field trip appointments available on Friday mornings.  \n\nA 30 minute demonstration and studio tour with Resident Ceramics Artist - $135\nTo add Ornament painting $10 per person or Clay pick-n-paint $35 per person \nCustom combination field trips to include The Hot Shop are available with some space limitations.\nThe Clay Studio - Orange Beach\nAbout\nClasses\nField Trips\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "About | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/333/Classes",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterClay StudioClasses\nClasses\n\nThe Clay Studio:\n\nPick-n-Paint Pottery - $35 per item and up\nHand building - $95 per hour\nThrowing on the pottery wheel - $95 per hour\nSeasonal project workshops\n\nCall us for a class reservation 251-981-ARTS (2787).\n\nAbout\nClasses\nField Trips\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Classes | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/334/Field-Trips",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterClay StudioField Trips\nField Trips\n\nClay Studio field trip appointments available on various days.  Please call for more information 251-981-ARTS (2787).\n\nA 30 minute demonstration and studio tour with Resident Ceramics Artist - costs $95\nTo add painting or hand building, add $20 per student, per item (minimum of $160)\nMaximum # participants 15\nCustom combination field trips to include The Hot Shop are available with some space limitations.\n\n\n\n\nAbout\nClasses\nField Trips\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Field Trips | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/336/Frequently-Asked-Questions-FAQs",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterClay StudioFrequently Asked Questions (FAQs)\nFrequently Asked Questions (FAQs)\nFAQs\nCan I book The Clay Studio for a private event? \nCan I learn to make my own pottery? \nCan I paint already finished pieces of pottery? \nHow long does a piece of pottery take to complete? \nWhen is the Clay Studio open? \nVIEW ALL FAQS\nFAQS\nAbout\nClasses\nField Trips\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Frequently Asked Questions (FAQs) | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/338/About",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterFestival of ArtOrange Beach Festival of Art\nOrange Beach Festival of Art\n\nOur next show, the 53rd Annual: March 13-March 14, 2027\n\nSaturday: 10 am to 5 pm\nSunday: 10 am to 4 pm\n\nNo entrance fee / Shuttle service from two local lots\n\n\n\n\nFine Artist applications are accepted on ZAPPLICATION from August 1 through October 31, 2026. \n\nAll other vendors are by invitation only.\n\nOverview\n\nVOTED BEST ART SHOW IN THE NATION BY THE READERS OF USA TODAY for TWO YEARS IN A ROW! And chosen as THE 2025 TOURISM \"EVENT OF THE YEAR\" BY ALABAMA GOVERNER KAY IVEY.\n\nFor more than 50 years, the Festival of Art has been our island's first rite of spring. It is a celebration of visual, literary, performing, musical and culinary arts. The show has won Best Art Show in Alabama three times in the past five years by the luxury magazine \"ALABAMA\" and is currently ranked in the top 100 of national fine art and design shows.\n\nThis fine arts festival is completely free with music and entertainment featured on two stages. You can be a part of it by volunteering or purchasing art through our Patron of the Arts program. There are multiple parking options.\n\n- For 2026 Participating Artist List with photos of their work - CLICK HERE!\n\n\nCongratulations to our 2026 Show Winners!\nBest of Show:  Sarah Cantor, Mixed Media\nFirst place, 2D: Molly McGuire, Mixed Media\nSecond place, 2D: Lisa Tantillo, Paint/Oil & Acrylic\nThird place, 2D: Curtis Whitwam, Paint/Watercolor\nFirst Place, 3D: John Cheer, Clay\nSecond place, 3D: Colleen Williams, Clay\nThird place, 3D: Michael Young, Wood\nArtisan Award: Jim Norton, Jewelry\nJudges Awards: \nChristine Tyler - Painting/Oil & Acrylic\nAnn McCann - Textile\nJeanne Scott - Clay\nExhibitors Choice: Ricky Steele, Painting-Oil & Acrylic\nCity of Orange Beach/Mayor Award: Tony Krysinsk, Mixed Media\nKids Choice Award: Marie Rust, Graphic Pencil\n\nSponsors\n\nThank you to all our 2026 sponsors. We appreciate your support of the arts in our community:\n\nThe Friends of the Arts, Inc.\nFlora-Bama\nFrank Brown Int'l. Songwriters Foundation\nGulf Shores/Orange Beach Sports & Events\nCentennial Bank\nCMC Gas\nCUTCO Cutlery\nDesoto's Seafood Kitchen\n\nView \n https://docs.google.com/document/d/1csx6IUYkfF40kLH5p7PpqRBeKIqUt1PM/edit#heading=h.gjdgxs \ncorporate sponsorship information.\n\nContact Us\nCoastal Arts Center\nPhysical Address View Map\n26389 Canal Road\nOrange Beach, AL 36561\n\n\n\n\nDirections\n\n\nPhone: 251-981-2787\n\n\nOffice/Gallery/Gift Shop hours\n\nMonday through Friday\n9 am to 4 pm\n\nClosed Saturday and Sunday\n\nGallery is closed on the following holidays:\n\nNew Year's Day\nMartin Luther King Jr. Day\nMardi Gras Day\nEaster Holidays\nMemorial Day\nIndependence Day\nLabor Day\nVeteran's Day\nThanksgiving Holidays\nChristmas Holidays\n\n\nDirectory\n\n\nOrange Beach Festival of Art\nGuest Guide & Schedule\nSite Map & Parking\nVolunteers\nFrequently Asked Questions (FAQs)\nPatrons of the Arts\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Orange Beach Festival of Art | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/338/Orange-Beach-Festival-of-Art",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterFestival of ArtOrange Beach Festival of Art\nOrange Beach Festival of Art\n\nOur next show, the 53rd Annual: March 13-March 14, 2027\n\nSaturday: 10 am to 5 pm\nSunday: 10 am to 4 pm\n\nNo entrance fee / Shuttle service from two local lots\n\n\n\n\nFine Artist applications are accepted on ZAPPLICATION from August 1 through October 31, 2026. \n\nAll other vendors are by invitation only.\n\nOverview\n\nVOTED BEST ART SHOW IN THE NATION BY THE READERS OF USA TODAY for TWO YEARS IN A ROW! And chosen as THE 2025 TOURISM \"EVENT OF THE YEAR\" BY ALABAMA GOVERNER KAY IVEY.\n\nFor more than 50 years, the Festival of Art has been our island's first rite of spring. It is a celebration of visual, literary, performing, musical and culinary arts. The show has won Best Art Show in Alabama three times in the past five years by the luxury magazine \"ALABAMA\" and is currently ranked in the top 100 of national fine art and design shows.\n\nThis fine arts festival is completely free with music and entertainment featured on two stages. You can be a part of it by volunteering or purchasing art through our Patron of the Arts program. There are multiple parking options.\n\n- For 2026 Participating Artist List with photos of their work - CLICK HERE!\n\n\nCongratulations to our 2026 Show Winners!\nBest of Show:  Sarah Cantor, Mixed Media\nFirst place, 2D: Molly McGuire, Mixed Media\nSecond place, 2D: Lisa Tantillo, Paint/Oil & Acrylic\nThird place, 2D: Curtis Whitwam, Paint/Watercolor\nFirst Place, 3D: John Cheer, Clay\nSecond place, 3D: Colleen Williams, Clay\nThird place, 3D: Michael Young, Wood\nArtisan Award: Jim Norton, Jewelry\nJudges Awards: \nChristine Tyler - Painting/Oil & Acrylic\nAnn McCann - Textile\nJeanne Scott - Clay\nExhibitors Choice: Ricky Steele, Painting-Oil & Acrylic\nCity of Orange Beach/Mayor Award: Tony Krysinsk, Mixed Media\nKids Choice Award: Marie Rust, Graphic Pencil\n\nSponsors\n\nThank you to all our 2026 sponsors. We appreciate your support of the arts in our community:\n\nThe Friends of the Arts, Inc.\nFlora-Bama\nFrank Brown Int'l. Songwriters Foundation\nGulf Shores/Orange Beach Sports & Events\nCentennial Bank\nCMC Gas\nCUTCO Cutlery\nDesoto's Seafood Kitchen\n\nView \n https://docs.google.com/document/d/1csx6IUYkfF40kLH5p7PpqRBeKIqUt1PM/edit#heading=h.gjdgxs \ncorporate sponsorship information.\n\nContact Us\nCoastal Arts Center\nPhysical Address View Map\n26389 Canal Road\nOrange Beach, AL 36561\n\n\n\n\nDirections\n\n\nPhone: 251-981-2787\n\n\nOffice/Gallery/Gift Shop hours\n\nMonday through Friday\n9 am to 4 pm\n\nClosed Saturday and Sunday\n\nGallery is closed on the following holidays:\n\nNew Year's Day\nMartin Luther King Jr. Day\nMardi Gras Day\nEaster Holidays\nMemorial Day\nIndependence Day\nLabor Day\nVeteran's Day\nThanksgiving Holidays\nChristmas Holidays\n\n\nDirectory\n\n\nOrange Beach Festival of Art\nGuest Guide & Schedule\nSite Map & Parking\nVolunteers\nFrequently Asked Questions (FAQs)\nPatrons of the Arts\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Orange Beach Festival of Art | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/339/Guest-Guide-Schedule",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterFestival of ArtGuest Guide & Schedule\nGuest Guide & Schedule\n\nWhat to expect:  A relaxed, uncomplicated layout, easy to enjoy in just a few hours on beautiful waterfront grounds. The art selection is fine-art focused.\n\nHours: The Festival is open 10-5 on Saturday and 10-4 on Sunday. The Kids' Art Alley will open with the festival on Saturday and at noon on Sunday. Kids' Art Alley ticket price: $5 for 6 tickets\n\nFood Vendors\n\n- SugarLove Food Truck\n\n- Tin Tin's Rock n Roll Food Truck\n\n- Anna's Cafe Food Truck\n\n- The Burger Box Food Truck\n\nMusic Stage '26\n\nSaturday\n\n10:15-11:30 Wiley Pete\n\n11:45-1:00 The Virtues\n\n1:15-2:30 Roman Street\n\n\n2:45-4:00 The Groovinators\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSunday\n\n11:00-12:15 Jenna McClelland\n\n12:30-1:45 JERI\n\n2:00-3:15 Coconut Radio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPerforming Arts Stage '26\n\nDate/Time\n\n\t​Group​\nSat. 11 AM\tCoastal Dance Company & Tai Chi\nSat. 12 PM\tEntertainment Ignited - Fire Dancers\n\n\nSat. 1 PM\n\n\t​Asteri Arts - Aerialists​\n\n\nSat. 2 PM\n\n\t​Entertainment Ignited - Fire Dancers​\nSat. 3 PM\t​Orange Beach Police Department K9 Unit Demonstration​\n\n\t​​\n\n\n\nSun. 12 PM\n\n\t​Gulf State Park Nature Center - Radical Raptors​\n\n\nSun. 1 PM\n\n\t​Gulf State Park Nature Center - Scutes, Scales & Tails​\n\n\nSun. 2 PM\n\n\tFoley High School Steel Drum Band/Rock Band\nSat. 3 PM​​\n\t​Orange Beach Police Department K9 Unit Demonstration​\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChildren's Literary Arts Tent '26\n\nSaturday\n\n10:00-1:00 Patricia Riley/Jimmy Byrge - The Evergreen Christmas Tree & Raymond Signs\n\n1:00-4:00 Patricia Riley/Jimmy Byrge - The Evergreen Christmas Tree & Raymond Signs \n\nLorrie Look - multiple books\n\n\n\n\nSunday\n\n10:00-1:00 Patricia Riley/Jimmy Byrge - The Evergreen Christmas Tree & Raymond Signs\n\nSharon Owens - Percy's Wild Hair & Sally Paints the Seashore\n\n1:00-4:00 Patricia Riley/Jimmy Byrge - The Evergreen Christmas Tree & Raymond Signs\n\nErin Cox - Sage\n\nOrange Beach Festival of Art\nGuest Guide & Schedule\nSite Map & Parking\nVolunteers\nFrequently Asked Questions (FAQs)\nPatrons of the Arts\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Guest Guide & Schedule | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/340/Site-Map-Parking",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterFestival of ArtSite Map & Parking\nSite Map & Parking\n\n\n\n\nPARKING\n\nFrom the west (Gulf Shores/Foley) park at Island Church with shuttle service provided for a $5 daily rate.  OR, park at Orange Beach City Hall for a $5 daily rate. \n\nNote: Island Church parking is available Saturday 9:30 am to 5 pm but only 1 to 5 pm on Sunday. \n\nFrom the east on Canal Rd. (Bear Point, Caswell, etc.) park at the Orange Beach Presbyterian Church or OB Community Church near the Kids Playground.\n\nGolf Cart Parking\n\nThere are two designated spaces for golf carts. One is adjacent to the Kids Playground. The other is on the west side of the grounds near Canal Road. Just look for signs.\n\nBike Village\n\nThe festival grounds will feature a special fenced-in area for our cycling guests. This is a moderately enclosed area, but we still encourage you to lock your bike to the provided stands.\n\nHandicap Parking\n\nDesignated handicap parking is in front of the OB Library and the OB Senior Center joint lot.  This is a free lot.\n\nOrange Beach Festival of Art\nGuest Guide & Schedule\nSite Map & Parking\nVolunteers\nFrequently Asked Questions (FAQs)\nPatrons of the Arts\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Site Map & Parking | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/341/Volunteers",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterFestival of ArtVolunteers\nVolunteers\nWe always appreciate our great volunteers!  \nWe appreciate all our volunteer help as the festival quite literally wouldn't be possible without you! Please consider joining us next year and ask a friend to join you!\n\n\n\n\nEvery year there are multiple options for types of volunteers needed, including:\n- Kids Art Alley\n- Welcome Tent Greeters\n- Parking Attendants\n- Booth Sitters\n- Gallery Greeters\n\n Version Options Volunteers Headline\n\nPlease arrive 10 minutes before your shift begins and go to the City of Orange Beach/Volunteer Check-In/Friends of the Arts tent in the center of the grounds.\n\nRemember to wear comfortable shoes! You will receive your t-shirt at check in so you can wear during the event.\nVolunteer coordinators will contact you in advance to confirm your volunteer station.\n\nPlease park at our satellite locations and take a shuttle to be dropped off directly at the entrance.\n\nBicycle and golf cart parking is available.\n\nOrange Beach Festival of Art\nGuest Guide & Schedule\nSite Map & Parking\nVolunteers\nFrequently Asked Questions (FAQs)\nPatrons of the Arts\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Volunteers | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/342/Frequently-Asked-Questions-FAQs",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterFestival of ArtFrequently Asked Questions (FAQs)\nFrequently Asked Questions (FAQs)\nFAQs\nCan anyone rent a booth at this show? \nIf I am an artist and want to apply, what are the deadlines? \nIs the show always at the same time of year? \nIs there an entrance fee for the Festival? \nIs there parking on site? \nWhat kind of artwork will I see? \nWhat happens if it rains? \nCan my pet come? \nVIEW ALL FAQS\nFAQS\nOrange Beach Festival of Art\nGuest Guide & Schedule\nSite Map & Parking\nVolunteers\nFrequently Asked Questions (FAQs)\nPatrons of the Arts\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Frequently Asked Questions (FAQs) | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/462/Patrons-of-the-Arts",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterFestival of ArtPatrons of the Arts\nPatrons of the Arts\nHow it works\n\nThe Patron program was created to provide committed support to the participating fine artists of the Orange Beach Festival of Art through dedicated funds which are used to purchase artwork during our annual show. This demonstrates to the artists our community’s commitment to the Festival and its artists, and in turn works to recruit both new and returning talent.  \n\nYou select your level of participation and donate those funds to Friends of the Arts. You receive two “Art Dollars” vouchers for use at the art festival to select your favorite piece(s). It’s a win-win-win: You are able to spend the majority of your dollars on original fine art; the fine artists are guaranteed committed interest in the festival and their work; and the portion retained by the Friends of the Arts directly funds our other show artists including performing artists and demonstrating artists.  \n\nGet complete details and access the purchase form for 2027 in December.\n\n\n\nThank You to Our 2026 Patrons of the Arts!\nGold\nSteve & Dee Burrow - Sea Oat Studio\nDavid Greene\nJoe & Rhonda Barber\nTom Poulos - D R Horton\nDiane & Allen McElroy\n\n\nSilver\nColette Boehm - Colette Boehm Freelance\nTim & Cindy Walker\nMary Ellen Davis\nNick Cantrell - Studio Cantrell, Gallery & Frames\nKathy Keane\nMonica Speak\nJanet Haenisch\n\n\nBronze\nFran Drake\nRobin Anderson\nVictoria Gordziel\nGayle Cahn\nJeff Silvers\nTara Gifford\nAnn Muller\nOrange Beach Festival of Art\nGuest Guide & Schedule\nSite Map & Parking\nVolunteers\nFrequently Asked Questions (FAQs)\nPatrons of the Arts\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Patrons of the Arts | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/343/Friends-of-the-Arts",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterFriends of the Arts\nFriends of the Arts\n\nThe Friends of the Arts is a 501c3 non-profit organization dedicated to supporting and promoting the arts in our Gulf Coast region. Being a part of this dynamic group is both fun and rewarding through the numerous activities and events that the Friends help support at the Coastal Arts Center of Orange Beach, including:\n\nThe Festival of Art - second full weekend in March\nSummer Art Camp/Teen Camp - June and July\nCASA (Coastal Arts Student Academy) - September through April\nArts Afire fall festival - October\nFrank Brown Int'l Songwriter's Festival - November\nLight Up The Arts - December\nArtist Receptions\nAcoustic Arts Music Series\n\nGo to the Friends' website to find out more and join the fun!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe appreciate our 2025-26 Friends of the Arts Corporate/Community Partners and our Lifetime Members!\n\n2025-2026 Corporate/Community Partners\n\n\nTara McMeans, Design Print Promote\nTacky Jacks Restaurants\nThe Wharf Group\nGulf Coast Dentistry\nThe Law Offices of Brenton C. McWilliams\n\n\n\n\n\n\nLifetime Memberships\n\n\nKaren Anderson & John Butterick\nTanya & David Blair\nDr. Joseph Busta Jr.\nJoan & Mike Contorno\nSusan & Bill Coyne\nSally & Gary Ellis\nBarbara Fitch\nJanet & Steve Haenisch\nSue & Scott Hardee\nPatti & Andy Haynes\nLeslie Higgins\nFrances Holk-Jones & Carl Jones\nYolanda & Jerry Johnson\nMarge & Joe Keller\nBeverly & Charlie Kent\nJulie & John Lepley\nBeverly & David Liebenow\n\n\nKathy & Ricky Lindsey\nSheila McCartney\nJoan MacDerment\nDiane & Allen McElroy\nCynthia McKay\nClara Myers & Dwayne Barron\nSherry Odom\nKristin Pierre\nPatricia & Mark Sanders\nLawanna & Johnny Sharpless\nMonica Speak\nDonna Turbyfill\nGrazina & Tom Turkula\nLouise Turkula & John Fox\nCindy & Tim Walker\nDr. Danny O. Winbush\n\n\n\n\nCoastal Arts Center of Orange Beach\nArt Gallery\nClasses\nClay Studio\nFestival of Art\nFriends of the Arts\nHot Shop\nYoung Artists\nStaff\nWeddings & Events Space\nUpcoming Events\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Friends of the Arts | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/345/About",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterHot ShopHot Shop at Coastal Arts Center\nHot Shop at Coastal Arts Center\n\nGlass artists are working in the Hot Shop daily and you may watch demo's for free.  Established in 2009, the Coastal Arts Center's Hot Shop is Alabama's premier glass studio, and is open to the public Mon-Fri.\n\nCLASSES (appointments required)\n\"Make Your Own\" Glass Blowing Lessons: $95 (Min. age 8+ to blow glass) Offered M/T/TH/F at 9:30 a.m. Please arrive at 9:15 for your appointment. If you arrive after 9:30, it will be considered a missed appointment.\nPrivate Glass Blowing Class: $225/hour (Pre-requisite is the Make Your Own class first.)\nSun Catcher Fused Glass Project: $45\nGlass Fusing\n\n(Prices subject to change.)\n\nCredit card required to hold reservation.  Cancellations less than 24 hours out will result in being charged the $95 fee.\n\nAppropriate Attire for Hot Shop\nClosed-toe shoes required\nAges 8+ may participate\nCotton clothes are recommended. No synthetic materials.\nBring something to drink as we do not have vending machines on our campus.\nField Trips / Group Bookings / Corporate Demo's\n\nCustom packages for group demo's are available.  Prices start at $185 for 45 minute demonstrations.  \n\nImportant Reminders\n\n- We are a non-smoking facility.\n- Children must be accompanied at all times.\n\n- Artists break every day from noon to 1 pm. (Times may vary.)\n\n- If you make an appointment to blow glass you are paying for an experience! No two pieces are alike and customers should expect variances in shape and size, especially with glass flowers.\n\n- Your glass piece must slowly cool in the annealer for 24 hours before you take it home. The Arts Center offers shipping for certain items for those who are unable to return in 24 hours to pick up their work.- We pack our products with extra care and love... however, damage during shipping is not our responsibility.\n\nHot Shop at Coastal Arts Center\nClasses\nField Trips\nParties\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Hot Shop at Coastal Arts Center | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/345/Hot-Shop-at-Coastal-Arts-Center",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterHot ShopHot Shop at Coastal Arts Center\nHot Shop at Coastal Arts Center\n\nGlass artists are working in the Hot Shop daily and you may watch demo's for free.  Established in 2009, the Coastal Arts Center's Hot Shop is Alabama's premier glass studio, and is open to the public Mon-Fri.\n\nCLASSES (appointments required)\n\"Make Your Own\" Glass Blowing Lessons: $95 (Min. age 8+ to blow glass) Offered M/T/TH/F at 9:30 a.m. Please arrive at 9:15 for your appointment. If you arrive after 9:30, it will be considered a missed appointment.\nPrivate Glass Blowing Class: $225/hour (Pre-requisite is the Make Your Own class first.)\nSun Catcher Fused Glass Project: $45\nGlass Fusing\n\n(Prices subject to change.)\n\nCredit card required to hold reservation.  Cancellations less than 24 hours out will result in being charged the $95 fee.\n\nAppropriate Attire for Hot Shop\nClosed-toe shoes required\nAges 8+ may participate\nCotton clothes are recommended. No synthetic materials.\nBring something to drink as we do not have vending machines on our campus.\nField Trips / Group Bookings / Corporate Demo's\n\nCustom packages for group demo's are available.  Prices start at $185 for 45 minute demonstrations.  \n\nImportant Reminders\n\n- We are a non-smoking facility.\n- Children must be accompanied at all times.\n\n- Artists break every day from noon to 1 pm. (Times may vary.)\n\n- If you make an appointment to blow glass you are paying for an experience! No two pieces are alike and customers should expect variances in shape and size, especially with glass flowers.\n\n- Your glass piece must slowly cool in the annealer for 24 hours before you take it home. The Arts Center offers shipping for certain items for those who are unable to return in 24 hours to pick up their work.- We pack our products with extra care and love... however, damage during shipping is not our responsibility.\n\nHot Shop at Coastal Arts Center\nClasses\nField Trips\nParties\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Hot Shop at Coastal Arts Center | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/346/Classes",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterHot ShopClasses\nClasses\n\"Make Your Own\"\n\nThis class allows you to blow your own ornament, or sculpt a flower or paper weight from your choice of colors. You will work directly with a glass resident artist. Includes 30 minute live glass-blowing demonstration of ornament, flower and paperweight by our resident artists. Then choose which one you would like to create yourself! Classes last up to 2.5 hours depending on the number of participants.\n\nClass sessions available at 9:30 am, Monday, Tuesday, Thursday, Friday\nSession fee: $95 per person (Minimum Age 8+ to blow glass)\nCancellation Policy\n\nClass space is limited. We hold reservations with a credit card. If you do not attend, and we do not receive notice of cancellation from you by noon the day prior to a class, you will be charged a fee of $95.\n\nPrivate Glass Blowing Class\n\nBuilding on the skills learned in Make Your Own classes, students will learn how to gather glass out of the furnace and reheat it. With ample instruction, students will make blown vessels from start to finish. Students will make approximately 2 to 3 pieces of beautiful glass art in this course. The artist will customize each class to meet the expectations of the student.\n\n$225 per hour, per person (Minimum Age 8)\nImportant Reminders\n\nIf you make an appointment to blow glass, you are paying for an experience! No two pieces are alike, and customers should expect variances in shape and size, especially with glass flowers.\n\nYour glass piece must slowly cool in the annealer for 24 hours before you take it home. The Arts Center offers shipping for certain items for those who are unable to return in 24 hours.\n\nWe pack our products with extra care and love. However, during the shipping process sometimes chips and other cosmetic issues can occur and would not be eligible for replacement.\n\nHot Shop at Coastal Arts Center\nClasses\nField Trips\nParties\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Classes | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/347/Field-Trips",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterHot ShopField Trips\nField Trips\n\nThe Hot Shop at the Coastal Arts Center of Orange Beach is a fully functional glass art studio where we enjoy sharing information about the art, science and history of glassblowing. Bring your organization or school for a fun and exciting presentation of glassblowing!\n\nGuests will be introduced to:\n\nThe history of glass\nPhysical properties of glass\nReactions of organic and inorganic materials to extreme temperatures\nPhysical forces and the affect on molten glass\nApplication of science in a glass studio\n\nThe presentation is adapted to the age and/or grade level in order to remain age-appropriate. Glassblowing is an exciting and educational experience for both children and adults.\n\nThe cost of a Hot Shop field trip (demonstration only) is $175. Additional hands-on experience is available at a per person rate. Every Hot Shop field trip can be custom designed for your group depending on your number of guests. Call for details.\n\nFor more information please call 251-981-ARTS (2787).\n\nHot Shop at Coastal Arts Center\nClasses\nField Trips\nParties\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Field Trips | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/348/Parties",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterHot ShopParties\nParties\n\nThe Hot Shop at the Coastal Arts Center of Orange Beach is our fully functional glass studio where you can enjoy glass forming and blowing experiences. Bring your organization, friends or family for a fun and exciting presentation of glassblowing!\n\nThe base fee for a Hot Shop demonstration is $175. You may also plan for attendees to have a make-your-own glass experience (for an additional fee).\n\nIf you're looking for a place to celebrate a birthday, anniversary, graduation, shower, etc. the Hot Shop at the Coastal Arts Center is the place to be!\n\nCall for more information 251-981-2787.\n\nHot Shop at Coastal Arts Center\nClasses\nField Trips\nParties\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Parties | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/349/Frequently-Asked-Questions-FAQs",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterHot ShopFrequently Asked Questions (FAQs)\nFrequently Asked Questions (FAQs)\nFAQs\nCan children take the Make Your Own class? \nCan I be successful at a Make Your Own class if I have no knowledge or experience? \nCan I design my own piece or bring something in to incorporate into my paperweight, flower, or ornament? \nCan I make a jellyfish, turtle, or any other glass item sold in the gallery? \nCan we take pictures in the Hot Shop? \nShould I bring anything to my class? \nWhat is your Cancellation Policy? \nWhat time should I arrive? \nWhat will I have to specifically do in the Make Your Own class? \nVIEW ALL FAQS\nFAQS\nHot Shop at Coastal Arts Center\nClasses\nField Trips\nParties\nFrequently Asked Questions (FAQs)\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Frequently Asked Questions (FAQs) | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/400/Young-Artists",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterYoung Artists\nYoung Artists\nCoastal Arts Student  Academy \nWonderful Wednesdays\n\n \nThese classes are geared toward students in 3rd-6th grade, with all supplies provided and step-by-step instruction given. Younger students can participate with parents staying in class to help. You must reserve your spot in advance by calling 251-981-2787.\n\n\n\n\nThe Coastal Arts Student Academy \"Camp CASA\" \nfor Summer 2026 is FULL, but you may sign up for Wonderful Wednesday classes or take a class in the Clay Studio or Hot Shop by calling 251-981-2787.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1\nArt Camp Participants Gus and Gabe\n \n2\n2021 Camp Hot Shop Glass Blowing Demonstration\n(Current Item)\n \n3\nClint Eating Culinary Art Snack\n \n4\nFamily at Summer Camp 2021\n \n5\nGirl Eating Edible Paints\n \n6\nGirl With Paint Splattered on Face Smiles for Photo\n \n7\nGirls Show Their Paintings\n \n8\nKids Art Group Painting with Casey\n \n9\nKids During Art Program\nCoastal Arts Center of Orange Beach\nArt Gallery\nClasses\nClay Studio\nFestival of Art\nFriends of the Arts\nHot Shop\nYoung Artists\nStaff\nWeddings & Events Space\nUpcoming Events\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Young Artists | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/Directory.aspx?DID=45",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeStaff Directory\nCoastal Arts Center\n \nDirections\n\nPhysical Address:View Map\n\n26389 Canal Road\nOrange Beach, AL 36561\n\nPhone:\n\n251-981-2787\n\nLink: Coastal Arts Center Page\n\n\nOffice/Gallery/Gift Shop hours\n\nMonday through Friday\n9 am to 4 pm\n\nClosed Saturday and Sunday\n\nGallery is closed on the following holidays:\n\nNew Year's Day\nMartin Luther King Jr. Day\nMardi Gras Day\nEaster Holidays\nMemorial Day\nIndependence Day\nLabor Day\nVeteran's Day\nThanksgiving Holidays\nChristmas Holidays\n\n\nStaff\n\nName\tTitle\tEmail\tPhone\tAdditional Phone\nHodge, Desiree\tDirector - Coastal Arts Center\tEmail Desiree Hodge\t251-981-2787 (ARTS)\t \nAnderson, Katrina\tWeddings and Special Events\tEmail Katrina Anderson\t251-923-5808\t251-981-2787 (ARTS)\nBlume-Cantrell, Maya\tCeramics Artist in Residence\t\t251-981-2787 (ARTS)\t \nBrewton, Amoreena\tArt Education Coordinator\tEmail Amoreena Brewton\t251-981-2787 (ARTS)\t \nDiMario, Amy\tGallery Associate\tEmail Amy DiMario\t251-981-2787 (ARTS)\t \nDiChiara, Brianne\tEvent Specialist\tEmail Brianne DiChiara\t251-923-0044\t251-981-2787 (ARTS)\nParks, Kerry\tGlass Artist in Residence\t\t251-981-2787 (ARTS)\t \nRush, Dan\tGlass Artist in Residence\t\t251-981-2787 (ARTS)\t \nThomley, Brandy\tGallery Associate\tEmail Brandy Thomley\t251-981-2787 (ARTS)\t \n\n\nReturn to Staff Directory\n\n\n\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Staff Directory • Coastal Arts Center"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/403/Weddings-Events-Space",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeFacilitiesArt CenterWeddings & Events Space\nWeddings & Events Space\nSPACES\n\nA perfect location for a destination wedding or corporate event featuring:\n\nA gorgeous gallery space including a 5,000-square-foot main hall, a catering kitchen, and separate bride and groom dressing areas.\nThe waterfront grounds feature a stage overlooking Wolf Bay, lavish landscaping and moss draped oaks. \nThe executive conference room is available for board meetings and small gatherings. This space offers a custom made 14 foot conference table with glass inlay. There is an adjacent room for overflow seating or for a refreshment area. The room also opens onto a large courtyard balcony with beautiful views of the property. Coffee/water service is available, and catering can be accommodated.\nCustom tailored team-building retreats in The Hot Shop, Clay Studio and Gallery are available.\nIMPORTANT INFO\n\nCall for pricing information and availability.  Wedding dates are frequently booked a year in advance.\n\nAs a fine arts center we have other annual special events which affect availability, so please call as soon as possible to reserve your date. \n\nWe do have specific policies regarding usage of the facility and a local wedding planner/director is required for large weddings as we do not have wedding planners on staff.\n\nMORE PHOTOS AND INFO ON OUR SOCIAL MEDIA\n\n\n\n\n\n\nContact Us\nKatrina Anderson\nWeddings and Special Events\nEmail Katrina Anderson\nPhone: 251-923-5808\n\n\nBrianne DiChiara\nEvent Specialist\nEmail Brianne DiChiara\nPhone: 251-923-0044\n\n\nCoastal Arts Center\nPhysical Address View Map\n26389 Canal Road\nOrange Beach, AL 36561\n\n\n\n\nDirections\n\n\nPhone: 251-981-2787\n\n\nOffice/Gallery/Gift Shop hours\n\nMonday through Friday\n9 am to 4 pm\n\nClosed Saturday and Sunday\n\nGallery is closed on the following holidays:\n\nNew Year's Day\nMartin Luther King Jr. Day\nMardi Gras Day\nEaster Holidays\nMemorial Day\nIndependence Day\nLabor Day\nVeteran's Day\nThanksgiving Holidays\nChristmas Holidays\n\n\nCoastal Arts Center of Orange Beach\nArt Gallery\nClasses\nClay Studio\nFestival of Art\nFriends of the Arts\nHot Shop\nYoung Artists\nStaff\nWeddings & Events Space\nUpcoming Events\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Weddings & Events Space | Orange Beach, AL"
+        },
+        {
+          "url": "https://www.orangebeachal.gov/172/Municipal-Election-Information",
+          "text": "Skip To Main Content\nSkip to Main Content\nSearch\nCITY HALL\nDEPARTMENTS\nFACILITIES\nBUSINESS\nCONTACT US\nHomeDepartmentsCity ClerkMunicipal Election Information\nMunicipal Election Information\nEffective January 1, 2024, new Precinct 41 polling site.\n\nOrange Beach Event Center\n4671 Wharf Parkway West\nOrange Beach, AL 36561\n\nThe Community Center is no longer the polling site. \n\nPlease note: Ono Island residents: For all future elections, Ono Island residents will vote at Baldwin County Voting Precinct Number 51 at The Harriett Cockrell Center, 31692 Dolphin Drive. Ono Island is not part of the City of Orange Beach, it is in the unincorporated area of Baldwin County. The creation of the new precinct was approved by the Baldwin County Commission on July 20, 2021 (PDF).\n\n2025 MUNICIPAL ELECTION\nElection Results\n\n2025 Municipal Election Results\n\nMayor\nJeffrey M. Boyd - 1,287\nTony Kennon - 1,901\nCity Council, Place No. 1\nTom Conerly - 1,000\nJack Robertson - 2,089\nCity Council, Place No. 2\nGinger Harrelson - 1,647\nAnnette Mitchell - 1,448\nCity Council, Place No. 3\nJerry Johnson - 2,059\nJay Neese - 983\nCity Council, Place No. 5\nJoJo McCarron - 1,466\nRobert Stuart II - 1,583\n\n3,209 Ballots Cast\n\n8,755 Total Registered Voters\n\nKey Dates\nSeptember 2, 2025, 12 Noon at City Hall - Special-Called Council Meeting to canvass the results of the August 26, 2025, General Municipal Election.\nNovember 3, 2025, 6:00 P.M. at the Community Center - Swearing-In Ceremony and Organizational Meeting for the start of the new term.\nFurther Information\n\nFor information regarding State and County elections, please contact Baldwin County.\n\nAbout / Public Notices\nCity Ordinances\nCouncil Agendas & Minutes\nCouncil Recordings\nFrequently Asked Questions (FAQs)\nMunicipal Election Information\nPublic Records Request\nCitizen's Participation Board Application\nJobs\nMunicipal Election\nAgendas &\nMinutes\nVisitors\nWeather\nEvents\nFAQs\nStay Informed\n\nCONTACT US\n\nCity of Orange Beach\n4099 Orange Beach Boulevard\nOrange Beach, AL 36561\n\nPhone: 251-981-6979\n\nSOCIAL MEDIA\nFacebook\n[Twitter]\nInstagram\nYouTube\nHELPFUL LINKS\nHome\nSite Map\nContact Us\nAccessibility\nCopyright Notices\nPrivacy Policy\nGovernment Websites by CivicPlus®\nPermit Portal\nTrash & Recyling\nCity History Video\nRecreation\nArts",
+          "title": "Municipal Election Information | Orange Beach, AL"
+        }
+      ],
+      "imageUrls": [],
+      "scraped_at": "2026-05-16T08:04:32.733Z",
+      "business_name": "Coastal Arts Center of Orange Beach"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "consolidation-venue-data",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.45857+00:00",
+    "updated_at": "2026-05-18T21:30:47.231171+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "6b87295a-139b-44b8-9a2b-661f9b00b95b",
+      "tag": "art center",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "3328a001-7cdc-40bd-9dd1-7ae704e620e7",
+      "tag": "art center",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "c5090a17-08c6-486f-b906-eb23984116b8",
+      "tag": "glass blowing",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "fd4d34d6-0d30-4524-a935-03fb9617f4f0",
+      "tag": "glass blowing",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "64d6a66d-2cec-45f2-8ace-ecc7d5a1f37a",
+      "tag": "pottery",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "885b8852-6ad8-48f0-b5f3-cb34407dba93",
+      "tag": "pottery",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "948e1647-dff2-4f9d-a9ba-13913be9793f",
+      "tag": "clay studio",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "30999f84-5115-43b9-980d-1e2a44a135d9",
+      "tag": "clay studio",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "d86e5d65-0216-46b5-a51f-1664b12f38bc",
+      "tag": "hot shop",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "1cbaa1fc-d71e-4a29-8c68-a53e171fa18d",
+      "tag": "hot shop",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "286c089c-ccfd-44e1-990d-1225f969db3f",
+      "tag": "fine art gallery",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "1f2671dc-8379-4c98-9444-b762e909ae08",
+      "tag": "fine art gallery",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "6d185e9c-b3eb-48cf-b2b0-0953c9f1eba5",
+      "tag": "art classes",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "7bd2fdfc-ee21-4666-be3d-3f484d71360c",
+      "tag": "art classes",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "cff8f481-1c1f-4d1b-aea7-a278900581c0",
+      "tag": "art camps",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "3907f30c-9ea1-4dc1-bd6d-4bff12b42ccd",
+      "tag": "art camps",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "efaa6078-04d2-46a0-9bbf-c9cba88d0b43",
+      "tag": "Gulf Coast artists",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "4fc9dab1-3003-4de4-a0f2-c2abf4e9bae6",
+      "tag": "Gulf Coast artists",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "7c804630-18e5-4581-ae31-d26227332bd3",
+      "tag": "waterfront",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "33cad515-d2c1-4063-bf18-c4c5578ea0af",
+      "tag": "waterfront",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "6b6c268e-e1e1-4e9c-87b0-bcac831945c2",
+      "tag": "Wolf Bay",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "41780f0c-7b78-4f04-8243-bca0a006e6e2",
+      "tag": "Wolf Bay",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "ae6a53f7-e8fc-4175-8edb-9f91b7840f91",
+      "tag": "family friendly",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "4870967e-9afb-4eae-a2b8-57e4fd480d5f",
+      "tag": "family friendly",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "f02598d6-398e-426d-91fd-d752c70df416",
+      "tag": "art education",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "4a438eab-f1f5-4832-83a0-edaad446fa76",
+      "tag": "art education",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "9555fd32-67f9-46f5-8ed4-6e02c0d4dc23",
+      "tag": "creative studios",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "d716a068-9b48-462f-b749-05b12b1e388f",
+      "tag": "creative studios",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "59a7ff10-03fa-41c4-a4e2-41c46bd15ee7",
+      "tag": "local art",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "511f6382-1944-4ff5-8172-85574a004bfb",
+      "tag": "local art",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "dceeb255-0df6-4353-ba3f-683b27fba1aa",
+      "tag": "workshops",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "de922a87-45cd-4388-9808-14c37c79b76c",
+      "tag": "workshops",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "b05c63ff-d394-4f02-b541-6867583e49b9",
+      "tag": "make your own art",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "ca958fb8-5f84-464d-8066-497a065d73e4",
+      "tag": "make your own art",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "3eaea8d6-57b2-48e7-890d-e2d8f4c5189c",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "0d8af2aa-ee95-4003-ac70-ba53c1cd9116",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "9d53c16d-15b3-43ee-b21b-88b83d04922f",
+      "tag": "Art & Culture",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "9d0076ea-19b0-4d7e-abcd-87a4f77f2105",
+      "tag": "Art & Culture",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "96e74fca-75e2-4243-b9fa-347139a5e45c",
+      "tag": "Family Activities",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "f50bcf4a-8fe6-4a6f-a3b6-5a98b9e6e434",
+      "tag": "Family Activities",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "f3598774-5d04-4430-b394-6e74f435e32f",
+      "tag": "Classes & Workshops",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "d069054b-4c3d-4497-b8b7-0652fe82ed0e",
+      "tag": "Classes & Workshops",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "fca9f2f7-3bdb-4f15-b735-86920034555f",
+      "tag": "Galleries",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "ce94cb50-c2aa-413d-af9f-310617ead4ef",
+      "tag": "Galleries",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "e65a6f09-be0d-4d62-acf9-9b2ba5ad4d02",
+      "tag": "Museums",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "20d7cbfc-c13f-49a7-b0f6-3857e356f497",
+      "tag": "Museums",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "c11616dc-495b-4cc8-8db1-29dd33fe3afa",
+      "tag": "entertainment",
+      "tag_category": "industry",
+      "sort_order": 23
+    },
+    {
+      "id": "5d5b0b77-8b65-4195-8aa3-a06b00f90ce2",
+      "tag": "entertainment",
+      "tag_category": "industry",
+      "sort_order": 23
+    },
+    {
+      "id": "c9312585-3506-4f7f-bfc3-f4aabc672f20",
+      "tag": "attractions",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "c252c60b-09dc-48e4-89dc-7576cae0edc7",
+      "tag": "attractions",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "fc25f06b-10be-4536-9be3-7844d3d5b736",
+      "tag": "art gallery",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "5259b2fe-1e87-464b-bf4f-744690cdddee",
+      "tag": "art gallery",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "0d4a60e0-9186-4a5d-b8f9-3cb824abd29d",
+      "tag": "event venue",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "9ea76ec1-de9c-442e-a3b5-d277908a07b5",
+      "tag": "event venue",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "bc69e615-8623-4ac6-9bc9-272eebf7e9eb",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "54bfd24c-20ae-4006-9357-65cadfeaf5b5",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "d1469e0b-389a-4211-96d9-d2fc29b4b3f2",
+      "tag": "wedding venue",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "01ba4a63-e977-4edc-9458-874eef689912",
+      "tag": "wedding venue",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "215adb9f-3982-4cc1-b5d2-02c6f9f19748",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "70c4d7e6-be61-435b-84fe-6abb2b1625fa",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "7cf1b55d-e3c0-47fa-9ebe-8b69a0ccff13",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "2a05f659-e7a5-436a-98ec-563519bfaabd",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "17bcb161-4239-4ef9-b627-02c38356aa4e",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 31
+    },
+    {
+      "id": "4e9d9cca-cbc5-4d96-b459-a226767fa619",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 31
+    },
+    {
+      "id": "c7248633-1d12-478a-986f-50a28aae097d",
+      "tag": "association or organization",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "95dcf3fb-0da1-4c5c-ad51-ae83e4328084",
+      "tag": "association or organization",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "91ca2253-db22-4d95-9537-d49ce3348cf9",
+      "tag": "tourist attraction",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "c71f331a-7781-4791-aa60-fd53c91234de",
+      "tag": "tourist attraction",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "ac3a04d3-04e4-4f71-a139-c45b72c3855b",
+      "tag": "art",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "743fb93a-9c68-4eaf-aaa2-2ab1eec93a26",
+      "tag": "art",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "4ba0e633-ce86-4325-ab11-8ba8fcbcc49d",
+      "tag": "art_gallery",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "53628080-c050-41e8-9569-8e61a648ce77",
+      "tag": "art_gallery",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "04009f16-4a8d-4f28-ade5-34937f2eaf98",
+      "tag": "tourist_attraction",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "2fff116c-75f9-4514-872b-cc18401fa642",
+      "tag": "tourist_attraction",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "696a2ff5-808a-4e7c-a7c6-26922ae91ec5",
+      "tag": "wedding_venue",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "3f97863a-1881-4cf4-90db-b0762411bbed",
+      "tag": "wedding_venue",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "78c2cba5-2528-4157-8067-28f8d85103f9",
+      "tag": "association_or_organization",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "d6876909-4b73-4772-a74f-b42e37014585",
+      "tag": "association_or_organization",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "4eb8599a-4d62-4f11-9d2c-43e31f524ec5",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 39
+    },
+    {
+      "id": "af5a4478-33be-42e9-8c10-ed4f96828b12",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 39
+    },
+    {
+      "id": "7c7054da-a9b0-49c7-a713-b965bb2b7e1f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 40
+    },
+    {
+      "id": "f6ab0d59-84ba-434b-81d1-b18d6f495528",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 40
+    }
+  ],
+  "sections": [
+    {
+      "id": "a04fb9ad-dabe-4910-8c46-4d218d817c4a",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "738b153a-de79-4ac6-b48c-5d953aece9d4",
+      "entity_id": "14125f7c-6872-46bb-bc7b-cd02445f40d2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/14125f7c-6872-46bb-bc7b-cd02445f40d2/14125f7c-6872-46bb-bc7b-cd02445f40d2_1779132032421.1904.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:53.69608+00:00"
+    },
+    {
+      "id": "c2d9e0b5-8667-4b60-a4fd-f9d0a46a242e",
+      "entity_id": "14125f7c-6872-46bb-bc7b-cd02445f40d2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/14125f7c-6872-46bb-bc7b-cd02445f40d2/14125f7c-6872-46bb-bc7b-cd02445f40d2_1779132096330.6045.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:53.844327+00:00"
+    },
+    {
+      "id": "face99be-ff5a-4e2f-a4ad-8d38581fe624",
+      "entity_id": "14125f7c-6872-46bb-bc7b-cd02445f40d2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/14125f7c-6872-46bb-bc7b-cd02445f40d2/14125f7c-6872-46bb-bc7b-cd02445f40d2_1779139778534.972.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:54.008083+00:00"
+    },
+    {
+      "id": "0226756b-f3ac-43ac-8737-f3af31db2c99",
+      "entity_id": "14125f7c-6872-46bb-bc7b-cd02445f40d2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/14125f7c-6872-46bb-bc7b-cd02445f40d2/14125f7c-6872-46bb-bc7b-cd02445f40d2_1779131494227.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:53.398634+00:00"
+    },
+    {
+      "id": "8a6c47c6-59a8-4ba3-a18d-1eaee3e419a1",
+      "entity_id": "14125f7c-6872-46bb-bc7b-cd02445f40d2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/14125f7c-6872-46bb-bc7b-cd02445f40d2/14125f7c-6872-46bb-bc7b-cd02445f40d2_1779139842223.9836.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:54.154811+00:00"
+    },
+    {
+      "id": "398a2a3c-7f6c-495f-bdfc-4625b08dd7bd",
+      "entity_id": "14125f7c-6872-46bb-bc7b-cd02445f40d2",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/14125f7c-6872-46bb-bc7b-cd02445f40d2/14125f7c-6872-46bb-bc7b-cd02445f40d2_1779131557918.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:53.544072+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

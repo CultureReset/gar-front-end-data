@@ -1,32 +1,632 @@
 {
-  "id": "c71f5318-aa31-4d0d-a693-343f5ad9c134",
-  "slug": "8-reale-obal-35Gxj4",
-  "name": "8 Reale OBAL",
-  "entity_type": "restaurant",
-  "entity_subtype": "cocktail_bar",
-  "icon": "🏪",
-  "description": "If you find yourself in Orange Beach looking for a touch of mystery and sophistication, exploring the world of speakeasy cocktails might be just the thing for you. 8 Reale is a hidden gem that offers a unique experience, transporting you back to the days of Prohibition but with a modern twist. At 8 Reale it's not just about the cocktails; it's about the ambiance, the secrecy, and the craftsmanship. The mixologists behind the bar take their craft seriously, creating delicious and intriguing concoctions. From the classics like the Old Fashioned or the Sidecar to more contemporary creations featuring fresh, local ingredients, we cater to a wide range of tastes. Whether you prefer your cocktails strong and spirit-forward or light and refreshing, there is something for everyone behind the hidden vaulted door of our establishment. If you're up for an adventure and ready to explore a different side of the Orange Beach nightlife, step into 8 Reale and let the magic of the cocktails transport you to another time and place. Cheers to hidden delights and unforgettable sips with us!",
-  "phone": "(251) 484-0712",
-  "email": null,
-  "website_url": "http://www.8realeobal.com/",
-  "address_line_1": "4851 Wharf Pkwy W Suite D-112, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.5,
-  "review_count": 90,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/c71f5318-aa31-4d0d-a693-343f5ad9c134/c71f5318-aa31-4d0d-a693-343f5ad9c134_1779139807471.7383.jpg",
-  "photos": [],
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "c71f5318-aa31-4d0d-a693-343f5ad9c134",
+    "place_id": "ChIJjUQA6PQFmogRAOYE735Gxj4",
+    "google_maps_uri": "https://maps.google.com/?cid=4523380386730141184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "8-reale-obal-35Gxj4",
+    "name": "8 Reale OBAL",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "cocktail_bar",
+    "secondary_types": [],
+    "google_type": "cocktail_bar",
+    "google_types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 484-0712",
+    "international_phone": null,
+    "website_url": "http://www.8realeobal.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4851 Wharf Pkwy W Suite D-112, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2945001,
+    "longitude": -87.6295119,
+    "short_address": "4851 Wharf Pkwy W Suite D-112, Orange Beach",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 90,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "If you find yourself in Orange Beach looking for a touch of mystery and sophistication, exploring the world of speakeasy cocktails might be just the thing for you. 8 Reale is a hidden gem that offers a unique experience, transporting you back to the days of Prohibition but with a modern twist. At 8 Reale it's not just about the cocktails; it's about the ambiance, the secrecy, and the craftsmanship. The mixologists behind the bar take their craft seriously, creating delicious and intriguing concoctions. From the classics like the Old Fashioned or the Sidecar to more contemporary creations featuring fresh, local ingredients, we cater to a wide range of tastes. Whether you prefer your cocktails strong and spirit-forward or light and refreshing, there is something for everyone behind the hidden vaulted door of our establishment. If you're up for an adventure and ready to explore a different side of the Orange Beach nightlife, step into 8 Reale and let the magic of the cocktails transport you to another time and place. Cheers to hidden delights and unforgettable sips with us!",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/c71f5318-aa31-4d0d-a693-343f5ad9c134/c71f5318-aa31-4d0d-a693-343f5ad9c134_1779139807471.7383.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/8_reale_obal/",
+    "social_facebook": "https://www.facebook.com/8realeOBAL/",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 5:00 PM – 12:00 AM",
+      "Tuesday: 5:00 PM – 12:00 AM",
+      "Wednesday: 5:00 PM – 12:00 AM",
+      "Thursday: 5:00 PM – 12:00 AM",
+      "Friday: 5:00 PM – 1:00 AM",
+      "Saturday: 5:00 PM – 1:00 AM",
+      "Sunday: 5:00 PM – 12:00 AM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.8realeobal.com",
+      "menu": {
+        "categories": []
+      },
+      "tags": [
+        "speakeasy",
+        "cocktails",
+        "craft cocktails",
+        "nightlife",
+        "hidden bar",
+        "prohibition",
+        "coastal",
+        "classes",
+        "rental",
+        "membership"
+      ],
+      "type": "Speakeasy Bar",
+      "about": {
+        "chef": null,
+        "vibe": "Mysterious, sophisticated, Prohibition-era speakeasy with coastal flair",
+        "owner": null,
+        "press": [
+          "Gulf Coast Media - Morgan Freeman Spotted",
+          "Scenic 98 Coastal Feature",
+          "The Iowa Gallivant Review"
+        ],
+        "awards": [],
+        "parking": null,
+        "best_for": [
+          "date night",
+          "groups",
+          "cocktail enthusiasts",
+          "nightlife",
+          "special occasions"
+        ],
+        "dress_code": null,
+        "description": "8 Reale is a hidden speakeasy cocktail bar in Orange Beach, AL, transporting guests back to the days of Prohibition with a modern twist. Skilled mixologists craft everything from classic cocktails like the Old Fashioned and Sidecar to contemporary creations featuring fresh, local ingredients. The bar offers a unique experience defined by mystery, ambiance, and craftsmanship — all behind a hidden vaulted door.",
+        "established": null,
+        "insider_tip": "Look for 'Today's Secret Code' on the website — this speakeasy keeps its hidden-door concept alive with a daily password system.",
+        "reservations": null,
+        "accessibility": null,
+        "elevator_pitch": "A secretive coastal speakeasy tucked behind a hidden vaulted door, where expert mixologists craft Prohibition-era classics and modern cocktails in an atmosphere dripping with intrigue and sophistication.",
+        "age_restriction": "21+"
+      },
+      "hours": {
+        "notes": "Non-Members 5pm - Until; Members may have different access",
+        "friday": "5pm - Until",
+        "monday": "5pm - Until",
+        "sunday": "5pm - Until",
+        "tuesday": "5pm - Until",
+        "saturday": "5pm - Until",
+        "thursday": "5pm - Until",
+        "wednesday": "5pm - Until"
+      },
+      "events": [
+        {
+          "day": null,
+          "name": "Cocktail Classes",
+          "time": null,
+          "frequency": "Scheduled — tickets available online",
+          "recurring": true,
+          "description": "Learn to craft high-end cocktails including recipes, ingredient pairings, and the history behind classic drinks. All bartending supplies provided."
+        }
+      ],
+      "contact": {
+        "zip": "36561",
+        "city": "Orange Beach",
+        "email": "8realespeakeasy@gmail.com",
+        "phone": "251-484-0712",
+        "state": "AL",
+        "address": "4851 Wharf Pkway W, Suite D-112"
+      },
+      "gallery": [
+        "https://images.squarespace-cdn.com/content/v1/660351111981e43d4b12f41e/66425b55-cc61-4542-9abf-dea516974084/output-onlinepngtools.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/660351111981e43d4b12f41e/dc05ce8d-493d-49a5-ac3f-abd9698e156f/IMG_1627+%281%29.jpg"
+      ],
+      "sources": [
+        "https://www.8realeobal.com",
+        "https://www.8realeobal.com/classes",
+        "https://www.8realeobal.com/aboutus"
+      ],
+      "tagline": "Orange Beach's BEST kept secret",
+      "features": [
+        "full bar",
+        "craft cocktails",
+        "cocktail classes",
+        "private rental",
+        "membership program",
+        "secret entry",
+        "online store",
+        "career opportunities"
+      ],
+      "hashtags": [
+        "#8Reale",
+        "#OrangeBeach",
+        "#Speakeasy",
+        "#CraftCocktails",
+        "#AlabamaBars",
+        "#HiddenBar",
+        "#CoastalHideaway",
+        "#ProhibitionVibes",
+        "#OrangeBeachNightlife",
+        "#GulfCoast"
+      ],
+      "specials": [],
+      "atmosphere": [
+        "Upscale",
+        "Mysterious",
+        "Intimate",
+        "Sophisticated",
+        "Trendy",
+        "Adults Only"
+      ],
+      "categories": [
+        "Bar",
+        "Speakeasy",
+        "Cocktail Bar",
+        "Event Space"
+      ],
+      "scraped_at": "2026-05-15T21:07:13.189Z",
+      "price_range": "$$$",
+      "extracted_at": "2026-05-16T05:17:59.081Z",
+      "neighborhood": "The Wharf",
+      "social_links": {
+        "yelp": null,
+        "tiktok": null,
+        "twitter": null,
+        "website": "https://www.8realeobal.com",
+        "youtube": null,
+        "facebook": null,
+        "instagram": null,
+        "opentable": null,
+        "google_maps": null,
+        "tripadvisor": null
+      },
+      "business_name": "8 Reale",
+      "cuisine_types": [
+        "Cocktails",
+        "Craft Beverages"
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.225833+00:00",
+    "updated_at": "2026-05-21T06:05:39.080979+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": "high",
+    "extraction_timestamp": "2026-05-21T06:05:35.906+00:00",
+    "extraction_notes": "The HTML provided is incomplete - it appears to be truncated mid-section. The page appears to be a Squarespace-built website for 8 Reale with navigation including Home, Today's Secret Code, About Us, Cocktails Classes, Rental, Store, Gallery, and Career sections. Social media links to Facebook and Instagram are present. However, the actual content of the page (menu, hours, pricing, description, contact information) is not visible in the truncated HTML. The page section begins but is cut off before any substantive content. A complete HTML document would be needed to extract comprehensive restaurant details.",
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "275c31a4-21a5-4327-bf7d-0ffe3d916a24",
+      "tag": "speakeasy",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "40391ec9-1721-48d1-9325-de56dbe7eb88",
+      "tag": "cocktails",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "77815db9-f820-4542-be13-078eedd9314e",
+      "tag": "prohibition-era",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "e42ad998-66e7-4f89-9814-5f154001fe90",
+      "tag": "craft cocktails",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "60cfba7a-9d31-4203-901e-65b89e008ecb",
+      "tag": "hidden bar",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "00cab0ea-d568-4079-a734-ccbf3e586154",
+      "tag": "upscale bar",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "9b749b28-4cf2-439b-8f99-8308d6f254c7",
+      "tag": "mixology",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "c7c5d40c-3ff7-4d08-8a3e-7f9e569601cd",
+      "tag": "nightlife",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "ed9cc78c-d94a-4e25-a2f3-c54449c945d4",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "4f0bb42c-145a-4560-a1da-6f5d8af5cfa3",
+      "tag": "Alabama Wharf",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "5af387f5-7753-4629-90ca-8267e9a0956c",
+      "tag": "bourbon",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "5936f423-7d65-4dce-af2f-10aded53d111",
+      "tag": "craft spirits",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "08f995ab-5563-4dbe-9ff1-cadbee733f04",
+      "tag": "venue rental",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "531f99fc-0879-45b5-81ab-5a7822c6cb00",
+      "tag": "private events",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "418adc13-0f78-4af6-beef-8f6af0653c4f",
+      "tag": "cocktail classes",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "b63e2c22-e5ed-4951-8687-b3b52d37b311",
+      "tag": "Bars",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "0d6d2350-2713-48ce-92ce-76e406d048d7",
+      "tag": "Nightlife",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "e9911d5b-b7dc-49db-90d5-d5722445ee6b",
+      "tag": "Cocktail Lounges",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "128a33be-b2cc-4cbd-a9bf-f39d1312a1e6",
+      "tag": "Speakeasies",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "e388ea08-78a3-4bc3-a47c-1376d86714ca",
+      "tag": "Entertainment",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "1066b51a-4d07-48d8-a0ce-a7c73dbf74b4",
+      "tag": "Event Venues",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "3e0f1391-05ef-4428-9050-fa2e2464803e",
+      "tag": "Classes & Workshops",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "553ef56f-6145-4373-812c-a5d3d4ba352a",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 22
+    },
+    {
+      "id": "8986df38-b357-472a-a572-9a0c5c41989a",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "60ac0813-9fc6-4098-a057-1b029b70ed89",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "82504789-e942-4076-a98e-446f47776c74",
+      "tag": "cocktail bar",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "35feb697-662f-4912-93cd-c2bea41dc95b",
+      "tag": "event venue",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "14694358-f5ad-461e-b478-447c891adbd6",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "aab5d040-c956-466a-adce-7f3d2532fb04",
+      "tag": "live music venue",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "0b6625bd-3bfe-475e-90d6-f466f1788113",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 29
+    },
+    {
+      "id": "086c0dcc-6fdc-4fb5-b103-40eadfb57c5f",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 30
+    },
+    {
+      "id": "653f06f7-699f-48bd-8445-b57f8a31b182",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 31
+    },
+    {
+      "id": "ca8c8597-bf6c-406a-a724-46ed4aead53c",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 32
+    },
+    {
+      "id": "f9b6ef34-657b-4245-895f-6a61d558bf7f",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 33
+    },
+    {
+      "id": "f9f1e10e-0193-4a95-bb05-27d598854ada",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 34
+    },
+    {
+      "id": "27ecc7f7-06d8-49f4-97f6-e20ab59efd32",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 35
+    },
+    {
+      "id": "cb29bbe2-ecf3-48b7-a5f3-ecbd4a5dd795",
+      "tag": "cocktail_bar",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "966dba3b-8a9b-42db-b3a2-6e36c4fa72bb",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "b471c7b9-6a6b-4919-afc7-6c59a5e7b1f0",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "6683e91e-a78e-4948-be2b-36ed1fea6660",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 39
+    }
+  ],
+  "sections": [
+    {
+      "id": "13303a43-9e34-427f-b1bd-a490d93b09a3",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "be960600-f057-4d0e-b202-1f61e3ff5332",
+      "entity_id": "c71f5318-aa31-4d0d-a693-343f5ad9c134",
+      "place_id": null,
+      "event_name": "Cedric Brooks | 8 Reale OBAL | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Cedric Brooks",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "8 Reale OBAL",
+      "day_of_week": null,
+      "event_date": "2026-05-18",
+      "start_time": "19:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "435937c3-ed52-431b-9ca6-50cdc9626d63",
+      "entity_id": "c71f5318-aa31-4d0d-a693-343f5ad9c134",
+      "place_id": null,
+      "event_name": "Cedric Brooks | 8 Reale OBAL | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Cedric Brooks",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "8 Reale OBAL",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "4be51895-87a5-4ca9-b13b-3d321f6819b5",
+      "entity_id": "c71f5318-aa31-4d0d-a693-343f5ad9c134",
+      "place_id": null,
+      "event_name": "Cedric Brooks | 8 Reale OBAL | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Cedric Brooks",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "8 Reale OBAL",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,245 +1,493 @@
 {
-  "id": "8e74e4f3-0011-41fc-a11a-b5dad2fbc4a9",
-  "slug": "anchors-aweigh-rv-resort-llc-1gpJLg",
-  "name": "Anchors Aweigh RV Resort LLC",
-  "entity_type": "park",
-  "entity_subtype": "park",
-  "icon": "🏪",
-  "description": "If you've never been to Alabama, you're missing one of the most picturesque areas of the country. Anchors Aweigh RV Resort is a premier RV park and campground only 7 miles from the Gulf of Mexico in Foley, Baldwin County, and offers the finest camping near the Alabama Gulf Coast! Anchors Aweigh RV Resort is committed to providing a website that is accessible to the widest possible audience, regardless of technology or ability. We aim to comply with WCAG accessibility standards up to level AA.",
-  "phone": "(251) 971-6644",
-  "email": null,
-  "address_line_1": "19814 County Rd 20 S, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "http://anchorsaweighrvresort.com/",
-  "rating": 4.7,
-  "review_count": 324,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "8e74e4f3-0011-41fc-a11a-b5dad2fbc4a9",
+    "place_id": "ChIJ7__Tbc4PmogRWNbi31gpJLg",
+    "google_maps_uri": "https://maps.google.com/?cid=13268775863830369880&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "anchors-aweigh-rv-resort-llc-1gpJLg",
+    "name": "Anchors Aweigh RV Resort LLC",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "rentals",
+    "secondary_types": [],
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 971-6644",
+    "international_phone": null,
+    "website_url": "http://anchorsaweighrvresort.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "19814 County Rd 20 S, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3617821,
+    "longitude": -87.6863327,
+    "short_address": "19814 County Rd 20 S, Foley",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 324,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Paved RV sites with full hookups, Wi-Fi & picnic tables, plus a pool, hot tub & laundry facility.",
+    "description": "If you've never been to Alabama, you're missing one of the most picturesque areas of the country. Anchors Aweigh RV Resort is a premier RV park and campground only 7 miles from the Gulf of Mexico in Foley, Baldwin County, and offers the finest camping near the Alabama Gulf Coast! Anchors Aweigh RV Resort is committed to providing a website that is accessible to the widest possible audience, regardless of technology or ability. We aim to comply with WCAG accessibility standards up to level AA.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/profile.php?id=100063573340913",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.027834+00:00",
+    "updated_at": "2026-05-17T21:17:41.538902+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
-      "tag": "hot tub",
-      "tag_category": "type"
-    },
-    {
+      "id": "4e1921fe-2549-43c1-9575-6825d3e7a60c",
       "tag": "RV park",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "43de1670-466b-4408-ba7a-4dcd5265f81a",
+      "tag": "RV park",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "ae33e80c-4817-48b7-b848-bea6edf897fe",
       "tag": "RV resort",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "5f57a6cd-25a3-432b-8285-926cb1720ce1",
+      "tag": "RV resort",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "904b99d4-185c-43dc-965d-83f5e7cc081c",
       "tag": "camping",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "4ebeeae2-ba7e-4c38-91de-92c1c00164cf",
+      "tag": "camping",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "0cb2b7ee-cc5b-4589-8a09-a7a81960bd51",
       "tag": "RV sites",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "aa552b83-508a-4881-abed-b53422ff4cad",
+      "tag": "RV sites",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "21c9613c-8a1a-4642-a10e-55f2f274e4c2",
       "tag": "Gulf Coast",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "0d8aa361-5252-4f3b-acb0-935b668f895f",
+      "tag": "Gulf Coast",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "4058d2ef-9d9e-4be5-a099-eebcc4c36ce7",
       "tag": "Alabama",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "8b049ede-40fe-4aac-b15e-e3bc1cc2dcce",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "f6729ce6-1a33-4c9d-859a-63d0afdb6b1e",
       "tag": "Foley",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "2fd08fc0-7fc8-4f11-9f51-b3820d82df25",
+      "tag": "Foley",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "300989ad-7c9f-4700-b360-7a0786ecc3e3",
       "tag": "family-friendly",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "5ff9da39-7959-43ba-acec-af73af20c6df",
+      "tag": "family-friendly",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "ac7ffd1d-410e-4df4-8687-700b1f9a0429",
       "tag": "full hookups",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
+      "id": "828a0035-d934-421b-aed1-396feb390c54",
+      "tag": "full hookups",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "7fad8641-293d-4d3f-8926-9a7e66259d0c",
       "tag": "pool",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 9
     },
     {
+      "id": "bc57fc85-ac63-4b77-b8e8-69b9f7e9b22d",
+      "tag": "pool",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "50aa0062-b70c-4fd6-b941-cac4702505d4",
       "tag": "hot tub",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "755b54cd-7e3a-4fcb-9239-cdb54eca846e",
+      "tag": "hot tub",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "b9396a9d-52bf-4051-b235-fc6d79cfe881",
       "tag": "dog park",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 11
     },
     {
+      "id": "5f9d97f1-45af-4662-8ba6-00cd7886f4f7",
+      "tag": "dog park",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "23789561-7ad0-4ca3-958c-85d3350556d1",
       "tag": "pickleball",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 12
     },
     {
+      "id": "850b792c-757e-48fc-87ed-c42ddc120765",
+      "tag": "pickleball",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "1085296a-a7bb-49a3-9ec5-4f6bd471a869",
       "tag": "fishing pond",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 13
     },
     {
+      "id": "c1c5b336-f94e-423e-876d-fe64243b711d",
+      "tag": "fishing pond",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "3f5ceed7-3c7a-4008-a3c3-ad750925c6a1",
       "tag": "RV Parks & Campgrounds",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 14
     },
     {
+      "id": "72e926f5-b876-43e0-8563-e46cf48ee6cc",
+      "tag": "RV Parks & Campgrounds",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "ff9602dc-c802-4639-9f6a-584818c4911f",
       "tag": "Rentals",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 15
     },
     {
+      "id": "d7517cc5-c794-45a5-86a2-00d88f5c494f",
+      "tag": "Rentals",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "56479ddb-4e17-434e-959d-e67f03ae1bc2",
       "tag": "Accommodations",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 16
     },
     {
+      "id": "13795020-4ed5-4456-8457-565c6e751b83",
+      "tag": "Accommodations",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "c32b887c-234b-4364-bc62-c7a9ac6bc291",
       "tag": "Outdoor Recreation",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 17
     },
     {
+      "id": "00e0b683-eaae-4bb1-b98a-5228e3a0154c",
+      "tag": "Outdoor Recreation",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "4a3b2dd4-d70f-4749-8b4a-0a082df84450",
       "tag": "Gulf Coast Attractions",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 18
     },
     {
+      "id": "cb0d5a5e-d5c1-4677-914f-04a894c9c902",
+      "tag": "Gulf Coast Attractions",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "aee35ff7-356f-47c0-91d2-73350c505962",
       "tag": "Family Activities",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 19
     },
     {
+      "id": "f872de6e-68c0-4791-a434-15decfc23b21",
+      "tag": "Family Activities",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "f37954b0-075d-40e4-bcf2-b994d4829ee7",
       "tag": "outdoor-recreation",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 20
     },
     {
+      "id": "5a1488d9-c2a9-4474-9c7f-50c8ef0543b1",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 20
+    },
+    {
+      "id": "c3998732-f7a5-4e33-b5e0-b8eea0ea3e5e",
       "tag": "rentals",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 21
     },
     {
+      "id": "9a5725bb-deed-4e85-a419-c9521bc81b99",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "5d83cc72-4a96-4deb-ab3e-ef902c37ba4b",
       "tag": "rv_park",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 22
     },
     {
+      "id": "5d50adc6-890a-4233-a99c-5b76209ab920",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "0d08955f-62d0-456a-af0f-eecb99d92eff",
       "tag": "lodging",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 23
     },
     {
+      "id": "70e255d5-7727-48e4-bcf3-edd56b39caed",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "10889167-e339-41a7-b61b-edfac389d9f4",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 24
     },
     {
+      "id": "9592c018-adb2-4450-96bd-b3e53c1d3f83",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "08b06b47-837a-444b-ad8e-464517775291",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 25
     },
     {
+      "id": "ba603817-5561-4a85-9ec0-68d5a29156d5",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "013abdde-ea9f-4bac-9d6b-45871808a014",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 26
     },
     {
-      "tag": "Gulf Coast",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Alabama",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Foley",
-      "tag_category": "type"
-    },
-    {
-      "tag": "family-friendly",
-      "tag_category": "type"
-    },
-    {
-      "tag": "full hookups",
-      "tag_category": "type"
-    },
-    {
-      "tag": "pool",
-      "tag_category": "type"
-    },
-    {
-      "tag": "RV park",
-      "tag_category": "type"
-    },
-    {
-      "tag": "RV resort",
-      "tag_category": "type"
-    },
-    {
-      "tag": "camping",
-      "tag_category": "type"
-    },
-    {
-      "tag": "RV sites",
-      "tag_category": "type"
-    },
-    {
-      "tag": "dog park",
-      "tag_category": "type"
-    },
-    {
-      "tag": "pickleball",
-      "tag_category": "type"
-    },
-    {
-      "tag": "fishing pond",
-      "tag_category": "type"
-    },
-    {
-      "tag": "RV Parks & Campgrounds",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Rentals",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Accommodations",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Outdoor Recreation",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Gulf Coast Attractions",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Family Activities",
-      "tag_category": "category"
-    },
-    {
-      "tag": "outdoor-recreation",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "rentals",
-      "tag_category": "type"
-    },
-    {
-      "tag": "rv_park",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "lodging",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "google_type"
+      "id": "328fc402-cbb0-4071-9a73-8512f24a28b4",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 26
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "fd2db30b-2536-4883-bb85-e28b834c62cf",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

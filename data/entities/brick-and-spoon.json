@@ -1,129 +1,138 @@
 {
-  "id": "4b14abf1-ae0b-4122-a49b-1ee317167b01",
-  "slug": "brick-and-spoon",
-  "name": "Brick & Spoon",
-  "entity_type": "restaurant",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "Brick & Spoon serves creative Southern-inspired breakfast and brunch in Orange Beach. Known for loaded Benedicts, Gulf shrimp & grits, and $1 oyster happy hour daily from 2–5:30pm.",
-  "phone": null,
-  "email": null,
-  "website_url": "https://www.brickandspoon.com",
-  "address_line_1": "27267 Canal Rd",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "70130",
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "a88552a8-4cee-4a9e-a285-7fa01df6adc2",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "brick-and-spoon",
+    "name": "Brick and Spoon",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": "https://www.brickandspoon.com",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Multiple locations across the US",
+    "address_line_2": null,
+    "city": null,
+    "state": "AL",
+    "zip": null,
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": "Brick and Spoon is an upscale take on breakfast, brunch, and lunch with locations across the country! We're Allergic To Boring Breakfast",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/brickandspoon_hq/",
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-21T04:57:19.094434+00:00",
+    "updated_at": "2026-05-21T04:57:19.094434+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": "Brunch Restaurant",
+    "atmosphere": "Upscale casual",
+    "extraction_confidence": "high",
+    "extraction_timestamp": "2026-05-15T06:22:10.538+00:00",
+    "extraction_notes": "This is the homepage of a multi-location brunch restaurant franchise. Limited menu details available on homepage - full menus would be found on individual location pages. Hours of operation not listed on homepage. No specific dietary accommodations, awards, or detailed policies found on this page. Contact information provided for 10 locations with phone numbers. Social media limited to Instagram. Email newsletter signup form available. Catering and franchising information referenced but detailed pages would be at dedicated URLs. Ordering capabilities through ChowNow for at least Opelika location and online ordering widget visible.",
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [
-    {
-      "tag": "brunch",
-      "tag_category": null
-    },
-    {
-      "tag": "breakfast",
-      "tag_category": null
-    },
-    {
-      "tag": "lunch",
-      "tag_category": null
-    },
-    {
-      "tag": "cocktails",
-      "tag_category": null
-    },
-    {
-      "tag": "bloody mary",
-      "tag_category": null
-    },
-    {
-      "tag": "southern cuisine",
-      "tag_category": null
-    },
-    {
-      "tag": "upscale casual",
-      "tag_category": null
-    },
-    {
-      "tag": "multi-location",
-      "tag_category": null
-    },
-    {
-      "tag": "seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "eggs benedict",
-      "tag_category": null
-    },
-    {
-      "tag": "creole",
-      "tag_category": null
-    },
-    {
-      "tag": "casual dining",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Brunch Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Breakfast Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Lunch Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Cocktail Bars",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Southern Food",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    }
-  ],
-  "featured": false,
-  "is_active": true,
-  "menus": [],
-  "businesses": [
-    {
-      "source": "raw.json",
-      "name": "Brick and Spoon",
-      "phone": "",
-      "address": "",
-      "placeId": "",
-      "website": ""
-    }
-  ],
-  "consolidatedAt": "2026-05-22T11:53:21.901Z"
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,303 @@
 {
-  "id": "ca5dcc02-6204-434e-98fb-8403a29fcbd9",
-  "slug": "sunliner-diner-TZ3xpg",
-  "name": "Sunliner Diner",
-  "entity_type": "artist",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "{\"description\":\"The Sunliner Diner is a classic 1950s themed American diner with three locations featuring retro newspaper menus, collector cars, hand-spun milkshakes, and classic diner cuisine with breakfast served all day. Step back in time and enjoy togetherness, nostalgia, and comfort food in a chrome-trimmed setting.\",\"cuisine_type\":\"American diner\"}",
-  "phone": "(251) 280-8446",
-  "email": null,
-  "website_url": "https://sunlinerdiner.com/",
-  "address_line_1": "26035 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.9,
-  "review_count": 3023,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "ca5dcc02-6204-434e-98fb-8403a29fcbd9",
+    "place_id": "ChIJsxt5GQAHmogRkiwV2TZ3xpg",
+    "google_maps_uri": "https://maps.google.com/?cid=11008617416607739026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "sunliner-diner-TZ3xpg",
+    "name": "Sunliner Diner",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "diner",
+    "google_types": [
+      "diner",
+      "breakfast_restaurant",
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 280-8446",
+    "international_phone": null,
+    "website_url": "https://sunlinerdiner.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26035 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2714222,
+    "longitude": -87.5801006,
+    "short_address": "26035 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 3023,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"The Sunliner Diner is a classic 1950s themed American diner with three locations featuring retro newspaper menus, collector cars, hand-spun milkshakes, and classic diner cuisine with breakfast served all day. Step back in time and enjoy togetherness, nostalgia, and comfort food in a chrome-trimmed setting.\",\"cuisine_type\":\"American diner\"}",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:30 AM – 9:00 PM",
+      "Tuesday: 7:30 AM – 9:00 PM",
+      "Wednesday: 7:30 AM – 9:00 PM",
+      "Thursday: 7:30 AM – 9:00 PM",
+      "Friday: 7:30 AM – 10:00 PM",
+      "Saturday: 7:30 AM – 10:00 PM",
+      "Sunday: 7:30 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Eggs–Benedict",
+          "items": [
+            {
+              "name": "Shrimp Benedict",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Two poached eggs, Creole seasoned Gulf shrimp, sliced red tomato covered with Creole hollandaise sauce on top of a Sunliner biscuit. Served with hash browns or grits.",
+              "subcategory": null
+            },
+            {
+              "name": "Classic Benedict",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Two poached eggs with Creole hollandaise sauce, smoked ham on top of an English muffin. Served with hash browns or grits.",
+              "subcategory": null
+            },
+            {
+              "name": "Chicken & Waffle Benedict",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Belgian waffle, hand-battered fried boneless chicken breast, two poached eggs covered with Creole hollandaise sauce. Topped with chopped bell peppers, drizzled with syrup. Served with hash browns or grits.",
+              "subcategory": null
+            },
+            {
+              "name": "Avocado Benedict",
+              "tags": [],
+              "price": null,
+              "dietary": [
+                "vegan-option"
+              ],
+              "popular": false,
+              "description": "Two poached eggs, fresh avocado, and sliced red tomato covered with Creole hollandaise sauce on top of a Sunliner biscuit. Topped with chopped bell peppers and served with hash browns or grits.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "The Sunliner Griddle",
+          "items": [
+            {
+              "name": "Banana Nut French Toast",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Texas toast soaked in a sweet custard topped with fresh bananas, candied pecans, two layers of candied bacon, and drizzled with caramel sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Chocolate Chip Pancakes",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Three light and fluffy buttermilk pancakes filled with chocolate chip morsels.",
+              "subcategory": null
+            },
+            {
+              "name": "Buttermilk Pancakes",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Three light and fluffy buttermilk pancakes.",
+              "subcategory": null
+            },
+            {
+              "name": "Sunliner French Toast",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Texas toast soaked in homemade sweet custard, topped with caramel sauce and powdered sugar.",
+              "subcategory": null
+            },
+            {
+              "name": "Seasonal Specialty Pancakes",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Three light and fluffy buttermilk pancakes with your choice of fresh bananas, blueberries, or strawberries on top.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.021711+00:00",
+    "updated_at": "2026-05-17T22:49:17.168322+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "2037bb0a-64a8-463b-8654-689e094fed69",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "a4ba03a4-aae3-4324-b878-9842d71ea0e9",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "9b110ab8-4f07-45cf-91fc-59f75b8c11cd",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "ac516cee-86cf-463e-8df2-988e6cfdb74c",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "610863d5-ceaf-417d-8c25-183c35284e19",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    }
+  ],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

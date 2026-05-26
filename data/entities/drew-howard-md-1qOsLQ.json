@@ -1,49 +1,219 @@
 {
-  "id": "a9240415-4d95-4842-95ff-b1a163472dad",
-  "slug": "drew-howard-md-1qOsLQ",
-  "name": "Drew Howard, MD",
-  "entity_type": "service",
-  "entity_subtype": "service",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(281) 419-8400",
-  "email": null,
-  "address_line_1": "9200 Pinecroft Dr #250, The Woodlands, TX 77380, USA",
-  "city": "Gulf Coast",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://drhowardsurgery.com/",
-  "rating": 4.8,
-  "review_count": 62,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "a9240415-4d95-4842-95ff-b1a163472dad",
+    "place_id": "ChIJWzjLquc2R4YRmFsWE1qOsLQ",
+    "google_maps_uri": "https://maps.google.com/?cid=13020063040246537112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "drew-howard-md-1qOsLQ",
+    "name": "Drew Howard, MD",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": [],
+    "google_type": "doctor",
+    "google_types": [
+      "doctor",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(281) 419-8400",
+    "international_phone": null,
+    "website_url": "http://drhowardsurgery.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "9200 Pinecroft Dr #250, The Woodlands, TX 77380, USA",
+    "address_line_2": null,
+    "city": "Gulf Coast",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.175558,
+    "longitude": -95.454196,
+    "short_address": "9200 Pinecroft Dr #250, The Woodlands",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 62,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 12:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.112197+00:00",
+    "updated_at": "2026-05-17T21:17:44.229427+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "dda5ba21-f923-4b3d-b495-be5952f20f77",
       "tag": "doctor",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "db165378-83a7-4f8f-816c-fce423d7a63f",
+      "tag": "doctor",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "e786ff24-20c3-406e-b6aa-4742db655514",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "a3ef36f6-2b3d-4425-9111-87f9953f10af",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "0b5edd98-a705-47c5-a408-f5c1d69c1517",
       "tag": "health",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "8120ca48-bc04-4090-b492-b5d09fee8c86",
+      "tag": "health",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "30f286be-c3a9-46f8-b359-b9a9acae1da5",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "509c5885-fa96-44c9-9530-de4f56320931",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 3
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "17e2aab3-d1cf-4c5e-b416-cc4be60661ac",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

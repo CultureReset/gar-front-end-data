@@ -1,32 +1,504 @@
 {
-  "id": "cf9bfedb-3d1f-4746-b305-548922759753",
-  "slug": "gulf-shores-kayak-rentals-rg0z6A",
-  "name": "Gulf Shores Kayak Rentals",
-  "entity_type": "activity",
-  "entity_subtype": "service",
-  "icon": "🏪",
-  "description": "Take a journey along the cool, calm water of the Bon Secour National Wildlife Refuge in beautiful Alabama with a kayak...",
-  "phone": "(251) 210-9037",
-  "email": null,
-  "website_url": "https://gulfshoresbikerentals.com/gulf-shores-kayak-rentals",
-  "address_line_1": "824 Gulf Shores Pkwy C-4, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.9,
-  "review_count": 210,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/cf9bfedb-3d1f-4746-b305-548922759753/cf9bfedb-3d1f-4746-b305-548922759753_1779139850151.2498.jpg",
-  "photos": [],
+  "entity": {
+    "id": "cf9bfedb-3d1f-4746-b305-548922759753",
+    "place_id": "ChIJN82TcmUFmogRpoi30rg0z6A",
+    "google_maps_uri": "https://maps.google.com/?cid=11587538334661445798&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "gulf-shores-kayak-rentals-rg0z6A",
+    "name": "Gulf Shores Kayak Rentals",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "service",
+    "secondary_types": [],
+    "google_type": "service",
+    "google_types": [
+      "tourist_attraction",
+      "tour_agency",
+      "bicycle_store",
+      "sporting_goods_store",
+      "manufacturer",
+      "travel_agency",
+      "store",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 210-9037",
+    "international_phone": null,
+    "website_url": "https://gulfshoresbikerentals.com/gulf-shores-kayak-rentals",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "824 Gulf Shores Pkwy C-4, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.256046,
+    "longitude": -87.6881762,
+    "short_address": "824 Gulf Shores Pkwy C-4, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 210,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Take a journey along the cool, calm water of the Bon Secour National Wildlife Refuge in beautiful Alabama with a kayak...",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/cf9bfedb-3d1f-4746-b305-548922759753/cf9bfedb-3d1f-4746-b305-548922759753_1779139850151.2498.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://gulfshoresbikerentals.com/gulf-shores-kayak-rentals",
+      "pages": [
+        {
+          "url": "https://gulfshoresbikerentals.com/gulf-shores-kayak-rentals",
+          "text": "403 - Forbidden\n\nAccess to this page is forbidden.",
+          "title": "403 - Forbidden"
+        }
+      ],
+      "imageUrls": [],
+      "scraped_at": "2026-05-16T15:43:46.024Z",
+      "business_name": "Gulf Shores Kayak Rentals"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "activities",
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.999548+00:00",
+    "updated_at": "2026-05-18T21:30:55.240853+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "8cb40f68-6cc6-498f-8361-d1b5ae36db4c",
+      "tag": "kayak_rental",
+      "tag_category": "activity",
+      "sort_order": 0
+    },
+    {
+      "id": "a3e0964c-69db-4971-8492-d73711839777",
+      "tag": "kayak_rental",
+      "tag_category": "activity",
+      "sort_order": 0
+    },
+    {
+      "id": "ea4e99bc-db52-47d3-af4f-0f939c884acb",
+      "tag": "delivery__pickup_available",
+      "tag_category": "feature",
+      "sort_order": 1
+    },
+    {
+      "id": "685e4f9e-c9c4-4359-955a-5f9e6125903b",
+      "tag": "delivery__pickup_available",
+      "tag_category": "feature",
+      "sort_order": 1
+    },
+    {
+      "id": "c1d2706b-c231-4ec7-802c-9d0837c83b5e",
+      "tag": "family_friendly",
+      "tag_category": "feature",
+      "sort_order": 2
+    },
+    {
+      "id": "05d3904b-73a9-4730-a400-650ad967af5b",
+      "tag": "family_friendly",
+      "tag_category": "feature",
+      "sort_order": 2
+    },
+    {
+      "id": "4e76348f-79a2-40f0-8f1c-f9fad2ddfd03",
+      "tag": "kayak",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "69d3da3f-a2be-43be-b9d5-5b66d55f3349",
+      "tag": "kayak",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "8a6c1a76-b9f4-4cc8-96b6-62eaabdc870c",
+      "tag": "paddleboard",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "caa0641d-72e8-4e2c-8a48-e047375f20b5",
+      "tag": "paddleboard",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "c55dc5ad-45bc-4b58-9746-335f34012819",
+      "tag": "water-sports",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "405c32db-8393-4b65-9a14-2c93d0905aee",
+      "tag": "water-sports",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "3ee319a7-6895-440a-89e8-ea2e748a03ad",
+      "tag": "nature",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "8642221f-3d34-4b5a-a48c-ac423648aef2",
+      "tag": "nature",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "25796b7f-e1fd-4563-82ee-4bc1fb7bac8f",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 7
+    },
+    {
+      "id": "159d24af-a36e-4323-8608-a6fa7c29d956",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 7
+    },
+    {
+      "id": "6934bc01-a047-4bc0-83f9-32da7f065b74",
+      "tag": "canoe-kayak-paddleboard-rentals",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "ab1de763-ce5d-4ce6-9d28-7402b3f2f41e",
+      "tag": "canoe-kayak-paddleboard-rentals",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "ab77c355-79f0-4da4-9a7d-d55efc6e55cb",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "1da57dba-d888-49bb-9eb2-f224abde26b1",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "2e7473dc-3772-4314-9edb-7fd014141669",
+      "tag": "manufacturer",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "495c45e9-3b06-47f1-9241-db819312d10f",
+      "tag": "manufacturer",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "1b671427-90b3-448f-80d7-f36b867b2b8a",
+      "tag": "sporting goods store",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "3d382ed7-da1d-4b92-9720-c7d99ad799d9",
+      "tag": "sporting goods store",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "efc760af-8de0-4dc9-9d38-27f408b83e21",
+      "tag": "bicycle store",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "bd658533-331b-48aa-801b-1d15bd01a9a3",
+      "tag": "bicycle store",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "e63e01d4-abbf-46cb-ba69-eeb4d04a4bf5",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "efb40197-602c-4a24-bb95-ac18845ae1aa",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "db154918-e02d-4fa1-bd87-4d53883e3a67",
+      "tag": "tourist attraction",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "eb9cb157-044c-45a4-a3cb-f367734b4fea",
+      "tag": "tourist attraction",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "73f1b159-5713-49c7-b0e7-4c7d50186782",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "49aaa707-d6ee-4ff8-b5a0-0facbf160411",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "0172af70-fadf-4604-99ce-7fe1e3cdf058",
+      "tag": "tour agency",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "5d142716-c5c9-443f-8063-f708eb2599f7",
+      "tag": "tour agency",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "5cf83eb2-53d5-403f-8163-e0056ac952c6",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "34048a63-64cf-4793-92f0-8c295dced703",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "304f3218-1296-4b8f-8458-de4771fc506e",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "8f302453-15d8-48a9-b327-f7ca3d3f0669",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "d53f5830-5f02-4976-8902-667c99b28149",
+      "tag": "tours",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "897dd605-d482-47c8-9fa6-077fe2a36b5d",
+      "tag": "tours",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "528a0a40-d049-4f7f-8e66-5f4160104c30",
+      "tag": "tourist_attraction",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "b5977ada-1030-4170-98d8-27b02aae8d7d",
+      "tag": "tourist_attraction",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "06cba37a-3754-49dd-b1cd-fd046fdf69b8",
+      "tag": "bicycle_store",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "5e6aa462-c81f-4473-9d9a-37cfbd113d50",
+      "tag": "bicycle_store",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "ed3caeb9-fb11-4ce3-8b5d-54338f16264c",
+      "tag": "sporting_goods_store",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "0e47ac3d-f496-446a-b9d5-f4a8a1c77637",
+      "tag": "sporting_goods_store",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "e7bf20da-298b-41fd-a723-c8f004633105",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "d35641fc-c6fc-49d6-892b-fc6b24c07f5d",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "8c87ef25-3caf-4043-a670-798e8807dde0",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "ea49ef62-9ad0-44a4-8242-84a8e23e7dea",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "c898ca5f-e1d0-4b5a-adc9-6555726ca68a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "48f6450f-3f6c-419d-b08a-0f52bd729a72",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 25
+    }
+  ],
+  "sections": [
+    {
+      "id": "2062f4b9-b2df-4ce9-a254-33de5aac09e6",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

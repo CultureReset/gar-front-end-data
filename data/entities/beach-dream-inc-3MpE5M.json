@@ -1,32 +1,243 @@
 {
-  "id": "63502dca-fccc-4c70-a404-62a5e32ecaea",
-  "slug": "beach-dream-inc-3MpE5M",
-  "name": "Beach Dream Inc",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 540-2241",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "8818 AL-180, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "63502dca-fccc-4c70-a404-62a5e32ecaea",
+    "place_id": "ChIJ89noAR8imogRHQ1oN3MpE5M",
+    "google_maps_uri": "https://maps.google.com/?cid=10597859922960452893&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "beach-dream-inc-3MpE5M",
+    "name": "Beach Dream Inc",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "hardware_store",
+    "google_types": [
+      "hardware_store",
+      "building_materials_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 540-2241",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "8818 AL-180, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.237251,
+    "longitude": -87.872207,
+    "short_address": "8818 AL-180, Gulf Shores",
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": "CLOSED_TEMPORARILY",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.14342+00:00",
+    "updated_at": "2026-05-17T21:17:41.653257+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "89122864-8198-4187-ab78-56f95eaf41b5",
+      "tag": "waterfront",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "b9e530a9-1957-46bb-bf5d-995c9dbdc394",
+      "tag": "waterfront",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "f771677a-4ebf-42b1-ae2e-586c2f9fb897",
+      "tag": "shopping",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "abcb03fa-e1ef-4ffe-b13a-3479367fd965",
+      "tag": "shopping",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "b8153119-ffa6-4b3c-bc3d-3e3ceaf55d5d",
+      "tag": "hardware_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "c503ebbf-7d78-4d98-a71e-43ab3915917f",
+      "tag": "hardware_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "5500cded-0616-40b4-8ff6-88b6fba47fad",
+      "tag": "building_materials_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "afae7388-5faa-4e72-b9e8-3cd31bcf5de2",
+      "tag": "building_materials_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "f91c20dd-1b50-4cb8-a939-aaf096c8757f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "cfc90a97-6c72-4bc8-8e09-9f741792d034",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "7b7918d8-ee62-45f5-bef2-a3b516f6b0da",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "bff04f9e-9d92-4430-9492-55f022c98159",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "75aea245-57f4-4496-91fa-221d2b6ec7ad",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "022c3fee-0ae5-451c-b3a9-79989be06c06",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "0bb4c30f-c7ff-44e8-869c-257e128759c1",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

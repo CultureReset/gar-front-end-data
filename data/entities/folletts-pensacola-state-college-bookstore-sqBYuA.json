@@ -1,69 +1,281 @@
 {
-  "id": "1169ce06-6b2a-430d-9826-6620ecd0cea4",
-  "slug": "folletts-pensacola-state-college-bookstore-sqBYuA",
-  "name": "Follett's Pensacola State College Bookstore",
-  "entity_type": "shopping",
-  "entity_subtype": "boutique",
-  "icon": "🏪",
-  "description": "Campus bookstore chain offering new, used & digital textbooks, plus school-branded merchandise.",
-  "phone": "(850) 616-0836",
-  "email": null,
-  "address_line_1": "1000 College Blvd, Pensacola, FL 32504, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32504",
-  "website_url": "https://www.bkstr.com/pensacolastatestore/home?cm_mmc=OrganicSearch-_-GoogleMyBusiness-_-Google-_-325",
-  "rating": 4,
-  "review_count": 174,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "1169ce06-6b2a-430d-9826-6620ecd0cea4",
+    "place_id": "ChIJZesw3z3AkIgRGjOv7sqBYuA",
+    "google_maps_uri": "https://maps.google.com/?cid=16168628320801338138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "folletts-pensacola-state-college-bookstore-sqBYuA",
+    "name": "Follett's Pensacola State College Bookstore",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "boutique",
+    "secondary_types": "",
+    "google_type": "book_store",
+    "google_types": [
+      "book_store",
+      "gift_shop",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 616-0836",
+    "international_phone": null,
+    "website_url": "https://www.bkstr.com/pensacolastatestore/home?cm_mmc=OrganicSearch-_-GoogleMyBusiness-_-Google-_-325",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1000 College Blvd, Pensacola, FL 32504, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32504",
+    "latitude": 30.4820896,
+    "longitude": -87.2006738,
+    "short_address": "Delaino Student Center (Building 5), 1000 College Blvd, Pensacola",
+    "plus_code": null,
+    "rating": 4,
+    "review_count": 174,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Campus bookstore chain offering new, used & digital textbooks, plus school-branded merchandise.",
+    "description": "Campus bookstore chain offering new, used & digital textbooks, plus school-branded merchandise.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.431465+00:00",
+    "updated_at": "2026-05-18T21:06:34.236923+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "def57a65-982d-4a50-ae46-e105a96fff89",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "6410aa9d-3076-4b1d-9a75-1e5d248891c4",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "17ae1752-13f0-4ba7-a64e-8dbb47124cec",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "f31fdfa9-dcf5-4d28-a35c-eaf30244e228",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "d18c77e7-e529-4099-a8b1-90af92d143d1",
       "tag": "boutique",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "f954b9e4-c5a4-4e21-8879-f38b075fac49",
+      "tag": "boutique",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "95d5fc62-fcf6-4c81-a9e7-28dd216de681",
       "tag": "book_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "505d65b0-7c2d-4fa7-bfa5-510b497a0b84",
+      "tag": "book_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "56fdbc7a-6e56-442c-b21c-e275ae9c2ad5",
       "tag": "gift_shop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "29096332-630c-4569-bac4-ef5e19b64b08",
+      "tag": "gift_shop",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "dae045d9-4de2-48df-af7a-a64db07d6e94",
       "tag": "clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "be72c935-761e-4d59-bfd6-3d874fffeb32",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "4146757f-ad43-4195-8b01-f06f0fd5f98a",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "4401e4cd-0c46-48b2-a4ac-073189de3158",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "ee6da51a-4e36-438c-8ee6-bf6523ab0b99",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "26941d64-189e-43f8-8388-119daf333b98",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "4803ced8-f7f8-49fb-9c2a-9bf08fce1234",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "9bca02f3-bf07-4600-9986-ecfe3b9c643c",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 8
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "640dfeee-68fb-4d89-8198-c69a583a5746",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

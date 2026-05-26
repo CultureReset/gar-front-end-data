@@ -1,32 +1,245 @@
 {
-  "id": "f54a792c-c5c7-4574-9e60-e6346f260003",
-  "slug": "lost-bay-tackle-guide-service-RphF60",
-  "name": "Lost Bay Tackle & Guide Service",
-  "entity_type": "artist",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 981-4665",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "25405 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.5,
-  "review_count": 186,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/4b98c8d9-c48f-4dc4-9813-1265cfdc35a8/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "f54a792c-c5c7-4574-9e60-e6346f260003",
+    "place_id": "ChIJQ4GHMvEGmogRCTpHeRphF60",
+    "google_maps_uri": "https://maps.google.com/?cid=12472544459357633033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "lost-bay-tackle-guide-service-RphF60",
+    "name": "Lost Bay Tackle & Guide Service",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": [],
+    "google_type": "store",
+    "google_types": [
+      "fishing_charter",
+      "sporting_goods_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-4665",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25405 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2696146,
+    "longitude": -87.5914884,
+    "short_address": "25405 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 186,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/4b98c8d9-c48f-4dc4-9813-1265cfdc35a8/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 5:00 AM – 8:00 PM",
+      "Tuesday: 5:00 AM – 8:00 PM",
+      "Wednesday: 5:00 AM – 8:00 PM",
+      "Thursday: 5:00 AM – 8:00 PM",
+      "Friday: 5:00 AM – 8:00 PM",
+      "Saturday: 5:00 AM – 8:00 PM",
+      "Sunday: 5:00 AM – 8:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.315137+00:00",
+    "updated_at": "2026-05-17T22:22:53.698989+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "9466c82b-2d52-4368-936f-2a2ad73b1c88",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "3395028a-b3ed-448b-b2eb-07ac03ee7ee1",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "87509b24-71ed-45b7-bcf1-f96be026a4ef",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "106ed478-5bbc-4272-a4b2-00c5b25d6f91",
+      "tag": "sporting goods store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "cc687ec0-ad97-462f-a99c-ffb0bbb2f6a2",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "7b175815-b30a-4ff1-be88-cd22c467d5a3",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "970af946-12dd-4d9e-ac8e-c8da3a1c8f92",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "1f22e3fe-5cb1-40a5-a25e-0472398494a4",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "a1ecab81-5574-4444-9bf9-0063c9b8f552",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "f2604358-ba48-463c-bb1a-06b3079b6ca7",
+      "tag": "sporting_goods_store",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "b488c8c1-91bb-431b-85e5-e1a3e2c17858",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "5ce87a19-8ee4-458b-a328-2a975bb6a748",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    }
+  ],
+  "sections": [
+    {
+      "id": "45ce0c70-66ce-4776-ba2c-68ce1fded274",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

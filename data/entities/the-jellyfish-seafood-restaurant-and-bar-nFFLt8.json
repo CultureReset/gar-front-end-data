@@ -1,154 +1,1292 @@
 {
-  "id": "263753e0-ecd6-4056-886f-859d28759426",
-  "slug": "the-jellyfish-seafood-restaurant-and-bar-nFFLt8",
-  "name": "The Jellyfish - Seafood Restaurant and Bar",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Lively restaurant, nightclub & bar serving seafood & sushi with music, karaoke & entertainment.",
-  "phone": "(850) 332-6532",
-  "email": null,
-  "address_line_1": "13700 Perdido Key Dr, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": "https://thejellyfishbar.com/?utm_source=google&utm_medium=gmb&utm_campaign=websiteclick",
-  "rating": 4.5,
-  "review_count": 3363,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588074.7673.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "263753e0-ecd6-4056-886f-859d28759426",
+    "place_id": "ChIJc4EVbW2vkIgR9riX_nFFLt8",
+    "google_maps_uri": "https://maps.google.com/?cid=16081867675291597046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "the-jellyfish-seafood-restaurant-and-bar-nFFLt8",
+    "name": "The Jellyfish - Seafood Restaurant and Bar",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "seafood_restaurant",
+      "sushi_restaurant",
+      "market",
+      "bar",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 332-6532",
+    "international_phone": null,
+    "website_url": "https://thejellyfishbar.com/?utm_source=google&utm_medium=gmb&utm_campaign=websiteclick",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "13700 Perdido Key Dr, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.2974619,
+    "longitude": -87.4318479,
+    "short_address": "13700 Perdido Key Dr, Pensacola",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 3363,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Lively restaurant, nightclub & bar serving seafood & sushi with music, karaoke & entertainment.",
+    "description": "Lively restaurant, nightclub & bar serving seafood & sushi with music, karaoke & entertainment.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588074.7673.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/explore/tags/thejellyfishbar/",
+    "social_facebook": "https://www.facebook.com/thejellyfishrestaurant/",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Appetizers",
+          "items": [
+            {
+              "name": "Raw Oysters",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Freshly shucked gulf mollusks served with unique cocktail sauce, gluten-free",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Calamari",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Lightly breaded with signature recipe, served with fresh Marinara",
+              "subcategory": null
+            },
+            {
+              "name": "Krab Wontons",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Six krab and cream cheese stuffed wontons, fried, served with sweet soy sauce for dipping",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Entrees",
+          "items": [
+            {
+              "name": "Shrimp Tacos",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Served on two-flour tortillas with shredded cabbage, Monterey jack cheese, Pico and Spicy Mayo. Available blackened, fried with French fries or coleslaw, or grilled",
+              "subcategory": null
+            },
+            {
+              "name": "Fish & Chips",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Gulf white fish, crispy tempura fried with French fries, white remoulade and jellyfish slaw",
+              "subcategory": null
+            },
+            {
+              "name": "Bourbon Salmon",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Atlantic salmon seared with Bourbon Glaze, served with red skin potatoes and wilted spinach",
+              "subcategory": null
+            },
+            {
+              "name": "Caribbean Mahi",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh grilled Mahi with pineapple salsa and coconut butter sauce, served with Cilantro-lime rice and mixed veggies",
+              "subcategory": null
+            },
+            {
+              "name": "Jellyfish Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Mixed greens, carrots, blueberries, candied pecans, tomatoes and cucumbers",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Sushi",
+          "items": [
+            {
+              "name": "Sushi (Various Rolls)",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Full menu available with sushi rolls and nigiri",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "raw-page-data",
+      "structured-data",
+      "gcr-import-ready",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588310.9446.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588613.0125.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139589088.238.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139589429.232.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139589838.0762.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139590057.5547.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139590262.8616.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139590864.5645.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139591272.2356.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:15.69054+00:00",
+    "updated_at": "2026-05-18T21:26:36.355788+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131870672.5933.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131872616.2278.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131870978.8003.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131873026.081.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131871389.737.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131873223.3777.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131872007.2776.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131873420.6345.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131419270.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131872207.2917.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131873640.5435.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588074.7673.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139589838.0762.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588310.9446.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139590057.5547.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588613.0125.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139590262.8616.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139589088.238.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139590864.5645.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139589429.232.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139591272.2356.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "76c51ee8-9082-43a1-ae79-408d4a2f6853",
       "tag": "seafood_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "8074d15a-89b9-4c9b-9ece-45fd67157495",
       "tag": "sushi_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "7187ee97-6300-4d12-908b-d108af47e8c0",
       "tag": "market",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "a75db8ac-4aca-48ca-9f26-40bfe686a84f",
       "tag": "bar",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "9f80b38a-f7e5-4788-bced-21a9c158fae0",
       "tag": "japanese_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "473b1e0a-b7a1-4e7d-954b-2981e6c25b46",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "1527b800-49bc-4ebd-babc-d6d6c41ba9cb",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "b10e45e7-925b-4e24-aa16-b191f5d1520f",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "b422e0d8-d8e2-49d4-87da-a1ab25765939",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "37da3587-99f9-47ea-ad2b-26edf2619676",
+      "section_key": "main-menu",
+      "section_label": "Main Menu",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "c3026f12-ca4d-41c8-adf7-d951abf94878",
+          "title": "Main Menu",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": [
+            {
+              "id": "3c434df6-627e-4f0f-895d-9055c75ad845",
+              "group_id": "c3026f12-ca4d-41c8-adf7-d951abf94878",
+              "item_name": "Cheeseburger",
+              "item_description": null,
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 0
+            },
+            {
+              "id": "398e3c48-9080-40af-9a0d-570948bfeb8b",
+              "group_id": "c3026f12-ca4d-41c8-adf7-d951abf94878",
+              "item_name": "Grilled Cheese",
+              "item_description": null,
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 1
+            },
+            {
+              "id": "d1423269-639c-47c2-b18d-eb9bddd60cbd",
+              "group_id": "c3026f12-ca4d-41c8-adf7-d951abf94878",
+              "item_name": "Linguini w/ Marinara",
+              "item_description": null,
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 2
+            },
+            {
+              "id": "9cb09aec-a5c0-45f6-9fc6-190afad7bb0d",
+              "group_id": "c3026f12-ca4d-41c8-adf7-d951abf94878",
+              "item_name": "Fried Chicken, Fish or Shrimp",
+              "item_description": null,
+              "price_label": null,
+              "price_text": null,
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 3
+            }
+          ]
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "71e0388c-fd19-447e-ba84-47c640f864c8",
+      "section_key": "kids-menu",
+      "section_label": "Kids Menu",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "475a00b7-7d99-45c1-8020-1a4dd9faafd3",
+          "title": "Kids Menu",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "d535a105-6e3d-4602-b1a9-8e4d77ccddc3",
+      "section_key": "appetizers",
+      "section_label": "Appetizers",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621",
+      "section_key": "entrees",
+      "section_label": "Entrees",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "ef228154-1dfa-4e30-b964-66ef338dc432",
+      "section_key": "sushi",
+      "section_label": "Sushi",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "16c5d2ca-193a-42a6-9da6-d10db08b9f1e",
+      "section_key": "specials",
+      "section_label": "Specials",
+      "section_type": "specials",
+      "sort_order": 5
+    },
+    {
+      "id": "c34e477a-61b0-4175-ac5d-60b9a9e1f210",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [
+    {
+      "id": "3c434df6-627e-4f0f-895d-9055c75ad845",
+      "section_id": "37da3587-99f9-47ea-ad2b-26edf2619676",
+      "group_id": "c3026f12-ca4d-41c8-adf7-d951abf94878",
+      "item_name": "Cheeseburger",
+      "item_description": null,
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "1d4f380d-dc7a-4b06-8a9c-283abd00aae0",
+      "section_id": "d535a105-6e3d-4602-b1a9-8e4d77ccddc3",
+      "group_id": null,
+      "item_name": "Raw Oysters",
+      "item_description": "Freshly shucked gulf mollusks served with unique cocktail sauce, gluten-free",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "f9ca2bd9-80ac-456b-a8fd-b8325ab9e368",
+      "section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621",
+      "group_id": null,
+      "item_name": "Shrimp Tacos",
+      "item_description": "Served on two-flour tortillas with shredded cabbage, Monterey jack cheese, Pico and Spicy Mayo. Available blackened, fried with French fries or coleslaw, or grilled",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "96f814ec-f0de-4392-b903-fae74150c8d6",
+      "section_id": "ef228154-1dfa-4e30-b964-66ef338dc432",
+      "group_id": null,
+      "item_name": "Sushi (Various Rolls)",
+      "item_description": "Full menu available with sushi rolls and nigiri",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "398e3c48-9080-40af-9a0d-570948bfeb8b",
+      "section_id": "37da3587-99f9-47ea-ad2b-26edf2619676",
+      "group_id": "c3026f12-ca4d-41c8-adf7-d951abf94878",
+      "item_name": "Grilled Cheese",
+      "item_description": null,
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "d2f5eb38-4473-4b82-bf72-c80026aae108",
+      "section_id": "d535a105-6e3d-4602-b1a9-8e4d77ccddc3",
+      "group_id": null,
+      "item_name": "Fried Calamari",
+      "item_description": "Lightly breaded with signature recipe, served with fresh Marinara",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "62c0d6d5-ac53-4e89-9ef9-95259d0aba61",
+      "section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621",
+      "group_id": null,
+      "item_name": "Fish & Chips",
+      "item_description": "Gulf white fish, crispy tempura fried with French fries, white remoulade and jellyfish slaw",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "d71786fd-0977-4701-84a9-ed7c2d0e980c",
+      "section_id": "d535a105-6e3d-4602-b1a9-8e4d77ccddc3",
+      "group_id": null,
+      "item_name": "Krab Wontons",
+      "item_description": "Six krab and cream cheese stuffed wontons, fried, served with sweet soy sauce for dipping",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 2,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "d1423269-639c-47c2-b18d-eb9bddd60cbd",
+      "section_id": "37da3587-99f9-47ea-ad2b-26edf2619676",
+      "group_id": "c3026f12-ca4d-41c8-adf7-d951abf94878",
+      "item_name": "Linguini w/ Marinara",
+      "item_description": null,
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 2,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "7f453f36-a7a8-4c72-8a4c-6456e9a415b1",
+      "section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621",
+      "group_id": null,
+      "item_name": "Bourbon Salmon",
+      "item_description": "Fresh Atlantic salmon seared with Bourbon Glaze, served with red skin potatoes and wilted spinach",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 2,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "9cb09aec-a5c0-45f6-9fc6-190afad7bb0d",
+      "section_id": "37da3587-99f9-47ea-ad2b-26edf2619676",
+      "group_id": "c3026f12-ca4d-41c8-adf7-d951abf94878",
+      "item_name": "Fried Chicken, Fish or Shrimp",
+      "item_description": null,
+      "price_label": null,
+      "price_text": null,
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 3,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "bcd5260d-bb3e-4263-82c7-51342ce14b40",
+      "section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621",
+      "group_id": null,
+      "item_name": "Caribbean Mahi",
+      "item_description": "Fresh grilled Mahi with pineapple salsa and coconut butter sauce, served with Cilantro-lime rice and mixed veggies",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 3,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "5f43af7f-b42b-43fb-ad4a-b15d98e1c9d5",
+      "section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621",
+      "group_id": null,
+      "item_name": "Jellyfish Salad",
+      "item_description": "Mixed greens, carrots, blueberries, candied pecans, tomatoes and cucumbers",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 4,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    }
+  ],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "0221dc6e-fbe5-44fb-8333-68159096daf7",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131870672.5933.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:51.658897+00:00"
+    },
+    {
+      "id": "1faeab8d-9f61-46f2-90b1-df084669724d",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131872616.2278.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:52.419678+00:00"
+    },
+    {
+      "id": "e7ff5936-f085-4f33-bdb8-865311461530",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131870978.8003.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:51.825978+00:00"
+    },
+    {
+      "id": "41aebde5-7ee8-4c4e-9da5-05d6f48eafcf",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131873026.081.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:52.568708+00:00"
+    },
+    {
+      "id": "33201e54-ea21-4757-b187-3d8757609914",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131871389.737.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:51.972508+00:00"
+    },
+    {
+      "id": "8cfea33b-7257-4447-b5fe-262939967b77",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131873223.3777.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:52.713825+00:00"
+    },
+    {
+      "id": "0951beab-ab45-40b3-9c65-8cd8d317c44b",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131872007.2776.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:52.121812+00:00"
+    },
+    {
+      "id": "8fff3e98-8759-4e42-9961-84794ddfcde1",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131873420.6345.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:52.869155+00:00"
+    },
+    {
+      "id": "055ccc8b-bca0-4794-85c7-1a8dcbd992ca",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131419270.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:51.502028+00:00"
+    },
+    {
+      "id": "1b2db201-c383-49e9-a89d-370dfece6888",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131872207.2917.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:52.271431+00:00"
+    },
+    {
+      "id": "09ce2e4b-9ffc-48eb-80ac-61bfddffad7f",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779131873640.5435.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:53.022246+00:00"
+    },
+    {
+      "id": "8fd0f0cd-2701-45ba-b965-39e0fca17556",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588074.7673.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:53.174898+00:00"
+    },
+    {
+      "id": "765264cf-2d46-4fb6-9fd5-edc4edcfb296",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139589838.0762.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:53.926972+00:00"
+    },
+    {
+      "id": "249e2b76-30c8-448e-b08f-16e679cfb73c",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588310.9446.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:53.322501+00:00"
+    },
+    {
+      "id": "98cb8cbd-19a9-480a-88ca-11b903017a73",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139590057.5547.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:54.076441+00:00"
+    },
+    {
+      "id": "7283a6bd-abef-4c57-9f59-ce41fd17c0d1",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139588613.0125.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:53.470753+00:00"
+    },
+    {
+      "id": "57ebd4ce-9b47-4d05-bbd8-af1124c16f5c",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139590262.8616.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:54.223979+00:00"
+    },
+    {
+      "id": "bdd40619-cb16-4c3b-beed-8161667c8891",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139589088.238.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:53.615781+00:00"
+    },
+    {
+      "id": "f29681d6-88d5-400f-a7d5-999a3c7f53a6",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139590864.5645.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:54.371264+00:00"
+    },
+    {
+      "id": "5c9ecf85-ee7d-4d4f-9048-30bc771c3bc0",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139589429.232.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:53.760474+00:00"
+    },
+    {
+      "id": "14e349b6-b07b-4627-a558-65de19b5faa0",
+      "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/263753e0-ecd6-4056-886f-859d28759426/263753e0-ecd6-4056-886f-859d28759426_1779139591272.2356.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:54.520947+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [
+      {
+        "id": "37da3587-99f9-47ea-ad2b-26edf2619676",
+        "section_name": "Main Menu",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+        "sort_order": 0
+      },
+      {
+        "id": "71e0388c-fd19-447e-ba84-47c640f864c8",
+        "section_name": "Kids Menu",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+        "sort_order": 0
+      },
+      {
+        "id": "d535a105-6e3d-4602-b1a9-8e4d77ccddc3",
+        "section_name": "Appetizers",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+        "sort_order": 0
+      },
+      {
+        "id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621",
+        "section_name": "Entrees",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+        "sort_order": 0
+      },
+      {
+        "id": "ef228154-1dfa-4e30-b964-66ef338dc432",
+        "section_name": "Sushi",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "263753e0-ecd6-4056-886f-859d28759426",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": [
+      {
+        "id": "3c434df6-627e-4f0f-895d-9055c75ad845",
+        "item_name": "Cheeseburger",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "37da3587-99f9-47ea-ad2b-26edf2619676"
+      },
+      {
+        "id": "1d4f380d-dc7a-4b06-8a9c-283abd00aae0",
+        "item_name": "Raw Oysters",
+        "description": "Freshly shucked gulf mollusks served with unique cocktail sauce, gluten-free",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "d535a105-6e3d-4602-b1a9-8e4d77ccddc3"
+      },
+      {
+        "id": "f9ca2bd9-80ac-456b-a8fd-b8325ab9e368",
+        "item_name": "Shrimp Tacos",
+        "description": "Served on two-flour tortillas with shredded cabbage, Monterey jack cheese, Pico and Spicy Mayo. Available blackened, fried with French fries or coleslaw, or grilled",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621"
+      },
+      {
+        "id": "96f814ec-f0de-4392-b903-fae74150c8d6",
+        "item_name": "Sushi (Various Rolls)",
+        "description": "Full menu available with sushi rolls and nigiri",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "ef228154-1dfa-4e30-b964-66ef338dc432"
+      },
+      {
+        "id": "398e3c48-9080-40af-9a0d-570948bfeb8b",
+        "item_name": "Grilled Cheese",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "37da3587-99f9-47ea-ad2b-26edf2619676"
+      },
+      {
+        "id": "d2f5eb38-4473-4b82-bf72-c80026aae108",
+        "item_name": "Fried Calamari",
+        "description": "Lightly breaded with signature recipe, served with fresh Marinara",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "d535a105-6e3d-4602-b1a9-8e4d77ccddc3"
+      },
+      {
+        "id": "62c0d6d5-ac53-4e89-9ef9-95259d0aba61",
+        "item_name": "Fish & Chips",
+        "description": "Gulf white fish, crispy tempura fried with French fries, white remoulade and jellyfish slaw",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621"
+      },
+      {
+        "id": "d71786fd-0977-4701-84a9-ed7c2d0e980c",
+        "item_name": "Krab Wontons",
+        "description": "Six krab and cream cheese stuffed wontons, fried, served with sweet soy sauce for dipping",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 2,
+        "menu_section_id": "d535a105-6e3d-4602-b1a9-8e4d77ccddc3"
+      },
+      {
+        "id": "d1423269-639c-47c2-b18d-eb9bddd60cbd",
+        "item_name": "Linguini w/ Marinara",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 2,
+        "menu_section_id": "37da3587-99f9-47ea-ad2b-26edf2619676"
+      },
+      {
+        "id": "7f453f36-a7a8-4c72-8a4c-6456e9a415b1",
+        "item_name": "Bourbon Salmon",
+        "description": "Fresh Atlantic salmon seared with Bourbon Glaze, served with red skin potatoes and wilted spinach",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 2,
+        "menu_section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621"
+      },
+      {
+        "id": "9cb09aec-a5c0-45f6-9fc6-190afad7bb0d",
+        "item_name": "Fried Chicken, Fish or Shrimp",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 3,
+        "menu_section_id": "37da3587-99f9-47ea-ad2b-26edf2619676"
+      },
+      {
+        "id": "bcd5260d-bb3e-4263-82c7-51342ce14b40",
+        "item_name": "Caribbean Mahi",
+        "description": "Fresh grilled Mahi with pineapple salsa and coconut butter sauce, served with Cilantro-lime rice and mixed veggies",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 3,
+        "menu_section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621"
+      },
+      {
+        "id": "5f43af7f-b42b-43fb-ad4a-b15d98e1c9d5",
+        "item_name": "Jellyfish Salad",
+        "description": "Mixed greens, carrots, blueberries, candied pecans, tomatoes and cucumbers",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 4,
+        "menu_section_id": "c760e5ef-b36e-4f67-8f65-dcd673d9c621"
+      }
+    ]
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

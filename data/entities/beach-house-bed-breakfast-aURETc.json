@@ -1,32 +1,251 @@
 {
-  "id": "84eec3c6-3b99-4a8c-b065-2b6b960e1b2b",
-  "slug": "beach-house-bed-breakfast-aURETc",
-  "name": "Beach House Bed & Breakfast",
-  "entity_type": "hotel",
-  "entity_subtype": "bed_and_breakfast",
-  "icon": "🏪",
-  "description": "Gulf-front B&B offering classy rooms with ocean views plus porches, a hot tub & afternoon snacks.",
-  "phone": "(251) 540-7039",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "9218 Dacus Ln, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.9,
-  "review_count": 8,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b46b6a66-584a-4426-bf86-7b315d7c1fc9/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "84eec3c6-3b99-4a8c-b065-2b6b960e1b2b",
+    "place_id": "ChIJ9bEJnfchmogRwjs_7aURETc",
+    "google_maps_uri": "https://maps.google.com/?cid=3967972151037737922&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "beach-house-bed-breakfast-aURETc",
+    "name": "Beach House Bed & Breakfast",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "bed_and_breakfast",
+    "secondary_types": [],
+    "google_type": "bed_and_breakfast",
+    "google_types": [
+      "bed_and_breakfast",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 540-7039",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "9218 Dacus Ln, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.230566,
+    "longitude": -87.8653355,
+    "short_address": "9218 Dacus Ln, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 8,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Gulf-front B&B offering classy rooms with ocean views plus porches, a hot tub & afternoon snacks.",
+    "description": "Gulf-front B&B offering classy rooms with ocean views plus porches, a hot tub & afternoon snacks.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b46b6a66-584a-4426-bf86-7b315d7c1fc9/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.14342+00:00",
+    "updated_at": "2026-05-17T22:22:52.679125+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ffe2ff6f-e420-4f1f-8016-4f714c1334f2",
+      "tag": "bed and breakfast",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "7bcd3489-a34b-43ef-b577-81c9f2cde765",
+      "tag": "bed and breakfast",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "41324982-1c88-455c-9b38-fb695f3d429f",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "80d47eaf-7660-4ed7-bc44-f9b4f8546165",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "effc1203-1862-456b-8f33-b36f2eeae245",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "e843bb38-1e23-40c7-91d7-49130ac7d5ac",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "908de5c1-1616-4baf-954b-8df4837c41fb",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "93063340-0d2c-4a82-b254-02f579ee2969",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "e2954a2c-7933-4477-ae2d-71e424309611",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "8a5f3252-9756-4eb1-9559-1914eeb84dd4",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "2d9117e3-2e0b-4b33-a03b-673e2584d6b7",
+      "tag": "bed & breakfast",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "abf39171-3163-4d34-9ab9-da7ae20cd1fc",
+      "tag": "bed & breakfast",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "c63c5745-7be4-498e-ab43-76917e0c09d8",
+      "tag": "bed_and_breakfast",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "7a2948cc-2ad4-4d55-a800-31a1b2d53149",
+      "tag": "bed_and_breakfast",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "3a48076b-158e-4ebb-8db5-46bb1f6f1811",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "1cf9dd53-4d53-4f2f-8238-a5611add8948",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "ac6ca37a-d974-4f9a-839c-7abe0f2440a8",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

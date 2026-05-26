@@ -1,145 +1,517 @@
 {
-  "id": "5cbe3d37-7937-4d6a-b44d-998f65c87329",
-  "slug": "chem-dry-on-the-shore-oXaq0I",
-  "name": "Chem-Dry On The Shore",
-  "entity_type": "service",
-  "entity_subtype": "service",
-  "icon": "🏪",
-  "description": "Chem-Dry On The Shore is committed to providing you with superior solutions and services that you can trust to keep your home clean. Using our proprietary Hot Carbonating Extraction (HCE) cleaning method, we deliver a deeper, longer lasting clean that leaves you with peace of mind and a healthier environment for your family. We are the world's leading upholstery and carpet cleaner as ranked by Entrepreneur Magazine for 25 years in a row as the #1 in category. Chem-Dry also earned an award from Franchise Direct as one of the top 100 global franchises. With more than 3,500 locations worldwide, Chem-Dry is the world's leading carpet cleaner with nationwide coverage by locally-owned franchises. We use only the industry's finest, most powerful equipment and proprietary carpet, upholstery and oriental rug cleaning solutions to ensure the best clean for your family. Our mission is helping people like you live in a clean home, which starts with clean carpets and a healthier home. Our proprietary hot carbonating extraction cleaning process penetrates deep into the fibers, reducing the common household allergens from carpets and upholstery. The common allergens tested were dog and cat dander and dust mite matter. Plus, our solution, The Natural®, contains no soaps or detergents. And, we use 80% less water than typical steam cleaning so carpets dry in hours instead of days, making it the more convenient carpet cleaning choice. All of this means Chem-Dry On The Shore cleans for your health like no one else.",
-  "phone": "(251) 292-1460",
-  "email": null,
-  "address_line_1": "2835 S Pine St, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "http://www.chemdryontheshore.com/",
-  "rating": 4.9,
-  "review_count": 130,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "5cbe3d37-7937-4d6a-b44d-998f65c87329",
+    "place_id": "ChIJX_Nxgy0OmogR-UcyCoXaq0I",
+    "google_maps_uri": "https://maps.google.com/?cid=4804173692457338873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "chem-dry-on-the-shore-oXaq0I",
+    "name": "Chem-Dry On The Shore",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "service",
+    "secondary_types": "",
+    "google_type": "laundry",
+    "google_types": [
+      "general_contractor",
+      "laundry",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 292-1460",
+    "international_phone": null,
+    "website_url": "http://www.chemdryontheshore.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2835 S Pine St, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3728845,
+    "longitude": -87.687902,
+    "short_address": "2835 S Pine St, Foley",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 130,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Chem-Dry On The Shore is committed to providing you with superior solutions and services that you can trust to keep your home clean. Using our proprietary Hot Carbonating Extraction (HCE) cleaning method, we deliver a deeper, longer lasting clean that leaves you with peace of mind and a healthier environment for your family. We are the world's leading upholstery and carpet cleaner as ranked by Entrepreneur Magazine for 25 years in a row as the #1 in category. Chem-Dry also earned an award from Franchise Direct as one of the top 100 global franchises. With more than 3,500 locations worldwide, Chem-Dry is the world's leading carpet cleaner with nationwide coverage by locally-owned franchises. We use only the industry's finest, most powerful equipment and proprietary carpet, upholstery and oriental rug cleaning solutions to ensure the best clean for your family. Our mission is helping people like you live in a clean home, which starts with clean carpets and a healthier home. Our proprietary hot carbonating extraction cleaning process penetrates deep into the fibers, reducing the common household allergens from carpets and upholstery. The common allergens tested were dog and cat dander and dust mite matter. Plus, our solution, The Natural®, contains no soaps or detergents. And, we use 80% less water than typical steam cleaning so carpets dry in hours instead of days, making it the more convenient carpet cleaning choice. All of this means Chem-Dry On The Shore cleans for your health like no one else.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/chemdryontheshoreflal/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": null,
+    "hours_text": [
+      "Monday: 8:00 AM – 4:30 PM",
+      "Tuesday: 8:00 AM – 4:30 PM",
+      "Wednesday: 8:00 AM – 4:30 PM",
+      "Thursday: 8:00 AM – 4:30 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.112197+00:00",
+    "updated_at": "2026-05-18T21:06:15.716907+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "7b7899e5-92a7-4d85-9203-7a23294d44f7",
       "tag": "carpet cleaning",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "0bf803f7-d5d3-4b65-944a-c78e40c26ab0",
+      "tag": "carpet cleaning",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "e0e39801-0be0-4c65-9179-4b9cebf22f4b",
       "tag": "upholstery cleaning",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "35786929-a690-451a-9da5-d256adadc05c",
+      "tag": "upholstery cleaning",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "f6f21984-5925-4c56-a987-2320e31ac0f1",
       "tag": "tile and grout cleaning",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "3a6f4a60-4d51-4d24-99f0-277372f7266b",
+      "tag": "tile and grout cleaning",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "72312b2f-6c3f-4cc6-85e1-89c762f75853",
       "tag": "water damage restoration",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "a261c95f-a1c7-4072-bcfe-335ff5cd0264",
+      "tag": "water damage restoration",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "44eef56c-275d-4b96-9fa0-28f1282672f6",
       "tag": "pet urine removal",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "39ab624c-d838-4408-bb18-efe88665be2c",
+      "tag": "pet urine removal",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "59d3834b-66c9-46cf-8ecc-9a823d0f7da5",
       "tag": "area rug cleaning",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "68ac15b8-df5d-4875-914b-2bce8755c9ba",
+      "tag": "area rug cleaning",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "0a267aef-e4e5-4618-b4c2-ea0c03be9c6c",
       "tag": "wood floor cleaning",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "ba0348ba-c96f-4653-adf9-06482af9084c",
+      "tag": "wood floor cleaning",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "42840943-6c9d-42d2-baee-8a3f4bbb2d1a",
       "tag": "granite countertop cleaning",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "e784f464-a07d-4084-82b7-62d5201adf9a",
+      "tag": "granite countertop cleaning",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "86da0585-61ad-4589-8019-a71b559d4ca8",
       "tag": "dryer vent cleaning",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
+      "id": "6f709857-3b8a-4221-91fe-5c74a104426b",
+      "tag": "dryer vent cleaning",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "1ab8d8a6-c1fa-4e01-878b-07b43b272873",
+      "tag": "commercial cleaning",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "74c8c114-4d4f-4202-a59a-71aa054de118",
+      "tag": "commercial cleaning",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "67cf41b2-222c-46ed-b086-2b3fe23213ab",
       "tag": "hot carbonated extraction",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "1b1600d9-f93e-436e-abea-304e3f657e18",
+      "tag": "hot carbonated extraction",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "840df1a8-7587-4d43-b36b-4b593e7c795d",
       "tag": "allergen removal",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 11
     },
     {
+      "id": "372f507a-32dd-47a5-b8cf-149b4ec0f592",
+      "tag": "allergen removal",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "759a788c-385a-4862-b4b0-1c73f5d43cbc",
       "tag": "deodorizing",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 12
     },
     {
+      "id": "b718f284-07db-46b6-a275-1726f3451119",
+      "tag": "deodorizing",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "84d1da6f-5841-4c6b-a74b-b1fc0cdd8571",
       "tag": "stain protection",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 13
     },
     {
+      "id": "b27fd9c1-80af-46c9-aca4-df2257185d24",
+      "tag": "stain protection",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "fc6fb4c7-cb94-4fa9-b753-2df422f19640",
       "tag": "furniture cleaning",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 14
     },
     {
+      "id": "b397e950-ed8c-4958-a573-d6907c1b906a",
+      "tag": "furniture cleaning",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "662c7c69-9a0a-40b4-89b5-aa398db26b83",
       "tag": "Baldwin County",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 15
     },
     {
+      "id": "529b2df3-4567-4ee2-99ae-6f4f3e679873",
+      "tag": "Baldwin County",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "96ba3539-adaa-44ec-92bb-590cb7dc1bf8",
       "tag": "Pensacola",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 16
     },
     {
+      "id": "2f38203e-1dc3-4cb3-b0fd-3b7cc3728fe5",
+      "tag": "Pensacola",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "4fb524dc-f103-4439-98da-09d718d3f2cc",
       "tag": "Foley Alabama",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 17
     },
     {
+      "id": "5b216783-d10f-4a2f-8da2-3df91dea483e",
+      "tag": "Foley Alabama",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "59f9aa08-c37d-4c53-a1c8-95796cb9b097",
       "tag": "Home Services",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 18
     },
     {
+      "id": "becd6472-fcfa-401f-9dab-08d108a23306",
+      "tag": "Home Services",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "5a348ad8-4e8c-4ff7-8fb8-a0ad4a2fad53",
       "tag": "Cleaning Services",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 19
     },
     {
+      "id": "51865e78-2d8d-44e8-af28-a0c8d47ac777",
+      "tag": "Cleaning Services",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "f71c1429-4d2f-431d-a08a-8b54a25eb2bb",
       "tag": "Carpet Cleaning",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 20
     },
     {
+      "id": "dfae2a44-7caf-4ea4-9fc1-0649b39638ff",
+      "tag": "Carpet Cleaning",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "79c6405c-1250-45a9-8eb9-862977da5b68",
       "tag": "Professional Services",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 21
     },
     {
+      "id": "70644e77-e970-4fde-a63b-9043d0500c86",
+      "tag": "Professional Services",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "6fbebc2a-9441-477f-a959-fb284338e020",
       "tag": "Local Services",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 22
     },
     {
+      "id": "66d1cec3-bb15-4c35-9529-c98b1074d5ed",
+      "tag": "Local Services",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "f80c5eea-f142-4076-a8ef-1cd618941f95",
       "tag": "home-services",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 23
     },
     {
+      "id": "a3f082c8-bcff-45f0-ba09-2f0df3cf713c",
+      "tag": "home-services",
+      "tag_category": "industry",
+      "sort_order": 23
+    },
+    {
+      "id": "f9820e6a-a164-47c8-bd63-563329ddf95c",
       "tag": "service",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 24
     },
     {
+      "id": "a276f709-193c-4531-a214-992ba515298c",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "c3c2db19-72c1-4bdd-ad71-482efa494f8e",
       "tag": "laundry",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 25
     },
     {
+      "id": "3fd00fb0-da70-4870-ac84-2dd48a4b9352",
+      "tag": "laundry",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "9bca1bae-8cd0-4fb7-b056-88d1510d0c7d",
       "tag": "general_contractor",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 26
     },
     {
+      "id": "00123dc2-aca2-4039-829f-4e3af759b1fe",
+      "tag": "general_contractor",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "d3a3593f-d601-4150-953b-d23c4b6a70fa",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 27
     },
     {
+      "id": "f19230f0-fdd8-4344-bf68-1468ebce23f3",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "abcce02c-e002-4ac0-b233-f05b71e2b8e6",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "edf94c5a-1261-4207-a80b-7525782bbb69",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 28
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "880bd2ac-e94c-4a04-bd26-6693648832b1",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,1217 @@
 {
-  "id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
-  "slug": "hammered-crab-GI4DRk",
-  "name": "Hammered Crab",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "{\"description\":\"The Hammered Crab is a beachfront seafood restaurant in Gulf Shores specializing in fresh crab legs, shrimp, and coastal cuisine. They offer all-you-can-eat crab legs and cater to groups and private events.\",\"cuisine_type\":\"seafood\"}",
-  "phone": "(251) 200-0545",
-  "email": null,
-  "website_url": "http://thehammeredcrab.com/",
-  "address_line_1": "1220 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4,
-  "review_count": 639,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1ed7a1fb-6124-4488-8141-5beb5dd24870/1ed7a1fb-6124-4488-8141-5beb5dd24870_1779139743937.3076.jpg",
-  "photos": [],
+  "entity": {
+    "id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+    "place_id": "ChIJjRfC07oFmogR-G0GxGI4DRk",
+    "google_maps_uri": "https://maps.google.com/?cid=1805161022492143096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "hammered-crab-GI4DRk",
+    "name": "Hammered Crab",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 200-0545",
+    "international_phone": null,
+    "website_url": "http://thehammeredcrab.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1220 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2623607,
+    "longitude": -87.6881097,
+    "short_address": "1220 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4,
+    "review_count": 639,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"The Hammered Crab is a beachfront seafood restaurant in Gulf Shores specializing in fresh crab legs, shrimp, and coastal cuisine. They offer all-you-can-eat crab legs and cater to groups and private events.\",\"cuisine_type\":\"seafood\"}",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1ed7a1fb-6124-4488-8141-5beb5dd24870/1ed7a1fb-6124-4488-8141-5beb5dd24870_1779139743937.3076.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true
+    },
+    "payment": null,
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Starters",
+          "items": [
+            {
+              "name": "Peel & Eat Shrimp",
+              "tags": [],
+              "price": "$16.58 (Regular) | $20.73 (Gulf Shrimp)",
+              "dietary": [],
+              "popular": false,
+              "description": "Tossed with coastal seasonings. Served hot or cold with cocktail sauce and lemon.",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Grouper Bites",
+              "tags": [],
+              "price": "$15.54",
+              "dietary": [],
+              "popular": false,
+              "description": "Marinated in our \"Coastal Seasoning\", hand-breaded, and served with our jalapeño remoulade. Perfect for sharing with the table, or just for yourself.",
+              "subcategory": null
+            },
+            {
+              "name": "Shrimp, Crab & Andouille Gumbo",
+              "tags": [],
+              "price": "$10.36",
+              "dietary": [],
+              "popular": false,
+              "description": "Succulent shrimp, cocktail crab claws, and smoky Andouille sausage in a rich and flavorful roux-based broth. Served with white rice.",
+              "subcategory": null
+            },
+            {
+              "name": "Crab Dip",
+              "tags": [],
+              "price": "$16.58",
+              "dietary": [],
+              "popular": false,
+              "description": "A piping hot blend of lump crab meat, cheeses, spinach, artichokes, and seasonings. Served with house-made garlic crostini.",
+              "subcategory": null
+            },
+            {
+              "name": "Mozzarella Sticks",
+              "tags": [],
+              "price": "$9.33",
+              "dietary": [],
+              "popular": false,
+              "description": "Six breaded and fried cheese sticks. Served with marinara sauce.",
+              "subcategory": null
+            },
+            {
+              "name": "Garlic Crab Claws",
+              "tags": [],
+              "price": "$24.87",
+              "dietary": [],
+              "popular": false,
+              "description": "Griddled with house butter. Served with house-made garlic crostini and lemon.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Dinner Salad",
+              "tags": [],
+              "price": "$12.44 (Chicken or Shrimp) | $15.54 (Shaved Prime Rib)",
+              "dietary": [],
+              "popular": false,
+              "description": "Onions, croutons, and our signature house vinaigrette dressing with your choice of protein.",
+              "subcategory": null
+            },
+            {
+              "name": "House Salad",
+              "tags": [],
+              "price": "$6.22",
+              "dietary": [],
+              "popular": false,
+              "description": "A smaller portion of our dinner salad.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Handheld",
+          "items": [
+            {
+              "name": "French Dip Sandwich",
+              "tags": [],
+              "price": "$15.54",
+              "dietary": [],
+              "popular": false,
+              "description": "Shaved roast prime rib, herb jus, Swiss cheese, and grilled onions.",
+              "subcategory": null
+            },
+            {
+              "name": "Cajun Prime Rib Sandwich",
+              "tags": [],
+              "price": "$16.58",
+              "dietary": [],
+              "popular": false,
+              "description": "Cajun-spiced shaved roast prime rib, Swiss cheese, grilled bell peppers & onions, mushrooms, and creole mustard.",
+              "subcategory": null
+            },
+            {
+              "name": "Crispy Fish Sandwich",
+              "tags": [],
+              "price": "$14.51 (Flounder) | $18.65 (Grouper)",
+              "dietary": [],
+              "popular": false,
+              "description": "Hand-breaded fried fish, American cheese, lettuce, red onion, tomato, pickle, and remoulade.",
+              "subcategory": null
+            },
+            {
+              "name": "Grilled Chicken Sandwich",
+              "tags": [],
+              "price": "$14.51",
+              "dietary": [],
+              "popular": false,
+              "description": "Lemon pepper-spiced grilled chicken breast, lettuce, tomato, onion, pickle, and lemon garlic aioli.",
+              "subcategory": null
+            },
+            {
+              "name": "Cheeseburger",
+              "tags": [],
+              "price": "$14.51",
+              "dietary": [],
+              "popular": false,
+              "description": "1/3 pound burger with cheddar cheese, lettuce, tomato, and onion.",
+              "subcategory": null
+            },
+            {
+              "name": "The Kraken",
+              "tags": [],
+              "price": "$25.91",
+              "dietary": [],
+              "popular": false,
+              "description": "This \"Monster\" of a burger starts with lettuce, tomato, onion, and burger patty cooked to order. Then it is topped with cheese, a crab cake, shaved prime rib, garlic aioli, and a fried shrimp topper. It is not for the faint of heart.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Mains",
+          "items": [
+            {
+              "name": "Herb-Crusted Prime Rib",
+              "tags": [],
+              "price": "$35.23 (14 oz)",
+              "dietary": [],
+              "popular": false,
+              "description": "Tender, juicy, and full of flavor, this perfectly cooked prime rib is coated in a savory blend of herbs, creating a delicious crust that adds depth and richness to every bite. Served with house-made horseradish and herb jus. Limited availability.",
+              "subcategory": null
+            },
+            {
+              "name": "Baby Back Ribs",
+              "tags": [],
+              "price": "$20.73 (Half Rack) | $29.02 (Full Rack)",
+              "dietary": [],
+              "popular": false,
+              "description": "Dry-rubbed",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Beer - Draft",
+          "items": [
+            {
+              "name": "Miller Lite",
+              "tags": [],
+              "price": "$5.18",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Yuengling",
+              "tags": [],
+              "price": "$6.22",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Beer - Bottles & Cans",
+          "items": [
+            {
+              "name": "Bud Light",
+              "tags": [],
+              "price": "$5.18",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Coors Light",
+              "tags": [],
+              "price": "$5.18",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Mich Ultra",
+              "tags": [],
+              "price": "$5.18",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Corona",
+              "tags": [],
+              "price": "$6.22",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Corona Light",
+              "tags": [],
+              "price": "$6.22",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Lagunitas IPA",
+              "tags": [],
+              "price": "$6.22",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "White Claw Black Cherry",
+              "tags": [],
+              "price": "$6.22",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "White Claw Mango",
+              "tags": [],
+              "price": "$6.22",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Goat Island Blood Orange",
+              "tags": [],
+              "price": "$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Sierra Nevada Wild Little Thing Sour",
+              "tags": [],
+              "price": "$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Sweetwater G13 IPA",
+              "tags": [],
+              "price": "$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "UFO White",
+              "tags": [],
+              "price": "$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Wine - Red",
+          "items": [
+            {
+              "name": "Pinot Noir",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cabernet",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Wine - White",
+          "items": [
+            {
+              "name": "Pinot Grigio",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Chardonnay",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Moscato",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Champagne",
+          "items": [
+            {
+              "name": "Champagne",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Signature Drinks",
+          "items": [
+            {
+              "name": "Tidal Wave",
+              "tags": [],
+              "price": "$12.44",
+              "dietary": [],
+              "popular": false,
+              "description": "Bring on the summer vibes with a mixture of Bacardi rum, simple syrup, Blue Curacao, lime juice, club soda, and muddled mint for a cool, refreshing flavor – who knows, a sea creature might be found floating around!",
+              "subcategory": null
+            },
+            {
+              "name": "Palm Breeze",
+              "tags": [],
+              "price": "$15.54",
+              "dietary": [],
+              "popular": false,
+              "description": "A top-tier margarita with a combination of Don Julio, margarita mix, a splash of orange juice, and Gran-Gala floater.",
+              "subcategory": null
+            },
+            {
+              "name": "Seaweed",
+              "tags": [],
+              "price": "$13.47",
+              "dietary": [],
+              "popular": false,
+              "description": "Enjoy the tropics with a combination of Malibu, Captain Morgan, melon liqueur, Blue Curacao, pineapple, and a splash of lime juice.",
+              "subcategory": null
+            },
+            {
+              "name": "Shady Palm",
+              "tags": [],
+              "price": "$10.36",
+              "dietary": [],
+              "popular": false,
+              "description": "Beat the heat with Tito's, simple syrup, sour mix, and a splash of lemon flavor.",
+              "subcategory": null
+            },
+            {
+              "name": "Beach, Please!",
+              "tags": [],
+              "price": "$11.40",
+              "dietary": [],
+              "popular": false,
+              "description": "Go to your happy place with Smirnoff, Peachtree liqueur, orange juice, pineapple juice, and a splash of cranberry.",
+              "subcategory": null
+            },
+            {
+              "name": "Happy Place",
+              "tags": [],
+              "price": "$10.36",
+              "dietary": [],
+              "popular": false,
+              "description": "Find your paradise with vodka, Peachtree liqueur, orange juice, Blue Curacao, peach puree, and a splash of lemon-lime.",
+              "subcategory": null
+            },
+            {
+              "name": "Hammered Sunset",
+              "tags": [],
+              "price": "$12.44",
+              "dietary": [],
+              "popular": false,
+              "description": "Bombay Sapphire gin, bitters, orange liqueur, simple syrup, and a freshly squeezed orange wedge, with a dash of orange juice and sweet vermouth topper.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Beverages",
+          "items": [
+            {
+              "name": "Pepsi",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Diet Pepsi",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Dr Pepper",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Diet Dr Pepper",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Mountain Dew",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Lemonade",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Starry",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Sunkist Orange",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Sweet Tea",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Unsweet Tea",
+              "tags": [],
+              "price": "$3.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.225833+00:00",
+    "updated_at": "2026-05-18T21:29:08.866963+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "69651a11-b6b8-4bea-af7f-23b050782657",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "85273c45-a5c8-4f7a-ac85-5bb0e81e98e3",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "767d82bb-7e15-46fb-bd26-1e8582ddfffb",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "a2f39647-93a9-4c84-87b9-c564b04f3b89",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "1a327628-bdb0-4992-970c-5400c85bbaaf",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "fc1bb10f-665e-41aa-88a6-e2a5106c6118",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "42bb610a-930f-4a17-9073-19e860684217",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 6
+    },
+    {
+      "id": "82b1ead7-53f6-4223-a6f5-bec6a9a336e4",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "d393b153-86a7-4cc9-abf2-b45cae4dfc5a",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "835d93bd-179d-4f30-a8ba-cb44f69defcb",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "469fa773-23e8-4797-bfa9-eb5f3e6425bb",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 10
+    },
+    {
+      "id": "83cd4fd9-2926-4919-a8f5-16f7184cac03",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "7cce731c-7236-4176-9498-2ea08906cb97",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "d46ef37a-c40a-47a1-b9ca-8c871b51c685",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 13
+    },
+    {
+      "id": "8f0c2f98-a810-476d-afd4-f3918a481885",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "733849a4-d982-491d-b432-9a8aaf835328",
+      "tag": "seafood",
+      "tag_category": "food",
+      "sort_order": 15
+    },
+    {
+      "id": "adfc9daf-2ea5-412f-89f5-bb4152b24a32",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "92bb882b-27d4-44d6-98d9-8e4acbfa732b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 17
+    }
+  ],
+  "sections": [
+    {
+      "id": "299d8daf-c436-4ff4-be34-a80aa3f57852",
+      "section_key": "draft-beer",
+      "section_label": "Draft Beer",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "763b165f-4fa9-44f4-b44c-6da18a4856a1",
+          "title": "Draft Beer",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": [
+            {
+              "id": "ee84d9b0-2b71-43de-88d6-62593a78abcc",
+              "group_id": "763b165f-4fa9-44f4-b44c-6da18a4856a1",
+              "item_name": "Miller Lite",
+              "item_description": null,
+              "price_label": null,
+              "price_text": "$5.18",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 0
+            },
+            {
+              "id": "bc5112e1-e832-47f0-920a-d16a4c69aca0",
+              "group_id": "763b165f-4fa9-44f4-b44c-6da18a4856a1",
+              "item_name": "Yuengling",
+              "item_description": null,
+              "price_label": null,
+              "price_text": "$6.22",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 1
+            }
+          ]
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "8a742b02-b541-4063-a308-107d68bac046",
+      "section_key": "bottles-&-cans",
+      "section_label": "Bottles & Cans",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "3bb2d926-17ab-4b82-9928-b0bc4e6204ef",
+          "title": "Bottles & Cans",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "99442f31-56ba-4c0d-8b3e-d6821e77d374",
+      "section_key": "starters",
+      "section_label": "Starters",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "8677ff17-799b-4c15-809d-faf4405fc229",
+          "title": "Starters",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "f5918e8b-6bca-4408-8173-88a3b1945cd7",
+      "section_key": "salads",
+      "section_label": "Salads",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "7d4cc8c2-c6c8-4bd3-a5d9-754a87001f2f",
+          "title": "Salads",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "fe86e0a9-1d81-4b1d-a72b-c21accfb90a6",
+      "section_key": "handhelds",
+      "section_label": "Handhelds",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "8f2e3846-2c0e-499f-a6fe-c008699f469b",
+          "title": "Handhelds",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "d5caf81e-463a-4e86-be22-847931f0f2e3",
+      "section_key": "snow-crab-legs",
+      "section_label": "Snow Crab Legs",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "25ec16e2-0114-444a-bafc-f442f7331066",
+          "title": "Snow Crab Legs",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": []
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "16506d5e-6f4c-4350-b46e-c59f7801a927",
+      "section_key": "mains",
+      "section_label": "Mains",
+      "section_type": "grouped_items",
+      "sort_order": 0,
+      "groups": [
+        {
+          "id": "f87b98fd-9152-4eff-ae52-dc085f9cd5fd",
+          "title": "Mains",
+          "subtitle": null,
+          "note_text": null,
+          "sort_order": 0,
+          "items": [
+            {
+              "id": "5076d221-daf4-4a93-ab70-458198e6aed3",
+              "group_id": "f87b98fd-9152-4eff-ae52-dc085f9cd5fd",
+              "item_name": "Mains",
+              "item_description": "Served with our signature garlic loaf and your choice of one regular side | Upgrade to Side Salad +$2.07 • Add-ons: Crab Clusters +$24.87 | Half Rack Ribs +$14.51",
+              "price_label": null,
+              "price_text": "Varies",
+              "price_numeric": null,
+              "price_min": null,
+              "price_max": null,
+              "unit_label": null,
+              "item_type": null,
+              "sort_order": 0
+            }
+          ]
+        }
+      ],
+      "ungrouped_items": []
+    },
+    {
+      "id": "f0b9c871-d9a6-45a0-9c05-18eeb9a57714",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [
+    {
+      "id": "ee84d9b0-2b71-43de-88d6-62593a78abcc",
+      "section_id": "299d8daf-c436-4ff4-be34-a80aa3f57852",
+      "group_id": "763b165f-4fa9-44f4-b44c-6da18a4856a1",
+      "item_name": "Miller Lite",
+      "item_description": null,
+      "price_label": null,
+      "price_text": "$5.18",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "5076d221-daf4-4a93-ab70-458198e6aed3",
+      "section_id": "16506d5e-6f4c-4350-b46e-c59f7801a927",
+      "group_id": "f87b98fd-9152-4eff-ae52-dc085f9cd5fd",
+      "item_name": "Mains",
+      "item_description": "Served with our signature garlic loaf and your choice of one regular side | Upgrade to Side Salad +$2.07 • Add-ons: Crab Clusters +$24.87 | Half Rack Ribs +$14.51",
+      "price_label": null,
+      "price_text": "Varies",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "bc5112e1-e832-47f0-920a-d16a4c69aca0",
+      "section_id": "299d8daf-c436-4ff4-be34-a80aa3f57852",
+      "group_id": "763b165f-4fa9-44f4-b44c-6da18a4856a1",
+      "item_name": "Yuengling",
+      "item_description": null,
+      "price_label": null,
+      "price_text": "$6.22",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    }
+  ],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "bb4b8a8c-a53f-4b03-a5c8-0b5a8dc65753",
+      "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1ed7a1fb-6124-4488-8141-5beb5dd24870/1ed7a1fb-6124-4488-8141-5beb5dd24870_1779131460431.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:08.316955+00:00"
+    },
+    {
+      "id": "491ebf2d-3993-43f0-9ce9-d320c7084404",
+      "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1ed7a1fb-6124-4488-8141-5beb5dd24870/1ed7a1fb-6124-4488-8141-5beb5dd24870_1779132000192.7249.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:08.474187+00:00"
+    },
+    {
+      "id": "e8b89aad-67a6-400e-8b1a-303abb232e4d",
+      "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1ed7a1fb-6124-4488-8141-5beb5dd24870/1ed7a1fb-6124-4488-8141-5beb5dd24870_1779139743937.3076.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:08.620108+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [
+      {
+        "id": "299d8daf-c436-4ff4-be34-a80aa3f57852",
+        "section_name": "Draft Beer",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+        "sort_order": 0
+      },
+      {
+        "id": "8a742b02-b541-4063-a308-107d68bac046",
+        "section_name": "Bottles & Cans",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+        "sort_order": 0
+      },
+      {
+        "id": "99442f31-56ba-4c0d-8b3e-d6821e77d374",
+        "section_name": "Starters",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+        "sort_order": 0
+      },
+      {
+        "id": "f5918e8b-6bca-4408-8173-88a3b1945cd7",
+        "section_name": "Salads",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+        "sort_order": 0
+      },
+      {
+        "id": "fe86e0a9-1d81-4b1d-a72b-c21accfb90a6",
+        "section_name": "Handhelds",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+        "sort_order": 0
+      },
+      {
+        "id": "d5caf81e-463a-4e86-be22-847931f0f2e3",
+        "section_name": "Snow Crab Legs",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+        "sort_order": 0
+      },
+      {
+        "id": "16506d5e-6f4c-4350-b46e-c59f7801a927",
+        "section_name": "Mains",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "1ed7a1fb-6124-4488-8141-5beb5dd24870",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": [
+      {
+        "id": "ee84d9b0-2b71-43de-88d6-62593a78abcc",
+        "item_name": "Miller Lite",
+        "description": "",
+        "price_text": "$5.18",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "299d8daf-c436-4ff4-be34-a80aa3f57852"
+      },
+      {
+        "id": "5076d221-daf4-4a93-ab70-458198e6aed3",
+        "item_name": "Mains",
+        "description": "Served with our signature garlic loaf and your choice of one regular side | Upgrade to Side Salad +$2.07 • Add-ons: Crab Clusters +$24.87 | Half Rack Ribs +$14.51",
+        "price_text": "Varies",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "16506d5e-6f4c-4350-b46e-c59f7801a927"
+      },
+      {
+        "id": "bc5112e1-e832-47f0-920a-d16a4c69aca0",
+        "item_name": "Yuengling",
+        "description": "",
+        "price_text": "$6.22",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "299d8daf-c436-4ff4-be34-a80aa3f57852"
+      }
+    ]
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

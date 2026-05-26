@@ -1,129 +1,138 @@
 {
-  "id": "1077b167-608c-406d-9852-bf1ea7eae23e",
-  "slug": "picnic-beach",
-  "name": "Picnic Beach",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Casual picnic-themed Barbecue restaurant in Gulf Shores, AL that offers healthy ingredients, fresh smoothies and vegetarian options. Relaxed picnic-themed eatery with wood tables & faux grass and great food.",
-  "phone": "251-540-0117",
-  "email": null,
-  "address_line_1": "Gulf Shores, AL",
-  "city": "",
-  "state": "AL",
-  "zip": null,
-  "website_url": "https://picnicbeach.com",
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": null,
+  "entity": {
+    "id": "1077b167-608c-406d-9852-bf1ea7eae23e",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "picnic-beach",
+    "name": "Picnic Beach",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": "https://picnicbeach.com",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Gulf Shores, AL",
+    "address_line_2": null,
+    "city": null,
+    "state": "AL",
+    "zip": null,
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": "Casual picnic-themed Barbecue restaurant in Gulf Shores, AL that offers healthy ingredients, fresh smoothies and vegetarian options. Relaxed picnic-themed eatery with wood tables & faux grass and great food.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-21T04:57:23.625943+00:00",
+    "updated_at": "2026-05-21T04:57:23.625943+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": "Barbecue",
+    "atmosphere": "Casual picnic-themed with wood tables and faux grass",
+    "extraction_confidence": "low",
+    "extraction_timestamp": "2026-05-15T06:33:58.725+00:00",
+    "extraction_notes": "HTML provided is heavily truncated and contains only header/metadata information with extensive CSS and JavaScript code. The page content body is not included in the HTML. Extracted basic information from meta tags and schema.org structured data. Unable to extract menu details, hours, contact information, pricing, reviews, or other restaurant-specific details as the actual page content was not provided. The HTML appears to be cut off mid-CSS definition.",
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "photos": [],
-  "amenities": [],
-  "tags": [
-    {
-      "tag": "barbecue",
-      "tag_category": null
-    },
-    {
-      "tag": "casual dining",
-      "tag_category": null
-    },
-    {
-      "tag": "seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "healthy options",
-      "tag_category": null
-    },
-    {
-      "tag": "smoothies",
-      "tag_category": null
-    },
-    {
-      "tag": "gulf shores",
-      "tag_category": null
-    },
-    {
-      "tag": "family-friendly",
-      "tag_category": null
-    },
-    {
-      "tag": "fresh ingredients",
-      "tag_category": null
-    },
-    {
-      "tag": "vegan",
-      "tag_category": null
-    },
-    {
-      "tag": "vegetarian",
-      "tag_category": null
-    },
-    {
-      "tag": "local",
-      "tag_category": null
-    },
-    {
-      "tag": "beach restaurant",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Seafood",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Barbecue",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Gulf Shores Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Healthy Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Bars and Grills",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    }
-  ],
-  "featured": false,
-  "is_active": true,
-  "menus": [],
-  "businesses": [
-    {
-      "source": "gulf-shores-attractions.json",
-      "name": "Picnic Beach",
-      "phone": "251-540-0117",
-      "address": "",
-      "placeId": "",
-      "website": ""
-    }
-  ],
-  "consolidatedAt": "2026-05-22T11:53:28.021Z"
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

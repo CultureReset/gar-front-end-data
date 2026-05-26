@@ -1,32 +1,294 @@
 {
-  "id": "cbcaa0dd-df08-4b2a-b1f1-c78f2f5298a5",
-  "slug": "gulf-coast-rv-park-NWSBWk",
-  "name": "Gulf Coast RV Park",
-  "entity_type": "activity",
-  "entity_subtype": "rv_park",
-  "icon": "🏪",
-  "description": "Straightforward RV campground offering shady lots, restrooms & laundry facilities.",
-  "phone": "(251) 968-6494",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "5584 Co Rd 6, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.1,
-  "review_count": 115,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/997de040-5224-4457-ad66-a55d60fa7236/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "cbcaa0dd-df08-4b2a-b1f1-c78f2f5298a5",
+    "place_id": "ChIJZcfsiZMamogRyDap7NWSBWk",
+    "google_maps_uri": "https://maps.google.com/?cid=7567616196362188488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-coast-rv-park-NWSBWk",
+    "name": "Gulf Coast RV Park",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "rv_park",
+    "secondary_types": [],
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "campground",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-6494",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "5584 Co Rd 6, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3047076,
+    "longitude": -87.7222605,
+    "short_address": "5584 Co Rd 6, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.1,
+    "review_count": 115,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Straightforward RV campground offering shady lots, restrooms & laundry facilities.",
+    "description": "Straightforward RV campground offering shady lots, restrooms & laundry facilities.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/997de040-5224-4457-ad66-a55d60fa7236/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:30 AM – 5:00 PM",
+      "Tuesday: 10:30 AM – 5:00 PM",
+      "Wednesday: 12:30 AM – 5:00 PM",
+      "Thursday: 10:30 AM – 5:00 PM",
+      "Friday: 10:30 AM – 5:00 PM",
+      "Saturday: 10:30 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.431465+00:00",
+    "updated_at": "2026-05-17T22:22:54.129946+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "595977e2-335e-4bf3-a819-5aa09d0143d6",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "68772d7c-90f2-478d-92f2-6968678c9fa9",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "595c4947-a949-4729-b69e-ade3105f526d",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "9a019b80-4ca4-4f44-8fa4-9cf676b902c3",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "2643190d-18ca-44b1-b709-5cfa645b9d4d",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "bb760ef7-5f95-4bed-8bcb-5f096ea46d38",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "9a4c8b1b-9b4c-4b19-9f11-e4a1a32369df",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "d102ff0c-5fbc-4d6e-a71e-c4296cd325bd",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "b694477b-ebd3-4741-b387-2935feb8cbb3",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "4b1e9ad9-c2e2-4794-98c8-835a8248542d",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "b3d7e506-15fe-463a-826a-e161847702d6",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "0095685c-c1c4-4e28-9bb6-8d12f76ee939",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "40a3de39-bafb-432b-8071-1ffb9d458a7c",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "3b348dc5-48f2-4afd-aa91-4682c1288457",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "b9bfd8a1-abad-495d-be5e-8a35949bf098",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "1450edec-d62a-45e8-810e-14351ca5da73",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "7f50c489-3b3c-4943-bce7-bcc89f7a1f9d",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "7eb497c4-35fc-4532-b967-e72c6d6e3a0a",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "9a6cbef3-e168-422d-a6e9-6078c72057fa",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "e963ccea-1879-4dec-bd6d-b3fe46ac76f8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    }
+  ],
+  "sections": [
+    {
+      "id": "b7f8a1d6-f60d-40c7-b5af-ff73b7857b59",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,261 @@
 {
-  "id": "da806925-d57a-438e-ba6f-ee5ddbc0cebf",
-  "slug": "dollar-general-NrpIMg",
-  "name": "Dollar General",
-  "entity_type": "shopping",
-  "entity_subtype": "retail",
-  "icon": "🏪",
-  "description": "DG is proud to be America's neighborhood general store. We strive to make shopping hassle-free and affordable with more than 20,000 convenient, easy-to-shop stores in 48 states. Our stores deliver everyday low prices on items including food, snacks, health and beauty aids, cleaning supplies, basic apparel, housewares, seasonal items, paper products and much more from America's most-trusted brands and products, along with high-quality private brands. From serving our customers with value and convenience and our employees with career opportunities to serving the communities we call home through literacy and education, Dollar General has been committed to its mission of Serving Others since the company's founding in 1939.",
-  "phone": "(850) 308-1164",
-  "email": null,
-  "address_line_1": "13140 Sorrento Rd, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": "https://www.dollargeneral.com/store-directory/fl/pensacola/9271",
-  "rating": 4.2,
-  "review_count": 337,
-  "hero_image_url": null,
+  "entity": {
+    "id": "da806925-d57a-438e-ba6f-ee5ddbc0cebf",
+    "place_id": "ChIJTcrCz4GlkIgRoGCDANrpIMg",
+    "google_maps_uri": "https://maps.google.com/?cid=14420783129361080480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "dollar-general-NrpIMg",
+    "name": "Dollar General",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "retail",
+    "secondary_types": [],
+    "google_type": "discount_store",
+    "google_types": [
+      "drugstore",
+      "gift_shop",
+      "toy_store",
+      "convenience_store",
+      "discount_store",
+      "grocery_store",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "health",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 308-1164",
+    "international_phone": null,
+    "website_url": "https://www.dollargeneral.com/store-directory/fl/pensacola/9271",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "13140 Sorrento Rd, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.3218093,
+    "longitude": -87.4213994,
+    "short_address": "13140 Sorrento Rd, Pensacola",
+    "plus_code": null,
+    "rating": 4.2,
+    "review_count": 337,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Bargain retail chain selling a range of household goods, groceries, beauty products & more.",
+    "description": "DG is proud to be America's neighborhood general store. We strive to make shopping hassle-free and affordable with more than 20,000 convenient, easy-to-shop stores in 48 states. Our stores deliver everyday low prices on items including food, snacks, health and beauty aids, cleaning supplies, basic apparel, housewares, seasonal items, paper products and much more from America's most-trusted brands and products, along with high-quality private brands. From serving our customers with value and convenience and our employees with career opportunities to serving the communities we call home through literacy and education, Dollar General has been committed to its mission of Serving Others since the company's founding in 1939.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/dollargeneral/?hl=en",
+    "social_facebook": "https://www.facebook.com/dollargeneral/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": false
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 9:00 PM",
+      "Saturday: 8:00 AM – 9:00 PM",
+      "Sunday: 8:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.746401+00:00",
+    "updated_at": "2026-05-17T21:17:43.845888+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "6434cdcd-1ddd-407f-8a4e-e35782299dab",
+      "tag": "retail",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "5e64d43d-f5c2-4780-b21a-c713725589ed",
+      "tag": "drugstore",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "39e032ab-60d7-4c59-a98a-ceef158a78d4",
+      "tag": "gift_shop",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "e370d362-136d-4d91-a0cf-5caf20a77000",
+      "tag": "toy_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "7a440916-04de-4af2-8728-08293364b4a7",
+      "tag": "convenience_store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "82900789-3b91-44b4-a52c-01306a278bba",
+      "tag": "discount_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "8031010f-e064-4a98-94e5-68734e4b4229",
+      "tag": "grocery_store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "114e8624-ac40-4818-8220-5ba4f46c54e2",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "b4f53053-ff62-4930-bb33-f740bb17d955",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "fb19f4ce-3ec4-4f64-8b3d-261cab55c3b9",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "8736ce92-f6e5-4eb9-8135-cd52b23991bb",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "30a1d0d5-0c46-4869-9619-6ed12b11a2a6",
+      "tag": "health",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "bc7da480-3ae2-44e8-be1d-727f090bfd35",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 12
+    }
+  ],
+  "sections": [
+    {
+      "id": "13962581-d91f-4a8e-b232-eee766e6cfb3",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "photos": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

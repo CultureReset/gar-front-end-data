@@ -1,32 +1,351 @@
 {
-  "id": "5980aff0-f740-4082-a4bb-2a46be3aef25",
-  "slug": "blue-moose-auto-spa-GiM7gc",
-  "name": "Blue Moose Auto Spa",
-  "entity_type": "business",
-  "entity_subtype": "car-wash",
-  "icon": "🏪",
-  "description": "Blue Moose Auto Spa is your destination for a professional, full-service car wash experience. As a staffed auto spa, we pride ourselves on delivering personalized care and attention to every vehicle that comes through. Our team is trained to provide high-quality detailing, protective treatments, and interior refreshes that keep your car looking its best. We also offer Monthly Club Memberships, giving you access to a curated selection of services at unbeatable value. Whether you're looking for express detailing, ceramic coating, or just a reliable clean with thoughtful extras like complimentary towels and mat washing, our membership options make it easy to maintain your vehicle year-round.",
-  "phone": "(251) 968-2227",
-  "email": null,
-  "website_url": "https://www.bluemooseautospagulfshores.com/",
-  "address_line_1": "3890 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.1,
-  "review_count": 301,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5980aff0-f740-4082-a4bb-2a46be3aef25/5980aff0-f740-4082-a4bb-2a46be3aef25_1779139741064.3787.jpg",
-  "photos": [],
+  "entity": {
+    "id": "5980aff0-f740-4082-a4bb-2a46be3aef25",
+    "place_id": "ChIJgTiyOOwFmogRGskuNGiM7gc",
+    "google_maps_uri": "https://maps.google.com/?cid=571548581902600474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "blue-moose-auto-spa-GiM7gc",
+    "name": "Blue Moose Auto Spa",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "car-wash",
+    "secondary_types": "",
+    "google_type": "car_wash",
+    "google_types": [
+      "car_wash",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-2227",
+    "international_phone": null,
+    "website_url": "https://www.bluemooseautospagulfshores.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3890 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3074437,
+    "longitude": -87.682261,
+    "short_address": "3890 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.1,
+    "review_count": 301,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Blue Moose Auto Spa is your destination for a professional, full-service car wash experience. As a staffed auto spa, we pride ourselves on delivering personalized care and attention to every vehicle that comes through. Our team is trained to provide high-quality detailing, protective treatments, and interior refreshes that keep your car looking its best. We also offer Monthly Club Memberships, giving you access to a curated selection of services at unbeatable value. Whether you're looking for express detailing, ceramic coating, or just a reliable clean with thoughtful extras like complimentary towels and mat washing, our membership options make it easy to maintain your vehicle year-round.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5980aff0-f740-4082-a4bb-2a46be3aef25/5980aff0-f740-4082-a4bb-2a46be3aef25_1779139741064.3787.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/p/Blue-Moose-Auto-Spa-100063577869082/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:30 AM – 6:30 PM",
+      "Tuesday: 7:30 AM – 6:30 PM",
+      "Wednesday: 7:30 AM – 6:30 PM",
+      "Thursday: 7:30 AM – 6:30 PM",
+      "Friday: 7:30 AM – 6:30 PM",
+      "Saturday: 7:30 AM – 6:30 PM",
+      "Sunday: 10:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.994936+00:00",
+    "updated_at": "2026-05-18T21:29:05.969253+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "89a6c6cd-54cb-4d27-a4ee-0ca4bcc5aefb",
+      "tag": "car wash",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "8009626a-9cae-4d70-9474-6dcde1b8caac",
+      "tag": "auto detailing",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "94f53649-7801-4b91-826c-792617c88555",
+      "tag": "ceramic coating",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "8c272410-995f-4adb-913b-bc9b7c2992fe",
+      "tag": "vehicle maintenance",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "f000ad11-2f0b-47ba-9612-cef99f2cf1e2",
+      "tag": "professional detailing",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "253171f3-29ca-4cc6-8fdd-e6472e11ab3e",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "93ca5676-0ef7-4072-acb3-93c3bf795e34",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "56f20470-73e1-4ff1-baca-7f5f6ad96656",
+      "tag": "auto spa",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "c2095fa4-5bc3-4131-9884-477b98610c1e",
+      "tag": "hand waxing",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "37004883-c056-45ee-9a53-da8e84907beb",
+      "tag": "express detailing",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "5aabea42-75ad-4722-b696-fdebdaf3eb98",
+      "tag": "full-service wash",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "ea05c57e-f11c-4780-bdb9-9112ada8158d",
+      "tag": "interior cleaning",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "8a07b717-ce3b-49fb-9ceb-cd4bf96634d0",
+      "tag": "exterior protection",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "0490b752-1b29-471d-9b2f-d67a369b281d",
+      "tag": "membership club",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "9fd019b9-5017-40ff-ba1d-525e80222871",
+      "tag": "Automotive Services",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "5c037637-5092-430c-8b73-a77cfeb574ea",
+      "tag": "Car Wash",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "e9a89fff-83fe-4a2f-8a34-872d3ee95f5b",
+      "tag": "Auto Detailing",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "77e1890a-9abe-412b-9a8d-85515645fc1c",
+      "tag": "Vehicle Care",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "91ee5fbb-6c95-4a8b-84b8-808fbb301387",
+      "tag": "Local Services",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "ad22a2da-1436-4cef-ad22-dfea7db8982d",
+      "tag": "automotive-services",
+      "tag_category": "industry",
+      "sort_order": 19
+    },
+    {
+      "id": "f755ba14-7488-42ab-a458-5f27363876dd",
+      "tag": "car-wash",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "fa742a05-ddf5-4831-82af-29f1f7cd6e75",
+      "tag": "car_wash",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "b26088bb-8cdf-498d-aea2-33b61760be57",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "4b19364a-f392-49b8-a470-f06f825a1528",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "9dffa8f5-f8c4-4605-90fb-b5c5acc3a8e6",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 24
+    }
+  ],
+  "sections": [
+    {
+      "id": "c5323f17-4edb-4f89-947f-503ed038e9bf",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "e2559267-24a4-4350-ae1d-ef313b887ca1",
+      "entity_id": "5980aff0-f740-4082-a4bb-2a46be3aef25",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5980aff0-f740-4082-a4bb-2a46be3aef25/5980aff0-f740-4082-a4bb-2a46be3aef25_1779131997935.402.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:57.944148+00:00"
+    },
+    {
+      "id": "36e4d188-55f4-4b0a-8e99-193b843f038d",
+      "entity_id": "5980aff0-f740-4082-a4bb-2a46be3aef25",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5980aff0-f740-4082-a4bb-2a46be3aef25/5980aff0-f740-4082-a4bb-2a46be3aef25_1779139741064.3787.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:58.089469+00:00"
+    },
+    {
+      "id": "50a6e4fd-41fb-4898-9904-02f586dffad1",
+      "entity_id": "5980aff0-f740-4082-a4bb-2a46be3aef25",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5980aff0-f740-4082-a4bb-2a46be3aef25/5980aff0-f740-4082-a4bb-2a46be3aef25_1779131457973.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:57.797424+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

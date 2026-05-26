@@ -1,441 +1,873 @@
 {
-  "id": "14b827de-e5d4-429b-b01b-e2bd6e358aaf",
-  "slug": "kittys-kafe-HVdnPI",
-  "name": "Kitty's Kafe",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Cozy nook with homey decor offering simple comfort fare like biscuits & gravy & country fried steak.",
-  "phone": "(251) 948-5233",
-  "email": null,
-  "address_line_1": "3800 Gulf Shores Pkwy #100, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Coast",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://www.kittyskafe.com/",
-  "rating": 4.6,
-  "review_count": 1328,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/bb85a412-35ed-457a-8152-a30625bc4fb8/image_1.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "14b827de-e5d4-429b-b01b-e2bd6e358aaf",
+    "place_id": "ChIJ3WAh2UMFmogR5IPZCHVdnPI",
+    "google_maps_uri": "https://maps.google.com/?cid=17481950610786452452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "kittys-kafe-HVdnPI",
+    "name": "Kitty's Kafe",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "breakfast_restaurant",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-5233",
+    "international_phone": null,
+    "website_url": "http://www.kittyskafe.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3800 Gulf Shores Pkwy #100, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Coast",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.3027913,
+    "longitude": -87.6800638,
+    "short_address": "3800 Gulf Shores Pkwy #100, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 1328,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Cozy nook with homey decor offering simple comfort fare like biscuits & gravy & country fried steak.",
+    "description": "Cozy nook with homey decor offering simple comfort fare like biscuits & gravy & country fried steak.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/bb85a412-35ed-457a-8152-a30625bc4fb8/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 2:00 PM",
+      "Tuesday: 7:00 AM – 2:00 PM",
+      "Wednesday: 7:00 AM – 2:00 PM",
+      "Thursday: 7:00 AM – 2:00 PM",
+      "Friday: 7:00 AM – 2:00 PM",
+      "Saturday: 7:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://kittyskafe.com",
+      "menu": {
+        "categories": [
+          {
+            "name": "Breakfast Menu",
+            "type": "breakfast",
+            "items": []
+          },
+          {
+            "name": "Sandwiches & Wraps",
+            "type": "lunch",
+            "items": []
+          }
+        ]
+      },
+      "tags": [
+        "Southern cuisine",
+        "casual dining",
+        "family-friendly",
+        "breakfast",
+        "lunch",
+        "home-style"
+      ],
+      "type": "Restaurant",
+      "about": {
+        "vibe": "Warm, friendly, casual family atmosphere",
+        "best_for": [
+          "families",
+          "locals",
+          "visitors",
+          "breakfast",
+          "lunch"
+        ],
+        "description": "Upon entering Kitty's Kafe, locals and visitors alike are greeted by a warm, friendly, casual family atmosphere. Whether joining for a Southern Style Country Breakfast, enjoying one of many delicious lunch items, or scrumptious entrees, food is prepared daily from the freshest ingredients. Full service bar available.",
+        "established": null,
+        "insider_tip": null,
+        "reservations": null,
+        "elevator_pitch": "A casual family-style Southern restaurant serving home-cooked meals with genuine hospitality."
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null
+      },
+      "gallery": [],
+      "sources": [
+        "https://kittyskafe.com",
+        "https://www.kittyskafe.com/menu",
+        "https://www.kittyskafe.com/home",
+        "https://www.kittyskafe.com/gallery",
+        "https://www.kittyskafe.com"
+      ],
+      "tagline": "Home Style Meals Served With True Southern Hospitality",
+      "features": [
+        "full service bar",
+        "casual dining"
+      ],
+      "specials": [],
+      "scraped_at": "2026-03-22T09:19:08.265Z",
+      "price_range": "$$",
+      "extracted_at": "2026-03-23T03:50:38.682Z",
+      "social_links": {
+        "website": "https://kittyskafe.com",
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Kitty's Kafe"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:25.32704+00:00",
+    "updated_at": "2026-05-18T21:06:57.069834+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "257bac0f-7b14-46bc-9f36-c161f546c63c",
       "tag": "restaurant",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
-      "tag": "food",
-      "tag_category": "type"
-    },
-    {
-      "tag": "point of interest",
-      "tag_category": "type"
-    },
-    {
-      "tag": "breakfast restaurant",
-      "tag_category": "type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "type"
-    },
-    {
-      "tag": "italian restaurant",
-      "tag_category": "type"
-    },
-    {
-      "tag": "outdoor seating",
-      "tag_category": "vibe"
-    },
-    {
-      "tag": "takeout",
-      "tag_category": "service"
-    },
-    {
-      "tag": "beer",
-      "tag_category": "drinks"
-    },
-    {
-      "tag": "dine in",
-      "tag_category": "service"
-    },
-    {
-      "tag": "dinner",
-      "tag_category": "food"
-    },
-    {
-      "tag": "dessert",
-      "tag_category": "food"
-    },
-    {
-      "tag": "wheelchair accessible",
-      "tag_category": "service"
-    },
-    {
-      "tag": "lunch",
-      "tag_category": "food"
-    },
-    {
-      "tag": "coffee",
-      "tag_category": "drinks"
-    },
-    {
-      "tag": "family friendly",
-      "tag_category": "vibe"
-    },
-    {
-      "tag": "breakfast",
-      "tag_category": "food"
-    },
-    {
-      "tag": "wine",
-      "tag_category": "drinks"
-    },
-    {
-      "tag": "good for groups",
-      "tag_category": "vibe"
-    },
-    {
-      "tag": "brunch",
-      "tag_category": "food"
-    },
-    {
-      "tag": "cocktails",
-      "tag_category": "drinks"
-    },
-    {
-      "tag": "italian",
-      "tag_category": "food"
-    },
-    {
-      "tag": "southern-cuisine",
-      "tag_category": "search"
-    },
-    {
-      "tag": "full-bar",
-      "tag_category": "search"
-    },
-    {
-      "tag": "casual-dining",
-      "tag_category": "search"
-    },
-    {
-      "tag": "full_bar",
-      "tag_category": "amenity"
-    },
-    {
-      "tag": "happy_hour",
-      "tag_category": "amenity"
-    },
-    {
-      "tag": "local-favorite",
-      "tag_category": "search"
-    },
-    {
-      "tag": "kids_friendly",
-      "tag_category": "amenity"
-    },
-    {
-      "tag": "country-food",
-      "tag_category": "search"
-    },
-    {
-      "tag": "breakfast_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "italian_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "wine",
-      "tag_category": "drinks"
-    },
-    {
+      "id": "871a98da-d3dd-44dc-9378-0185b004290f",
       "tag": "restaurant",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
-      "tag": "food",
-      "tag_category": "type"
-    },
-    {
-      "tag": "point of interest",
-      "tag_category": "type"
-    },
-    {
-      "tag": "breakfast restaurant",
-      "tag_category": "type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "type"
-    },
-    {
-      "tag": "italian restaurant",
-      "tag_category": "type"
-    },
-    {
-      "tag": "outdoor seating",
-      "tag_category": "vibe"
-    },
-    {
-      "tag": "takeout",
-      "tag_category": "service"
-    },
-    {
-      "tag": "beer",
-      "tag_category": "drinks"
-    },
-    {
-      "tag": "dine in",
-      "tag_category": "service"
-    },
-    {
-      "tag": "dinner",
-      "tag_category": "food"
-    },
-    {
-      "tag": "dessert",
-      "tag_category": "food"
-    },
-    {
-      "tag": "wheelchair accessible",
-      "tag_category": "service"
-    },
-    {
-      "tag": "lunch",
-      "tag_category": "food"
-    },
-    {
-      "tag": "coffee",
-      "tag_category": "drinks"
-    },
-    {
-      "tag": "family friendly",
-      "tag_category": "vibe"
-    },
-    {
-      "tag": "breakfast",
-      "tag_category": "food"
-    },
-    {
-      "tag": "wine",
-      "tag_category": "drinks"
-    },
-    {
-      "tag": "good for groups",
-      "tag_category": "vibe"
-    },
-    {
-      "tag": "brunch",
-      "tag_category": "food"
-    },
-    {
-      "tag": "cocktails",
-      "tag_category": "drinks"
-    },
-    {
-      "tag": "italian",
-      "tag_category": "food"
-    },
-    {
-      "tag": "southern-cuisine",
-      "tag_category": "search"
-    },
-    {
-      "tag": "full-bar",
-      "tag_category": "search"
-    },
-    {
-      "tag": "casual-dining",
-      "tag_category": "search"
-    },
-    {
-      "tag": "full_bar",
-      "tag_category": "amenity"
-    },
-    {
-      "tag": "happy_hour",
-      "tag_category": "amenity"
-    },
-    {
-      "tag": "family-friendly",
-      "tag_category": "search"
-    },
-    {
-      "tag": "local-favorite",
-      "tag_category": "search"
-    },
-    {
-      "tag": "kids_friendly",
-      "tag_category": "amenity"
-    },
-    {
-      "tag": "country-food",
-      "tag_category": "search"
-    },
-    {
-      "tag": "breakfast_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "italian_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "4dfa04ad-72ba-4517-ab60-e1edc43c26db",
       "tag": "restaurant",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "c1f8a621-604b-4117-bf88-a1679395f153",
       "tag": "food",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "905a7edd-2d4e-4463-981c-5055c04f4620",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "520c8a75-c7d0-4e28-a98a-9a32479a402c",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "71be1b7b-c893-4813-9dd8-85abb0727853",
       "tag": "point of interest",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "9fb91275-dd4f-49ef-ae46-e525056264ee",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "19ff629a-6f05-467f-8140-bf08b848cfaa",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "8098e650-9bda-45c2-839c-196346586857",
       "tag": "breakfast restaurant",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "4ce8e0f2-d023-49b0-9e46-97ab778b0cdb",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "452b50d6-face-40c0-90bd-270e3a7cad40",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "97158cbe-0534-4f99-9f0c-46ba45fc4d2d",
       "tag": "establishment",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "d474a2f4-36ec-4053-9ca3-9e74a186e527",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "fed9ebc5-4497-4392-9815-26da56850b29",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "9df3642c-e8f7-4ad1-82b6-66fb210dfdd9",
       "tag": "italian restaurant",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "03a7e4c8-5d7d-454c-9a74-43802d42124c",
+      "tag": "italian restaurant",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "4d28f39d-0c40-4d37-aca3-88d2d1ff1981",
+      "tag": "italian restaurant",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "8ea4159e-8c9f-4355-b7dd-4aa2153c2d44",
       "tag": "outdoor seating",
-      "tag_category": "vibe"
+      "tag_category": "vibe",
+      "sort_order": 6
     },
     {
+      "id": "90231e42-b4c5-4704-b9c2-e75e87a880c4",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "5254488a-cbd1-4e38-a580-5de32289a9c1",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "f821df4e-40f4-41d9-9395-4ce06994524d",
       "tag": "takeout",
-      "tag_category": "service"
+      "tag_category": "service",
+      "sort_order": 7
     },
     {
+      "id": "29a95035-b7cb-430f-a5a9-784a1c348bc4",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "3322d436-b0df-4ac7-9c4d-b30abb67d42f",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "b42fc07f-5d8f-4348-a9f0-2be4f29e9b8e",
       "tag": "beer",
-      "tag_category": "drinks"
+      "tag_category": "drinks",
+      "sort_order": 8
     },
     {
+      "id": "6c172148-3b88-400a-80e8-bb4fc4889d6e",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "af3c3343-613d-462e-9309-f3d561bdb393",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "af9df2f2-4a23-4970-aa4b-446e5f40a18d",
       "tag": "dine in",
-      "tag_category": "service"
+      "tag_category": "service",
+      "sort_order": 9
     },
     {
+      "id": "bc5ffbe1-6105-4910-bbcb-94dcdb4caaa9",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "eaaf8d3d-b540-4ef2-8008-1983847aa9c3",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "45342f5c-3b27-4c98-81b8-769ae9a713a8",
       "tag": "dinner",
-      "tag_category": "food"
+      "tag_category": "food",
+      "sort_order": 10
     },
     {
+      "id": "2d2f5a05-0bde-44bd-94f8-2af582515a53",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "b1878f5e-f85e-49cd-bf83-3fe6dc9128ae",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "5a53350b-1534-4461-9d27-31078b63ce60",
       "tag": "dessert",
-      "tag_category": "food"
+      "tag_category": "food",
+      "sort_order": 11
     },
     {
+      "id": "6bb8409e-6119-459d-ad52-03f813828eee",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 11
+    },
+    {
+      "id": "b012cd83-b123-488a-98fa-d5e0bd173b61",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 11
+    },
+    {
+      "id": "950532a9-1ee9-4457-a16a-4ec6c172dd14",
       "tag": "wheelchair accessible",
-      "tag_category": "service"
+      "tag_category": "service",
+      "sort_order": 12
     },
     {
+      "id": "c0f493f1-19e1-4875-8096-702802f11da6",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 12
+    },
+    {
+      "id": "66b34ff7-2a17-42c5-b29c-dcbbc0278398",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 12
+    },
+    {
+      "id": "6c763700-3819-4fa9-a140-ebd02d02d52e",
       "tag": "lunch",
-      "tag_category": "food"
+      "tag_category": "food",
+      "sort_order": 13
     },
     {
+      "id": "fcdd46f1-83d3-4ac2-ab3e-1774f537150f",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "7440d221-3560-466b-942d-c0a615e38f2c",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "e36201f3-d660-47ed-8cfb-424842bca0d4",
       "tag": "coffee",
-      "tag_category": "drinks"
+      "tag_category": "drinks",
+      "sort_order": 14
     },
     {
+      "id": "036dee57-dc9d-487d-b8e7-a272d86eddef",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "c4aba8eb-2c08-4a93-b32b-8314a81eb9c2",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "d2b4846c-deb0-4fa8-a46c-6b020bd7fd5e",
       "tag": "family friendly",
-      "tag_category": "vibe"
+      "tag_category": "vibe",
+      "sort_order": 15
     },
     {
+      "id": "17902557-4cb1-454d-b002-0db1844e4241",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "fe87242f-4cfa-4ff3-86fe-a878322effd8",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "7e9ed690-fc51-4c6d-8fd3-682e8fd8bdc5",
       "tag": "breakfast",
-      "tag_category": "food"
+      "tag_category": "food",
+      "sort_order": 16
     },
     {
+      "id": "7a6ef04d-19e3-4ee3-aea3-c733b6065e13",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "cf467e27-e214-42c8-b5f7-8d7581795973",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "a927838f-f4ee-4f4f-9673-d23a460b65e0",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "9cf7b7ad-f949-472a-a484-8eecb66fef0d",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "1063e56f-07e6-47b9-ae64-2378943a741c",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "e492f49a-8e35-47eb-9026-62f003df9056",
       "tag": "good for groups",
-      "tag_category": "vibe"
+      "tag_category": "vibe",
+      "sort_order": 18
     },
     {
+      "id": "cebf0ccf-a4cb-45ac-885c-821e9e0d466b",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 18
+    },
+    {
+      "id": "2876b53a-1c87-4a87-aa1c-3ac9bce561d9",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 18
+    },
+    {
+      "id": "b4ce8b2a-9bd9-4a41-ae3f-94fa8e0e89f3",
       "tag": "brunch",
-      "tag_category": "food"
+      "tag_category": "food",
+      "sort_order": 19
     },
     {
+      "id": "c5702144-8ffa-4799-b539-64c0893105b4",
+      "tag": "brunch",
+      "tag_category": "food",
+      "sort_order": 19
+    },
+    {
+      "id": "a05ef287-f689-4d9e-b0db-acf7730b57b4",
+      "tag": "brunch",
+      "tag_category": "food",
+      "sort_order": 19
+    },
+    {
+      "id": "30b99b10-59e6-460d-b071-ea89fa9e4f23",
       "tag": "cocktails",
-      "tag_category": "drinks"
+      "tag_category": "drinks",
+      "sort_order": 20
     },
     {
+      "id": "e3881f02-ea60-4731-8d82-ff5cc5191183",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "4b1cf56e-5114-4b00-9635-caff706e2ec1",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "1e5431cd-4c2c-4a57-99a6-747d08f62aaa",
       "tag": "italian",
-      "tag_category": "food"
+      "tag_category": "food",
+      "sort_order": 21
     },
     {
+      "id": "b4a55f02-4fa8-432f-bc52-ecccf2541dc3",
+      "tag": "italian",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "5fe8976d-99b9-484e-b7d4-7688d08d3f15",
+      "tag": "italian",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "c64640be-f5f1-4dfb-a163-c4047a6c7780",
       "tag": "southern-cuisine",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 22
     },
     {
+      "id": "de13af28-c6ea-4b89-a967-fef77faa26b0",
+      "tag": "southern-cuisine",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "64337ea9-c2af-4fab-8eff-2cfeaa9f6b2e",
+      "tag": "southern-cuisine",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "64dd456f-4ca9-47a4-9dcf-91445b08b2b7",
       "tag": "full-bar",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 23
     },
     {
+      "id": "15865389-a308-4282-aa22-09dd7e104c1a",
+      "tag": "full-bar",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "48e579cd-292d-4a5f-82bd-51f468212e9f",
+      "tag": "full-bar",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "90216287-c52a-4b31-9041-03c41b0890e9",
       "tag": "casual-dining",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 24
     },
     {
+      "id": "44d19265-5119-437c-a9e3-09b746c67b6f",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "dc9d7746-69f3-4090-ba7c-af4c10be646d",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "3b151672-1efc-4770-9017-aed86df5216d",
       "tag": "full_bar",
-      "tag_category": "amenity"
+      "tag_category": "amenity",
+      "sort_order": 25
     },
     {
+      "id": "9e91c2aa-5264-41a8-ad2e-e239db56f84d",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 25
+    },
+    {
+      "id": "8a8a1623-e80d-49e2-a951-2898d4d762d0",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 25
+    },
+    {
+      "id": "5834729b-9ad8-4103-a659-3f0f5749e983",
       "tag": "happy_hour",
-      "tag_category": "amenity"
+      "tag_category": "amenity",
+      "sort_order": 26
     },
     {
+      "id": "8e42591c-c89d-47ac-a931-c09b997ca3c8",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 26
+    },
+    {
+      "id": "ac23f436-57d9-4c31-8ba7-6a776089b92d",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 26
+    },
+    {
+      "id": "558be68a-4950-4da6-bb75-14435bfa61e7",
       "tag": "family-friendly",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 27
     },
     {
+      "id": "809095f5-f8d6-4499-9451-8ed78ddc1774",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 27
+    },
+    {
+      "id": "2b2f631a-e0e9-44b5-9850-414778bb460b",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 27
+    },
+    {
+      "id": "f7d2d698-a771-4198-8756-0d4f7bcc21d6",
       "tag": "local-favorite",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 28
     },
     {
+      "id": "3922b379-fad8-42b4-9959-95dd47f6a7e6",
+      "tag": "local-favorite",
+      "tag_category": "search",
+      "sort_order": 28
+    },
+    {
+      "id": "4a5d5d55-a36a-44e2-8664-a9e861e75ee2",
+      "tag": "local-favorite",
+      "tag_category": "search",
+      "sort_order": 28
+    },
+    {
+      "id": "4e30abb0-62fd-41b2-84e2-ad27eecccd90",
       "tag": "kids_friendly",
-      "tag_category": "amenity"
+      "tag_category": "amenity",
+      "sort_order": 29
     },
     {
+      "id": "d73db798-8a5b-4c74-8e70-65817dd3adc6",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 29
+    },
+    {
+      "id": "2698ddd0-55e2-4924-b64c-4345888acc62",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 29
+    },
+    {
+      "id": "01c61650-47c4-4b29-bd0b-1a09094c315b",
       "tag": "country-food",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 30
     },
     {
+      "id": "50e4a2b6-9db1-4747-8f9b-d1d082eef54e",
+      "tag": "country-food",
+      "tag_category": "search",
+      "sort_order": 30
+    },
+    {
+      "id": "270f2abd-22de-4bba-b7e3-85d8b276cbb8",
+      "tag": "country-food",
+      "tag_category": "search",
+      "sort_order": 30
+    },
+    {
+      "id": "60b9b414-8e67-45c4-931a-6de160b44f55",
       "tag": "breakfast_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 31
     },
     {
+      "id": "3ff937d6-fe51-496d-a802-ebedcee99d6f",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "4ad3de00-8f73-483d-9aad-aaab1d43696d",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "795e4765-85e5-4ef4-8fec-d7619e433337",
       "tag": "italian_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 32
     },
     {
+      "id": "f5f78bd6-6c75-48c0-b27f-6a710334431d",
+      "tag": "italian_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "409653db-6fe1-4585-9143-a03df07e6031",
+      "tag": "italian_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "5362f6cb-efeb-47c4-8c34-6956bc28d3e2",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 33
     },
     {
-      "tag": "family-friendly",
-      "tag_category": "search"
+      "id": "cf320d86-9112-4731-97d2-20ec7fececfc",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "e487a906-e899-4a01-bf2d-f5837e1b8289",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 33
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "37b51f4f-3e81-4263-b7f6-25a4aff13def",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

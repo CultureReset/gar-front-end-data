@@ -1,32 +1,415 @@
 {
-  "id": "98d5b818-1ec7-4ff4-acbd-250a4cfc1108",
-  "slug": "island-pancake-house-EWOW5Q",
-  "name": "Island Pancake House",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Ocean-view hotel cafe offering American breakfast & lunch items such as pancakes & burgers.",
-  "phone": "(251) 948-2711",
-  "email": null,
-  "website_url": "http://www.bwonthebeach.com/",
-  "address_line_1": "337 E Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.4,
-  "review_count": 2433,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139493458.8884.jpg",
-  "photos": [],
+  "entity": {
+    "id": "98d5b818-1ec7-4ff4-acbd-250a4cfc1108",
+    "place_id": "ChIJQ3rGXrkEmogR0DxsYEWOW5Q",
+    "google_maps_uri": "https://maps.google.com/?cid=10690294569115598032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "island-pancake-house-EWOW5Q",
+    "name": "Island Pancake House",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "breakfast_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-2711",
+    "international_phone": null,
+    "website_url": "http://www.bwonthebeach.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "337 E Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2484506,
+    "longitude": -87.6840205,
+    "short_address": "337 E Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 2433,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Ocean-view hotel cafe offering American breakfast & lunch items such as pancakes & burgers.",
+    "description": "Ocean-view hotel cafe offering American breakfast & lunch items such as pancakes & burgers.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139493458.8884.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: 7:00 AM – 12:00 PM",
+      "Wednesday: 7:00 AM – 12:00 PM",
+      "Thursday: 7:00 AM – 12:00 PM",
+      "Friday: 7:00 AM – 12:00 PM",
+      "Saturday: 7:00 AM – 12:00 PM",
+      "Sunday: 7:00 AM – 12:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://www.bwonthebeach.com/",
+      "pages": [
+        {
+          "url": "http://www.bwonthebeach.com",
+          "meta": {
+            "robots": "noodp",
+            "keywords": "Best Western gulf shores, gulf shores Best Western, gulf shores hotel, bw gulf shore hotel, gulf shores accommodations, hotels in gulf shores, hotels, accommodations, gulf shores hotels",
+            "viewport": "width=320,user-scalable=false, minimum-scale=1.0, maximum-scale=1.0",
+            "copyright": "All coding copyright Digital Hospitality, all rights reserved.",
+            "description": "Is fun, surf and sun all calling your name? You'll be near beaches, warm rays and exciting attractions when staying at the Best Western in Gulf  Shores, AL hotel."
+          },
+          "text": "TOP\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Toggle navigation\n \n \n \n \n \n \n \n Home\n Accommodations\n Amenities \n Restaurant \n Packages \n Local Area\n \n Attractions\n Local Events\n Blog\n \n \n Virtual Tour \n Contact \n Book a Room \n \n \n \n \n \n \n\n \n\n \n \n \n \n\nhome\n\n \n \n \n\n \n \n Best Western on the Beach \n \n \n \n \n \n \n \n \n \n \n Make a Reservation\n \n \n \n \n Check In\n \n \n \n Check Out\n \n \n \n \n Adults\n \n 1\n 2\n 3\n 4\n \n \n \n \n Kids\n \n 0\n 1\n 2\n 3\n 4\n \n \n \n\n \n Select Rate Program\n \n Best Available Rate\n 1\n 2\n 3\n 4\n \n \n \n\n \n \n Book a Room \n \n\n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n 16171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n 171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n\t\n \n\n \n \n \n \n \n\n \n \n \n \n \n \n \n Special Offers\n \n \n \n \n \n \n \n \n \n \n \n \n #1 Hangout Music Fest Hotel\n \n \n \n \n \n One of America’s biggest and best music festivals happens just steps from our hotel every May. Book your beachfront accommodations for \n the Hangout Music Festival today. \n \n\n \n \n VIEW ALL PACKAGES \n \n\n \n \n \n \n \n \n \n \n \n Gulf Shore Vacations\n \n \n \n \n \n With one of the most spectacular beaches in America, Gulf Shores is the perfect place to escape your routine. Make the most of your Gulf Shores getaway with \n beachfront accommodation at Best Western on the Beach. \n\n \n\n \n \n VIEW ALL PACKAGES \n \n\n \n \n \n\n \n \n \n \n \n #1 Hangout Music Fest Hotel\n \n \n \n \n \n One of America’s biggest and best music festivals happens just steps from our hotel every May. Book your beachfront accommodations for \n the Hangout Music Festival today. \n \n\n \n \n VIEW ALL PACKAGES \n \n\n \n \n \n\n \n \n \n \n \n Gulf Shore Vacations\n \n \n \n \n \n With one of the most spectacular beaches in America, Gulf Shores is the perfect place to escape your routine. Make the most of your Gulf Shores getaway with \n beachfront accommodation at Best Western on the Beach. \n\n \n\n \n \n VIEW ALL PACKAGES \n \n\n \n \n \n\n \n\n \n\n \n \n \n \n Welcome to Best Western on the Beach \n GULF SHORES ALABAMA\n \n \n \n \n \n\n Welcome to the only major-chain beachfront hotel in the Gulf Shores, Alabama. Located on the white-sand shores of one of America’s most beautiful beaches, \n the Best Western on the Beach is your tropical vacation destination, offering all the comforts of home with exceptional value for your dollar.\n\n \n Breathtaking Beachfront Views\n Marvel at uninterrupted views of the Gulf of Mexico from your private balcony. Relax on a plush, pillow-top bed. Stay connected with free high-speed wireless Internet. \n Catch a flick on a 42” flatscreen TV. At the Best Western on the Beach, our clean, modern Gulf Shores accommodations offer all the \n comforts of home and all the beauty of the beach at rates that will leave you with plenty to spend on the area’s world-class attractions. \n \n\n \n View Rooms\n\n View Amenities\n\n \n \n \n \n \n \n\n \n\n \n Guest Reviews \n\n Best Western On The Beach Recent Traveler Reviews “Love love love this place” “Never returning and wouldn’t recommend to others.” “Cleanest hotel I've ever stayed at!!!” Read reviews Write a review \n\n \n \n VIEW MORE REVIEWS\n \n\n \n \n\n \n \n \n \nOnsite Restaurant, Pool, and More \nOur convenient onsite amenities and services offer a complete vacation experience. Start your day with the \nbest breakfast in Gulf Shores at our onsite Island Pancake House. Soak up the sun in our outdoor pool, cool off \nin our indoor pool, or relax in our hot tub. Host your wedding or special event on our spacious beachfront or in our 50-person meeting \nfacility. All the while, you can stay connected with free high-speed Wi-Fi throughout the hotel. \n\nYour Gateway to Gulf Shores\n Our hotel’s location puts you within walking distance some the most popular things to do in Gulf Shores \n including top-tier restaurants, fishing charters, and outdoor adventures. Within easy driving distance, \nyou’ll find a dozen award-winning golf courses, a world-class zoo, five-star spas and much more. \n\nBook Online and Save\nTo make the most of your Gulf Shores vacation, take advantage of our exclusive Gulf Shores hotel packages. \nWhen you’re ready to make reservations, book online for secure service with our best rates. We look forward to \nmaking your Gulf Shores vacation unforgettable!\n\n \n\n \n\n \n Highlights\n \n \n\n \n \n \n Beachside Outdoor Pool\n \n\n \n \n Thunder on the Beach\n \n\n \n \n\n Ocean View Accommodations\n \n\n \n \n The Island Pancake House\n \n\n \n \n\n \n\n \n \n\n \n Find Us – \n \n \n\n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n\n 1-800-788-4557\n \n\n \n \n \n\n \n\n Book a Room\n\nContact Us\n\n \n Best Western on the Beach \n \n 337 E Beach Boulevard\n Gulf Shores, Alabama  36542-6505 United States \n\n \n\n \n \n \n \n \n\n \n\n \n \n \n\n \n\n Phone: 251-948-2711 \n Toll Free: 800-788-4557 \n Fax: 251-948-7339\n\n Email: info@bestwesternonthebeach.com \n\n \n \n \n \n \n\n Home\n Accommodations \n Amenities \n Restaurant \n Packages \n Local Area\n Attractions\n Events\n Blog\n Virtual Tour \n Careers\n Site Map\n Privacy Policy\n Contact \n Best Western Rewards \n \n\n \n \n\n Certificate of Excellence 2017 Read Reviews \n\n \n \n Each Best Western® branded hotel is independently owned and operated.\n \n © 2002–2025 Best Western International, Inc. All rights reserved.\n \n Digital Hospitality Internet Marketing",
+          "title": "Gulf Shores Hotels | Best Western on The Beach, Alabama",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.bwonthebeach.com/local-events",
+          "meta": {
+            "keywords": "Best Western gulf shores, gulf shores Best Western, gulf shores hotel, gulf shore hotel, gulf shores accommodations, hotels in gulf shores, hotels, accommodations, gulf shores attractions, local events near gulf shores, local events in Alabama",
+            "viewport": "width=320,user-scalable=false, minimum-scale=1.0, maximum-scale=1.0",
+            "copyright": "All coding copyright Digital Hospitality, all rights reserved.",
+            "description": "Enjoy various local events when you stay at the Best Western on The Beach hotel located in Gulf Shores, AL"
+          },
+          "text": "TOP \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Toggle navigation\n \n \n \n \n \n \n \n Home\n Accommodations\n Amenities \n Restaurant \n Packages \n Local Area\n \n Attractions\n Local Events\n Blog\n \n \n Virtual Tour \n Contact \n Book a Room \n \n \n \n \n \n \n\n \n\n \n \n \n \n\nevents\n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n Make a Reservation\n \n \n \n \n Check In\n \n \n \n Check Out\n \n \n \n \n Adults\n \n 1\n 2\n 3\n 4\n \n \n \n \n Kids\n \n 0\n 1\n 2\n 3\n 4\n \n \n \n\n \n Select Rate Program\n \n Best Available Rate\n 1\n 2\n 3\n 4\n \n \n \n\n \n \n Book a Room \n \n\n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n 16171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n 171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n\t\n \n\n \n \n \n \n \n\n \n \n \n \n\n \n \n \n Annual Events \n\n There’s always something exciting happening in Gulf Shores, Alabama, from festivals and tournaments, to concerts and more. \n Some of the most popular annual attractions include:\n\n \n\n \n \n\n \n \n \n \n Orange Beach Festival of Art \n\n \n \n \n \n\n \n\n \n Located just a few minutes from Gulf Shores, the city of Orange Beach is host to a long-running festival of art, which \n showcases both established and up-and-coming local artists. Don’t miss the chance to get your hands on an original piece or \n simply browse the art, chat with artists and enjoy the great food and music. \n \n\n \n \n\n \n\n \n Mullet Toss | April \n \n \n \n\n \n \n \n \n \n \n \n\n \n This annual beach party is well worth the drive to nearby Pensacola, FL for a weekend of fun in the sun with thousands of other beachgoers. The main event is a \n competition to see who can throw a dead mullet (the fish, not the hairstyle) farthest over the Alabama-Florida state line, but there’s much more to see and do \n including live music, great food and beachfront shopping.\n \n\n \n\n \n \n Hangout Music Festival | May\n\n \n \n \n \n \n More than 35,000 music fans make their way to Gulf Shores every year for this one-of-a-kind music festival held right on the beach. It features an average of 70 \n bands, along with a variety of fun-in-the-sun activities. \n\n \n \n\n \n\n \n\n \n \n\n \n Thunder on the Beach | August \n\n \n \n \n \n \n\n \n\n \n Happening every August in nearby Orange Beach, AL, this exhilarating powerboat racing event offers fun and excitement for the whole family. In addition to the \n races the event features a bikini contest, poker tournament, motorcycle run and lots of live music and entertainment. \n \n\n \n \n\n \n\n \n National Shrimp Festival | October\n \n \n \n\n \n \n \n \n \n \n \n\n \n As one of the nation’s premier outdoor festivals, the National Shrimp Fest features much more than just shrimp. With great live entertainment and over 300 vendors selling \n practically everything under the sun, the festival attracts more than a quarter-million people to the beaches of Gulf Shores every October.\n \n\n \n \n\n \n\n \n\n \n \n\n \n \n\n \n \n \n \n \n\n 1-800-788-4557\n \n\n \n \n \n\n \n\n Book a Room\n\nContact Us\n\n \n Best Western on the Beach \n \n 337 E Beach Boulevard\n Gulf Shores, Alabama  36542-6505 United States \n\n \n\n \n \n \n \n \n\n \n\n \n \n \n\n \n\n Phone: 251-948-2711 \n Toll Free: 800-788-4557 \n Fax: 251-948-7339\n\n Email: info@bestwesternonthebeach.com \n\n \n \n \n \n \n\n Home\n Accommodations \n Amenities \n Restaurant \n Packages \n Local Area\n Attractions\n Events\n Blog\n Virtual Tour \n Careers\n Site Map\n Privacy Policy\n Contact \n Best Western Rewards \n \n\n \n \n\n Certificate of Excellence 2017 Read Reviews \n\n \n \n Each Best Western® branded hotel is independently owned and operated.\n \n © 2002–2025 Best Western International, Inc. All rights reserved.\n \n Digital Hospitality Internet Marketing\n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n\nLoading...",
+          "title": "Gulf Shores Alabama Local Events | Best Western on The Beach",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.bwonthebeach.com/breakfast",
+          "meta": {
+            "keywords": "Best Western gulf shores, gulf shores Best Western, gulf shores hotel, gulf shore hotel, gulf shores accommodations, hotels in gulf shores, hotels, accommodations, island pancake house",
+            "viewport": "width=320,user-scalable=false, minimum-scale=1.0, maximum-scale=1.0",
+            "copyright": "All coding copyright Digital Hospitality, all rights reserved.",
+            "description": "Full-service oceanfront dining on the beach in Gulf Shores, Alabama. Island Pancake House restaurant serves breakfast and lunch anytime."
+          },
+          "text": "TOP \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Toggle navigation\n \n \n \n \n \n \n \n Home\n Accommodations\n Amenities \n Restaurant \n Packages \n Local Area\n \n Attractions\n Local Events\n Blog\n \n \n Virtual Tour \n Contact \n Book a Room \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n\nbreakfast\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Make a Reservation\n \n \n \n \n Check In\n \n \n \n Check Out\n \n \n \n \n Adults\n \n 1\n 2\n 3\n 4\n \n \n \n \n Kids\n \n 0\n 1\n 2\n 3\n 4\n \n \n \n\n \n Select Rate Program\n \n Best Available Rate\n 1\n 2\n 3\n 4\n \n \n \n\n \n \n Book a Room \n \n\n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n 16171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n 171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n\t\n \n\n \n \n \n \n \n\n \n \n \n \n \n \n \n Island Pancake House\n \n\n \n \nEnjoy the beach’s best breakfast at the Island Pancake House, located onsite at Best Western on the Beach. Open daily from 6:00am \nto 2:00pm for breakfast and lunch, this Gulf Shore gem is famous for its huge, fluffy pancakes and scrumptious waffles served in \ndistinctive and delicious flavors like chocolate chip and cheesecake. It’s also a great spot to grab a burger, sandwich or classic\n breakfast. And did we mention the breathtaking view? Make it a breakfast to remember at Island Pancake House! \n \n\n \n \n \n \n\n \n \n \n \n Main Menu\n \n \n\n \n \n Build Your Own\n \n \n\n \n \n Kids Menu\n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nprevnext \n \n \n \n\n \n\n \n \n \n \n \n\n 1-800-788-4557\n \n\n \n \n \n\n \n\n Book a Room\n\nContact Us\n\n \n Best Western on the Beach \n \n 337 E Beach Boulevard\n Gulf Shores, Alabama  36542-6505 United States \n\n \n\n \n \n \n \n \n\n \n\n \n \n \n\n \n\n Phone: 251-948-2711 \n Toll Free: 800-788-4557 \n Fax: 251-948-7339\n\n Email: info@bestwesternonthebeach.com \n\n \n \n \n \n \n\n Home\n Accommodations \n Amenities \n Restaurant \n Packages \n Local Area\n Attractions\n Events\n Blog\n Virtual Tour \n Careers\n Site Map\n Privacy Policy\n Contact \n Best Western Rewards \n \n\n \n \n\n Certificate of Excellence 2017 Read Reviews \n\n \n \n Each Best Western® branded hotel is independently owned and operated.\n \n © 2002–2025 Best Western International, Inc. All rights reserved.\n \n Digital Hospitality Internet Marketing\n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n\nLoading...",
+          "title": "Island Pancake House | Best Western on The Beach, Gulf Shores",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.bwonthebeach.com/contact",
+          "meta": {
+            "keywords": "Best Western gulf shores, gulf shores Best Western, gulf shores hotel, gulf shore hotel, gulf shores accommodations, hotels in gulf shores, hotels, accommodations, contact us",
+            "viewport": "width=320,user-scalable=false, minimum-scale=1.0, maximum-scale=1.0",
+            "copyright": "All coding copyright Digital Hospitality, all rights reserved.",
+            "description": "Contact the Best Western on the Beach located in Gulf Shores, Alabama."
+          },
+          "text": "TOP \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Toggle navigation\n \n \n \n \n \n \n \n Home\n Accommodations\n Amenities \n Restaurant \n Packages \n Local Area\n \n Attractions\n Local Events\n Blog\n \n \n Virtual Tour \n Contact \n Book a Room \n \n \n \n \n \n \n\n \n\n \n \n \n \n\n \n \n\n \n\ncontact\n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n Make a Reservation\n \n \n \n \n Check In\n \n \n \n Check Out\n \n \n \n \n Adults\n \n 1\n 2\n 3\n 4\n \n \n \n \n Kids\n \n 0\n 1\n 2\n 3\n 4\n \n \n \n\n \n Select Rate Program\n \n Best Available Rate\n 1\n 2\n 3\n 4\n \n \n \n\n \n \n Book a Room \n \n\n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n 16171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n 171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n\t\n \n\n \n \n \n \n \n\n \n \n \n \n\n \n \n Contact the Best Western on the Beach Hotel\n\nOur friendly front-desk staff are here 24-hours-a-day, happy to help you plan your stay and answer any\n questions you might have about our Gulf shores accommodations, amenities,\n or anything else that’s on your mind. You can also feel free to send us an email with any questions, concerns or feedback and member of our team will respond promptly.\n \n When you’re ready to make reservations, call our toll-free reservations line at 800-788-4557 or book online for fast, easy and secure service with our guaranteed best rates.\n \n We look forward to helping make your Gulf Shores vacation unforgettable!\n \n\n \n \n\n \n \n \n \n \n \n \n \n \n\n \n\n \n Best Western on the Beach \n \n \n \n 337 E Beach Boulevard\n Gulf Shores, Alabama  36542-6505 United States \n \n \n \n \n Phone: 251-948-2711 \n Toll Free: 800-788-4557 \n Fax: 251-948-7339\n \n Email: info@bestwesternonthebeach.com\n \n\n \n\n \n\n \n\n \n \n \n \n Check In: 3PM (15:00) \n Check Out: 11AM (11:00)\n Currency: U.S. DOLLARS (USD)\n Time Zone: Central Standard Time\n \n\n \n \n \n \n \n \n\n  \n\n \n \n \n\n \n \n \n Directions to the Best Western on the Beach \n \n \n \n \n\n \n \n\n \n\n \n \n \n \n \n \n \n \n \n Address\n \n \n \n \n \n City\n \n \n \n \n \n\n Country\n United States\nCanada\n\n \n \n States\n \n \n Alabama\nAlaska\nArizona\nArkansas\nCalifornia\nColorado\nConnecticut\nDelaware\nFlorida\nGeorgia\nHawaii\nIdaho\nIllinois\nIndiana\nIowa\nKansas\nKentucky\nLouisiana\nMaine\nMaryland\nMassachusetts\nMichigan\nMinnesota\nMississippi\nMissouri\nMontana\nNebraska\nNevada\nNew Hampshire\nNew Jersey\nNew Mexico\nNew York\nNorth Carolina\nNorth Dakota\nOhio\nOklahoma\nOregon\nPennsylvania\nRhode Island\nSouth Carolina\nSouth Dakota\nTennessee\nTexas\nUtah\nVermont\nVirginia\nWashington WA\nWashington, DC\nWest Virginia\nWisconsin\nWyoming\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n\n \n \n Directions\n \n \n \n \n \n \n \n\n \n \n ←Move left→Move right↑Move up↓Move down+Zoom in-Zoom outHomeJump left by 75%EndJump right by 75%Page UpJump up by 75%Page DownJump down by 75%Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Best Western on the Beach337 E Beach BoulevardGulf Shores, Alabama  36542-6505United StatesPhone: 251-948-2711Toll Free: 800-788-4557Email: info@bestwesternonthebeach.comKeyboard shortcutsMap DataMap data ©2026 Google, INEGIMap data ©2026 Google, INEGI500 m Click to toggle between metric and imperial unitsTermsReport a map error\n \n \n\n \n \n \n \n\n \n \n \n\n \n\n \n \n\n \n \n \n \n \n\n 1-800-788-4557\n \n\n \n \n \n\n \n\n Book a Room\n\nContact Us\n\n \n Best Western on the Beach \n \n 337 E Beach Boulevard\n Gulf Shores, Alabama  36542-6505 United States \n\n \n\n \n \n \n \n \n\n \n\n \n \n \n\n \n\n Phone: 251-948-2711 \n Toll Free: 800-788-4557 \n Fax: 251-948-7339\n\n Email: info@bestwesternonthebeach.com \n\n \n \n \n \n \n\n Home\n Accommodations \n Amenities \n Restaurant \n Packages \n Local Area\n Attractions\n Events\n Blog\n Virtual Tour \n Careers\n Site Map\n Privacy Policy\n Contact \n Best Western Rewards \n \n\n \n \n\n Certificate of Excellence 2017 Read Reviews \n\n \n \n Each Best Western® branded hotel is independently owned and operated.\n \n © 2002–2025 Best Western International, Inc. All rights reserved.\n \n Digital Hospitality Internet Marketing\n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n\nLoading...BESbswy",
+          "title": "Contact Us | Best Western on The Beach, Gulf Shores",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.bwonthebeach.com/local-area",
+          "meta": {
+            "keywords": "Best Western gulf shores, gulf shores Best Western, gulf shores hotel, gulf shore hotel, gulf shores accommodations, hotels in gulf shores, hotels, accommodations, local area",
+            "viewport": "width=320,user-scalable=false, minimum-scale=1.0, maximum-scale=1.0",
+            "copyright": "All coding copyright Digital Hospitality, all rights reserved.",
+            "description": "Discover the gulf shores local area, find amazing restaurants and much more while you enjoy your stay at the Best Western on the Beach. Book now!"
+          },
+          "text": "TOP \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Toggle navigation\n \n \n \n \n \n \n \n Home\n Accommodations\n Amenities \n Restaurant \n Packages \n Local Area\n \n Attractions\n Local Events\n Blog\n \n \n Virtual Tour \n Contact \n Book a Room \n \n \n \n \n \n \n\n \n\n \n \n \n \n\nlocalarea\n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n Make a Reservation\n \n \n \n \n Check In\n \n \n \n Check Out\n \n \n \n \n Adults\n \n 1\n 2\n 3\n 4\n \n \n \n \n Kids\n \n 0\n 1\n 2\n 3\n 4\n \n \n \n\n \n Select Rate Program\n \n Best Available Rate\n 1\n 2\n 3\n 4\n \n \n \n\n \n \n Book a Room \n \n\n \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n 16171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n 171819202122232425262728293031\n \n May, 2026June, 2026July, 2026August, 2026September, 2026October, 2026November, 2026December, 2026January, 2027February, 2027March, 2027April, 2027May, 2027\n \n\t\n \n\n \n \n \n \n \n\n \n \n \n Welcome to Gulf Shores, Alabama\nFor generations, vacationers seeking an escape from the grind of everyday life have come to relax on the sugary white-sand beaches of \nGulf Shores. Our costal city is located at the southernmost tip of the state of Alabama and blessed with some of America’s most idyllic \ncoastline, overlooking the wide expanse of the Gulf of Mexico.\n\n \n\n While the beach is Gulf Shores’ main attraction, it’s far from the only one. Everyone from retirees to spring breakers find \n countless fun and exciting things to do in Gulf Shores, Alabama, including first-rate seafood dining, a world-class zoo and some \n of the best golfing in the state.\n \n \n\n Our Hotel’s Location \n \n \n \n \n \n\n \n\n \n\n \n \n Best Western on the Beach is the only true hotel on the beach in Gulf Shores. Our beachfront property offers incredible views and direct access to one of the city’s \n most spectacular stretches of coastline. It’s less than a mile walk to the Gulf State Park Pier, the longest pier on the Gulf of Mexico. Within easy walking distance \n of our front door, you’ll find dozens of restaurants, boutiques and attractions.\n\n \n\n \n \n\n \n\n Local Attractions\n\n1.00 mile(s) from Gulf Adventure Center including Hummingbird Ziplines\n1.00 mile(s) from Alabama Gulf Coast Zoo\n\n1.00 mile(s) from Waterville USA Water Park\n10.00 mile(s) from Fort Morgan Historical Museum\n11.00 mile(s) from Bon Secour Bay National Wildlife \n\n15.00 mile(s) from Baldwin Heritage Museum \n30.00 mile(s) from Gulf World Marine Park \n\n30.00 mile(s) from Pensacola Greyhound Racetrack \n\n35.00 mile(s) from Pensacola Naval Air Station Museum\n40.00 mile(s) from Bellingrath Gardens and Home\n\nView More Attractions\n\nView Attractions on Map\n\n Shopping:\n\n6 mile(s) from the Wharf\n6 mile(s) from Cobbs Theater Pinnacle 14\n9 mile(s) from Tanger Outlet Shopping Mall \n\nNearby Dining:\n\n0.10 mile(s) from Gulf Island Grill \n0.10 mile(s) from Hooters\n0.30 mile(s) from Pink Pony Pub\n0. 60 mile(s) from Old World Bakery\n0.70 mile(s) from Original Oyster House\n1.00 mile(s) from Scoops Olde Fashion Ice Cream\n1.00 mile(s) from Bahama Bob’s Beach Side Café\n\n1.50 mile(s) from Matt’s Homemade Alabama Ice Cream\n1.50 mile(s) from Nolan’s Restaurant & Lounge \n2.00 mile(s) from The BEACH HOUSE Kitchen & Cocktails \n4.00 mile(s) from Aji Sai Asian Cuisine\n5.00 mile(s) from Island Wing Company\n17.00 mile(s) from Sassy Bass Amazin’ Grill \n\nRecreation:\n\n0.10 mile(s) from beach\n0.10 mile(s) from deep sea fishing\n1.00 mile(s) from zip lining\n1.00 mile(s) from state fishing pier\n1.00 mile(s) from Gulf State Park\n1.00 mile(s) from golf\n1.00 mile(s) from Lake Shelby\n\n5.00 mile(s) from fishing charters\n7.00 mile(s) from Zeke's Marina \n7.00 mile(s) from Orange Beach Marina \n7.00 mile(s) from Perdido Beach Marina\n8.00 mile(s) from Perdido Bay\n10.00 mile(s) from Bear Point Marina\n23.00 mile(s) from Mobile Bay\n\nNearby Cities:\n\n8.00 mile(s) from Foley\n30.00 mile(s) from Pensacola\n60.00 mile(s) from Mobile\n\nTransportation:\n\n40.00 mile(s) from Pensacola Airport\n60.00 mile(s) from Mobile Airport\n\n \n \n Gulf Shores Points of Interest \n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n \n \n Best Western on the Beach \n \n \n \n \n \n \n\n \n ←Move left→Move right↑Move up↓Move down+Zoom in-Zoom outHomeJump left by 75%EndJump right by 75%Page UpJump up by 75%Page DownJump down by 75%Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Sorry, we have no imagery here.Best Western on the Beach337 E Beach BoulevardGulf Shores, Alabama  36542-6505United StatesPhone: 251-948-2711Toll Free: 800-788-4557Email: info@bestwesternonthebeach.comKeyboard shortcutsMap DataMap data ©2026 Google, INEGIMap data ©2026 Google, INEGI500 m Click to toggle between metric and imperial unitsTermsReport a map errorThis page can't load Google Maps correctly.Do you own this website?OK\n\n \n \n \n\n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Directions\n \n \n \n \n \n\n \n \n \n\n \n \n\n \n \n \n \n \n\n 1-800-788-4557\n \n\n \n \n \n\n \n\n Book a Room\n\nContact Us\n\n \n Best Western on the Beach \n \n 337 E Beach Boulevard\n Gulf Shores, Alabama  36542-6505 United States \n\n \n\n \n \n \n \n \n\n \n\n \n \n \n\n \n\n Phone: 251-948-2711 \n Toll Free: 800-788-4557 \n Fax: 251-948-7339\n\n Email: info@bestwesternonthebeach.com \n\n \n \n \n \n \n\n Home\n Accommodations \n Amenities \n Restaurant \n Packages \n Local Area\n Attractions\n Events\n Blog\n Virtual Tour \n Careers\n Site Map\n Privacy Policy\n Contact \n Best Western Rewards \n \n\n \n \n\n Certificate of Excellence 2017 Read Reviews \n\n \n \n Each Best Western® branded hotel is independently owned and operated.\n \n © 2002–2025 Best Western International, Inc. All rights reserved.\n \n Digital Hospitality Internet Marketing\n\n \n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n\nLoading...BESbswy",
+          "title": "Gulf Shores Local Area, Restaurants & More | Best Western on The Beach",
+          "structuredData": []
+        }
+      ],
+      "pdfUrls": [],
+      "pdfTexts": [],
+      "imageUrls": [
+        "https://www.bwonthebeach.com/Content/images/logo.png",
+        "https://www.bwonthebeach.com/Content/images/slider.jpg",
+        "https://www.bwonthebeach.com/Content/images/h2Bg.jpg",
+        "https://www.bwonthebeach.com/Content/images/Packages-slider3.jpg",
+        "https://www.bwonthebeach.com/Content/images/Packages-slider2.jpg",
+        "https://www.bwonthebeach.com/Content/images/rightborder.png",
+        "https://www.bwonthebeach.com/Content/images/DigitalAward.PNG",
+        "https://www.bwonthebeach.com/Content/images/h2Bg2.jpg",
+        "https://www.bwonthebeach.com/Content/images/bodycta1.jpg",
+        "https://www.bwonthebeach.com/Content/images/bodycta2.jpg",
+        "https://www.bwonthebeach.com/Content/images/bodycta3.jpg",
+        "https://www.bwonthebeach.com/Content/images/bodycta4.jpg",
+        "https://www.bwonthebeach.com/Content/images/footer-tripadvisor.png",
+        "https://www.bwonthebeach.com/Content/images/aaa.png",
+        "https://www.tripadvisor.ca/img/cdsi/img2/awards/v2/coe-14348-2.png",
+        "https://www.bwonthebeach.com/Controls/calendar/cross.png",
+        "https://www.bwonthebeach.com/Controls/calendar/left2.jpg",
+        "https://www.bwonthebeach.com/Controls/calendar/right1.jpg",
+        "https://www.bwonthebeach.com/Content/images/Orange-beach.jpg",
+        "https://www.bwonthebeach.com/Content/images/Mullet.jpg",
+        "https://www.bwonthebeach.com/Content/images/hangout_music_fest.jpg",
+        "https://www.bwonthebeach.com/Content/images/Thunder.jpg",
+        "https://www.bwonthebeach.com/Content/images/Nationalshrimp.jpg",
+        "https://www.bwonthebeach.com/Content/images/dining-header.jpg",
+        "https://www.bwonthebeach.com/Content/images/res_gallery.jpg",
+        "https://www.bwonthebeach.com/Content/images/res_gallery1.jpg",
+        "https://www.bwonthebeach.com/Content/images/res_gallery2.jpg",
+        "https://www.bwonthebeach.com/Content/images/res_gallery3.jpg",
+        "https://www.bwonthebeach.com/Content/images/contact-header.jpg",
+        "https://www.bwonthebeach.com/Content/images/contact-room.jpg",
+        "https://www.bwonthebeach.com/Content/images/enter_address.jpg",
+        "https://www.bwonthebeach.com/Content/images/enter_city.jpg",
+        "https://maps.gstatic.com/mapfiles/transparent.png",
+        "https://www.bwonthebeach.com/Content/images/imgmap.jpg",
+        "https://www.bwonthebeach.com/Content/images/local-area-header.jpg",
+        "https://www.bwonthebeach.com/Content/images/hotel_location.jpg",
+        "https://www.bwonthebeach.com/Content/images/mapimages/small_logo.png"
+      ],
+      "scraped_at": "2026-05-16T05:30:38.629Z",
+      "business_name": "Island Pancake House"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139493696.4873.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139494201.073.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139494464.9902.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139494639.9172.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139495015.9314.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139495293.4834.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139495723.8247.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139496095.5288.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/98d5b818-1ec7-4ff4-acbd-250a4cfc1108/98d5b818-1ec7-4ff4-acbd-250a4cfc1108_1779139496449.0518.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:14.315137+00:00",
+    "updated_at": "2026-05-18T21:25:01.525627+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "364a3211-e0f9-4d43-a5ab-989db463432b",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "689ed7a5-e4e7-4618-bc67-5a1c360ec608",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "92e73848-e7d9-4f54-a2cd-90d488d53627",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "a7695bd7-40f8-4513-9b85-e97d9f4418d2",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "40ef1fb4-93ea-44d5-991e-029cb6d99be8",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "83e8b667-e1ed-4d54-9747-7361c492fe1c",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "3f01c8db-4ed3-4b00-9e90-81c50e89ab65",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "63058218-93cb-46e1-bd1e-aa9ce3f8cf56",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 7
+    },
+    {
+      "id": "4ece339a-72d8-40a7-b8ff-804acf95d6ce",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "7e85d4a3-6b91-43e3-985d-6e9d5287c729",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 9
+    },
+    {
+      "id": "a52ea644-8f27-4e4c-9b1f-6a34cfbcb6a6",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "fe922055-dc46-409d-bf40-7949c7ba75b3",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 11
+    },
+    {
+      "id": "d0bb1292-834e-475b-8f79-12e90fa2a7ad",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 12
+    },
+    {
+      "id": "328d1d1c-0b6e-4a3e-84ee-8fbbea533bda",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 13
+    },
+    {
+      "id": "4939b2dd-e0d5-481d-8e5a-0db76d59a84d",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 14
+    },
+    {
+      "id": "204711cb-4014-421b-b979-6d0179ee1e67",
+      "tag": "brunch",
+      "tag_category": "food",
+      "sort_order": 15
+    },
+    {
+      "id": "fb9e61e5-5aea-4968-b7c8-5985028485fc",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "fc2358c2-38d9-48e9-b2a2-0b4f8ba994d1",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "6c48a098-f577-46aa-8233-fba8e37bfe00",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 18
+    }
+  ],
+  "sections": [
+    {
+      "id": "7e0e1f69-e6a8-40a1-bcc9-9cf37f3868f5",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

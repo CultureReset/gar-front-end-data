@@ -1,218 +1,539 @@
 {
-  "id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
-  "slug": "lost-key-golf-club-KWWkZc",
-  "name": "Lost Key Golf Club",
-  "entity_type": "hotel",
-  "entity_subtype": "hotel",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 549-2160",
-  "email": null,
-  "address_line_1": "13681 Lost Key Blvd, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://www.lostkeygolf.com/",
-  "rating": 4.1,
-  "review_count": 184,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139825433.0024.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+    "place_id": "ChIJyXwMBWavkIgRlw3J6KWWkZc",
+    "google_maps_uri": "https://maps.google.com/?cid=10921676210669424023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "lost-key-golf-club-KWWkZc",
+    "name": "Lost Key Golf Club",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "golf-course",
+    "secondary_types": "",
+    "google_type": "golf_course",
+    "google_types": [
+      "golf_course",
+      "fine_dining_restaurant",
+      "catering_service",
+      "tennis_court",
+      "resort_hotel",
+      "hotel",
+      "sports_coaching",
+      "food_delivery",
+      "sports_school",
+      "athletic_field",
+      "lodging",
+      "sports_club",
+      "association_or_organization",
+      "wedding_venue",
+      "event_venue",
+      "restaurant",
+      "food",
+      "sports_activity_location",
+      "point_of_interest",
+      "service",
+      "health",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 549-2160",
+    "international_phone": null,
+    "website_url": "http://www.lostkeygolf.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "13681 Lost Key Blvd, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2970106,
+    "longitude": -87.4411003,
+    "short_address": "13681 Lost Key Blvd, Pensacola",
+    "plus_code": null,
+    "rating": 4.1,
+    "review_count": 184,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139825433.0024.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.88986+00:00",
+    "updated_at": "2026-05-18T21:30:30.418326+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131965900.1833.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131967853.582.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139701458.5579.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139704544.4583.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131964502.721.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131966214.701.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779132077222.1248.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139702276.105.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139703711.6543.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139825433.0024.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131539523.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131965609.9426.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131967350.698.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139703158.2944.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139704319.4192.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131964776.6494.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131966688.7405.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139700426.8425.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139702691.5017.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139704118.6992.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131431762.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131965233.0925.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131967150.1433.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139701047.802.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
-      "tag": "hotel",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "ab1401bb-a80f-42f0-857e-ea94e7456314",
       "tag": "golf_course",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "0ed4af57-d579-4b7b-855b-e20ea3d97b99",
       "tag": "fine_dining_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "c2ddd708-2577-432c-934f-abc002508117",
       "tag": "catering_service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "0c8d464d-d6a3-4423-80da-7307f22f8387",
       "tag": "tennis_court",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "fe8af227-ec0f-451f-a5bc-f2d706af479b",
       "tag": "resort_hotel",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "eda58476-673e-4059-9a48-ed2d1bf06e22",
+      "tag": "hotel",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "75a6fa06-303d-4bac-a989-ea92cbb46e95",
       "tag": "sports_coaching",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "189875cd-14f5-4383-a732-1d443865b5bf",
       "tag": "food_delivery",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "2450c614-c6b5-48d9-b395-f3a9f7588bc8",
       "tag": "sports_school",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
     },
     {
+      "id": "edf946e4-6e5e-4061-8725-44d5976aa613",
       "tag": "athletic_field",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 9
     },
     {
+      "id": "6ed14bcb-55a2-489d-b828-1d464d70cfe7",
       "tag": "lodging",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 10
     },
     {
+      "id": "16625833-1bde-421f-974f-3df1a3758f93",
       "tag": "sports_club",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 11
     },
     {
+      "id": "d8abb193-0d7d-4f88-a04a-b4d5a7b1dd9a",
       "tag": "association_or_organization",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 12
     },
     {
+      "id": "e29776a1-7526-4045-853b-985efe7173b6",
       "tag": "wedding_venue",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 13
     },
     {
+      "id": "f8215b81-76dc-4237-854e-b1662240d250",
       "tag": "event_venue",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 14
     },
     {
+      "id": "9147b857-8a1a-48c7-8592-09410117e0c3",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 15
     },
     {
+      "id": "9bf5a650-77e6-436c-9e96-3a133ac897eb",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 16
     },
     {
+      "id": "7003a2e8-3621-4b3e-9ea9-8e28a98d33f7",
       "tag": "sports_activity_location",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 17
     },
     {
+      "id": "35c88e7a-5044-4d03-b7d5-f86a679986d6",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 18
     },
     {
+      "id": "97155e3c-2578-496d-b6be-8ad02b588ceb",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 19
     },
     {
+      "id": "b952bf51-fc74-4b35-82c4-afc358b6c6a3",
       "tag": "health",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 20
     },
     {
+      "id": "d34437d3-cd81-41fb-a62e-947b0991e99d",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 21
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "6ebaed2a-efc0-4536-80b9-cf34f3648839",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "e9f05237-8c17-4595-bd83-b1da4a697288",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131965900.1833.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:06.46184+00:00"
+    },
+    {
+      "id": "cebd198d-c903-487b-b690-3467723da745",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131967853.582.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:07.190387+00:00"
+    },
+    {
+      "id": "2e509e2a-7fcb-497b-9c2f-e5186b6a0450",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139701458.5579.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:07.774069+00:00"
+    },
+    {
+      "id": "93ba5149-ae94-4acd-9424-03f7f645646b",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139704544.4583.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:08.812905+00:00"
+    },
+    {
+      "id": "bf4e4a7e-0622-4718-861d-9887afb5cd53",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131964502.721.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:05.877091+00:00"
+    },
+    {
+      "id": "9979d994-40be-4e21-bef3-b19f227f9650",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131966214.701.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:06.613339+00:00"
+    },
+    {
+      "id": "5756eb64-6770-4fcd-bf40-e34326994acc",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779132077222.1248.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:07.337937+00:00"
+    },
+    {
+      "id": "5241b6e5-4110-4f00-b483-824dff30bebf",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139702276.105.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:07.929434+00:00"
+    },
+    {
+      "id": "83350bd6-8cc6-4303-918e-b8077a1a5937",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139703711.6543.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:08.36166+00:00"
+    },
+    {
+      "id": "25cc47cb-613c-490e-9de4-f2ecd4fc85f5",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139825433.0024.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:08.960396+00:00"
+    },
+    {
+      "id": "a4e6d910-bf9d-4c9a-993d-bfe0e63167c8",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131539523.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:05.723365+00:00"
+    },
+    {
+      "id": "724aad81-8884-459c-9773-c53bdd4166f4",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131965609.9426.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:06.316303+00:00"
+    },
+    {
+      "id": "643fad1d-cabe-40e6-8bba-104443eec07f",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131967350.698.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:07.047698+00:00"
+    },
+    {
+      "id": "151d1abd-9a08-4d93-8acf-d12066e76337",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139703158.2944.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:08.217066+00:00"
+    },
+    {
+      "id": "95619c70-4b0b-458a-b8ab-f47416bbb77c",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139704319.4192.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:08.66172+00:00"
+    },
+    {
+      "id": "736662b2-d0ad-4ce0-81af-15e5a1299cb8",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131964776.6494.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:06.028269+00:00"
+    },
+    {
+      "id": "6b3a13da-2c57-47c2-ae9f-6214f30863f0",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131966688.7405.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:06.754368+00:00"
+    },
+    {
+      "id": "8eeb063b-6869-407e-81bc-641080b58f0a",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139700426.8425.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:07.480028+00:00"
+    },
+    {
+      "id": "e7cdfe05-0f76-4a59-849c-238e9d005917",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139702691.5017.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:08.076277+00:00"
+    },
+    {
+      "id": "a4f8f98b-129d-4f75-a8d5-bf3b1444fe8d",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139704118.6992.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:08.510695+00:00"
+    },
+    {
+      "id": "3675c747-43ae-482c-9b68-fac36a3bcba9",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131431762.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:05.577961+00:00"
+    },
+    {
+      "id": "b41d3894-5fdf-410e-a7a1-358e259e6721",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131965233.0925.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:06.171299+00:00"
+    },
+    {
+      "id": "fb1fb5a1-b829-4994-aae9-cb13aea53fc2",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779131967150.1433.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:06.899154+00:00"
+    },
+    {
+      "id": "4215f93e-a70a-449c-b9c3-389b1faf6889",
+      "entity_id": "5a6dc590-ec18-43ce-8636-718b9ffba73a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5a6dc590-ec18-43ce-8636-718b9ffba73a/5a6dc590-ec18-43ce-8636-718b9ffba73a_1779139701047.802.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:07.626652+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

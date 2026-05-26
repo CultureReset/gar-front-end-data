@@ -1,32 +1,542 @@
 {
-  "id": "966ed00c-2aee-4638-aa87-de4a258d1943",
-  "slug": "buzzcatz-coffee-sweets-I8oAuo",
-  "name": "BuzzCatz Coffee & Sweets",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "From simple breakfast fare and home-made pastries, to ice cream and delectable delights, BuzzCatz Coffee & Sweets is simply scrumptious. Enjoy locally roasted coffee, breakfast, baked goods and made from scratch goodies all sure to satisfy even the most discriminating. BuzzCatz Coffee & Sweets is located in the heart of Orange Beach on Canal Road in Cosmo's Courtyard. Owners Brian and Jodi Harsany's attention to detail and love of dining has created something truly memorable that has become a favorite for locals and visitors alike. Chef Kimberly Asbury, Pastry Chef and General Manager, has been working in the restaurant industry for over 20 years from small bagel shops and pizza places to fine dining Italian restaurants. Much of her knowledge has been gained through hands-on experience, but in 2003 she graduated from Penn College with a degree in baking and pastry. While there she graduated at the top of her class earning the John Folse Award of Excellence. Her greatest joy is making anything that people truly enjoy.",
-  "phone": "(251) 980-2899",
-  "email": null,
-  "website_url": "http://www.buzzcatzcoffeeandsweets.com/",
-  "address_line_1": "25689 Canal Rd Suite A, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.5,
-  "review_count": 1127,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139649506.7573.jpg",
-  "photos": [],
+  "entity": {
+    "id": "966ed00c-2aee-4638-aa87-de4a258d1943",
+    "place_id": "ChIJpwRPw04GmogRqLuFgI8oAuo",
+    "google_maps_uri": "https://maps.google.com/?cid=16862084551630240680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "buzzcatz-coffee-sweets-I8oAuo",
+    "name": "BuzzCatz Coffee & Sweets",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "coffee_shop",
+    "google_types": [
+      "coffee_shop",
+      "ice_cream_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "pastry_shop",
+      "dessert_shop",
+      "bakery",
+      "american_restaurant",
+      "confectionery",
+      "restaurant",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 980-2899",
+    "international_phone": null,
+    "website_url": "http://www.buzzcatzcoffeeandsweets.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25689 Canal Rd Suite A, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2913516,
+    "longitude": -87.5863854,
+    "short_address": "25689 Canal Rd Suite A, Orange Beach",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 1127,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Casual counter serve providing local espresso blends, treats & breakfast eats, plus outdoor seating.",
+    "description": "From simple breakfast fare and home-made pastries, to ice cream and delectable delights, BuzzCatz Coffee & Sweets is simply scrumptious. Enjoy locally roasted coffee, breakfast, baked goods and made from scratch goodies all sure to satisfy even the most discriminating. BuzzCatz Coffee & Sweets is located in the heart of Orange Beach on Canal Road in Cosmo's Courtyard. Owners Brian and Jodi Harsany's attention to detail and love of dining has created something truly memorable that has become a favorite for locals and visitors alike. Chef Kimberly Asbury, Pastry Chef and General Manager, has been working in the restaurant industry for over 20 years from small bagel shops and pizza places to fine dining Italian restaurants. Much of her knowledge has been gained through hands-on experience, but in 2003 she graduated from Penn College with a degree in baking and pastry. While there she graduated at the top of her class earning the John Folse Award of Excellence. Her greatest joy is making anything that people truly enjoy.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139649506.7573.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/buzzcatzcoffeeandsweets",
+    "social_facebook": "https://www.facebook.com/buzzcatzcoffeeandsweets/",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "valetParking": false,
+      "freeParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 5:00 PM",
+      "Tuesday: 7:00 AM – 5:00 PM",
+      "Wednesday: 7:00 AM – 5:00 PM",
+      "Thursday: 7:00 AM – 5:00 PM",
+      "Friday: 7:00 AM – 5:00 PM",
+      "Saturday: 7:00 AM – 5:00 PM",
+      "Sunday: 7:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139650256.2227.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139650545.367.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139651077.458.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139651483.7883.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139651701.4612.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139652112.2568.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139652507.4856.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139652713.1968.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/966ed00c-2aee-4638-aa87-de4a258d1943/966ed00c-2aee-4638-aa87-de4a258d1943_1779139653326.4392.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:16.81194+00:00",
+    "updated_at": "2026-05-18T21:27:38.405483+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d921fc4a-7eee-496c-93bb-9ae7c1203e8f",
+      "tag": "coffee",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "aace33e3-c825-4a79-9537-52873c66327c",
+      "tag": "breakfast",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "26e149a2-9cff-40ff-90a8-00474184f508",
+      "tag": "pastries",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "4439ad65-81be-4a33-91c2-06647078b32f",
+      "tag": "desserts",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "6b06609d-447f-4f7c-befd-e6dfbb1087ca",
+      "tag": "ice cream",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "36dceddb-394f-4e19-a7d4-ea2fe43263ef",
+      "tag": "baked goods",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "992cc6ea-8808-4ceb-891e-fbd669e22069",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "c4e2d5f5-be70-43ac-9840-0faf74986091",
+      "tag": "family-friendly",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "d44f758a-1148-46ba-bd26-b222a029eb09",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "17a6d809-a59a-40a1-8772-aed3b96c99be",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "9dd4d9f5-58ef-4f33-924f-607c1e7f07e2",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "0c5a38e0-ef8f-49b4-8ad1-fdd04a578b70",
+      "tag": "Cafes & Coffee Shops",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "6505a988-ef99-48e2-8822-3b65a2cd77f8",
+      "tag": "Breakfast",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "641c11a1-d244-448f-8ee6-a24ea6c71c2a",
+      "tag": "Desserts",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "dda30d1b-2274-44db-8c3b-0ad6282ed80a",
+      "tag": "Bakeries",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "66f09399-d491-421f-8d26-572e6e9f7ddb",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "5ce115c8-5076-4f85-8e30-4d1c5c993646",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 16
+    },
+    {
+      "id": "05827a90-a58f-4e9c-b68d-4356214bdbeb",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "7751944a-c06b-4c20-92f8-089b3eaf7795",
+      "tag": "Coffee Shop",
+      "tag_category": "search",
+      "sort_order": 18
+    },
+    {
+      "id": "01fae4f9-5582-4cb9-8051-d6d744b56fe9",
+      "tag": "Bakery",
+      "tag_category": "search",
+      "sort_order": 19
+    },
+    {
+      "id": "b676571f-8654-4672-8032-462dc3c1e430",
+      "tag": "Café",
+      "tag_category": "search",
+      "sort_order": 20
+    },
+    {
+      "id": "17a501ee-1c5a-41a0-a15f-ce8f99e8f42d",
+      "tag": "Local Coffee",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "7f70bb68-78b4-4d76-b609-6ec7aac62a7a",
+      "tag": "Espresso",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "fb60da71-0fa2-4229-9e3b-bcbe345605cb",
+      "tag": "Family Friendly",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "1a96946a-d392-433c-b9ef-7b6656cf6476",
+      "tag": "Custom Cakes",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "09aab552-df13-4478-b30c-3f473c8f253d",
+      "tag": "Fresh Baked Daily",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "0af836f5-f5ae-42d1-92d9-598166c44336",
+      "tag": "Happy Hour",
+      "tag_category": "search",
+      "sort_order": 26
+    },
+    {
+      "id": "398e3d1b-d47c-403b-aff1-4e47db187cda",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 27
+    },
+    {
+      "id": "78c7aaca-7401-479c-9516-5b0e5981cb52",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "61ca19d1-94b7-4e23-bd0c-56c1acf96f0e",
+      "tag": "pastry shop",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "1c9a58ce-e360-4367-a0dd-a110cc1384c8",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "bb153d0b-cb82-4897-b58a-d4c09115920d",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "b9c43ca1-c83c-4f58-950a-74860727b2c5",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "ef297529-e475-4a18-af5a-621e7ea190a9",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "ff6b31eb-e771-42de-8fa2-d14f5e2d5034",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "3ec24d05-a661-48eb-af56-ed523f2ce05e",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 35
+    },
+    {
+      "id": "a61f17f4-fec4-4db1-9822-8f52b0655b95",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 36
+    },
+    {
+      "id": "a67fff25-81ea-4631-96a6-f70fc8903e35",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 37
+    },
+    {
+      "id": "71404557-50aa-4634-b21f-22220d5a7881",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 38
+    },
+    {
+      "id": "0679de71-84e5-467b-8079-c993fb4bfcdd",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 39
+    },
+    {
+      "id": "c71811f0-b491-4c28-9a95-57dd008505f6",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 40
+    },
+    {
+      "id": "d167e672-093d-46ca-a732-7ff4537aa447",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 41
+    },
+    {
+      "id": "cf99db17-f22c-4e73-8692-f493fc0e1f96",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 42
+    },
+    {
+      "id": "6982d971-bc13-4d7f-bce7-06a7402468f3",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "b8be6248-db7a-46c9-ae80-a3f0e4189192",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 44
+    },
+    {
+      "id": "57e9ee96-0eb0-4cd0-820a-75f035c3fc2e",
+      "tag": "pastry_shop",
+      "tag_category": "google_type",
+      "sort_order": 45
+    },
+    {
+      "id": "7d1144a1-9763-46a2-89c5-dac63fde4858",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 46
+    },
+    {
+      "id": "bdde87c0-3091-43b1-ba77-435c95e7a2d2",
+      "tag": "bakery",
+      "tag_category": "google_type",
+      "sort_order": 47
+    },
+    {
+      "id": "59e1b946-a874-408b-a602-0ac71256fcd3",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 48
+    },
+    {
+      "id": "3ac9cb2d-ac66-41bd-bfd5-02e4310718aa",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 49
+    },
+    {
+      "id": "850f32b9-5105-4b5f-9710-c6a54c6b4a9f",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 50
+    },
+    {
+      "id": "fe672b4d-6d16-4e54-b2b2-380d1cac06be",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 51
+    },
+    {
+      "id": "78edeb3c-f9ff-43a2-b08d-8468f2ea4cb0",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 52
+    },
+    {
+      "id": "e2b86f24-e700-43dd-afbf-93587346824b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 53
+    },
+    {
+      "id": "61d004ba-0821-496d-ba01-4ad2386867c2",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 54
+    }
+  ],
+  "sections": [
+    {
+      "id": "7ad80ef7-1a49-4f09-9060-c407243c3e71",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": [
+      {
+        "id": "0251d440-6eb3-4b22-855f-181cacd74a65",
+        "item_name": "Happy Hour",
+        "description": "Happy Hour",
+        "price_text": "",
+        "hh_price": null
+      }
+    ]
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

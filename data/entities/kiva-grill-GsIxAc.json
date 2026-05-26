@@ -1,32 +1,710 @@
 {
-  "id": "35abe469-c721-490d-b9d1-14d1ece508cb",
-  "slug": "kiva-grill-GsIxAc",
-  "name": "Kiva Grill",
-  "entity_type": "bar",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Located on the Fort Morgan peninsula of Gulf Shores, Alabama, Kiva Grill has a comprehensive breakfast and lunch menu that will satisfy anyone. Open to the public seven days a week, the grill has a warm atmosphere with a full bar. Beat the beach crowds and experience one of the best brunches on the island! Located inside Kiva Lodge at 815 Plantation Rd. Gulf Shores, AL 36542",
-  "phone": "(251) 540-7211",
-  "email": null,
-  "website_url": "http://www.kivadunesgrill.com/",
-  "address_line_1": "815 Plantation Ln, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.4,
-  "review_count": 276,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/d5216ed0-acc2-4709-a78c-61fd94ae0482/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "35abe469-c721-490d-b9d1-14d1ece508cb",
+    "place_id": "ChIJXxbfQ9UjmogRBleyDGsIxAc",
+    "google_maps_uri": "https://maps.google.com/?cid=559581509568321286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "kiva-grill-GsIxAc",
+    "name": "Kiva Grill",
+    "subtitle": null,
+    "entity_type": "bar",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "bar_and_grill",
+    "google_types": [
+      "bar_and_grill",
+      "wine_bar",
+      "brunch_restaurant",
+      "meal_takeaway",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 540-7211",
+    "international_phone": null,
+    "website_url": "http://www.kivadunesgrill.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "815 Plantation Ln, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2348571,
+    "longitude": -87.8894701,
+    "short_address": "Kiva Dunes Clubhouse Parking Lot, 815 Plantation Ln, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 276,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Located on the Fort Morgan peninsula of Gulf Shores, Alabama, Kiva Grill has a comprehensive breakfast and lunch menu that will satisfy anyone. Open to the public seven days a week, the grill has a warm atmosphere with a full bar. Beat the beach crowds and experience one of the best brunches on the island! Located inside Kiva Lodge at 815 Plantation Rd. Gulf Shores, AL 36542",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/d5216ed0-acc2-4709-a78c-61fd94ae0482/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/kivadunes/",
+    "social_facebook": "https://www.facebook.com/kivagrill",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 7:00 PM",
+      "Tuesday: 7:00 AM – 7:00 PM",
+      "Wednesday: 7:00 AM – 7:00 PM",
+      "Thursday: 7:00 AM – 7:00 PM",
+      "Friday: 7:00 AM – 7:00 PM",
+      "Saturday: 7:00 AM – 7:00 PM",
+      "Sunday: 7:00 AM – 7:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.112197+00:00",
+    "updated_at": "2026-05-18T21:06:57.391972+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ea747963-98f6-43e3-bb23-2b0e3aa10f04",
+      "tag": "breakfast",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "b3ededd7-90d0-4afc-9d18-c6370b76217d",
+      "tag": "breakfast",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "723f9c44-2054-4823-befb-1c295d77c00f",
+      "tag": "brunch",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "aac4720e-eefb-4136-b594-eb679fa380d7",
+      "tag": "brunch",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "f903182a-9a6a-4b68-ada1-a3e42fd97dbc",
+      "tag": "lunch",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "3da6c1ea-244c-413f-a4f2-ab8d93fa537d",
+      "tag": "lunch",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "6d2a2cb9-8f4c-4034-8a49-f129b153f8be",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "67e93ccb-e91f-488c-a60e-3ef365590651",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "89fc284f-fd9c-4a33-8f93-0b5849653075",
+      "tag": "Fort Morgan",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "2f74d181-be49-4f64-8a02-aaa3de35a68d",
+      "tag": "Fort Morgan",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "84863019-7803-420c-bbdd-99d5789bb276",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "2fbf31d5-7a3e-45d4-8f33-79c99929a81a",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "b1f10ee3-3a6f-4edd-99b7-2545d529a724",
+      "tag": "grill",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "b83c620a-b1ca-4b1b-84c5-634040ea3c83",
+      "tag": "grill",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "2d9024bd-3e47-4c86-91a3-8bfb5c5ebeef",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "a0f53726-f1fa-4312-be3c-0e2bf480afe6",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "c3ea9fdd-bc37-4e3c-8c3c-39d0385c53e8",
+      "tag": "full bar",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "d54d9c6d-639e-452b-9815-c6158b1e7d01",
+      "tag": "full bar",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "0edda729-2c08-458e-b3b9-95f6788c9ce5",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "0e16b31a-8374-4999-b745-f992f9de67ea",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "c5e92ca2-6577-4355-aa45-19ce617daf69",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "f9d56e0e-e37e-4ee3-b61c-c5507eb6241d",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "f79ee01d-6bab-4886-8ac0-9d988f1b1463",
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "6553c6ee-3340-46d4-b929-001d27992835",
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "af579bba-212a-436e-b4dd-5526737d1ca0",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "6d29f478-bb49-46d9-b533-1dd6315c826a",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "117d15ff-8f91-4c24-96db-f968624e0089",
+      "tag": "Bars",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "bb19f9e4-0004-4927-83f7-1b6816a69d0f",
+      "tag": "Bars",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "7dd90f21-b341-452b-93bd-9aced3337536",
+      "tag": "Gulf Shores Dining",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "4f34b5d6-2c20-4d72-bf84-80534f396df0",
+      "tag": "Gulf Shores Dining",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "e8b990d9-782d-413c-bfc9-896fc2b8c48b",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 15
+    },
+    {
+      "id": "26a47197-0e25-4b5f-8eaf-631fa2fd988c",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 15
+    },
+    {
+      "id": "069875d3-348f-427b-b087-6e12336f1de2",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "25de95bd-e7fe-483b-b4ca-5ecb95135af0",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "8a859a58-9362-44f8-8b99-61987efd5d47",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "5b2637f2-80c0-42f9-8aaa-ae53363e3db2",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "f8148c64-9f7c-4225-978a-f60ed98168e2",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "e1d8f77c-5c28-441b-94f7-6b4224b72a60",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "5032915f-ebb4-466d-96c7-e3470f650258",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "5f475c56-3cf7-4e9d-8c68-0fe7b137e66a",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "aeba70d8-6314-4cab-8dda-a32cfaba3c50",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 20
+    },
+    {
+      "id": "af710c45-9487-4858-9e82-2b084c35c98d",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 20
+    },
+    {
+      "id": "b2150cab-8385-47b8-aaef-26b2e5671335",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 21
+    },
+    {
+      "id": "36f9f8fb-e72d-4dfd-a56a-bc862d43e69f",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 21
+    },
+    {
+      "id": "30079667-9231-496c-b588-1fb53ccb3b66",
+      "tag": "brunch restaurant",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "cf8d696e-24f0-47e5-84c4-5283682f3926",
+      "tag": "brunch restaurant",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "cdb318ff-4a0a-4f2f-86bc-9d4de3fbf35c",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 23
+    },
+    {
+      "id": "0007e3ac-9b97-41b3-a673-2366a0e1edf9",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 23
+    },
+    {
+      "id": "35faa2fb-782b-41a5-b6a5-7229b47ca765",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 24
+    },
+    {
+      "id": "135efcd6-8d61-458b-87ad-d460324dc2d3",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 24
+    },
+    {
+      "id": "27852d03-761a-4e67-84b7-bf3f8912fb1c",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 25
+    },
+    {
+      "id": "d5fd868c-1012-4f11-899b-226a1f2552a3",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 25
+    },
+    {
+      "id": "2ed2c409-4ea3-4488-a576-380e083afb32",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 26
+    },
+    {
+      "id": "572f0c2e-ba76-4a1e-8080-559f589cf8a7",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 26
+    },
+    {
+      "id": "c4fb19ad-06cd-416e-9b0e-327f328a388c",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "270d2c34-b27d-4f75-b420-f98fe50ad254",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "3cd15ab2-7d8d-4984-9edf-632253bba97d",
+      "tag": "meal takeaway",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "b6d7bb2e-b4f3-42a6-968c-24e3f55f5dfe",
+      "tag": "meal takeaway",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "ba13117b-64c4-4d3d-9507-bfefa8976aba",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 29
+    },
+    {
+      "id": "39379ad2-ebb4-402d-b667-696d613d076f",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 29
+    },
+    {
+      "id": "d28ff594-bafd-4d18-a3b9-b6c8ab5417ba",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 30
+    },
+    {
+      "id": "07cc0432-c126-475f-abbb-6bdd9225571e",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 30
+    },
+    {
+      "id": "c5b41d69-e6fb-4b65-8013-5d845025d1eb",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 31
+    },
+    {
+      "id": "522451c4-f528-4591-91c4-38661ab8057b",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 31
+    },
+    {
+      "id": "21153de0-16bc-4acf-8ef6-f6efa5acb2af",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 32
+    },
+    {
+      "id": "01316353-386d-4c80-a452-15515bfab43b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 32
+    },
+    {
+      "id": "b08e3cd1-5de7-4bd4-89c4-56ec7259737c",
+      "tag": "wine bar",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "37680145-acdb-4820-bce6-a8a3716968a9",
+      "tag": "wine bar",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "eab82325-f600-45c3-878b-42b250ba2215",
+      "tag": "bar and grill",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "7fd07089-bd8b-441c-aa3e-8a2dbe74ea9f",
+      "tag": "bar and grill",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "afadf873-8b7b-4d41-be80-bd070b2f6507",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 35
+    },
+    {
+      "id": "c481a820-9be3-4d6f-9626-654872515727",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 35
+    },
+    {
+      "id": "254b0586-e3e5-481c-91e9-62fd5142f434",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 36
+    },
+    {
+      "id": "9413e446-84a7-4f9c-9cd6-6f0046a28814",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 36
+    },
+    {
+      "id": "68427615-6f23-4e39-be48-c080b9bb88e0",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 37
+    },
+    {
+      "id": "967a2f52-4386-45c4-bc49-0b0e74bc6a72",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 37
+    },
+    {
+      "id": "444347f7-20a6-4f7e-aa0e-6200c48e3954",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 38
+    },
+    {
+      "id": "145857cc-0bfc-4340-be68-6e9bb589fd7e",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 38
+    },
+    {
+      "id": "ba0458cb-fb14-47bc-9569-93c5b1434d03",
+      "tag": "bar_and_grill",
+      "tag_category": "google_type",
+      "sort_order": 39
+    },
+    {
+      "id": "46fbac3b-01d3-42f0-8daa-c366b2ee09da",
+      "tag": "bar_and_grill",
+      "tag_category": "google_type",
+      "sort_order": 39
+    },
+    {
+      "id": "b2b020cf-7a13-4588-95d0-17b6292ae63e",
+      "tag": "brunch_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 40
+    },
+    {
+      "id": "6fa2462a-5b28-47d7-aa3a-a377f1e7884c",
+      "tag": "brunch_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 40
+    },
+    {
+      "id": "e14dc884-7da3-4671-b568-5690aef16de5",
+      "tag": "wine_bar",
+      "tag_category": "google_type",
+      "sort_order": 41
+    },
+    {
+      "id": "abea65e8-5ca5-45cb-8e33-58cc4c190b66",
+      "tag": "wine_bar",
+      "tag_category": "google_type",
+      "sort_order": 41
+    },
+    {
+      "id": "3bea0e30-045e-4b45-b80c-b920820cf805",
+      "tag": "meal_takeaway",
+      "tag_category": "google_type",
+      "sort_order": 42
+    },
+    {
+      "id": "97d21b18-3195-4db9-9b1e-03a07720a8db",
+      "tag": "meal_takeaway",
+      "tag_category": "google_type",
+      "sort_order": 42
+    },
+    {
+      "id": "5a40157f-1675-4af7-8f11-5c5657bb0fa2",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "bd7ef5ce-9126-4034-840a-178737e9c4a7",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 43
+    }
+  ],
+  "sections": [
+    {
+      "id": "681a5112-216a-4227-bd92-e74869535278",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

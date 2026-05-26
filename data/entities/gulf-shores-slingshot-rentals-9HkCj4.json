@@ -1,32 +1,326 @@
 {
-  "id": "b9af1f7b-1370-4856-b973-b7f67705866b",
-  "slug": "gulf-shores-slingshot-rentals-9HkCj4",
-  "name": "Gulf Shores Slingshot Rentals",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "At Gulf Shores Slingshot Rentals, we bring the thrill of the open road to the Alabama Gulf Coast with top-quality Polaris Slingshot rentals. As Alabama's #1 Slingshot rental company, we take pride in delivering a top-tier experience with the newest models, unbeatable service, and a commitment to safety. We are the ONLY Polaris Factory Rental Program in Alabama, officially partnered with Polaris Adventures. Our fleet features the latest 2022 and 2024 Polaris Slingshot models, professionally maintained to Polaris-certified safety standards. We provide $10,000,000 auto liability coverage with damage deductible options of $750 or $1,500. Unlike other rental companies, our Slingshots come with real, full-coverage rental insurance. Whether you're cruising down Ocean Boulevard or exploring the scenic Grand Strand, we ensure your ride is as thrilling as it is unforgettable. Our convenient location is just 3 miles north of Gulf Shores Target and 2 miles south of the Foley Tanger Outlet Mall on Highway 59.",
-  "phone": "(251) 501-6538",
-  "email": null,
-  "address_line_1": "8605 AL-59, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "http://www.gulfshoresslingshotrentals.com/",
-  "rating": 5,
-  "review_count": 164,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/b9af1f7b-1370-4856-b973-b7f67705866b/b9af1f7b-1370-4856-b973-b7f67705866b_1779139730075.8833.jpg",
+  "entity": {
+    "id": "b9af1f7b-1370-4856-b973-b7f67705866b",
+    "place_id": "ChIJOVcMQEYFmogRSHOYa9HkCj4",
+    "google_maps_uri": "https://maps.google.com/?cid=4470637168223089480&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "gulf-shores-slingshot-rentals-9HkCj4",
+    "name": "Gulf Shores Slingshot Rentals",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "rentals",
+    "secondary_types": [],
+    "google_type": "service",
+    "google_types": [
+      "car_rental",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 501-6538",
+    "international_phone": null,
+    "website_url": "http://www.gulfshoresslingshotrentals.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "8605 AL-59, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3504141,
+    "longitude": -87.6836436,
+    "short_address": "8605 AL-59, Foley",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 164,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "At Gulf Shores Slingshot Rentals, we bring the thrill of the open road to the Alabama Gulf Coast with top-quality Polaris Slingshot rentals. As Alabama's #1 Slingshot rental company, we take pride in delivering a top-tier experience with the newest models, unbeatable service, and a commitment to safety. We are the ONLY Polaris Factory Rental Program in Alabama, officially partnered with Polaris Adventures. Our fleet features the latest 2022 and 2024 Polaris Slingshot models, professionally maintained to Polaris-certified safety standards. We provide $10,000,000 auto liability coverage with damage deductible options of $750 or $1,500. Unlike other rental companies, our Slingshots come with real, full-coverage rental insurance. Whether you're cruising down Ocean Boulevard or exploring the scenic Grand Strand, we ensure your ride is as thrilling as it is unforgettable. Our convenient location is just 3 miles north of Gulf Shores Target and 2 miles south of the Foley Tanger Outlet Mall on Highway 59.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/b9af1f7b-1370-4856-b973-b7f67705866b/b9af1f7b-1370-4856-b973-b7f67705866b_1779139730075.8833.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "activities",
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.112133+00:00",
+    "updated_at": "2026-05-18T21:28:55.41976+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "96eac97b-b532-458e-ab53-119e934cb561",
+      "tag": "Slingshot rentals",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "c0f76efb-ea42-4fea-bbd9-bcda99176e33",
+      "tag": "Polaris Slingshot",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "fa5e496a-3154-47b7-80ba-a6eba662d83b",
+      "tag": "vehicle rentals",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "b0896d4c-b919-4e51-827e-243e82b4a11d",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "2c911518-3253-46fc-827c-1c82995e7d15",
+      "tag": "Foley",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "70cdd62e-e7a2-43d7-8d89-1923a0897a01",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "8a48eda3-c063-4745-804a-fe695880b95a",
+      "tag": "three-wheel vehicle",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "8c4e7d3d-a9c6-4728-b908-7a61777bfd68",
+      "tag": "adventure",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "f0c9b91c-eaa3-4ebc-8b46-6b1b34614bd6",
+      "tag": "tourist activity",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "a8b14d33-1e4e-487a-bb37-b82030714461",
+      "tag": "coastal recreation",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "c8cfddb5-2e2f-46a8-a63e-468bffaeac0a",
+      "tag": "fun activities",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "b8aa66ea-3fd1-4015-98e7-1b28127ad6ba",
+      "tag": "Polaris Adventures partner",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "07878de2-ae4e-4964-a112-d03612d0affd",
+      "tag": "exotic car rental alternative",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "fc247216-5fb9-4404-abbb-395959ac44a4",
+      "tag": "Rentals",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "94578380-898b-42b7-9d79-4dd7aae5f8b2",
+      "tag": "Vehicle Rentals",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "49bdf6b5-6d74-4941-a1d2-9f540ef95c95",
+      "tag": "Watersports & Recreation",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "e9772101-4374-40d4-ab19-c2de89bac599",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "5f1da246-3b70-41cd-9b72-b5b073faa125",
+      "tag": "Tourist Activities",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "aa4a8322-6734-4948-8871-feea31e5654c",
+      "tag": "Adventure Activities",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "21a9eadf-3e37-469d-8718-787db0725c0b",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 19
+    },
+    {
+      "id": "544b2004-7546-42ff-8002-54db09adce84",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "13ddef6a-6eb1-486b-be7c-2f53218efa56",
+      "tag": "car_rental",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "8db6b750-0f77-466a-95f7-933d8fea6644",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "0b5a7983-6261-4365-8d6e-a807aefdb45b",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "518250b3-3fb8-4e13-b964-f8f11c1c157b",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 24
+    }
+  ],
+  "sections": [
+    {
+      "id": "ccfc8581-2feb-4ab4-974a-6229abf9536a",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "photos": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

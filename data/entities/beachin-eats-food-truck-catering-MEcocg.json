@@ -1,32 +1,296 @@
 {
-  "id": "e0a75758-dfb2-45ba-8bb6-0f66f0f4f597",
-  "slug": "beachin-eats-food-truck-catering-MEcocg",
-  "name": "Beachin’ Eats Food Truck & Catering",
-  "entity_type": "restaurant",
-  "entity_subtype": "catering_service",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 979-8238",
-  "email": null,
-  "website_url": "http://facebook.com/BeachinEatsOBA",
-  "address_line_1": "2104 E 2nd St STE D, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.2,
-  "review_count": 16,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/9d582cc3-611e-460d-8dc4-343c6b3b544e/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "e0a75758-dfb2-45ba-8bb6-0f66f0f4f597",
+    "place_id": "ChIJ8WN7tRsFmogRZUJgVMEcocg",
+    "google_maps_uri": "https://maps.google.com/?cid=14456867895505863269&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "beachin-eats-food-truck-catering-MEcocg",
+    "name": "Beachin’ Eats Food Truck & Catering",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "catering_service",
+    "secondary_types": [],
+    "google_type": "catering_service",
+    "google_types": [
+      "catering_service",
+      "food_delivery",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 979-8238",
+    "international_phone": null,
+    "website_url": "http://facebook.com/BeachinEatsOBA",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2104 E 2nd St STE D, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2738037,
+    "longitude": -87.6826012,
+    "short_address": "2104 E 2nd St STE D, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.2,
+    "review_count": 16,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/9d582cc3-611e-460d-8dc4-343c6b3b544e/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.14342+00:00",
+    "updated_at": "2026-05-17T22:22:52.686503+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "7316800b-d16c-4638-8c7e-fdb668d52eef",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "ca8c6b51-3aba-486b-be8f-48d57bc53d64",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "6d457e66-fab4-4d3d-8186-3dfcf84ea9e7",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 1
+    },
+    {
+      "id": "d43f27a8-a7a8-4f12-bb97-19e39aa18b7f",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 1
+    },
+    {
+      "id": "420d17a5-767a-49f7-8d16-9977a8ac3df8",
+      "tag": "catering service",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "07fe179f-18c4-4f55-967a-d61b5c48039e",
+      "tag": "catering service",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "b1c0cfe0-1ed2-4923-a320-01c754447023",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "a92a2da2-f7f1-4272-a4f9-0493c3da0539",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "b72daed0-26e5-4935-863d-47772d903db5",
+      "tag": "food delivery",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "2cf1505f-b784-463c-bbbb-19652894014d",
+      "tag": "food delivery",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "2c8980aa-a5f2-4402-a2bf-ddafc9e9291a",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "4d0201bc-3156-4b0a-aa56-1e49fcfc9680",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "5cb22ff8-3fcd-47ae-886d-c1a666d584ca",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "ae1422f0-780b-400e-b5dd-9fa6ecb052e1",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "bbad9b90-ef16-4cd3-a34c-85c1b6e3cfb6",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "8d893041-189e-4612-9963-6af1e09e363f",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "39e2474a-4589-490d-93aa-0eb2b9a688ba",
+      "tag": "catering_service",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "f7f49572-557b-4d31-9752-a7b948e75b43",
+      "tag": "catering_service",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "eb18079e-b6de-4f01-89f0-b1a47e6a80fe",
+      "tag": "food_delivery",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "d67fcd44-65e6-4f07-bb0e-cd7cff546a24",
+      "tag": "food_delivery",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "e24a9c20-fa5d-4a56-a33f-faa131d401ab",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "b140b785-11de-41b4-b41e-653e516504b9",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 10
+    }
+  ],
+  "sections": [
+    {
+      "id": "3626f55e-c13f-463b-b16b-be355d512c58",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

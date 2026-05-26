@@ -1,32 +1,222 @@
 {
-  "id": "52f95a8b-71a5-4c9b-809f-f921432a8333",
-  "slug": "gulf-oak-ridge-trailhead-west-sJ1FsQ",
-  "name": "Gulf Oak Ridge Trailhead West",
-  "entity_type": "activity",
-  "entity_subtype": "park",
-  "icon": "🏪",
-  "description": "",
-  "phone": null,
-  "email": null,
-  "website_url": "https://www.alapark.com/parks/gulf-state-park",
-  "address_line_1": "Gulf Oak Rdg, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.8,
-  "review_count": 66,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/cce5601c-71db-4058-b1de-6e104475d1be/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "52f95a8b-71a5-4c9b-809f-f921432a8333",
+    "place_id": "ChIJUUKyMlQEmogR9WuEtsJ1FsQ",
+    "google_maps_uri": "https://maps.google.com/?cid=14129610360067746805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-oak-ridge-trailhead-west-sJ1FsQ",
+    "name": "Gulf Oak Ridge Trailhead West",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "park",
+    "secondary_types": "",
+    "google_type": "state_park",
+    "google_types": [
+      "state_park",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": "https://www.alapark.com/parks/gulf-state-park",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Gulf Oak Rdg, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2715335,
+    "longitude": -87.6556341,
+    "short_address": "Gulf Oak Rdg, Orange Beach",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 66,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/cce5601c-71db-4058-b1de-6e104475d1be/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false
+    },
+    "hours_text": [
+      "Monday: 6:00 AM – 7:00 PM",
+      "Tuesday: 6:00 AM – 7:00 PM",
+      "Wednesday: 6:00 AM – 7:00 PM",
+      "Thursday: 6:00 AM – 7:00 PM",
+      "Friday: 6:00 AM – 7:00 PM",
+      "Saturday: 6:00 AM – 7:00 PM",
+      "Sunday: 6:00 AM – 7:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.908176+00:00",
+    "updated_at": "2026-05-18T21:06:41.040693+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "e68dcd3e-f925-4847-8bb9-c7acb5af74a6",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "1e7a6e90-15ff-4f81-a882-1a87d58ba2c4",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "bf1a67d5-45ce-4faf-bf0e-8fcf0f8b25ea",
+      "tag": "park",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "15c62b1b-dc43-4552-b171-e8cfdb88b2a2",
+      "tag": "state park",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "e011565d-ae66-4f0b-a8c4-2951e1e23a7d",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "c03216a9-c653-4f96-8b50-c185e8153dfe",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "7f7c6a68-d1f8-4321-8f79-1a7a099e4813",
+      "tag": "outdoor",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "6d570489-1218-4ced-bad9-7dfb06fde02e",
+      "tag": "state_park",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "762f66e8-7c4c-4e8d-ba21-05a4d490d1e6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    }
+  ],
+  "sections": [
+    {
+      "id": "94a29f40-22a8-43f3-bd6e-2057e904ea62",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,678 @@
 {
-  "id": "8e6cbd07-fd44-484e-adba-8212af84d3cd",
-  "slug": "gulf-shores-massage-therapy-dA7-5A",
-  "name": "Gulf Shores Massage Therapy",
-  "entity_type": "service",
-  "entity_subtype": "spa-wellness",
-  "icon": "🏪",
-  "description": "Gulf Shores Massage Therapy, based in Gulf Shores, AL, is a reputable provider of massage therapy and skincare services. With over 15 years of collective experience in the massage, esthetics, health, and wellness industry, our main objective is to promote relaxation and balance. By choosing our services, you are investing in your overall well-being. Our professional bodywork, massage, and facials are carefully crafted to support a healthy and contented body. At Gulf Shores Massage Therapy, we prioritize personalized sessions tailored to your specific needs. From the moment you step through our doors, our skilled therapist, Candice, will provide you with a seamless experience. Our diverse range of sessions caters to your therapeutic and wellness requirements, complemented by the use of hot towels and our own custom-made lotions and creams. While couples sessions are currently unavailable, please don't hesitate to reach out to us via call or text for any additional information you may require. Please note that clients must be at least the age of 16 to book any session.",
-  "phone": "(251) 223-9217",
-  "email": null,
-  "website_url": "http://www.massagegulfshores.com/",
-  "address_line_1": "309 E 21st Ave Suite H, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.8,
-  "review_count": 32,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8e6cbd07-fd44-484e-adba-8212af84d3cd/8e6cbd07-fd44-484e-adba-8212af84d3cd_1779139784271.8877.jpg",
-  "photos": [],
+  "entity": {
+    "id": "8e6cbd07-fd44-484e-adba-8212af84d3cd",
+    "place_id": "ChIJMT_35CcFmogRgx1CDdA7-5A",
+    "google_maps_uri": "https://maps.google.com/?cid=10447009525377670531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-shores-massage-therapy-dA7-5A",
+    "name": "Gulf Shores Massage Therapy",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "spa-wellness",
+    "secondary_types": [],
+    "google_type": "massage",
+    "google_types": [
+      "skin_care_clinic",
+      "massage_spa",
+      "spa",
+      "massage",
+      "beauty_salon",
+      "point_of_interest",
+      "medical_clinic",
+      "health",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 223-9217",
+    "international_phone": null,
+    "website_url": "http://www.massagegulfshores.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "309 E 21st Ave Suite H, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2742438,
+    "longitude": -87.6820347,
+    "short_address": "309 E 21st Ave Suite H, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 32,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Gulf Shores Massage Therapy, based in Gulf Shores, AL, is a reputable provider of massage therapy and skincare services. With over 15 years of collective experience in the massage, esthetics, health, and wellness industry, our main objective is to promote relaxation and balance. By choosing our services, you are investing in your overall well-being. Our professional bodywork, massage, and facials are carefully crafted to support a healthy and contented body. At Gulf Shores Massage Therapy, we prioritize personalized sessions tailored to your specific needs. From the moment you step through our doors, our skilled therapist, Candice, will provide you with a seamless experience. Our diverse range of sessions caters to your therapeutic and wellness requirements, complemented by the use of hot towels and our own custom-made lotions and creams. While couples sessions are currently unavailable, please don't hesitate to reach out to us via call or text for any additional information you may require. Please note that clients must be at least the age of 16 to book any session.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8e6cbd07-fd44-484e-adba-8212af84d3cd/8e6cbd07-fd44-484e-adba-8212af84d3cd_1779139784271.8877.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://www.massagegulfshores.com/",
+      "pages": [
+        {
+          "url": "http://www.massagegulfshores.com/",
+          "text": "Skip to Content\nHome\nServices\nGift Cards\nAbout\nBook\nContact\nBook Appointment\n Your Reset Starts Here\nGulf Shores Massage Therapy, based in Gulf Shores, AL, is a reputable provider of massage therapy and skincare services. With over 15 years of collective experience in the massage, esthetics, health, and wellness industry, our main objective is to promote relaxation and balance. By choosing our services, you are investing in your overall well-being. Our professional bodywork, massage, and facials are carefully crafted to support a healthy and contented body. At Gulf Shores Massage Therapy, we prioritize personalized sessions tailored to your specific needs. From the moment you step through our doors, our skilled therapist, Candice, will provide you with a seamless experience. Our diverse range of sessions caters to your therapeutic and wellness requirements, complemented by the use of hot towels and our own custom-made lotions and creams. While couples sessions are currently unavailable, please don't hesitate to reach out to us via call or text for any additional information you may require. Please note that clients must be at least the age of 16 to book any session..\nOur Story\nGulf Shores Massage Therapy\n\n309 east 21st Ave Suite G\nGulf Shores, AL 36542\n\nText 251-223-9217\n\nMassage License #3938\n\nMassage Establishment #3812 \n\nMade with Squarespace",
+          "title": "Gulf Shores Massage Therapy -Your reset starts here – Book Now"
+        },
+        {
+          "url": "https://www.massagegulfshores.com/cart",
+          "text": "Skip to Content\nHome\nServices\nGift Cards\nAbout\nBook\nContact\nBook Appointment\nGulf Shores Massage Therapy\n\n309 east 21st Ave Suite G\nGulf Shores, AL 36542\n\nText 251-223-9217\n\nMassage License #3938\n\nMassage Establishment #3812 \n\nMade with Squarespace",
+          "title": "Gulf Shores Massage Therapy"
+        },
+        {
+          "url": "https://www.massagegulfshores.com",
+          "text": "Skip to Content\nHome\nServices\nGift Cards\nAbout\nBook\nContact\nBook Appointment\n Your Reset Starts Here\nGulf Shores Massage Therapy, based in Gulf Shores, AL, is a reputable provider of massage therapy and skincare services. With over 15 years of collective experience in the massage, esthetics, health, and wellness industry, our main objective is to promote relaxation and balance. By choosing our services, you are investing in your overall well-being. Our professional bodywork, massage, and facials are carefully crafted to support a healthy and contented body. At Gulf Shores Massage Therapy, we prioritize personalized sessions tailored to your specific needs. From the moment you step through our doors, our skilled therapist, Candice, will provide you with a seamless experience. Our diverse range of sessions caters to your therapeutic and wellness requirements, complemented by the use of hot towels and our own custom-made lotions and creams. While couples sessions are currently unavailable, please don't hesitate to reach out to us via call or text for any additional information you may require. Please note that clients must be at least the age of 16 to book any session..\nOur Story\nGulf Shores Massage Therapy\n\n309 east 21st Ave Suite G\nGulf Shores, AL 36542\n\nText 251-223-9217\n\nMassage License #3938\n\nMassage Establishment #3812 \n\nMade with Squarespace",
+          "title": "Gulf Shores Massage Therapy -Your reset starts here – Book Now"
+        },
+        {
+          "url": "https://www.massagegulfshores.com/giftcards",
+          "text": "Services\nPowered by Vagaro Salon Software, Spa Software\nSkip to Content\nHome\nServices\nGift Cards\nAbout\nBook\nContact\nBook Appointment\nGulf Shores Massage Therapy\n\n309 east 21st Ave Suite G\nGulf Shores, AL 36542\n\nText 251-223-9217\n\nMassage License #3938\n\nMassage Establishment #3812 \n\nMade with Squarespace",
+          "title": "Gift Cards | Gift the Gift of Relaxation – Purchase Now — Gulf Shores Massage Therapy"
+        },
+        {
+          "url": "https://www.massagegulfshores.com/about",
+          "text": "Skip to Content\nHome\nServices\nGift Cards\nAbout\nBook\nContact\nBook Appointment\nOur Story\nGulf Shores Massage Therapy, based in Gulf Shores, AL, is a reputable provider of massage therapy and skincare services. With over 15 years of collective experience in the massage, esthetics, health, and wellness industry, our main objective is to promote relaxation and balance. By choosing our services, you are investing in your overall well-being. Our professional bodywork, massage, and facials are carefully crafted to support a healthy and contented body. At Gulf Shores Massage Therapies, we prioritize personalized sessions tailored to your specific needs. From the moment you step through our doors, our skilled therapist, Candice, will provide you with a seamless experience. Our diverse range of sessions caters to your therapeutic and wellness requirements, complemented by the use of hot towels and our own custom-made lotions and creams. While couples sessions are currently unavailable, please don't hesitate to reach out to us via call or text for any additional information you may require. Please note that clients must be at least the age of 16 to book any session.\nReady to Relax?\nBook an Appointment\nGulf Shores Massage Therapy\n\n309 east 21st Ave Suite G\nGulf Shores, AL 36542\n\nText 251-223-9217\n\nMassage License #3938\n\nMassage Establishment #3812 \n\nMade with Squarespace",
+          "title": "About | Relax and Rejuvenate Today — Gulf Shores Massage Therapy"
+        },
+        {
+          "url": "https://www.massagegulfshores.com/book",
+          "text": "Skip to Content\nHome\nServices\nGift Cards\nAbout\nBook\nContact\nBook Appointment\n Book an Appointment\nBook Now\nPowered by Vagaro Salon Software, Spa Software\nGulf Shores Massage Therapy\n\n309 east 21st Ave Suite G\nGulf Shores, AL 36542\n\nText 251-223-9217\n\nMassage License #3938\n\nMassage Establishment #3812 \n\nMade with Squarespace",
+          "title": "Book | Relax Today – Book Now — Gulf Shores Massage Therapy"
+        },
+        {
+          "url": "https://www.massagegulfshores.com/contact",
+          "text": "Skip to Content\nHome\nServices\nGift Cards\nAbout\nBook\nContact\nBook Appointment\nBook your session, relax & enjoy\n\nHours of Operation\n\nMonday-Friday\n9:00 am – 5:00 pm\n\nAddress\n\n309 east 21st Ave suite G\nGulf Shores, AL 36542\n\nEmail\n\nMassagegulfshores@gmail.com\n\nPhone\n\n(251) 223-9217\n\nGulf Shores Massage Therapy\n\n309 east 21st Ave Suite G\nGulf Shores, AL 36542\n\nText 251-223-9217\n\nMassage License #3938\n\nMassage Establishment #3812 \n\nMade with Squarespace",
+          "title": "Contact | Book Your Relaxation Now — Gulf Shores Massage Therapy"
+        }
+      ],
+      "imageUrls": [
+        "https://images.squarespace-cdn.com/content/v1/693f56526b7796113c8cacac/0a6a81d4-b7fb-4576-90c9-60b9da0c902a/logo+transparency.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/693f56526b7796113c8cacac/5671cdcc-de49-4777-a091-9f20c07f7eae/gulf+shores+massage+therapy-07024_websize.jpg",
+        "https://images.squarespace-cdn.com/content/v1/693f56526b7796113c8cacac/0a6a81d4-b7fb-4576-90c9-60b9da0c902a/logo+transparency.png",
+        "https://images.squarespace-cdn.com/content/v1/693f56526b7796113c8cacac/3edf9bc1-f18c-430a-a674-6ca2a2359dde/Portfolio+Website+%28Website%29.png",
+        "https://images.squarespace-cdn.com/content/v1/693f56526b7796113c8cacac/6b721812-39c7-4a68-9b1d-aa47d450b6b4/gulf+shores+massage+therapy-07472.jpg",
+        "https://images.squarespace-cdn.com/content/v1/693f56526b7796113c8cacac/f6078f4e-dc45-4704-87a1-17cc3e9e6100/branding+photo-09159.jpg",
+        "https://images.squarespace-cdn.com/content/v1/693f56526b7796113c8cacac/907c9873-db73-4a96-9bb6-4fc8d25042b4/gulf+shores+massage+therapy-07020.jpg",
+        "https://images.squarespace-cdn.com/content/v1/693f56526b7796113c8cacac/9132cf88-23d4-4aac-a6c0-a65b4d9fd93c/branding+photo-09217.jpg"
+      ],
+      "scraped_at": "2026-05-16T12:24:55.494Z",
+      "business_name": "Gulf Shores Massage Therapy"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "raw-page-data",
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.904525+00:00",
+    "updated_at": "2026-05-18T21:29:49.143948+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d50b5dbc-b700-4bcd-9001-291ca35b67c5",
+      "tag": "massage therapy",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "2188d6d0-c6ec-4aab-89db-a2c43766ee7c",
+      "tag": "massage therapy",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "fda19a24-db1a-4c59-b542-2486af1a379f",
+      "tag": "spa services",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "fa52029b-84a3-4be9-b2c2-9e8da30e77c4",
+      "tag": "spa services",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "030772a0-7296-47e5-a16f-b4bb50b44e62",
+      "tag": "facials",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "70e676c6-480d-4cfe-a370-a5cc10982bd3",
+      "tag": "facials",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "6b6f3e25-a857-495e-9db6-e6ceaae04bb3",
+      "tag": "body wraps",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "07a7a0e1-f3c1-47b4-be15-238e4b4c2f78",
+      "tag": "body wraps",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "89317d51-6991-4552-9c25-7c3b82191e55",
+      "tag": "skincare",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "49e7b65e-874b-4ba1-9670-6a8838355293",
+      "tag": "skincare",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "76cd14bf-f6af-48dc-8893-7e1628f0ed93",
+      "tag": "relaxation",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "f48c8889-7fc0-450e-8945-c364dbafb0c3",
+      "tag": "relaxation",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "09fa8a53-9301-4f12-9141-470c3cb07a99",
+      "tag": "wellness",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "16e56cc5-96c4-4d93-bfbb-0810ca5e9bd4",
+      "tag": "wellness",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "120f27d9-6637-4a68-abaf-9e4784e0fcfc",
+      "tag": "esthetics",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "cb168e39-98f4-4a23-9e97-12b678b1b570",
+      "tag": "esthetics",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "2eaf5097-c0a0-49b9-9d3f-c5422a35cd67",
+      "tag": "therapeutic massage",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "62896601-f2b0-4ac9-83a4-dae8348132da",
+      "tag": "therapeutic massage",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "275af932-5f28-4f68-bf5a-d47320bcc1c0",
+      "tag": "personalized therapy",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "ff0cb87e-a663-4cb5-ac7b-df6132207a3d",
+      "tag": "personalized therapy",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "8c58d123-8d1c-48cc-a761-47def60871ee",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "df3c6530-6b08-4966-bdc6-905dcccc8790",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "d4bbfb88-3b82-4f80-b30f-bde2678033f6",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "ce4f3799-c6e2-47ef-9fbc-75a3169697ea",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "c2dc0a59-734e-48cc-87c3-6533d88f5bac",
+      "tag": "health",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "9c1dca5f-3485-4a33-bf64-a5f146f5d13b",
+      "tag": "health",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "605e41dc-f475-4d6e-be36-5742d54362e2",
+      "tag": "rejuvenation",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "557912f2-62e5-47b0-b2b0-2caae1785539",
+      "tag": "rejuvenation",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "b6c1a098-44ff-4fe4-8ecd-94e5f3e71423",
+      "tag": "Spas & Wellness",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "9eeb4dda-acce-49cf-903a-18a535565dbe",
+      "tag": "Spas & Wellness",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "ddc158bd-35a7-4e65-b10b-41fa37d3f1d5",
+      "tag": "Massage Therapy",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "6bd47d05-a00f-4e1a-8e7a-2e747abb7468",
+      "tag": "Massage Therapy",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "074ec70d-4867-4af8-855b-5e75409a5dab",
+      "tag": "Skincare Services",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "743894b8-42a5-48ae-8fbe-f98a43fa5849",
+      "tag": "Skincare Services",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "643af2fd-30eb-4c0c-bcfb-f3eaa2071bcd",
+      "tag": "Health & Wellness",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "cad7dffb-f9d9-423f-ab1b-f56d7f7280fb",
+      "tag": "Health & Wellness",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "03b56b8a-c014-43e8-8f94-75b107dbf5fa",
+      "tag": "Relaxation",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "1dc39fab-099a-47c3-9f27-5d4deecdbcef",
+      "tag": "Relaxation",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "30cd0273-91ed-4a0e-9fe3-fedd1ac973c8",
+      "tag": "Beauty & Personal Care",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "61d2e1c3-61b3-45bf-ae95-ce0ee4f25cfb",
+      "tag": "Beauty & Personal Care",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "f0d73b7d-3e98-4615-bf0b-aaee46265af3",
+      "tag": "health-and-wellness",
+      "tag_category": "industry",
+      "sort_order": 20
+    },
+    {
+      "id": "63eddb82-c6d7-43b1-a353-6b58026b245e",
+      "tag": "health-and-wellness",
+      "tag_category": "industry",
+      "sort_order": 20
+    },
+    {
+      "id": "88af67d0-2c56-4ad0-a39f-e82904694850",
+      "tag": "spa-wellness",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "d9349a79-69ed-441e-ac96-815bf3a365ad",
+      "tag": "spa-wellness",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "ff385ac2-aa1a-42a4-aef5-945d176dcc7d",
+      "tag": "beauty salon",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "1849ac0a-9101-46df-8fce-738ab7f1c492",
+      "tag": "beauty salon",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "731f25e2-7e10-47bd-a8e6-4bc806ec57bd",
+      "tag": "massage spa",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "809c9b27-c538-436a-9924-df687b702759",
+      "tag": "massage spa",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "661fc37d-0dd5-4d30-9755-b88b5501db04",
+      "tag": "spa",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "5c26dbd9-6230-4a6f-9c3e-fbd745488421",
+      "tag": "spa",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "c7e2a02e-19b1-4762-b271-5364500d3f2e",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "112c8008-d3af-4279-b25b-bbc7a09e2fb4",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "9e457981-deaa-4c9a-99a7-f2d2c7c15a21",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "258dbdf9-21bb-493d-94d0-4013b0a6f762",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "79ee2253-5fa2-460b-ac7a-ff22f24b97b2",
+      "tag": "massage",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "12cf9a79-677b-4503-a4e2-c3d3c9a14e46",
+      "tag": "massage",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "212b100f-abd5-4344-b317-bbe880e053c0",
+      "tag": "skin care clinic",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "54019401-5a4d-454a-a5ba-4fdac6a74433",
+      "tag": "skin care clinic",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "6755a674-90c4-44d4-886f-a71392e8d15f",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 29
+    },
+    {
+      "id": "9bc1b901-1abd-481e-bab1-131ef0805629",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 29
+    },
+    {
+      "id": "5a685dc2-7abc-4205-9eb4-bca97e2f5ff3",
+      "tag": "medical clinic",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "162e8fb7-b2a1-4b3d-a28a-d35b1afde79c",
+      "tag": "medical clinic",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "fbb6621f-bdd0-471e-b3ee-e7e6db4f5686",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "11932a90-4e08-40ee-afa1-a2488579527a",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "a403be6d-aac7-48a6-95ad-2542409ca932",
+      "tag": "skin_care_clinic",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "b9ebd36d-a53d-4eb3-9106-e60c00d4e2a0",
+      "tag": "skin_care_clinic",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "3f0f320b-07cc-4ec5-a897-f9d26fd4ffd0",
+      "tag": "beauty_salon",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "c9628a5c-9825-4e2a-b05c-4e0ecaccdb44",
+      "tag": "beauty_salon",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "1e126268-b0e4-4b88-81c9-a8928c5c2efb",
+      "tag": "medical_clinic",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "34772a9f-1ce4-47d2-92cf-8abb142046f1",
+      "tag": "medical_clinic",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "def79d26-85ab-42bd-bfac-1828dc48d7a5",
+      "tag": "massage_spa",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "b4fe6fe4-1407-44d7-8633-18703a9411cf",
+      "tag": "massage_spa",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "03bc97d7-7afb-4704-aead-b49e5cc3c993",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "1f597609-88fe-4ab7-b20e-2b96eef356e5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 36
+    }
+  ],
+  "sections": [
+    {
+      "id": "986da967-c9cc-409a-abe2-7e2cdf1bd2cc",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

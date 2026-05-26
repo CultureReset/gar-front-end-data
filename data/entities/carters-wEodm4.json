@@ -1,65 +1,271 @@
 {
-  "id": "0ade261d-d3c2-4546-893e-62231cae954a",
-  "slug": "carters-wEodm4",
-  "name": "Carter's",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "Baby & kids' apparel brand known for its colorful, basic clothing & accessories.",
-  "phone": "(251) 943-3727",
-  "email": null,
-  "address_line_1": "2601 S McKenzie St Suite 214, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "https://www.carters.com/l/al/foley/carters-tanger-outlet-center-foley-0561",
-  "rating": 4.3,
-  "review_count": 62,
-  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfVfo7xT_X3_NwJwfqyOyYrxMkamQeIVDSE4Vog2XXOjcaRc-p6yN0f_CrFdOk0b7JffeosYiMZ7IEn1Me2tjywjIeubqC23WVPs_zb_XsA1VWAlV6fBzKRnZ0Y3i2WaxoV3CyEUccYAhUkTHHor1FzUYiX6lR5sGiMyipcpx3X1u6K_HLt6BpzDRsYts7brj45tODhzJpk3GEMPrYIAs_gK4L8aJNYgpJFtMpM4KDTzRlcVLbMymPXhO4IBDzb23HFVBYOQWkbmAOfy73-ZOAPBr8Mos7q8Tk2erqOP5rd59wHqCXSxqLxBKt9P1G6x--K8O58rHYDpkyzGVMlAEze9lahRNUqlRB4QvBlTv-mPvcEcDjWe89yKcJlzOmHNQQFFpHABMYYtlXE6qaWewNfXRxt-fuDhzr3xRXgXdybriw&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "0ade261d-d3c2-4546-893e-62231cae954a",
+    "place_id": "ChIJK7yjVTEOmogRFFxvfwEodm4",
+    "google_maps_uri": "https://maps.google.com/?cid=7959593378322013204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "carters-wEodm4",
+    "name": "Carter's",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "clothing_store",
+    "google_types": [
+      "shoe_store",
+      "child_care_agency",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-3727",
+    "international_phone": null,
+    "website_url": "https://www.carters.com/l/al/foley/carters-tanger-outlet-center-foley-0561",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2601 S McKenzie St Suite 214, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3772618,
+    "longitude": -87.682308,
+    "short_address": "2601 S McKenzie St Suite 214, Foley",
+    "plus_code": null,
+    "rating": 4.3,
+    "review_count": 62,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Baby & kids' apparel brand known for its colorful, basic clothing & accessories.",
+    "description": "Baby & kids' apparel brand known for its colorful, basic clothing & accessories.",
+    "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfVfo7xT_X3_NwJwfqyOyYrxMkamQeIVDSE4Vog2XXOjcaRc-p6yN0f_CrFdOk0b7JffeosYiMZ7IEn1Me2tjywjIeubqC23WVPs_zb_XsA1VWAlV6fBzKRnZ0Y3i2WaxoV3CyEUccYAhUkTHHor1FzUYiX6lR5sGiMyipcpx3X1u6K_HLt6BpzDRsYts7brj45tODhzJpk3GEMPrYIAs_gK4L8aJNYgpJFtMpM4KDTzRlcVLbMymPXhO4IBDzb23HFVBYOQWkbmAOfy73-ZOAPBr8Mos7q8Tk2erqOP5rd59wHqCXSxqLxBKt9P1G6x--K8O58rHYDpkyzGVMlAEze9lahRNUqlRB4QvBlTv-mPvcEcDjWe89yKcJlzOmHNQQFFpHABMYYtlXE6qaWewNfXRxt-fuDhzr3xRXgXdybriw&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": false
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": false,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": false,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.804093+00:00",
+    "updated_at": "2026-05-18T21:06:14.777528+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "0a7e9947-1240-4626-b54b-c98a3c92e488",
       "tag": "shopping",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "fceea1d5-9988-44c3-b0a3-8bbb81bb8580",
+      "tag": "shopping",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "c8d16e13-26e3-447d-97fe-84bf1896455f",
       "tag": "shoe_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "c9ba576c-5ec3-487c-8559-34196b8925f3",
+      "tag": "shoe_store",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "df4b3f7c-e091-47a3-a88f-8d37e45989d3",
       "tag": "child_care_agency",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "4d480e1d-b2d2-490d-9b6e-4c7f24295d98",
+      "tag": "child_care_agency",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "488b587c-c819-4e6e-a4d0-6bb5bceca29e",
       "tag": "clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "a781f8bd-1513-4336-9d54-4594adb2b3ac",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "2fd901ca-81f7-4324-87c2-b70f32f8282a",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "9e06e6b5-80a4-4041-91d0-d8b09533c48e",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "c4f38a53-d1b1-4801-a92d-0b89ac259c22",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "28ed3b71-827b-4df9-a83c-4e12b30a2630",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "f18feced-f73c-4b50-a403-087215e5be5e",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "95a6a552-ac10-4033-81d2-ae895253eba4",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "c389933e-42c9-487f-9fb6-0f09c6830cd2",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "718ca307-e55e-44d0-b85a-66d56d554721",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "f4d06266-0e09-424e-8aff-731f55421e97",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

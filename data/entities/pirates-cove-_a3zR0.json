@@ -1,129 +1,700 @@
 {
-  "id": "a77c4d39-fdd5-4666-b94e-5ed59f176fcd",
-  "slug": "pirates-cove-_a3zR0",
-  "name": "Pirates Cove",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Pirate-themed, dog-friendly haunt is a local go-to for simple American eats & live music.",
-  "phone": "(251) 987-1224",
-  "email": null,
-  "address_line_1": "6664 Co Rd 95, Elberta, AL 36530, USA",
-  "city": "Gulf Coast",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://www.piratescoveriffraff.com/",
-  "rating": 4.5,
-  "review_count": 2649,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a77c4d39-fdd5-4666-b94e-5ed59f176fcd/a77c4d39-fdd5-4666-b94e-5ed59f176fcd_1779139782118.4011.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "a77c4d39-fdd5-4666-b94e-5ed59f176fcd",
+    "place_id": "ChIJKaRD5v2nkIgRB_1fB_a3zR0",
+    "google_maps_uri": "https://maps.google.com/?cid=2147574864639163655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "pirates-cove-_a3zR0",
+    "name": "Pirates Cove",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "hamburger_restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 987-1224",
+    "international_phone": null,
+    "website_url": "http://www.piratescoveriffraff.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "6664 Co Rd 95, Elberta, AL 36530, USA",
+    "address_line_2": null,
+    "city": "Gulf Coast",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.3217538,
+    "longitude": -87.5339626,
+    "short_address": "6664 Co Rd 95, Elberta",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 2649,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Pirate-themed, dog-friendly haunt is a local go-to for simple American eats & live music.",
+    "description": "Pirate-themed, dog-friendly haunt is a local go-to for simple American eats & live music.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a77c4d39-fdd5-4666-b94e-5ed59f176fcd/a77c4d39-fdd5-4666-b94e-5ed59f176fcd_1779139782118.4011.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/piratescoveriffraff",
+    "social_facebook": "https://www.facebook.com/piratescove",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": true,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 9:00 PM",
+      "Tuesday: 8:00 AM – 9:00 PM",
+      "Wednesday: 8:00 AM – 9:00 PM",
+      "Thursday: 8:00 AM – 9:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 11:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Sandwiches",
+          "items": [
+            {
+              "name": "Cheeseburger",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "1/3 lb burger crafted with custom blend of brisket, short rib, and chuck. Topped with cheddar cheese, grilled onions, crisp lettuce, fresh tomato, and house made mustard gin secret sauce",
+              "subcategory": null
+            },
+            {
+              "name": "Double Cheeseburger",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Two 1/3 lb patties made from custom blend of brisket, short rib, and chuck. Stacked with cheddar cheese, grilled onions, crisp lettuce, and fresh tomato, then finished with signature mustard gin sauce",
+              "subcategory": null
+            },
+            {
+              "name": "Bacon Cheeseburger",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "1/3 lb patty with crispy bacon, melted cheddar cheese, grilled onions, lettuce, tomato, and signature mustard gin sauce",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Chicken",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Crispy, juicy white meat chicken strips, lightly breaded and fried golden. Served on a fluffy bun with lettuce, tomato, and mayo",
+              "subcategory": null
+            },
+            {
+              "name": "Grilled Chicken",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "5 oz grilled chicken breast, served on a bun with crisp lettuce, fresh tomato, and classic mayo",
+              "subcategory": null
+            },
+            {
+              "name": "Sausage & Kraut",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Locally made juicy sausage grilled and served with sauerkraut, grilled onions, and classic yellow mustard",
+              "subcategory": null
+            },
+            {
+              "name": "Hotdog",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Classic hot dog served with ketchup, mustard, relish, and chopped onions",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "House Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Grilled Chicken Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Fried Chicken Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cheeseburger Salad",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "World-famous cheeseburger served salad-style. Fresh lettuce topped with juicy tomatoes, sliced onions, shredded mozzarella, and savory crumble of signature Cove burger patty. Finished with Cove Sauce on the side",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Breakfast Sandwiches",
+          "items": [
+            {
+              "name": "Sausage, Egg and Cheese Sandwich",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Grilled sausage link locally made from Farm Fresh Meats, fluffy egg, and melted cheese stacked on a warm, toasted bun. Served 8-10:30am or til we say otherwise",
+              "subcategory": null
+            },
+            {
+              "name": "Ham, Egg and Cheese Sandwich",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Griddled ham, fresh cooked egg, and melted cheese served on a warm, toasted bun. Served 8-10:30am or til we say otherwise",
+              "subcategory": null
+            },
+            {
+              "name": "Bacon, Egg, and Cheese Sandwich",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Crispy bacon, fresh cooked egg, and melted cheese, all stacked on a warm, toasted bun. Served 8-10:30am or til we say otherwise",
+              "subcategory": null
+            },
+            {
+              "name": "Hash Brown",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Golden, crispy, and fried to perfection",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "From the Fryer",
+          "items": [
+            {
+              "name": "Corndog",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Golden, crispy, and straight from the fryer. Lightly battered and fried to perfection. Also available in Gluten Friendly option",
+              "subcategory": null
+            },
+            {
+              "name": "Chicken Fingers",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "4 pieces of lightly breaded, all-white meat chicken strips crispy on the outside, tender on the inside. Also available in Gluten Friendly option",
+              "subcategory": null
+            },
+            {
+              "name": "French Fries",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Freshly cut and fried in rich beef tallow for golden, crispy bite and deep, savory flavor. Also available in Gluten Friendly option",
+              "subcategory": null
+            },
+            {
+              "name": "Onion Rings",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Thick cut, crispy, and golden brown. Crunchy on the outside, sweet and tender inside",
+              "subcategory": null
+            },
+            {
+              "name": "Hot Wings",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Served in 5 or 10-piece orders. Crispy wings drenched in house made hot sauce. Comes with choice of ranch or blue cheese. Also available in Gluten Friendly option",
+              "subcategory": null
+            },
+            {
+              "name": "Platters",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "4-5 servings options: Fries (GF optional), Chicken Fingers (GF optional), 1/2 & 1/2 Fries/Onion Rings, Onion Rings",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Pizza",
+          "items": [
+            {
+              "name": "Karnivorous Karl",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "All meat. Loaded with chicken, sausage, pepperoni, ham, and bacon and then topped with pineapple, tomato, garlic, feta, and melty mozzarella. Built on handmade from scratch crust and fired in wood oven",
+              "subcategory": null
+            },
+            {
+              "name": "Paul's Perfect Pizza",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Pepperoni, ham, sausage, green peppers, banana peppers, and jalapeños, topped with mozzarella on handmade from scratch crust and crisped in woodfired oven",
+              "subcategory": null
+            },
+            {
+              "name": "Lucia's Luau",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Pepperoni, pineapple, feta, and mozzarella on handmade wood fired crust",
+              "subcategory": null
+            },
+            {
+              "name": "JJ's Junk",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Crispy chicken fingers, grilled onions, bacon, and melty mozzarella all baked on handmade wood fired pizza crust then topped with blue cheese and served with house wing sauce",
+              "subcategory": null
+            },
+            {
+              "name": "Mel's Garbage",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Artichoke hearts, banana peppers, black olives, green olives, mushrooms, onions, jalapeños, pepperoni, feta, and mozzarella on handmade crust",
+              "subcategory": null
+            },
+            {
+              "name": "MaryAnn's Mess",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Artichoke hearts, garlic, grilled chicken, bacon, spinach, feta, and mozzarella on handmade crust",
+              "subcategory": null
+            },
+            {
+              "name": "Cove Burger",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Ground beef, cheddar cheese, tomato, onions, and secret mustard gin sauce baked on handmade wood fired crust and topped with crispy fries or onion rings",
+              "subcategory": null
+            },
+            {
+              "name": "Cheese Pizza",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Available in 10\" or 14\" sizes",
+              "subcategory": null
+            },
+            {
+              "name": "Gluten-Friendly Pizza",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "10\" size available",
+              "subcategory": null
+            },
+            {
+              "name": "Create Your Own Pizza",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Choose from marinara, ranch, blue cheese, garlic butter, or Cove sauce. Toppings: mozzarella, feta, pepperoni, grilled chicken, ground beef, ham, sausage, artichoke hearts, banana peppers, black olives, green olives, fresh mushrooms, diced tomatoes, green peppers, jalapeños, fresh garlic, spinach, onions, pineapple",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Drinks",
+          "items": [
+            {
+              "name": "Bushwhacker",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Cold, creamy, and downright legendary. Frozen favorite packs an unforgettable punch, finished with a topper of 151 rum. Available in Regular & Souvenir Cup",
+              "subcategory": null
+            },
+            {
+              "name": "Mixed Drinks",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "1.5 oz Alcohol - Well & Premium options available",
+              "subcategory": null
+            },
+            {
+              "name": "Domestic Beer",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Bud, Bud Light, Miller Lite, Coors Light, Busch Light, Mich Ultra, Yuengling",
+              "subcategory": null
+            },
+            {
+              "name": "Import Beer",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Red Stripe, Tecate, Tecate Light",
+              "subcategory": null
+            },
+            {
+              "name": "MicroBrew",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fairhope 51 (pale ale), Fairhope Cheap Sunglasses (golden ale), Fairhope IPA, Fairhope Pink Delicious (seltzer), Fairhope Amber, Goat Island Blood Orange (tart wheat ale)",
+              "subcategory": null
+            },
+            {
+              "name": "Coca-Cola Products",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "raw-page-data",
+      "consolidation",
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.804093+00:00",
+    "updated_at": "2026-05-18T21:29:47.048448+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
-      "tag": "live_music_venue",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "a4ea8dd9-feb6-4ece-871c-c52f05df7756",
       "tag": "hamburger_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "bar_and_grill",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "marina",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "american_restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "event_venue",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "bar",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "32bcbb8e-d1e9-4626-a18c-4f1339329390",
       "tag": "hamburger_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "bd0a3d42-92ce-46fd-a0d7-bc8a5c37fc47",
       "tag": "bar_and_grill",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "f51089fc-9b33-4014-ac2d-6d07b4856412",
+      "tag": "bar_and_grill",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "4179be53-4bc3-46f0-ba0c-8c9f3ea97e33",
       "tag": "marina",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "6139bb23-31a4-4c9b-8667-da7a941abc42",
+      "tag": "marina",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "d39e166a-99dd-433b-883d-ede2d9987d53",
       "tag": "american_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "54b1ec3b-a515-48c8-958f-5d82336bdaf0",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "14209587-65c4-410c-8e78-b6e0d73f297b",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "3c1f668a-ed19-461a-9f27-a2a44c4552da",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "4cd80c62-7475-420a-9185-b9d0af01a0a2",
       "tag": "live_music_venue",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "070e26cd-d462-4893-8ee3-19d54dc6163d",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "97f00a09-142f-4a2e-91c9-06f049b6b6b0",
       "tag": "event_venue",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "ed936248-a50e-498d-9815-0e37f330ea30",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "66c844a4-2ca5-49e8-8bb7-ac38159d582d",
       "tag": "bar",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "d474bd04-8c7b-4a39-835e-4b21387ba58f",
+      "tag": "bar",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "27f52ea4-a415-4aad-9180-f9dd5385d8b2",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
     },
     {
+      "id": "2033449c-2282-4e6f-96b4-ab4dc9778b0b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "7928df69-9871-410d-9c20-2706faafdc60",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 9
     },
     {
+      "id": "f551bc10-ece7-434e-9a57-b885a2e1bbe0",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "337eb4d8-3ff6-471c-b0d3-f4d650b8ab7e",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 10
     },
     {
+      "id": "a1ce806d-acfc-4de2-9e8e-328255a3b74e",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "155cac35-6c43-4ddb-bbbb-2f64f609493c",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "fa6f7082-a244-41e3-82df-bd45abcac937",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 11
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "ff91eca6-e414-4dc8-8751-74e19461742c",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

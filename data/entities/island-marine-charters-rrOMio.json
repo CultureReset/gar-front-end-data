@@ -1,32 +1,240 @@
 {
-  "id": "79c22b1a-5e5c-4381-9762-4daf4f80091c",
-  "slug": "island-marine-charters-rrOMio",
-  "name": "Island Marine Charters",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 228-2344",
-  "email": null,
-  "website_url": "http://www.islandmarinecharters.com/",
-  "address_line_1": "Buskens Ln, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 124,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/79c22b1a-5e5c-4381-9762-4daf4f80091c/79c22b1a-5e5c-4381-9762-4daf4f80091c_1779139887593.8616.jpg",
-  "photos": [],
+  "entity": {
+    "id": "79c22b1a-5e5c-4381-9762-4daf4f80091c",
+    "place_id": "ChIJvWiOTkwbmogRveDO2rrOMio",
+    "google_maps_uri": "https://maps.google.com/?cid=3040720000358736061&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "island-marine-charters-rrOMio",
+    "name": "Island Marine Charters",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": [],
+    "google_type": "fishing_charter",
+    "google_types": [
+      "fishing_charter",
+      "tour_agency",
+      "travel_agency",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 228-2344",
+    "international_phone": null,
+    "website_url": "http://www.islandmarinecharters.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Buskens Ln, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.259476,
+    "longitude": -87.708454,
+    "short_address": "Buskens Ln, Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 124,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/79c22b1a-5e5c-4381-9762-4daf4f80091c/79c22b1a-5e5c-4381-9762-4daf4f80091c_1779139887593.8616.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.692881+00:00",
+    "updated_at": "2026-05-18T21:31:32.45247+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "c977a06e-b6c1-4b2d-925f-70f7a8136c0d",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "efd4d233-e6f8-40b6-9ad2-bd2450b109ae",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "0422a850-1105-468f-bf08-4f818cedce48",
+      "tag": "tour agency",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "bf36bc45-ee48-4622-a446-3383456d36ad",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "e0941927-4abc-473c-8ce3-f06ba1d3060a",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "c1f67720-5be6-4636-8a88-b4a0394bdad7",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "e51c12c4-385e-4bad-9cf4-60e98e4e1727",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "83d2886d-dee0-4b4f-b6cc-027a9fba2337",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "addc243d-ea0b-4a2c-80c3-d7195b6c7058",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "9074a050-de08-4c6c-9411-3a57993a1798",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "d6b9f0d2-3add-4ade-a968-bf75c9bc74a3",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 10
+    }
+  ],
+  "sections": [
+    {
+      "id": "2b0ffccc-bac5-4cb1-90b1-7463b8b5a98b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

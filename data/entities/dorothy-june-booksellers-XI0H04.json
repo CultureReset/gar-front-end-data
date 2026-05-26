@@ -1,57 +1,243 @@
 {
-  "id": "8b4728bf-ad07-4c56-94b9-54b646273d9f",
-  "slug": "dorothy-june-booksellers-XI0H04",
-  "name": "Dorothy June Booksellers",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 943-1091",
-  "email": null,
-  "address_line_1": "107 W Orange Ave Ste A, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "https://dorothyjunebooksellers.com/",
-  "rating": 4.7,
-  "review_count": 44,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "8b4728bf-ad07-4c56-94b9-54b646273d9f",
+    "place_id": "ChIJDct8CAwPmogR84hsXXI0H04",
+    "google_maps_uri": "https://maps.google.com/?cid=5629275725034719475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "dorothy-june-booksellers-XI0H04",
+    "name": "Dorothy June Booksellers",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "book_store",
+    "google_types": [
+      "book_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-1091",
+    "international_phone": null,
+    "website_url": "https://dorothyjunebooksellers.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "107 W Orange Ave Ste A, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.4050643,
+    "longitude": -87.6842844,
+    "short_address": "107 W Orange Ave Ste A, Foley",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 44,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: 8:30 AM – 5:00 PM",
+      "Wednesday: 8:30 AM – 5:00 PM",
+      "Thursday: 8:30 AM – 5:00 PM",
+      "Friday: 8:30 AM – 5:00 PM",
+      "Saturday: 8:30 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.140955+00:00",
+    "updated_at": "2026-05-17T21:17:42.365889+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "4c7d4cb6-5f42-48eb-a6e8-2f1caa4201f9",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "b60ab545-393a-4923-b32a-91f7054141ea",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "6c5e10ee-ed9c-4d15-a863-d029e4c64566",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "5016040e-778e-4d23-8ec2-2da87828fec0",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "b4fd6fd1-997b-4d29-8d59-ed65624edca3",
       "tag": "book_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "a18c9ed5-e7b0-486d-8d33-4a1290824c0c",
+      "tag": "book_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "bb1619d5-20e3-43eb-9c46-63775e0cb268",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "d010a80f-1ec4-45b6-b57f-06118ad4b2b0",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "8f0ecc1f-32a6-4ff5-970d-b7a82f061921",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "746b42ca-803e-42bc-9d7f-101c3ef15d58",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "a6201515-0af8-4b2f-b48a-b57fd47fda7e",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "82793118-2e00-4b87-95fd-d366c407fa70",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 5
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "8f7119d4-2b35-4ea5-8e2a-43523f876b43",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

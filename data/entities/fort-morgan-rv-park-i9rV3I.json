@@ -1,32 +1,352 @@
 {
-  "id": "3a3c74e4-3fdd-4f7d-bd3f-afd89734db32",
-  "slug": "fort-morgan-rv-park-i9rV3I",
-  "name": "Fort Morgan RV Park",
-  "entity_type": "activity",
-  "entity_subtype": "rv_park",
-  "icon": "🏪",
-  "description": "Small RV campsite near the beach offering laundry & shower facilities & a laid-back atmosphere.",
-  "phone": "(251) 369-6143",
-  "email": null,
-  "website_url": "http://www.fortmorganrvpark.com/",
-  "address_line_1": "10397 2nd St, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.4,
-  "review_count": 271,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/400d6563-8e5f-4572-abc2-7294fa30b592/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "3a3c74e4-3fdd-4f7d-bd3f-afd89734db32",
+    "place_id": "ChIJ30_d868YmogRMBNbMi9rV3I",
+    "google_maps_uri": "https://maps.google.com/?cid=8239171893750076208&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "fort-morgan-rv-park-i9rV3I",
+    "name": "Fort Morgan RV Park",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "rv_park",
+    "secondary_types": "",
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "campground",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 369-6143",
+    "international_phone": null,
+    "website_url": "http://www.fortmorganrvpark.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "10397 2nd St, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.244734,
+    "longitude": -87.84611,
+    "short_address": "10397 2nd St, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 271,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Small RV campsite near the beach offering laundry & shower facilities & a laid-back atmosphere.",
+    "description": "Small RV campsite near the beach offering laundry & shower facilities & a laid-back atmosphere.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/400d6563-8e5f-4572-abc2-7294fa30b592/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: 9:00 AM – 4:00 PM",
+      "Saturday: 9:00 AM – 2:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:25.32704+00:00",
+    "updated_at": "2026-05-18T21:06:34.858636+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "2c87dac6-4ea8-4012-9b0d-276716fb1f1f",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "e47781b1-1478-42e2-81d1-c3ca4962c853",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "839061ce-85ff-45c2-971f-2cb3b61e2146",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "a968ff01-a5de-4fc9-9928-1d00143c8e6b",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "0c766917-0cf7-44ad-88bf-60fef8e4c4b5",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "1d11e968-d698-4b32-a3ac-41500e239830",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "c92a6b37-1032-4666-8d68-c7e24022bcab",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "50871b22-a531-4a35-9238-921cc622a0e8",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "b43d1ca1-d059-4320-8579-8329800671ec",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "3963c15e-3424-4919-8810-364106e6c84c",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "29b81ec5-f4c9-46ee-8bc7-7c453f973660",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "96a1ebe3-0eb3-4dab-bd7b-27b3670db4ce",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "4e2112c2-9af3-42cb-a176-1e177bee0eb9",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "279816da-f186-4925-bcb6-ddac013a062c",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "f8f0c1e4-b9e7-41a9-a93a-a46edd4683c8",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "98a73747-cd44-49f5-9e90-1da74827f290",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "21fa961f-a3c3-400c-a011-3cc80858640b",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "28823b8b-51f4-4936-a46f-703ad7cdd9a5",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "6eee59c5-734c-49b7-bfb6-e56d630d8cd2",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "90bd885b-f6e6-4326-a111-0c2a9ffe2bf6",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "ba1dd33b-aed2-4e13-a9c5-09c50e50ca61",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "8973e01a-416b-4d0a-ad62-09952096ea7d",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "66aec5f0-a711-4055-90c5-4844f4b6a27a",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "77f85c19-b4bb-49ae-ae8c-4da5841da952",
+      "tag": "camping",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "0498f5c8-ad54-40f8-9f73-82b31fea5d0f",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "39df01be-c26a-4064-bcb9-358842d33815",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "27e76f94-5884-4092-b572-b68e4e225522",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "e3534db9-abf5-43a1-9c9d-12a6f92e2436",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "25649856-acae-4296-a12a-50bf8f77f6ba",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "8b46ada5-f332-43ff-a086-983d1b427306",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    }
+  ],
+  "sections": [
+    {
+      "id": "0ffcea07-2eec-4d0f-906f-8cfc7898840d",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,493 @@
 {
-  "id": "83c0c5f0-05a5-4a5c-b1c5-9d2cb5645ffb",
-  "slug": "advanced-carpet-cleaning-restoration-tl-cGY",
-  "name": "Advanced Carpet Cleaning & Restoration",
-  "entity_type": "business",
-  "entity_subtype": "cleaning-services",
-  "icon": "🏪",
-  "description": "Since 2004, Advanced Carpet Cleaning and Restoration has been a proud family-owned and operated business. We take great pride in our work and are committed to ensuring every customer is fully satisfied with the results of their cleaning. We love our small island and the community we serve. Whether it's routine cleaning or support during an unexpected disaster, we're dedicated to taking care of our neighbors with the same respect and reliability we'd give our own family. We don't call ourselves the PROS for nothing. From the beach to the Eastern Shore, our team of IICRC-certified technicians delivers expert cleaning that brings new life to your home or business. Our services go beyond carpets. We clean tile and grout, hardwood and LVP flooring, upholstery, drapes, and more, providing professional results you can see and feel.",
-  "phone": "(251) 955-1234",
-  "email": null,
-  "website_url": "http://callonthepros.com/",
-  "address_line_1": "24252 Canal Rd STE A, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.9,
-  "review_count": 138,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "83c0c5f0-05a5-4a5c-b1c5-9d2cb5645ffb",
+    "place_id": "ChIJyflwTHAGmogREo9L-tl-cGY",
+    "google_maps_uri": "https://maps.google.com/?cid=7381539263932501778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "advanced-carpet-cleaning-restoration-tl-cGY",
+    "name": "Advanced Carpet Cleaning & Restoration",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "cleaning-services",
+    "secondary_types": [],
+    "google_type": "laundry",
+    "google_types": [
+      "laundry",
+      "general_contractor",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 955-1234",
+    "international_phone": null,
+    "website_url": "http://callonthepros.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "24252 Canal Rd STE A, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.289856,
+    "longitude": -87.610346,
+    "short_address": "24252 Canal Rd STE A, Orange Beach",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 138,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Since 2004, Advanced Carpet Cleaning and Restoration has been a proud family-owned and operated business. We take great pride in our work and are committed to ensuring every customer is fully satisfied with the results of their cleaning. We love our small island and the community we serve. Whether it's routine cleaning or support during an unexpected disaster, we're dedicated to taking care of our neighbors with the same respect and reliability we'd give our own family. We don't call ourselves the PROS for nothing. From the beach to the Eastern Shore, our team of IICRC-certified technicians delivers expert cleaning that brings new life to your home or business. Our services go beyond carpets. We clean tile and grout, hardwood and LVP flooring, upholstery, drapes, and more, providing professional results you can see and feel.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/AdvancedCarpetCleaningRestoration/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": null,
+    "hours_text": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: 8:00 AM – 4:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.88986+00:00",
+    "updated_at": "2026-05-17T21:17:46.90634+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "bda933d7-0aed-416d-8a52-03e2cf1e32fb",
+      "tag": "carpet cleaning",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "842e3c33-e6be-4879-aef6-38730d46d9e6",
+      "tag": "floor cleaning",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "76396e25-ba8e-497a-b36b-f771c3e38bc3",
+      "tag": "tile and grout cleaning",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "5eb6ee04-c7ce-4c81-b92c-a9a0f15fb814",
+      "tag": "upholstery cleaning",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "df5d2bd8-cfd0-4075-99fa-58d742db2b02",
+      "tag": "water damage restoration",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "c9b0bd7c-635a-441f-b4e1-47e748ecef10",
+      "tag": "fire damage restoration",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "3dc4bc42-971d-4e45-9620-aac3f699e0dc",
+      "tag": "mold remediation",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "e71dc6cd-bbd2-476c-84f2-de33b27e1533",
+      "tag": "odor removal",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "6b255b19-aa9e-473a-ba3e-b655f19eb06c",
+      "tag": "dryer vent cleaning",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "f1f68a10-e90e-4159-9ba7-2b2cf2ce0627",
+      "tag": "car cleaning",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "1fa91ba9-60b0-424c-af32-2e7b2313eb9b",
+      "tag": "boat cleaning",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "5a345fa5-a3d5-4757-b7a4-abdc7260b97e",
+      "tag": "RV cleaning",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "c4aca785-2f8e-4bb5-a59c-3429c07ab164",
+      "tag": "emergency services",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "2f96057b-0da8-45c5-a195-debfb3311e88",
+      "tag": "24/7 emergency response",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "e7bbbb82-1c09-430d-b20e-77d326e867d6",
+      "tag": "IICRC certified",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "deb894e4-f3a1-4fb9-8b8b-f97e37392c24",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "49b58abe-f192-46d6-9dc6-975bb047b7ba",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "50a2535d-2b1c-451a-9131-e957dde6e27b",
+      "tag": "Baldwin County",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "eb8ad075-ea9c-4994-8e7e-c1ee9916a1ea",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "5b4b4033-b3ba-4ffb-a132-caaa909eba1c",
+      "tag": "family-owned",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "149ebef8-998a-4bf4-b741-bab698df06cd",
+      "tag": "pet odor",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "84007278-a933-4b36-94c8-59bdacd863da",
+      "tag": "smoke odor",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "70155ccf-5aff-4c24-babe-aa788a5069e4",
+      "tag": "water extraction",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "95595a10-815a-4c43-a810-b2ee485181e8",
+      "tag": "hardwood floor cleaning",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "0f5855e6-e7e2-4d80-8bd8-091f940223db",
+      "tag": "area rug cleaning",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "e62c2cbf-ccb3-4634-b3c7-beeb02ac32b6",
+      "tag": "oriental rug cleaning",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "b4f7d030-25c7-477d-a3d2-00f328300e39",
+      "tag": "natural stone cleaning",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "b917a4d6-10e1-413d-835b-3e2cc98542e0",
+      "tag": "vinyl floor cleaning",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "1f15e59f-8306-4cb4-b894-7febb2c7b6d2",
+      "tag": "furniture restoration",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "fa9882e8-d690-4e83-a260-6d7d720c0405",
+      "tag": "mattress cleaning",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "45b2c827-3502-45ce-8d72-a64b8b400155",
+      "tag": "sectional cleaning",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "dd2ce71e-2670-4ac6-90c8-13851a090895",
+      "tag": "sofa cleaning",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "01a69473-f2a5-49f9-a118-15918acb7f9f",
+      "tag": "chair cleaning",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "ac7bd8ae-0b1c-49db-80dc-f755d4d7495e",
+      "tag": "drape cleaning",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "9b15bc0c-655f-4826-825f-74106f179240",
+      "tag": "microfiber cleaning",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "b5a06be6-3347-47c0-b302-52e39db2b274",
+      "tag": "leather cleaning",
+      "tag_category": "type",
+      "sort_order": 35
+    },
+    {
+      "id": "28d7a841-254a-48c4-8c29-e2dab51701e2",
+      "tag": "Cleaning Services",
+      "tag_category": "category",
+      "sort_order": 36
+    },
+    {
+      "id": "5e154a11-7188-4e45-a868-e422b076c1ef",
+      "tag": "Home Services",
+      "tag_category": "category",
+      "sort_order": 37
+    },
+    {
+      "id": "2eff8de3-0278-4e38-9a4b-5c7750b5fc06",
+      "tag": "Carpet Cleaning",
+      "tag_category": "category",
+      "sort_order": 38
+    },
+    {
+      "id": "f982a164-481a-4f96-8443-5968561ca9ad",
+      "tag": "Floor Cleaning",
+      "tag_category": "category",
+      "sort_order": 39
+    },
+    {
+      "id": "b157a5f5-8d52-48f7-ae72-1889cc5b40b7",
+      "tag": "Water Damage Restoration",
+      "tag_category": "category",
+      "sort_order": 40
+    },
+    {
+      "id": "97eb439c-f9d0-4344-bf8a-7d95022a5080",
+      "tag": "Fire Damage Restoration",
+      "tag_category": "category",
+      "sort_order": 41
+    },
+    {
+      "id": "6143b975-5af0-4e42-9485-b8a9aeca51e4",
+      "tag": "Mold Remediation",
+      "tag_category": "category",
+      "sort_order": 42
+    },
+    {
+      "id": "84ef19cc-fc64-453b-88b8-420827e3a837",
+      "tag": "Upholstery Cleaning",
+      "tag_category": "category",
+      "sort_order": 43
+    },
+    {
+      "id": "e4137e1f-bec3-4ceb-84ed-9adba1c79edb",
+      "tag": "Emergency Services",
+      "tag_category": "category",
+      "sort_order": 44
+    },
+    {
+      "id": "9bb70471-bfbd-4c71-8b03-96b088ebfb23",
+      "tag": "Restoration Services",
+      "tag_category": "category",
+      "sort_order": 45
+    },
+    {
+      "id": "e0a525cb-ad10-41a4-b5f6-414596cdc74b",
+      "tag": "Professional Cleaning",
+      "tag_category": "category",
+      "sort_order": 46
+    },
+    {
+      "id": "0c9b2cf8-bbf0-4625-a003-17d931e4daa8",
+      "tag": "home-services",
+      "tag_category": "industry",
+      "sort_order": 47
+    },
+    {
+      "id": "ccf959c3-301c-483f-a9eb-0e7f13050ef9",
+      "tag": "cleaning-services",
+      "tag_category": "type",
+      "sort_order": 48
+    },
+    {
+      "id": "905dc6ee-21d1-483d-99f9-13ce1897a226",
+      "tag": "laundry",
+      "tag_category": "google_type",
+      "sort_order": 49
+    },
+    {
+      "id": "2142d2ef-c07c-4fc8-ba85-dcf461c237d7",
+      "tag": "general_contractor",
+      "tag_category": "google_type",
+      "sort_order": 50
+    },
+    {
+      "id": "fc831d10-99a7-49db-85a6-8edbefab9992",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 51
+    },
+    {
+      "id": "529164ba-c265-4eea-9490-ceb6a167dd79",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 52
+    },
+    {
+      "id": "ce8cf22c-c16a-4f21-99cf-0dd59ceb06c8",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 53
+    }
+  ],
+  "sections": [
+    {
+      "id": "629ba064-234e-412e-968e-334d8491c7de",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

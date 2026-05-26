@@ -1,32 +1,648 @@
 {
-  "id": "81706c63-0ff0-421f-99a9-4311305e33d4",
-  "slug": "angel-hair-salon-boutique-KdoMD4",
-  "name": "Angel Hair Salon & Boutique",
-  "entity_type": "service",
-  "entity_subtype": "salon",
-  "icon": "🏪",
-  "description": "Here at Angel Hair Salon & Boutique, we are dedicated to making you look and feel your best. Our staff is highly trained in all hair types and a wide range of techniques. Whether you are looking for a spunky new do, a jaw dropping makeover, or a glamorous outfit for a night out on the town, our stylists are here to help. Our goal is to give you exactly what you want and the undivided attention you deserve! We offer a wide range of services, guaranteed to make you look and feel fabulous.",
-  "phone": "(251) 923-6992",
-  "email": null,
-  "website_url": "http://myangelhair.com/",
-  "address_line_1": "128 Cove Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 194,
-  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfUyAnvYoiucT1MzxL1ZAoSheT0PxO5o7vxoN7BAT3j9VtXVNJ7WZzrsJtNmtCTfZEnmf4OUN4O5MUU_aXGS9GuGIavEefw-kpErmQkLLevEoip4ujdDjJoJH3Hs2G_MtwFIJzhrD9kHIy0GlpSdFp66t6q3jpxnxyzbdxFFUxCFGai6xPpRJvNmAgw5aqF0qn3Ha9Zn2MU7Sc6Aw6yEOWln-NgG7fa4CXfREFyobSAQUmX1eyhUFaQfqpACr_6-MHYooTghMI6owawX08Ueq53x-Ts0y5rhen-JVwWZh77NQg&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
-  "photos": [],
+  "entity": {
+    "id": "81706c63-0ff0-421f-99a9-4311305e33d4",
+    "place_id": "ChIJr9trw9EEmogRj_nU3KdoMD4",
+    "google_maps_uri": "https://maps.google.com/?cid=4481196699407415695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "angel-hair-salon-boutique-KdoMD4",
+    "name": "Angel Hair Salon & Boutique",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "salon",
+    "secondary_types": [],
+    "google_type": "hair_salon",
+    "google_types": [
+      "hair_salon",
+      "hair_care",
+      "beauty_salon",
+      "clothing_store",
+      "medical_clinic",
+      "health",
+      "point_of_interest",
+      "store",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 923-6992",
+    "international_phone": null,
+    "website_url": "http://myangelhair.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "128 Cove Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2691044,
+    "longitude": -87.6902715,
+    "short_address": "128 Cove Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 194,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Here at Angel Hair Salon & Boutique, we are dedicated to making you look and feel your best. Our staff is highly trained in all hair types and a wide range of techniques. Whether you are looking for a spunky new do, a jaw dropping makeover, or a glamorous outfit for a night out on the town, our stylists are here to help. Our goal is to give you exactly what you want and the undivided attention you deserve! We offer a wide range of services, guaranteed to make you look and feel fabulous.",
+    "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfUyAnvYoiucT1MzxL1ZAoSheT0PxO5o7vxoN7BAT3j9VtXVNJ7WZzrsJtNmtCTfZEnmf4OUN4O5MUU_aXGS9GuGIavEefw-kpErmQkLLevEoip4ujdDjJoJH3Hs2G_MtwFIJzhrD9kHIy0GlpSdFp66t6q3jpxnxyzbdxFFUxCFGai6xPpRJvNmAgw5aqF0qn3Ha9Zn2MU7Sc6Aw6yEOWln-NgG7fa4CXfREFyobSAQUmX1eyhUFaQfqpACr_6-MHYooTghMI6owawX08Ueq53x-Ts0y5rhen-JVwWZh77NQg&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "http://instagram.com/angelhair_salon",
+    "social_facebook": "https://www.facebook.com/vagaropro",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:29.815771+00:00",
+    "updated_at": "2026-05-17T22:22:54.908047+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "40de8492-4c85-4bbf-b7b8-106690f1570d",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "fb5681fc-3049-4ae7-a306-9a0277b4f9df",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "807016d0-c3c1-4d97-a6d3-229b83e105b3",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "13316f66-038b-432e-ad38-f2582370cdab",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "5bb1ae9a-19e2-4e15-8df1-4bc55b06e15e",
+      "tag": "salon",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "9eaf5cb5-ccbf-481f-a6a4-928598dce5fe",
+      "tag": "salon",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "3bab0555-722c-4424-99b7-7636b1a240b1",
+      "tag": "hair salon",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "302af8be-f891-4f83-a560-2b00cc3f64d3",
+      "tag": "hair salon",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "23ea80a4-7d65-457f-ae63-19ff4c049390",
+      "tag": "day spa",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "2aa1591b-6ac8-46fc-bf98-6563225f70c0",
+      "tag": "day spa",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "dd5f8132-0a80-48b4-b880-ba86937acc95",
+      "tag": "hair cuts",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "751e12f6-48e1-43e1-a3ac-57c112a2eb3c",
+      "tag": "hair cuts",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "6c6725d6-cc51-40ef-bb8c-3150607aea8a",
+      "tag": "hair color",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "5a7f6a0b-2f40-4dfd-828a-6375d8e3689e",
+      "tag": "hair color",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "f283581c-6497-48d4-8ccf-720c107254a6",
+      "tag": "extensions",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "6f901e1a-b793-4707-ae17-27ed08a38ed5",
+      "tag": "extensions",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "78d42665-f6d5-488f-9307-a5ee88a57f08",
+      "tag": "botox",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "0e2dddb8-3672-43f9-b9a9-621c77e7c77a",
+      "tag": "botox",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "e1e5c94e-3f2d-456a-8f7b-272f75e1ab98",
+      "tag": "fillers",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "a8db2521-3be1-4f5d-915b-56d4118dec2f",
+      "tag": "fillers",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "69d4e3f3-f592-4502-8677-b911bcc2718d",
+      "tag": "makeup",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "83afb2ce-48b2-4eb2-91e9-311e96310836",
+      "tag": "makeup",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "843ae89f-1739-4fc5-839e-8becfaf44a9b",
+      "tag": "lashes",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "9c4ae009-b281-4d25-96ed-11e734afa6ff",
+      "tag": "lashes",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "8d32f742-a55d-4493-8f0d-a10f800dcf7f",
+      "tag": "brows",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "e4521197-8b36-4627-b70e-1e1165b02a6a",
+      "tag": "brows",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "5ad4ef30-f22d-4558-bc3e-31489e93b8f0",
+      "tag": "waxing",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "e9c1079b-628e-445e-86d9-e1c3c3e51410",
+      "tag": "waxing",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "f9fcbcb3-7adf-4ad7-b717-ed9f90fc033d",
+      "tag": "bridal",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "44fd4f1f-e2ae-4870-a54b-e8e59316c54d",
+      "tag": "bridal",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "6513341c-f9c0-4696-80de-e80fd5c9f58c",
+      "tag": "prom",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "f0f114d4-e907-4208-80c9-693c1989acae",
+      "tag": "prom",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "c3f6adb2-7a4f-474d-9824-792990203c67",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "9174cb7a-62e6-40f5-953f-0d8c7265f4f1",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "a9d7c13c-7cf9-46fa-8e0f-bce1ef153e44",
+      "tag": "beauty services",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "e67e9ded-4038-4762-9634-a2fc5571deea",
+      "tag": "beauty services",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "29b67a1d-7ff9-49be-9a01-f96de5b619cd",
+      "tag": "hair treatment",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "cf7bad65-bce4-4d1c-9de3-f6d1668e08a8",
+      "tag": "hair treatment",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "2b90ca5d-8f4e-48e8-9b12-f840f0283f78",
+      "tag": "keratin",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "0b8d0abb-4ec6-4013-8ef9-80deaf954eca",
+      "tag": "keratin",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "08cd2197-d69a-4521-94fb-89a2e2031f4f",
+      "tag": "Brazilian blowout",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "bf8550af-e903-4877-9630-f45d8b40b4bb",
+      "tag": "Brazilian blowout",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "4fd435a7-29c9-48bf-9de4-ef03e367964b",
+      "tag": "Hair Salons",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "9213c5de-9ae4-45fd-ac39-a742cb23d5ad",
+      "tag": "Hair Salons",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "43235f0e-d6d8-4786-a603-a23ba10867f9",
+      "tag": "Day Spas",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "8c59c09d-74c2-4476-9923-44ba0af2cb02",
+      "tag": "Day Spas",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "bd66aa41-77a3-4ff6-bc33-35bf890f5e47",
+      "tag": "Beauty Services",
+      "tag_category": "category",
+      "sort_order": 23
+    },
+    {
+      "id": "8998493b-0023-4574-9ee6-e40a440b6ad3",
+      "tag": "Beauty Services",
+      "tag_category": "category",
+      "sort_order": 23
+    },
+    {
+      "id": "5c9efe1d-a93d-49fb-83eb-a87fad16797e",
+      "tag": "Hair Extensions",
+      "tag_category": "category",
+      "sort_order": 24
+    },
+    {
+      "id": "f1b32c68-a1b5-440c-a18e-8d06cdf778f0",
+      "tag": "Hair Extensions",
+      "tag_category": "category",
+      "sort_order": 24
+    },
+    {
+      "id": "be6d6169-1a12-44e3-bc79-e64d6b991aa4",
+      "tag": "Makeup Services",
+      "tag_category": "category",
+      "sort_order": 25
+    },
+    {
+      "id": "eff984de-d603-4fa6-9b69-a96564d6b8e5",
+      "tag": "Makeup Services",
+      "tag_category": "category",
+      "sort_order": 25
+    },
+    {
+      "id": "865872cf-6330-4886-a39f-03ea271850ab",
+      "tag": "Cosmetic Procedures",
+      "tag_category": "category",
+      "sort_order": 26
+    },
+    {
+      "id": "5054686e-63ba-4a64-a463-211844609ba8",
+      "tag": "Cosmetic Procedures",
+      "tag_category": "category",
+      "sort_order": 26
+    },
+    {
+      "id": "bd0358ca-0eb4-4b16-b7e0-e2a5ce5776cc",
+      "tag": "Bridal Services",
+      "tag_category": "category",
+      "sort_order": 27
+    },
+    {
+      "id": "0a4779ba-14ae-4f5a-9693-5df50cc13387",
+      "tag": "Bridal Services",
+      "tag_category": "category",
+      "sort_order": 27
+    },
+    {
+      "id": "b3ba1ef8-a498-4970-85c9-a094b8780fbd",
+      "tag": "beauty-and-wellness",
+      "tag_category": "industry",
+      "sort_order": 28
+    },
+    {
+      "id": "5bc0c7d2-468c-49c1-8e16-dcf8d5f741ac",
+      "tag": "beauty-and-wellness",
+      "tag_category": "industry",
+      "sort_order": 28
+    },
+    {
+      "id": "79b84ba1-5292-4706-8c26-0eb9fed3167a",
+      "tag": "hair_salon",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "ba8f6c60-7bb1-4215-bcbe-c6e0e33cadf2",
+      "tag": "hair_salon",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "4cea8874-21b0-49f1-8575-1606c2140b64",
+      "tag": "hair_care",
+      "tag_category": "google_type",
+      "sort_order": 30
+    },
+    {
+      "id": "e4ec2f84-8840-47dc-a2e9-a41a395d75ff",
+      "tag": "hair_care",
+      "tag_category": "google_type",
+      "sort_order": 30
+    },
+    {
+      "id": "f6caf523-61fc-4ae0-ae6e-cc459ea91f9e",
+      "tag": "beauty_salon",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "f44dd6c5-da46-47a3-b1c1-e4f889fb6f8d",
+      "tag": "beauty_salon",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "2b017c29-91b9-4220-b4d7-0c383ffc81aa",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "39e9333c-01cd-420e-960b-4410a00e3856",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "38445d21-eb0b-452b-aa36-dadea2205c86",
+      "tag": "medical_clinic",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "4f7df1ef-627b-4fe6-937f-3a93fb724f18",
+      "tag": "medical_clinic",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "db4ed8eb-3916-446d-bbd0-5b7f3f62bf09",
+      "tag": "health",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "3b02bb32-bbde-402c-9b74-2a1e9da406f6",
+      "tag": "health",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "6fdcd555-c9e2-4c43-92a1-12919cbd2421",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "e1308194-1e17-450b-9111-8e316742f9b4",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "090a0d1f-1fc8-48a1-83c8-c0db487bf978",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "326356d8-6112-434b-9b26-c2f80aea6ec0",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "b2b2d8c9-b735-4766-801d-cf7374a7b68d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "71ccab5c-0fab-4ba7-987d-496ef84396ce",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "cf3e7af4-c5d0-4822-877d-57a6e7e45486",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "f6a1039d-adc7-4e19-b1ae-2c26a8a018a5",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 38
+    }
+  ],
+  "sections": [
+    {
+      "id": "f2e36b0f-df06-4426-ba1e-2ec9652a6c3f",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

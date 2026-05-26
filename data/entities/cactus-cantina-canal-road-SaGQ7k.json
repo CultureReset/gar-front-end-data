@@ -1,32 +1,467 @@
 {
-  "id": "659c515c-e526-4b91-9714-32ba8be24a15",
-  "slug": "cactus-cantina-canal-road-SaGQ7k",
-  "name": "Cactus Cantina Canal Road",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Started by cousins Michael and Bobby in 2011 in McDonough, Georgia. The Gulf Shores location opened in March 2013. Now operates six locations across Alabama, Georgia, and Florida. Known for laid-back Mexican cuisine by the beach.",
-  "phone": "(251) 974-0060",
-  "email": null,
-  "website_url": "http://www.mycactuscantina.com/",
-  "address_line_1": "25908 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": null,
-  "rating": 4.3,
-  "review_count": 1196,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139645369.0713.jpg",
-  "photos": [],
+  "entity": {
+    "id": "659c515c-e526-4b91-9714-32ba8be24a15",
+    "place_id": "ChIJp0rKPUwGmogRMAA9nSaGQ7k",
+    "google_maps_uri": "https://maps.google.com/?cid=13349661220861182000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "cactus-cantina-canal-road-SaGQ7k",
+    "name": "Cactus Cantina Canal Road",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "mexican_restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 974-0060",
+    "international_phone": null,
+    "website_url": "http://www.mycactuscantina.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25908 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2909049,
+    "longitude": -87.5832107,
+    "short_address": "25908 Canal Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.3,
+    "review_count": 1196,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Casual, high-ceilinged space for tacos, fajitas & other Mexican staples, along with patio dining.",
+    "description": "Started by cousins Michael and Bobby in 2011 in McDonough, Georgia. The Gulf Shores location opened in March 2013. Now operates six locations across Alabama, Georgia, and Florida. Known for laid-back Mexican cuisine by the beach.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139645369.0713.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:30 PM",
+      "Saturday: 11:00 AM – 9:30 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://mycactuscantina.com/",
+      "menu": {
+        "categories": []
+      },
+      "tags": [
+        "Mexican",
+        "casual",
+        "beach",
+        "Gulf Coast"
+      ],
+      "type": "Restaurant",
+      "about": {
+        "vibe": "Laid back beach casual",
+        "best_for": [
+          "casual dining",
+          "families",
+          "beach-goers"
+        ],
+        "description": "Started by cousins Michael and Bobby in 2011 in McDonough, Georgia. The Gulf Shores location opened in March 2013. Now operates six locations across Alabama, Georgia, and Florida. Known for laid-back Mexican cuisine by the beach.",
+        "established": "2013",
+        "insider_tip": null,
+        "reservations": null,
+        "elevator_pitch": "Voted Best Mexican Food on the Gulf Coast, offering casual Mexican dining with multiple locations across the Southeast."
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": "Gulf Shores",
+        "email": null,
+        "phone": null,
+        "state": "Alabama",
+        "address": null
+      },
+      "gallery": [
+        "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/gnfqtbpr/dc84011d-f4f6-4f55-8004-de1f117ba28b.jpg",
+        "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/gnfqtbpr/92da579a-04ec-4790-bc7b-1c3c2ac2bee8.jpg",
+        "https://popmenucloud.com/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/gnfqtbpr/68d21b46-ba2d-41a1-a84e-2adf22017389.jpg"
+      ],
+      "sources": [
+        "http://mycactuscantina.com",
+        "https://www.mycactuscantina.com/contact-us",
+        "https://www.mycactuscantina.com/about",
+        "https://www.mycactuscantina.com/menu",
+        "https://www.mycactuscantina.com",
+        "https://www.mycactuscantina.com/Catering",
+        "https://www.mycactuscantina.com/photos",
+        "https://www.mycactuscantina.com/directions",
+        "https://www.mycactuscantina.com/employment",
+        "https://www.mycactuscantina.com/reviews"
+      ],
+      "tagline": "Laid Back Mexican Cuisine By The Beach",
+      "features": [
+        "VIP program",
+        "catering",
+        "multiple locations"
+      ],
+      "specials": [],
+      "scraped_at": "2026-03-22T01:36:35.574Z",
+      "price_range": "$$",
+      "extracted_at": "2026-03-23T03:33:20.241Z",
+      "social_links": {
+        "website": "http://mycactuscantina.com",
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Cactus Cantina Mexican Grill"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data",
+      "scraped-menus"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139645974.838.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139646567.4216.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139646979.913.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139647177.7273.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139647605.4756.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139648003.7341.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139648326.1003.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139648821.0251.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/659c515c-e526-4b91-9714-32ba8be24a15/659c515c-e526-4b91-9714-32ba8be24a15_1779139649036.9348.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:16.691199+00:00",
+    "updated_at": "2026-05-18T21:27:34.099539+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "f8d80c18-ef2d-462f-a9b2-f617d0cd12ee",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "6cbdbdd9-fad3-4083-a48d-397f70a5170e",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "6c7ff7a5-95b9-42af-8187-f1d40508b762",
+      "tag": "mexican restaurant",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "d774b84e-26d9-4872-bd31-3f7c307fea12",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "16b6d933-7de9-46d8-ab3c-5016504a1bd9",
+      "tag": "sports bar",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "c67bac1c-46ed-46a9-93d8-a4aea10e718f",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "c302c277-a385-4ca7-8d2b-cf7360b1c0c3",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "fe706f24-2879-411d-bf2e-68afda1b934b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "37684a7e-a704-48f1-8fe4-d0edd5a10b7f",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 8
+    },
+    {
+      "id": "601f65f7-4e12-450b-9a6e-1a08e75fc60d",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 9
+    },
+    {
+      "id": "ba215d45-c34e-43fa-8505-b18cff5e268b",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "4264f6c9-6ddf-412d-a66e-f565dc5fecb6",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "21b28c6e-0107-4c4a-b8ce-7008bb8c8a39",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "4ebd7156-1c44-49f2-a779-e631a3969586",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "2cf2ade5-3e75-449a-9080-5d5d61f14f6b",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 14
+    },
+    {
+      "id": "77bd47c3-c0a3-467c-a4f5-f87552b0ecab",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 15
+    },
+    {
+      "id": "600e06ec-aff4-4e5c-a054-137bafb9bb2f",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 16
+    },
+    {
+      "id": "09f81381-da53-4224-a5bd-4e55c9f2596e",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 17
+    },
+    {
+      "id": "cb8fbc14-cc4c-4361-bb50-05e134d5ca23",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 18
+    },
+    {
+      "id": "9e19bdd5-4f84-4e14-b78b-8d3962e36de0",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 19
+    },
+    {
+      "id": "244e82b3-7622-4a66-aaa7-f17bed9062db",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 20
+    },
+    {
+      "id": "496340bd-2068-496b-98ac-f057737e87e6",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "947987bc-cabd-4cb3-9439-a348bd1a20de",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 22
+    },
+    {
+      "id": "d60550d6-e059-4eb2-854c-05f1214d7642",
+      "tag": "mexican",
+      "tag_category": "food",
+      "sort_order": 23
+    },
+    {
+      "id": "967b6301-87b7-417b-bcc6-0559fc5684dc",
+      "tag": "mexican_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "a5d0cf39-80df-4e19-9632-ddd04b6df7b2",
+      "tag": "tacos",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "f4600183-bc4f-4aeb-a4c2-3d93074ac741",
+      "tag": "margaritas",
+      "tag_category": "search",
+      "sort_order": 26
+    },
+    {
+      "id": "997a7b82-056e-415d-99ea-c9fe793c095e",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 27
+    },
+    {
+      "id": "ca652e10-49c9-4f27-b672-6c0e335696bc",
+      "tag": "beach",
+      "tag_category": "search",
+      "sort_order": 28
+    },
+    {
+      "id": "6052b3ef-edcc-4443-9b28-e69ef4672ddc",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 29
+    },
+    {
+      "id": "7da9aff0-636a-4ea6-bf5d-fc29c7a6c060",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 30
+    },
+    {
+      "id": "d7287376-cb20-4381-b12a-2a54bc3b4082",
+      "tag": "sports_bar",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "275a2505-94c5-4c69-9c8b-cc31ed6346bf",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 32
+    }
+  ],
+  "sections": [
+    {
+      "id": "8da70795-5021-45b2-9f99-70a866f12de7",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

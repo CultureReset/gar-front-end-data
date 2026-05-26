@@ -1,32 +1,621 @@
 {
-  "id": "32c38728-599e-4a0d-b223-b9be92c18e31",
-  "slug": "gourmet-world-market-6IHaTg",
-  "name": "Gourmet World Market",
-  "entity_type": "restaurant",
-  "entity_subtype": "sandwich_shop",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 285-5431",
-  "email": null,
-  "website_url": "https://www.facebook.com/gourmetworldmarketal",
-  "address_line_1": "Pelican Place At Craft Farms, 3800 Gulf Shores Pkwy UNIT 310, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.8,
-  "review_count": 335,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139891378.0576.jpg",
-  "photos": [],
+  "entity": {
+    "id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+    "place_id": "ChIJxxwt8EAFmogRbnUWC6IHaTg",
+    "google_maps_uri": "https://maps.google.com/?cid=4064788531230700910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gourmet-world-market-6IHaTg",
+    "name": "Gourmet World Market",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "sandwich_shop",
+    "secondary_types": "",
+    "google_type": "sandwich_shop",
+    "google_types": [
+      "sandwich_shop",
+      "coffee_shop",
+      "eastern_european_restaurant",
+      "liquor_store",
+      "cafe",
+      "grocery_store",
+      "food_store",
+      "ukrainian_restaurant",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 285-5431",
+    "international_phone": null,
+    "website_url": "https://www.facebook.com/gourmetworldmarketal",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Pelican Place At Craft Farms, 3800 Gulf Shores Pkwy UNIT 310, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3016279,
+    "longitude": -87.681465,
+    "short_address": "Pelican Place At Craft Farms, 3800 Gulf Shores Pkwy UNIT 310, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 335,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139891378.0576.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": null,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 10:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.787635+00:00",
+    "updated_at": "2026-05-18T21:31:36.484371+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "110990dd-4135-4467-b253-9862408e60e4",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 0
+    },
+    {
+      "id": "ad9c8aa1-71ad-4d12-909b-a13961170150",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 1
+    },
+    {
+      "id": "dedfea3c-14ea-4b0c-9bf7-e22142b86898",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 2
+    },
+    {
+      "id": "82bf5077-c61f-41fc-a75d-a2bfb3aacd9a",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "bb1c0ca1-22f4-43cb-9a23-032e9174f95d",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 4
+    },
+    {
+      "id": "3226725c-5f8b-4f97-af59-6232aaaf898e",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 5
+    },
+    {
+      "id": "eff3efe2-b467-4d53-bd01-ec6207c62745",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "ad1216d8-1b27-4954-a300-7d635df66c76",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 7
+    },
+    {
+      "id": "c8bb41e8-1612-474d-a7be-ac2179d99cbc",
+      "tag": "sandwich shop",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "b36bd6d5-0951-43c5-a819-9b43e4ef47ae",
+      "tag": "grocery store",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "fccaca7f-83af-47d0-a3a5-89f046c40d51",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "a54b4fa9-74f0-4d5f-9c98-721a05808ee3",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 11
+    },
+    {
+      "id": "d1709668-5ba2-4dbd-8e38-4a9505999f0f",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "455ff072-367e-4213-b855-1090f06630bd",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "c4fa64cd-85d4-4a2f-8cb6-f072bd9b2e0c",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "ba1840ac-2f45-44dc-8c8a-acb54921d34f",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "56427518-2afd-46d1-a32a-a5a148974ca4",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "877c101c-ed4d-4d6c-9aa1-07c4a9cdbcf1",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "8571e406-a2f9-458b-b2b2-ed4d3119fe26",
+      "tag": "eastern european restaurant",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "b33c50ba-6771-4d01-9b61-702ab9a04a57",
+      "tag": "ukrainian restaurant",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "b768d1d5-bcd6-4c6f-b9e9-5648d46b5087",
+      "tag": "liquor store",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "7a6f3316-ce31-4845-93cf-8030e13b124d",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "0f7571e0-38d7-42b3-9e45-b20112392e39",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "cec3df16-7554-4d7d-bb34-4ad1f03c735d",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "2e4498b3-05c2-40c8-a79f-8290a22045e2",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "6e01de20-3f5f-4dff-aa70-6f282f1975a4",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "42957ecf-a1e4-4adb-bd67-3be4684c39bd",
+      "tag": "sandwich_shop",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "d7accc67-24ea-43dd-a8de-0d58ea302444",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "bb896515-4b3e-4f4e-89a7-6af17183d545",
+      "tag": "ukrainian_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "ac4f2d76-a29a-418f-ae8a-d49602c092e5",
+      "tag": "eastern_european_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "0175e28d-1e19-46a0-abb1-396a24d80c40",
+      "tag": "liquor_store",
+      "tag_category": "google_type",
+      "sort_order": 30
+    },
+    {
+      "id": "eb3bed65-7d61-4ceb-9c5e-333e37dee5f0",
+      "tag": "grocery_store",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "daa2b3ed-d9e9-4b06-9376-215f74473865",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "37b9dd12-cb08-4f8e-b39d-a3f5bc293f06",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "5fa8917d-5cd8-4dd0-a6d4-0843d7b6c842",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "f98036a5-afa8-4078-baa2-428b49de19e6",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 35
+    }
+  ],
+  "sections": [
+    {
+      "id": "7670032b-9f7a-426a-bee5-7e98d5a69078",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "2448ba9a-d3ff-469d-97be-69852b39bc7e",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131958501.1265.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:20.162505+00:00"
+    },
+    {
+      "id": "cf233da1-f6b3-4698-adcb-3a8357752071",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131959867.0686.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:20.89477+00:00"
+    },
+    {
+      "id": "596182ab-4529-4b42-8a55-b7bde970c90f",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779132145179.9543.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:21.711177+00:00"
+    },
+    {
+      "id": "9929af03-5854-493c-abaf-d0477a1551ed",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139694494.8132.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:22.498983+00:00"
+    },
+    {
+      "id": "1b9212b3-0d19-4e74-a81c-352bc3ea3d49",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139696538.9834.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:23.346219+00:00"
+    },
+    {
+      "id": "b7d08ad1-94d6-4a08-be65-4ba78dc281c3",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131958702.2424.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:20.316334+00:00"
+    },
+    {
+      "id": "6065d109-0f7e-4f0c-83e5-2003a93fa9b2",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131960340.1084.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:21.11988+00:00"
+    },
+    {
+      "id": "629bd119-98e8-41f9-adc7-79ec92aa5b6b",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139693340.5464.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:21.85482+00:00"
+    },
+    {
+      "id": "0ee951cb-d90f-45e4-b014-156e7fbe4263",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139694902.086.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:22.658276+00:00"
+    },
+    {
+      "id": "2467d026-732c-463a-8cd7-f92aa3ff0322",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139891378.0576.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:23.513239+00:00"
+    },
+    {
+      "id": "2dc3422d-8d06-4224-8f55-89955b167267",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131958912.4783.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:20.459975+00:00"
+    },
+    {
+      "id": "01b70986-cfab-4dfb-8406-2e7a4f5f94f6",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131960593.2534.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:21.260096+00:00"
+    },
+    {
+      "id": "c417dad4-49f1-493a-898b-5e24cb58ea8a",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139693675.4578.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:22.002346+00:00"
+    },
+    {
+      "id": "8f118617-6435-4fe4-9d2a-cde653575700",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139695409.657.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:22.804543+00:00"
+    },
+    {
+      "id": "b57320b2-afbf-4f50-8d78-d6fdc15127d2",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131431145.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:19.859142+00:00"
+    },
+    {
+      "id": "3a68722a-daf0-457f-81ec-a05da064c692",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131959108.5007.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:20.606628+00:00"
+    },
+    {
+      "id": "fd0e1cec-0cce-4860-824a-044dd9a2525b",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131960886.918.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:21.403813+00:00"
+    },
+    {
+      "id": "b040baa2-4d3d-4e31-844a-462451bb0dee",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139693885.2158.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:22.171507+00:00"
+    },
+    {
+      "id": "d3a67d71-da17-4c17-a665-22058404e955",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139695926.1472.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:22.957377+00:00"
+    },
+    {
+      "id": "d527bc79-021d-48cc-aba0-ba338e2cfd16",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131608093.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:20.009895+00:00"
+    },
+    {
+      "id": "f598e5d8-0302-4b75-bcff-80fc4749f8e7",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131959656.42.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:20.754031+00:00"
+    },
+    {
+      "id": "b03e19ec-c0ed-4370-8122-abb567f90fdf",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779131961295.7344.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:21.560912+00:00"
+    },
+    {
+      "id": "f4ceca5c-7b30-4208-bb9e-f1ff4a772736",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139694175.6748.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:22.356302+00:00"
+    },
+    {
+      "id": "e25cf2a7-1a33-4835-9e3b-e63c24c567b2",
+      "entity_id": "32c38728-599e-4a0d-b223-b9be92c18e31",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/32c38728-599e-4a0d-b223-b9be92c18e31/32c38728-599e-4a0d-b223-b9be92c18e31_1779139696178.059.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:23.160154+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

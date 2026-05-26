@@ -1,32 +1,398 @@
 {
-  "id": "bfaaf1d9-1578-442b-950b-2904e09f2538",
-  "slug": "bolo-steak-seafood-YLPpSM",
-  "name": "BOLO Steak & Seafood",
-  "entity_type": "restaurant",
-  "entity_subtype": "steak_house",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 345-6739",
-  "email": null,
-  "website_url": "https://www.bolorestaurantoba.com/",
-  "address_line_1": "27370 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "27370",
-  "rating": 4.4,
-  "review_count": 170,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/650aee8b-70ab-4de5-8ff7-366b1b33d5fe/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "bfaaf1d9-1578-442b-950b-2904e09f2538",
+    "place_id": "ChIJR3jFMAAHmogRiQMZkYLPpSM",
+    "google_maps_uri": "https://maps.google.com/?cid=2568687322171769737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "bolo-steak-seafood-YLPpSM",
+    "name": "BOLO Steak & Seafood",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "steak_house",
+    "secondary_types": [],
+    "google_type": "steak_house",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 345-6739",
+    "international_phone": null,
+    "website_url": "https://www.bolorestaurantoba.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27370 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "27370",
+    "latitude": 30.2941672,
+    "longitude": -87.5583959,
+    "short_address": "27370 Canal Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 170,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/650aee8b-70ab-4de5-8ff7-366b1b33d5fe/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 4:00 – 9:00 PM",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 9:00 PM",
+      "Saturday: 4:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": {
+        "categories": []
+      },
+      "hours": {
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "images": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null,
+        "website": null
+      },
+      "features": [],
+      "specials": [],
+      "description": null,
+      "price_range": null,
+      "cuisine_type": null,
+      "extracted_at": "2026-05-16T19:11:12.098Z",
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": null
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.315137+00:00",
+    "updated_at": "2026-05-17T22:22:53.80589+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "71781a76-7c91-4fa9-a5ad-bdff5e9651ae",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 0
+    },
+    {
+      "id": "80ab1215-a196-488f-b096-a7c87eb9154c",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 1
+    },
+    {
+      "id": "757d8757-3921-42c0-badd-005fb49eb87b",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 2
+    },
+    {
+      "id": "5a4f97d9-0ae0-4a8a-a2da-da706c4d3666",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "4efec265-0fe0-445a-ae75-c4091e7fcb4c",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 4
+    },
+    {
+      "id": "ca02334f-850c-4bc3-a66d-ba3c282a3984",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 5
+    },
+    {
+      "id": "f9dfe493-bcc5-46e6-827e-cd1e6e595dde",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "0f10b490-43c2-4849-bd9f-780e57a32dae",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "2c80d4db-1a27-4244-a19c-c5f5880790c2",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "05ca1507-118e-49e3-9f23-23d565396b6a",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "b9774e42-6ffa-43b3-ab09-854be67c5d0a",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "6d639b86-65f6-4cf5-a8b9-7b4aaecad92b",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "3c1d4cad-07ec-4d36-8b95-cfcac04b457d",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "b07aa88d-9758-4c9a-b4b2-f660448cacfc",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "7738bec4-100f-4922-a239-b85217b5da5b",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 14
+    },
+    {
+      "id": "73e461d5-e904-488d-872f-877c8a0fbeb8",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 15
+    },
+    {
+      "id": "2b3cba38-2d8a-4a2d-b580-522062da2605",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "6fab6150-3d05-44f6-b548-457598f14c14",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "1403fd02-9df8-4b03-bf2d-dc666751df3a",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "1705ac64-c11a-4662-94e2-7af41acb3d35",
+      "tag": "steak house",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "f3db43e3-d258-4b43-a006-6d8dfc71cb88",
+      "tag": "steaks",
+      "tag_category": "food",
+      "sort_order": 20
+    },
+    {
+      "id": "d6bbd9ad-137b-4bea-bfc5-d4463ac3479f",
+      "tag": "Steakhouse",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "3092675c-77e6-414a-b924-fe417b8f0a1a",
+      "tag": "Special Occasion",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "8493e3b4-8064-41da-846f-992c4d8183ad",
+      "tag": "Seafood",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "0ccebf5b-bcf0-4ae9-b2d2-322e633f9628",
+      "tag": "Wine Bar",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "57a69b00-ec1f-4a15-a83a-8cdd1859a46c",
+      "tag": "Upscale",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "5935efec-5f80-4422-b67b-b1cbb6ec1fbd",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 26
+    },
+    {
+      "id": "e5fa1bc1-fed8-4848-94fa-6764bf8b458a",
+      "tag": "Fine Dining",
+      "tag_category": "search",
+      "sort_order": 27
+    },
+    {
+      "id": "d2d2c23d-c153-4517-b54e-a735fbafd024",
+      "tag": "Romantic",
+      "tag_category": "search",
+      "sort_order": 28
+    },
+    {
+      "id": "becd77d2-ef6b-40eb-b417-95e1b7b31f1e",
+      "tag": "steak_house",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "f1c91904-661a-4d7e-93c1-e165198d4fc2",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 30
+    }
+  ],
+  "sections": [
+    {
+      "id": "be6f49f9-18e5-4c2e-bb41-75141e1d75d6",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

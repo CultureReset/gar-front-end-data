@@ -1,32 +1,440 @@
 {
-  "id": "b5c260c7-2d5d-454d-a14d-1831f7c29f10",
-  "slug": "cabana-8-at-turquoise-place-UDtNPI",
-  "name": "Cabana 8 at Turquoise Place",
-  "entity_type": "shopping",
-  "entity_subtype": "clothing_store",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 923-5402",
-  "email": null,
-  "website_url": "https://turquoiseplace.spectrumresorts.com/amenities/cabana-8/?utm_source=google_places&utm_medium=referral",
-  "address_line_1": "26350 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 3.5,
-  "review_count": 4,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/eacb452c-18e6-47c0-be0c-d20f4bb13c2a/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "b5c260c7-2d5d-454d-a14d-1831f7c29f10",
+    "place_id": "ChIJPUGR0wYHmogRfatUwUDtNPI",
+    "google_maps_uri": "https://maps.google.com/?cid=17452835318344756093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "cabana-8-at-turquoise-place-UDtNPI",
+    "name": "Cabana 8 at Turquoise Place",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "clothing_store",
+    "secondary_types": [],
+    "google_type": "clothing_store",
+    "google_types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 923-5402",
+    "international_phone": null,
+    "website_url": "https://turquoiseplace.spectrumresorts.com/amenities/cabana-8/?utm_source=google_places&utm_medium=referral",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26350 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2718755,
+    "longitude": -87.5732569,
+    "short_address": "26350 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 3.5,
+    "review_count": 4,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/eacb452c-18e6-47c0-be0c-d20f4bb13c2a/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.brett-robinson.com/beach-condo/turquoise-place/",
+      "tags": [
+        "beachfront",
+        "family-friendly",
+        "luxury",
+        "pools",
+        "resort-style",
+        "Orange Beach",
+        "Alabama Gulf Coast"
+      ],
+      "type": "Condo Resort",
+      "about": {
+        "floors": null,
+        "check_in": null,
+        "check_out": null,
+        "year_built": null,
+        "description": "Turquoise Place is a beachfront condo resort in Orange Beach, Alabama, managed by Brett/Robinson Vacation Rentals, a family-owned company with over 40 years of experience. The property offers beachfront condos with modern amenities, resort-style pools, and direct Gulf access.",
+        "total_units": null,
+        "minimum_stay": "3 nights",
+        "pet_friendly": false,
+        "elevator_pitch": "Beachfront luxury condo resort in Orange Beach with premier amenities and family-friendly accommodations on the Gulf of Mexico.",
+        "age_restriction": "Must be 25 years of age to book"
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "dining": [],
+      "contact": {
+        "zip": "36561",
+        "city": "Orange Beach",
+        "email": null,
+        "phone": "1-800-211-7892",
+        "state": "AL",
+        "address": "26350 Perdido Beach Blvd"
+      },
+      "gallery": [
+        "https://www.brett-robinson.com/assets/images/BRV-25-95-Vacations-Logo-GS-OB-PK-Horizontal-V2.png",
+        "https://www.brett-robinson.com/uploads/BRV-26-25--Easter-30-Days-WebpageGraphic_184150.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-27--Mothers-Day-60-Days-WebpageGraphic_185358.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-11-Memorial-Day-Stays-V1-WebpageGraphic_150618.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-14-4-Bedroom-WebpageGraphic-V4_105813.jpg",
+        "https://www.brett-robinson.com/uploads/lFullSizeRender_110222.jpg",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024446PM_144957.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024255PM_144955.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024250PM_144952.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024550PM_145000.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024658PM_145003.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024800PM_145005.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024929PM_150512.png",
+        "https://www.brett-robinson.com/uploads/45dcbabd-14da-4c03-86b9-e33b1bec1699_152424.png",
+        "https://www.brett-robinson.com/uploads/f7c22236-e96b-4131-a6ef-3b8c161f6d60_152431.png",
+        "https://www.brett-robinson.com/uploads/114f4761-0d52-45a5-adf7-626f0144ccf1_152427.png",
+        "https://www.brett-robinson.com/uploads/7ea53f3d-a24b-4d65-96fa-e5f6adaf272d_152421.png",
+        "https://www.brett-robinson.com/uploads/b96b1f24-e333-42bc-9e47-d77fd57855e4_152429.png",
+        "https://www.brett-robinson.com/uploads/732961ba-7d13-4aa9-9294-690e2e1f3420_153528.png",
+        "https://www.brett-robinson.com/uploads/31e08f79-9b97-4008-a4c9-aac831c9b812_153520.png",
+        "https://www.brett-robinson.com/uploads/bad38faf-f976-4ddb-bf87-78b7a03d52df_153530.png",
+        "https://www.brett-robinson.com/uploads/9c90c840-9dd2-46b1-bc95-cc5c75810af3_153523.png",
+        "https://www.brett-robinson.com/uploads/9703bb55-7293-4a01-ad02-34e7793ffbd7_153525.png"
+      ],
+      "sources": [
+        "https://www.brett-robinson.com/beach-condo/turquoise-place",
+        "https://www.brett-robinson.com/specials-and-promotions",
+        "https://www.brett-robinson.com/specials-and-promotions/4bedrooms?icid=4+bedrooms&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/charming-beachfront-stays-for-a-tranquil-getaway?icid=Hidden-Gems&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/memorial90?icid=Memorial-Day-90&startDate=2026-05-21&endDate=2026-05-24",
+        "https://www.brett-robinson.com/specials-and-promotions/mothers-day-1?icid=Mothers-Day&startDate=2026-05-07&endDate=2026-05-09",
+        "https://www.brett-robinson.com/specials-and-promotions/spring-informationalb?icid=Spring-InformationalB&startDate=2026-03-05&endDate=2026-03-08",
+        "https://www.brett-robinson.com/specials-and-promotions/easter?icid=Easter&startDate=2026-04-02&endDate=2026-04-05",
+        "https://www.brett-robinson.com/history-of-brettrobinson",
+        "https://www.brett-robinson.com/gulf-shores-orange-beach-events",
+        "https://www.brett-robinson.com/about-brett-robinson",
+        "https://www.brett-robinson.com/office-locations",
+        "https://www.brett-robinson.com/contact",
+        "https://www.brett-robinson.com/driving-directions"
+      ],
+      "tagline": null,
+      "features": [
+        "on-site covered parking",
+        "on-site reserved parking",
+        "private beach access",
+        "elevators",
+        "beach chair rentals",
+        "zero entry pool",
+        "lazy river",
+        "sauna",
+        "steam room",
+        "tennis courts",
+        "indoor pool",
+        "outdoor pool",
+        "kiddie pool",
+        "hot tub",
+        "bbq grills",
+        "washer/dryer in units"
+      ],
+      "location": {
+        "bay_view": false,
+        "beachfront": true,
+        "description": "Beachfront on Gulf of Mexico in Orange Beach, Alabama"
+      },
+      "specials": [
+        {
+          "name": "Seasonal Discounts",
+          "dates": "Year-round",
+          "description": "Seasonal promotions and discounts on select dates throughout the year"
+        },
+        {
+          "name": "Snowbird Specials",
+          "dates": "Seasonal",
+          "description": "Special rates for longer stays during winter months"
+        },
+        {
+          "name": "Last-Minute Deals",
+          "dates": "Ongoing",
+          "description": "Last-minute discounts on available inventory"
+        },
+        {
+          "name": "Promo Codes",
+          "dates": "Varies",
+          "description": "Percentage-off promotions with codes (past examples include Bama2025 for 10% savings)"
+        }
+      ],
+      "amenities": {
+        "spa": false,
+        "gated": false,
+        "other": [
+          "sauna",
+          "steam room",
+          "beach chair rentals",
+          "washer/dryer in units"
+        ],
+        "pools": [
+          "outdoor pool",
+          "indoor pool",
+          "lazy river",
+          "zero entry pool",
+          "kiddie pool"
+        ],
+        "parking": "on-site covered parking, on-site reserved parking",
+        "hot_tubs": true,
+        "elevators": true,
+        "bbq_grills": true,
+        "bar_on_site": false,
+        "tennis_courts": true,
+        "fitness_center": false,
+        "business_center": false,
+        "kids_splash_pad": false,
+        "pickleball_courts": false,
+        "restaurant_on_site": false,
+        "private_beach_access": true
+      },
+      "scraped_at": "2026-03-21T21:23:35.917Z",
+      "unit_types": [
+        {
+          "name": "Turquoise Place C2602",
+          "view": "beach front",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [
+            "television",
+            "washer",
+            "dryer",
+            "essentials"
+          ],
+          "bathrooms": null,
+          "starting_price": null
+        }
+      ],
+      "extracted_at": "2026-03-23T04:16:06.422Z",
+      "social_links": {
+        "website": "https://www.brett-robinson.com/beach-condo/turquoise-place/",
+        "facebook": "https://www.facebook.com/BrettRobinsonVacations",
+        "instagram": "https://www.instagram.com/brett_robinson_vacations"
+      },
+      "business_name": "Turquoise Place"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:27.38073+00:00",
+    "updated_at": "2026-05-17T22:22:53.680995+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "23d0b3b5-af18-4c06-9d82-c7864e671a00",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "58482a58-069d-4c60-865a-6aa042286927",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "a339cf9a-e300-4592-8fd1-d5aa17ee46f1",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "e76f0cd8-5aef-4bf1-9065-7f9796e8152b",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "69445b0d-925b-4ac2-a46d-3b9cd91ded9a",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "e93741cc-f765-4660-b348-77a79d96bfce",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "22fced57-1ec8-48ff-93ad-f60f53d35dc0",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "32e8ed53-574e-41e9-a24b-7a40d5e2f908",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "7d49b4ac-b1ba-4f27-a488-de3fe176eaa7",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "54598736-0664-475b-8322-b3cff5e6d205",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "723bb577-bc2a-4e6c-95fe-d594116c65b2",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "3779746d-58c4-4a57-bea8-4dc5094efe83",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "5808e263-eada-4880-8da1-517c315bb675",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "695895e8-6e3c-4e59-bb34-5047d39d81c7",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "5ac0aef1-c544-4b87-b910-ceacad15a4cd",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "602c8e4e-9934-4d59-9926-7718884eeab8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "017ff72d-badf-470b-bcb6-6901bbf8c694",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

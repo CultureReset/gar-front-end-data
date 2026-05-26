@@ -1,200 +1,138 @@
 {
-  "id": "39c209d0-f0b2-4ed0-9b48-47069397c7ff",
-  "slug": "cobalt-the-restaurant",
-  "name": "Cobalt the Restaurant",
-  "entity_type": "restaurants",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "Seafood & happy hours on an expansive patio at a busy spot with boat slips for those coming by sea.",
-  "phone": "(251) 923-5300",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "28099 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "",
-  "state": "",
-  "zip": null,
-  "rating": 4.5,
-  "review_count": null,
-  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN0zS7Ig3Adah2f8vDv0kp8SBIwNbSpeiLc-awATrXKibO8Uz8re8gqV0B5LjKuuO-J9_rt3SM8zYyY4TJBxbCNyjxY8aqTp7xW8tjZ_YwWb_oP_gyuJvm3zPDioAPz1pUnji4U92lNJ01eRphjvfzUfnNxtg0cX4tQuZn2a9bDqxIHDCX12-O133fLZvtvHpfGMR_QQY7JWVaAArzonBXU1GX6klyM8R7txqZi6775-ENFKzOvxZvcwR-jTSXlz-uIUiO3GJbDxrYTEDETon3t4BAezE6jHHTDysly0bAsLdP1Pmv4KsXw4yX7K_SuEqKkRodKZUdooEfyWbvH29XnQwJHKsFHQQi38qWojmDTcCsEFRD3e2BDlqOWzYINSBw2dBHzHrVy_eH727cZlHBuohBps-kMW7DuoNJVqZ_J-Ms2YDA1Fo-Ul1BVRT626&key=AIzaSyA53S45dU9xRY5D-YKfEPPIHA1cP_nBvTY",
+  "entity": {
+    "id": "b0ca4427-bbfd-4ae9-9c1f-e0dbfdd0076c",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "cobalt-the-restaurant",
+    "name": "Cobalt, The Restaurant",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "251-923-5300",
+    "international_phone": null,
+    "website_url": "https://cobaltrestaurant.net/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "28099 Perdido Beach Blvd, Orange Beach, AL 36561",
+    "address_line_2": null,
+    "city": null,
+    "state": "AL",
+    "zip": null,
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": "Come experience contemporary coastal cuisine at its best. Cobalt the Restaurant, located in Orange Beach, features authentic dishes crafted by renowned chefs in three distinct kitchens. Nestled under the Perdido Pass Bridge, next to Caribe Resort, patrons can enjoy a spectacular view of the bay from every table. For those who wish to approach by water, there are numerous boat slips available for small boats as well as medium-sized yachts. However you choose to arrive, Cobalt offers a casual and relaxing atmosphere with waterfront dining, live music, and superior service. Open daily for lunch and dinner.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/cobalttherestaurant/",
+    "social_facebook": "https://www.facebook.com/cobalttherestaurant/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-21T04:57:24.374312+00:00",
+    "updated_at": "2026-05-21T04:57:24.374312+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": "Contemporary Coastal Cuisine",
+    "atmosphere": "Casual and relaxing waterfront dining with live music",
+    "extraction_confidence": "high",
+    "extraction_timestamp": "2026-05-15T06:36:38.673+00:00",
+    "extraction_notes": "Successfully extracted comprehensive restaurant data including contact information, hours, menu highlights, happy hour details, and social media links. Full detailed menu with pricing not available on homepage - appears to be on separate menu pages. No information found regarding: catering menu details, private events capacity/pricing, delivery services, accessibility details, dress code, gift cards, loyalty programs, full wine list, or detailed reviews. The website appears to have separate pages for menus, catering, and events which would contain additional details.",
+    "social_twitter": "https://twitter.com/Cobaltoba",
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
   "photos": [],
-  "hours": "Monday: 11:00 AM – 9:30 PM; Tuesday: 11:00 AM – 9:30 PM; Wednesday: 11:00 AM – 9:30 PM; Thursday: 11:00 AM – 9:30 PM; Friday: 11:00 AM – 10:00 PM; Saturday: 11:00 AM – 10:00 PM; Sunday: 11:00 AM – 9:30 PM",
-  "menu_sections": [],
-  "drink_sections": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [
-    "establishment",
-    "food",
-    "point_of_interest",
-    "restaurant",
-    {
-      "tag": "seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "coastal-cuisine",
-      "tag_category": null
-    },
-    {
-      "tag": "waterfront-dining",
-      "tag_category": null
-    },
-    {
-      "tag": "contemporary",
-      "tag_category": null
-    },
-    {
-      "tag": "happy-hour",
-      "tag_category": null
-    },
-    {
-      "tag": "live-music",
-      "tag_category": null
-    },
-    {
-      "tag": "brunch",
-      "tag_category": null
-    },
-    {
-      "tag": "catering",
-      "tag_category": null
-    },
-    {
-      "tag": "orange-beach",
-      "tag_category": null
-    },
-    {
-      "tag": "bay-view",
-      "tag_category": null
-    },
-    {
-      "tag": "dock-dining",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Seafood",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Waterfront Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Fine Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Coastal Cuisine",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Happy Hour",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Live Music",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Brunch",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Catering",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Events",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    },
-    {
-      "tag": "pasta",
-      "tag_category": null
-    },
-    {
-      "tag": "pizza",
-      "tag_category": null
-    },
-    {
-      "tag": "breakfast",
-      "tag_category": null
-    },
-    {
-      "tag": "full-bar",
-      "tag_category": null
-    },
-    {
-      "tag": "waterfront",
-      "tag_category": null
-    },
-    {
-      "tag": "catering",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Waterfront Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Catering",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Full Bar",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Events",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    }
-  ],
-  "featured": false,
-  "is_active": true,
-  "address": "28099 Perdido Beach Blvd",
-  "menus": [],
-  "website": "http://www.cobaltrestaurant.net/",
-  "google_places_id": "ChIJs5Kz5JwHmogRyeMoXBx1gX8",
-  "businesses": [
-    {
-      "source": "orange-beach-restaurants.json",
-      "name": "Cobalt The Restaurant",
-      "phone": "2519235300",
-      "address": "",
-      "placeId": "",
-      "website": ""
-    }
-  ],
-  "consolidatedAt": "2026-05-22T11:53:22.407Z"
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,560 @@
 {
-  "id": "a7d4c417-fe33-4cff-9aed-d50b22eba940",
-  "slug": "hazels-nook-qRH4Bk",
-  "name": "Hazel's Nook",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Once you visit Hazel's Nook, you'll continue to come back for more. If you're in the mood for some good ole' southern cooking, there's no place better. Located in Gulf Shores Alabama, and original since 1957, Hazel's Nook is a tiny mom-&-pop destination for breakfast and lunch buffets and menu items, with retro décor & checkered tablecloths. We offer it all from our Old Time Country Breakfast to our world famous Gumbo. Our two different menus have a wide assortment of different types of food, tasty flavors, and entrees to try. When it comes to types of foods, we have everything from country style home cooking, seafood, to 'creating your own' omelet by adding your choice of extras. Our breakfast menu has it all, from ordering select entrees off the list, a well-stocked breakfast buffet, omelet bar with many different extras to choose from, a fresh fruit station, and we let's not forget our five different types of cakes. From the well-known classic, Egg's Benedict, we also offer our famous Bienville Omelet with the option of being stuffed with crabmeat, or Cajun shrimp straight from the Gulf Coast caught daily topped off with a melt in your mouth Hollandaise sauce. Our lunch menu is second to none, including, Hazel's 'Famous Fried Shrimp,' entree, our piled high Shrimp Po-Boy, and lastly but not least, our Conecuh BLT. And if it's seafood your craving, our seafood specials consist of a wide variety of finger licking treats. From our all-you-can-eat seafood buffet to world-famous gumbo, from many more favorites to choose from, you won't be disappointed when you come to visit Hazel's Nook.",
-  "phone": "(251) 968-7065",
-  "email": null,
-  "website_url": "https://www.hazelsnook.com/",
-  "address_line_1": "120 E Fort Morgan Rd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.3,
-  "review_count": 2090,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "a7d4c417-fe33-4cff-9aed-d50b22eba940",
+    "place_id": "ChIJG5QYzwMmmogRIWgCeqRH4Bk",
+    "google_maps_uri": "https://maps.google.com/?cid=1864569017478572065&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "hazels-nook-qRH4Bk",
+    "name": "Hazel's Nook",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "breakfast_restaurant",
+    "google_types": [
+      "breakfast_restaurant",
+      "buffet_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-7065",
+    "international_phone": null,
+    "website_url": "https://www.hazelsnook.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "120 E Fort Morgan Rd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2651903,
+    "longitude": -87.6877266,
+    "short_address": "120 E Fort Morgan Rd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.3,
+    "review_count": 2090,
+    "price_level": "INEXPENSIVE",
+    "business_status": "CLOSED_PERMANENTLY",
+    "editorial_summary": "Tiny mom-&-pop destination for breakfast & lunch buffets, with retro decor & checkered tablecloths.",
+    "description": "Once you visit Hazel's Nook, you'll continue to come back for more. If you're in the mood for some good ole' southern cooking, there's no place better. Located in Gulf Shores Alabama, and original since 1957, Hazel's Nook is a tiny mom-&-pop destination for breakfast and lunch buffets and menu items, with retro décor & checkered tablecloths. We offer it all from our Old Time Country Breakfast to our world famous Gumbo. Our two different menus have a wide assortment of different types of food, tasty flavors, and entrees to try. When it comes to types of foods, we have everything from country style home cooking, seafood, to 'creating your own' omelet by adding your choice of extras. Our breakfast menu has it all, from ordering select entrees off the list, a well-stocked breakfast buffet, omelet bar with many different extras to choose from, a fresh fruit station, and we let's not forget our five different types of cakes. From the well-known classic, Egg's Benedict, we also offer our famous Bienville Omelet with the option of being stuffed with crabmeat, or Cajun shrimp straight from the Gulf Coast caught daily topped off with a melt in your mouth Hollandaise sauce. Our lunch menu is second to none, including, Hazel's 'Famous Fried Shrimp,' entree, our piled high Shrimp Po-Boy, and lastly but not least, our Conecuh BLT. And if it's seafood your craving, our seafood specials consist of a wide variety of finger licking treats. From our all-you-can-eat seafood buffet to world-famous gumbo, from many more favorites to choose from, you won't be disappointed when you come to visit Hazel's Nook.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/hazelsnookgulfshores/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://hazelsnook.com",
+      "menu": {
+        "categories": []
+      },
+      "note": "Website currently unavailable - bandwidth limit exceeded. No data could be extracted.",
+      "tags": [],
+      "type": null,
+      "about": {
+        "vibe": null,
+        "best_for": [],
+        "description": null,
+        "established": null,
+        "insider_tip": null,
+        "reservations": null,
+        "elevator_pitch": null
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null
+      },
+      "gallery": [],
+      "sources": [
+        "https://hazelsnook.com"
+      ],
+      "tagline": null,
+      "features": [],
+      "specials": [],
+      "scraped_at": "2026-03-22T02:46:26.776Z",
+      "price_range": null,
+      "extracted_at": "2026-03-23T03:46:47.573Z",
+      "social_links": {
+        "website": "https://hazelsnook.com",
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "hazelsnook.com"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.45857+00:00",
+    "updated_at": "2026-05-17T21:17:42.586489+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "a358f317-ddf5-4c2b-b43a-56cadc538ca0",
+      "tag": "breakfast buffet",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "4bbf35c9-88e4-476d-80d2-b33fa3a87575",
+      "tag": "breakfast buffet",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "939c15bd-372c-4d99-ae64-227d06cdac5d",
+      "tag": "lunch buffet",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "902fcb55-e4c0-42e5-9737-726151d2dc94",
+      "tag": "lunch buffet",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "0906c5a5-3812-4dd9-b67f-c2a609dd1b88",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "2e5e4ab7-267a-44fd-b047-8a1d28641d51",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "9d76ad33-8c75-41cf-a44c-7ceb960a1380",
+      "tag": "Southern cooking",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "3edb5163-0743-48f4-a80a-8b05b4c69437",
+      "tag": "Southern cooking",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "346f5c64-7d36-44a1-a4c1-ab4416c7fb37",
+      "tag": "buffet restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "b6ad3b2e-23d8-4b89-9f6a-26206bc15c66",
+      "tag": "buffet restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "c337872c-1735-4ae3-9108-95d8a34ab5b6",
+      "tag": "family dining",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "9473dc8f-f1b0-49af-b0f0-4e90cc111c99",
+      "tag": "family dining",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "48d2bc6d-b85f-47fc-952a-99d08f6a376a",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "3c1ab74b-3be1-4899-9cd2-69e983e54d12",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "4cf77238-fbe3-423d-b3f3-3e0a97164f46",
+      "tag": "retro diner",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "246ce0ac-a02c-4b33-b7ce-19a6a9bbbe65",
+      "tag": "retro diner",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "dc180c9f-6c7b-4285-9509-d71ad22905ee",
+      "tag": "omelets",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "37f8d72c-cc53-472d-92e6-5e4880655f24",
+      "tag": "omelets",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "346b647d-8326-4583-8362-5eab8558f753",
+      "tag": "fried shrimp",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "8fa2efc6-a7b2-40cb-9db4-148ac48ef0fe",
+      "tag": "fried shrimp",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "2addbfa0-f4f1-40dc-b029-6696de4940ee",
+      "tag": "po-boys",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "0473d76b-89c1-40cb-8cb2-5fb1dd109b8f",
+      "tag": "po-boys",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "1aafc2f8-e174-4e83-85e8-f2177510230e",
+      "tag": "sandwiches",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "45804ea1-ffca-423f-8c9e-cb3de5803542",
+      "tag": "sandwiches",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "427e5e0a-d5c0-4637-9123-367e77ca91ed",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "8af0ce50-098f-4437-8682-f27ca26af422",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "aec55c25-00a5-4613-a3af-438cf8489264",
+      "tag": "seafood",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "81f6c5ca-33bb-4037-9b24-2b3c2970228b",
+      "tag": "seafood",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "46978e39-f773-4b6d-8303-6b5316a209a7",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "6f1e7305-5b36-4fe2-95a1-cce89b220123",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "98f67880-e913-428d-826c-a91631a9ed77",
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "1bcab5b9-20c7-42d4-80ab-996f0af27fd5",
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "86b7e23f-545c-4d8b-823a-19a38f2de54c",
+      "tag": "Buffet Restaurants",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "731eee04-526a-4df1-9830-3737208bf521",
+      "tag": "Buffet Restaurants",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "fd74b5dc-2c7b-4864-ad3f-adbed3c7c454",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "b909ec9f-e0a4-4294-a6c6-2c389bd3e945",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "d1b4c506-2dd1-4b49-8f5f-0e9a3432f429",
+      "tag": "Southern Food",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "5e529f72-1d1c-4251-a58f-96aaa0176a53",
+      "tag": "Southern Food",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "d141154d-3899-4005-8bbb-b02ded06e473",
+      "tag": "Seafood",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "f6de9594-1f66-4cea-96b4-7aecf8f8df5a",
+      "tag": "Seafood",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "77962163-bcf3-4a7f-b32c-f78c7efb744e",
+      "tag": "Local Favorites",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "208857c8-bbfe-43a9-b285-d0ee7db63a45",
+      "tag": "Local Favorites",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "0f503a71-6eae-492d-a59c-ee1de5f3387a",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 21
+    },
+    {
+      "id": "cd277f7e-9d08-447e-8483-f6ebcee23564",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 21
+    },
+    {
+      "id": "fa558609-7cb1-4adc-9c7c-64fdb696d1d8",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "5b577e08-3a86-4108-a2fc-a3ce3bdaafc0",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "087f37d4-3105-411e-a9a6-7c5b0752aac3",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "42826760-ea56-4be8-9ddc-3dbbadede99b",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "f0b68501-8baf-45de-9242-1434eb3e0bc0",
+      "tag": "buffet_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "6920956c-a7f9-446e-abeb-72b6f37dcbfa",
+      "tag": "buffet_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "154da3ae-333e-4909-b416-a71c0732ed84",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "3e0003a2-5413-4652-a26f-ae5c035b09f1",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "afac457c-0cc9-4fe1-956f-e089b278397d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "58f57cd3-f91d-45ba-98ab-bd67540f9ebb",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "ff688547-d3fd-4bec-8f7f-d042765bfe48",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "8458afed-0bb9-46f9-b588-66f657f2efd7",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 27
+    }
+  ],
+  "sections": [
+    {
+      "id": "5a0f3fce-6cd1-4004-aa7d-47f0e84759eb",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

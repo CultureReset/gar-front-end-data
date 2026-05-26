@@ -1,32 +1,405 @@
 {
-  "id": "d22b723e-5830-48f1-9797-50392ac64ece",
-  "slug": "dels-ice-cream-tVtQG8",
-  "name": "Del's ice cream",
-  "entity_type": "restaurant",
-  "entity_subtype": "ice_cream_shop",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(833) 983-2680",
-  "email": null,
-  "website_url": "https://www.delsicecream.com/",
-  "address_line_1": "610 W Beach Blvd Suite A, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.8,
-  "review_count": 29,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/f3c475fc-6e0e-43f9-a8f1-00b5bc00b335/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "d22b723e-5830-48f1-9797-50392ac64ece",
+    "place_id": "ChIJ2dMnjikbmogRIJ52ztVtQG8",
+    "google_maps_uri": "https://maps.google.com/?cid=8016528101778824736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "dels-ice-cream-tVtQG8",
+    "name": "Del's ice cream",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "ice_cream_shop",
+    "secondary_types": [],
+    "google_type": "ice_cream_shop",
+    "google_types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(833) 983-2680",
+    "international_phone": null,
+    "website_url": "https://www.delsicecream.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "610 W Beach Blvd Suite A, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2472541,
+    "longitude": -87.6993634,
+    "short_address": "610 W Beach Blvd Suite A, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 29,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/f3c475fc-6e0e-43f9-a8f1-00b5bc00b335/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Ice Cream",
+          "items": [
+            {
+              "name": "Homemade Ice Cream Flavors",
+              "tags": [
+                "homemade"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "36 unique flavors in store, 80 rotating flavors daily",
+              "subcategory": null
+            },
+            {
+              "name": "Sundaes",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Banana Splits",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Milkshakes",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Floats",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Dietary Options",
+          "items": [
+            {
+              "name": "Dairy Free Ice Cream",
+              "tags": [
+                "dairy-free"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Sugar Free Ice Cream",
+              "tags": [
+                "sugar-free"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:25.32704+00:00",
+    "updated_at": "2026-05-17T22:48:08.421728+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "5cf08233-7427-4e0c-bbd4-82fccb0d30a6",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "bebfd742-3c7e-4abf-82ec-538260ae5c4e",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "101de736-4a3f-4ccc-8105-54e9a2b84695",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "3a2179e1-d64e-4fce-b462-422c1f5a56eb",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "3419400b-a99c-4d61-b608-316804471050",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "11a93ea5-0cc6-47db-a06b-a0dafbad8a98",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "e72dc4d9-4b8e-4032-8c87-6f8d907276bb",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "e1e6d7ab-a100-41d1-8814-d0be94b0cf49",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "f12f7a05-027f-4804-b41b-2512e39ddc74",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "c1a91d1d-127c-4026-a995-c0d7849a92a8",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "18343820-8ed6-49c0-82ca-5fac385dcada",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "d0742fe4-986f-4908-9803-e3bb08d8d70c",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "3760af64-b472-4e5d-b038-8d65fa4865ab",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "87799fa4-6881-4558-bb35-c5c07ccb95e6",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "60aec786-a007-4530-9cd9-f0f18004c6b1",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "b888d867-3602-41fb-ba4b-7ff0bddb785f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "83118460-700f-47b6-8000-2dbc26c53315",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "4f39b012-240a-4bae-a604-54391ada7357",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "92615287-761d-4b81-b187-a3f8cbb1d604",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "d4d490ff-7149-46a3-9f7f-82ad51091140",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "ba6f9ee2-4e33-4723-82e7-7a77d0f17191",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "a9a8cb28-7546-4080-92f3-064c679566d5",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "bce5497d-d72f-45f0-ba8a-7366f32153dc",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "e5ef9c78-e1ed-4ce2-948c-eb9a1e34e39b",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "9fa8c7f8-3f46-493b-92df-459371212e15",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

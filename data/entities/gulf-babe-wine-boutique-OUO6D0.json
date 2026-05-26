@@ -1,32 +1,880 @@
 {
-  "id": "b14861c0-5ff5-487b-b5f8-baec638c9fa9",
-  "slug": "gulf-babe-wine-boutique-OUO6D0",
-  "name": "Gulf Babe Wine Boutique",
-  "entity_type": "bar",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "Gulf Babe was born out of a selfish need for a good glass of wine, a true craft martini, and a place where women actually had a seat at the bar. Founded by Andrea Elenz (Texas) and VP, Rhiannon Harpel (Indiana), Gulf Babe is the women's sports bar we were all waiting for—where the wine flows, the martinis hit just right, and the vibe is always coastal, feminine, and fun. Gulf Babe is more than just wine – it's a lifestyle. A place to feel confident, comfortable, and completely yourself. Come sip, unwind, and remember that being a babe is a state of mind, no matter the day.",
-  "phone": "(251) 495-0573",
-  "email": null,
-  "website_url": "http://gulfbabe.com/",
-  "address_line_1": "4593 Main St Suite C-101, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 5,
-  "review_count": 372,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/b14861c0-5ff5-487b-b5f8-baec638c9fa9/b14861c0-5ff5-487b-b5f8-baec638c9fa9_1779139791298.3755.jpg",
-  "photos": [],
+  "entity": {
+    "id": "b14861c0-5ff5-487b-b5f8-baec638c9fa9",
+    "place_id": "ChIJRwMb9JsFmogR_sX34OUO6D0",
+    "google_maps_uri": "https://maps.google.com/?cid=4460831811395110398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-babe-wine-boutique-OUO6D0",
+    "name": "Gulf Babe Wine Boutique",
+    "subtitle": null,
+    "entity_type": "bar",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "bar",
+    "google_types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 495-0573",
+    "international_phone": null,
+    "website_url": "http://gulfbabe.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4593 Main St Suite C-101, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2905268,
+    "longitude": -87.6275037,
+    "short_address": "4593 Main St Suite C-101, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 372,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Gulf Babe was born out of a selfish need for a good glass of wine, a true craft martini, and a place where women actually had a seat at the bar. Founded by Andrea Elenz (Texas) and VP, Rhiannon Harpel (Indiana), Gulf Babe is the women's sports bar we were all waiting for—where the wine flows, the martinis hit just right, and the vibe is always coastal, feminine, and fun. Gulf Babe is more than just wine – it's a lifestyle. A place to feel confident, comfortable, and completely yourself. Come sip, unwind, and remember that being a babe is a state of mind, no matter the day.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/b14861c0-5ff5-487b-b5f8-baec638c9fa9/b14861c0-5ff5-487b-b5f8-baec638c9fa9_1779139791298.3755.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/gulfbabe_wineboutique",
+    "social_facebook": "https://www.facebook.com/profile.php?id=61561421729540",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM �� 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://gulfbabe.com/",
+      "pages": [
+        {
+          "url": "https://gulfbabe.com",
+          "meta": {
+            "og:url": "https://gulfbabe.com/",
+            "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+            "og:type": "website",
+            "og:image": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/Your-favorite-pink-bar-on-the-gulf-coast-1.png?fit=1200%2C630&ssl=1",
+            "og:title": "Gulf Babe Wine Boutique",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Site Kit by Google 1.178.0",
+            "og:locale": "en_US",
+            "og:site_name": "Gulf Babe Wine Boutique",
+            "twitter:card": "summary_large_image",
+            "og:image:type": "image/png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "msapplication-TileImage": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=270%2C270&ssl=1"
+          },
+          "text": "Skip to content\n\nHomeFull MenuReservationsPrivate Event ReservationsVIP ReservationsUpcoming EventsAboutThe Gulf Babe PodcastJoin the Wine Club!Gulf Babe BlogShop Merch\n\nInstagram\n\nFacebook\n\nTikTok\n\nSpotify\n\nDiscover Your new favorite pink bar on the gulf coasT!\n\nGulf Babe is more than just wine – it’s a lifestyle. A place to feel confident, comfortable, and completely yourself. Come sip, unwind, and remember that being a babe is a state of mind, no matter the day.\n\nFollow us\n\n@gulfbabe_wineboutique\n\nWeekly Events\n\nMahjong Monday\n\nEVERY MONDAY\n\nJoin us every Monday from 5PM–9PM for open Mahjong play at Gulf Babe Wine Boutique. Whether you’re a seasoned pro, newly obsessed, or just Mahjong-curious, this is your weekly excuse to gather, sip, and play.\n\n Open Play Every Monday\n\nSee More Events!\n\nYappy Hour\n\nTUES & THURS FROM 2-6 PM\n\nYour new favorite weekly happy hour at the pink bar. Join us for drink specials, good vibes, and the perfect excuse to unwind with your girls. Whether you’re kicking off the night or just stopping by, Yappy Hour is all about sipping, socializing, and making it a vibe.\n\ngulf babe\n\nSee More Events!\n\nLocation\n\n4593 Main St. Suite C-101 \n\nOrange Beach, AL 36561 \n\nHours\n\nMonday-Thursday 11am-9pm\n\nFriday-Saturday 11am-12am\n\nSunday 11am-8pm\n\nContact\n\n251.495.0573gulfbabewine@gmail.com\n\nDesigned by Rip Tide Marketing LLC\n\nView our Privacy Policy \n\n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n Loading Comments...\n \n \n \n \n \n \n Write a Comment...\n \n \n \n \n Email (Required)\n \n \n \n Name (Required)\n \n \n \n Website",
+          "title": "Gulf Babe Wine Boutique -",
+          "structuredData": [
+            {
+              "@graph": [
+                {
+                  "@id": "https://gulfbabe.com/",
+                  "url": "https://gulfbabe.com/",
+                  "name": "Gulf Babe Wine Boutique -",
+                  "@type": "CollectionPage",
+                  "about": {
+                    "@id": "https://gulfbabe.com/#organization"
+                  },
+                  "isPartOf": {
+                    "@id": "https://gulfbabe.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://gulfbabe.com/#breadcrumb"
+                  },
+                  "inLanguage": "en-US"
+                },
+                {
+                  "@id": "https://gulfbabe.com/#breadcrumb",
+                  "@type": "BreadcrumbList",
+                  "itemListElement": [
+                    {
+                      "name": "Home",
+                      "@type": "ListItem",
+                      "position": 1
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/#website",
+                  "url": "https://gulfbabe.com/",
+                  "name": "Gulf Babe Wine Boutique",
+                  "@type": "WebSite",
+                  "publisher": {
+                    "@id": "https://gulfbabe.com/#organization"
+                  },
+                  "inLanguage": "en-US",
+                  "description": "",
+                  "potentialAction": [
+                    {
+                      "@type": "SearchAction",
+                      "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://gulfbabe.com/?s={search_term_string}"
+                      },
+                      "query-input": {
+                        "@type": "PropertyValueSpecification",
+                        "valueName": "search_term_string",
+                        "valueRequired": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/#organization",
+                  "url": "https://gulfbabe.com/",
+                  "logo": {
+                    "@id": "https://gulfbabe.com/#/schema/logo/image/",
+                    "url": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=512%2C512&ssl=1",
+                    "@type": "ImageObject",
+                    "width": 512,
+                    "height": 512,
+                    "caption": "Gulf Babe Wine Boutique",
+                    "contentUrl": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=512%2C512&ssl=1",
+                    "inLanguage": "en-US"
+                  },
+                  "name": "Gulf Babe Wine Boutique",
+                  "@type": "Organization",
+                  "image": {
+                    "@id": "https://gulfbabe.com/#/schema/logo/image/"
+                  },
+                  "sameAs": [
+                    "https://www.facebook.com/GulfBabeWine/",
+                    "https://www.instagram.com/gulfbabe_wineboutique?igsh=dXF6ZDZqY24zYjQ5&utm_source=qr"
+                  ]
+                }
+              ],
+              "@context": "https://schema.org"
+            }
+          ]
+        },
+        {
+          "url": "https://gulfbabe.com/join-the-wine-club",
+          "meta": {
+            "og:url": "https://gulfbabe.com/join-the-wine-club/",
+            "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+            "og:type": "article",
+            "og:image": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/Your-favorite-pink-bar-on-the-gulf-coast-1.png?fit=1200%2C630&ssl=1",
+            "og:title": "Join the Wine Club! - Gulf Babe Wine Boutique",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Site Kit by Google 1.178.0",
+            "og:locale": "en_US",
+            "og:site_name": "Gulf Babe Wine Boutique",
+            "twitter:card": "summary_large_image",
+            "og:image:type": "image/png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "article:publisher": "https://www.facebook.com/GulfBabeWine/",
+            "article:modified_time": "2026-04-06T22:12:33+00:00",
+            "msapplication-TileImage": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=270%2C270&ssl=1"
+          },
+          "text": "Skip to content\n\nHomeFull MenuReservationsPrivate Event ReservationsVIP ReservationsUpcoming EventsAboutThe Gulf Babe PodcastJoin the Wine Club!Gulf Babe BlogShop Merch\n\nInstagram\n\nFacebook\n\nTikTok\n\nSpotify\n\nTHE GULF BABE WINE CLUB IS LIVE\n\nThe Gulf Babe Wine Club is for the curious sipper who loves discovering something new. Each month, we curate a fresh theme and select a featured wine designed to take you outside your usual go-to and into something exciting. It’s all about exploring new regions, styles, and flavors, one bottle at a time, no pressure, just good wine and great vibes.\n\nPick your CLub! \n\nYour lifestyle, your wine style!\n\nThe Signature Babe\n\n$80/ month\n\n✓ Two carefully curated bottles/month\n\n✓ 10% off wine products and merch\n\n✓ 10% off wine tasting events\n\n✓ Two complimentary tasting flights per year\n\n✓ Gulf Babe Wine Club shirt and insulated wine bag upon joining\n\nSign Up\n\nThe Luxe babe\n\n$150 / month\n\n✓ Four expertly curated bottles/month \n\n✓ 10% off wine products\n\n✓ 10% off wine tasting events\n\n✓ Four complimentary flights per year\n\n✓ Gulf Babe Wine Club shirt and insulated wine bag upon joining.\n\nwine\n\nSign Up\n\nGrand reserve babe\n\n$460 / month\n\n✓ Three handpicked, exclusive reserve bottles/month \n\n✓ 15% off wine products and merch\n\n✓ 15% off wine tasting events \n\n✓ Four complimentary tasting flights per year\n\n✓ Gulf Babe Wine Club shirt and insulated wine bag upon joining\n\nSign Up\n\nSnowbird Babe\n\n$280 for 3 months\n\n✓ Three handpicked, exclusive reserve bottles/month \n\n✓ 15% off wine products and merch\n\n✓ 15% off wine tasting events \n\n✓ Four complimentary tasting flights per year\n\n✓ Gulf Babe Wine Club shirt and insulated wine bag upon joining\n\nSign Up\n\nReviews\n\nPaul & Nancy \n\n“From day one the Gulf Babe Wine Boutique wine club has instilled in us a thirst for wines from around the world. We look forward to a new wine each month from a different region. A 10% discount on wine tastings is an additional benefit”\n\nMegan\n\n“I’ve been a proud Grand Reserve Babe member of the Gulf Babe Wine Club for some time now, and I haven’t regretted a single moment of it.\n\nWhat sets Gulf Babe apart is their extraordinary attention to detail in curating exclusive wines each month. They collaborate closely with top-tier wine representatives to deliver exceptional value – truly the best wines for your money. Every bottle is thoughtfully selected, not just for its outstanding quality and flavor, but also for its captivating story. From inspiring tales like a woman’s remarkable journey from South Africa to founding her own winery, to prestigious champagnes bearing a royal decree tied to the British monarchy since Queen Victoria’s era, each delivery feels special, meaningful, and utterly delicious.”\n\nPREVIOUS WINE CLUB THEMES!\n\nLocation\n\n4593 Main St. Suite C-101 \n\nOrange Beach, AL 36561 \n\nHours\n\nMonday-Thursday 11am-9pm\n\nFriday-Saturday 11am-12am\n\nSunday 11am-8pm\n\nContact\n\n251.495.0573gulfbabewine@gmail.com\n\nDesigned by Rip Tide Marketing LLC\n\nView our Privacy Policy",
+          "title": "Join the Wine Club! - Gulf Babe Wine Boutique",
+          "structuredData": [
+            {
+              "@graph": [
+                {
+                  "@id": "https://gulfbabe.com/join-the-wine-club/",
+                  "url": "https://gulfbabe.com/join-the-wine-club/",
+                  "name": "Join the Wine Club! - Gulf Babe Wine Boutique",
+                  "@type": "WebPage",
+                  "isPartOf": {
+                    "@id": "https://gulfbabe.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://gulfbabe.com/join-the-wine-club/#breadcrumb"
+                  },
+                  "inLanguage": "en-US",
+                  "dateModified": "2026-04-06T22:12:33+00:00",
+                  "datePublished": "2025-11-03T20:12:54+00:00",
+                  "potentialAction": [
+                    {
+                      "@type": "ReadAction",
+                      "target": [
+                        "https://gulfbabe.com/join-the-wine-club/"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/join-the-wine-club/#breadcrumb",
+                  "@type": "BreadcrumbList",
+                  "itemListElement": [
+                    {
+                      "item": "https://gulfbabe.com/",
+                      "name": "Home",
+                      "@type": "ListItem",
+                      "position": 1
+                    },
+                    {
+                      "name": "Join the Wine Club!",
+                      "@type": "ListItem",
+                      "position": 2
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/#website",
+                  "url": "https://gulfbabe.com/",
+                  "name": "Gulf Babe Wine Boutique",
+                  "@type": "WebSite",
+                  "publisher": {
+                    "@id": "https://gulfbabe.com/#organization"
+                  },
+                  "inLanguage": "en-US",
+                  "description": "",
+                  "potentialAction": [
+                    {
+                      "@type": "SearchAction",
+                      "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://gulfbabe.com/?s={search_term_string}"
+                      },
+                      "query-input": {
+                        "@type": "PropertyValueSpecification",
+                        "valueName": "search_term_string",
+                        "valueRequired": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/#organization",
+                  "url": "https://gulfbabe.com/",
+                  "logo": {
+                    "@id": "https://gulfbabe.com/#/schema/logo/image/",
+                    "url": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=512%2C512&ssl=1",
+                    "@type": "ImageObject",
+                    "width": 512,
+                    "height": 512,
+                    "caption": "Gulf Babe Wine Boutique",
+                    "contentUrl": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=512%2C512&ssl=1",
+                    "inLanguage": "en-US"
+                  },
+                  "name": "Gulf Babe Wine Boutique",
+                  "@type": "Organization",
+                  "image": {
+                    "@id": "https://gulfbabe.com/#/schema/logo/image/"
+                  },
+                  "sameAs": [
+                    "https://www.facebook.com/GulfBabeWine/",
+                    "https://www.instagram.com/gulfbabe_wineboutique?igsh=dXF6ZDZqY24zYjQ5&utm_source=qr"
+                  ]
+                }
+              ],
+              "@context": "https://schema.org"
+            }
+          ]
+        },
+        {
+          "url": "https://gulfbabe.com/events",
+          "meta": {
+            "og:url": "https://gulfbabe.com/events/",
+            "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+            "og:type": "article",
+            "og:image": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/Your-favorite-pink-bar-on-the-gulf-coast-1.png?fit=1200%2C630&ssl=1",
+            "og:title": "Events - Gulf Babe Wine Boutique",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Site Kit by Google 1.178.0",
+            "og:locale": "en_US",
+            "og:site_name": "Gulf Babe Wine Boutique",
+            "twitter:card": "summary_large_image",
+            "og:image:type": "image/png",
+            "twitter:data1": "1 minute",
+            "og:image:width": "1200",
+            "twitter:label1": "Est. reading time",
+            "og:image:height": "630",
+            "article:publisher": "https://www.facebook.com/GulfBabeWine/",
+            "article:modified_time": "2026-04-17T19:09:34+00:00",
+            "msapplication-TileImage": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=270%2C270&ssl=1"
+          },
+          "text": "Skip to content\n\nMenu\n \n \n \n Close\n \n HomeFull MenuReservationsPrivate Event ReservationsVIP ReservationsUpcoming EventsAboutThe Gulf Babe PodcastJoin the Wine Club!Gulf Babe BlogShop Merch\n \n \n \n \n\nInstagram\n\nFacebook\n\nTikTok\n\nSpotify",
+          "title": "Events - Gulf Babe Wine Boutique",
+          "structuredData": [
+            {
+              "@graph": [
+                {
+                  "@id": "https://gulfbabe.com/events/",
+                  "url": "https://gulfbabe.com/events/",
+                  "name": "Events - Gulf Babe Wine Boutique",
+                  "@type": "WebPage",
+                  "isPartOf": {
+                    "@id": "https://gulfbabe.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://gulfbabe.com/events/#breadcrumb"
+                  },
+                  "inLanguage": "en-US",
+                  "dateModified": "2026-04-17T19:09:34+00:00",
+                  "datePublished": "2025-09-30T17:28:29+00:00",
+                  "potentialAction": [
+                    {
+                      "@type": "ReadAction",
+                      "target": [
+                        "https://gulfbabe.com/events/"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/events/#breadcrumb",
+                  "@type": "BreadcrumbList",
+                  "itemListElement": [
+                    {
+                      "item": "https://gulfbabe.com/",
+                      "name": "Home",
+                      "@type": "ListItem",
+                      "position": 1
+                    },
+                    {
+                      "name": "Events",
+                      "@type": "ListItem",
+                      "position": 2
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/#website",
+                  "url": "https://gulfbabe.com/",
+                  "name": "Gulf Babe Wine Boutique",
+                  "@type": "WebSite",
+                  "publisher": {
+                    "@id": "https://gulfbabe.com/#organization"
+                  },
+                  "inLanguage": "en-US",
+                  "description": "",
+                  "potentialAction": [
+                    {
+                      "@type": "SearchAction",
+                      "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://gulfbabe.com/?s={search_term_string}"
+                      },
+                      "query-input": {
+                        "@type": "PropertyValueSpecification",
+                        "valueName": "search_term_string",
+                        "valueRequired": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/#organization",
+                  "url": "https://gulfbabe.com/",
+                  "logo": {
+                    "@id": "https://gulfbabe.com/#/schema/logo/image/",
+                    "url": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=512%2C512&ssl=1",
+                    "@type": "ImageObject",
+                    "width": 512,
+                    "height": 512,
+                    "caption": "Gulf Babe Wine Boutique",
+                    "contentUrl": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=512%2C512&ssl=1",
+                    "inLanguage": "en-US"
+                  },
+                  "name": "Gulf Babe Wine Boutique",
+                  "@type": "Organization",
+                  "image": {
+                    "@id": "https://gulfbabe.com/#/schema/logo/image/"
+                  },
+                  "sameAs": [
+                    "https://www.facebook.com/GulfBabeWine/",
+                    "https://www.instagram.com/gulfbabe_wineboutique?igsh=dXF6ZDZqY24zYjQ5&utm_source=qr"
+                  ]
+                }
+              ],
+              "@context": "https://schema.org"
+            }
+          ]
+        },
+        {
+          "url": "https://gulfbabe.com/menu",
+          "meta": {
+            "og:url": "https://gulfbabe.com/menu/",
+            "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+            "og:type": "article",
+            "og:image": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/Your-favorite-pink-bar-on-the-gulf-coast-1.png?fit=1200%2C630&ssl=1",
+            "og:title": "Menu - Gulf Babe Wine Boutique",
+            "viewport": "width=device-width, initial-scale=1",
+            "generator": "Site Kit by Google 1.178.0",
+            "og:locale": "en_US",
+            "og:site_name": "Gulf Babe Wine Boutique",
+            "twitter:card": "summary_large_image",
+            "og:image:type": "image/png",
+            "og:image:width": "1200",
+            "og:image:height": "630",
+            "article:publisher": "https://www.facebook.com/GulfBabeWine/",
+            "article:modified_time": "2026-04-07T00:26:23+00:00",
+            "msapplication-TileImage": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=270%2C270&ssl=1"
+          },
+          "text": "Skip to content\n\nHomeFull MenuReservationsPrivate Event ReservationsVIP ReservationsUpcoming EventsAboutThe Gulf Babe PodcastJoin the Wine Club!Gulf Babe BlogShop Merch\n\nInstagram\n\nFacebook\n\nTikTok\n\nSpotify",
+          "title": "Menu - Gulf Babe Wine Boutique",
+          "structuredData": [
+            {
+              "@graph": [
+                {
+                  "@id": "https://gulfbabe.com/menu/",
+                  "url": "https://gulfbabe.com/menu/",
+                  "name": "Menu - Gulf Babe Wine Boutique",
+                  "@type": "WebPage",
+                  "isPartOf": {
+                    "@id": "https://gulfbabe.com/#website"
+                  },
+                  "breadcrumb": {
+                    "@id": "https://gulfbabe.com/menu/#breadcrumb"
+                  },
+                  "inLanguage": "en-US",
+                  "dateModified": "2026-04-07T00:26:23+00:00",
+                  "datePublished": "2025-06-11T04:06:53+00:00",
+                  "potentialAction": [
+                    {
+                      "@type": "ReadAction",
+                      "target": [
+                        "https://gulfbabe.com/menu/"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/menu/#breadcrumb",
+                  "@type": "BreadcrumbList",
+                  "itemListElement": [
+                    {
+                      "item": "https://gulfbabe.com/",
+                      "name": "Home",
+                      "@type": "ListItem",
+                      "position": 1
+                    },
+                    {
+                      "name": "Menu",
+                      "@type": "ListItem",
+                      "position": 2
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/#website",
+                  "url": "https://gulfbabe.com/",
+                  "name": "Gulf Babe Wine Boutique",
+                  "@type": "WebSite",
+                  "publisher": {
+                    "@id": "https://gulfbabe.com/#organization"
+                  },
+                  "inLanguage": "en-US",
+                  "description": "",
+                  "potentialAction": [
+                    {
+                      "@type": "SearchAction",
+                      "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://gulfbabe.com/?s={search_term_string}"
+                      },
+                      "query-input": {
+                        "@type": "PropertyValueSpecification",
+                        "valueName": "search_term_string",
+                        "valueRequired": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@id": "https://gulfbabe.com/#organization",
+                  "url": "https://gulfbabe.com/",
+                  "logo": {
+                    "@id": "https://gulfbabe.com/#/schema/logo/image/",
+                    "url": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=512%2C512&ssl=1",
+                    "@type": "ImageObject",
+                    "width": 512,
+                    "height": 512,
+                    "caption": "Gulf Babe Wine Boutique",
+                    "contentUrl": "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=512%2C512&ssl=1",
+                    "inLanguage": "en-US"
+                  },
+                  "name": "Gulf Babe Wine Boutique",
+                  "@type": "Organization",
+                  "image": {
+                    "@id": "https://gulfbabe.com/#/schema/logo/image/"
+                  },
+                  "sameAs": [
+                    "https://www.facebook.com/GulfBabeWine/",
+                    "https://www.instagram.com/gulfbabe_wineboutique?igsh=dXF6ZDZqY24zYjQ5&utm_source=qr"
+                  ]
+                }
+              ],
+              "@context": "https://schema.org"
+            }
+          ]
+        },
+        {
+          "url": "https://gulfbabe.com/about",
+          "meta": {},
+          "text": "429 Too Many Requests\n You have been rate-limited for making too many requests in a short time frame.\n \n \n Website owner? If you think you have reached this message in error, please contact support.",
+          "title": "429 Too Many Requests",
+          "structuredData": []
+        }
+      ],
+      "pdfUrls": [],
+      "pdfTexts": [],
+      "imageUrls": [
+        "https://i0.wp.com/gulfbabe.com/wp-content/uploads/2026/04/cropped-Gulf-Babe-Transparent-1024-x-1024-px-1.png?fit=512%2C512&ssl=1",
+        "https://gulfbabe.com/wp-content/uploads/2025/05/img_0340.jpeg",
+        "https://gulfbabe.com/wp-content/uploads/2025/05/img_0042.jpeg",
+        "https://gulfbabe.com/wp-content/uploads/2025/05/img_8166.jpeg",
+        "https://gulfbabe.com/wp-content/uploads/2025/05/img_0422.jpeg",
+        "https://gulfbabe.com/wp-content/uploads/2025/05/img_1367_jpg.jpeg",
+        "https://gulfbabe.com/wp-content/uploads/2025/11/IMG_9297-683x1024.jpg",
+        "https://gulfbabe.com/wp-content/uploads/2025/11/514414512_10233721829000778_8588144792864809185_n.jpg",
+        "https://gulfbabe.com/wp-content/uploads/2025/11/614655091_10107925840209686_2963176665901082908_n.jpg",
+        "https://gulfbabe.com/wp-content/uploads/2025/11/1-2.png",
+        "https://gulfbabe.com/wp-content/uploads/2025/11/2-1.png",
+        "https://gulfbabe.com/wp-content/uploads/2025/11/3-1.png",
+        "https://gulfbabe.com/wp-content/uploads/2025/09/Gulf-Babe-Wine-Boutique-Monthly-Event-Calendar-1-1.png"
+      ],
+      "scraped_at": "2026-05-15T16:26:28.161Z",
+      "business_name": "Gulf Babe Wine Boutique"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.413907+00:00",
+    "updated_at": "2026-05-18T21:29:56.236136+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "19149aec-e21a-4c99-8004-3b37a5565e7b",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "dfe47646-3cbf-44a7-ae53-8a84c8207427",
+      "tag": "bar",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "35bb6672-ddc3-48de-b01d-998af0a96886",
+      "tag": "orange-beach",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "0408362a-4784-4cea-8fb0-623e2b7604ff",
+      "tag": "wine",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "512e8855-94ac-45b3-bab0-6fc9ecad9cd3",
+      "tag": "cocktails",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "31348c33-bde3-43ca-be79-b1b902bfa010",
+      "tag": "martinis",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "cee0988d-b5ea-4a4e-843d-76878840e853",
+      "tag": "women's-bar",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "fa7dc2f1-8050-463e-8a9b-17084c054e5d",
+      "tag": "sports-bar",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "f80388da-8b26-48b0-9d5b-2bca341dd1f0",
+      "tag": "wine-club",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "d1a5140b-4466-482f-b1e9-a6342ccd2a63",
+      "tag": "coastal",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "4c8b2949-ab05-46a3-89b4-991d16859be0",
+      "tag": "feminine",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "91c2dc24-db5a-4f22-9c76-78e68bea1986",
+      "tag": "alabama",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "9d249828-1f2d-43c5-b8f5-65ab5d557a0e",
+      "tag": "craft-cocktails",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "659950dc-b467-4a3e-a943-c53ed2e77458",
+      "tag": "wine-tasting",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "7e4b13ce-46dd-48ad-b24f-8cc5ad810751",
+      "tag": "private-events",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "4cd56093-380b-44d8-8c7e-c4a289ec663c",
+      "tag": "wine-boutique",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "893dd3a2-d739-4b71-b609-6c9c963c0928",
+      "tag": "women's bar",
+      "tag_category": "search",
+      "sort_order": 16
+    },
+    {
+      "id": "2128ecc5-f259-4e3f-954c-338095a63e7e",
+      "tag": "sports bar",
+      "tag_category": "search",
+      "sort_order": 17
+    },
+    {
+      "id": "f32a73c0-a0ef-41bf-a397-65d81d58ff93",
+      "tag": "wine club",
+      "tag_category": "search",
+      "sort_order": 18
+    },
+    {
+      "id": "12e1d77d-e5a2-4a75-be19-be8e073dd888",
+      "tag": "Orange Beach",
+      "tag_category": "search",
+      "sort_order": 19
+    },
+    {
+      "id": "f6920435-7980-4133-be06-2afb399cea3a",
+      "tag": "Alabama",
+      "tag_category": "search",
+      "sort_order": 20
+    },
+    {
+      "id": "502ffd46-6992-4d2a-b49d-2572821ae1c0",
+      "tag": "craft cocktails",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "d1a93761-789a-46a9-ab2c-4f28d9f6dafb",
+      "tag": "wine tasting",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "bb016b56-389e-4868-9f94-cfeeaad00557",
+      "tag": "private events",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "6dc99568-7d6a-4532-a474-6b564ff342da",
+      "tag": "wine boutique",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "96271007-dcaa-450d-bf7a-30d004274434",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "52660758-51ac-4e71-80ad-e10e999cd181",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 26
+    },
+    {
+      "id": "2ae31c76-5990-422c-867a-aba22615035c",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 27
+    },
+    {
+      "id": "e4620651-9c22-48cc-8e48-67a89a912078",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "c97fdffa-6954-4cf1-8363-6f20ecfdf4ab",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 29
+    },
+    {
+      "id": "e33337cd-3c5b-44ac-894d-b6ecece968a1",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 30
+    },
+    {
+      "id": "1112239e-af91-417b-9d36-843f5a6051f7",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "6423ff43-7078-47d8-980d-a27e79ab74c6",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 32
+    },
+    {
+      "id": "2c601d05-47eb-497c-80ee-d1e7e8a9b7ec",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 33
+    },
+    {
+      "id": "ca5a4bae-c7c0-4ea3-baae-3af40b56485d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 34
+    }
+  ],
+  "sections": [
+    {
+      "id": "1615647f-c3cc-4f13-bc2a-2c1b088ecc98",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

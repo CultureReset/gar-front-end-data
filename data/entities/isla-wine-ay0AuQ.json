@@ -1,32 +1,338 @@
 {
-  "id": "d72a845f-ef6c-4fdd-b83e-9ab03d2efd2b",
-  "slug": "isla-wine-ay0AuQ",
-  "name": "Isla Wine",
-  "entity_type": "restaurant",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 213-9199",
-  "email": null,
-  "website_url": "http://www.islawines.com/",
-  "address_line_1": "315 E 22nd Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.9,
-  "review_count": 34,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/d72a845f-ef6c-4fdd-b83e-9ab03d2efd2b/d72a845f-ef6c-4fdd-b83e-9ab03d2efd2b_1779139728359.976.jpg",
-  "photos": [],
+  "entity": {
+    "id": "d72a845f-ef6c-4fdd-b83e-9ab03d2efd2b",
+    "place_id": "ChIJL9c4pboFmogR-iQjFay0AuQ",
+    "google_maps_uri": "https://maps.google.com/?cid=16429893041782990074&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "isla-wine-ay0AuQ",
+    "name": "Isla Wine",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "liquor_store",
+    "google_types": [
+      "wine_bar",
+      "liquor_store",
+      "bar",
+      "point_of_interest",
+      "store",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 213-9199",
+    "international_phone": null,
+    "website_url": "http://www.islawines.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "315 E 22nd Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2751869,
+    "longitude": -87.6820011,
+    "short_address": "315 E 22nd Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 34,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/d72a845f-ef6c-4fdd-b83e-9ab03d2efd2b/d72a845f-ef6c-4fdd-b83e-9ab03d2efd2b_1779139728359.976.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.804093+00:00",
+    "updated_at": "2026-05-18T21:28:53.405303+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "19876d75-1124-47ce-9fef-627a1d7f9d8f",
+      "tag": "wine bar",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "aea9743f-b828-42b1-99b6-b5c2fddf214f",
+      "tag": "wine bar",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "2e11a061-18f1-4c84-bf81-19488b1a3585",
+      "tag": "liquor store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "0b1eff32-2e56-4a24-8e3f-fab73a020fa9",
+      "tag": "liquor store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "ea0fd3eb-0079-4b1f-9f1c-efbb92094ec1",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "1d48f94d-c213-4a09-b483-05bd5e2868bb",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "6640a043-3f94-467b-a42a-541e786012e0",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "7354376f-e438-4169-94df-ccedf57901ce",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "9f006a83-4ee2-40c8-b527-a345ed9c6075",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "229d9fdf-10ec-40a7-bbdc-123e1ab3d2b0",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "c93b6b31-cd15-4309-8e6e-e989f6dd39fc",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "2fe97a56-d450-4d6b-92af-d3d1eadccafe",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "a3b2524a-b55c-4079-94e8-59b200806869",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "c2c7639f-3255-45dc-892c-70c8270a474f",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "606023f4-923f-46a3-bbcd-5fb11b266cb0",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "74339d42-9911-43cf-880a-41c560852ba7",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "ecf557f8-42dc-474c-8d7f-b8e3329fcd9b",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "ac0ee00e-2fdc-4699-b471-b6d2292f1aea",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "8405eaa1-6320-4fb0-9939-3ca31601eb2d",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 9
+    },
+    {
+      "id": "1bba30f7-0f67-4e2a-b35f-992f0a7b3861",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 9
+    },
+    {
+      "id": "d5058dd1-e338-43a4-8c90-0fcdeebc53ad",
+      "tag": "liquor_store",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "e568f59c-1fe2-4946-ab4e-3994d4b53cec",
+      "tag": "liquor_store",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "d42830a8-b6ff-42dc-adb0-f9dfd0e05137",
+      "tag": "wine_bar",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "954b5d93-b423-46f4-b8f1-9b445fc3d9ab",
+      "tag": "wine_bar",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "5bd37458-0e1a-4d26-a9c5-b744f61f70d1",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "52960702-e3a9-4686-9daa-bf359b36b049",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 12
+    }
+  ],
+  "sections": [
+    {
+      "id": "52fad959-3856-4306-b426-3cd9f62f2d2b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

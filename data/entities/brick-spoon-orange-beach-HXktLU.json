@@ -1,32 +1,1116 @@
 {
-  "id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
-  "slug": "brick-spoon-orange-beach-HXktLU",
-  "name": "Brick & Spoon - Orange Beach",
-  "entity_type": "restaurant",
-  "entity_subtype": "brunch_restaurant",
-  "icon": "🏪",
-  "description": "Chain serving Cajun-Creole breakfast fare, sandwiches & cocktails in a stylish, contemporary space.",
-  "phone": "(251) 981-7772",
-  "email": null,
-  "website_url": "https://www.brickandspoon.com/",
-  "address_line_1": "24705 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "24705",
-  "rating": 4.6,
-  "review_count": 2368,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139526307.0186.jpg",
-  "photos": [],
+  "entity": {
+    "id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+    "place_id": "ChIJT1B1BGkGmogRQCkjQHXktLU",
+    "google_maps_uri": "https://maps.google.com/?cid=13093341208911227200&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "brick-spoon-orange-beach-HXktLU",
+    "name": "Brick & Spoon - Orange Beach",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "brunch_restaurant",
+    "secondary_types": "",
+    "google_type": "brunch_restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-7772",
+    "international_phone": null,
+    "website_url": "https://www.brickandspoon.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "24705 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "24705",
+    "latitude": 30.290855,
+    "longitude": -87.6028536,
+    "short_address": "24705 Canal Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 2368,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Chain serving Cajun-Creole breakfast fare, sandwiches & cocktails in a stylish, contemporary space.",
+    "description": "Chain serving Cajun-Creole breakfast fare, sandwiches & cocktails in a stylish, contemporary space.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139526307.0186.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/brickandspoon_hq/",
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 2:00 PM",
+      "Tuesday: 7:00 AM – 2:00 PM",
+      "Wednesday: 7:00 AM – 2:00 PM",
+      "Thursday: 7:00 AM – 2:00 PM",
+      "Friday: 7:00 AM – 2:00 PM",
+      "Saturday: 7:00 AM – 2:00 PM",
+      "Sunday: 7:00 AM – 2:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Build Your Own Bloody Mary",
+          "items": [
+            {
+              "name": "Build Your Own Bloody Mary",
+              "tags": [],
+              "price": "$12.50",
+              "dietary": [],
+              "popular": false,
+              "description": "You Pick It. We Mix It.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Vodkas",
+          "items": [
+            {
+              "name": "Skyy",
+              "tags": [],
+              "price": "$2.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Absolut Citron",
+              "tags": [],
+              "price": "$2.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Tito's",
+              "tags": [],
+              "price": "$2.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Stoli",
+              "tags": [],
+              "price": "$2.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Absolut",
+              "tags": [],
+              "price": "$2.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Absolut Peppar",
+              "tags": [],
+              "price": "$2.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Absolut Mandarin",
+              "tags": [],
+              "price": "$2.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Seasonal Vodka",
+              "tags": [],
+              "price": "$2.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Chopin",
+              "tags": [],
+              "price": "$4.00",
+              "dietary": [],
+              "popular": false,
+              "description": "Premium",
+              "subcategory": null
+            },
+            {
+              "name": "Grey Goose",
+              "tags": [],
+              "price": "$4.00",
+              "dietary": [],
+              "popular": false,
+              "description": "Premium",
+              "subcategory": null
+            },
+            {
+              "name": "Ketel One",
+              "tags": [],
+              "price": "$4.00",
+              "dietary": [],
+              "popular": false,
+              "description": "Premium",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Veggies",
+          "items": [
+            {
+              "name": "Pickled Green Bean",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Pickled Carrot",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Pickled Okra",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Dill Pickled Spear",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Jalapeño Pepper",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cocktail Onion",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Green Olive",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Blue Cheese Stuffed Olive",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cucumber",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Green Onion",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Celery",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Asparagus",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Lemon Wedge",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Lime Wedge",
+              "tags": [],
+              "price": "$0.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Herbs & Seasonings",
+          "items": [
+            {
+              "name": "Tabasco",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Rosemary",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Caribbean Jerk",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cayenne Pepper",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Celery Salt",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Horseradish",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Basil",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Sriracha",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Meats & Cheese",
+          "items": [
+            {
+              "name": "Pepper Jack Cheese",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cheddar Cheese Cube",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Blue Cheese",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Feta Cheese",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Smoked Sausage",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Bacon Strip",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Canadian Bacon",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Smoked Tasso Strip",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cocktail Shrimp",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Tasso Deviled Eggs",
+              "tags": [],
+              "price": "$1.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139526973.326.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139527450.247.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139527857.1267.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139528399.8699.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139528606.3936.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139528812.4233.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139529217.3315.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139529475.5317.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139529831.42.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:14.588966+00:00",
+    "updated_at": "2026-05-18T21:25:34.958704+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "b944ff07-4f50-4140-b625-a89f78abd219",
+      "tag": "brunch",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "96a2f54b-bb45-475f-8b20-ee51b76a9f5d",
+      "tag": "breakfast",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "5aeb5da9-bea8-413a-b629-7e365cda725a",
+      "tag": "lunch",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "1737fd32-2ec4-4feb-a0b6-95465ea379b7",
+      "tag": "cocktails",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "3d75c7a0-f901-48cb-af85-eb919d4214ba",
+      "tag": "coffee",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "69834aa6-0046-417f-8b1e-ef039d1ad156",
+      "tag": "eggs",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "fe2130d8-2bdb-4d7d-8a43-07be1a37a8ff",
+      "tag": "benedicts",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "7c604af5-c79a-4eb0-a5f7-8d8c4275f483",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "dec90a8a-4430-4571-901a-c47e5bb0a9ef",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 8
+    },
+    {
+      "id": "b2281741-8739-43bb-8896-ee20e6a629ed",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 9
+    },
+    {
+      "id": "a99fb8f3-9e4f-41b8-96ab-7392fc86ff65",
+      "tag": "upscale_casual",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "f5953cd7-e095-4d97-86b1-686207c782b5",
+      "tag": "southern_cuisine",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "9dce00b8-0f4f-435e-9a93-0a6dd239d417",
+      "tag": "bloody_marys",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "e8bb2e1e-6569-45ff-98b9-ea57466e3b0c",
+      "tag": "casual_dining",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "eedb953b-6be4-40b4-8641-6f3cf4f897e7",
+      "tag": "multi_location",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "9fec4567-28c5-4a0f-a518-6e064ce50712",
+      "tag": "neighborhood_restaurant",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "01c765ef-1e77-4eef-a2b9-e195b493d7c8",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 16
+    },
+    {
+      "id": "b7ecdd5c-cb29-45f4-a3ea-d895375bf4fb",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 17
+    },
+    {
+      "id": "d50a997c-0b1e-4e21-9031-08e325d767c2",
+      "tag": "takeout",
+      "tag_category": "amenity",
+      "sort_order": 18
+    },
+    {
+      "id": "37a84868-a6b9-488b-aa22-541e94194ab7",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 19
+    },
+    {
+      "id": "4f80d13b-13f3-4b69-a2e3-7c6fb3075b52",
+      "tag": "upscale casual",
+      "tag_category": "search",
+      "sort_order": 20
+    },
+    {
+      "id": "8c5090bc-9e1c-4563-93f2-886f048fb8b3",
+      "tag": "southern cuisine",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "98d3eb3e-6e62-42cd-97cf-740ce76edea2",
+      "tag": "bloody marys",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "4a70dc63-f29f-4067-963c-ed9029bb66de",
+      "tag": "casual dining",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "b9055c96-fcd4-4644-9a32-41d5a8ea8cb6",
+      "tag": "multi-location",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "50bd28ee-d610-45da-a30b-da94d82f1075",
+      "tag": "neighborhood restaurant",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "1392e07d-c17d-410e-a12a-f8b603688eb2",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "05d9251b-4a02-4c6e-b789-d1a7f9b9f2ed",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 27
+    },
+    {
+      "id": "716abc02-10fa-4e43-81ac-fa01eb390f6b",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 28
+    },
+    {
+      "id": "9933ac20-92fe-4ad0-9ba6-2297f6a23c77",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "3f4883c4-bd09-4a08-a152-94de5189d331",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "ead81833-e7d2-475c-bc10-a147b283a4af",
+      "tag": "event venue",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "e1c95fee-dfac-4290-a309-7327a3a0690e",
+      "tag": "brunch restaurant",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "f86d07d3-b4d2-4448-8890-e09cd67eb003",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "1789ed74-2bce-41a0-8a08-ecf9373524af",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "dce4cd3b-7c75-4a1c-9eb4-00ce0a7a6c30",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 35
+    },
+    {
+      "id": "21703108-7851-4e32-8a24-a35d7e7fcd18",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 36
+    },
+    {
+      "id": "7f53bc95-c3f1-4582-ab87-52b57a441ae0",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 37
+    },
+    {
+      "id": "7960d7b6-ed3b-4669-b3e0-65e8f3e1cd5c",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 38
+    },
+    {
+      "id": "48e968bb-32db-4ecf-bc1b-1e48b8d9f954",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 39
+    },
+    {
+      "id": "61575667-26ad-4da1-baa4-771a72ef44ca",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 40
+    },
+    {
+      "id": "ddd218e4-449f-4723-8f13-0259e8298f86",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 41
+    },
+    {
+      "id": "9356bf4b-64ff-4a70-988e-3b5ff278aaa6",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 42
+    },
+    {
+      "id": "62e8e22c-bbe2-483a-990c-ede2e7231c06",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 43
+    },
+    {
+      "id": "6699e84e-c552-4c15-aa8f-f729339bb553",
+      "tag": "brunch_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 44
+    },
+    {
+      "id": "29ba1129-8efc-4ed7-ac8c-a868ecdac357",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 45
+    },
+    {
+      "id": "6fc763c1-0593-4a72-a82d-f6edc2f829a7",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 46
+    },
+    {
+      "id": "18d3e0af-52e1-4fc2-8c1e-ba3229b96bc3",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 47
+    }
+  ],
+  "sections": [
+    {
+      "id": "1b37cfc8-f518-459e-a53e-806ebc137d42",
+      "section_key": "specials",
+      "section_label": "Specials",
+      "section_type": "specials",
+      "sort_order": 5
+    },
+    {
+      "id": "c4c7b49c-256e-443d-8db8-75ae5aaec2e3",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "706a049b-f9ff-4fdb-a5b1-b649e72683bc",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131812687.6553.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:03.824921+00:00"
+    },
+    {
+      "id": "2e8855a0-d126-43d3-90bb-9ec8287fe505",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131814665.1714.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:04.585163+00:00"
+    },
+    {
+      "id": "3051f4fd-c29b-43de-a414-321c26f17587",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139526307.0186.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:05.331858+00:00"
+    },
+    {
+      "id": "69ed24c9-5004-476e-8613-07615a963268",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139528606.3936.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:06.228898+00:00"
+    },
+    {
+      "id": "cb8ef625-5a73-40f8-8a3d-52b4efc27ae5",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131812965.2976.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:03.979007+00:00"
+    },
+    {
+      "id": "2d59e807-9c03-448e-8c9f-c37709b61f5b",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131814895.4456.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:04.737715+00:00"
+    },
+    {
+      "id": "da642345-61a1-4583-bc8a-e4fca98dbf37",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139526973.326.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:05.479832+00:00"
+    },
+    {
+      "id": "05935dea-a4ef-47ec-a068-bac63adbd11d",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139528812.4233.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:06.407628+00:00"
+    },
+    {
+      "id": "ab48fd26-16df-45a6-8a2b-e139b76fe4c6",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131813409.3696.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:04.126967+00:00"
+    },
+    {
+      "id": "fe24ff33-2aa3-419b-a9da-59d6f49e692d",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131815103.0579.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:04.891762+00:00"
+    },
+    {
+      "id": "8f29b25c-c1d2-43a2-99bb-bbac329e8be5",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139527450.247.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:05.626357+00:00"
+    },
+    {
+      "id": "5dd51f0d-e469-4cfc-9fb3-6bd7c727ba27",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139529217.3315.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:06.566188+00:00"
+    },
+    {
+      "id": "86ebe01b-77e2-4b58-a6c0-6ba347eecc07",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131813839.489.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:04.276913+00:00"
+    },
+    {
+      "id": "54b6dace-b919-4246-a49a-66223feb3cc9",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131815482.4116.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:05.039238+00:00"
+    },
+    {
+      "id": "9588b297-9301-4649-98ef-f95421f8d913",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139527857.1267.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:05.773527+00:00"
+    },
+    {
+      "id": "3a2fa0c2-394f-4d03-93b6-1f301dc76347",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139529475.5317.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:06.715329+00:00"
+    },
+    {
+      "id": "3ecd8043-6b8c-479b-b8bf-afc98e33cf10",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131413071.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:03.676161+00:00"
+    },
+    {
+      "id": "0c6ce6cc-07b5-4e34-a398-384f2c2e8c6a",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131814249.9622.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:04.426123+00:00"
+    },
+    {
+      "id": "78e91aab-6b22-4d8e-8b5d-2d50802491c2",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779131815888.3965.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:05.186543+00:00"
+    },
+    {
+      "id": "0b82f8ef-650e-4b37-b090-1ceda97912e7",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139528399.8699.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:05.925533+00:00"
+    },
+    {
+      "id": "e855b060-d6ac-4aa5-95fb-40c2f8d9b0d8",
+      "entity_id": "1dddfdd8-47e0-4529-91ec-623af5a45849",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1dddfdd8-47e0-4529-91ec-623af5a45849/1dddfdd8-47e0-4529-91ec-623af5a45849_1779139529831.42.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:06.865015+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": [
+      {
+        "id": "af9e2d54-3b69-432a-8710-c0e951d76653",
+        "item_name": "Happy Hour",
+        "description": "Happy Hour",
+        "price_text": "",
+        "hh_price": null
+      }
+    ]
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

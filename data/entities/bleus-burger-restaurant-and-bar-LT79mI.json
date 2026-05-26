@@ -1,32 +1,730 @@
 {
-  "id": "bc61c436-9295-4820-9f96-dafe1b4d6e15",
-  "slug": "bleus-burger-restaurant-and-bar-LT79mI",
-  "name": "Bleus Burger Restaurant and Bar",
-  "entity_type": "restaurant",
-  "entity_subtype": "hamburger_restaurant",
-  "icon": "🏪",
-  "description": "Hip cafe for build-your-own burgers, classic bar snacks & vegan options with beer & some spirits.",
-  "phone": "(251) 219-8448",
-  "email": null,
-  "website_url": "http://www.bleusburger.com/",
-  "address_line_1": "3800 Gulf Shores Pkwy #240, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.4,
-  "review_count": 1242,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/bc61c436-9295-4820-9f96-dafe1b4d6e15/bc61c436-9295-4820-9f96-dafe1b4d6e15_1779139731172.4534.jpg",
-  "photos": [],
+  "entity": {
+    "id": "bc61c436-9295-4820-9f96-dafe1b4d6e15",
+    "place_id": "ChIJQ905j5IRmogRG4TocLT79mI",
+    "google_maps_uri": "https://maps.google.com/?cid=7131163812394730523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "bleus-burger-restaurant-and-bar-LT79mI",
+    "name": "Bleus Burger Restaurant and Bar",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "hamburger_restaurant",
+    "secondary_types": [],
+    "google_type": "hamburger_restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 219-8448",
+    "international_phone": null,
+    "website_url": "http://www.bleusburger.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3800 Gulf Shores Pkwy #240, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3010411,
+    "longitude": -87.68096,
+    "short_address": "3800 Gulf Shores Pkwy #240, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 1242,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Hip cafe for build-your-own burgers, classic bar snacks & vegan options with beer & some spirits.",
+    "description": "Hip cafe for build-your-own burgers, classic bar snacks & vegan options with beer & some spirits.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/bc61c436-9295-4820-9f96-dafe1b4d6e15/bc61c436-9295-4820-9f96-dafe1b4d6e15_1779139731172.4534.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://instagram.com/bleusburger/",
+    "social_facebook": "https://facebook.com/bleusburger",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "valetParking": false,
+      "freeParkingLot": true,
+      "paidParkingLot": false,
+      "freeGarageParking": false,
+      "freeStreetParking": true,
+      "paidGarageParking": false,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 8:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://www.bleusburger.com/",
+      "pages": [
+        {
+          "url": "http://www.bleusburger.com",
+          "meta": {
+            "og:url": "https://www.bleusburger.com/",
+            "og:type": "website",
+            "og:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "og:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "viewport": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+            "description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:card": "summary",
+            "twitter:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "twitter:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "og:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "apple-mobile-web-app-capable": "yes"
+          },
+          "text": "Home \n \n \n \n The Crew \n \n \n \n Food Menu \n \n \n \n Lunch Menu \n \n \n \n Bar Menu \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Burgers, Craft Beer & Cocktails \n Bleus Burger \n Serving the Gulf Shores, Foley, Orange Beach Area \n \n \n Order Online \n \n \n \n \n Discover Gulf Shores' \n BEST BURGER \n Bleus Burger in Gulf Shores, AL, elevates the humble burger to an art form. We specialize in gourmet craft smash burgers, alongside crispy wings, juicy tenders, and inventive sandwiches. Not just a burger joint, we offer vibrant veggie options and fresh salads. Pair your meal with a handcrafted cocktail or explore our selection of fifteen craft beers on tap. It's flavor, elevated. \n \n Bar Menu \n \n \n \n \n Food Menu \n \n \n \n \n Lunch Menu \n \n \n \n \n \n \n \n \n \n \nYour browser does not support the audio tag. \n \n \n \n \n \n \n \n \n \n \n Sun - Thu \n 11:00 am \n- 8:00 pm \n \n \n Fri - Sat \n 11:00 am \n- 9:00 pm \n \n \n \n \n \n \n \n \n \n \n \n \n 3800 Gulf Shores Pkwy. STE 240 \n Gulf Shores, AL 36542 \n \n \n \n \n \n \n \n \n ﻿info@bleusburger.com \n \n \n \n \n \n \n \n \n \n Half-Pound Craft Smash Burgers \n With House-made Sauces and Toppings and only the freshest CAB premium ground beef. \n \n \n Button \n \n \n \n \n \n \n Sides \n More than fries. We've got sides galore! \n \n \n Button \n \n \n \n \n \n \n Comfort Food \n House Made Pasatas, Soups, and Cajun Dishes \n \n \n Button \n \n \n \n \n \n \n Craft Beer & Cocktails \n Fifteen taps to choose from \n \n \n Button \n \n \n \n \n \n \n \n \n \n \n \n meatArtboard 5 \n \n \n \n \n \n \n We use 100% FRESH CAB chuck, sourced from Alabama-based, family owned Evans Meats. Supporting small farms and ranches in Alabama. \n \n \n \n \n \n \n Our toppings are as fresh as it gets. All burger sauces are made in house with love. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Not a fry-guy (or gal)? We've got you covered. O-rings, house-made tots, chips & queso, fried okra, Mac & Cheese, hand-cut slaw, sweet potato fries and more.! \n \n \n \n \n \n \n Fifteen taps of craft beer with a great bourbon selection and craft cocktails. \n \n \n \n \n \n Bleus Burger is a \n From Scratch Kitchen \n We use only the freshest and finest ingredients possible. All of our burger and fry sauces are made from scratch daily right in our kitchen in Gulf Shores. Our burgers are 100% fresh, NEVER frozen, premium CAB beef, hand-smashed to order. You'll never get \"superstore\" meat at Bleus. Ask before you eat! \n \n \n © Mapbox © OpenStreetMap Improve this map \n \n \n Contact Us! \n Contact Us \n First Name \n \n Last Name \n \n Phone \n \n Email \n \n Message \n \n \n \n \n \n \n \n Thank you for contacting us.We will get back to you as soon as possible \n Oops, there was an error sending your message.Please try again later \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Location 3800 Gulf Shores Parkway, Gulf Shores, Alabama 36542, United States \n \n Contact info@bleusburger.com \n \n Hours Sun - Thu \n 11:00 am \n- 8:00 pm \n \n \n Fri - Sat \n 11:00 am \n- 9:00 pm \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n\n \n \n\n \n \n \n \n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n\n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n\n \n\n \n Share by:",
+          "title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+          "structuredData": [
+            {
+              "url": "https://www.bleusburger.com/",
+              "name": "Bleus Burger Restaurant & Bar",
+              "@type": "WebSite",
+              "@context": "https://schema.org"
+            },
+            {
+              "@id": "https://www.bleusburger.com",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "30.302294",
+                "longitude": "-87.680551"
+              },
+              "url": "https://www.bleusburger.com",
+              "logo": "https://irp.cdn-website.com/358be895/dms3rep/multi/345929776_1643300182813138_8189093518638050763_n.jpg",
+              "name": "Bleus Burger Restaurant & Bar",
+              "@type": "Restaurant",
+              "email": "info@bleusburger.com",
+              "image": [
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/345929776_1643300182813138_8189093518638050763_n.jpg",
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/IMG_0464.jpg",
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/IMG_0409.jpg",
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/IMG_0406.jpg",
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/IMG_0461.jpg"
+              ],
+              "sameAs": [
+                "https://youtube.com/@bleusburger",
+                "https://tripadvisor.com/Restaurant_Review-g30582-d13207304-Reviews-Bleus_Burger-Gulf_Shores_Alabama.html?m=69573",
+                "https://google.com/maps/place/Bleus+Burger+Restaurant+and+Bar/@30.3010457,-87.6835403,724m",
+                "https://tiktok.com/@bleusburger",
+                "https://facebook.com/bleusburger",
+                "https://yelp.com/biz/bleus-burger-gulf-shores-3",
+                "https://instagram.com/bleusburger/"
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "postalCode": "36542",
+                "addressRegion": "Alabama",
+                "streetAddress": "3800 Gulf Shores Parkway",
+                "addressCountry": "US",
+                "addressLocality": "Gulf Shores"
+              },
+              "@context": {
+                "@vocab": "http://schema.org/"
+              },
+              "telephone": "2512198448",
+              "priceRange": "$10-20",
+              "description": "Bleus Burger in Gulf Shores, AL, elevates the humble burger to an art form. We specialize in gourmet craft smash burgers, alongside crispy wings, juicy tenders, and inventive sandwiches. Not just a burger joint, we offer vibrant veggie options and fresh salads. Pair your meal with a handcrafted cocktail or explore our rotating selection of fifteen craft beers on tap. It's flavor, elevated.",
+              "openingHoursSpecification": [
+                {
+                  "@type": "OpeningHoursSpecification",
+                  "opens": "11:00",
+                  "closes": "21:00",
+                  "dayOfWeek": [
+                    "Saturday",
+                    "Friday"
+                  ]
+                },
+                {
+                  "@type": "OpeningHoursSpecification",
+                  "opens": "11:00",
+                  "closes": "20:00",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Sunday"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "url": "https://www.bleusburger.com/beer-wine-cocktail-menu",
+          "meta": {
+            "og:url": "https://www.bleusburger.com/beer-wine-cocktail-menu",
+            "og:type": "website",
+            "og:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "og:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "viewport": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+            "description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:card": "summary",
+            "twitter:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "twitter:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "og:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "apple-mobile-web-app-capable": "yes"
+          },
+          "text": "Home \n \n \n \n The Crew \n \n \n \n Food Menu \n \n \n \n Lunch Menu \n \n \n \n Bar Menu \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n Quench \n Beer, Wine, and Cocktails \n \n \n \n Draft Beer \n Light & Crisp \n \n \n HOUSE CREAM ALE \n Medium body, crisp, smooth, and creamy. Brewed with corn grits, two-row barley malt, and hops from the Yakima Valley. \n \n \n \n \n MICHELOB ULTRA \n Light Citrus aroma and a crisp refreshing taste \n \n \n \n \n \n MILLER LITE \n Smooth, light, and refreshing. Subtle toasted grain, citrus, and fruity aromas. \n \n \n \n \n \n \n \n Fruity \n \n \n HARPOON UFO WHITE \n Notes of Citrus and Spice with the addition of California orange peel and fresh ground coriander. Smooth and hazy, think Blue Moon \n \n \n \n \n GOAT ISLAND BLOOD ORANGE \n A wheat ale with tart flavor and predominant sweet blood orange aroma. Smooth and subtle maltiness, very drinkable and refreshing \n \n \n \n \n \n FAIRHOPE BLUE STEEL \n Light in body, sourness merges with tartness of lemons, balanced by slight sweetness of blueberries. Light purple with big blueberry aroma \n \n \n \n \n \n \n \n Hoppy \n \n \n FAIRHOPE TAKE THE CAUSEWAY IPA \n Medium Body with a hoppy finish... Citrusy aroma and a flavor profile of grapefruit, tangerine, & orange zest. \n \n \n \n \n HI-WIRE LO-PITCH HAZY IPA \n Easy drinking IPA that packs a bright citrus hop punch without all the bitterness. A flavor profile of juicy citrus & light malt. \n \n \n \n \n \n BRAIDED RIVER HOPPY BY NATURE \n Gulf Coast IPA with tropical, fruity flavors complimented by a well-balanced bitterness. Notes of Pineapple, Mango, & Grapefruit \n \n \n \n \n \n \n \n Malty \n \n \n PENSACOLA BAY RIPTIDE AMBER \n Medium bodied, American amber ale that is malt forward with notes of toffee, caramel, and toast \n \n \n \n \n GOAT ISLAND DUCK RIVER DUNKEL \n Bavarian-style Lager with a bready-malt backbone and dry finish. Well balanced, refreshing, and drinkable. \n \n \n \n \n \n BACK FORTY TRUCK STOP HONEY \n Medium bodied brown ale brewed with AL Wildflower Honey, roasted malts & fresh hops. Nutty flavors and a touch of biscuit. \n \n \n \n \n YUENGLING \n Medium bodied, well balanced with roasted caramel malt and a combination of cluster and cascade hops. Subtle sweetness. \n \n \n \n \n \n \n \n Seasonal \n \n \n Goat Island Thrill Hill Vanilla Porter \n Dark, malty goodness with an aroma of bread and vanilla. \n \n \n \n \n \n \n \n \n \n \n \n \n Draft Beer \n Packaged Beer \n \n \n BUD LIGHT \n \n \n \n \n \n MICHELOB ULTRA \n \n \n \n \n \n BUDWEISER \n \n \n \n \n \n \n MILLER LITE \n \n \n \n \n \n COORS LIGHT \n \n \n \n \n \n CORONA LIGHT \n \n \n \n \n \n \n \n \n Non-Alcoholic Beer \n \n \n COORS EDGE N/A \n \n \n \n \n \n \n SAM ADAMS IPA N/A \n \n \n \n \n \n \n \n \n Wine \n \n \n CHARDONNAY - CAVIT \n \n \n \n \n \n PINOT GRIGIO - CAVIT \n \n \n \n \n \n MOSCATO - CRANE LAKE \n \n \n \n \n \n \n RED BLEND - FRONTERA \n \n \n \n \n \n MERLOT - CAVIT \n \n \n \n \n \n CABERNET - CRANE LAKE \n \n \n \n \n \n \n \n \n Craft Cocktails \n \n \n ABSOLUT PARADISE \n Absolut Vodka, Coconut Rum, Peach Schnapps. Pineapple, Orange & Cranberry juices \n \n $9.36 \n \n \n STRAWBERRY MINT LEMONADE \n Svedka Strawberry Lemonade Vodka, muddled mint and strawberries, lemonade \n \n $8.32 \n \n \n BLOODY MARY \n House Vodka, Bloody Mary mix, Worchestershire \n \n $7.28 \n \n \n MOSCOW MULE \n House Vodka, Ginger Beer, Lime \n \n $7.28 \n \n \n MOJITO \n White Rum, muddled Mint, simple syrup, fresh lime, soda \n \n $7.28 \n \n \n JUNGLE JUICE \n Captain Morgan Spiced Rum, Melon Liqueur, Coconut Rum, Blue Curacao, Sour Mix, Pineapple Juice \n \n $9.36 \n \n \n PINA COLADA PUNCH \n White Rum, Coconut Rum, Cream of Coconut, Pineapple, Sprite \n \n $7.28 \n \n \n PAID VACATION \n Coconut Rum, Blue Curacao, Banana Liqueur, Pineapple Juice, Sprite, Myer's Rum Float \n \n $9.36 \n \n \n ISLAND MARGARITA \n Espolon Blanco Tequila, White Rum, Gin, Vodka, Triple Sec, Blue Curacao, Sour Mix, Splash of Sprite, Lime \n \n $10.40 \n \n \n \n SENORITA ROSA \n Tequila Rose, Tequila, Sour Mix, Muddled Strawberries \n \n $8.32 \n \n \n LIQUID GOLD \n Lunazul Reposado Tequila, Licor 43, Splash Pineapple, Lime \n \n $8.32 \n \n \n SMOKED PINEAPPLE MEZCALITA \n Mezcal, Smoked Pineapple Juice, Lime, Agave \n \n $9.36 \n \n \n TEQUILA SUNRISE \n House Tequila, Orange Juice, Grenadine \n \n $7.28 \n \n \n RED BULL WATERMELON PALOMMA \n House Tequila, Watermelon Red Bull, Aperol, Lime, Grapefruit, Sprite \n \n $8.32 \n \n \n SMOKED OLD FASHIONED \n Four Roses Bourbon, Bitters, Simple Syrup, Orange & Cherry \n \n $9.36 \n \n \n MINT JULEP \n Four Roses Bourbon, Muddled Mint, Simple Syrup \n \n $8.32 \n \n \n KENTUCKY MULE \n House Bourbon, Ginger Beer, Lime \n \n $7.28 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Location 3800 Gulf Shores Parkway, Gulf Shores, Alabama 36542, United States \n \n Contact info@bleusburger.com \n \n Hours Sun - Thu \n 11:00 am \n- 8:00 pm \n \n \n Fri - Sat \n 11:00 am \n- 9:00 pm \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n\n \n \n\n \n \n \n \n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n\n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n\n \n\n \n Share by:",
+          "title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.bleusburger.com/lunch-menu",
+          "meta": {
+            "og:url": "https://www.bleusburger.com/lunch-menu",
+            "og:type": "website",
+            "og:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "og:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "viewport": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+            "description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:card": "summary",
+            "twitter:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "twitter:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "og:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "apple-mobile-web-app-capable": "yes"
+          },
+          "text": "Home \n \n \n \n The Crew \n \n \n \n Food Menu \n \n \n \n Lunch Menu \n \n \n \n Bar Menu \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n $AVE \n THE LUNCH MENU \n \n \n \n Menu \n Lunch Specials - Served Daily 11AM-3PM. Includes Iced Tea \n \n \n Meatloaf & Mash \n Sauced and served with mashed potatoes & gravy, country green beans \n \n $12.48 \n \n \n Fried Chicken \n A fried chicken thigh atop mashed potatoes & gravy with buttered corn \n \n $11.44 \n \n \n Red Beans & Rice \n Red beans, trinity & andouille sausage atop white rice with a fried chicken thigh \n \n $11.44 \n \n \n Country Fried Steak \n Fried golden brown with gravy, country green beans & mac & cheese \n \n $11.44 \n \n \n Shrimp & Grit Cakes \n Blackened shrimp, panko breaded grit cakes, crawfish & andouille cream sauce \n \n $12.48 \n \n \n \n Blackened Mahi Mahi \n Creamy garlic slaw, potato dippers, cilantro jalapeño lime aioli \n \n $12.48 \n \n \n Brisket Chili & Grilled Cheese \n Our hearty chili with shredded cheese, sour cream & scallions with a sourdough grilled cheese \n \n $11.44 \n \n \n Sides Plate \n Green beans, mashed potatoes & gravy, buttered corn & mac & cheese \n \n $11.44 \n \n \n Boogie Woogie \n 4 oz lunch burger, cheddar, shredded lettuce, tomato, dill pickle, red onion and bleus sauce, served with potato dippers (sub the American South or Black & Bleu burger) \n \n $11.44 \n \n \n \n \n \n Additional Sides \n \n \n Mashed Potatoes & Gravy \n \n \n $3.12 \n \n \n Red Beans & Rice \n \n \n $3.12 \n \n \n Mac & Cheese \n \n \n $3.12 \n \n \n Coleslaw \n \n \n $3.12 \n \n \n \n Country Green Beans \n \n \n $3.12 \n \n \n Fried Okra \n \n \n $3.12 \n \n \n Buttered Corn \n \n \n $3.12 \n \n \n Freshly Baked Brown Bread and Salted Honey Butter \n \n \n $1.30 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Location 3800 Gulf Shores Parkway, Gulf Shores, Alabama 36542, United States \n \n Contact info@bleusburger.com \n \n Hours Sun - Thu \n 11:00 am \n- 8:00 pm \n \n \n Fri - Sat \n 11:00 am \n- 9:00 pm \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n\n \n \n\n \n \n \n \n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n\n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n\n \n\n \n Share by:",
+          "title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.bleusburger.com/menu",
+          "meta": {
+            "og:url": "https://www.bleusburger.com/menu",
+            "og:type": "website",
+            "og:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "og:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "viewport": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+            "description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:card": "summary",
+            "twitter:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "twitter:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "og:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "apple-mobile-web-app-capable": "yes"
+          },
+          "text": "Home \n \n \n \n The Crew \n \n \n \n Food Menu \n \n \n \n Lunch Menu \n \n \n \n Bar Menu \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n CRAVE \n THE MENU \n \n \n \n Menu \n Starters \n \n \n FRIED OKRA \n Remoulade or Buttermilk Dill Ranch \n \n $10.40 \n \n \n CRAWFISH QUESO \n Andouille sausage & crawfish tails in a creamy queso with roasted peppers & onions. Served with fresh fried corn tortilla chips \n \n $13.52 \n \n \n ONE BIG PRETZEL \n Bigger than your head. Slathered in butter & everything bagel seasoning, cheese or cajun mustard dipping sauces \n \n $12.48 \n \n \n BOUDIN CRAWFISH CAKES \n Set atop crab cream sauce & topped with remoulade \n \n $13.52 \n \n \n FRIED PICKLES \n Panko breaded dill pickle coins, buttermilk dill ranch \n \n $10.40 \n \n \n \n CARBONARA CAPELLINI CAKES \n Angel hair pasta tossed with green peas, parmesan, mozzarella & pecorino romano & applewood bacon. Panko breaded & lightly fried, san marzano marinara \n \n $12.48 \n \n \n BRUSSELS SPROUTS \n Fresh sprouts, flash fried, gorgonzola cream, applewood bacon, & pickled red onion \n \n $12.48 \n \n \n CAULIFLOWER WINGS \n Fresh cauli florets, lightly breaded & fried golden. Traditional buffalo, bourbon buffalo glaze, or sesame soy glaze. Naked \n \n $12.48 \n \n \n CHICKEN WINGS \n Fresh wings, brined, baked, & fried. Sauces: Traditional buffalo, bourbon buffalo glaze, bbq, sesame soy glaze, cajun dry rub (6, 12, or 24 Count) \n \n \n \n 8.32/16.64/31.20 \n \n \n \n \n \n \n \n \n \n \n Menu \n BURGERS - 1/2 LB SMASH BURGERS SERVED W/ FRIES, SLAW, OR SIDE SALAD \n \n \n HIGHWAY 61 \n Cheddar, Applewood Smoked Bacon, Candied Jalapeno, Onion Straws, House BBQ Sauce, & Baby Arugula on a Brioche Bun \n \n \n \n $16.64 \n \n \n EASY RIDER \n Cheddar, Grilled Onions, Spicy Garlic Aioli, Onion Straws, & Baby Arugula on a Pretzel Bun \n \n $16.64 \n \n \n AMERICAN SOUTH \n American Cheese, Dill Pickles, Chopped Raw Onion, & Mayo on a Brioche Bun \n \n $15.60 \n \n \n MEMPHIS SLIM \n Pepperjack, Grilled Jalapenos, Applewood Smoked Bacon, Pickled Jalapeno, Lettuce, & Sweet Sesame Soy Glaze on a Brioche Bun \n \n \n \n $16.64 \n \n \n FAT POSSUM \n The Patty Melt. American Cheese, Applewood Smoked Bacon, Grilled Onions, and Spicy Garlic Aioli on Sourdough \n \n \n \n $16.64 \n \n \n CROSS ROADS \n Jalapeno Cream Cheese, Bacon, Onion Straws, Pickled Jalapenos, Cilantro Jalapeno Lime Aioli, & Shredded Lettuce on a Brioche Bun \n \n $16.64 \n \n \n \n BOOGIE WOOGIE \n Cheddar, Applewood Smoked Bacon, Shredded Lettuce, Tomato, Onion, Dill Pickles & Bleus Sauce on a Brioche Bun \n \n $16.64 \n \n \n BLACK & BLEU \n Blackened Beef, Applewood Bacon, Onion Straws, Gorgonzola Cream, & Baby Arugula on a Brioche Bun \n \n $16.64 \n \n \n LUCILLE \n Aged Swiss, Applewood Bacon, Mushroom Gravy, Roasted Garlic Parmesan Truffle Aioli, & Baby Arugula on a Brioche Bun \n \n \n \n $16.64 \n \n \n RAGIN' CAJUN \n Blackened Beef, Pepperjack, Boudin Sausage, Crawfish Queso & Baby Arugula on a Brioche Bun \n \n $17.68 \n \n \n BLIND COW \n Swiss, Brisket, Bacon, Pickles, BBQ Sauce, Bleus Sauce, & Baby Arugula on a Brioche Bun \n \n $17.68 \n \n \n BIG BRUISER \n Braised Beef Cheeks, Mac & Cheese, BBQ & Creamy Carolina Sauces on a Pretzel Bun \n \n $17.68 \n \n \n \n \n \n \n \n \n \n Menu \n Plates \n \n \n BRAISED BEEF CHEEKS \n Slow braised in Cabernet & dark beer, brussels sprouts, mashed potatoes & braising jus gravy \n \n $28.08 \n \n \n DOUBLE BONE-IN CHOP \n 16 oz Duroc pork chop, grilled and set atop mashed potatoes with braising jus gravy, tomato chutney, green beans \n \n $28.08 \n \n \n FRIED CHICKEN \n Hand breaded chicken tenderloins, potato dippers, & spicy garlic slaw with honey mustard or bbq sauce \n \n $16.64 \n \n \n BOUDIN CRAWFISH CAKES \n Served atop red beans & rice, remoulade, scallions \n \n $18.72 \n \n \n \n BLACKENED SHRIMP TACOS \n Two griddled flour tortillas, marinated vegetable & cilantro jalapeno lime slaw, served with fresh fried tortilla chips & crawfish queso \n \n $17.68 \n \n \n RED BEANS & RICE \n A traditional southern classic with andouille sausage, served along side a fried chicken thigh \n \n $16.64 \n \n \n SHRIMP & CRAWFISH ETOUFFEE \n Served atop white rice with a side of fried okra \n \n $18.72 \n \n \n \n \n \n Pasta \n \n \n BEEF CHEEK RAGU \n Slow braised beef cheeks atop cavatappi pasta, san marzano basil marinara, parmesan, & pecorino romano \n \n $19.76 \n \n \n DIRTY MAC \n Brisket burnt ends atop cavatappi mac & cheese, bbq sauce, dill pickles \n \n $19.76 \n \n \n ZYDECO SHRIMP PASTA \n Blackened shrimp atop crawfish cream cavatappi pasta, shaved parmesan, scallions \n \n $18.72 \n \n \n \n CAJUN CRAWFISH PASTA \n Andouille sausage & crawfish tails in a rich, creamy cavatappi pasta, shaved parmesan & scallions \n \n $17.68 \n \n \n FRIED CHICKEN PASTA \n Hand breaded chicken tenderloins atop cavatappi mac & cheese, dill pickles, jalapeno peppers and freshly baked bread \n \n $16.64 \n \n \n \n \n \n Locals Only \n \n \n BURNT END FRIES \n Brisket burnt ends, house bbq sauce, creamy carolina aioli & pickled jalapenos \n \n $13.56 \n \n \n NASHVILLE HOT TOTS \n House made tater tots, nashville hot seasoning, buttermilk bleu cheese, traditional buffalo sauce \n \n $11.44 \n \n \n \n SMASH BOWL \n Loaded with cheese sauce, smash sauce, a chopped cheesy burger, bacon, grilled onions & dill pickles \n \n $14.52 \n \n \n DIRTY NACHOS \n Brisket, cheddar cheese sauce, grilled onions, & pickled jalapenos atop fresh fried tortilla chips \n \n $14.48 \n \n \n \n \n \n \n \n \n \n Menu \n VEGGIE \n \n \n HOBO BURGER \n House-made herbed chickpea patty, tomato, red onion, cilantro jalapeno lime slaw on a brioche bun \n \n $14.52 \n \n \n \n FALAFEL TACOS \n Two grilled flour tortillas with house-made herbed falafel, marinated vegetable, sesame slaw, cilantro jalapeno lime aioli \n \n $14.44 \n \n \n \n \n \n KIDS MENU \n \n \n GUITAR SOLO \n 4 oz burger with american cheese \n \n $9.36 \n \n \n FLEETWOOD MAC \n Macaroni & cheese \n \n $9.36 \n \n \n \n YARD BIRDS \n Chicken tenders (Honey mustard, bbq, or ranch) \n \n $9.36 \n \n \n GRILLED CHEEZ \n American cheese on sourdough \n \n $9.36 \n \n \n \n \n \n SOUPS \n \n \n GUMBO \n Shrimp, chicken, & andouille sausage in a dark roux, white rice, & topped with fried okra. Cup or Bowl. \n \n \n \n 6.24/9.36 \n \n \n \n CORN & CRAB BISQUE \n Charred corn & lump crab meat in a luxurious creole cream base. Shaved parmesan & scallions. Cup or Bowl. \n \n \n \n 7.28/10.40 \n \n \n \n \n \n SALADS \n \n \n SOUP & SALAD \n Choice of soup & our house salad... fresh spring greens & crispy romaine, grape tomato, shaved red onion, cucumber, smoked gouda, apple & andouille vinaigrette \n \n $12.48 \n \n \n THE BLEU \n Fresh spring greens & crispy romaine, grape tomato, shaved red onion, cucumber, bacon, gorgonzola crumble, onion straws, buttermilk bleu cheese, & balsamic glaze. Small or Large \n \n \n \n 7.28/12.48 \n \n \n \n CHICKEN BLT COBB \n Fresh spring greens & crispy romaine, grape tomato, cucumber, red onion, applewood bacon, smoked gouda, boiled egg, & buttermilk dill ranch topped with a fried chicken thigh. \n \n \n \n $13.52 \n \n \n CHARRED SHALLOT & ARUGULA \n Baby arugula & spring greens, charred shallots, applewood bacon, grape tomatoes, boiled egg, shaved parmesan, roasted garlic lemon vinaigrette. Small or Large. \n \n \n \n 7.28/12.48 \n \n \n \n \n \n \n \n \n \n Menu \n SIDES \n \n \n POTATO DIPPERS \n \n \n $5.20 \n \n \n PARMESAN TRUFFLE DIPPERS \n \n \n $6.24 \n \n \n GORGONZOLA & CHEESE DIPPERS \n \n \n $6.24 \n \n \n ONION RINGS \n Served with spicy garlic aioli \n \n \n \n $6.24 \n \n \n HOUSE MADE TOTS \n Served with spicy garlic aioli \n \n \n \n $6.24 \n \n \n SWEET POTATO FRIES \n Served with sweet vanilla cream \n \n \n \n $6.24 \n \n \n FRIED OKRA \n Served with remoulade or ranch \n \n \n \n $5.20 \n \n \n CREAMY GARLIC SLAW \n \n \n $4.16 \n \n \n \n SIDE SALAD \n \n \n $6.24 \n \n \n MAC & CHEESE \n \n \n $6.24 \n \n \n RED BEANS & RICE \n \n \n $5.20 \n \n \n GREEN BEANS \n \n \n $4.16 \n \n \n MASHED POTATOES \n With gravy \n \n \n \n $5.20 \n \n \n BRUSSELS SPROUTS \n \n \n $6.24 \n \n \n RICE & GRAVY \n \n \n $4.16 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Location 3800 Gulf Shores Parkway, Gulf Shores, Alabama 36542, United States \n \n Contact info@bleusburger.com \n \n Hours Sun - Thu \n 11:00 am \n- 8:00 pm \n \n \n Fri - Sat \n 11:00 am \n- 9:00 pm \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n\n \n \n\n \n \n \n \n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n\n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n\n \n\n \n Share by:",
+          "title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.bleusburger.com/new-page",
+          "meta": {
+            "og:url": "https://www.bleusburger.com/new-page",
+            "og:type": "website",
+            "og:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "og:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "viewport": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+            "description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:card": "summary",
+            "twitter:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "twitter:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "og:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "apple-mobile-web-app-capable": "yes"
+          },
+          "text": "Home \n \n \n \n The Crew \n \n \n \n Food Menu \n \n \n \n Lunch Menu \n \n \n \n Bar Menu \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n Meet The Crew \n \n \n Meet the team that makes the magic happen. From those who create those masterpieces you love inhaling to those who deliver them. \n \n \n \n \n \n \n Scott Keel \n Executive ProducerHometown: Auburn, AL. Musician. Tech junkie. Restaurant and Pub owner by day. Foodie and travel enthusiast all day. Moonlighting as a travel advisor. \n \n \n Learn more \n \n \n \n \n \n \n Susan Ellis \n Executive ProducerHometown: Tuscaloosa, AL. The mastermind behind our recipes. Culinary artist. Lover of the arts. Painter, crafter, dreamer.  \n \n \n Learn more \n \n \n \n \n \n \n Nathan Keel \n Pyrotechnics/Special EffectsHometown: Auburn, AL \n \n \n Button \n \n \n \n \n \n \n Caleb Keel \n Key GripHometown: Orange Beach, AL. \n \n \n Button \n \n \n \n \n \n \n Emilee Ellis \n Special EffectsHometown: Gulf Shores, AL \n \n \n Button \n \n \n \n \n \n \n Austin Drinovsky \n RoadieHometown: Mobile, AL. \n \n \n Button \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Location 3800 Gulf Shores Parkway, Gulf Shores, Alabama 36542, United States \n \n Contact info@bleusburger.com \n \n Hours Sun - Thu \n 11:00 am \n- 8:00 pm \n \n \n Fri - Sat \n 11:00 am \n- 9:00 pm \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n\n \n \n\n \n \n \n \n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n\n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n\n \n\n \n Share by:",
+          "title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+          "structuredData": []
+        },
+        {
+          "url": "https://www.bleusburger.com",
+          "meta": {
+            "og:url": "https://www.bleusburger.com/",
+            "og:type": "website",
+            "og:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "og:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "viewport": "initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+            "description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:card": "summary",
+            "twitter:image": "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg",
+            "twitter:title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+            "og:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "twitter:description": "Bleus Burger elevates the humble burger to an art form. Craft smash burgers, crispy wings, juicy tenders, and sandwiches. We offer vibrant veggie options including a house-made veggie burger and fresh salads. Pair with a craft cocktail or one of fifteen craft beers on tap. Flavor, elevated. Serving the Gulf Shores, Foley, Orange Beach Area.",
+            "apple-mobile-web-app-capable": "yes"
+          },
+          "text": "Home \n \n \n \n The Crew \n \n \n \n Food Menu \n \n \n \n Lunch Menu \n \n \n \n Bar Menu \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Order Online \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Burgers, Craft Beer & Cocktails \n Bleus Burger \n Serving the Gulf Shores, Foley, Orange Beach Area \n \n \n Order Online \n \n \n \n \n Discover Gulf Shores' \n BEST BURGER \n Bleus Burger in Gulf Shores, AL, elevates the humble burger to an art form. We specialize in gourmet craft smash burgers, alongside crispy wings, juicy tenders, and inventive sandwiches. Not just a burger joint, we offer vibrant veggie options and fresh salads. Pair your meal with a handcrafted cocktail or explore our selection of fifteen craft beers on tap. It's flavor, elevated. \n \n Bar Menu \n \n \n \n \n Food Menu \n \n \n \n \n Lunch Menu \n \n \n \n \n \n \n \n \n \n \nYour browser does not support the audio tag. \n \n \n \n \n \n \n \n \n \n \n Sun - Thu \n 11:00 am \n- 8:00 pm \n \n \n Fri - Sat \n 11:00 am \n- 9:00 pm \n \n \n \n \n \n \n \n \n \n \n \n \n 3800 Gulf Shores Pkwy. STE 240 \n Gulf Shores, AL 36542 \n \n \n \n \n \n \n \n \n ﻿info@bleusburger.com \n \n \n \n \n \n \n \n \n \n Half-Pound Craft Smash Burgers \n With House-made Sauces and Toppings and only the freshest CAB premium ground beef. \n \n \n Button \n \n \n \n \n \n \n Sides \n More than fries. We've got sides galore! \n \n \n Button \n \n \n \n \n \n \n Comfort Food \n House Made Pasatas, Soups, and Cajun Dishes \n \n \n Button \n \n \n \n \n \n \n Craft Beer & Cocktails \n Fifteen taps to choose from \n \n \n Button \n \n \n \n \n \n \n \n \n \n \n \n meatArtboard 5 \n \n \n \n \n \n \n We use 100% FRESH CAB chuck, sourced from Alabama-based, family owned Evans Meats. Supporting small farms and ranches in Alabama. \n \n \n \n \n \n \n Our toppings are as fresh as it gets. All burger sauces are made in house with love. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Not a fry-guy (or gal)? We've got you covered. O-rings, house-made tots, chips & queso, fried okra, Mac & Cheese, hand-cut slaw, sweet potato fries and more.! \n \n \n \n \n \n \n Fifteen taps of craft beer with a great bourbon selection and craft cocktails. \n \n \n \n \n \n Bleus Burger is a \n From Scratch Kitchen \n We use only the freshest and finest ingredients possible. All of our burger and fry sauces are made from scratch daily right in our kitchen in Gulf Shores. Our burgers are 100% fresh, NEVER frozen, premium CAB beef, hand-smashed to order. You'll never get \"superstore\" meat at Bleus. Ask before you eat! \n \n \n © Mapbox © OpenStreetMap Improve this map \n \n \n Contact Us! \n Contact Us \n First Name \n \n Last Name \n \n Phone \n \n Email \n \n Message \n \n \n \n \n \n \n \n Thank you for contacting us.We will get back to you as soon as possible \n Oops, there was an error sending your message.Please try again later \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Location 3800 Gulf Shores Parkway, Gulf Shores, Alabama 36542, United States \n \n Contact info@bleusburger.com \n \n Hours Sun - Thu \n 11:00 am \n- 8:00 pm \n \n \n Fri - Sat \n 11:00 am \n- 9:00 pm \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n \n\n \n \n\n \n \n \n \n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n\n \n \n \n\n \n \n\n \n \n\n \n \n \n\n \n\n \n\n \n Share by:",
+          "title": "Bleus Burger Restaurant and Bar - Serving the Gulf Shores, Foley, Orange Beach Area",
+          "structuredData": [
+            {
+              "url": "https://www.bleusburger.com/",
+              "name": "Bleus Burger Restaurant & Bar",
+              "@type": "WebSite",
+              "@context": "https://schema.org"
+            },
+            {
+              "@id": "https://www.bleusburger.com",
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "30.302294",
+                "longitude": "-87.680551"
+              },
+              "url": "https://www.bleusburger.com",
+              "logo": "https://irp.cdn-website.com/358be895/dms3rep/multi/345929776_1643300182813138_8189093518638050763_n.jpg",
+              "name": "Bleus Burger Restaurant & Bar",
+              "@type": "Restaurant",
+              "email": "info@bleusburger.com",
+              "image": [
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/345929776_1643300182813138_8189093518638050763_n.jpg",
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/IMG_0464.jpg",
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/IMG_0409.jpg",
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/IMG_0406.jpg",
+                "https://irp.cdn-website.com/358be895/dms3rep/multi/IMG_0461.jpg"
+              ],
+              "sameAs": [
+                "https://youtube.com/@bleusburger",
+                "https://tripadvisor.com/Restaurant_Review-g30582-d13207304-Reviews-Bleus_Burger-Gulf_Shores_Alabama.html?m=69573",
+                "https://google.com/maps/place/Bleus+Burger+Restaurant+and+Bar/@30.3010457,-87.6835403,724m",
+                "https://tiktok.com/@bleusburger",
+                "https://facebook.com/bleusburger",
+                "https://yelp.com/biz/bleus-burger-gulf-shores-3",
+                "https://instagram.com/bleusburger/"
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "postalCode": "36542",
+                "addressRegion": "Alabama",
+                "streetAddress": "3800 Gulf Shores Parkway",
+                "addressCountry": "US",
+                "addressLocality": "Gulf Shores"
+              },
+              "@context": {
+                "@vocab": "http://schema.org/"
+              },
+              "telephone": "2512198448",
+              "priceRange": "$10-20",
+              "description": "Bleus Burger in Gulf Shores, AL, elevates the humble burger to an art form. We specialize in gourmet craft smash burgers, alongside crispy wings, juicy tenders, and inventive sandwiches. Not just a burger joint, we offer vibrant veggie options and fresh salads. Pair your meal with a handcrafted cocktail or explore our rotating selection of fifteen craft beers on tap. It's flavor, elevated.",
+              "openingHoursSpecification": [
+                {
+                  "@type": "OpeningHoursSpecification",
+                  "opens": "11:00",
+                  "closes": "21:00",
+                  "dayOfWeek": [
+                    "Saturday",
+                    "Friday"
+                  ]
+                },
+                {
+                  "@type": "OpeningHoursSpecification",
+                  "opens": "11:00",
+                  "closes": "20:00",
+                  "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Sunday"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "pdfUrls": [],
+      "pdfTexts": [],
+      "imageUrls": [
+        "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-168w.jpg",
+        "https://lirp.cdn-website.com/358be895/dms3rep/multi/opt/345929776_1643300182813138_8189093518638050763_n-1920w.jpg"
+      ],
+      "scraped_at": "2026-03-21T15:02:54.670Z",
+      "business_name": "Bleus Burger Restaurant and Bar"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.315137+00:00",
+    "updated_at": "2026-05-21T06:05:40.378223+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": "high",
+    "extraction_timestamp": "2026-05-21T06:05:37.253+00:00",
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "2332bc2a-b202-4a72-9c6b-cc8b24c05b75",
+      "tag": "burgers",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "70624f75-6216-4c35-a187-c73f9f406c1c",
+      "tag": "craft-beer",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "bef9af99-c42d-4c79-9fe4-508bbcaff510",
+      "tag": "cocktails",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "bcd9e317-0eaa-4c06-8332-2de7dad7fe07",
+      "tag": "smash-burgers",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "16a0b7d8-3dde-4bb5-a3fd-d650f5af5729",
+      "tag": "wings",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "ed6a7e8c-d577-4846-bd9f-2e4ca6e116a5",
+      "tag": "tenders",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "6d3e25e4-a76a-4159-94cd-ae80a12e2d94",
+      "tag": "sandwiches",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "d25619cf-325d-4205-a380-e40c6b6fde49",
+      "tag": "vegetarian",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "98b7c4ed-a9bb-42cc-aa32-9d4039e94c5b",
+      "tag": "salads",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "5c98e8c9-cc1c-4b8e-96b0-fe8590545cbb",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "d2db9ce0-52ce-4c7f-a6a0-a3a5f6fac684",
+      "tag": "foley",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "0348fe71-749b-452f-9d8a-56a2127d7cde",
+      "tag": "orange-beach",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "ca8f03a3-c6f5-4688-a80f-35ca046cda48",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 12
+    },
+    {
+      "id": "6821942f-b375-439e-8282-12d3cbd1fc9b",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 13
+    },
+    {
+      "id": "1385e520-35dc-4057-a42f-7dc9e62adbf7",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 14
+    },
+    {
+      "id": "90aee0fb-c37e-43cb-a111-54ddfde74257",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 15
+    },
+    {
+      "id": "26e1792b-7675-4b29-bc24-efe4aa5146d6",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 16
+    },
+    {
+      "id": "b1fc1908-657c-41ac-813f-c08cc746ef0f",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 17
+    },
+    {
+      "id": "31948610-c1f2-495f-86e2-64c2266bfb49",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "6a1c38d7-5cb9-4ed1-bf5c-8f4d51226ab9",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "82c2842a-6e1a-49b1-8720-c954c438a7d0",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 20
+    },
+    {
+      "id": "b387282b-9517-4c5a-ac4a-341be99e8e11",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 21
+    },
+    {
+      "id": "51b625e1-dd9d-4978-9723-3e715e1c6332",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 22
+    },
+    {
+      "id": "824cd241-d581-404f-a302-97f2e2cf7561",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 23
+    },
+    {
+      "id": "8a3f6b68-2cfc-4843-83b7-8fe7fb31c4e1",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 24
+    },
+    {
+      "id": "9a4df45a-01a8-47b0-9ff0-4fcdcbf4c54b",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 25
+    },
+    {
+      "id": "278e4f23-de98-4b39-80de-657c6e219c23",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 26
+    },
+    {
+      "id": "c73991a8-493c-4030-9b78-c62b678d363f",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 27
+    },
+    {
+      "id": "2396a8af-9caf-44a6-92ff-9e166999a867",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 28
+    },
+    {
+      "id": "45b4668f-e339-4434-abf6-004bdd4d8105",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 29
+    },
+    {
+      "id": "889fb161-6342-4876-91d6-a94a2e625212",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 30
+    },
+    {
+      "id": "baeb1787-d3e6-42de-867e-b0b3d96fbc93",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 31
+    },
+    {
+      "id": "609ce72a-234b-41ef-9650-b51c27e51dd9",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 32
+    },
+    {
+      "id": "424c88ae-1f7f-4e12-a6a5-8cd462468e15",
+      "tag": "hamburger restaurant",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "3535b523-6a22-4096-9cd8-406ada685f96",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "2a797f21-37a7-4323-ae3d-52b25c4d19ab",
+      "tag": "gastropub",
+      "tag_category": "type",
+      "sort_order": 35
+    },
+    {
+      "id": "d1d47486-abbf-45bb-a127-a316e645cf62",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "3268cdbd-5358-4412-8fec-935944e29d11",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 37
+    },
+    {
+      "id": "1dc01790-276d-41f9-b239-31f1a4cc5f7b",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 38
+    },
+    {
+      "id": "ca48848d-56ee-4a2d-90f4-b4dd0363f6ac",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 39
+    },
+    {
+      "id": "174d42a7-8ad3-4253-bb9b-45d8c47533d4",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 40
+    },
+    {
+      "id": "7f2ab66c-974f-4458-9530-252a2a971e3b",
+      "tag": "hamburger_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 41
+    },
+    {
+      "id": "381353b3-7d52-4f98-9ef2-515decc0124f",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 42
+    },
+    {
+      "id": "7d73f000-8594-4dee-8255-8b87fb120305",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 43
+    }
+  ],
+  "sections": [
+    {
+      "id": "e413e1d0-3f5c-4524-9dda-c14c74e3b980",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

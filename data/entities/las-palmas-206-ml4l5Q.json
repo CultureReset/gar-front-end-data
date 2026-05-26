@@ -1,32 +1,242 @@
 {
-  "id": "d4fcfb5c-9aff-4f0b-b998-6a0179ead7f3",
-  "slug": "las-palmas-206-ml4l5Q",
-  "name": "Las Palmas 206",
-  "entity_type": "hotel",
-  "entity_subtype": "hotel",
-  "icon": "🏪",
-  "description": "",
-  "phone": null,
-  "email": null,
-  "website_url": null,
-  "address_line_1": "W Lagoon Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 1,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "d4fcfb5c-9aff-4f0b-b998-6a0179ead7f3",
+    "place_id": "ChIJP5a9EwAbmogREAdn4ml4l5Q",
+    "google_maps_uri": "https://maps.google.com/?cid=10707159035261945616&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "las-palmas-206-ml4l5Q",
+    "name": "Las Palmas 206",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "hotel",
+    "secondary_types": [],
+    "google_type": "hotel",
+    "google_types": [
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "W Lagoon Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2459593,
+    "longitude": -87.7056949,
+    "short_address": "W Lagoon Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 1,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:27.38073+00:00",
+    "updated_at": "2026-05-17T21:17:43.365388+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ef1144a5-59b6-4127-ac0f-05a4ba04a7e2",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "5a5cccf5-8d39-4bcc-97ff-6a93a2041293",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "c7e5fc69-e242-4313-aaf0-ebc1d8274e97",
+      "tag": "hotel",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "a31645dc-66f7-419e-833e-bfa3162d95e9",
+      "tag": "hotel",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "f268ab06-7cc4-44c4-bd54-484b864be027",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "0dac7be3-5e6b-4125-aaa0-8f6b1a72aa65",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "9190c633-4665-4e6b-a796-2260f0d10a02",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "df3967cf-7033-4ce6-947e-b8d3f7f7b53d",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "5f57a1c6-e9a7-42f8-a3c2-2eeccfd5075c",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "2f175455-99fd-4b07-9502-2d178e1308d9",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "371ef91d-3b6a-4055-bbcb-4e93997ef818",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "b0b34871-93aa-435d-8611-0255d7833b31",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "4d8dd403-c12a-4957-8039-4169cdc3a5cf",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "9447d828-0ea4-4afe-9318-75dbb52bdcc2",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "5f8c6717-9361-4bba-b2a7-f79c266e3392",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

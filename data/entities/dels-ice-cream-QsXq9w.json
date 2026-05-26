@@ -1,32 +1,450 @@
 {
-  "id": "8740960d-fe2d-4853-baae-3840210dde07",
-  "slug": "dels-ice-cream-QsXq9w",
-  "name": "Del's Ice Cream",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "{\"description\":\"Del's Homemade Ice Cream serves Cammies Old Dutch, award winning ice cream. They offer 36 delicious, unique, homemade ice cream flavors in store and rotate through 80 different flavors daily. Del's offers Sundaes, Banana splits, milkshakes, and floats, as well as signature options. They also offer dairy free and sugar free options.\",\"elevator_pitch\":\"Award-winning homemade ice cream shop with 80 rotating flavors, sundaes, shakes, and dairy-free options.\",\"vibe\":\"Family-friendly ice cream destination on the beach\",\"best_for\":[\"families\",\"tourists\",\"ice cream lovers\"],\"established\":null,\"reservations\":null,\"insider_tip\":\"Must see and must eat in Orange Beach and Gulf Shores, Alabama\"}",
-  "phone": "(251) 273-6553",
-  "email": null,
-  "website_url": "http://www.delsicecream.com/",
-  "address_line_1": "25405 Perdido Beach Blvd Suite 1, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "25405",
-  "rating": 4.8,
-  "review_count": 943,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/6cc9d574-c97c-448f-a345-60fe9ac7038a/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "8740960d-fe2d-4853-baae-3840210dde07",
+    "place_id": "ChIJnRPrKxoHmogRBhplZQsXq9w",
+    "google_maps_uri": "https://maps.google.com/?cid=15900828247074871814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "dels-ice-cream-QsXq9w",
+    "name": "Del's Ice Cream",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "ice_cream_shop",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 273-6553",
+    "international_phone": null,
+    "website_url": "http://www.delsicecream.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25405 Perdido Beach Blvd Suite 1, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "25405",
+    "latitude": 30.2701191,
+    "longitude": -87.5928728,
+    "short_address": "25405 Perdido Beach Blvd Suite 1, Orange Beach",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 943,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"Del's Homemade Ice Cream serves Cammies Old Dutch, award winning ice cream. They offer 36 delicious, unique, homemade ice cream flavors in store and rotate through 80 different flavors daily. Del's offers Sundaes, Banana splits, milkshakes, and floats, as well as signature options. They also offer dairy free and sugar free options.\",\"elevator_pitch\":\"Award-winning homemade ice cream shop with 80 rotating flavors, sundaes, shakes, and dairy-free options.\",\"vibe\":\"Family-friendly ice cream destination on the beach\",\"best_for\":[\"families\",\"tourists\",\"ice cream lovers\"],\"established\":null,\"reservations\":null,\"insider_tip\":\"Must see and must eat in Orange Beach and Gulf Shores, Alabama\"}",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/6cc9d574-c97c-448f-a345-60fe9ac7038a/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.delsicecream.com/",
+      "menu": {
+        "categories": [
+          {
+            "name": "Ice Cream",
+            "type": "desserts",
+            "items": [
+              {
+                "name": "Homemade Ice Cream Flavors",
+                "tags": [
+                  "homemade"
+                ],
+                "price": null,
+                "allergens": [],
+                "description": "36 unique flavors in store, 80 rotating flavors daily"
+              },
+              {
+                "name": "Sundaes",
+                "tags": [],
+                "price": null,
+                "allergens": [],
+                "description": null
+              },
+              {
+                "name": "Banana Splits",
+                "tags": [],
+                "price": null,
+                "allergens": [],
+                "description": null
+              },
+              {
+                "name": "Milkshakes",
+                "tags": [],
+                "price": null,
+                "allergens": [],
+                "description": null
+              },
+              {
+                "name": "Floats",
+                "tags": [],
+                "price": null,
+                "allergens": [],
+                "description": null
+              }
+            ]
+          },
+          {
+            "name": "Dietary Options",
+            "type": "dietary",
+            "items": [
+              {
+                "name": "Dairy Free Ice Cream",
+                "tags": [
+                  "dairy-free"
+                ],
+                "price": null,
+                "allergens": [],
+                "description": null
+              },
+              {
+                "name": "Sugar Free Ice Cream",
+                "tags": [
+                  "sugar-free"
+                ],
+                "price": null,
+                "allergens": [],
+                "description": null
+              }
+            ]
+          }
+        ]
+      },
+      "tags": [
+        "ice cream",
+        "homemade",
+        "desserts",
+        "casual",
+        "dairy-free",
+        "sugar-free"
+      ],
+      "type": "Ice Cream Shop",
+      "about": {
+        "vibe": "Family-friendly ice cream destination on the beach",
+        "best_for": [
+          "families",
+          "tourists",
+          "ice cream lovers"
+        ],
+        "description": "Del's Homemade Ice Cream serves Cammies Old Dutch, award winning ice cream. They offer 36 delicious, unique, homemade ice cream flavors in store and rotate through 80 different flavors daily. Del's offers Sundaes, Banana splits, milkshakes, and floats, as well as signature options. They also offer dairy free and sugar free options.",
+        "established": null,
+        "insider_tip": "Must see and must eat in Orange Beach and Gulf Shores, Alabama",
+        "reservations": null,
+        "elevator_pitch": "Award-winning homemade ice cream shop with 80 rotating flavors, sundaes, shakes, and dairy-free options."
+      },
+      "hours": {
+        "notes": "Hours vary by location: Orange Beach 11 AM-10:30 PM, Gulf Shores Pkwy 11 AM-10:30 PM, W Beach Blvd 11 AM-10 PM",
+        "friday": "11 AM - 10:30 PM",
+        "monday": "11 AM - 10:30 PM",
+        "sunday": "11 AM - 10:30 PM",
+        "tuesday": "11 AM - 10:30 PM",
+        "saturday": "11 AM - 10:30 PM",
+        "thursday": "11 AM - 10:30 PM",
+        "wednesday": "11 AM - 10:30 PM"
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": [
+        {
+          "zip": null,
+          "city": "Orange Beach",
+          "email": null,
+          "phone": "251-273-6553",
+          "state": "AL",
+          "address": "25405 Perdido Beach Blvd, Suite 1"
+        },
+        {
+          "zip": null,
+          "city": "Gulf Shores",
+          "email": null,
+          "phone": "251-317-4042",
+          "state": "AL",
+          "address": "400 Gulf Shores Pkwy"
+        },
+        {
+          "zip": null,
+          "city": "Gulf Shores",
+          "email": null,
+          "phone": "883-983-2680",
+          "state": "AL",
+          "address": "610 W Beach Blvd"
+        }
+      ],
+      "gallery": [
+        "https://static.wixstatic.com/media/f388f4_ff246a11761545f2b04d3d2b671a11ca~mv2.png/v1/crop/x_683,y_155,w_1638,h_2689/fill/w_470,h_770,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/DELSICECREAM_LOGO-01.png",
+        "https://static.wixstatic.com/media/f388f4_11bbdb3d43c7403a84a3445c7a369241~mv2.png/v1/fill/w_1192,h_265,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DEL'SWEB_SMALLHEADER-01_edited.png",
+        "https://static.wixstatic.com/media/f388f4_235a49e6eab74cfcb912ebdb629006fd~mv2.jpeg/v1/fill/w_1440,h_1162,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f388f4_235a49e6eab74cfcb912ebdb629006fd~mv2.jpeg",
+        "https://static.wixstatic.com/media/f388f4_40a60ba74515467dbf805a3359d99a46~mv2.png/v1/fill/w_496,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ourflavors-01.png",
+        "https://static.wixstatic.com/media/f388f4_ebe77d0aa9ee49ad92c280e229588c3b~mv2.png/v1/fill/w_1045,h_536,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/ourflavors-01.png",
+        "https://static.wixstatic.com/media/baac51_809fe275413a451fbe5e2904700e26ea.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/baac51_809fe275413a451fbe5e2904700e26ea.png",
+        "https://static.wixstatic.com/media/f388f4_53c7cec4e40b414a9db4914099011d20~mv2.png/v1/fill/w_858,h_484,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/sugarfree-01-01.png",
+        "https://static.wixstatic.com/media/baac51_863daade1baf47a8995907cb1f24d57c.png/v1/fill/w_47,h_27,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/baac51_863daade1baf47a8995907cb1f24d57c.png",
+        "https://static.wixstatic.com/media/baac51_ec98ba3fb62b4140be49e8c2fde05a73.png/v1/fill/w_49,h_21,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/baac51_ec98ba3fb62b4140be49e8c2fde05a73.png"
+      ],
+      "sources": [
+        "https://www.delsicecream.com",
+        "https://www.delsicecream.com/about"
+      ],
+      "tagline": "Fresh n' Tasty!",
+      "features": [
+        "dairy free options",
+        "sugar free options"
+      ],
+      "specials": [],
+      "scraped_at": "2026-03-22T02:45:37.834Z",
+      "price_range": "$$",
+      "extracted_at": "2026-03-23T03:37:46.894Z",
+      "social_links": {
+        "website": "https://www.delsicecream.com",
+        "facebook": null,
+        "instagram": "#DELSICECREAMOB"
+      },
+      "business_name": "Del's Ice Cream"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.540391+00:00",
+    "updated_at": "2026-05-17T22:22:54.665548+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "0a636e91-994d-4d50-8a5a-0ba2a930c880",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "5a76ae5e-c403-40e4-bb6a-583da6c49e1e",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "8c067870-d64a-4d44-937d-5482936c4d60",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "3fa9a833-f503-48be-b129-96e79a92dc75",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "3d7293db-005d-493e-a20a-cfa26f220b75",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "1623fb4b-7e94-43bc-9e3d-08be708d3dca",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "7f51984e-746c-4572-8679-7611c743edb2",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "8125598e-95c0-4388-a0a5-13dd96b985d8",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "898ab3ae-9b0e-4847-9e43-6439ee8ebc4a",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "932a23de-6733-496a-a31d-3f2de9d26f69",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "bbecf620-0c61-41a5-a6e0-e693233605a8",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "f731e179-93b7-4744-b5bd-e2f678a15426",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 11
+    },
+    {
+      "id": "4426cf6f-e672-47a4-96c4-fb73246e31ab",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "5a89dd70-5d51-4881-94dc-7746ae4f4871",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 13
+    },
+    {
+      "id": "5e760917-a183-413f-9e1d-a6058864ae89",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "3286a8c3-b4b5-4de5-9703-36bc076be458",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "1d935f8a-fdcb-419c-aefb-8009d358cdbd",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "53f46a3c-28f4-4cf1-bafb-a726891ac3a3",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "238f10d5-4a55-45a2-a4a6-98b94d0d47e0",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 18
+    }
+  ],
+  "sections": [
+    {
+      "id": "1173427b-a60f-4301-9165-c4a0213be30e",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

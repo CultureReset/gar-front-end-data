@@ -1,32 +1,243 @@
 {
-  "id": "cf747de7-eb2f-49ab-90c4-971e7e8c6f94",
-  "slug": "canal-park-j62vIM",
-  "name": "Canal Park",
-  "entity_type": "activity",
-  "entity_subtype": "park",
-  "icon": "🏪",
-  "description": "",
-  "phone": null,
-  "email": null,
-  "website_url": "https://www.gulfshoresal.gov/1216/Canal-Park",
-  "address_line_1": "Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 3,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/9bf3075b-5646-4e9e-ac29-8e53e78ca024/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "cf747de7-eb2f-49ab-90c4-971e7e8c6f94",
+    "place_id": "ChIJbW_6an4FmogRnS3wpj62vIM",
+    "google_maps_uri": "https://maps.google.com/?cid=9492662494795148701&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "canal-park-j62vIM",
+    "name": "Canal Park",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "park",
+    "secondary_types": [],
+    "google_type": "park",
+    "google_types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": "https://www.gulfshoresal.gov/1216/Canal-Park",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2781754,
+    "longitude": -87.6865535,
+    "short_address": "Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 3,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/9bf3075b-5646-4e9e-ac29-8e53e78ca024/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.638853+00:00",
+    "updated_at": "2026-05-17T22:22:54.262913+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "aab41073-7184-49c8-a09f-4802916909ff",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "1ff0b011-cf44-4d19-8201-4e57daf8df0a",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "77c93b50-4106-4cbc-bc77-8cf544098ad1",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "561eef8a-404d-40df-a068-da7fbb9b9148",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "37e90df3-9f82-4aee-a5b9-fc2b1e91601d",
+      "tag": "park",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "4bdb7379-9924-4e2f-94df-d18321a1cc06",
+      "tag": "park",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "3ed994ed-a7f6-40bd-bf39-1823d2a10baf",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "65eaeec6-7c18-4ab0-979b-2bbee6b51159",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "1aa9b431-8916-43fe-9355-57e08e6b3a71",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "960e8a29-dbdd-475c-b254-b6b60411c882",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "e9e3ccb6-de66-4a61-b1e0-c0db95516b8b",
+      "tag": "outdoor",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "87840b04-bb07-4597-a037-e9b1e65088da",
+      "tag": "outdoor",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "fa13d99f-1c1c-4483-ae7c-49548c26294f",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "f3cd1d92-5f45-4ae5-ac1e-c1bed39dc597",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "89cf3b86-c59a-42fa-ac0b-dc148b523a3b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

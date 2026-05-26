@@ -1,57 +1,242 @@
 {
-  "id": "05870343-9541-496b-9ceb-eb8a7e9e4bbd",
-  "slug": "dsw-designer-shoe-warehouse-gj2jis",
-  "name": "DSW Designer Shoe Warehouse",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "Retail chain known for its discounted brand-name & designer shoes, handbags & accessories.",
-  "phone": "(850) 512-1395",
-  "email": null,
-  "address_line_1": "1650 Airport Blvd #350, Pensacola, FL 32504, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32504",
-  "website_url": "https://stores.dsw.com/usa/fl/pensacola/dsw-designer-shoe-warehouse-cordova-commons.html?y_source=1_MTY1MTczOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-  "rating": 4.1,
-  "review_count": 262,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "05870343-9541-496b-9ceb-eb8a7e9e4bbd",
+    "place_id": "ChIJMSxMVxHAkIgRxnR1bgj2jis",
+    "google_maps_uri": "https://maps.google.com/?cid=3138716506397177030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "dsw-designer-shoe-warehouse-gj2jis",
+    "name": "DSW Designer Shoe Warehouse",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "shoe_store",
+    "google_types": [
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 512-1395",
+    "international_phone": null,
+    "website_url": "https://stores.dsw.com/usa/fl/pensacola/dsw-designer-shoe-warehouse-cordova-commons.html?y_source=1_MTY1MTczOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1650 Airport Blvd #350, Pensacola, FL 32504, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32504",
+    "latitude": 30.481837,
+    "longitude": -87.208049,
+    "short_address": "1650 Airport Blvd #350, Pensacola",
+    "plus_code": null,
+    "rating": 4.1,
+    "review_count": 262,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Retail chain known for its discounted brand-name & designer shoes, handbags & accessories.",
+    "description": "Retail chain known for its discounted brand-name & designer shoes, handbags & accessories.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 7:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.904525+00:00",
+    "updated_at": "2026-05-18T21:06:28.942611+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "8484dda5-1bd8-44e0-8b7a-0df0185f1a0a",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "40e8796f-3665-45ed-86e9-58decafe1e8b",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "1d8c3c93-3ad5-4ff6-bd9c-6440217cf2d6",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "d86579fa-78b3-491d-b0b4-570f7cb41441",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "5a677927-8be0-4ea0-bece-ec30bbe2e00c",
       "tag": "shoe_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "c57da2ed-5986-4e27-8ab1-b153762224da",
+      "tag": "shoe_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "6e901423-3fb0-424a-b529-9e727972d6b6",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "1b692eed-553c-4a9b-a1ab-11709f03502c",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "ee0a4b53-f871-4cc0-b4f4-3c826d88a817",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "b2f2ed48-ca2a-4fc9-9c7a-1a7e8041b462",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "438b0cf9-ab13-4e6e-ae53-32f50ca5f5dd",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "d81ff008-eafa-436c-b19a-0b4a08aa363c",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 5
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "dfee1db5-3f69-4f2e-a9a0-0c3cc1dc9523",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

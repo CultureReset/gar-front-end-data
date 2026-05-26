@@ -1,32 +1,237 @@
 {
-  "id": "91a39214-1141-4148-931e-35ad05f5f46a",
-  "slug": "gulf-coast-house-of-jerky-wBIiPY",
-  "name": "Gulf Coast House Of Jerky",
-  "entity_type": "shopping",
-  "entity_subtype": "food_store",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 271-0318",
-  "email": null,
-  "website_url": "https://www.gulfcoasthouseofjerky.com/",
-  "address_line_1": "4751 Main St F-118, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.5,
-  "review_count": 98,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/c092179d-d2ca-4e64-9c7a-dc2a3d81ffc1/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "91a39214-1141-4148-931e-35ad05f5f46a",
+    "place_id": "ChIJiyfqQsMFmogRaKaE2wBIiPY",
+    "google_maps_uri": "https://maps.google.com/?cid=17764527898683025000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-coast-house-of-jerky-wBIiPY",
+    "name": "Gulf Coast House Of Jerky",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "food_store",
+    "secondary_types": [],
+    "google_type": "food_store",
+    "google_types": [
+      "grocery_store",
+      "food_store",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 271-0318",
+    "international_phone": null,
+    "website_url": "https://www.gulfcoasthouseofjerky.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4751 Main St F-118, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2938732,
+    "longitude": -87.6288662,
+    "short_address": "4751 Main St F-118, Orange Beach",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 98,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/c092179d-d2ca-4e64-9c7a-dc2a3d81ffc1/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeGarageParking": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 12:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.225833+00:00",
+    "updated_at": "2026-05-17T22:22:54.514784+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "c3f9ecd7-4a93-4feb-a26d-2062253336f8",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "ab931eb2-59cc-4016-b505-433dbaf800df",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "a2fa28d1-b34d-457f-aa4d-eb4a2a4e343f",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "4b5344be-0249-414c-9209-40867d0ec6cd",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "aea68a63-9e1e-4f15-a76b-aeaa8260ea1f",
+      "tag": "grocery store",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "8f881a31-da19-4fe2-afed-2a419b5c897a",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "b27b9928-6bfe-40a3-b437-0861ef32dca2",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "6fd10cc2-535b-4757-b9ed-933e021bef46",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "910c729e-16c8-4ede-9663-15d92fa15b46",
+      "tag": "grocery_store",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "4e9dd156-837c-41b2-9909-2e5082a09579",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    }
+  ],
+  "sections": [
+    {
+      "id": "cc8651c3-7d9b-4329-9b6e-9d2535ec6228",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,137 +1,330 @@
 {
-  "id": "437f8670-9203-4918-a517-194391e720af",
-  "slug": "grand-riviera-rv-resort-foley-alabama-ZFELqQ",
-  "name": "Grand Riviera Rv Resort — Foley, Alabama",
-  "entity_type": "hotel",
-  "entity_subtype": "rentals",
-  "icon": "🏪",
-  "description": "Grand Riviera RV Resort is a beautiful RV resort located in Foley, Alabama, offering the perfect combination of comfort and excitement, making it the ultimate destination for those seeking a relaxing and unforgettable getaway. Within a 10-mile radius, guests can find OWA, one of the largest amusement parks on the Gulf Coast, Tanger Outlet Mall, Alabama Gulf Coast Zoo, dozens of restaurants serving fresh Gulf seafood, state parks with nature, bicycle trails, dolphin cruises, the Wharf Marina, and the most beautiful white sandy beaches for swimming, sunbathing, and surfing. Whether planning a weekend getaway or extended stay, Grand Riviera RV Resort offers everything for guests who want to experience nature without sacrificing home comforts.",
-  "phone": "(251) 635-5125",
-  "email": null,
-  "address_line_1": "20750 Miflin Rd, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "https://www.grandrivierarentals.com/",
-  "rating": 4.6,
-  "review_count": 58,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "437f8670-9203-4918-a517-194391e720af",
+    "place_id": "ChIJcwLQ0DsPmogRkTNH5ZFELqQ",
+    "google_maps_uri": "https://maps.google.com/?cid=11830468664556467089&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "grand-riviera-rv-resort-foley-alabama-ZFELqQ",
+    "name": "Grand Riviera Rv Resort — Foley, Alabama",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "rentals",
+    "secondary_types": "",
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "campground",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 635-5125",
+    "international_phone": null,
+    "website_url": "https://www.grandrivierarentals.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "20750 Miflin Rd, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3673156,
+    "longitude": -87.6700145,
+    "short_address": "20750 Miflin Rd, Foley",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 58,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Grand Riviera RV Resort is a beautiful RV resort located in Foley, Alabama, offering the perfect combination of comfort and excitement, making it the ultimate destination for those seeking a relaxing and unforgettable getaway. Within a 10-mile radius, guests can find OWA, one of the largest amusement parks on the Gulf Coast, Tanger Outlet Mall, Alabama Gulf Coast Zoo, dozens of restaurants serving fresh Gulf seafood, state parks with nature, bicycle trails, dolphin cruises, the Wharf Marina, and the most beautiful white sandy beaches for swimming, sunbathing, and surfing. Whether planning a weekend getaway or extended stay, Grand Riviera RV Resort offers everything for guests who want to experience nature without sacrificing home comforts.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/Grandrivierarvresort",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": false,
+      "freeGarageParking": true,
+      "freeStreetParking": true,
+      "paidGarageParking": false,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.790486+00:00",
+    "updated_at": "2026-05-18T21:06:38.713165+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "90411721-6079-4fa5-91b1-6fe399fbe711",
       "tag": "RV resort",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "c58e35fd-103b-4582-ab5e-e6754f1e96c3",
       "tag": "RV sites",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "c98dc99f-fbfa-462a-bd0e-2c41640dde33",
       "tag": "camping",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "627984ea-52d4-44ab-98f2-4fce9df43144",
       "tag": "vacation rentals",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "8e016ee5-fd86-4ba8-b5bc-079556a2c69d",
       "tag": "RV hookups",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "1f080ced-fab2-46ed-b1c4-61744e27603b",
       "tag": "Foley Alabama",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "d38169d1-80d0-49ee-ae31-1bc77ad53216",
       "tag": "Gulf Coast",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "4994081a-4515-44f3-b0c7-b6719f8eedcc",
       "tag": "family friendly",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "80fe3066-1779-4109-b818-5c33bf7d36ae",
       "tag": "pet friendly",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
+      "id": "b601bdda-d082-4862-8ec9-b6b2be300861",
       "tag": "full hookups",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 9
     },
     {
+      "id": "767eb08c-c0fc-40d8-880a-823599ffa3ad",
       "tag": "long-term stays",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "8342a0a2-0fbf-430e-a2ab-c257b6dea220",
       "tag": "short-term rentals",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 11
     },
     {
+      "id": "c4776f01-3451-4d22-a78d-aed513e7e864",
       "tag": "Rentals",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 12
     },
     {
+      "id": "b7e3bdfd-3f6b-484d-97d8-dba940809cbf",
       "tag": "RV Parks",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 13
     },
     {
+      "id": "59b0cf83-e942-41b0-845f-cc6b6d3c5432",
       "tag": "Camping",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 14
     },
     {
+      "id": "69bef7ca-daee-4894-8f98-7a07bbd412c6",
       "tag": "Vacation Rentals",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 15
     },
     {
+      "id": "cbf828a8-403d-417c-aac0-1274ab1fbada",
       "tag": "Lodging",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 16
     },
     {
+      "id": "fbaad54e-abc5-444d-8119-8b6289c03c17",
       "tag": "Outdoor Recreation",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 17
     },
     {
+      "id": "55b546f6-8461-4e46-b882-930dd4b7f245",
       "tag": "outdoor-recreation",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 18
     },
     {
+      "id": "8edb0de9-f52a-46ad-82ee-aed31de1f0a2",
       "tag": "rentals",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 19
     },
     {
+      "id": "396fbd3e-8486-4d2d-af5b-4dfd6c79bcfb",
       "tag": "rv_park",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 20
     },
     {
+      "id": "078df16f-725b-425e-9144-bfb1460c37ca",
       "tag": "campground",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 21
     },
     {
+      "id": "11d8a3e3-c6a3-4935-97b7-59196fa391e1",
       "tag": "lodging",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 22
     },
     {
+      "id": "8751ca9c-9701-4691-87d5-8803f9151b0e",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 23
     },
     {
+      "id": "99bc1db0-8a8c-443e-acab-d2a4b5d5f086",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 24
     },
     {
+      "id": "cbfbb4ab-d422-4d7e-93a6-55cfe1282bf9",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 25
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "f11035a7-0476-40a4-95d7-607751f6c91d",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

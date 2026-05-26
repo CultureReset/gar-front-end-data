@@ -1,32 +1,554 @@
 {
-  "id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
-  "slug": "lamberts-cafe-llDIlI",
-  "name": "Lambert's Cafe",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Folksy local chain with classic Southern-American fare & \"throwed rolls.\"",
-  "phone": "(251) 943-7655",
-  "email": null,
-  "website_url": "http://www.throwedrolls.com/",
-  "address_line_1": "2981 S McKenzie St, Foley, AL 36535, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": null,
-  "rating": 4.6,
-  "review_count": 21094,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139557975.431.jpg",
-  "photos": [],
+  "entity": {
+    "id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+    "place_id": "ChIJY7Zjm8wPmogRm1GlzllDIlI",
+    "google_maps_uri": "https://maps.google.com/?cid=5918366913316344219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "lamberts-cafe-llDIlI",
+    "name": "Lambert's Cafe",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "american_restaurant",
+    "google_types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-7655",
+    "international_phone": null,
+    "website_url": "http://www.throwedrolls.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2981 S McKenzie St, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.3707774,
+    "longitude": -87.6821383,
+    "short_address": "2981 S McKenzie St, Foley",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 21094,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Folksy local chain with classic Southern-American fare & \"throwed rolls.\"",
+    "description": "Folksy local chain with classic Southern-American fare & \"throwed rolls.\"",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139557975.431.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "valetParking": false,
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 8:30 PM",
+      "Tuesday: 11:00 AM – 8:30 PM",
+      "Wednesday: 11:00 AM – 8:30 PM",
+      "Thursday: 11:00 AM – 8:30 PM",
+      "Friday: 11:00 AM – 8:30 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 8:30 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Popular dishes",
+          "items": [
+            {
+              "name": "Country Fried Round Steak",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Breaded and deep-fried beef round steak, served with mashed potatoes and covered in milk gravy. Add your choice of 2 sides and ol' Norm's pass arounds.",
+              "subcategory": null
+            },
+            {
+              "name": "BBQ Pork Steak",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh cut pork steak. You get your choice of 3 sides and all of Lambert's pass arounds.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139558507.549.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139558873.712.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139559501.8977.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139559734.6172.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139560062.4597.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139560366.595.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139560756.0454.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139560960.878.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139561576.0776.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:15.22949+00:00",
+    "updated_at": "2026-05-21T06:05:40.985969+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": "high",
+    "extraction_timestamp": "2026-05-21T06:05:38.214+00:00",
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "54106031-8aab-4584-aace-06c806b6fc99",
+      "tag": "cafe",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "7ec775fd-39ab-4816-97d8-03f142cc0a9e",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "be40ff05-563f-4c77-82a5-7b01c47d6bd4",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "83c42c99-dd2a-41d4-a79f-caaa1cb4fdce",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "cc5e73c4-e058-4096-97e2-c2c6bd027c4e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "53b32da0-23fe-4486-9838-5d8d65209938",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "4c846936-a446-4e8f-a898-68f1a2461987",
+      "section_key": "popular_dishes",
+      "section_label": "Popular dishes",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "c0fe2e9f-1128-4db7-b71c-dc2f7313bc6b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [
+    {
+      "id": "fd389814-5416-4a7e-ac06-628d7ff296cf",
+      "section_id": "4c846936-a446-4e8f-a898-68f1a2461987",
+      "group_id": null,
+      "item_name": "Country Fried Round Steak",
+      "item_description": "Breaded and deep-fried beef round steak, served with mashed potatoes and covered in milk gravy. Add your choice of 2 sides and ol' Norm's pass arounds.",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "c8736545-f6a3-4fa7-8f10-08448b367aca",
+      "section_id": "4c846936-a446-4e8f-a898-68f1a2461987",
+      "group_id": null,
+      "item_name": "BBQ Pork Steak",
+      "item_description": "Fresh cut pork steak. You get your choice of 3 sides and all of Lambert's pass arounds.",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    }
+  ],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "7552596c-7e6d-4443-be86-74723ae76910",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131840467.2122.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:46.304532+00:00"
+    },
+    {
+      "id": "c14f82c3-7099-4304-bc0e-ebf9c1093dfb",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131842343.6738.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:47.042331+00:00"
+    },
+    {
+      "id": "d0591904-adca-4a4d-8f6e-e834d2bd93a2",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139558507.549.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:47.488282+00:00"
+    },
+    {
+      "id": "61190083-e9c6-41e0-ad95-9fe9cba9ad60",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131415784.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:45.665081+00:00"
+    },
+    {
+      "id": "f3498f08-a84d-4c14-823d-1fb9bc3a4765",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131840873.0615.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:46.456981+00:00"
+    },
+    {
+      "id": "80135932-07ac-4e91-a592-20772c18d4a9",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139560062.4597.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:48.08734+00:00"
+    },
+    {
+      "id": "282ebe77-328d-40e9-9147-fba0e6de4c42",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131840053.2148.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:46.129567+00:00"
+    },
+    {
+      "id": "4e247898-cf22-4440-ac07-c5f3310e0e71",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131841908.6028.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:46.899794+00:00"
+    },
+    {
+      "id": "3c60532e-7b5d-48be-b677-c59146133923",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139560960.878.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:48.532475+00:00"
+    },
+    {
+      "id": "f99d9f65-9509-4e7e-8081-624dd3b4982e",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139561576.0776.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:48.685052+00:00"
+    },
+    {
+      "id": "3a7bf73f-e509-48f3-aa33-e6dbfdc1b266",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131841081.851.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:46.60077+00:00"
+    },
+    {
+      "id": "165a1b16-f8e7-4cab-9534-5fef75be8f80",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131842757.261.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:47.185864+00:00"
+    },
+    {
+      "id": "df384096-f9da-41ca-93f1-cb941482f78b",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139558873.712.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:47.644253+00:00"
+    },
+    {
+      "id": "98bc54ad-7b51-4685-90df-0d2309eaf9a6",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139560366.595.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:48.235036+00:00"
+    },
+    {
+      "id": "8f05ba95-e6d8-4066-8d42-cdd8bcdd18b1",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131839134.0503.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:45.807521+00:00"
+    },
+    {
+      "id": "bb0193ce-4bcd-45dc-bf48-8569d8d25d63",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131839646.5598.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:45.954949+00:00"
+    },
+    {
+      "id": "51598268-9198-41de-af5a-d5165f13d3a6",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779131841487.9507.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:46.745883+00:00"
+    },
+    {
+      "id": "1f3b1839-f206-45a1-bb66-0eb93607614d",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139557975.431.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:47.333908+00:00"
+    },
+    {
+      "id": "65f6e64f-a073-440b-b948-101b2ef9e151",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139559501.8977.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:47.795049+00:00"
+    },
+    {
+      "id": "d7e9ce7d-cecb-4033-b6fc-21a83325475a",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139559734.6172.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:47.940333+00:00"
+    },
+    {
+      "id": "e2d026bc-31e3-4e4b-86b4-40b816d03441",
+      "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55ad66cd-5f9d-491d-88bf-5752909870fd/55ad66cd-5f9d-491d-88bf-5752909870fd_1779139560756.0454.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:48.37857+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [
+      {
+        "id": "4c846936-a446-4e8f-a898-68f1a2461987",
+        "section_name": "Popular dishes",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "55ad66cd-5f9d-491d-88bf-5752909870fd",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": [
+      {
+        "id": "fd389814-5416-4a7e-ac06-628d7ff296cf",
+        "item_name": "Country Fried Round Steak",
+        "description": "Breaded and deep-fried beef round steak, served with mashed potatoes and covered in milk gravy. Add your choice of 2 sides and ol' Norm's pass arounds.",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "4c846936-a446-4e8f-a898-68f1a2461987"
+      },
+      {
+        "id": "c8736545-f6a3-4fa7-8f10-08448b367aca",
+        "item_name": "BBQ Pork Steak",
+        "description": "Fresh cut pork steak. You get your choice of 3 sides and all of Lambert's pass arounds.",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "4c846936-a446-4e8f-a898-68f1a2461987"
+      }
+    ]
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,101 +1,281 @@
 {
-  "id": "ff0e7558-3da5-444e-be3a-4b861acf19d9",
-  "slug": "folletts-psc-warrington-bookstore-ZIkGzI",
-  "name": "Follett's PSC Warrington Bookstore",
-  "entity_type": "shopping",
-  "entity_subtype": "boutique",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 801-3360",
-  "email": null,
-  "address_line_1": "5555 US-98 Bldg 3600/Bookstore, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": "https://www.bkstr.com/pensacolawarringtonstore/home",
-  "rating": 4.1,
-  "review_count": 12,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "ff0e7558-3da5-444e-be3a-4b861acf19d9",
+    "place_id": "ChIJ5zmG5sC-kIgRlXUnHZIkGzI",
+    "google_maps_uri": "https://maps.google.com/?cid=3610519736240534933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "folletts-psc-warrington-bookstore-ZIkGzI",
+    "name": "Follett's PSC Warrington Bookstore",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "boutique",
+    "secondary_types": [],
+    "google_type": "book_store",
+    "google_types": [
+      "book_store",
+      "gift_shop",
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 801-3360",
+    "international_phone": null,
+    "website_url": "https://www.bkstr.com/pensacolawarringtonstore/home",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "5555 US-98 Bldg 3600/Bookstore, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.396524,
+    "longitude": -87.2857672,
+    "short_address": "5555 US-98 Bldg 3600/Bookstore, Pensacola",
+    "plus_code": null,
+    "rating": 4.1,
+    "review_count": 12,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 4:00 PM",
+      "Tuesday: 9:00 AM – 4:00 PM",
+      "Wednesday: 9:00 AM – 4:00 PM",
+      "Thursday: 9:00 AM – 4:00 PM",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:11.802106+00:00",
+    "updated_at": "2026-05-17T21:17:41.392957+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "cfda8437-dbdb-436e-92b0-59274da9cc0d",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
-      "tag": "gulf_shores",
-      "tag_category": "search"
-    },
-    {
-      "tag": "boutique",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "book_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "clothing_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "4e29d93a-82c0-4c82-85fa-e12630af610f",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "11a6fab4-9951-4fa4-9470-2ac8de5dc289",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "0b759c92-b171-4180-871e-43c00474a4ac",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "4721fa32-61b6-4245-9cdb-f2984b315586",
       "tag": "boutique",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "ce5ba243-4fe4-468a-9c6f-49b93e16e731",
+      "tag": "boutique",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "94f5d0e5-8eeb-4d81-bdfe-4e9f030722dc",
       "tag": "book_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "ed7bf158-221c-441e-997c-6abe3072d1a8",
+      "tag": "book_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "01d8f86f-e42d-47da-be65-70a57bdcbd68",
       "tag": "gift_shop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "81add7c3-4ad1-432d-8415-f76ecdc62979",
+      "tag": "gift_shop",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "213a2998-4ead-42a4-860d-4b16e14e32ad",
       "tag": "clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "acb24f75-2250-42b0-96c4-1e1b20184685",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "ab0e805c-0213-4d95-a708-763151d249d7",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "b5050e88-c4dc-4089-83bf-f47e5ca856c7",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "d3ed8908-80cc-417e-8327-9b1c1e9a2539",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "fb277905-dd6e-4d78-9728-fa3f31807cb4",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "1cb5cd91-b59c-401a-8bf3-5cc4d91868dd",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "d15f2287-a848-4e76-932a-750688becc21",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 8
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "31e9187f-baff-49bc-b8df-c727c87e8b92",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,53 +1,232 @@
 {
-  "id": "d5c252e0-af76-4521-aad8-20150dffb762",
-  "slug": "eastern-shore-plaza-2OvLfg",
-  "name": "Eastern Shore Plaza",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 625-0060",
-  "email": null,
-  "address_line_1": "10200 Eastern Shore Blvd, Spanish Fort, AL 36527, USA",
-  "city": "Spanish Fort",
-  "state": "AL",
-  "zip": "36527",
-  "website_url": "http://www.easternshorecentre.com/",
-  "rating": 4.4,
-  "review_count": 969,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "d5c252e0-af76-4521-aad8-20150dffb762",
+    "place_id": "ChIJXdMYjCNomogR9WIGn2OvLfg",
+    "google_maps_uri": "https://maps.google.com/?cid=17883142537762726645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "eastern-shore-plaza-2OvLfg",
+    "name": "Eastern Shore Plaza",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "shopping_mall",
+    "google_types": [
+      "shopping_mall",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 625-0060",
+    "international_phone": null,
+    "website_url": "http://www.easternshorecentre.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "10200 Eastern Shore Blvd, Spanish Fort, AL 36527, USA",
+    "address_line_2": null,
+    "city": "Spanish Fort",
+    "state": "AL",
+    "zip": "36527",
+    "latitude": 30.6643257,
+    "longitude": -87.8478317,
+    "short_address": "10200 Eastern Shore Blvd, Spanish Fort",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 969,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: 12:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.112197+00:00",
+    "updated_at": "2026-05-17T21:17:44.229427+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "1ebc7386-2101-4c00-821a-5a09cb34181b",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "53e7de6f-d8cc-470f-b2c9-f52b065d68c0",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "85b9bcd4-f160-45f4-8539-cea38091a4d5",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "9f0f4a50-37ae-49d1-bc8b-a96627123207",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "8aa3f3f2-fc7b-4877-94ec-1aee72f9357a",
       "tag": "shopping_mall",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "49917840-445a-4142-a3dd-39aa5db90d01",
+      "tag": "shopping_mall",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "9c26b8be-765c-4d9d-b5b3-7ddf9df2a727",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "88e1a03b-cc96-4919-b425-5fb69c8e77a5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "22287c96-3a07-4798-9ea7-f92cf6bf8cea",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "1d79846b-39fd-47ed-b891-581b096d25d5",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 4
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "17afc537-732e-4b89-9a31-1e7b4e702845",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

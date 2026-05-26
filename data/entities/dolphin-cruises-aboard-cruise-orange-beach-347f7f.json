@@ -1,57 +1,216 @@
 {
-  "id": "e5b8e9ed-9140-47fe-a781-e4ead7260525",
-  "slug": "dolphin-cruises-aboard-cruise-orange-beach-347f7f",
-  "name": "Dolphin Cruises Aboard Cruise Orange Beach",
-  "entity_type": "activity",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 986-6694",
-  "email": null,
-  "address_line_1": "27844 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "orange beach",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://www.cruiseob.com/",
-  "rating": 4.9,
-  "review_count": 18,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "e5b8e9ed-9140-47fe-a781-e4ead7260525",
+    "place_id": "81121ca0-46ec-4963-ae55-efcf93347f7f",
+    "google_maps_uri": null,
+    "slug": "dolphin-cruises-aboard-cruise-orange-beach-347f7f",
+    "name": "Dolphin Cruises Aboard Cruise Orange Beach",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": null,
+    "secondary_types": [],
+    "google_type": "tour_agency",
+    "google_types": [
+      "tour_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 986-6694",
+    "international_phone": null,
+    "website_url": "http://www.cruiseob.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27844 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "orange beach",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2929068,
+    "longitude": -87.5490785,
+    "short_address": null,
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 18,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [
+      "Monday: 8:00 AM – 8:30 PM",
+      "Tuesday: 8:00 AM – 8:30 PM",
+      "Wednesday: 8:00 AM – 8:30 PM",
+      "Thursday: 8:00 AM – 8:30 PM",
+      "Friday: 8:00 AM – 8:30 PM",
+      "Saturday: 8:00 AM – 8:30 PM",
+      "Sunday: 8:00 AM – 8:30 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:30.650287+00:00",
+    "updated_at": "2026-05-17T21:54:59.871987+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "12e71837-2d74-4d04-bae4-c10c0c4edae5",
       "tag": "activity",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
-      "tag": "watersports",
-      "tag_category": "type"
-    },
-    {
-      "tag": "tripshock",
-      "tag_category": "type"
-    },
-    {
+      "id": "ac83a1ba-6a06-4dba-b09f-457b823e8c5e",
       "tag": "activity",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "d91bef98-b66f-4942-8cce-aef5402e1f3d",
+      "tag": "activity",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "a074f6f6-e108-42dc-9b4c-e471c3189386",
       "tag": "watersports",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "80abbc2f-7910-450c-a200-e262a9f3931d",
+      "tag": "watersports",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "1a89fda5-3e66-445a-9f58-aca16606ebf3",
+      "tag": "watersports",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "a42c6b79-a550-4877-85df-0abae3890bbb",
       "tag": "tripshock",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "54387b22-05ed-47b9-bc57-e420636ac350",
+      "tag": "tripshock",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "fa21efc7-2551-406d-9d7e-4431e430264d",
+      "tag": "tripshock",
+      "tag_category": "type",
+      "sort_order": 2
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "43d0c74a-631d-4b12-824d-beba9a3c93eb",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,37 +1,352 @@
 {
-  "id": "c128ceee-30e6-47e4-a61e-0c20cf2983aa",
-  "slug": "anchor-bar-grill-DMcNzc",
-  "name": "Anchor Bar & Grill",
-  "entity_type": "bar",
-  "entity_subtype": "restaurants",
-  "icon": "🏪",
-  "description": "Anchor Bar & Grill is a unique and popular restaurant and pub in Superior, Wisconsin, known for serving the best burgers and fries around. Featured on the TV show Diners, Drive-Ins, and Dives, this iconic dive bar offers a variety of homemade burgers and fresh-cut fries at great prices. The walls are covered with nautical memorabilia and artifacts. The restaurant features a game room and outdoor seating. Founded over 20 years ago, it's a must-visit destination in the Superior area.",
-  "phone": "(715) 394-9747",
-  "email": null,
-  "address_line_1": "413 Tower Ave, Superior, WI 54880, USA",
-  "city": "Superior",
-  "state": "WI",
-  "zip": "54880",
-  "website_url": "http://anchorbarandgrill.com/",
-  "rating": 4.6,
-  "review_count": 4000,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "c128ceee-30e6-47e4-a61e-0c20cf2983aa",
+    "place_id": "ChIJlay_WANSrlIRZ3oTSDMcNzc",
+    "google_maps_uri": "https://maps.google.com/?cid=3978679802383268455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "anchor-bar-grill-DMcNzc",
+    "name": "Anchor Bar & Grill",
+    "subtitle": null,
+    "entity_type": "bar",
+    "entity_subtype": "restaurants",
+    "secondary_types": [],
+    "google_type": "bar",
+    "google_types": [
+      "bar",
+      "bar_and_grill",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(715) 394-9747",
+    "international_phone": null,
+    "website_url": "http://anchorbarandgrill.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "413 Tower Ave, Superior, WI 54880, USA",
+    "address_line_2": null,
+    "city": "Superior",
+    "state": "WI",
+    "zip": "54880",
+    "latitude": 46.7333043,
+    "longitude": -92.1042102,
+    "short_address": "413 Tower Ave, Superior",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 4000,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Memorabilia-laden hangout with a laid-back vibe for self-described \"cheap\" burgers & microbrews.",
+    "description": "Anchor Bar & Grill is a unique and popular restaurant and pub in Superior, Wisconsin, known for serving the best burgers and fries around. Featured on the TV show Diners, Drive-Ins, and Dives, this iconic dive bar offers a variety of homemade burgers and fresh-cut fries at great prices. The walls are covered with nautical memorabilia and artifacts. The restaurant features a game room and outdoor seating. Founded over 20 years ago, it's a must-visit destination in the Superior area.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "http://instagram.com/ANCHORBARANDGRILL",
+    "social_facebook": "https://www.facebook.com/anchorbarandgrillsuperiorwi",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": false,
+      "acceptsCashOnly": true,
+      "acceptsDebitCards": false,
+      "acceptsCreditCards": false
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.429275+00:00",
+    "updated_at": "2026-05-17T21:17:45.65788+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "81dae5b4-57fc-4036-9d71-29217d69aec7",
+      "tag": "burgers",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "95d1ea33-c431-4b26-9535-ef8e750d0501",
+      "tag": "fries",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "f9db7af7-1a1c-4b22-916a-594616039206",
+      "tag": "affordable",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "ed32b593-778e-433d-b97d-4a7c11ec40d8",
+      "tag": "beer",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "7fec2454-0d19-4875-a0c4-8a03d45388c2",
+      "tag": "wisconsin",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "b6f0d094-6ec5-4490-82a2-a30f4bddff66",
+      "tag": "superior",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "f1a62f8a-9c99-4a28-a764-f2bc6d02d73f",
+      "tag": "dive_bar",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "fbe96999-debd-408f-bc41-7cbfd98e2ac2",
+      "tag": "casual_dining",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "4407cbaf-6509-4c43-b0e2-1053fee66029",
+      "tag": "nautical_decor",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "e8a4c724-842a-4c65-aedc-957b59ef9e67",
+      "tag": "family_friendly",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "9f362281-0f1c-4960-81eb-f39c5701dd21",
+      "tag": "fresh_cut_fries",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "054cb633-5560-436f-8ed7-2b5890b0c7e6",
+      "tag": "cheap_eats",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "76e44a37-e085-4155-b0c2-d8032a8a237d",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 12
+    },
+    {
+      "id": "0ef6b151-6c2f-4c86-93b7-270f20d715d5",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 13
+    },
+    {
+      "id": "c6b188a3-c59d-42fb-a5d6-515efd109a42",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 14
+    },
+    {
+      "id": "a20e81a5-b5a2-488c-9204-c39f314992bd",
+      "tag": "diners-drive-ins-dives",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "3d400699-ab40-46e8-bb22-342ef6c41dc9",
+      "tag": "fresh-cut-fries",
+      "tag_category": "search",
+      "sort_order": 16
+    },
+    {
+      "id": "cb184804-f8f7-4c1a-8d00-2ac5f14e1f21",
+      "tag": "cheap-eats",
+      "tag_category": "search",
+      "sort_order": 17
+    },
+    {
+      "id": "236ecbcf-4d94-404d-a35d-b27802d943a9",
+      "tag": "dive-bar",
+      "tag_category": "search",
+      "sort_order": 18
+    },
+    {
+      "id": "08d1fdb0-1497-4dcb-8737-42fcecc69347",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 19
+    },
+    {
+      "id": "5757dd6e-c5a6-4013-923a-7a1bab74f989",
+      "tag": "nautical-decor",
+      "tag_category": "search",
+      "sort_order": 20
+    },
+    {
+      "id": "90c6e249-a976-4cfb-8056-9de45e6e2e15",
       "tag": "family-friendly",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "96ba8c3c-d249-4545-b016-cebc4ced39d2",
+      "tag": "restaurants",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "6872542b-3f10-42bb-ba6d-b939b9cb4810",
+      "tag": "bar",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "a7de285d-c5ce-49d2-828a-8bd5c10a260d",
+      "tag": "bar_and_grill",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "d19e8b1b-5675-4cfb-b485-84e788db7537",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "6fdb99fc-bf5a-4407-a513-b24c1f4239fd",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "1522ef4a-aeb5-43d5-9020-de21fd8e209c",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "2ec639bf-7692-4350-a6e7-e539ad6b4aa1",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 28
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "3b96196b-5ad4-40fa-b40a-bac9c482e458",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

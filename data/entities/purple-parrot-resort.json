@@ -1,158 +1,138 @@
 {
-  "id": "4caa9dc9-2706-43be-b504-a6b7e6d15c18",
-  "slug": "purple-parrot-resort",
-  "name": "Purple Parrot Resort",
-  "entity_type": "hotel",
-  "entity_subtype": "hotel",
-  "icon": "🏪",
-  "description": "At Perdido Key Resort Management (PKRM), we are incredibly proud to be the exclusive rental management company administering the Purple Parrot Resort's rental program. Our deep connection to this iconic resort goes beyond its operations—it's a place we genuinely love and feel at home. The Purple Parrot Resort is a true gem in Perdido Key, offering unmatched amenities and a welcoming, laid-back vibe. It's the only resort on the island featuring a lagoon-style outdoor pool, complete with a tropical waterfall and island hot tub, providing the ultimate space for relaxation. For cooler months, our indoor pool ensures that every season is perfect for a visit. Guests also enjoy the island's only designated beach volleyball area, adding an extra touch of fun and community spirit to their stay. Steps from the resort, you'll find the pristine Gulf Islands National Seashore, offering seven miles of untouched beaches and breathtaking views. Within the resort gates, the much-loved Purple Parrot Tiki Bar serves as a lively social hub, with live music, great food, and a friendly atmosphere that keeps guests coming back. From the moment you drive through the privacy gates, you'll feel the charm of this unique community. The paver-lined streets, upscale coastal architecture, and clusters of cottage-style condos surrounded by lush greenspaces create a picturesque setting. Whether you're enjoying soak therapy in the hot tub, floating in the lagoon pool, or chatting with neighbors and guests, the Purple Parrot exudes a welcoming, laid-back vibe that feels like home. PKRM's dedicated team brings extensive market knowledge and a commitment to exceptional service to every guest and property owner interaction. With a diverse portfolio of vacation properties, ranging from cozy one-bedroom condos for romantic getaways to spacious three-bedroom homes for families and groups, the Purple Parrot Resort offers accommodations for every need. For us at PKRM, the Purple Parrot Resort is more than just a place to work—it's a beloved community and an extraordinary destination that we're privileged to call home.",
-  "phone": "(850) 492-9999",
-  "email": null,
-  "address_line_1": "",
-  "city": "",
-  "state": "AL",
-  "zip": null,
-  "website_url": null,
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": null,
-  "hours": [
-    {
-      "day_of_week": "Monday",
-      "open_time": "08:15",
-      "close_time": "17:45",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Tuesday",
-      "open_time": "08:15",
-      "close_time": "17:45",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Wednesday",
-      "open_time": "08:15",
-      "close_time": "17:45",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Thursday",
-      "open_time": "08:15",
-      "close_time": "17:45",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Friday",
-      "open_time": "08:15",
-      "close_time": "17:45",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Saturday",
-      "open_time": "08:15",
-      "close_time": "17:45",
-      "is_closed": false
-    }
-  ],
-  "menu_sections": [],
-  "drink_sections": [],
+  "entity": {
+    "id": "4caa9dc9-2706-43be-b504-a6b7e6d15c18",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "purple-parrot-resort",
+    "name": "Purple Parrot Resort",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": null,
+    "address_line_2": null,
+    "city": null,
+    "state": "AL",
+    "zip": null,
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-21T04:57:21.582531+00:00",
+    "updated_at": "2026-05-21T04:57:21.582531+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": "low",
+    "extraction_timestamp": "2026-05-15T06:28:54.246+00:00",
+    "extraction_notes": "This HTML appears to be a header/metadata section only, containing primarily CSS, font loading, and Google Analytics code. The actual page content is not visible in the provided HTML snippet. The page title indicates this is Purple Parrot Resort, a vacation rental property in Perdido Key, not a restaurant. No restaurant-related data such as menus, hours, contact information, or dining details could be extracted from the HTML provided. The extraction confidence is low because the HTML is incomplete and contains no meaningful content about the business beyond the title tag.",
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "photos": [],
-  "amenities": [],
-  "tags": [
-    {
-      "tag": "vacation rentals",
-      "tag_category": null
-    },
-    {
-      "tag": "condo rentals",
-      "tag_category": null
-    },
-    {
-      "tag": "beach resort",
-      "tag_category": null
-    },
-    {
-      "tag": "Perdido Key",
-      "tag_category": null
-    },
-    {
-      "tag": "Gulf Coast",
-      "tag_category": null
-    },
-    {
-      "tag": "tropical resort",
-      "tag_category": null
-    },
-    {
-      "tag": "family vacation",
-      "tag_category": null
-    },
-    {
-      "tag": "group accommodations",
-      "tag_category": null
-    },
-    {
-      "tag": "resort amenities",
-      "tag_category": null
-    },
-    {
-      "tag": "pool and hot tub",
-      "tag_category": null
-    },
-    {
-      "tag": "beach getaway",
-      "tag_category": null
-    },
-    {
-      "tag": "Vacation Rentals",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Condo Rentals",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Resorts",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Beach Accommodations",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Lodging",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Gulf Coast Hotels & Resorts",
-      "tag_category": "category"
-    },
-    {
-      "tag": "hospitality-and-accommodations",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "rentals",
-      "tag_category": "type"
-    }
-  ],
-  "featured": false,
-  "is_active": true,
-  "menus": [],
-  "businesses": [
-    {
-      "source": "perdido-key-accommodations.json",
-      "name": "Purple Parrot Resort",
-      "phone": "(850) 492-9999",
-      "address": "",
-      "placeId": "",
-      "website": ""
-    }
-  ],
-  "consolidatedAt": "2026-05-22T11:53:28.222Z"
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

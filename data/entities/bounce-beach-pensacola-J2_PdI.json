@@ -1,32 +1,250 @@
 {
-  "id": "e3c03748-4946-4ab8-9acb-0ad98fce2876",
-  "slug": "bounce-beach-pensacola-J2_PdI",
-  "name": "Bounce Beach Pensacola",
-  "entity_type": "park",
-  "entity_subtype": "park",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 347-6068",
-  "email": null,
-  "address_line_1": "400 Quietwater Beach Rd, Pensacola Beach, FL 32561, USA",
-  "city": "Pensacola Beach",
-  "state": "AL",
-  "zip": null,
-  "website_url": "https://bouncesportingclub.com/",
-  "rating": 4.8,
-  "review_count": 1813,
-  "hero_image_url": null,
+  "entity": {
+    "id": "e3c03748-4946-4ab8-9acb-0ad98fce2876",
+    "place_id": "ChIJSUgxuDvFkIgRRxUc_J2_PdI",
+    "google_maps_uri": "https://maps.google.com/?cid=15149475406804686151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "bounce-beach-pensacola-J2_PdI",
+    "name": "Bounce Beach Pensacola",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "bar",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 347-6068",
+    "international_phone": null,
+    "website_url": "https://bouncesportingclub.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "400 Quietwater Beach Rd, Pensacola Beach, FL 32561, USA",
+    "address_line_2": null,
+    "city": "Pensacola Beach",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.3355683,
+    "longitude": -87.1428255,
+    "short_address": "400 Quietwater Beach Rd, Pensacola Beach",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 1813,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "valetParking": false,
+      "freeParkingLot": true,
+      "paidParkingLot": false,
+      "freeGarageParking": false,
+      "freeStreetParking": true,
+      "paidGarageParking": false,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": false,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": false
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 10:30 AM – 10:00 PM",
+      "Sunday: 10:30 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.588966+00:00",
+    "updated_at": "2026-05-17T21:17:43.676816+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ab7f4a8e-87bf-431f-9819-be0ec78ed1fd",
+      "tag": "bar",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "18bfb60d-7557-4850-a962-763e692179d4",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "8e58a44a-5bfc-455e-aafd-08025e8ac46a",
+      "tag": "sports_bar",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "b01f4ac0-18d7-4ef7-a3a9-688e8ad9c133",
+      "tag": "family_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "5b726ef8-f324-4c69-a6b6-afb275fa94ca",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "ebf1fe48-5d91-47d0-9a89-27db21740571",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "89e1be6b-a528-4360-acf7-56e176772ba2",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "28c3b7c1-655f-4569-a3d0-59de3f561f58",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "2327a106-561d-43ad-9df5-28ac9144b3f7",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "075dc7c5-e7db-4390-ae7d-e47f8aa41852",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "0b3d85a2-5825-4cbd-bb78-2f07259ea85b",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 10
+    }
+  ],
+  "sections": [
+    {
+      "id": "4eec1f1c-a584-43a8-8550-421ba229e9c0",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "photos": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

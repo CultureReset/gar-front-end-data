@@ -1,97 +1,267 @@
 {
-  "id": "46f82910-3b82-4f90-8761-27e777e1e5e7",
-  "slug": "cycle-sports-of-pensacola-inc-5NBShM",
-  "name": "Cycle Sports of Pensacola Inc",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 434-8100",
-  "email": null,
-  "address_line_1": "2125 N Palafox St, Pensacola, FL 32501, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32501",
-  "website_url": "http://www.cyclesportsbicycles.com/",
-  "rating": 4.8,
-  "review_count": 258,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "46f82910-3b82-4f90-8761-27e777e1e5e7",
+    "place_id": "ChIJG6gObZ7AkIgR8keeZ5NBShM",
+    "google_maps_uri": "https://maps.google.com/?cid=1389995536351643634&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "cycle-sports-of-pensacola-inc-5NBShM",
+    "name": "Cycle Sports of Pensacola Inc",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "bicycle_store",
+    "google_types": [
+      "bicycle_store",
+      "sporting_goods_store",
+      "manufacturer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 434-8100",
+    "international_phone": null,
+    "website_url": "http://www.cyclesportsbicycles.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2125 N Palafox St, Pensacola, FL 32501, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32501",
+    "latitude": 30.4342466,
+    "longitude": -87.2207046,
+    "short_address": "2125 N Palafox St, Pensacola",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 258,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.45857+00:00",
+    "updated_at": "2026-05-18T21:06:23.931513+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "decf31d0-1cc2-4552-8585-c1412390bc4e",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
-      "tag": "gulf_shores",
-      "tag_category": "search"
-    },
-    {
-      "tag": "bicycle_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "manufacturer",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "sporting_goods_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "d7b83fdd-1f8b-4e86-b489-c0d939985bb2",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "1a75c799-7012-4e01-ad78-51d080575cbe",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "56eb77da-8934-4c54-b203-105f6ad3ea9e",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "90729040-f62d-47f5-980b-cc3ccc78e099",
       "tag": "bicycle_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "b516cf2f-e2e4-4b87-a296-a0ce28d1f596",
+      "tag": "bicycle_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "a152a43b-27d0-4a0b-909d-23335ccaa349",
       "tag": "manufacturer",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "8d2fc92a-7fe6-4828-a031-d6db2dfc5021",
+      "tag": "manufacturer",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "61b70af5-7487-4f2f-a8e5-4f5e264f983e",
       "tag": "sporting_goods_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "a9c52a66-4f27-48f1-85ad-e79d012c0d49",
+      "tag": "sporting_goods_store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "0a638dc8-2aba-4fb6-96b4-a8d719ec2c4f",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "830c1d2c-373d-4b20-94d0-70428627f448",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "728ef409-f37c-44e5-80da-72f3a7db8b90",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "ef8edcd9-d817-4400-8fad-4f59ab44db47",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "280cc88c-129d-4359-b260-e89d06ce154b",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "8e34f09c-4a03-4623-b7c5-ee6767efcf17",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "017423a2-e02a-4fcf-b1fd-fb7675b334ae",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

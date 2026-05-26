@@ -1,32 +1,372 @@
 {
-  "id": "fa607658-74e6-409b-a2a3-d6f1d903a67e",
-  "slug": "gulf-shores-wellness-recovery-spa-1U7ao8",
-  "name": "Gulf Shores Wellness & Recovery Spa",
-  "entity_type": "activity",
-  "entity_subtype": "spa",
-  "icon": "🏪",
-  "description": "Gulf Coast Wellness and Recovery Spa, situated in the tranquil Gulf Shores, Alabama, is dedicated to helping guests achieve their individual health goals. Our comprehensive wellness offerings include float therapy, red light therapy, infrared sauna sessions, cold plunge experiences, hyperbaric chamber treatments, and both compression and PEMF therapy. We foster a calming environment that promotes relaxation and recovery. Our mission is to rejuvenate the mind, body, and spirit. Clients can expect personalized care tailored to their unique needs and aspirations. Join us on a journey towards optimal health and wellness.",
-  "phone": "(251) 943-8112",
-  "email": null,
-  "website_url": "https://www.vagaro.com/gulfcoastwellnessandrecoveryspa",
-  "address_line_1": "3849 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 4,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/fa607658-74e6-409b-a2a3-d6f1d903a67e/fa607658-74e6-409b-a2a3-d6f1d903a67e_1779139730824.6099.jpg",
-  "photos": [],
+  "entity": {
+    "id": "fa607658-74e6-409b-a2a3-d6f1d903a67e",
+    "place_id": "ChIJOygSnPoFmogR-SFwU1U7ao8",
+    "google_maps_uri": "https://maps.google.com/?cid=10334137532613140985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-shores-wellness-recovery-spa-1U7ao8",
+    "name": "Gulf Shores Wellness & Recovery Spa",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "spa",
+    "secondary_types": [],
+    "google_type": "spa",
+    "google_types": [
+      "wellness_center",
+      "sauna",
+      "public_bath",
+      "spa",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-8112",
+    "international_phone": null,
+    "website_url": "https://www.vagaro.com/gulfcoastwellnessandrecoveryspa",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3849 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3055819,
+    "longitude": -87.6839257,
+    "short_address": "3849 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 4,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Gulf Coast Wellness and Recovery Spa, situated in the tranquil Gulf Shores, Alabama, is dedicated to helping guests achieve their individual health goals. Our comprehensive wellness offerings include float therapy, red light therapy, infrared sauna sessions, cold plunge experiences, hyperbaric chamber treatments, and both compression and PEMF therapy. We foster a calming environment that promotes relaxation and recovery. Our mission is to rejuvenate the mind, body, and spirit. Clients can expect personalized care tailored to their unique needs and aspirations. Join us on a journey towards optimal health and wellness.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/fa607658-74e6-409b-a2a3-d6f1d903a67e/fa607658-74e6-409b-a2a3-d6f1d903a67e_1779139730824.6099.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 7:00 PM",
+      "Tuesday: 9:00 AM – 7:00 PM",
+      "Wednesday: 9:00 AM – 7:00 PM",
+      "Thursday: 9:00 AM – 7:00 PM",
+      "Friday: 9:00 AM – 7:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": {
+        "categories": []
+      },
+      "hours": {
+        "friday": "9:00 AM - 7:00 PM",
+        "monday": "9:00 AM - 7:00 PM",
+        "sunday": "Closed",
+        "tuesday": "9:00 AM - 7:00 PM",
+        "saturday": "10:00 AM - 4:00 PM",
+        "thursday": "9:00 AM - 7:00 PM",
+        "wednesday": "9:00 AM - 7:00 PM"
+      },
+      "images": [],
+      "rating": 5,
+      "contact": {
+        "zip": "36542",
+        "city": "Gulf Shores",
+        "email": null,
+        "phone": "(251) 943-8112",
+        "state": "AL",
+        "address": "3849 Gulf Shores Parkway",
+        "website": "https://www.vagaro.com/gulfcoastwellnessandrecoveryspa"
+      },
+      "features": [
+        "Float therapy",
+        "Red light therapy",
+        "Infrared sauna",
+        "Cold plunge",
+        "Hyperbaric chamber",
+        "Compression therapy",
+        "PEMF therapy",
+        "WiFi",
+        "Disabled access",
+        "Free parking",
+        "Walk-ins welcome",
+        "Kid friendly"
+      ],
+      "specials": [],
+      "description": "Gulf Coast Wellness and Recovery Spa, situated in the tranquil Gulf Shores, Alabama, is dedicated to helping guests achieve their individual health goals. Our comprehensive wellness offerings include float therapy, red light therapy, infrared sauna sessions, cold plunge experiences, hyperbaric chamber treatments, and both compression and PEMF therapy. We foster a calming environment that promotes relaxation and recovery. Our mission is to rejuvenate the mind, body, and spirit. Clients can expect personalized care tailored to their unique needs and aspirations. Join us on a journey towards optimal health and wellness.",
+      "price_range": null,
+      "cuisine_type": null,
+      "extracted_at": "2026-05-16T19:23:02.107Z",
+      "review_count": 16,
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Gulf Coast Wellness and Recovery Spa",
+      "business_type": "Spa",
+      "payment_methods": [
+        "Visa",
+        "MasterCard",
+        "Discover",
+        "American Express",
+        "Debit card",
+        "Cash"
+      ],
+      "languages_spoken": [
+        "English"
+      ],
+      "cancellation_policy": "Cancellations made at least 48 hours prior to the scheduled appointment will not incur any fees. We understand that emergencies can occur, so if you must cancel within the 48-hour window, please reach out to us directly to explore your available options. Your understanding and communication are greatly appreciated. Failure to notify us of a cancellation may result in a charge for the missed appointment."
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:27.38073+00:00",
+    "updated_at": "2026-05-18T21:28:55.768339+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "01287a6e-35f1-4084-8fc6-14fb1d910824",
+      "tag": "spa",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "b9504d80-a787-431b-aa65-c6eaac00fa7b",
+      "tag": "spa",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "469bf7e1-04d8-411a-8e47-13d99d943030",
+      "tag": "health",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "8e850b2d-637b-4248-8ac8-073cf81b217d",
+      "tag": "health",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "fad3e6e7-7c7d-45b1-b5c7-a797bbf5ab18",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "89cdb3d9-f438-43e0-b033-b6b89959723b",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "2e7dba84-a576-49ad-9553-f3e9a0b07b91",
+      "tag": "public bath",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "878caba4-beba-490c-8649-6e9dae77cd44",
+      "tag": "public bath",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "69f880a4-cd89-4b1e-bccf-6aa3d5ec5b25",
+      "tag": "wellness center",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "7f5cee84-e3c1-40d4-a0ea-1ffde42fa253",
+      "tag": "wellness center",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "d09d9c1f-fbfb-4725-b31f-2e2ff00b6f32",
+      "tag": "sauna",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "2714b180-7ab5-4b90-8cc2-6f7eaa81de44",
+      "tag": "sauna",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "00d0095f-e981-48c5-8a1a-d2fe23993912",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "ecbdbc38-a1d9-4729-997b-e537fed7c3d3",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "cb61e7d9-a434-4e09-8a69-d87c301c8e9c",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "1a5f4117-7f55-41c5-b62e-a32a13af0db7",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "3b94b174-96cf-4f62-a451-4d5a63446dac",
+      "tag": "wellness_center",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "8a74ad4b-b15b-462e-99ed-cb01a0ee7f58",
+      "tag": "wellness_center",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "e5595424-a7c5-473a-939c-748feb0ae55e",
+      "tag": "public_bath",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "d3d9167f-4b0c-4df0-87dd-47bd7f667150",
+      "tag": "public_bath",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "6950b35a-caa2-433b-b721-a304aa94a9b1",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "21fb3b6f-629e-480b-857f-cc3fc250edf9",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 10
+    }
+  ],
+  "sections": [
+    {
+      "id": "bf7b8296-7f4f-4c9c-a9f5-c879b1d99bd3",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

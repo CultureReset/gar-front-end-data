@@ -1,32 +1,270 @@
 {
-  "id": "720ba9fe-cff3-4c28-a1ce-b986523e0d52",
-  "slug": "dippin-dots-dsfpEI",
-  "name": "Dippin' Dots",
-  "entity_type": "restaurant",
-  "entity_subtype": "ice_cream_shop",
-  "icon": "🏪",
-  "description": "Dessert chain serving flavored ice cream, ice & frozen yogurt in the shape of little dots.",
-  "phone": "(251) 224-3687",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "4830 Main St g112, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": null,
-  "rating": 4.2,
-  "review_count": 70,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/e86e6ccc-2ee1-4cc8-880d-4236ba72f39b/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "720ba9fe-cff3-4c28-a1ce-b986523e0d52",
+    "place_id": "ChIJLaKZTtsFmogRcloupdsfpEI",
+    "google_maps_uri": "https://maps.google.com/?cid=4801998130913368690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "dippin-dots-dsfpEI",
+    "name": "Dippin' Dots",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "ice_cream_shop",
+    "secondary_types": [],
+    "google_type": "ice_cream_shop",
+    "google_types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 224-3687",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4830 Main St g112, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.294409,
+    "longitude": -87.628657,
+    "short_address": "4830 Main St g112, Orange Beach",
+    "plus_code": null,
+    "rating": 4.2,
+    "review_count": 70,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Dessert chain serving flavored ice cream, ice & frozen yogurt in the shape of little dots.",
+    "description": "Dessert chain serving flavored ice cream, ice & frozen yogurt in the shape of little dots.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/e86e6ccc-2ee1-4cc8-880d-4236ba72f39b/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.904525+00:00",
+    "updated_at": "2026-05-17T22:48:09.094498+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "a51fe9e1-4bf8-47bd-b6d8-518c4c6fa9f3",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "ea9e0aac-1a2d-474e-8c04-7533a58d71c6",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "3bc84d60-d95a-48b7-8f0a-abc84bde5a95",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "201176fc-1cf6-407c-80e1-b9f0883dabe5",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "f250f0e9-f8e3-4185-8d15-7d31667c6b89",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "035f61dc-5001-4e8e-b4be-c824ae75d258",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "1a438e46-916c-4d36-9acc-1050bcc9de2e",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "7dbf9df8-0f9d-4654-ad25-862e704f09e2",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "93a219b8-6d9f-42e5-8c9f-1cf8a3756976",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "91ce9024-04ae-43e1-b0fb-7681a4d71391",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "b3cff532-56ed-4ae8-91a8-3e5d6d58689e",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "2c3c0db0-71d0-401f-b483-ade306119b19",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "56b64d7c-09aa-4e0f-a860-35efde1629f3",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "2d29e8a5-8b52-4e03-955f-8a083d4eebe8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "c7a3dc02-de9c-4353-81de-d50395aa5311",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "ab82be34-a0bb-4771-b295-3a6caa92dc0a",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "7f0f0657-4146-45c1-8a4d-d1099bedc714",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

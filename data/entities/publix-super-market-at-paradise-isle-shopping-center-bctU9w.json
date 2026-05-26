@@ -1,214 +1,522 @@
 {
-  "id": "2513231a-a8d1-41da-a946-9760c0a64366",
-  "slug": "publix-super-market-at-paradise-isle-shopping-center-bctU9w",
-  "name": "Publix Super Market at Paradise Isle Shopping Center",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 240-3003",
-  "email": null,
-  "address_line_1": "1720 Gulf Shores Pkwy Ste 2, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Coast",
-  "state": "AL",
-  "zip": null,
-  "website_url": "https://www.publix.com/?utm_medium=maps&utm_source=google&utm_content=psm_google_override",
-  "rating": 4.6,
-  "review_count": 382,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139359129.1775.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "2513231a-a8d1-41da-a946-9760c0a64366",
+    "place_id": "ChIJ50sltUwFmogRQIVITbctU9w",
+    "google_maps_uri": "https://maps.google.com/?cid=15876083376709993792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "publix-super-market-at-paradise-isle-shopping-center-bctU9w",
+    "name": "Publix Super Market at Paradise Isle Shopping Center",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": null,
+    "secondary_types": "",
+    "google_type": "supermarket",
+    "google_types": [
+      "supermarket",
+      "deli",
+      "bakery",
+      "florist",
+      "liquor_store",
+      "market",
+      "grocery_store",
+      "food_store",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 240-3003",
+    "international_phone": null,
+    "website_url": "https://www.publix.com/?utm_medium=maps&utm_source=google&utm_content=psm_google_override",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1720 Gulf Shores Pkwy Ste 2, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Coast",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.26985,
+    "longitude": -87.686537,
+    "short_address": "1720 Gulf Shores Pkwy Ste 2, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 382,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139359129.1775.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139359996.0112.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139360667.3828.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139360859.5254.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139361693.5593.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139361897.2507.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139362392.2493.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139362720.541.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139363126.479.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139363386.87.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:11.614761+00:00",
+    "updated_at": "2026-05-18T21:22:48.454343+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131674714.2249.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131676044.0342.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139359129.1775.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139361897.2507.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131674930.947.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131676419.7927.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139359996.0112.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139362392.2493.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131675382.268.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131676831.4402.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139360667.3828.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139362720.541.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131675572.7668.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131677086.9546.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139360859.5254.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139363126.479.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131396737.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131675816.0732.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131677648.9858.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139361693.5593.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139363386.87.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "c22dccdc-a5ca-4b39-acf9-eb067dae360a",
       "tag": "supermarket",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "deli",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "bakery",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "florist",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "liquor_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "market",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "grocery_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "9d2f35f6-5a35-4600-95b1-baae742ac2ef",
       "tag": "supermarket",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "eb6164d7-33f1-4222-9087-5e5a84c490d9",
       "tag": "deli",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "f9c504ae-ff29-4c91-914d-9dfcf6b412ef",
+      "tag": "deli",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "38614c02-d9c7-48a5-89a4-38742abda7bb",
       "tag": "bakery",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "64801692-e153-4125-b22c-db70bc32654a",
+      "tag": "bakery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "1822d6ad-d8f6-4bb5-9def-68aca99654b2",
       "tag": "florist",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "3e838a18-261b-4226-bf90-5ac1e9dfe662",
+      "tag": "florist",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "af08ad53-12f1-4f07-a01a-b8fd8e03bdb0",
       "tag": "liquor_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "4f289719-7648-49e6-888b-2e48abea8d5d",
+      "tag": "liquor_store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "f3d1d63f-511a-4d70-b7ae-eef32862616b",
       "tag": "market",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "be35b85d-7f37-4862-a868-18a034ec3c61",
+      "tag": "market",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "55e5f8cc-425d-445e-954f-00229f1d2d41",
       "tag": "grocery_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "d8e490ce-5738-4f63-b3ab-d4ca2ea8d757",
+      "tag": "grocery_store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "1fcaa814-06b9-44f3-b97e-0c2c2e231cc3",
       "tag": "food_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "e8b9921e-2bff-49fe-bc6b-0493b71810a5",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "05a672e2-9d38-4d5b-a544-5d5e6a01fb28",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
     },
     {
+      "id": "f2a57ba0-2e58-4d06-85dd-d642393c0f8d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "1a84c487-9f72-41cf-acc0-fc188a7ff28f",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 9
     },
     {
+      "id": "55db5831-a671-49e6-b467-9d107e8a1625",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "a230e74b-4d7e-4d15-86f6-ba9825a81ff2",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 10
     },
     {
+      "id": "197b6fc5-9ed1-40ef-b479-b84a1140873d",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "4dcfb0bf-442a-4106-a85d-5493de5e6846",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 11
     },
     {
-      "tag": "food",
-      "tag_category": "google_type"
+      "id": "b53b4034-5776-4153-acab-598ab699901e",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 11
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "aa920389-527a-493c-9b41-fcdcb7c0eb24",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "a75819d1-89ee-4975-a063-0d0a00add082",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131674714.2249.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:42.490865+00:00"
+    },
+    {
+      "id": "d4673c55-51c7-4010-a3f4-d1c3862341dd",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131676044.0342.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:43.229481+00:00"
+    },
+    {
+      "id": "69dd3aaa-e6c1-4072-8f0d-d2cbf8ac190f",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139359129.1775.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:43.977653+00:00"
+    },
+    {
+      "id": "6db43d11-a191-4caa-a0d2-a24b7680de0b",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139361897.2507.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:44.714131+00:00"
+    },
+    {
+      "id": "8da0e394-ac4f-445e-b36c-116d1f1324f5",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131674930.947.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:42.635896+00:00"
+    },
+    {
+      "id": "1df04012-c667-48b8-87b6-cff88294a070",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131676419.7927.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:43.375785+00:00"
+    },
+    {
+      "id": "4dfd0aa5-d82b-4481-b9e0-1e07187b1962",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139359996.0112.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:44.123623+00:00"
+    },
+    {
+      "id": "ce6947ea-e254-4404-817b-c2bd10778f3f",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139362392.2493.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:44.858242+00:00"
+    },
+    {
+      "id": "f032592b-0e13-44f0-9018-cbdaf7c430cf",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131675382.268.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:42.783773+00:00"
+    },
+    {
+      "id": "3dc24783-5ea3-4774-90c2-a9d4b27ee600",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131676831.4402.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:43.537334+00:00"
+    },
+    {
+      "id": "8764bf8e-67e1-4428-999f-4d2b4b784c27",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139360667.3828.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:44.274389+00:00"
+    },
+    {
+      "id": "178beac6-8e5c-4ce4-a861-30127f27c7c4",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139362720.541.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:45.006505+00:00"
+    },
+    {
+      "id": "6cf65167-6c38-40b5-9dfa-b2a71df28eac",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131675572.7668.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:42.929955+00:00"
+    },
+    {
+      "id": "f691968f-299b-47c1-bf65-4a9ee7512edc",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131677086.9546.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:43.687823+00:00"
+    },
+    {
+      "id": "eb1601c0-090d-4bfd-aaa3-2f631cac4d45",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139360859.5254.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:44.422866+00:00"
+    },
+    {
+      "id": "64135258-e10b-45eb-8687-6c3dabe7a4e3",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139363126.479.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:45.192077+00:00"
+    },
+    {
+      "id": "d5f01d7e-2fbc-4e41-b646-e4c2cd6ee974",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131396737.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:42.346363+00:00"
+    },
+    {
+      "id": "c0fe3b5c-48af-4dd6-a57b-f1e00d96d508",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131675816.0732.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:43.080599+00:00"
+    },
+    {
+      "id": "07008185-74e8-4c0c-ab39-30ef123180cc",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779131677648.9858.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:43.83436+00:00"
+    },
+    {
+      "id": "9e0cc5fd-ddc1-4f38-9b08-7698ed6b3226",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139361693.5593.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:44.568133+00:00"
+    },
+    {
+      "id": "534866b2-b5b7-4086-9227-45af472d5838",
+      "entity_id": "2513231a-a8d1-41da-a946-9760c0a64366",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2513231a-a8d1-41da-a946-9760c0a64366/2513231a-a8d1-41da-a946-9760c0a64366_1779139363386.87.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:45.349703+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,182 +1,511 @@
 {
-  "id": "22db2db6-baa8-46dc-bac2-c5a8502c1b1f",
-  "slug": "tanger-outlets-foley-63azDg",
-  "name": "Tanger Outlets Foley",
-  "entity_type": "shopping",
-  "entity_subtype": "retail",
-  "icon": "🏪",
-  "description": "Visit Journeys at Tanger Outlet Center in Foley for shoes, boots, and apparel. The Journeys store at Tanger Outlet Center in Foley, AL carries the latest styles in footwear, apparel, and accessories for men, women, and kids.",
-  "phone": "(251) 943-9303",
-  "email": null,
-  "address_line_1": "2601 S McKenzie St, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "https://www.tangeroutlet.com/foley",
-  "rating": 4.5,
-  "review_count": 9943,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/22db2db6-baa8-46dc-bac2-c5a8502c1b1f/22db2db6-baa8-46dc-bac2-c5a8502c1b1f_1779139886502.2883.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "22db2db6-baa8-46dc-bac2-c5a8502c1b1f",
+    "place_id": "ChIJuxOaTTEOmogRPjCGq63azDg",
+    "google_maps_uri": "https://maps.google.com/?cid=4092886600814833726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "tanger-outlets-foley-63azDg",
+    "name": "Tanger Outlets Foley",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "retail",
+    "secondary_types": "",
+    "google_type": "shopping_mall",
+    "google_types": [
+      "shopping_mall",
+      "shoe_store",
+      "clothing_store",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-9303",
+    "international_phone": null,
+    "website_url": "https://www.tangeroutlet.com/foley",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2601 S McKenzie St, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3763263,
+    "longitude": -87.6801872,
+    "short_address": "2601 S McKenzie St #116, Foley",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 9943,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Shopping-mall chain featuring a variety of brand-name & designer outlet stores.",
+    "description": "Visit Journeys at Tanger Outlet Center in Foley for shoes, boots, and apparel. The Journeys store at Tanger Outlet Center in Foley, AL carries the latest styles in footwear, apparel, and accessories for men, women, and kids.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/22db2db6-baa8-46dc-bac2-c5a8502c1b1f/22db2db6-baa8-46dc-bac2-c5a8502c1b1f_1779139886502.2883.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://instagram.com/journeys/",
+    "social_facebook": "https://facebook.com/Journeys",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "valetParking": false,
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.tangeroutlets.com/foley",
+      "menu": {
+        "categories": []
+      },
+      "tags": [
+        "outlet shopping",
+        "retail",
+        "brands"
+      ],
+      "type": "Shopping Center",
+      "about": {
+        "vibe": "Shopping destination with multiple stores and outlets",
+        "best_for": [
+          "shopping",
+          "outlet deals"
+        ],
+        "description": "Tanger Outlets Foley is an outlet shopping center in Foley, Alabama, featuring multiple retail brand outlets and shopping destinations.",
+        "established": null,
+        "insider_tip": "Sign up for TangerClub and text UNLOCK to 826437 for exclusive Deal Days Offers",
+        "reservations": null,
+        "elevator_pitch": "An outlet shopping center in Foley featuring a variety of brand outlets."
+      },
+      "hours": {
+        "notes": "Hours & information available on website",
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": "Foley",
+        "email": null,
+        "phone": null,
+        "state": "AL",
+        "address": null
+      },
+      "gallery": [
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fblt0bb64d30cb45996e%2F69b1812ba40c80fcbd2ccfc5%2FTDD_March2026_HERO_Slide1_V2.webp%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fbltc81977d07605c369%2F69b181146b9335a63586dfd9%2FPolo_LRA_031526to032126.webp%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fbltba2f791cf2f4a049%2F69b18127012a19d612aecd41%2FTC_March2026_Sweepstakes.webp%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fblt078da7c93a3f1a2b%2F698f2a3ea293e900087d83e0%2FTC_March26_GiftogramGWP.webp%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2FCrocs_Tanger_Deal_Days_BLUE.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2FBLUE_TDD.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2FUnder_Armour_Tanger_Deal_Days_BLUE.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2FColumbia_Tanger_Deal_Days_BLUE.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2F21713%2Fprod_699dd6e5a2be9.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2F21715%2Fprod_699dd7bc2333f.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2F21717%2Fprod_699dd860287fc.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2F21786%2Fprod_69a06c4d317ea.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2F21783%2Fprod_69a060e204091.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2F21792%2Fprod_69a06f337db2f.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fbltac3239d3b6e220c4%2F673cf66e76f7cd305385e70a%2FCoach_Winter24_BrandCard.jpg%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fblt97ca46afaad797e9%2F685208280a2918c303a0551f%2FColumbia_store_card_061725.jpg%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fbltbee6625e4e85c4c1%2F66019fcdcf50d9010817b974%2FRectangle_2.jpg%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fblte6c51e958659a924%2F66019fcd18db08d192004e54%2FRectangle_4.jpg%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fblt4439d0d28eca7e01%2F66019fce8f4444dba0c3aa1d%2FRectangle_11.jpg%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt1b696824a455b27c%2Fbltf9b32a80581dc3fc%2F66019fce827286060c221a78%2FRectangle_16.jpg%3Fauto%3Dwebp%26quality%3D75&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2F8949%2Fprod_6761a1ff042bd.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2F21931%2Fprod_69b19f8e12f93.jpg&w=3840&q=72",
+        "https://www.tanger.com/_next/image?url=https%3A%2F%2Fassets.r02.coniq.com%2Ftoolbox%2Fimage-proxy%2F53178%2Foffer%2F21958%2Fprod_69aed9d4a3629.jpg&w=3840&q=72",
+        "https://cdn.cookielaw.org/logos/static/ot_company_logo.png"
+      ],
+      "sources": [
+        "https://www.tangeroutlets.com/foley"
+      ],
+      "tagline": null,
+      "features": [
+        "multiple stores",
+        "map available",
+        "visitor info"
+      ],
+      "specials": [
+        {
+          "days": [],
+          "name": "Deal Days Offers",
+          "time": null,
+          "description": "Exclusive deals available for TangerClub members"
+        }
+      ],
+      "scraped_at": "2026-03-21T19:52:48.863Z",
+      "price_range": null,
+      "extracted_at": "2026-03-23T04:10:11.497Z",
+      "social_links": {
+        "website": "https://www.tangeroutlets.com/foley",
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Tanger Outlets Foley"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "all-businesses",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.563689+00:00",
+    "updated_at": "2026-05-18T21:31:31.365359+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/22db2db6-baa8-46dc-bac2-c5a8502c1b1f/22db2db6-baa8-46dc-bac2-c5a8502c1b1f_1779132138619.6292.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/22db2db6-baa8-46dc-bac2-c5a8502c1b1f/22db2db6-baa8-46dc-bac2-c5a8502c1b1f_1779139886502.2883.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/22db2db6-baa8-46dc-bac2-c5a8502c1b1f/22db2db6-baa8-46dc-bac2-c5a8502c1b1f_1779131603695.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "d5d1634b-992f-4b4d-a609-5e37c13c1e94",
       "tag": "shoes",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "844ffcaa-ca34-48ad-aa03-9d6752bafe02",
       "tag": "footwear",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "4b712fc4-a156-45be-a8e0-e6c4312aef94",
       "tag": "sneakers",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "33416ca2-3412-4e44-b577-70b57c3fdb10",
       "tag": "apparel",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "7bfcada4-a06a-4682-87d3-8894479558ea",
       "tag": "accessories",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "82afa9fc-9d38-421b-83b3-02c0325fa1c5",
       "tag": "fashion",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "b6ec43e4-ea0d-43df-8881-552c25c275c9",
       "tag": "outlet",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "2a78d63a-e8a3-4e9c-b71c-f7f3447a4c71",
       "tag": "shopping",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "24199fa4-5ec6-4568-b857-b45ce8623d96",
       "tag": "men's shoes",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
+      "id": "36881401-8331-4511-96ba-50e2f86d77ff",
       "tag": "women's shoes",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 9
     },
     {
+      "id": "03c2140a-5929-4870-b74f-36b3726ee11c",
       "tag": "kids shoes",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "213d310c-7bef-453d-a9be-9d7ab3d3e09f",
       "tag": "athletic shoes",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 11
     },
     {
+      "id": "a9802c4e-7cfa-4339-874b-3a2cb96948b0",
       "tag": "boots",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 12
     },
     {
+      "id": "4971a0e0-ac5f-49f6-8018-e8f92377eace",
       "tag": "sandals",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 13
     },
     {
+      "id": "5e3ce419-2f15-4b59-b286-35bca912b4bf",
       "tag": "casual shoes",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 14
     },
     {
+      "id": "b66ff314-421f-478a-a471-fe9272a17075",
       "tag": "designer brands",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 15
     },
     {
+      "id": "c06b0e78-9fe7-48e1-9e9c-49fd202494c8",
       "tag": "sale items",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 16
     },
     {
+      "id": "856ed5ef-1f19-4058-8363-c019d4308c4d",
       "tag": "outlet shopping",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 17
     },
     {
+      "id": "3f468762-7fac-442f-bb3b-05f36ae72989",
       "tag": "Retail",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 18
     },
     {
+      "id": "831a5367-e876-4c06-9689-705cd3be5375",
       "tag": "Fashion",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 19
     },
     {
+      "id": "48d8c7dd-9cc0-453a-8d0e-ec645cc715ab",
       "tag": "Footwear",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 20
     },
     {
+      "id": "60dd922d-8b9b-4a0a-bd8e-3d1f0ecff8e5",
       "tag": "Shoes",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 21
     },
     {
+      "id": "c0a3bf0f-8922-490a-9d7b-cee6d15b6d33",
       "tag": "Apparel",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 22
     },
     {
+      "id": "e040777d-1216-4828-9213-b3995486d204",
       "tag": "Shopping",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 23
     },
     {
+      "id": "cfe51e8e-4318-4ee5-9d99-80a8d8e98d45",
       "tag": "Outlet Shopping",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 24
     },
     {
+      "id": "628375c1-f0e4-4481-b7b8-63e2cfa20eb8",
       "tag": "retail-fashion",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 25
     },
     {
+      "id": "e19d78f3-aec8-40bb-b4f6-913c94178bbe",
       "tag": "retail",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 26
     },
     {
+      "id": "18375d42-92c3-49b3-8bed-49134f2cc7b9",
       "tag": "shopping_mall",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 27
     },
     {
+      "id": "15d0b8b4-40ef-4dad-8f87-35546193b459",
       "tag": "shoe_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 28
     },
     {
+      "id": "665ba722-ab47-4280-b699-a0cde4228fc9",
       "tag": "clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 29
     },
     {
+      "id": "92bd1062-1f87-41cc-b0d9-2600d57e716b",
       "tag": "home_goods_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 30
     },
     {
+      "id": "be7bec7a-7ff7-43fb-8175-7b591bb696bd",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 31
     },
     {
+      "id": "864eb272-3c08-4ee5-8914-c7ddba82dd2e",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 32
     },
     {
+      "id": "8d53044b-ad8e-4e17-8cc6-9bbfd9c14fe4",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 33
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "08598c8b-d16c-42a5-9def-0d3f32f2ebce",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "4881de15-ac49-478a-848a-cc207cd9ef87",
+      "entity_id": "22db2db6-baa8-46dc-bac2-c5a8502c1b1f",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/22db2db6-baa8-46dc-bac2-c5a8502c1b1f/22db2db6-baa8-46dc-bac2-c5a8502c1b1f_1779132138619.6292.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:25.339737+00:00"
+    },
+    {
+      "id": "06d2dc62-180b-42ef-9c4b-f45d73b20b1a",
+      "entity_id": "22db2db6-baa8-46dc-bac2-c5a8502c1b1f",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/22db2db6-baa8-46dc-bac2-c5a8502c1b1f/22db2db6-baa8-46dc-bac2-c5a8502c1b1f_1779139886502.2883.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:25.500797+00:00"
+    },
+    {
+      "id": "13527fc8-bc3e-44f2-a327-8e10b809a6b6",
+      "entity_id": "22db2db6-baa8-46dc-bac2-c5a8502c1b1f",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/22db2db6-baa8-46dc-bac2-c5a8502c1b1f/22db2db6-baa8-46dc-bac2-c5a8502c1b1f_1779131603695.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:25.186982+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

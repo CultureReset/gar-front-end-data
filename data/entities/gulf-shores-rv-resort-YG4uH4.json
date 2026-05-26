@@ -1,32 +1,243 @@
 {
-  "id": "54dc7bf1-37eb-424f-8698-ad89d720c1cd",
-  "slug": "gulf-shores-rv-resort-YG4uH4",
-  "name": "Gulf Shores RV Resort",
-  "entity_type": "hotel",
-  "entity_subtype": "rv_park",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 244-1015",
-  "email": null,
-  "website_url": "https://rvcoutdoors.com/gulf-shores-rv-resort/",
-  "address_line_1": "18717 Barefoot Wy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.8,
-  "review_count": 138,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/e0494022-dc1f-420b-b526-d8356d8e6319/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "54dc7bf1-37eb-424f-8698-ad89d720c1cd",
+    "place_id": "ChIJa5HacG8bmogRnvEM2YG4uH4",
+    "google_maps_uri": "https://maps.google.com/?cid=9131251112325476766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-shores-rv-resort-YG4uH4",
+    "name": "Gulf Shores RV Resort",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "rv_park",
+    "secondary_types": "",
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "campground",
+      "hotel",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 244-1015",
+    "international_phone": null,
+    "website_url": "https://rvcoutdoors.com/gulf-shores-rv-resort/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "18717 Barefoot Wy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3088832,
+    "longitude": -87.7082939,
+    "short_address": "18717 Barefoot Wy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 138,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/e0494022-dc1f-420b-b526-d8356d8e6319/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 3:00 PM",
+      "Sunday: 9:00 AM – 3:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.477529+00:00",
+    "updated_at": "2026-05-18T21:06:43.750325+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "1760d8e4-7019-4529-8284-54b96959a49b",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 0
+    },
+    {
+      "id": "fa1cb466-27d0-4b3f-a442-1d0ebe1d07de",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 1
+    },
+    {
+      "id": "74b01412-65bd-4e47-80f2-bc4504007884",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "76605c57-4d18-4e8c-a7ce-f0313e1c2f7f",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "0937e83b-068b-48fa-b3f4-537a6fc49971",
+      "tag": "rv park",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "c25a624a-090f-439a-97f0-d24a97c13ff4",
+      "tag": "hotel",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "2acf5ccd-dc7a-4c1b-ab3d-a0b92468e348",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "1063ce26-a5db-4f98-acf6-f36a3199b4eb",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "9dfee0bc-793b-4b4e-a000-dfb4c394acca",
+      "tag": "campground",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "f8adc525-157a-4d38-8bac-a04b2715a462",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "699545fc-69e8-42ad-8544-60427a6927d8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 10
+    }
+  ],
+  "sections": [
+    {
+      "id": "78d3a163-97f5-4792-a512-5285dbc74a4c",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

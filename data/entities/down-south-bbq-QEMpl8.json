@@ -1,125 +1,954 @@
 {
-  "id": "2444091b-f328-4932-a0d8-451925a43d3f",
-  "slug": "down-south-bbq-QEMpl8",
-  "name": "Down South BBQ",
-  "entity_type": "bar",
-  "entity_subtype": "bar",
-  "icon": "🏪",
-  "description": "Down South Barbecue is located between Foley and Gulf Shores, Alabama, right on the way to the Alabama Beach. We serve the best barbecue on the coast from our family-size umbrella covered tables. Now serving breakfast! Drop by and eat your lunch or supper. After a long drive to the beach, don't worry about cooking! Let Mama relax. Get a complete meal for all your family. Great food at a fair price. We cater for big orders - call ahead so we have time to properly prepare the very best Southern Barbecue for your group!",
-  "phone": "(251) 955-6622",
-  "email": null,
-  "address_line_1": "19891 Baldwin County Rd 10, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "Alabama",
-  "zip": null,
-  "website_url": "https://downsouthbbq.com/",
-  "rating": 4.6,
-  "review_count": 586,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "2444091b-f328-4932-a0d8-451925a43d3f",
+    "place_id": "ChIJB-pZfD0OmogRwWoF6QEMpl8",
+    "google_maps_uri": "https://maps.google.com/?cid=6892209482081069761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "down-south-bbq-QEMpl8",
+    "name": "Down South BBQ",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "barbecue_restaurant",
+    "google_types": [
+      "establishment",
+      "food",
+      "meal_takeaway",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 955-6622",
+    "international_phone": null,
+    "website_url": "https://downsouthbbq.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "19891 Baldwin County Rd 10, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "Alabama",
+    "zip": null,
+    "latitude": 30.3341306,
+    "longitude": -87.6849946,
+    "short_address": "19891 Baldwin County Rd 10, Foley",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 586,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Small shack with a take-out window serving ribs, wings & other BBQ standards at outdoor tables.",
+    "description": "Down South Barbecue is located between Foley and Gulf Shores, Alabama, right on the way to the Alabama Beach. We serve the best barbecue on the coast from our family-size umbrella covered tables. Now serving breakfast! Drop by and eat your lunch or supper. After a long drive to the beach, don't worry about cooking! Let Mama relax. Get a complete meal for all your family. Great food at a fair price. We cater for big orders - call ahead so we have time to properly prepare the very best Southern Barbecue for your group!",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": false,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": false
+    },
+    "parking": {
+      "valetParking": false,
+      "freeParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Plates (With Bread & 2 Sides)",
+          "items": [
+            {
+              "name": "Rib Plate",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Wing Plate",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Beef",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Pork",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Sausage",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Pork Chops",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "1/2 Chicken",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Sandwiches",
+          "items": [
+            {
+              "name": "Rib",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Sausage",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Corn Bread",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Pork Chop",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Beef, Turkey, Chicken, Pork",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Steak",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "All The Way",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.7741+00:00",
+    "updated_at": "2026-05-18T21:06:28.610122+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "99da2d85-0110-4b98-832c-2520eea66c17",
       "tag": "bbq",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "0ffb953a-abfc-4139-814b-35cefe1bc85b",
+      "tag": "bbq",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "ff0e084c-8720-41a8-9fbd-24d114e61034",
       "tag": "barbecue",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "ccc91e3b-2301-47a2-998d-7a04cbf02997",
+      "tag": "barbecue",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "d0746a4b-fbbe-4702-abb7-af51999ee26f",
       "tag": "foley-alabama",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 2
     },
     {
+      "id": "465b5c2c-794a-499f-9bdb-856210384bd8",
+      "tag": "foley-alabama",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "1e40384c-802c-4cb1-ba8d-68577ff44218",
       "tag": "casual-dining",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 3
     },
     {
+      "id": "14c1f8b2-203a-4dc7-912c-caaa6acf4cb6",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "505e5354-63b4-4150-a4ab-7227339e27d1",
       "tag": "lunch",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 4
     },
     {
+      "id": "d8df18e1-efc6-4d46-abbd-4de9af5c6d14",
+      "tag": "lunch",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "fc6493a2-3ef4-47a1-897f-74b9c964b224",
       "tag": "dinner",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 5
     },
     {
+      "id": "05191997-a493-4c79-9dd3-b3e2b487ae01",
+      "tag": "dinner",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "fc479e0c-35cc-4cfc-954e-cc37d7d4de6f",
       "tag": "breakfast",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 6
     },
     {
+      "id": "cbfc7090-4956-4b8e-94a6-74120abe4eea",
+      "tag": "breakfast",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "6546f610-efe2-4494-821a-9fdbc18db215",
       "tag": "catering",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 7
     },
     {
+      "id": "8095189d-b79f-4d4a-bd47-e177c81c6ef5",
+      "tag": "catering",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "345f6f83-caf8-468d-a9f1-69ba3db09d0b",
       "tag": "family-friendly",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 8
     },
     {
+      "id": "70694068-5e25-4696-9c52-bc8404046a28",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "ee6a6ab6-41c3-4847-b488-5df8bd98082e",
       "tag": "local-favorite",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 9
     },
     {
+      "id": "9b838a5f-4eb9-4bef-84ca-710d01399321",
+      "tag": "local-favorite",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "ef3adce9-90c5-4127-b7cc-f30a820a8287",
       "tag": "happy_hour",
-      "tag_category": "amenity"
+      "tag_category": "amenity",
+      "sort_order": 10
     },
     {
+      "id": "761871c5-e10e-499f-844c-cc76ec3c53a5",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 10
+    },
+    {
+      "id": "5dfa6bbc-4f49-414b-a137-2a33deaf5e4d",
       "tag": "kids_friendly",
-      "tag_category": "amenity"
+      "tag_category": "amenity",
+      "sort_order": 11
     },
     {
+      "id": "efe7f92d-13b9-4e33-bddf-5c19632c8718",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 11
+    },
+    {
+      "id": "3d052cb1-76cc-44a3-a679-17823497a535",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 12
     },
     {
+      "id": "4376f69f-44b1-4b35-b67e-d9d012dfb92b",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "fd9866b6-8a76-448f-b224-a795bbe5b9d9",
       "tag": "outdoor_seating",
-      "tag_category": "amenity"
+      "tag_category": "amenity",
+      "sort_order": 13
     },
     {
+      "id": "12fce533-eb18-47c7-8185-0af46e8b092a",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 13
+    },
+    {
+      "id": "df229326-32a5-4060-9335-ceee5f23b58b",
       "tag": "full_bar",
-      "tag_category": "amenity"
+      "tag_category": "amenity",
+      "sort_order": 14
     },
     {
+      "id": "99b1ef87-0cb6-4d87-a559-474e9bfd5a6e",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 14
+    },
+    {
+      "id": "ae4f11fd-92f5-40a5-a420-27e2eea55cd0",
       "tag": "gulf-shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 15
     },
     {
+      "id": "79470a6d-3ca0-417f-bce4-62306470b607",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "3cd663d9-5f44-4a66-beaa-2e1d285f9927",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 16
     },
     {
+      "id": "2b1d8b97-dcc3-4de5-bd0a-eaac1605496a",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "914d9693-8e4d-4b6e-b09c-fc5162f6fbc7",
       "tag": "barbecue_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 17
     },
     {
+      "id": "95950059-7d2a-418f-9c0e-a506b2aaf376",
+      "tag": "barbecue_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "51254a56-871a-43db-bf04-167a03d73233",
       "tag": "meal_takeaway",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 18
     },
     {
+      "id": "b6e1ab5f-52ea-4a6f-ba55-078b1435e28f",
+      "tag": "meal_takeaway",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "61faf3fa-bbc0-4f03-9dfb-3319c8b8d01d",
       "tag": "american_restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 19
     },
     {
+      "id": "ecd97ad6-8557-4d42-96cf-7840b1347e6e",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "113679af-4a54-4756-ba17-4694cb3a6aef",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 20
     },
     {
+      "id": "876162cf-e8b6-482e-9b5a-407e3e10f257",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "3ecf3261-30a2-4351-8be0-b1dc0dc7561c",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 21
     },
     {
+      "id": "afc5873f-e2a1-4c06-9c51-e4c1514483ad",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "e8f5ba86-4a53-45df-9ea8-8750afe78c44",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "2de3327d-18c8-403f-a41e-8ff9c7ae75ec",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 22
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf",
+      "section_key": "plates_(with_bread_&_2_sides)",
+      "section_label": "Plates (With Bread & 2 Sides)",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "696db9d9-c2f9-4f26-9166-e53830adac43",
+      "section_key": "sandwiches",
+      "section_label": "Sandwiches",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "52acb8aa-3a8e-4fd1-b92c-be45d844490a",
+      "section_key": "specials",
+      "section_label": "Specials",
+      "section_type": "specials",
+      "sort_order": 5
+    },
+    {
+      "id": "edd2ec7b-2730-4805-9e31-62bbc17a27e2",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [
+    {
+      "id": "5d841ae1-523a-481c-a97f-689a0ce59ca0",
+      "section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf",
+      "group_id": null,
+      "item_name": "Rib Plate",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "709beed9-c9a5-4f20-b35f-98108cd2a347",
+      "section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf",
+      "group_id": null,
+      "item_name": "Wing Plate",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "65bdca0d-d4c2-4c6e-82a3-cfffecc98aa1",
+      "section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf",
+      "group_id": null,
+      "item_name": "Beef",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 2,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "f07bdddd-229e-4770-84bc-073047850676",
+      "section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf",
+      "group_id": null,
+      "item_name": "Pork",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 3,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "13e47ffe-7d75-45c1-b0aa-6b718ed744fa",
+      "section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf",
+      "group_id": null,
+      "item_name": "Sausage",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 4,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "81802a20-2a11-451f-9d8f-cea6eda186ec",
+      "section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf",
+      "group_id": null,
+      "item_name": "Pork Chops",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 5,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "ad812813-3de3-41e1-b130-0bbb16292702",
+      "section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf",
+      "group_id": null,
+      "item_name": "1/2 Chicken",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 6,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    }
+  ],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [
+      {
+        "id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf",
+        "section_name": "Plates (With Bread & 2 Sides)",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "2444091b-f328-4932-a0d8-451925a43d3f",
+        "sort_order": 0
+      },
+      {
+        "id": "696db9d9-c2f9-4f26-9166-e53830adac43",
+        "section_name": "Sandwiches",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "2444091b-f328-4932-a0d8-451925a43d3f",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": [
+      {
+        "id": "5d841ae1-523a-481c-a97f-689a0ce59ca0",
+        "item_name": "Rib Plate",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf"
+      },
+      {
+        "id": "709beed9-c9a5-4f20-b35f-98108cd2a347",
+        "item_name": "Wing Plate",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf"
+      },
+      {
+        "id": "65bdca0d-d4c2-4c6e-82a3-cfffecc98aa1",
+        "item_name": "Beef",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 2,
+        "menu_section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf"
+      },
+      {
+        "id": "f07bdddd-229e-4770-84bc-073047850676",
+        "item_name": "Pork",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 3,
+        "menu_section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf"
+      },
+      {
+        "id": "13e47ffe-7d75-45c1-b0aa-6b718ed744fa",
+        "item_name": "Sausage",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 4,
+        "menu_section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf"
+      },
+      {
+        "id": "81802a20-2a11-451f-9d8f-cea6eda186ec",
+        "item_name": "Pork Chops",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 5,
+        "menu_section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf"
+      },
+      {
+        "id": "ad812813-3de3-41e1-b130-0bbb16292702",
+        "item_name": "1/2 Chicken",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 6,
+        "menu_section_id": "1bdcde9b-721b-4167-aff7-d8fa968b01cf"
+      }
+    ]
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

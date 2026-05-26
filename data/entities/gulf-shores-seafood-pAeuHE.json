@@ -1,32 +1,690 @@
 {
-  "id": "8333b32e-825d-427f-8c92-6f689f8b483d",
-  "slug": "gulf-shores-seafood-pAeuHE",
-  "name": "Gulf Shores Seafood",
-  "entity_type": "restaurant",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "Gulf Shores Seafood is a locally owned and operated seafood market located in the heart of Gulf Shores, Alabama, across from Waterville USA. The store has been providing residents and visitors with the finest local seafood for over 60 years. Owners Gina and Patrick Daily purchased the business in 2000 and made it their goal to offer only the freshest Alabama Gulf Seafood as well as prepared meals to go. The market offers fresh Snapper, Grouper, Yellowfin Tuna, Flounder, Crabmeat, Oysters, Seafood Dips, live or cooked Crawfish, and catering services for any event.",
-  "phone": "(251) 948-8456",
-  "email": null,
-  "website_url": "https://www.gulfshoresseafood.com/",
-  "address_line_1": "921 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 819,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8333b32e-825d-427f-8c92-6f689f8b483d/8333b32e-825d-427f-8c92-6f689f8b483d_1779139851850.4663.jpg",
-  "photos": [],
+  "entity": {
+    "id": "8333b32e-825d-427f-8c92-6f689f8b483d",
+    "place_id": "ChIJQxLRTM8EmogRex2fNpAeuHE",
+    "google_maps_uri": "https://maps.google.com/?cid=8194333126741138811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-shores-seafood-pAeuHE",
+    "name": "Gulf Shores Seafood",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "restaurant",
+      "food",
+      "market",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-8456",
+    "international_phone": null,
+    "website_url": "https://www.gulfshoresseafood.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "921 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2578689,
+    "longitude": -87.6887471,
+    "short_address": "921 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 819,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Gulf Shores Seafood is a locally owned and operated seafood market located in the heart of Gulf Shores, Alabama, across from Waterville USA. The store has been providing residents and visitors with the finest local seafood for over 60 years. Owners Gina and Patrick Daily purchased the business in 2000 and made it their goal to offer only the freshest Alabama Gulf Seafood as well as prepared meals to go. The market offers fresh Snapper, Grouper, Yellowfin Tuna, Flounder, Crabmeat, Oysters, Seafood Dips, live or cooked Crawfish, and catering services for any event.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8333b32e-825d-427f-8c92-6f689f8b483d/8333b32e-825d-427f-8c92-6f689f8b483d_1779139851850.4663.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 6:00 PM",
+      "Sunday: 10:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Meals To Go",
+          "items": [
+            {
+              "name": "Low Country Boil for 1 Person",
+              "tags": [],
+              "price": 12.5,
+              "dietary": [],
+              "popular": false,
+              "description": "0.5lb Large Shrimp, 1 piece Sausage, 1 Ear local Corn-on-Cob and 3 new potatoes, seasoned in your choice of Mild, Medium or Cajun",
+              "subcategory": null
+            },
+            {
+              "name": "Low Country Boil for 2",
+              "tags": [],
+              "price": 25,
+              "dietary": [],
+              "popular": false,
+              "description": "1lb Large Shrimp, 2 pieces Sausage, 2 Ears local Corn-on-Cob and 6 new potatoes, seasoned in your choice of Mild, Medium or Cajun",
+              "subcategory": null
+            },
+            {
+              "name": "Royal Red Tails",
+              "tags": [],
+              "price": 14,
+              "dietary": [],
+              "popular": false,
+              "description": "0.5 lb Royal's seasoned, Corn-on-Cob, 3 Red Potatoes, seasoned in your choice of Mild, Medium or Cajun",
+              "subcategory": null
+            },
+            {
+              "name": "Corn, Potatoes & Sausage",
+              "tags": [],
+              "price": 4.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Corn-on-Cob, 3 New Potatoes & Sausage link, seasoned in your choice of Mild, Medium or Cajun",
+              "subcategory": null
+            },
+            {
+              "name": "Corn & Potatoes Only",
+              "tags": [],
+              "price": 3.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Corn-on-Cob & 3 New potatoes, seasoned in your choice of Mild, Medium or Cajun",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Fresh Seafood",
+          "items": [
+            {
+              "name": "Big Daddy Shrimp",
+              "tags": [],
+              "price": 18.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Gulf Coast Shrimp",
+              "subcategory": null
+            },
+            {
+              "name": "Jumbo Shrimp",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Gulf Coast Shrimp",
+              "subcategory": null
+            },
+            {
+              "name": "Large Shrimp",
+              "tags": [],
+              "price": 14.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Gulf Coast Shrimp",
+              "subcategory": null
+            },
+            {
+              "name": "Royal Reds (Tails)",
+              "tags": [],
+              "price": 16.5,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Gulf Coast Shrimp",
+              "subcategory": null
+            },
+            {
+              "name": "Grouper",
+              "tags": [],
+              "price": 24.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Fish",
+              "subcategory": null
+            },
+            {
+              "name": "Mahi-Mahi",
+              "tags": [],
+              "price": 14.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Fish",
+              "subcategory": null
+            },
+            {
+              "name": "Yellowfin Tuna",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Fish",
+              "subcategory": null
+            },
+            {
+              "name": "Flounder",
+              "tags": [],
+              "price": 9.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Fish",
+              "subcategory": null
+            },
+            {
+              "name": "Snapper",
+              "tags": [],
+              "price": 18.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Fish",
+              "subcategory": null
+            },
+            {
+              "name": "Snow Crab Clusters",
+              "tags": [],
+              "price": 25.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Crab Legs",
+              "subcategory": null
+            },
+            {
+              "name": "Dungeness Crab Legs",
+              "tags": [],
+              "price": 23.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Crab Legs",
+              "subcategory": null
+            },
+            {
+              "name": "Stone Crab Claws",
+              "tags": [],
+              "price": 18.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Crab",
+              "subcategory": null
+            },
+            {
+              "name": "Large Scallops",
+              "tags": [],
+              "price": 18.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Scallops",
+              "subcategory": null
+            },
+            {
+              "name": "Jumbo Scallops",
+              "tags": [],
+              "price": 23.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Scallops",
+              "subcategory": null
+            },
+            {
+              "name": "Shucked Oysters (Pint)",
+              "tags": [],
+              "price": 30,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Oysters",
+              "subcategory": null
+            },
+            {
+              "name": "Shucked Oysters (Quart)",
+              "tags": [],
+              "price": 60,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Oysters",
+              "subcategory": null
+            },
+            {
+              "name": "Oysters in Shell (22 lb box)",
+              "tags": [],
+              "price": 54.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Oysters",
+              "subcategory": null
+            },
+            {
+              "name": "Oysters in Shell (By The Dozen)",
+              "tags": [],
+              "price": 16,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh Oysters",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Dips & Salads",
+          "items": [
+            {
+              "name": "Shrimp and Crab Parmesan Dip",
+              "tags": [],
+              "price": 10.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Smoked Tuna Dip",
+              "tags": [],
+              "price": 10.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Beer Cheese Dip",
+              "tags": [],
+              "price": 7.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Lump Crab Dip",
+              "tags": [],
+              "price": 10.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Jalapeño Crab Artichoke Dip",
+              "tags": [],
+              "price": 10.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cajun Crab Dip",
+              "tags": [],
+              "price": 10.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Coleslaw",
+              "tags": [],
+              "price": 4.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Baked Potato Salad",
+              "tags": [],
+              "price": 4.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cucumber/Tomato Salad",
+              "tags": [],
+              "price": 4.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Sauces & Add-ons",
+          "items": [
+            {
+              "name": "Homemade Cocktail Sauce (4oz)",
+              "tags": [],
+              "price": 1.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Homemade Cocktail Sauce (8oz)",
+              "tags": [],
+              "price": 2.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Homemade Cocktail Sauce (16oz)",
+              "tags": [],
+              "price": 5.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Garlic Butter (4oz)",
+              "tags": [],
+              "price": 1.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Garlic Butter (8oz)",
+              "tags": [],
+              "price": 2.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Soups",
+          "items": [
+            {
+              "name": "Homemade Seafood Gumbo (Small/Pint)",
+              "tags": [],
+              "price": 8.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Homemade Seafood Gumbo (Large/Quart)",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Key Lime Pie",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Mini Key Lime Pie",
+              "tags": [],
+              "price": 2.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Peanut Butter Pie",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cookies-N-Cream Pie",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.315137+00:00",
+    "updated_at": "2026-05-18T21:30:56.85962+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "dce7203d-b84c-40ba-b731-2032da61e2f6",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "09771134-2c14-48a2-a59d-0f9260001f94",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "987ebaca-4af1-4c86-bc61-3d187db1e4b5",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "33955757-847a-46f1-b5eb-f523350c3f2e",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "c7318065-b90c-4d34-84ff-d1078b10d756",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "83c62172-27e6-4198-a228-33bafbf76666",
+      "tag": "market",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "e8be09ec-0ff4-461e-bcf4-b822e424b9cf",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "24f8d7ac-33cb-46ee-a285-e361f357dd43",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 7
+    },
+    {
+      "id": "543fa3d8-e7a5-40ce-9d53-83927daf83ff",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "a78f8f92-8193-4f9d-a428-02f13744bc1c",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "0824747d-deed-4cae-9aa3-79fd65aa1b93",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "e8763f98-157c-42e8-8415-7ec5474a2f3d",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "d32a9e37-b25e-48c4-ab1b-f4d743103da7",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "2f7d2ee5-12b5-438c-b94a-be03b443adb5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 13
+    }
+  ],
+  "sections": [
+    {
+      "id": "1fd2a288-3728-4ccb-b6ba-da64d93956bb",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

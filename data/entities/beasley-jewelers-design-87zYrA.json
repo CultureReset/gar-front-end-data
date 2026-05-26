@@ -1,89 +1,263 @@
 {
-  "id": "5bca1844-cdc9-4caa-89a0-39328a5e7ad7",
-  "slug": "beasley-jewelers-design-87zYrA",
-  "name": "Beasley Jewelers & Design",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 477-7311",
-  "email": null,
-  "address_line_1": "875 E 9 Mile Rd Suite 11, Pensacola, FL 32514, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32514",
-  "website_url": "http://www.beasleyjewelers.com/",
-  "rating": 4.8,
-  "review_count": 118,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "5bca1844-cdc9-4caa-89a0-39328a5e7ad7",
+    "place_id": "ChIJCamkUTKVkIgR2BkeP87zYrA",
+    "google_maps_uri": "https://maps.google.com/?cid=12709989165540710872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "beasley-jewelers-design-87zYrA",
+    "name": "Beasley Jewelers & Design",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "jewelry_store",
+    "google_types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 477-7311",
+    "international_phone": null,
+    "website_url": "http://www.beasleyjewelers.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "875 E 9 Mile Rd Suite 11, Pensacola, FL 32514, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32514",
+    "latitude": 30.531894,
+    "longitude": -87.24609,
+    "short_address": "875 E 9 Mile Rd Suite 11, Pensacola",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 118,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": false,
+      "freeGarageParking": false,
+      "freeStreetParking": true,
+      "paidGarageParking": false,
+      "paidStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.040151+00:00",
+    "updated_at": "2026-05-18T21:06:07.018124+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "58db53b4-bd06-4934-8352-0de5b17a2872",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
-      "tag": "gulf_shores",
-      "tag_category": "search"
-    },
-    {
-      "tag": "jewelry_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "240a5489-cbde-48ba-971e-05b33ada3797",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "c0357274-6f13-464a-a700-5fd269256d67",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "c45c2cac-f168-4458-80be-996a5cd6b14a",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "79c50dd0-3c59-47b7-abab-1f8543f21568",
       "tag": "jewelry_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "7eda91cd-0c63-42b4-ab59-3c4f01f2ad0e",
+      "tag": "jewelry_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "6be3a8d4-e06e-42e6-84e7-8545e135a0ec",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "46d6f2a1-6487-44cf-8060-8fe415212eea",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "6bae05d3-143b-432a-b671-b6f8a63ad151",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "e3391c6f-8094-4246-a598-8df92a783d26",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "8c3cb40d-606b-4def-bb69-0244cc2eb4c0",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "5e6f0851-f9d1-401f-b795-ccfe211c834c",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "5bdc4b0c-7e6c-4492-a8e5-9f9e83917f6c",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "1a4f2d83-334a-4e17-91c6-c866f4433009",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 6
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "f678879f-2b31-4d09-98d9-e7ee40584582",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

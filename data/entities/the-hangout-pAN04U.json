@@ -1,32 +1,451 @@
 {
-  "id": "c06821ca-04b7-4f50-9db9-f9ec7289a9fc",
-  "slug": "the-hangout-pAN04U",
-  "name": "The Hangout",
-  "entity_type": "artist",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Colorful beach pick known for its oyster cook-off, live music & party vibe in an open-air space.",
-  "phone": "(251) 948-3030",
-  "email": null,
-  "website_url": "https://www.thehangout.com/hangout-gulf-shores/",
-  "address_line_1": "101 E Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 31234,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/c06821ca-04b7-4f50-9db9-f9ec7289a9fc/c06821ca-04b7-4f50-9db9-f9ec7289a9fc_1779139792426.3877.jpg",
-  "photos": [],
+  "entity": {
+    "id": "c06821ca-04b7-4f50-9db9-f9ec7289a9fc",
+    "place_id": "ChIJSU2qLbcEmogRsJwBQpAN04U",
+    "google_maps_uri": "https://maps.google.com/?cid=9643066140364217520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "the-hangout-pAN04U",
+    "name": "The Hangout",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "seafood_restaurant",
+      "breakfast_restaurant",
+      "hamburger_restaurant",
+      "live_music_venue",
+      "american_restaurant",
+      "event_venue",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-3030",
+    "international_phone": null,
+    "website_url": "https://www.thehangout.com/hangout-gulf-shores/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "101 E Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2481175,
+    "longitude": -87.6892152,
+    "short_address": "101 E Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 31234,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Colorful beach pick known for its oyster cook-off, live music & party vibe in an open-air space.",
+    "description": "Colorful beach pick known for its oyster cook-off, live music & party vibe in an open-air space.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/c06821ca-04b7-4f50-9db9-f9ec7289a9fc/c06821ca-04b7-4f50-9db9-f9ec7289a9fc_1779139792426.3877.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/thehangoutgs",
+    "social_facebook": "https://www.facebook.com/thehangoutgs",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "paidStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": false,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:30 AM – 10:00 PM",
+      "Tuesday: 10:30 AM – 10:00 PM",
+      "Wednesday: 10:30 AM – 10:00 PM",
+      "Thursday: 10:30 AM – 10:00 PM",
+      "Friday: 10:30 AM – 11:00 PM",
+      "Saturday: 10:30 AM – 11:00 PM",
+      "Sunday: 10:30 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Seafood",
+          "items": [
+            {
+              "name": "Fresh Seafood",
+              "tags": [
+                "seafood",
+                "signature"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Various fresh seafood options",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Breakfast",
+          "items": [
+            {
+              "name": "Family Style Easter Breakfast",
+              "tags": [
+                "family-style",
+                "seasonal"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Classic breakfast favorites",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Burgers & Casual",
+          "items": [
+            {
+              "name": "Burgers",
+              "tags": [
+                "casual",
+                "popular"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Chef-crafted burgers",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Chef Specials",
+          "items": [
+            {
+              "name": "Chef Specials",
+              "tags": [
+                "seasonal",
+                "featured"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Rotating chef-crafted dishes and specialties",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Drinks",
+          "items": [
+            {
+              "name": "Craft Cocktails",
+              "tags": [
+                "cold drinks",
+                "signature"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Perfectly crafted cocktails",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "consolidation",
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "all-businesses",
+      "scraped-menus",
+      "raw-page-data",
+      "consolidation-venue-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.413907+00:00",
+    "updated_at": "2026-05-21T06:05:40.907005+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": "high",
+    "extraction_timestamp": "2026-05-21T06:05:38.121+00:00",
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "46bc5a9f-9fb1-4a92-a889-2cbb10b69561",
+      "tag": "beach rentals",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "56cfa901-963b-4e63-af82-164ea6489d41",
+      "tag": "pet friendly",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "0d6c3e67-04e9-4729-8d19-4dbda96a5d29",
+      "tag": "gulf shores",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "481cee04-fef3-486d-9c39-1d8a727997b8",
+      "tag": "fort morgan",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "e99bff76-9708-4006-98c0-d8a3b34f8a9f",
+      "tag": "vacation homes",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "67b9bd68-cdf9-4f21-8569-43ab608c02a5",
+      "tag": "coastal living",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "5fdc9a27-feb4-4d61-842f-ba1ba78600ff",
+      "tag": "short-term rentals",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "6349642b-232f-4941-88a3-e77f96b70409",
+      "tag": "family vacations",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "761a7faf-03b0-4827-b852-975df5ccbe3b",
+      "tag": "weekend getaways",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "97f473a9-5922-4bd5-98d6-445a9fb34a58",
+      "tag": "alabama coast",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "b022ee49-2ef4-4165-a847-293dc0e60803",
+      "tag": "Rentals",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "d4c2c0b0-6f09-4a40-bd36-4ad09a92f686",
+      "tag": "Beach Accommodations",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "0430f75b-3cf0-405e-8478-93a86fd6de99",
+      "tag": "Vacation Rentals",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "a7a60e1a-d97f-4ae2-ab56-92ef5cde88f1",
+      "tag": "Pet-Friendly Lodging",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "c1a836a4-1c92-47e0-b08d-48b1b2fe5d00",
+      "tag": "Gulf Coast",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "dbbfc4f3-b90a-45d8-8350-5a12365da4ed",
+      "tag": "Tourist Accommodations",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "454f6ad0-e23a-406d-965f-18bab391a51e",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 16
+    },
+    {
+      "id": "cfbfc2f1-176a-426f-ac55-a81c62ff925b",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "8e2a5573-2c81-44e0-958e-fe98456a046e",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "2d7528b8-15b6-4ce1-9f6c-b1e25df9335d",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "4d91c835-14a3-499a-bf68-8c96a81cb00c",
+      "tag": "hamburger_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "1d76080d-1d4a-4c1a-8c4e-76906e24e404",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "8fd28ca5-f4bd-4c6c-aded-886c78b259e6",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "d972f90f-7162-4906-8103-4a1f6888ec6a",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "3e7ed7cc-1a6d-465f-bd7a-bbdda044f373",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "62da9148-a49d-48e2-bc62-6aa572f2130b",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "81f4d9bd-6b8b-46e8-bbed-4969a84530a8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "2ea1259c-50e5-4991-b3d7-2dce3946ceea",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 27
+    }
+  ],
+  "sections": [
+    {
+      "id": "8b474637-2356-4a5f-b69d-37a4c1e99af2",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

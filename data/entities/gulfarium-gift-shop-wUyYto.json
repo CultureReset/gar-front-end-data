@@ -1,57 +1,207 @@
 {
-  "id": "52629930-d9d5-4675-b877-05017e2d9199",
-  "slug": "gulfarium-gift-shop-wUyYto",
-  "name": "Gulfarium Gift Shop",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 243-9046",
-  "email": null,
-  "address_line_1": "1010 Miracle Strip Pkwy SE, Fort Walton Beach, FL 32548, USA",
-  "city": "Fort Walton Beach",
-  "state": "FL",
-  "zip": "32548",
-  "website_url": "http://www.gulfarium.com/",
-  "rating": 4.1,
-  "review_count": 20,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "52629930-d9d5-4675-b877-05017e2d9199",
+    "place_id": "ChIJT5gtX0w_kYgRZCQB8wUyYto",
+    "google_maps_uri": "https://maps.google.com/?cid=15736195049119097956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulfarium-gift-shop-wUyYto",
+    "name": "Gulfarium Gift Shop",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "gift_shop",
+    "google_types": [
+      "gift_shop",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 243-9046",
+    "international_phone": null,
+    "website_url": "http://www.gulfarium.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1010 Miracle Strip Pkwy SE, Fort Walton Beach, FL 32548, USA",
+    "address_line_2": null,
+    "city": "Fort Walton Beach",
+    "state": "FL",
+    "zip": "32548",
+    "latitude": 30.3944769,
+    "longitude": -86.5935152,
+    "short_address": "1010 Miracle Strip Pkwy SE, Fort Walton Beach",
+    "plus_code": null,
+    "rating": 4.1,
+    "review_count": 20,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 4:30 PM",
+      "Tuesday: 9:00 AM – 4:30 PM",
+      "Wednesday: 9:00 AM – 4:30 PM",
+      "Thursday: 9:00 AM – 4:30 PM",
+      "Friday: 9:00 AM – 4:30 PM",
+      "Saturday: 9:00 AM – 4:30 PM",
+      "Sunday: 9:00 AM – 4:30 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.588966+00:00",
+    "updated_at": "2026-05-18T21:06:45.685991+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "9a91eebc-fd01-4439-be73-883937487405",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "ba7baadf-0685-4ed9-89a9-3b83ea7ffa99",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "662a8dd4-85af-4a44-b6a6-2ddb2c1eb6a5",
       "tag": "gift_shop",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "6951e370-90ee-4c8d-b00b-972e769b6b06",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "d65946af-ace7-41c1-b2c5-4936c427a5cf",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "8da0e0dd-e35d-40fa-883f-478e9473877c",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "73966be4-8d09-40a3-9305-7924f55e919a",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

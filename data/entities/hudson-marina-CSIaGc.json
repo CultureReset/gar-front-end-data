@@ -1,32 +1,439 @@
 {
-  "id": "08328e86-86d2-4db9-b596-69bef7776e4d",
-  "slug": "hudson-marina-CSIaGc",
-  "name": "Hudson Marina",
-  "entity_type": "activity",
-  "entity_subtype": "marina",
-  "icon": "🏪",
-  "description": "Water sports, boating & fishing plus equipment rentals in the marina on the bay.",
-  "phone": "(251) 981-4127",
-  "email": null,
-  "website_url": "http://www.hudsonmarina.net/",
-  "address_line_1": "4575 S Wilson Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.5,
-  "review_count": 1243,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/08328e86-86d2-4db9-b596-69bef7776e4d/08328e86-86d2-4db9-b596-69bef7776e4d_1779139833963.5413.jpg",
-  "photos": [],
+  "entity": {
+    "id": "08328e86-86d2-4db9-b596-69bef7776e4d",
+    "place_id": "ChIJ4wqp_JUHmogRed_dICSIaGc",
+    "google_maps_uri": "https://maps.google.com/?cid=7451355272236097401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "hudson-marina-CSIaGc",
+    "name": "Hudson Marina",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "marina",
+    "secondary_types": "",
+    "google_type": "marina",
+    "google_types": [
+      "establishment",
+      "point_of_interest",
+      "travel_agency"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-4127",
+    "international_phone": null,
+    "website_url": "http://www.hudsonmarina.net/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4575 S Wilson Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2922238,
+    "longitude": -87.5592262,
+    "short_address": "4575 S Wilson Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 1243,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Water sports, boating & fishing plus equipment rentals in the marina on the bay.",
+    "description": "Water sports, boating & fishing plus equipment rentals in the marina on the bay.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/08328e86-86d2-4db9-b596-69bef7776e4d/08328e86-86d2-4db9-b596-69bef7776e4d_1779139833963.5413.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://hudsonmarina.net",
+      "menu": {
+        "categories": []
+      },
+      "tags": [],
+      "type": null,
+      "about": {
+        "vibe": null,
+        "best_for": [],
+        "description": null,
+        "established": null,
+        "insider_tip": null,
+        "reservations": null,
+        "elevator_pitch": null
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null
+      },
+      "gallery": [],
+      "sources": [
+        "https://hudsonmarina.net"
+      ],
+      "tagline": null,
+      "features": [],
+      "specials": [],
+      "scraped_at": "2026-03-21T19:47:42.204Z",
+      "price_range": null,
+      "extracted_at": "2026-03-23T03:46:58.018Z",
+      "social_links": {
+        "website": "https://hudsonmarina.net",
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "hudsonmarina.net",
+      "extraction_note": "403 Forbidden error - page content not accessible"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:11.614761+00:00",
+    "updated_at": "2026-05-18T21:30:38.821909+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "fc406b69-1c88-4598-a5c6-1088fe247ac9",
+      "tag": "marina",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "a96a0d8b-bbf8-4b4d-91a9-478d70784f46",
+      "tag": "marina",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "15942bec-a87c-47e8-a715-d2e9b619d0e0",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "f7b3ee08-020e-4bbe-8031-896be535244f",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "71cd3b9e-7ddf-4118-8b12-8271b1b08454",
+      "tag": "tour agency",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "9698b323-38ee-46b8-b2c8-4a7c437d322a",
+      "tag": "tour agency",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "6281f1b5-3415-46fe-9617-e3e73808069f",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "a25e138f-65e6-4199-98f1-ddc359937c52",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "a4548d77-9ef1-45e1-b262-48c29fa87704",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "ffa27f1a-9c20-4d63-b87b-9fc7cafae840",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "e0da98e2-0300-4bb1-b7dc-a529e10d1eff",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "2e3977cb-1b6d-40a8-806e-c700080679f1",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "80d28124-6f2a-47ff-91b1-144b9b4b3716",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "7cdb16b7-fcc9-41bf-8bca-005ad5985d29",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "7c3557ef-1eab-4501-9ccc-701cb378528f",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "ec68374f-66cf-476c-b21b-589286d5b70b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 7
+    },
+    {
+      "id": "daecfbd5-c9ef-4721-87e9-608cfa98c5d9",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "afc9af86-9258-438d-a05a-a3d695916d5b",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "ffe37c7b-8ce8-478d-907f-2c797649e1ed",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "beed02d6-eb85-42e4-bb6b-e57100b19194",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "b0e3ecae-e8e1-4aff-9e0b-5b75dcea56e4",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "7b52a9dc-68fa-4023-ab5b-8b269af88f43",
+      "tag": "tour_agency",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "caed30fd-3dd7-4c05-a084-471b96fc90aa",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "ec3b68c1-172b-4b19-a6bd-94440895608d",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "b16faa43-6e61-4891-9b80-ffd539a9e22a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "0ee0c05e-d148-4485-a8e2-a1a0bd97568a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 12
+    }
+  ],
+  "sections": [
+    {
+      "id": "5fd9577c-7d29-4574-90bd-92dfc09502f8",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "a18ce78c-768a-49ac-b32e-051394115128",
+      "entity_id": "08328e86-86d2-4db9-b596-69bef7776e4d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/08328e86-86d2-4db9-b596-69bef7776e4d/08328e86-86d2-4db9-b596-69bef7776e4d_1779131548162.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:08.27479+00:00"
+    },
+    {
+      "id": "dfc17d92-d87f-41c4-8274-51fb63ccfb10",
+      "entity_id": "08328e86-86d2-4db9-b596-69bef7776e4d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/08328e86-86d2-4db9-b596-69bef7776e4d/08328e86-86d2-4db9-b596-69bef7776e4d_1779132020492.6492.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:08.436082+00:00"
+    },
+    {
+      "id": "f7974593-3fe3-4ba4-8d62-9a62d99240f3",
+      "entity_id": "08328e86-86d2-4db9-b596-69bef7776e4d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/08328e86-86d2-4db9-b596-69bef7776e4d/08328e86-86d2-4db9-b596-69bef7776e4d_1779132086277.229.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:08.581192+00:00"
+    },
+    {
+      "id": "724b6ac2-9183-4fa4-ada7-03cfab8891b5",
+      "entity_id": "08328e86-86d2-4db9-b596-69bef7776e4d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/08328e86-86d2-4db9-b596-69bef7776e4d/08328e86-86d2-4db9-b596-69bef7776e4d_1779139765633.2349.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:08.739755+00:00"
+    },
+    {
+      "id": "95fc1222-a784-4342-a25f-21f0b916ddb0",
+      "entity_id": "08328e86-86d2-4db9-b596-69bef7776e4d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/08328e86-86d2-4db9-b596-69bef7776e4d/08328e86-86d2-4db9-b596-69bef7776e4d_1779131481589.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:08.127104+00:00"
+    },
+    {
+      "id": "db515da2-b567-4501-8625-15efccb7bcc4",
+      "entity_id": "08328e86-86d2-4db9-b596-69bef7776e4d",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/08328e86-86d2-4db9-b596-69bef7776e4d/08328e86-86d2-4db9-b596-69bef7776e4d_1779139833963.5413.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:08.888754+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

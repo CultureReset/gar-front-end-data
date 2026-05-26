@@ -1,69 +1,281 @@
 {
-  "id": "568031cc-0a2d-42a2-8301-a169133168ac",
-  "slug": "city-gear-r5xf_A",
-  "name": "City Gear",
-  "entity_type": "shopping",
-  "entity_subtype": "clothing",
-  "icon": "🏪",
-  "description": "Streetwear chain carrying men's apparel, hats & shoes, including brand-name sneakers.",
-  "phone": "(850) 378-7055",
-  "email": null,
-  "address_line_1": "4600 Mobile Hwy SPACES 13-14, Pensacola, FL 32506, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32506",
-  "website_url": "https://locations.dtlr.com/fl/pensacola/panama-city-square.html",
-  "rating": 4.1,
-  "review_count": 59,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "568031cc-0a2d-42a2-8301-a169133168ac",
+    "place_id": "ChIJNcGjgECDk4gRcwwWPr5xf_A",
+    "google_maps_uri": "https://maps.google.com/?cid=17329694953044315251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "city-gear-r5xf_A",
+    "name": "City Gear",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "clothing",
+    "secondary_types": "",
+    "google_type": "shoe_store",
+    "google_types": [
+      "shoe_store",
+      "womens_clothing_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 378-7055",
+    "international_phone": null,
+    "website_url": "https://locations.dtlr.com/fl/pensacola/panama-city-square.html",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4600 Mobile Hwy SPACES 13-14, Pensacola, FL 32506, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32506",
+    "latitude": 30.438127,
+    "longitude": -87.2776494,
+    "short_address": "4600 Mobile Hwy SPACES 13-14, Pensacola",
+    "plus_code": null,
+    "rating": 4.1,
+    "review_count": 59,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Streetwear chain carrying men's apparel, hats & shoes, including brand-name sneakers.",
+    "description": "Streetwear chain carrying men's apparel, hats & shoes, including brand-name sneakers.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 8:00 PM",
+      "Tuesday: 10:00 AM – 8:00 PM",
+      "Wednesday: 10:00 AM – 8:00 PM",
+      "Thursday: 10:00 AM – 8:00 PM",
+      "Friday: 10:00 AM – 8:00 PM",
+      "Saturday: 10:00 AM – 8:00 PM",
+      "Sunday: 12:00 – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.112133+00:00",
+    "updated_at": "2026-05-18T21:06:17.936741+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "0e1a0280-f6e2-443b-af83-b1a5bcc9f4d2",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "eb0c8e9a-0a87-4a3a-b67c-0accb47c99bc",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "50136567-c818-472a-8c81-2ad43744d0d8",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "5a8333c6-b965-4d63-be98-6caee3c3c00f",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "58998452-a842-441c-af72-5672690c453d",
       "tag": "clothing",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "9458a8c9-4a47-4296-8d4e-cd226615fc4d",
+      "tag": "clothing",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "ebfa79cc-fa0c-4e4e-8ae4-361855ab4925",
       "tag": "shoe_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "e8fb51c5-4fd9-4309-b1ba-6b432bee7ee3",
+      "tag": "shoe_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "c15c3b57-0582-4521-9d9a-d240cfff1022",
       "tag": "womens_clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "c85d11bb-c417-448e-a3ee-1e1ebc5faf0d",
+      "tag": "womens_clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "7a74ac98-80e9-469d-aef8-580fdd507f8c",
       "tag": "clothing_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "844e69b6-8e09-4b44-a47c-e9eee47d88d8",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "5cafd333-f86d-4f66-b0db-378bf2d68ee8",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "7c8f3bcd-4883-43b8-a18b-3540a036c3f1",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "b81c1462-aef0-4cb7-a6fc-fd099dd4307d",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "f0b54ae8-6f94-4eec-96f0-5166b01518b4",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "85be8ac1-769f-429c-85f5-0161e413ab2f",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "710c9879-26e8-4f5e-ab59-587754e4118e",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 8
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "b2a49848-92a4-4b36-828c-ec66328bd424",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,644 @@
 {
-  "id": "8367fa11-bde7-4a29-b1cc-3ff32948495c",
-  "slug": "perdido-beach-resort-W4S2UQ",
-  "name": "Perdido Beach Resort",
-  "entity_type": "artist",
-  "entity_subtype": "resort",
-  "icon": "🏪",
-  "description": "Stylish, chic accommodations, plus multiple restaurants & pools, tennis & a private beach.",
-  "phone": "(251) 981-9811",
-  "email": null,
-  "website_url": "https://www.marriott.com/en-us/hotels/gufob-perdido-beach-resort/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
-  "address_line_1": "27200 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.7,
-  "review_count": 6579,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8367fa11-bde7-4a29-b1cc-3ff32948495c/8367fa11-bde7-4a29-b1cc-3ff32948495c_1779139886233.9038.jpg",
-  "photos": [],
+  "entity": {
+    "id": "8367fa11-bde7-4a29-b1cc-3ff32948495c",
+    "place_id": "ChIJuaoU9AoHmogRMFODjW4S2UQ",
+    "google_maps_uri": "https://maps.google.com/?cid=4961016730555208496&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "perdido-beach-resort-W4S2UQ",
+    "name": "Perdido Beach Resort",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "resort",
+    "secondary_types": [],
+    "google_type": "hotel",
+    "google_types": [
+      "hotel",
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-9811",
+    "international_phone": null,
+    "website_url": "https://www.marriott.com/en-us/hotels/gufob-perdido-beach-resort/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27200 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.273649,
+    "longitude": -87.561467,
+    "short_address": "27200 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 6579,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Stylish, chic accommodations, plus multiple restaurants & pools, tennis & a private beach.",
+    "description": "Stylish, chic accommodations, plus multiple restaurants & pools, tennis & a private beach.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8367fa11-bde7-4a29-b1cc-3ff32948495c/8367fa11-bde7-4a29-b1cc-3ff32948495c_1779139886233.9038.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/perdidobeachresort/",
+    "social_facebook": "https://www.facebook.com/perdidobeachresort",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": true,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://perdidobeachresort.com/voyagers",
+      "tags": [
+        "beachfront",
+        "gulf front",
+        "family-friendly",
+        "luxury dining",
+        "wedding venue",
+        "event space",
+        "award-winning",
+        "seafood restaurant",
+        "steakhouse"
+      ],
+      "type": "Resort",
+      "about": {
+        "floors": null,
+        "check_in": null,
+        "check_out": null,
+        "year_built": null,
+        "description": "Perdido Beach Resort is a beachfront resort in Orange Beach, Alabama featuring multiple dining options, accommodations with various view options (Gulf Front, Beach View, Pass View, Angle View), and comprehensive amenities. The resort offers Club Level accommodations, event facilities, and aquatic adventures.",
+        "total_units": null,
+        "minimum_stay": null,
+        "pet_friendly": true,
+        "elevator_pitch": "A beachfront Gulf Coast resort featuring award-winning dining, diverse accommodations, and comprehensive amenities in Orange Beach, Alabama.",
+        "age_restriction": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "dining": [
+        {
+          "name": "Voyagers",
+          "type": "Restaurant",
+          "description": "Award-winning Gulf seafood and prime steaks restaurant with panoramic Gulf views. Seasonal menu with local produce, sustainable seafood, and organic meats. Features over 130 wine selections. Open 5 PM to 9 PM, 7 days a week. Led by Executive Chef Brody Olive. Specializes in Gulf Wild brand seafood."
+        },
+        {
+          "name": "Latitude 30",
+          "type": "Restaurant",
+          "description": "Dining option at the resort"
+        },
+        {
+          "name": "Splash Bar and Grille",
+          "type": "Restaurant | Bar",
+          "description": "Casual dining option at the resort"
+        },
+        {
+          "name": "Perdido Beach Pizza Co.",
+          "type": "Restaurant",
+          "description": "Pizza restaurant featuring the best pizza on the island"
+        },
+        {
+          "name": "Ms Nancy's Lobby Lounge",
+          "type": "Lounge | Bar",
+          "description": "Lobby lounge at the resort"
+        },
+        {
+          "name": "Coastal Coffee Co.",
+          "type": "Cafe",
+          "description": "Coffee shop at the resort"
+        }
+      ],
+      "contact": {
+        "zip": "36561",
+        "city": "Orange Beach",
+        "email": null,
+        "phone": "251-981-9811",
+        "state": "Alabama",
+        "address": "27200 Perdido Beach Blvd"
+      },
+      "gallery": [
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/images/logos/PBR_Logo_Main_2025_invert.png",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/Voyagers-Sunset-View-No-Glare_1200.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/Award-winnning-wine_1.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/ChefBrody.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/Voyagers_800.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/Voyagers-Wine-Wall.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/cheesecake-_800.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/grouper-_800.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/steak_800.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/Garlic-Oysters_800.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/Voyagers-Website-Seafood-and-Wine_800.png",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/ceviche_800.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/Voyagers-Terrace.jpeg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/6871/images/shareables_800.jpg",
+        "https://www.perdidobeachresort.com/admin/fm/source/6871_pbr/images/logos/PBR_Badge_2025.png"
+      ],
+      "sources": [
+        "https://perdidobeachresort.com/voyagers"
+      ],
+      "tagline": "Gulf Seafood & Prime Steaks",
+      "features": [
+        "private beach access",
+        "multiple dining options",
+        "event facilities",
+        "banquet facilities",
+        "aquatic adventures",
+        "on-site management",
+        "half marathon event",
+        "rewards program (Paradise Rewards)"
+      ],
+      "location": {
+        "bay_view": false,
+        "beachfront": true,
+        "description": "Beachfront resort on the Gulf of Mexico with panoramic Gulf views"
+      },
+      "specials": [
+        {
+          "name": "Military Appreciation Offer",
+          "dates": null,
+          "description": "Special offer for military personnel"
+        },
+        {
+          "name": "AAA Discount",
+          "dates": null,
+          "description": "AAA member discount available"
+        },
+        {
+          "name": "Golden Age",
+          "dates": null,
+          "description": "Senior discount offer"
+        },
+        {
+          "name": "Heroes Welcome",
+          "dates": null,
+          "description": "Special offer for heroes"
+        },
+        {
+          "name": "Sunday Fun Day",
+          "dates": null,
+          "description": "Sunday special offer"
+        },
+        {
+          "name": "Advance Purchase Offer",
+          "dates": null,
+          "description": "Discount for advance bookings"
+        }
+      ],
+      "amenities": {
+        "spa": false,
+        "gated": false,
+        "other": [
+          "aquatic adventures",
+          "event facilities",
+          "banquet facilities",
+          "virtual tour",
+          "resort map"
+        ],
+        "pools": [
+          "outdoor pool"
+        ],
+        "parking": null,
+        "hot_tubs": null,
+        "elevators": null,
+        "bbq_grills": null,
+        "bar_on_site": true,
+        "tennis_courts": false,
+        "fitness_center": true,
+        "business_center": null,
+        "kids_splash_pad": false,
+        "pickleball_courts": false,
+        "restaurant_on_site": true,
+        "private_beach_access": true
+      },
+      "scraped_at": "2026-03-21T20:19:01.827Z",
+      "unit_types": [
+        {
+          "name": "Angle View Room",
+          "view": "angle view",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Pass View Room",
+          "view": "pass view",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Beach View Room",
+          "view": "beach view",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Gulf Front Room",
+          "view": "gulf front",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Executive Suite",
+          "view": null,
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "One Bedroom Suite",
+          "view": null,
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": 1,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Two Bedroom Suite",
+          "view": null,
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": 2,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Presidential Suite",
+          "view": null,
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Club Level - Pass View",
+          "view": "pass view",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Club Level - Beach View",
+          "view": "beach view",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Club Suite - One Bedroom",
+          "view": null,
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": 1,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        },
+        {
+          "name": "Club Suite - Two Bedroom",
+          "view": null,
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": 2,
+          "features": [],
+          "bathrooms": null,
+          "starting_price": null
+        }
+      ],
+      "extracted_at": "2026-03-23T03:58:29.843Z",
+      "social_links": {
+        "twitter": "https://twitter.com/PerdidoBeachRes/",
+        "website": "https://www.perdidobeachresort.com/",
+        "youtube": "https://www.youtube.com/channel/UChoT0_yAdda6d7wLRn2iBeg/",
+        "facebook": "https://www.facebook.com/perdidobeachresort",
+        "linkedin": "https://www.linkedin.com/company/perdido-beach-resort/",
+        "instagram": "https://www.instagram.com/perdidobeachresort/",
+        "pinterest": "https://www.pinterest.com/perdidobeachresort/"
+      },
+      "business_name": "Perdido Beach Resort",
+      "starting_price": "$245"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "raw-page-data",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.563689+00:00",
+    "updated_at": "2026-05-18T21:31:31.096113+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d4a85905-55f0-4bdb-996b-0036a758d755",
+      "tag": "lifestyle brand",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "cb2c4949-d1a7-41f6-b7e4-26bf2dd5a97d",
+      "tag": "content creator",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "c14711d2-da63-4829-b447-41cec15f2e45",
+      "tag": "YouTube",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "365b7ae9-026f-4d91-9fb2-e77819dbe6f4",
+      "tag": "TikTok",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "94764aa4-b8a2-45ea-b188-330fa772f4c5",
+      "tag": "Instagram",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "5f85f753-98be-448b-8259-e9ba67fec2fa",
+      "tag": "apparel",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "35765ea4-97ba-4114-a036-d6aea105411a",
+      "tag": "outdoor adventure",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "248a3b13-b5a3-4238-8791-d2071487ad73",
+      "tag": "coastal living",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "cf5b610a-a616-454d-9a75-569ce4fa9c05",
+      "tag": "country culture",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "fbd765c5-939e-476c-a4ea-7074d45f13f2",
+      "tag": "family vlog",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "3a42ff97-17b6-408c-92ab-1dd64512bb39",
+      "tag": "streaming TV",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "02e1c05b-da51-4721-8372-b15ba3e230da",
+      "tag": "podcast",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "98c8ba83-ff71-4634-9324-4aba7b871a34",
+      "tag": "Florida Keys",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "b00837bc-3cbc-42ad-9887-bfcd4574a1ff",
+      "tag": "Perdido Key",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "744e9bea-3207-418c-8cb6-bb4f9996ad4f",
+      "tag": "off-grid living",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "14ccc40f-0f6e-4b5c-aa3e-6fc0be8da289",
+      "tag": "merchandise",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "0c2a4d82-152c-4603-a036-983586424136",
+      "tag": "Content Creators",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "bb273095-4caa-4394-bc41-cbcd0f9bb6b7",
+      "tag": "Influencers",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "2ca99261-cac3-45ef-ae28-d0bf2f372bc6",
+      "tag": "Lifestyle Brands",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "2a86c89f-f5c4-4f69-a90b-b3fcf0c1740d",
+      "tag": "Entertainment",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "eea4a568-a0b8-4d57-990a-112814775250",
+      "tag": "Apparel & Merchandise",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "36937848-d145-4633-a114-bd0dc5d8747c",
+      "tag": "Podcasters",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "3098c231-3ea6-45e1-8c5f-5dcc3b4cf1c3",
+      "tag": "YouTube Creators",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "0a26b67a-e4de-4d29-ab8e-7cc52b6768a2",
+      "tag": "Social Media",
+      "tag_category": "category",
+      "sort_order": 23
+    },
+    {
+      "id": "c77c5720-824c-4460-99c7-fe46ebc0ce48",
+      "tag": "entertainment",
+      "tag_category": "industry",
+      "sort_order": 24
+    },
+    {
+      "id": "7557fdb9-ba52-4bad-9df6-d58c497baec2",
+      "tag": "influencer",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "3f6b89a3-29da-4991-a1fc-5859108fd7b3",
+      "tag": "hotel",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "fe58ecf8-4950-46ed-a4f0-b82a7ee51501",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "c46f4539-7e49-4ffb-b8cf-37bdaef2d9c7",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "0f705375-cdb7-4f47-98d6-445ce9925140",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 29
+    }
+  ],
+  "sections": [
+    {
+      "id": "ff44f4c4-30dd-46b5-93fb-e87bb43cc713",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

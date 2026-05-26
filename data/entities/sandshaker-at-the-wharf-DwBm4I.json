@@ -1,57 +1,332 @@
 {
-  "id": "842a1fcf-f8a8-4b39-9b30-141580be3b33",
-  "slug": "sandshaker-at-the-wharf-DwBm4I",
-  "name": "Sandshaker at the wharf",
-  "entity_type": "bar",
-  "entity_subtype": "bar",
-  "icon": "🏪",
-  "description": "Home of the 'original' Bushwacker with 2 locations featuring live music every weekend with never a cover charge.",
-  "phone": "(251) 923-0080",
-  "email": null,
-  "address_line_1": "4851 Wharf Pkwy E d130, Orange Beach, AL 36561, USA",
-  "city": "Gulf Coast",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://www.sandshaker.com/",
-  "rating": 4.2,
-  "review_count": 130,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/842a1fcf-f8a8-4b39-9b30-141580be3b33/842a1fcf-f8a8-4b39-9b30-141580be3b33_1779139780990.0405.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "842a1fcf-f8a8-4b39-9b30-141580be3b33",
+    "place_id": "ChIJIdxep_gFmogRosoEMDwBm4I",
+    "google_maps_uri": "https://maps.google.com/?cid=9411117204336069282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "sandshaker-at-the-wharf-DwBm4I",
+    "name": "Sandshaker at the wharf",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "bar",
+    "secondary_types": [],
+    "google_type": "bar",
+    "google_types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 923-0080",
+    "international_phone": null,
+    "website_url": "http://www.sandshaker.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4851 Wharf Pkwy E d130, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Gulf Coast",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2947865,
+    "longitude": -87.6292596,
+    "short_address": "4851 Wharf Pkwy E d130, Orange Beach",
+    "plus_code": null,
+    "rating": 4.2,
+    "review_count": 130,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Home of the 'original' Bushwacker with 2 locations featuring live music every weekend with never a cover charge.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/842a1fcf-f8a8-4b39-9b30-141580be3b33/842a1fcf-f8a8-4b39-9b30-141580be3b33_1779139780990.0405.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.sandshaker.com",
+      "pages": [
+        {
+          "url": "https://www.sandshaker.com",
+          "meta": {
+            "og:url": "https://www.sandshaker.com",
+            "og:type": "website",
+            "og:image": "http://static1.squarespace.com/static/699f6df25971a86d9b604a09/t/69a216d16da48207ae8c8835/1772230353334/sandshaker-logo.png?format=1500w",
+            "og:title": "Sandshaker",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:url": "https://www.sandshaker.com",
+            "og:site_name": "Sandshaker",
+            "twitter:card": "summary",
+            "twitter:image": "http://static1.squarespace.com/static/699f6df25971a86d9b604a09/t/69a216d16da48207ae8c8835/1772230353334/sandshaker-logo.png?format=1500w",
+            "twitter:title": "Sandshaker",
+            "og:image:width": "229",
+            "og:image:height": "150"
+          },
+          "text": "0\n \n \n \n \n \n\n \n\n \n \n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n \n \n \n\n \n\n \n \n \n Skip to Content\n \n \n\n \n \n \n \n\n \n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n Home\n \n \n \n \n \n\n \n \n \n Calendar\n \n \n \n \n \n\n \n \n \n Contact\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n Open Menu\n Close Menu\n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n Home\n \n \n \n \n \n\n \n \n \n Calendar\n \n \n \n \n \n\n \n \n \n Contact\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n Open Menu\n Close Menu\n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n Home\n \n \n \n \n \n \n \n \n \n \n \n \n \n Calendar\n \n \n \n \n \n \n \n \n \n \n \n \n \n Contact\n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n\n \n\n \n Home of the ‘original’ Bushwacker\n\n \n\n \n\n \n \n \n \n\n \n \n \n\n \n \n\n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n 721 Pensacola Beach Blvd, Pensacola Fl\n\n \n\n \n\n \n \n \n \n\n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n\n \n\n \n \n \n \n\n \n Live Music Every Weekend\n \n\n \n And never a cover!\n \n\n \n \n \n \n Calendar\n \n \n \n \n\n \n \n \n\n \n\n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Contact Us\n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n\n \n \n\n \n\n NameFirst Name(required)Last Name(required)Email(required)Subject(required)Message(required)SENDSEND\n \n \n \n \n \n \n\n \n\n \n\n \n The Sandshaker850-932-2211      Open 10:00 am to 3:00 am 7 Days a Week731 Pensacola Beach BlvdPensacola Beach, Fl 32561",
+          "title": "Sandshaker",
+          "structuredData": [
+            {
+              "url": "https://www.sandshaker.com",
+              "name": "Sandshaker",
+              "@type": "WebSite",
+              "image": "//images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/606cbc2e-ffd0-4112-8301-a2797c36a9e8/sandshaker-logo.png",
+              "@context": "http://schema.org",
+              "description": ""
+            },
+            {
+              "@type": "LocalBusiness",
+              "image": "https://static1.squarespace.com/static/699f6df25971a86d9b604a09/t/69a216d16da48207ae8c8835/1772232259531/",
+              "address": "",
+              "@context": "http://schema.org",
+              "openingHours": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.sandshaker.com/calendar",
+          "meta": {
+            "og:url": "https://www.sandshaker.com/calendar",
+            "og:type": "website",
+            "og:title": "Calendar — Sandshaker",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:url": "https://www.sandshaker.com/calendar",
+            "og:site_name": "Sandshaker",
+            "twitter:card": "summary",
+            "twitter:title": "Calendar — Sandshaker"
+          },
+          "text": "0\n \n \n \n \n \n\n \n\n \n \n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n \n \n \n\n \n\n \n \n \n Skip to Content\n \n \n\n \n \n \n \n\n \n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n Home\n \n \n \n \n \n\n \n \n \n Calendar\n \n \n \n \n \n\n \n \n \n Contact\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n Open Menu\n Close Menu\n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n Home\n \n \n \n \n \n\n \n \n \n Calendar\n \n \n \n \n \n\n \n \n \n Contact\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n Open Menu\n Close Menu\n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n Home\n \n \n \n \n \n \n \n \n \n \n \n \n \n Calendar\n \n \n \n \n \n \n \n \n \n \n \n \n \n Contact\n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n See what’s SHAKIN’ at the Sandshaker\n\n \n\n \n\n \n \n \n \n\n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n\n \n\n \n Sandshaker Pensacola\n\n \n\n \n\n \n \n \n \n\n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Sandshaker Orange Beach\n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n\n \n\n \n\n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Contact Us\n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n\n \n \n\n \n\n NameFirst Name(required)Last Name(required)Email(required)Subject(required)Message(required)SENDSEND\n \n \n \n \n \n \n\n \n\n \n\n \n The Sandshaker850-932-2211      Open 10:00 am to 3:00 am 7 Days a Week731 Pensacola Beach BlvdPensacola Beach, Fl 32561",
+          "title": "Calendar — Sandshaker",
+          "structuredData": [
+            {
+              "url": "https://www.sandshaker.com",
+              "name": "Sandshaker",
+              "@type": "WebSite",
+              "image": "//images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/606cbc2e-ffd0-4112-8301-a2797c36a9e8/sandshaker-logo.png",
+              "@context": "http://schema.org",
+              "description": ""
+            },
+            {
+              "@type": "LocalBusiness",
+              "image": "https://static1.squarespace.com/static/699f6df25971a86d9b604a09/t/69a216d16da48207ae8c8835/1772232259531/",
+              "address": "",
+              "@context": "http://schema.org",
+              "openingHours": ""
+            }
+          ]
+        },
+        {
+          "url": "https://www.sandshaker.com/contact",
+          "meta": {
+            "og:url": "https://www.sandshaker.com/contact",
+            "og:type": "website",
+            "og:title": "Contact — Sandshaker",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:url": "https://www.sandshaker.com/contact",
+            "og:site_name": "Sandshaker",
+            "twitter:card": "summary",
+            "twitter:title": "Contact — Sandshaker"
+          },
+          "text": "0\n \n \n \n \n \n\n \n\n \n \n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n \n \n \n\n \n\n \n \n \n Skip to Content\n \n \n\n \n \n \n \n\n \n \n \n\n \n \n\n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n Home\n \n \n \n \n \n\n \n \n \n Calendar\n \n \n \n \n \n\n \n \n \n Contact\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n Open Menu\n Close Menu\n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n Home\n \n \n \n \n \n\n \n \n \n Calendar\n \n \n \n \n \n\n \n \n \n Contact\n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n Open Menu\n Close Menu\n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n Home\n \n \n \n \n \n \n \n \n \n \n \n \n \n Calendar\n \n \n \n \n \n \n \n \n \n \n \n \n \n Contact\n \n \n \n \n \n \n \n \n\n \n \n \n \n \n \n \n \n \n \n \n\n \n \n \n \n\n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n\n \n\n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n \n \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Contact Us\n\n \n\n \n\n \n \n \n \n \n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n\n \n \n\n \n\n NameFirst Name(required)Last Name(required)Email(required)Subject(required)Message(required)SENDSEND\n \n \n \n \n \n \n\n \n\n \n\n \n The Sandshaker850-932-2211      Open 10:00 am to 3:00 am 7 Days a Week731 Pensacola Beach BlvdPensacola Beach, Fl 32561",
+          "title": "Contact — Sandshaker",
+          "structuredData": [
+            {
+              "url": "https://www.sandshaker.com",
+              "name": "Sandshaker",
+              "@type": "WebSite",
+              "image": "//images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/606cbc2e-ffd0-4112-8301-a2797c36a9e8/sandshaker-logo.png",
+              "@context": "http://schema.org",
+              "description": ""
+            },
+            {
+              "@type": "LocalBusiness",
+              "image": "https://static1.squarespace.com/static/699f6df25971a86d9b604a09/t/69a216d16da48207ae8c8835/1772232259531/",
+              "address": "",
+              "@context": "http://schema.org",
+              "openingHours": ""
+            }
+          ]
+        }
+      ],
+      "pdfUrls": [],
+      "pdfTexts": [],
+      "imageUrls": [
+        "https://images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/606cbc2e-ffd0-4112-8301-a2797c36a9e8/sandshaker-logo.png?format=1500w",
+        "https://images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/09bbc915-5811-4627-bd93-87aa8bd238fa/SS_Banner.jpg",
+        "https://images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/506df0e2-f8ae-4a34-954b-7421a5bd7ad9/ss_bushwacker.png",
+        "https://images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/6243b693-22a9-4bf9-9a81-1836d1caff3f/orangeSquare.jpg",
+        "https://images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/8915ca8d-4992-4ac4-b711-c0851eabfe85/IMG_2658.JPG",
+        "https://images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/4e18ab9f-a66f-4dea-89c8-0b889b3f53a3/2026-05-Pcola-Calendar-v1.jpg",
+        "https://images.squarespace-cdn.com/content/v1/699f6df25971a86d9b604a09/4863a532-a825-47d4-a633-bbf0a5b626fd/2026-04-Wharf-calendar-v1-web.jpg"
+      ],
+      "scraped_at": "2026-05-15T15:21:35.148Z",
+      "business_name": "Sandshaker"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "raw-page-data",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus",
+      "all-businesses",
+      "consolidation"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.707977+00:00",
+    "updated_at": "2026-05-18T21:29:45.932889+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "19336883-1359-43f8-81cf-695f04b7cec9",
       "tag": "bar",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "f04dd2bc-f86d-48a9-8bce-8588ea836770",
       "tag": "bar",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "a064930d-6250-42ee-9a8d-90e12accdb97",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "0b2b7000-4830-4270-8447-cf10a12fa351",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "6bd34a1c-fc2b-45db-9186-0ed0f193f1f2",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "f2f7c085-cca2-48ca-840d-749f5c099c04",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 2
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "46e6960d-a1ab-4fd8-8a03-47c682b279c6",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

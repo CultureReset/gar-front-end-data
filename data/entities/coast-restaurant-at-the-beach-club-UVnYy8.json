@@ -1,32 +1,501 @@
 {
-  "id": "77df6831-a572-44ff-ae02-71d3d61f8b8c",
-  "slug": "coast-restaurant-at-the-beach-club-UVnYy8",
-  "name": "Coast Restaurant at The Beach Club",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Waterfront eatery offering coastal fare & steak in casual quarters with a roomy, scenic veranda.",
-  "phone": "(251) 224-3600",
-  "email": null,
-  "website_url": "https://dineatcoast.com/",
-  "address_line_1": "453 Beach Club Trail, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.2,
-  "review_count": 276,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/77df6831-a572-44ff-ae02-71d3d61f8b8c/77df6831-a572-44ff-ae02-71d3d61f8b8c_1779139752139.4263.jpg",
-  "photos": [],
+  "entity": {
+    "id": "77df6831-a572-44ff-ae02-71d3d61f8b8c",
+    "place_id": "ChIJsfnxPIshmogR3WYYrUVnYy8",
+    "google_maps_uri": "https://maps.google.com/?cid=3414686491431429853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "coast-restaurant-at-the-beach-club-UVnYy8",
+    "name": "Coast Restaurant at The Beach Club",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "seafood_restaurant",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 224-3600",
+    "international_phone": null,
+    "website_url": "https://dineatcoast.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "453 Beach Club Trail, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2303791,
+    "longitude": -87.8757629,
+    "short_address": "453 Beach Club Trail, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.2,
+    "review_count": 276,
+    "price_level": "EXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Waterfront eatery offering coastal fare & steak in casual quarters with a roomy, scenic veranda.",
+    "description": "Waterfront eatery offering coastal fare & steak in casual quarters with a roomy, scenic veranda.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/77df6831-a572-44ff-ae02-71d3d61f8b8c/77df6831-a572-44ff-ae02-71d3d61f8b8c_1779139752139.4263.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/coast_restaurant_",
+    "social_facebook": "https://www.facebook.com/CoastRestaurantAL",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": true,
+    "serves_lunch": null,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Wednesday: 8:00 – 10:30 AM, 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Thursday: 8:00 – 10:30 AM, 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Friday: 8:00 – 10:30 AM, 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Saturday: 8:00 – 10:30 AM, 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "Sunday: 8:00 – 10:30 AM, 11:00 AM – 3:00 PM, 5:00 – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.021711+00:00",
+    "updated_at": "2026-05-18T21:29:17.12331+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "e900b7b4-2620-48f4-8203-b63482e23c17",
+      "tag": "seafood",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "e0fee130-8df6-431c-970c-d0545886e957",
+      "tag": "steaks",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "e9fc5ed8-25d5-4c3e-87b9-a9c0c8cfc4f3",
+      "tag": "Gulf cuisine",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "71e9dca2-b333-4bdf-9cf6-e88bb3913ecd",
+      "tag": "fine dining",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "9848ca8b-bdfe-4a12-9398-10a40f7227a9",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "70e6b95f-f828-488a-9e4d-6da909040af5",
+      "tag": "family-friendly",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "01a83dbe-a900-473f-8d83-be926320ff94",
+      "tag": "beachfront",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "492806c2-ecc5-4cae-8fa3-3bd877ebdfad",
+      "tag": "waterfront",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "4f576b7f-c839-4986-b2f4-41a17c197cbf",
+      "tag": "cocktails",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "6afbc5b9-c474-46c3-b328-65a1222cd601",
+      "tag": "wine",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "bd15fbc3-3912-488c-9a3d-16d513184d42",
+      "tag": "beer",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "90f7eea7-5239-4288-b3fb-2e0ad4be8f0f",
+      "tag": "brunch",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "deb70345-1f45-4cff-b484-2590e7fa6e11",
+      "tag": "breakfast",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "57acbb5d-6a56-4eef-8ba9-13bec6f1dc92",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "5550f810-5ad9-4dbd-aa5e-254d5b1c8fd1",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "74b76031-f153-48fe-aecf-ee0cadc40640",
+      "tag": "chef",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "d61e1fbf-5400-4700-bd2c-d9cba866d35e",
+      "tag": "award-winning",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "579084d5-e320-4087-9eae-52c60055fb82",
+      "tag": "fresh local ingredients",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "6bc9fa19-12d1-4885-9442-23b55e932ff2",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "de8dabb3-ecd7-4b79-a06b-56817108cc00",
+      "tag": "Seafood Restaurants",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "b01950b4-751c-4abe-ab01-2a60f297d12e",
+      "tag": "Steakhouses",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "d564f814-07a0-4d25-9a2e-17182cd1f731",
+      "tag": "Fine Dining",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "a425a278-8314-4f1d-a707-6e8f41275a4c",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "7e13410e-c615-4ff9-bffc-b7587e74acb8",
+      "tag": "Brunch Spots",
+      "tag_category": "category",
+      "sort_order": 23
+    },
+    {
+      "id": "d02f9ed8-d627-4b19-adfe-08777d51ef97",
+      "tag": "Bars & Nightlife",
+      "tag_category": "category",
+      "sort_order": 24
+    },
+    {
+      "id": "70594925-0f11-4053-90b7-a4b0e023c76e",
+      "tag": "Cocktail Bars",
+      "tag_category": "category",
+      "sort_order": 25
+    },
+    {
+      "id": "490adabf-e85c-4ad7-b004-32a944a973df",
+      "tag": "Wine Bars",
+      "tag_category": "category",
+      "sort_order": 26
+    },
+    {
+      "id": "d01802d7-b82d-4f77-b257-900bba2ee7db",
+      "tag": "Waterfront Dining",
+      "tag_category": "category",
+      "sort_order": 27
+    },
+    {
+      "id": "bfe7331b-d139-40f9-9da7-e16905350d3a",
+      "tag": "Beachfront Restaurants",
+      "tag_category": "category",
+      "sort_order": 28
+    },
+    {
+      "id": "7d8570b6-1934-42ff-ae1a-4f66528ca0f1",
+      "tag": "Family Restaurants",
+      "tag_category": "category",
+      "sort_order": 29
+    },
+    {
+      "id": "233aa596-e97a-4c4b-9e22-04be97a36938",
+      "tag": "Date Night Restaurants",
+      "tag_category": "category",
+      "sort_order": 30
+    },
+    {
+      "id": "9e91adda-58d4-447f-ade9-13caea9c9a6c",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 31
+    },
+    {
+      "id": "54d1013a-a37e-420d-965c-bcccbc7bd7cb",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "1c9577dc-2a24-40e2-af58-9fd202ccf193",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 33
+    },
+    {
+      "id": "32b1a78d-b747-421d-bbdc-6e52b595e2a5",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "1309cce6-1c92-468f-bee1-6b9083bddfbd",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 35
+    },
+    {
+      "id": "b23de2ca-399c-44a3-9670-eed500ee7c0a",
+      "tag": "spa",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "d580ab50-92ad-498e-82cc-88e590b977b7",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 37
+    },
+    {
+      "id": "a43c8ecc-bdbb-4714-bb79-b15b72dc867b",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 38
+    },
+    {
+      "id": "40b6f8f4-17ea-4eb6-8dbc-92fdcd0cba8e",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 39
+    },
+    {
+      "id": "99b09bde-14bb-4454-9357-13e44cae497b",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 40
+    },
+    {
+      "id": "8bbe9873-2af3-43f3-bf69-cc4c0931781e",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 41
+    },
+    {
+      "id": "05c6b0ff-d553-4b7b-816b-a6ff010f5754",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 42
+    },
+    {
+      "id": "668fd689-231c-40c6-96c6-ed8e65354b76",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 43
+    },
+    {
+      "id": "e37ee125-906f-4b3d-969c-25502d592432",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 44
+    },
+    {
+      "id": "0696d32a-28ac-4c35-85a1-093171034ff2",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 45
+    },
+    {
+      "id": "86d4078c-ae58-4aab-8284-b82be921822e",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 46
+    },
+    {
+      "id": "76a1da6e-82c9-4d7b-9500-0312eee26fe7",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 47
+    },
+    {
+      "id": "f8bf3c2d-8323-4f6b-ab9c-de601c5ae9b6",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 48
+    },
+    {
+      "id": "8fa95f85-457b-4c0d-ae5a-677be6df211e",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 49
+    },
+    {
+      "id": "f128cc42-4946-4ed4-9e4a-4625757c1264",
+      "tag": "massage",
+      "tag_category": "type",
+      "sort_order": 50
+    },
+    {
+      "id": "fbdb81a6-dc53-4bcc-93a3-8937f8502b03",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 51
+    },
+    {
+      "id": "a7f204c5-286e-4413-aa13-fd6f4fd0ad34",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 52
+    }
+  ],
+  "sections": [
+    {
+      "id": "a498cb9c-2e39-435d-adc2-701106c9577e",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,471 @@
 {
-  "id": "de0c6df2-6bff-473b-b549-cad55b767606",
-  "slug": "bahama-bucks-orange-beach-4j6k9g",
-  "name": "Bahama Buck's - Orange Beach",
-  "entity_type": "restaurant",
-  "entity_subtype": "dessert_shop",
-  "icon": "🏪",
-  "description": "Chain with a laid-back, island vibe doling out shaved-ice desserts & smoothies.",
-  "phone": "(251) 395-4209",
-  "email": null,
-  "website_url": "https://bahamabucks.com/shop/orange-beach/",
-  "address_line_1": "25747 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.9,
-  "review_count": 116,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/c6d81055-277e-4460-88f1-ca6f3d0c404a/image_1.jpg",
-  "photos": [],
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "de0c6df2-6bff-473b-b549-cad55b767606",
+    "place_id": "ChIJ4Sr-SIcHmogRiuZ524j6k9g",
+    "google_maps_uri": "https://maps.google.com/?cid=15606092599473596042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "bahama-bucks-orange-beach-4j6k9g",
+    "name": "Bahama Buck's - Orange Beach",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "dessert_shop",
+    "secondary_types": [],
+    "google_type": "dessert_shop",
+    "google_types": [
+      "dessert_shop",
+      "juice_shop",
+      "ice_cream_shop",
+      "dessert_restaurant",
+      "confectionery",
+      "food_store",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 395-4209",
+    "international_phone": null,
+    "website_url": "https://bahamabucks.com/shop/orange-beach/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25747 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2714757,
+    "longitude": -87.5899907,
+    "short_address": "25747 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 116,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Chain with a laid-back, island vibe doling out shaved-ice desserts & smoothies.",
+    "description": "Chain with a laid-back, island vibe doling out shaved-ice desserts & smoothies.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/c6d81055-277e-4460-88f1-ca6f3d0c404a/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM���– 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:11.614761+00:00",
+    "updated_at": "2026-05-17T22:22:52.428456+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "532a2b38-72dd-423f-b70c-7fb7f04bc813",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "b533057d-25bf-47f6-babb-f05d2c78324d",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "d72daf1e-ff27-444d-9aa5-098a8dfe86c6",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "72ddd9ee-90c2-45c1-960e-a60e81ea8cec",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "7cc6eac0-61f6-4f92-b96a-5205b71baf42",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "332f1eba-0398-4f7b-9418-0c0da10661c8",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "94e4f732-8052-4f93-8f9a-7a4f12f39d79",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "af1905b7-aace-429c-8961-09aa630ecb3e",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "f5afda29-a6f1-4cd5-b9b1-1fd42bcbc90b",
+      "tag": "dessert restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "24f728c0-56de-4199-9ee6-5b6b322faef3",
+      "tag": "dessert restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "c41d1744-16a0-401d-8194-e9cc6d6b67ff",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "2f751110-3af0-4159-9894-0aaea8abf02d",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "022d9b8f-5ddc-4a69-8347-8763876d68bc",
+      "tag": "juice shop",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "89b2b9bc-0e5d-409f-9d3a-63be64a96efa",
+      "tag": "juice shop",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "57181303-5d34-4454-ad87-dbf446f7f0f3",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "51924fdd-2f5c-422f-b41f-78b0521d43b8",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "344f35e2-27aa-46c3-baa2-d7e7db0e4304",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "f5761d2a-a304-4d43-8259-4abb16c1b266",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "d2098e3f-2b08-4b3f-9399-e41e764d91e6",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "182744d4-cb17-4e88-9c64-29076cb44924",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "bd7c1a46-7a75-41f2-8b61-af649af1a471",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "ddd73cdd-80a6-4d82-b309-cc9cbd947441",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "6809eca2-7b7f-4ab6-aa31-1c9a105ce53f",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "d8b0e4c5-4f91-46f8-bbf4-3ef684388cae",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "fd486063-e02b-4893-8f8d-82f429f0b03c",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 12
+    },
+    {
+      "id": "a2e98b64-6f73-4c58-b70e-ec0842d767a1",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 12
+    },
+    {
+      "id": "4a88c19a-c3d2-4772-a4c5-8005931072e6",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "6695f5ec-a2b1-4e54-8265-9d799127ca1a",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "6c0db4f1-e350-414b-9e1b-cf119fce3a6a",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "f21c7e78-c9d3-42ed-a711-25d270d0a22c",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "2b82cd09-3c6a-495c-bacf-aed8e7bef72c",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "6b34ddba-2357-43f1-bdac-ad56e1bede12",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "d8f753dd-eb16-4ad6-8c46-e5a45dc2ed9d",
+      "tag": "juice_shop",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "ab2be239-9aa2-4200-98f1-e37268cc67ab",
+      "tag": "juice_shop",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "c95cfd83-4b9d-4b19-b07a-177b1a1d2844",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "7e7d593a-7aca-4775-9db0-eb9cffd658bb",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "0fe5474e-d9fa-4ffe-9ac8-c5f6162ae83c",
+      "tag": "dessert_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "714e2385-f89d-41e7-9bd1-2b173573801b",
+      "tag": "dessert_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "bff150ca-6ea9-4c01-99db-f8207687a1b3",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "28f15944-3b29-4900-a38b-e567970d7b23",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "f4649644-3f77-4013-8efe-788d0d7652ef",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "21d555df-ed14-4dfc-a5c1-0e6fed89ece5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "b264b1dd-64d5-4887-bd3e-41e8cc7744ae",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "6ef91671-82ec-4cd7-9609-86ded9008352",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 21
+    }
+  ],
+  "sections": [
+    {
+      "id": "141b6717-7e09-47b1-8e6f-96dc3336cde1",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "165a887b-23a2-4a29-9b30-dcf9441eff72",
+      "entity_id": "de0c6df2-6bff-473b-b549-cad55b767606",
+      "place_id": null,
+      "event_name": "Saucy FuzZ |Tiki & Raw Bar by Barometer | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Saucy FuzZ |Tiki & Raw Bar by Barometer",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Orange Beach",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

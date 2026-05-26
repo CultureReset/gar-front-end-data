@@ -1,216 +1,138 @@
 {
-  "id": "41b8a152-6c73-441a-985a-8b253e643792",
-  "slug": "the-original-oyster-house",
-  "name": "The Original Oyster House",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "The Original Oyster House is the best oyster bar & seafood restaurant in Gulf Shores & Mobile, AL. Known for hand-shucked raw, charbroiled and baked oysters, the Original Oyster House is legendary for fresh Gulf seafood, Southern hospitality and spectacular waterfront views. With vintage seafood house charm, the Original Oyster House offers award-winning gumbo, alligator, crab claws, fish, shrimp, crawfish, burgers, po'boys and a create-your-own seafood platter. Fantastic salad bar, over-the-top cheesy grits and homemade key lime or chocolate chip peanut butter pies are local favorites. Specialty drinks, spirits, wines and beers pair wonderfully with the large menu selection and happy hour on the Causeway. Great kid's menu plus an outdoor playground. Behind the scenes, this restaurant's sustainable practices have taken oysters out of the kitchen to help save oysters and ensure their future. Becoming the first restaurant in the state to recycle the oyster shell through the AL Coastal Foundation, the Original Oyster House pledged further by being the only local restaurant to 'oyster garden' or grow stocker oysters for reef restoration.",
-  "phone": "1-877-616-9783",
-  "email": null,
-  "address_line_1": "",
-  "city": "",
-  "state": "AL",
-  "zip": null,
-  "website_url": "https://www.originaloysterhouse.com",
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": null,
-  "hours": [
-    {
-      "day_of_week": "Monday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Tuesday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Wednesday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Thursday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Friday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Saturday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Sunday",
-      "open_time": null,
-      "close_time": null,
-      "is_closed": false
-    }
-  ],
-  "menu_sections": [],
-  "drink_sections": [],
+  "entity": {
+    "id": "41b8a152-6c73-441a-985a-8b253e643792",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "the-original-oyster-house",
+    "name": "The Original Oyster House",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "1-877-616-9783",
+    "international_phone": null,
+    "website_url": "https://www.originaloysterhouse.com",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": null,
+    "address_line_2": null,
+    "city": null,
+    "state": "AL",
+    "zip": null,
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": "The Original Oyster House is the best oyster bar & seafood restaurant in Gulf Shores & Mobile, AL. Known for hand-shucked raw, charbroiled and baked oysters, the Original Oyster House is legendary for fresh Gulf seafood, Southern hospitality and spectacular waterfront views. With vintage seafood house charm, the Original Oyster House offers award-winning gumbo, alligator, crab claws, fish, shrimp, crawfish, burgers, po'boys and a create-your-own seafood platter. Fantastic salad bar, over-the-top cheesy grits and homemade key lime or chocolate chip peanut butter pies are local favorites. Specialty drinks, spirits, wines and beers pair wonderfully with the large menu selection and happy hour on the Causeway. Great kid's menu plus an outdoor playground. Behind the scenes, this restaurant's sustainable practices have taken oysters out of the kitchen to help save oysters and ensure their future. Becoming the first restaurant in the state to recycle the oyster shell through the AL Coastal Foundation, the Original Oyster House pledged further by being the only local restaurant to 'oyster garden' or grow stocker oysters for reef restoration.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "http://instagram.com/originaloysterhouse",
+    "social_facebook": "http://www.facebook.com/originaloysterhouse",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-21T04:57:18.047839+00:00",
+    "updated_at": "2026-05-21T04:57:18.047839+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": "Seafood, Oyster Bar",
+    "atmosphere": "Vintage seafood house charm with waterfront views, outdoor playground for kids",
+    "extraction_confidence": "medium",
+    "extraction_timestamp": "2026-05-15T06:19:28.889+00:00",
+    "extraction_notes": "HTML was truncated mid-content. Full menu items, detailed hours, specific addresses, pricing, and complete event information could not be extracted from the provided HTML fragment. The page structure indicates multiple menu pages exist but their content is not accessible in the provided excerpt. Social media links were extracted from schema markup. Navigation structure shows comprehensive information architecture for menus, events, and locations but detailed content requires accessing individual pages. Some data fields remain null due to HTML truncation.",
+    "social_twitter": "https://x.com/OriginalOyster",
+    "social_youtube": "https://www.youtube.com/channel/UCzZ8TZwlGZ2ZrvU8b23r41g?view_as=subscriber",
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "photos": [],
-  "amenities": [],
-  "tags": [
-    {
-      "tag": "seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "oyster-bar",
-      "tag_category": null
-    },
-    {
-      "tag": "waterfront-dining",
-      "tag_category": null
-    },
-    {
-      "tag": "casual-dining",
-      "tag_category": null
-    },
-    {
-      "tag": "gumbo",
-      "tag_category": null
-    },
-    {
-      "tag": "fresh-gulf-seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "po-boys",
-      "tag_category": null
-    },
-    {
-      "tag": "burgers",
-      "tag_category": null
-    },
-    {
-      "tag": "happy-hour",
-      "tag_category": null
-    },
-    {
-      "tag": "kids-friendly",
-      "tag_category": null
-    },
-    {
-      "tag": "outdoor-playground",
-      "tag_category": null
-    },
-    {
-      "tag": "sustainable-seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "alligator",
-      "tag_category": null
-    },
-    {
-      "tag": "crab",
-      "tag_category": null
-    },
-    {
-      "tag": "shrimp",
-      "tag_category": null
-    },
-    {
-      "tag": "crawfish",
-      "tag_category": null
-    },
-    {
-      "tag": "salad-bar",
-      "tag_category": null
-    },
-    {
-      "tag": "cheesy-grits",
-      "tag_category": null
-    },
-    {
-      "tag": "key-lime-pie",
-      "tag_category": null
-    },
-    {
-      "tag": "chocolate-chip-peanut-butter-pie",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Seafood",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Oyster Bar",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Waterfront Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Family Fun",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Happy Hour",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Outdoor Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Southern Cuisine",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Fresh Seafood",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    }
-  ],
-  "featured": false,
-  "is_active": true,
-  "menus": [],
-  "businesses": [
-    {
-      "source": "spanish-fort-other.json",
-      "name": "The Original Oyster House",
-      "phone": "(251) 626-2188",
-      "address": "",
-      "placeId": "",
-      "website": ""
-    }
-  ],
-  "consolidatedAt": "2026-05-22T11:53:29.413Z"
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

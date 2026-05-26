@@ -1,57 +1,259 @@
 {
-  "id": "6bb9077f-dbda-43f1-879f-96ac9c1f3a10",
-  "slug": "bodacious-bookstore-and-cafe-RWzwSk",
-  "name": "Bodacious Bookstore and Cafe",
-  "entity_type": "shopping",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 446-6966",
-  "email": null,
-  "address_line_1": "110 E Intendencia St, Pensacola, FL 32502, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32502",
-  "website_url": "http://www.bodaciousbookstore.com/",
-  "rating": 4.5,
-  "review_count": 283,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "6bb9077f-dbda-43f1-879f-96ac9c1f3a10",
+    "place_id": "ChIJ_VXzHvnBkIgRCI6AJRWzwSk",
+    "google_maps_uri": "https://maps.google.com/?cid=3008882929465069064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "bodacious-bookstore-and-cafe-RWzwSk",
+    "name": "Bodacious Bookstore and Cafe",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "book_store",
+    "google_types": [
+      "book_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 446-6966",
+    "international_phone": null,
+    "website_url": "http://www.bodaciousbookstore.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "110 E Intendencia St, Pensacola, FL 32502, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32502",
+    "latitude": 30.4107589,
+    "longitude": -87.2133331,
+    "short_address": "110 E Intendencia St, Pensacola",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 283,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "paidStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 6:00 PM",
+      "Tuesday: 7:00 AM – 6:00 PM",
+      "Wednesday: 7:00 AM – 6:00 PM",
+      "Thursday: 7:00 AM – 6:00 PM",
+      "Friday: 7:00 AM – 6:00 PM",
+      "Saturday: 7:00 AM – 6:00 PM",
+      "Sunday: 10:00 AM – 4:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.431465+00:00",
+    "updated_at": "2026-05-17T21:17:44.485399+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "59d7183c-22f3-4633-9214-1b082c288bf1",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "f5dde28f-6837-4cef-bc78-486b55b4bb20",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "72524c11-c6b6-4b2c-8c80-5a9c3d842c23",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "ca5dfb1b-9128-46a9-a259-d15ffbc44e3e",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "b2ca55d8-6cd0-4e6f-b8a3-5fd7e91c0ef0",
       "tag": "cafe",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "5a81fefe-de7d-4e55-85c1-ed6f6cda247a",
+      "tag": "cafe",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "8b5baede-5122-4730-baf1-bf4e10d860a0",
       "tag": "book_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "fcb54396-aeed-4109-a3a5-d1efad820b8c",
+      "tag": "book_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "91fd8725-5bb5-4a85-a6cc-d3ff6a1d696f",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "08ce5483-7495-40c2-ad5b-c96fed2e1888",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "53fcb6de-fedd-4634-86aa-a81afab5e2e1",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "c29201c9-6ab4-4077-8a6b-4d4f0aab4193",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "530c6d4a-5fcc-4bc9-8afe-e270d5327e0f",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "7e50ba8c-f53d-42ef-8f3e-f51a5b1ce5aa",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 6
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "decc1b6f-8b75-458b-b401-1270c28029c8",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

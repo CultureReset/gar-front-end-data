@@ -1,32 +1,265 @@
 {
-  "id": "68f884f2-a25d-4f98-a375-9b49dd7f99c8",
-  "slug": "concert-stage-ibHWVY",
-  "name": "Concert Stage",
-  "entity_type": "venue",
-  "entity_subtype": "live_music_venue",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 286-3127",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "101 E Beach Blvd Suite E, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "68f884f2-a25d-4f98-a375-9b49dd7f99c8",
+    "place_id": "ChIJN5KZdyIFmogRyTWmZibHWVY",
+    "google_maps_uri": "https://maps.google.com/?cid=6222223327933904329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "concert-stage-ibHWVY",
+    "name": "Concert Stage",
+    "subtitle": null,
+    "entity_type": "venue",
+    "entity_subtype": "live_music_venue",
+    "secondary_types": [],
+    "google_type": "live_music_venue",
+    "google_types": [
+      "live_music_venue",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 286-3127",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "101 E Beach Blvd Suite E, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.248051,
+    "longitude": -87.6895645,
+    "short_address": "101 E Beach Blvd Suite E, Gulf Shores",
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": null,
+    "hours_text": [
+      "Monday: 6:00 – 10:00 PM",
+      "Tuesday: 6:00 – 10:00 PM",
+      "Wednesday: 6:00 – 10:00 PM",
+      "Thursday: 6:00 – 10:00 PM",
+      "Friday: 7:00 – 11:00 PM",
+      "Saturday: 7:00 – 11:00 PM",
+      "Sunday: 6:00 – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.999548+00:00",
+    "updated_at": "2026-05-17T21:17:43.149954+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ea9b9017-3359-4a35-a6d2-26f333612fdf",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "a0031b4f-71a9-451c-a0fc-ef804987c531",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "38917f7a-a66c-490b-a668-6034c1a8b564",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "f2728877-079e-4ff9-9fbd-3889660550dd",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "1a363c87-05eb-480a-8833-1ab9721f1cc4",
+      "tag": "live music venue",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "122a66d9-bab1-4b88-9384-337a5a8c98d0",
+      "tag": "live music venue",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "839289a2-37b5-4974-a47a-fe4d51a4efd4",
+      "tag": "event venue",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "f95e9bef-df61-444a-b159-cc9c5363f430",
+      "tag": "event venue",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "923febf4-58d5-4ed1-aa20-f5bcab2f1f43",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "c0f2d893-808a-4420-970f-daaf96f4589c",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "227d259b-a557-4f1a-9fa0-59c3fa7c6efd",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "fba01c84-4de8-4894-aaf7-45488ac6484d",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "c4511e7f-33bb-41d8-b4ce-172c7a7a77fe",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "85ae44d5-5b4f-406c-b2da-ee2f7c9fddec",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "def53b15-6721-4e42-891e-b091dc81f59a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "cc3b34f9-07de-47c1-aa79-4a5aaffb6130",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "7a3c0770-c971-479a-b88e-49a4d3a83aa4",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

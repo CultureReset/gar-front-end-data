@@ -1,174 +1,737 @@
 {
-  "id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
-  "slug": "groovy-goat-HZPcBc",
-  "name": "Groovy Goat",
-  "entity_type": "bar",
-  "entity_subtype": "bar",
-  "icon": "🏪",
-  "description": "{\"description\":null,\"elevator_pitch\":null,\"vibe\":null,\"best_for\":[],\"established\":null,\"reservations\":null,\"insider_tip\":null}",
-  "phone": "(251) 999-4628",
-  "email": null,
-  "address_line_1": "106 S Owa Blvd A, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://owa.groovygoat.us/",
-  "rating": 4,
-  "review_count": 1927,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139816943.8018.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+    "place_id": "ChIJrfq8Vv8OmogRoOfR6HZPcBc",
+    "google_maps_uri": "https://maps.google.com/?cid=1688937232394741664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "groovy-goat-HZPcBc",
+    "name": "Groovy Goat",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "bar",
+    "secondary_types": "",
+    "google_type": "restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 999-4628",
+    "international_phone": null,
+    "website_url": "http://owa.groovygoat.us/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "106 S Owa Blvd A, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.3741586,
+    "longitude": -87.6577191,
+    "short_address": "106 S Owa Blvd A, Foley",
+    "plus_code": null,
+    "rating": 4,
+    "review_count": 1927,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":null,\"elevator_pitch\":null,\"vibe\":null,\"best_for\":[],\"established\":null,\"reservations\":null,\"insider_tip\":null}",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139816943.8018.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://owa.groovygoat.us/",
+      "pages": [
+        {
+          "url": "http://owa.groovygoat.us/",
+          "text": "×\n\nOrder your favorite dishes in seconds!\n\nOrder Online\n\nGraduation Parties - Let us help you make this graduation season special if you are honoring any new graduates.\n\nBook your party\nGraduation Parties - Let us help you make this graduation season special if you are honoring any new graduates.\nSkip to main content\nMenu\nDrinks\nSpecials\nCatering\nEvents\nParties\nJobs\nOrder\nFacebook page\nInstagram page\nGoogle page\nThe decorative video is currently playing\nThe decorative video sound is off\nFOOD\nRefresh Your Stamina\n\nAt Groovy Goat, we care deeply about the quality of our food. Our scratch kitchen prepares every meal to order with the freshest ingredients available. From our wood-grilled wings, to our burgers and our specialty Tableside Nachos Your Way, we guarantee everyone will find their new favorite meal here at Groovy Goat.\n\nOUR MENU\n\nDRINK\nLet Our Potions Take You To The Next Level\n\nGroovy Goat isn't just for the kids. With over 25 draft beers, over 15 craft beers, and numerous other adult beverages on our menu, we guarantee our guests over 21 will find the perfect drink to wet their whistle while watching the game. We feature Happy Hour specials for each day of the week.\n\nOUR DRINKS\nMENU\n\nORDER ONLINE\nTake Us Home With You!\n\nYour favorite food is just a click away. Order online and enjoy!\n\nORDER\nGAMES\nLevel Up Your Parties\n\nFrom the biggest games in sports to over 50 games in our arcade, there's no better place to play and have fun than Groovy Goat. Our spacious party rooms, top-notch food & beverage menu, and proximity to both the Arcade and the Park at OWA make Groovy Goat the best place for parties and other events.\n\nPARTIES\n\nSPORTS\nCatch The Game While Enjoying All Your Favorites!\n\nDon't miss out on all the latest events coming to Groovy Goat and to OWA. We are THE home for UFC fights, championship games, live music, and all the great sporting events. Check our online Calendar to find out what's happening at Groovy Goat.\n\nEVENTS\nMENU\n\nSPECIALS\nHappy Hour Specials! Alcohol: $3.50 Goat Whistle Pint | $3.00 Bud Light Pint | $4.00 Bud Light Tall | $3.00 Miller Lite Pint | $4.00 Miller Lite Tall | $1.00 off Wells | $3.50 Blue Long Island | $1.00 off House and Premium Wines\n02:00 PM - 05:00 PM\nALL SPECIALS\nThe slideshow is currently playing\nSlide 1 content\nSlide 2 content\nSlide 3 content\nSlide 4 content\nprevious slide\nnext slide\nCONVENIENT CATERING, MEMORABLE MOMENTS\nStress-Free Catering, Guaranteed. From start to finish, our team is here to make sure everything runs smoothly.\nINQUIRE\nABOUT CATERING\nLEVEL UP YOUR PARTIES\nLeave the party planning to us, relax, and enjoy your event.\nPARTIES\nGREAT FOOD. COLD BEER\nFresh Ingredients. Killer Comfort Food.\nOUR MENU\nNEWSLETTER!\nSign up for exclusive offers and invites!\nSIGN UP\nFOR THE NEWSLETTER\nREVIEWS\nStart stop reviews carousel\nReview 1\nReview 2\nReview 3\n‹\n›\nReview By - Google\nFive Star Review By\nKentucky K.: \n\nGreat atmosphere, great service, great food. What more could you want? Hurricane Shrimp is divine! The dish arrived so pretty - almost couldn't eat because it was so pretty! Ate every bite! Delicious! Hubby ordered BBQ sliders w/fries. He ate every bite also, so it must have been really good (he's picky). Love the collwge sports themed walls. Also have a connecting arcade. Eat here, highly recommend.\n\nReview By - Google\nFive Star Review By\nKaren S.: \n\nLOVE THIS PET FRIENDLY RESTAURANT PATIO in OWA Amusement park!! Great Burgers, REUBENS, salads, made to order nachos, craft beer, kid meals for the furry family member! BIG SCREEN TVS for sports enthusiasts, festive party music for the rest. Eat lunch and walk it off with Fido in the park!\n\nReview By - Google\nFive Star Review By\nSabrina G.: \n\nCame here for my senior trip and the food was so amazing! I definitely 100% recommend the onion rings. Best ones I've ever had! So crispy and delicious. And the wings and fried pickles are amazing as well. Had a great time. 💜\n\nReview By - Google\nFive Star Review By\nKentucky K.: \n\nGreat atmosphere, great service, great food. What more could you want? Hurricane Shrimp is divine! The dish arrived so pretty - almost couldn't eat because it was so pretty! Ate every bite! Delicious! Hubby ordered BBQ sliders w/fries. He ate every bite also, so it must have been really good (he's picky). Love the collwge sports themed walls. Also have a connecting arcade. Eat here, highly recommend.\n\nReview By - Google\nFive Star Review By\nKaren S.: \n\nLOVE THIS PET FRIENDLY RESTAURANT PATIO in OWA Amusement park!! Great Burgers, REUBENS, salads, made to order nachos, craft beer, kid meals for the furry family member! BIG SCREEN TVS for sports enthusiasts, festive party music for the rest. Eat lunch and walk it off with Fido in the park!\n\nReview By - Google\nFive Star Review By\nSabrina G.: \n\nCame here for my senior trip and the food was so amazing! I definitely 100% recommend the onion rings. Best ones I've ever had! So crispy and delicious. And the wings and fried pickles are amazing as well. Had a great time. 💜\n\nReview By - Google\nFive Star Review By\nKentucky K.: \n\nGreat atmosphere, great service, great food. What more could you want? Hurricane Shrimp is divine! The dish arrived so pretty - almost couldn't eat because it was so pretty! Ate every bite! Delicious! Hubby ordered BBQ sliders w/fries. He ate every bite also, so it must have been really good (he's picky). Love the collwge sports themed walls. Also have a connecting arcade. Eat here, highly recommend.\n\nSkip Photo Gallery\nNEWSLETTER\nSign up for our newsletter & get exclusive offers and invites!\nEmail (required)\n SUBMIT\n+\n−\nLeaflet | © OpenStreetMap\nLOCATION\n106 S. OWA Blvd A\nFoley, AL\n36535\nHOURS\nFri, Sat\n11:00 am - 10:00 pm\nSun, Mon, Tue, Wed, Thur\n11:00 am - 9:00 pm\nFIND US ON...\nFacebook page\nInstagram page\nGoogle page\nCONTACT US\n\nCall us at\n(251)-999-4628\n\nWrite us at\nfoley@groovygoat.us\n\nPowered by: \n\nWebsite design, Social Media marketing and Email marketing provided by SpotHopper.\n\nWe strive to make our website accessible to everybody. Learn More.",
+          "title": "Groovy Goat - Owa - OWA, Foley, AL"
+        },
+        {
+          "url": "https://owa.groovygoat.us",
+          "text": "×\nDID YOU KNOW WE DO CATERING?\nWhatever your occasion, however big or small, we have the perfect options to choose from.\n\nCater your birthday party, holiday party, corporate events, wedding festivities and more!\n\nCatering Packages\n\nGraduation Parties - Let us help you make this graduation season special if you are honoring any new graduates.\n\nBook your party\nGraduation Parties - Let us help you make this graduation season special if you are honoring any new graduates.\nSkip to main content\nMenu\nDrinks\nSpecials\nCatering\nEvents\nParties\nJobs\nOrder\nFacebook page\nInstagram page\nGoogle page\nThe decorative video is currently playing\nThe decorative video sound is off\nFOOD\nRefresh Your Stamina\n\nAt Groovy Goat, we care deeply about the quality of our food. Our scratch kitchen prepares every meal to order with the freshest ingredients available. From our wood-grilled wings, to our burgers and our specialty Tableside Nachos Your Way, we guarantee everyone will find their new favorite meal here at Groovy Goat.\n\nOUR MENU\n\nDRINK\nLet Our Potions Take You To The Next Level\n\nGroovy Goat isn't just for the kids. With over 25 draft beers, over 15 craft beers, and numerous other adult beverages on our menu, we guarantee our guests over 21 will find the perfect drink to wet their whistle while watching the game. We feature Happy Hour specials for each day of the week.\n\nOUR DRINKS\nMENU\n\nORDER ONLINE\nTake Us Home With You!\n\nYour favorite food is just a click away. Order online and enjoy!\n\nORDER\nGAMES\nLevel Up Your Parties\n\nFrom the biggest games in sports to over 50 games in our arcade, there's no better place to play and have fun than Groovy Goat. Our spacious party rooms, top-notch food & beverage menu, and proximity to both the Arcade and the Park at OWA make Groovy Goat the best place for parties and other events.\n\nPARTIES\n\nSPORTS\nCatch The Game While Enjoying All Your Favorites!\n\nDon't miss out on all the latest events coming to Groovy Goat and to OWA. We are THE home for UFC fights, championship games, live music, and all the great sporting events. Check our online Calendar to find out what's happening at Groovy Goat.\n\nEVENTS\nMENU\n\nSPECIALS\nHappy Hour Specials! Alcohol: $3.50 Goat Whistle Pint | $3.00 Bud Light Pint | $4.00 Bud Light Tall | $3.00 Miller Lite Pint | $4.00 Miller Lite Tall | $1.00 off Wells | $3.50 Blue Long Island | $1.00 off House and Premium Wines\n02:00 PM - 05:00 PM\nALL SPECIALS\nThe slideshow is currently playing\nSlide 1 content\nSlide 2 content\nSlide 3 content\nSlide 4 content\nprevious slide\nnext slide\nCONVENIENT CATERING, MEMORABLE MOMENTS\nStress-Free Catering, Guaranteed. From start to finish, our team is here to make sure everything runs smoothly.\nINQUIRE\nABOUT CATERING\nLEVEL UP YOUR PARTIES\nLeave the party planning to us, relax, and enjoy your event.\nPARTIES\nGREAT FOOD. COLD BEER\nFresh Ingredients. Killer Comfort Food.\nOUR MENU\nNEWSLETTER!\nSign up for exclusive offers and invites!\nSIGN UP\nFOR THE NEWSLETTER\nREVIEWS\nStart stop reviews carousel\nReview 1\nReview 2\nReview 3\n‹\n›\nReview By - Google\nFive Star Review By\nKentucky K.: \n\nGreat atmosphere, great service, great food. What more could you want? Hurricane Shrimp is divine! The dish arrived so pretty - almost couldn't eat because it was so pretty! Ate every bite! Delicious! Hubby ordered BBQ sliders w/fries. He ate every bite also, so it must have been really good (he's picky). Love the collwge sports themed walls. Also have a connecting arcade. Eat here, highly recommend.\n\nReview By - Google\nFive Star Review By\nKaren S.: \n\nLOVE THIS PET FRIENDLY RESTAURANT PATIO in OWA Amusement park!! Great Burgers, REUBENS, salads, made to order nachos, craft beer, kid meals for the furry family member! BIG SCREEN TVS for sports enthusiasts, festive party music for the rest. Eat lunch and walk it off with Fido in the park!\n\nReview By - Google\nFive Star Review By\nSabrina G.: \n\nCame here for my senior trip and the food was so amazing! I definitely 100% recommend the onion rings. Best ones I've ever had! So crispy and delicious. And the wings and fried pickles are amazing as well. Had a great time. 💜\n\nReview By - Google\nFive Star Review By\nKentucky K.: \n\nGreat atmosphere, great service, great food. What more could you want? Hurricane Shrimp is divine! The dish arrived so pretty - almost couldn't eat because it was so pretty! Ate every bite! Delicious! Hubby ordered BBQ sliders w/fries. He ate every bite also, so it must have been really good (he's picky). Love the collwge sports themed walls. Also have a connecting arcade. Eat here, highly recommend.\n\nReview By - Google\nFive Star Review By\nKaren S.: \n\nLOVE THIS PET FRIENDLY RESTAURANT PATIO in OWA Amusement park!! Great Burgers, REUBENS, salads, made to order nachos, craft beer, kid meals for the furry family member! BIG SCREEN TVS for sports enthusiasts, festive party music for the rest. Eat lunch and walk it off with Fido in the park!\n\nReview By - Google\nFive Star Review By\nSabrina G.: \n\nCame here for my senior trip and the food was so amazing! I definitely 100% recommend the onion rings. Best ones I've ever had! So crispy and delicious. And the wings and fried pickles are amazing as well. Had a great time. 💜\n\nReview By - Google\nFive Star Review By\nKentucky K.: \n\nGreat atmosphere, great service, great food. What more could you want? Hurricane Shrimp is divine! The dish arrived so pretty - almost couldn't eat because it was so pretty! Ate every bite! Delicious! Hubby ordered BBQ sliders w/fries. He ate every bite also, so it must have been really good (he's picky). Love the collwge sports themed walls. Also have a connecting arcade. Eat here, highly recommend.\n\nSkip Photo Gallery\nNEWSLETTER\nSign up for our newsletter & get exclusive offers and invites!\nEmail (required)\n SUBMIT\n+\n−\nLeaflet | © OpenStreetMap\nLOCATION\n106 S. OWA Blvd A\nFoley, AL\n36535\nHOURS\nFri, Sat\n11:00 am - 10:00 pm\nSun, Mon, Tue, Wed, Thur\n11:00 am - 9:00 pm\nFIND US ON...\nFacebook page\nInstagram page\nGoogle page\nCONTACT US\n\nCall us at\n(251)-999-4628\n\nWrite us at\nfoley@groovygoat.us\n\nPowered by: \n\nWebsite design, Social Media marketing and Email marketing provided by SpotHopper.\n\nWe strive to make our website accessible to everybody. Learn More.",
+          "title": "Groovy Goat - Owa - OWA, Foley, AL"
+        },
+        {
+          "url": "https://owa.groovygoat.us/foley-owa-groovy-goat-owa-food-menu",
+          "text": "Skip to main content\nMenu\nDrinks\nSpecials\nCatering\nEvents\nParties\nJobs\nOrder\nFacebook page\nInstagram page\nGoogle page\nOUR MENU\nMENU\n\n*Consuming raw or undercooked meats, poultry, seafood, shellfish, eggs, or unpasteurized milk may increase your risk of foodborne illness.\n\nSTARTERS & SHAREABLES\nWood - Grilled Oysters*\nMKT\n1/2 Dozen or Dozen | Featuring a garlic, parmesan, and scallion crust | When available.\nOysters on the Half Shell*\nMKT\n1/2 Dozen or Dozen | Served with atomic cocktail sauce and horseradish | When available.\nTotchos\n$13.00\nCrispy tater tots smothered with sports bar chili, queso, pico, shredded lettuce, and jalapenos.\nCrispy Parmesan Garlic Mushrooms\n$10.50\nServed with a rich herb aioli dipping sauce.\nLouisiana BBQ Shrimp\n$18.00\nWhole Gulf shrimp sauteed with Cajun spices, garlic, beer, butter sauce, and Worcestershire, served with crispy crostini.\nBlue Crab Dip\n$18.00\nCreamy blue crab dip served piping hot with tortilla chips\nFried Green Beans\n$12.00\nGreen beans coated in a spicy batter fried crispy served with wasabi ranch\nPretzels & Queso\n$10.00\nThree warm and thick pretzel sticks served with house-made queso and creole mustard.\nPickle Fry Up\n$13.50\nCrispy pickles, poblanos, and jalapenos, served with creole mustard and ranch dipping sauce.\nBattered Mozzarella Sticks\n$10.00\nThree lightly battered cheese sticks, served with a side of marinara sauce.\nSOUPS & SALADS\n\nAdd to any salad: Grilled or Crispy Chicken Breast +$6.00 | Steak or Shrimp +$7.00\n\nBowl of Chili\n$8.50\nTopped with melted cheddar and Monterey Jack, fresh jalapenos, scallions, and sour cream.\nBowl of Clam & Bacon Chowder\n$9.00\nTender sea clams with onions, potatoes, celery, bacon, cream, and herbs.\nCaesar Salad\n$10.00\nHand-cut romaine lettuce tossed with Caesar dressing, herb croutons, and parmesan.\nBacon & Bleu Wedge Salad\n$11.00\nA wedge of iceberg lettuce with grape tomatoes, crispy bacon strips, red onions, and bleu cheese crumbles topped with bleu cheese dressing.\nCobb Salad\n$16.00\nA generous portion of bacon, egg, avocado, shredded cheese, bleu cheese crumbles, tomatoes, cucumber, red onion over a house lettuce blend; choice of dressing\nThe Greek\n$11.00\nChopped romaine lettuce, cucumbers, tomatoes, red onions, olives, pepperoncini, marinated feta cheese, served with house Greek dressing.\nMELTS\n\nServed with a side of fries | Premium Sides +$2.00\n\nLoaded Philly\n$15.00\nSteak and melted American cheese griddled with peppers, onions, mushrooms, and herb aioli on a hoagie roll | Double Meat & Cheese +$7.00\nItalian Beef\n$15.50\nSteak, griddled onions, spicy vegetable relish, Swiss cheese on hoagie roll, and \"Italian Jus\" for dipping | Double Meat & Cheese +$7.00\nOwa Grown - Up Grilled Cheese\n$14.50\nA generous blend of sliced cheddar, Swiss, shredded cheddar jack, and bleu cheese crumbles with red onion bacon jam and avocado on a buttery, griddled rye bread.\nSouthern Reuben\n$16.00\nSliced corned beef, Swiss cheese, cole slaw, pickles, and jalapeno remoulade on griddled rye bread.\nTABLESIDE NACHOS\n\nYour way!\n\nTableside Nachos\n$25.00\nExperience nachos in a way that is simply out of this world. Our nacho servers come to your table and completely customize your oversized nacho platter exactly the way you and your party want it. All nachos start with a pile of chips, sports bar chili, and queso. From there you can customize your table with any combination of extra cheese, shredded lettuce, sour cream, pico, and fresh jalapenos • Add Chicken or Guacamole to half +$4.00 | Add Steak or Shrimp +$7.00 | Really Hungry? Add Them All +$20.00 (Each additional portion is enough for half of the oversized platter).\nG.O.A.T. WINGS\n\nGreatest of all time | One bite of our wood-grilled or crispy wings and you will see why they are the greatest!\n\nG.O.A.T. Wings\nBone-in: 5 Wings $9.00 | 10 Wings $16.00| 20 Wings $30.00 • Boneless: 8 Wings $9.00 | 16 Wings $16.00 | 24 Wings $30.00 • Available as traditional bone-in or new hand-cut, bite-size, hand-breaded, boneless chicken breast | Available flavors: Buffalo, Cola Teriyaki, Sticky Honey & Black Pepper, Sweet BBQ, House Medium VooDoo, Thai Chili, Parmesan Garlic, Lemon Pepper (Dry Rub), Korean BBQ, Hot Habanero, Honey Habanero (Dry Rub), Carribean Jerk (Dry Rub), Old Bay (Dry Rub)\nHANDHELDS\n\nServed with a side of fries | Premium Sides +$2.00 | Substitute a Gluten-free Wrap +$1.00\n\nComfort Buttermilk Chicken\n$16.50\nButtermilk-brined chicken breast with a crispy coating on a buttery toasted brioche roll with house-made day pickles, shredded lettuce, and jalapeno remoulade.\nTurkey Avocado Wrap\n$15.50\nSliced turkey breast, avocado, shredded lettuce, bacon, fresh tomato, and cheddar on a flour tortilla with rich herb aioli.\nFish Sandwich\n$18.00\nRedfish served wood-grilled or crispy breaded on a brioche bun with vinegar slaw and jalapeno remoulade.\nBreakfast BLT*\n$11.00\nSmoked center-cut bacon, sunny-side up egg, arugula, tomato, and bacon jam on toasted brioche, served with crispy tater tots | Add Bacon +$2.50\nBURGERS\n\nAll of our burgers are a 1/2 pound wood-grilled Angus blend of chuck, short rib, and brisket. Served on a buttery toasted brioche roll with your choice of one side • Premium Sides +$2.00 | Substitute a Plant-Based Patty +$2.00 • Add Fried Egg +$1.50 | Add Bacon +$2.50\n\nThe Classic*\n$15.00\nAged cheddar, shredded lettuce, tomatoes, onion, and house-made day pickles.\nMushroom Burger*\n$16.00\nFresh sauteed garlic mushrooms, Swiss cheese, arugula, and rich herb aioli.\nBleu Burger*\n$16.00\nBleu cheese bacon sauce, onion, and arugula.\nBar Burger*\n$17.00\nSunny-side-up egg, bacon, cheddar, shredded lettuce, tomatoes, onion, and house-made day pickles.\nBurger of the Month\nMKT\nAsk your server about this month's burger special.\nMAIN SQUEEZES\n\nServed with your choice of two sides, unless otherwise specified, or upgrade to a premium side +$2.00\n\nChopped Steak & Mushrooms*\n$21.00\nOne pound signature USDA choice chopped hamburger steak with mashed potatoes, parmesan garlic mushrooms, and red wine gravy (no additional sides or substitutions) | Add Five Shrimp +$8.00\nSteak & Frites*\n$28.00\nWood-grilled sirloin steak with parmesan garlic fries (counts as one side) | Add Five Shrimp +$8.00\nChicken Fingers Platter\n$17.50\nButtermilk tenders in crispy coating and your choice of wing sauce.\nCrispy Shrimp Platter\n$18.50\nGulf shrimp hand-breaded with seasoned flour served with atomic cocktail sauce and jalapeno remoulade.\nCrab Cake Platter\n$26.00\nTwo Maryland-style crab cakes loaded with lump blue crab.\nGoat Whistle Fish & Chips\n$16.50\nA generous portion of Goat Whistle beer-battered cod served with fries, vinegar slaw, and a side of jalapeno remoulade (no additional sides or substitutions).\nGrilled Chicken Platter\n$16.50\nTwo fresh grilled chicken breasts simply seasoned served with two sides\nFully Smothered Style Grilled Chicken Platter\n$21.50\nTwo fresh grilled chicken breasts loaded with bacon, BBQ sauce & melted cheddar\nSIDES\nFries\n$4.00\nTater Tots\n$6.00\nMashed Potatoes\n$4.00\nVinegar Slaw\n$4.00\nColeslaw\n$4.00\nBlack eyed peas\n$4.00\nPREMIUM SIDES\nParmesan Garlic Fries\n$6.00\nLoaded Mashed Potatoes\n$6.00\nOnion Rings\n$6.00\nMac & Cheese\n$6.00\nBroccoli\n$6.00\nSide Salad\n$6.00\nCaesar Salad\n$6.00\nAsparagus\n$6.00\nKIDS MEALS\n\nFor all goats under 12 | Includes choice of entree, one side, and a drink • Sides: Fries, Tater Tots, Onion Rings, Slaw, Mashed Potatoes, Carrot & Celery Sticks, Side Salad.\n\nMacaroni & Cheese\n$8.00\nSpaghetti & Meatballs\n$8.00\nCheeseburger\n$8.00\nChicken Tenders\n$8.00\nDESSERTS\nFunnel Fries\n$8.00\nServed with cinnamon sugar, drizzled with chocolate sauce.\nChocolate Lava Bundt Cake\n$10.00\nServed with ice cream, drizzled with sauce.\nSPORTY SLIDERS\n\nAll sliders are a trio portion and served on buttery toasted slider rolls with fries.\n\nBuffalo Chicken\n$14.00\nBuffalo chicken tenders, ranch drizzle, shredded lettuce & tomato\nPulled Pork\n$14.00\nPulled pork & vinegar slaw topped with BBQ sauce\nCrispy Mushroom\n$14.00\nParmesan garlic mushrooms, arugula, topped with rich herb aioli",
+          "title": "Groovy Goat - Owa - Food Menu"
+        },
+        {
+          "url": "https://owa.groovygoat.us/foley-owa-groovy-goat-owa-drink-menu",
+          "text": "Skip to main content\nMenu\nDrinks\nSpecials\nCatering\nEvents\nParties\nJobs\nOrder\nFacebook page\nInstagram page\nGoogle page\nOUR DRINKS\nDRAFT BEER\nBOTTLED BEER\nCRAFT BEER CANS & BOTTLES\nWINE\nSOFT DRINKS\nCOCKTAILS\nCOFFEE & TEA\nEVERYDAY VALUE\nGenesee Cream Ale\n$3.50/Pint\n$5.50/Tall\nOutlaw Light Lager\n$3.50/Pint\n$5.50/Tall\nDOMESTIC\nCoors Light\n$5.00/Pint\n$7.00/Tall\nMiller Lite\n$5.00/Pint\n$7.00/Tall\nBud Light\n$5.00/Pint\n$7.00/Tall\nYuengling\n$5.00/Pint\n$7.00/Tall\nYuengling Flight\n$5.00/Pint\n$7.00/Tall\nDOMESTIC PREMIUM\nMichelob Ultra\n$6.00/Pint\n$8.00/Tall\nIMPORT & CRAFT\nGoat Whistle\n$6.50/Pint\n$8.50/Tall\nAngry Orchard\n$6.50/Pint\n$8.50/Tall\nBlue Moon\n$6.50/Pint\n$8.50/Tall\nDos Equis Lager\n$6.50/Pint\n$8.50/Tall\nFairhope I Drink Therefore I Amber\n$6.50/Pint\n$8.50/Tall\nGuiness\n$6.50/Pint\n$8.50/Tall\nLaganitas IPA\n$6.50/Pint\n$8.50/Tall\nStone Hazy Delicious IPA\n$6.50/Pint\n$8.50/Tall\nParish Dr. Juice IPA\n$6.50/Pint\n$8.50/Tall\nSierra Nevada Hazy IPA\n$6.50/Pint\n$8.50/Tall\nStella Artois\n$6.50/Pint\n$8.50/Tall\nStone Salt Lime Lager\n$6.50/Pint\n$8.50/Tall\nSweetwater G13 IPA\n$6.50/Pint\n$8.50/Tall\nRotating Seasonal Tap\n$6.50/Pint\n$8.50/Tall\nSELECT CRAFT\nHi Wire Double IPA 9% ABV\n$8.00/Pint\nFairhope Blue Steel Sour\n$8.00/Pint\n$10.00/Tall\nSELECT CRAFT PREMIUM\nGoat Island Blood Orange\n$9.00/Pint\n$12.00/Tall\nGoat Island Thrill Hill\n$9.00/Pint\n$12.00/Tall",
+          "title": "Groovy Goat - Owa - Drink Menu"
+        },
+        {
+          "url": "https://owa.groovygoat.us/foley-owa-groovy-goat-owa-happy-hours-specials",
+          "text": "Skip to main content\nMenu\nDrinks\nSpecials\nCatering\nEvents\nParties\nJobs\nOrder\nFacebook page\nInstagram page\nGoogle page\nSPECIALS\nFRIDAY MAY 15TH\nHappy Hour Specials! Alcohol: $3.50 Goat Whistle Pint | $3.00 Bud Light Pint | $4.00 Bud Light Tall | $3.00 Miller Lite Pint | $4.00 Miller Lite Tall | $1.00 off Wells | $3.50 Blue Long Island | $1.00 off House and Premium Wines\n02:00 PM - 05:00 PM\nSATURDAY MAY 16TH\nHappy Hour Specials! Alcohol: $4.50 Goat Whistle Pint | $4.50 Mimosa & Bloody Mary | $5.00 Bud Light Tall | $5.00 Miller Lite Tall\n11:00 AM - 09:00 PM\nSUNDAY MAY 17TH\nHappy Hour Specials! Alcohol: $4.50 Mimosa & Bloody Mary | $5.50 House Margarita | $4.00 Bud Light Tall | $5.00 Miller Lite Tall\n11:00 AM - 09:00 PM\nMONDAY MAY 18TH\nHappy Hour Specials! Alcohol: $3.50 Goat Whistle Pint | $3.00 Bud Light Pint | $3.00 Miller Lite Pint | $1.00 off Wells | $3.50 Blue Long Island | $1.00 off House and Premium Wines • Food: $5.00 Chips and Queso | $4.50 Pretzels (2) & Queso\n04:00 PM - 09:00 PM\nTUESDAY MAY 19TH\nHappy Hour Specials! Alcohol: $3.50 Goat Whistle Pint | $3.00 Bud Light Pint | $3.00 Miller Lite Pint | $1.00 off Wells | $3.50 Blue Long Island | $1.00 off House and Premium Wines • Food: $5.00 Chips and Queso | $4.50 Pretzels (2) & Queso\n11:00 AM - 09:00 PM\nWEDNESDAY MAY 20TH\nHappy Hour Specials! Alcohol: $3.50 Goat Whistle Pint | $3.00 Bud Light Pint | $3.00 Miller Lite Pint | $1.00 off Wells | $3.50 Blue Long Island | $1.00 off House and Premium Wines • Food: $5.00 Chips and Queso | $4.50 Pretzels (2) & Queso\n04:00 PM - 09:00 PM\nTHURSDAY MAY 21ST\nHappy Hour Specials! Craft Beer Night! Alcohol: $3.50 Goat Whistle Pint | $1.00 off Wells | $3.50 Blue Long Island | $1.00 off House and Premium Wines | $1.00 Craft Bottles • Food: $5.00 Chips and Queso | $4.50 Pretzels (2) & Queso\n02:00 PM - 05:00 PM\nHappy Hour Specials! Craft Beer Night! Alcohol: $3.50 Goat Whistle Pint | $1.00 off Wells | $3.50 Blue Long Island | $1.00 off House and Premium Wines | $1.00 Craft Bottles • Food: $5.00 Chips and Queso | $4.50 Pretzels (2) & Queso\n07:00 PM - 09:00 PM",
+          "title": "Groovy Goat - Owa - Specials"
+        },
+        {
+          "url": "https://owa.groovygoat.us/foley-owa-groovy-goat-owa-catering",
+          "text": "Skip to main content\nMenu\nDrinks\nSpecials\nCatering\nEvents\nParties\nJobs\nOrder\nFacebook page\nInstagram page\nGoogle page",
+          "title": "Groovy Goat - Owa - Catering"
+        },
+        {
+          "url": "https://owa.groovygoat.us/foley-owa-groovy-goat-owa-events",
+          "text": "Skip to main content\nMenu\nDrinks\nSpecials\nCatering\nEvents\nParties\nJobs\nOrder\nFacebook page\nInstagram page\nGoogle page\nEVENTS\nMEMORIAL DAY\n\nMonday May 25th\n\nCome celebrate the long weekend with us!\n\n11:00 AM - 09:00 PM\n\nNATIONAL BOURBON DAY\n\nSunday June 14th\n\nJoin us on National Bourbon Day! June 14th - Sit back, relax and sip on your favorite bourbon!\n\n11:00 AM - 09:00 PM\n\nNATIONAL MARTINI DAY\n\nFriday June 19th\n\nIn case you needed an excuse, join us for National Martini Day June 19th!\n\n11:00 AM - 10:00 PM\n\nFATHER'S DAY\n\nSunday June 21st\n\nTreat your dad and join us for Father's Day!\n\n11:00 AM - 09:00 PM\n\n4TH OF JULY\n\nSaturday July 4th\n\nWe're open on the 4th so come celebrate with us!\n\n11:00 AM - 10:00 PM\n\nNATIONAL FRENCH FRY DAY\n\nFriday July 10th\n\nJoin us on National French Fry Day July 12th and grab a bite (with a side of fries)!\n\n11:00 AM - 10:00 PM\n\nNATIONAL PINA COLADA DAY\n\nFriday July 10th\n\nJoin us on National Pina Colada Day (July 10th) and grab an icy cold one!\n\n11:00 AM - 10:00 PM\n\nNATIONAL CHICKEN WING DAY\n\nWednesday July 29th\n\nCome grab some wings on National Chicken Wing Day on July 29th!\n\n11:00 AM - 09:00 PM\n\nNATIONAL IPA DAY\n\nThursday August 6th\n\nCome grab a beer with us on National IPA Day!\n\n11:00 AM - 09:00 PM",
+          "title": "Groovy Goat - Owa - Events"
+        },
+        {
+          "url": "https://owa.groovygoat.us/foley-owa-groovy-goat-owa-party",
+          "text": "Skip to main content\nMenu\nDrinks\nSpecials\nCatering\nEvents\nParties\nJobs\nOrder\nFacebook page\nInstagram page\nGoogle page",
+          "title": "Groovy Goat - Owa - Groups and Parties"
+        },
+        {
+          "url": "https://owa.groovygoat.us/accessibility-page-01",
+          "text": "Skip to main content\nMenu\nDrinks\nSpecials\nCatering\nEvents\nParties\nJobs\nOrder\nFacebook page\nInstagram page\nGoogle page\nAccessibility Statement for Groovy Goat - Owa\n\nGroovy Goat - Owa is committed to making our site accessible to people with disabilities. We are continuously gathering feedback and improving the user experience for everyone.\n\nConformance\n\nTo provide great experience to everyone we are using The Web Content Accessibility Guidelines (WCAG). The guidelines have three levels of accessibility (A, Level AA, and Level AAA). Groovy Goat - Owa has chosen level AA as a target for our website and we are fully committed to monitoring our site to maintain this level of compliance.\n\nThird-Party Vendors\n\nWe encourage our third party vendors (online order and delivery providers, reservations and event management, social media, review sites, travel recommendation sites, etc.) to provide content that is accessible and user friendly, even though we cannot control their content that appears on our website.\n\nFeedback\n\nHow are we doing? We welcome your feedback on how to improve accessibility and usability of Groovy Goat - Owa website. Please let us know using this email address: E-mail: foley@groovygoat.us\n\nWe try to respond to feedback within 2 business days.\n\nAssistance\n\nIf you need any assistance please call us at 2519994628 during our regular business hours and we'd be happy to help you with anything on our site.",
+          "title": "Accessibility Statement"
+        },
+        {
+          "url": "https://owa.groovygoat.us/784586",
+          "text": "404 Not Found\nnginx",
+          "title": "404 Not Found"
+        },
+        {
+          "url": "https://owa.groovygoat.us/784591",
+          "text": "404 Not Found\nnginx",
+          "title": "404 Not Found"
+        },
+        {
+          "url": "https://owa.groovygoat.us/784592",
+          "text": "404 Not Found\nnginx",
+          "title": "404 Not Found"
+        },
+        {
+          "url": "https://owa.groovygoat.us/786270",
+          "text": "404 Not Found\nnginx",
+          "title": "404 Not Found"
+        },
+        {
+          "url": "https://owa.groovygoat.us/786271",
+          "text": "404 Not Found\nnginx",
+          "title": "404 Not Found"
+        },
+        {
+          "url": "https://owa.groovygoat.us/784596",
+          "text": "404 Not Found\nnginx",
+          "title": "404 Not Found"
+        },
+        {
+          "url": "https://owa.groovygoat.us/784593",
+          "text": "404 Not Found\nnginx",
+          "title": "404 Not Found"
+        },
+        {
+          "url": "https://owa.groovygoat.us/784595",
+          "text": "404 Not Found\nnginx",
+          "title": "404 Not Found"
+        }
+      ],
+      "imageUrls": [
+        "https://static.spotapps.co/website_images/ab_websites/387090_website/logo.png",
+        "https://static.spotapps.co/web/placeholder.png",
+        "https://c.tile.openstreetmap.org/16/16810/26959.png",
+        "https://b.tile.openstreetmap.org/16/16810/26958.png",
+        "https://b.tile.openstreetmap.org/16/16809/26959.png",
+        "https://a.tile.openstreetmap.org/16/16811/26959.png",
+        "https://a.tile.openstreetmap.org/16/16810/26960.png",
+        "https://a.tile.openstreetmap.org/16/16809/26958.png",
+        "https://c.tile.openstreetmap.org/16/16811/26958.png",
+        "https://c.tile.openstreetmap.org/16/16809/26960.png",
+        "https://b.tile.openstreetmap.org/16/16811/26960.png",
+        "https://static.spotapps.co/web-lib/leaflet/leaflet@1.3.1/dist/images/marker-shadow.png",
+        "https://static.spotapps.co/web-lib/leaflet/leaflet@1.3.1/dist/images/marker-icon.png",
+        "https://static.spotapps.co/website_images/default_template_images/spothopper_logo.png"
+      ],
+      "scraped_at": "2026-05-16T08:53:19.488Z",
+      "business_name": "Groovy Goat"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "consolidation-venue-data",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.021711+00:00",
+    "updated_at": "2026-05-18T21:30:21.839237+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131466371.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131931054.4805.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131932418.6182.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139658650.2317.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139660494.033.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139816943.8018.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131531774.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131931331.1726.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131932827.8528.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139658856.5413.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139660841.7207.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131930031.6758.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131931610.9482.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779132007292.3418.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139659266.1868.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139661109.1326.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131375250.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131930495.2034.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131931808.1504.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779132068849.8647.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139659674.042.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139661314.049.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131427615.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131930757.7664.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131932009.7017.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139658316.4092.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139660085.9104.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139751096.875.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "237d2180-8e8e-40b6-9ed2-3f88fc595631",
       "tag": "bar",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "c6e4ef02-0102-4cec-af69-cd36b5d75c33",
       "tag": "restaurant",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "c7499619-592a-4742-adad-c3b35c046100",
       "tag": "sports_bar",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "6b0ad413-a8d8-4413-af4e-06e10841f2cc",
       "tag": "video_arcade",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "5e71d04d-4bbf-4a4c-a9c9-ec943044c4e7",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "c9c523b6-6eda-4958-a1bb-61933c198e64",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "e94d694a-8aa8-4deb-818a-d0ddb83a474d",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "e5728158-38ae-4119-97b2-5b7041b2eeaf",
+      "section_key": "events",
+      "section_label": "Events",
+      "section_type": "events",
+      "sort_order": 10
+    },
+    {
+      "id": "41ead4c5-63a8-46be-81b7-171fea2eab33",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "ace65fe7-dd5c-4894-bfff-e2a1e7dd1090",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131466371.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:10.644983+00:00"
+    },
+    {
+      "id": "9e38416b-f7ad-42e3-968f-1048c6ea8978",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131931054.4805.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:11.378559+00:00"
+    },
+    {
+      "id": "71d61f25-70eb-4098-847d-e609070e74d5",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131932418.6182.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:12.1246+00:00"
+    },
+    {
+      "id": "747df7fa-3b8a-4bc3-9210-582d11063802",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139658650.2317.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:12.885599+00:00"
+    },
+    {
+      "id": "a91a5aeb-243b-41f9-bf1d-d182608722f1",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139660494.033.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:13.638986+00:00"
+    },
+    {
+      "id": "50e68136-310c-4c92-ae42-dbcc042b1e82",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139816943.8018.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:14.389609+00:00"
+    },
+    {
+      "id": "dbcd8984-99ee-4988-a03c-7b8da65b4ddf",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131531774.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:10.790506+00:00"
+    },
+    {
+      "id": "1d53956c-f37c-4b93-ade3-1169300466a9",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131931331.1726.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:11.526633+00:00"
+    },
+    {
+      "id": "1f053f35-392a-4499-8af3-51bb05d49042",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131932827.8528.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:12.269388+00:00"
+    },
+    {
+      "id": "9f423fd5-0685-4b21-98fa-22e8ef632f3d",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139658856.5413.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:13.038536+00:00"
+    },
+    {
+      "id": "3f452972-9403-45ff-ab0d-cf565c53139f",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139660841.7207.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:13.786116+00:00"
+    },
+    {
+      "id": "a3437857-4755-4b25-8db9-479556b3a2ea",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131930031.6758.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:10.935655+00:00"
+    },
+    {
+      "id": "64b39d39-108f-4b07-b75c-e1130d81d6e4",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131931610.9482.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:11.679065+00:00"
+    },
+    {
+      "id": "097ba26e-c8b4-44aa-bcf7-81f2d1658022",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779132007292.3418.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:12.416117+00:00"
+    },
+    {
+      "id": "12926695-8ebd-4b05-b14c-fb094d98727c",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139659266.1868.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:13.186727+00:00"
+    },
+    {
+      "id": "4af0fa84-7198-46dd-99ce-7d717bfd06fc",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139661109.1326.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:13.935599+00:00"
+    },
+    {
+      "id": "10983c23-5914-413b-bf7b-b4a57346e94a",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131375250.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:10.336884+00:00"
+    },
+    {
+      "id": "5f6f9d67-248d-4b86-9568-fab66582e392",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131930495.2034.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:11.082521+00:00"
+    },
+    {
+      "id": "56859138-bcaa-4861-b031-4afe7ce682d9",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131931808.1504.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:11.826963+00:00"
+    },
+    {
+      "id": "4fcffaf7-85dc-4398-97fb-d582f41f71fd",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779132068849.8647.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:12.589429+00:00"
+    },
+    {
+      "id": "bcd379b1-02b6-4d6c-a809-f79432f204c8",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139659674.042.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:13.334081+00:00"
+    },
+    {
+      "id": "06e86348-9b7b-48fe-81ae-c0aceac59bda",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139661314.049.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:14.087331+00:00"
+    },
+    {
+      "id": "f795b769-9d7e-476f-9644-48d589ec159e",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131427615.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:10.499599+00:00"
+    },
+    {
+      "id": "9addba6e-d1e8-4628-acf8-6749957079a8",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131930757.7664.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:11.230945+00:00"
+    },
+    {
+      "id": "6017494d-a2e4-4d4b-9ab6-ee9600bc09cc",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779131932009.7017.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:11.97471+00:00"
+    },
+    {
+      "id": "2028a59f-c1c6-4e4d-9b11-05960a81745f",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139658316.4092.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:12.737341+00:00"
+    },
+    {
+      "id": "d759add9-8d37-40e2-a40b-66ec67ccb89c",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139660085.9104.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:13.478642+00:00"
+    },
+    {
+      "id": "5748243b-8fa0-4151-8142-5e64381a36de",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1f877a4b-446d-46b7-a001-f0050b8840b7/1f877a4b-446d-46b7-a001-f0050b8840b7_1779139751096.875.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:14.237454+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "58bb0c18-ac5e-4f63-a9fa-264dae233924",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "event_name": "Smith & Kern | Groovy Goat | Foley",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Smith & Kern",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Groovy Goat",
+      "day_of_week": null,
+      "event_date": "2026-05-22",
+      "start_time": "18:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "d485943c-42e5-4402-851d-12b5af4a0892",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "event_name": "Lennon Gainey | Groovy Goat | Foley",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Lennon Gainey",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Groovy Goat",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "180ffb12-51c8-4e93-a868-76b62c2d71b3",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": null,
+      "event_name": "Logan Lassitter | Groovy Goat | Foley",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Logan Lassitter",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Groovy Goat",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "5fe7794d-88bb-402f-950a-86a1631f54a5",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": "ChIJrfq8Vv8OmogRoOfR6HZPcBc",
+      "event_name": "Lennon Gainey | Groovy Goat | Foley",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Lennon Gainey",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:55.569912+00:00"
+    },
+    {
+      "id": "58276a09-e185-406b-b656-aac2d0470675",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": "ChIJrfq8Vv8OmogRoOfR6HZPcBc",
+      "event_name": "Logan Lassitter | Groovy Goat | Foley",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Logan Lassitter",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:55.644434+00:00"
+    },
+    {
+      "id": "2d6e025c-30a8-40b6-ade8-8f6144fce9a7",
+      "entity_id": "1f877a4b-446d-46b7-a001-f0050b8840b7",
+      "place_id": "ChIJrfq8Vv8OmogRoOfR6HZPcBc",
+      "event_name": "Smith & Kern | Groovy Goat | Foley",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Smith & Kern",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:55.718568+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

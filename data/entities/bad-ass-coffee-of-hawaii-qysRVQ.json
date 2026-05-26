@@ -1,32 +1,545 @@
 {
-  "id": "8eca3ed6-b9af-4332-805a-e31d4f6e0db7",
-  "slug": "bad-ass-coffee-of-hawaii-qysRVQ",
-  "name": "Bad Ass Coffee of Hawaii",
-  "entity_type": "restaurant",
-  "entity_subtype": "cafe",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 200-0875",
-  "email": null,
-  "website_url": "https://badasscoffee.orderexperience.net/66f71b41f66b1f8f790a96c3/menu",
-  "address_line_1": "24824 Canal Rd Suite A, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "24824",
-  "rating": 4.6,
-  "review_count": 399,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139430176.95.jpg",
-  "photos": [],
+  "entity": {
+    "id": "8eca3ed6-b9af-4332-805a-e31d4f6e0db7",
+    "place_id": "ChIJJ3pAl7EHmogRl0eInqysRVQ",
+    "google_maps_uri": "https://maps.google.com/?cid=6072449529973065623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "bad-ass-coffee-of-hawaii-qysRVQ",
+    "name": "Bad Ass Coffee of Hawaii",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "cafe",
+    "secondary_types": [],
+    "google_type": "coffee_shop",
+    "google_types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant",
+      "store"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 200-0875",
+    "international_phone": null,
+    "website_url": "https://badasscoffee.orderexperience.net/66f71b41f66b1f8f790a96c3/menu",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "24824 Canal Rd Suite A, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "24824",
+    "latitude": 30.2899263,
+    "longitude": -87.6016384,
+    "short_address": "24824 Canal Rd Suite A, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 399,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139430176.95.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 6:00 AM – 5:00 PM",
+      "Tuesday: 6:00 AM – 5:00 PM",
+      "Wednesday: 6:00 AM – 5:00 PM",
+      "Thursday: 6:00 AM – 5:00 PM",
+      "Friday: 6:00 AM – 5:00 PM",
+      "Saturday: 6:00 AM – 5:00 PM",
+      "Sunday: 6:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://badasscoffee.orderexperience.net/66f71b41f66b1f8f790a96c3/menu",
+      "gallery": [
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/673bb94d0f07bMerchant_Logo.png?mode=crop&v=1&width=500",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5db46dbitem_5740008603706294_1772471044.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5dd442ditem_5740009065230689_1772471076.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5e055ceitem_5740009065230691_1772471107.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5e1c17citem_5740008603705292_1772471135.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5e30791item_5740008603706296_1772471165.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5e49c68item_5740010491437921_1772471221.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5e5d1d7item_5740010491437923_1772471272.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4f8bfbd0item_5740008603706263_1679957583.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4f8e0a19item_5740009065149117_1679514367.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f9db63bfe28item_5740009065149119_1761148444.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69783399056b8item_5740023948125614_1769451135.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/6978339918ce5item_5740023948125646_1769451170.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/6978339930ac1item_5740023948125728_1769451197.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4f90522eitem_5740008603706276_1679514462.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4f928c1eitem_5740009065179062_1679514476.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4f94a265item_5740009065179064_1679514493.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f9db63d4ea5item_5740008603706111_1761148236.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f9db63ebd5eitem_5740009065184938_1761148328.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f9db6409208item_5740009065184940_1761148354.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5e75478item_5740008603706294_1772471044.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5e8877citem_5740009065230689_1772471076.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5eab785item_5740009065230691_1772471107.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fa2169bitem_5740008603706288_1679515234.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fa3b62ditem_5740009065224091_1679515210.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fa58f44item_5740009065224093_1679515257.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4f960385item_5740009919490771_1679515049.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4f97b0cbitem_5740009919490773_1679514989.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4f996017item_5740009919490775_1679515053.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fadb268item_5740008603706265_1679516550.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fb0563bitem_5740009053443380_1679516495.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/697833995b563item_5740023948147190_1769451251.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/697833996e760item_5740023948177366_1769451285.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fb2c038item_5740008603706278_1679516795.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fb53234item_5740009053535155_1679516822.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5ec9da3item_5740008603705292_1772471135.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/69a5fe5ee92f0item_5740008603706296_1772471165.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fbecd06item_5740008603706290_1679513946.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fc37df9item_5740009055317432_1679514007.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fb669cditem_5740009919929878_1682622569.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/677bf4fb8228ditem_5740009919929880_1682622729.jpg?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f819d40ad57item_5740008603706079_1679518174.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f819d423c9fitem_5740009065129481_1679518230.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f819d438d20item_5740009065129483_1679518206.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f819d455d86item_5740008603706081_1679518586.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f819d472b79item_5740009065144320_1679518644.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f819d493034item_5740009065144322_1679518617.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f819d4b4fe4item_5740008603706085_1679518029.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f819d4d3374item_5740009065154256_1679518098.png?mode=crop&v=1&width=300&height=200",
+        "https://d1ouk4tp1vcuss.cloudfront.net/s3.amazonaws.com/ODNUploads/68f819d5011afitem_5740009065154258_1679518063.png?mode=crop&v=1&width=300&height=200"
+      ],
+      "sources": [
+        "https://badasscoffee.orderexperience.net/66f71b41f66b1f8f790a96c3/menu",
+        "https://badasscoffee.orderexperience.net/66f71b41f66b1f8f790a96c3/menu/677ea34cf850fa56340b1708"
+      ],
+      "scraped_at": "2026-03-21T13:19:46.141Z",
+      "_parse_error": "Unexpected end of JSON input",
+      "extracted_at": "2026-03-21T13:24:33.208Z",
+      "business_name": "Badass Coffee",
+      "_raw_claude_output": "{\"business_name\":\"Badass Coffee\",\"tagline\":\"Come in and enjoy!\",\"type\":\"Cafe\",\"contact\":{\"phone\":null,\"email\":null,\"address\":\"8363 West Van Buren Street\",\"city\":\"Tolleson\",\"state\":\"AZ\",\"zip\":\"85353\"},\"hours\":{\"monday\":null,\"tuesday\":null,\"wednesday\":null,\"thursday\":null,\"friday\":null,\"saturday\":null,\"sunday\":null,\"notes\":null},\"about\":{\"description\":\"Badass Coffee is a Hawaiian-inspired coffee shop located in Tolleson, AZ, offering a wide range of specialty lattes, cold brews, blended drinks, teas, smoothies, lemonades, bakery items, and breakfast and lunch sandwiches with a tropical Hawaiian flair.\",\"elevator_pitch\":\"A Hawaiian-inspired coffee destination serving bold specialty drinks, fresh food, and premium Kona coffee in the heart of Tolleson, AZ.\",\"established\":null,\"owner\":null,\"chef\":null,\"vibe\":\"Tropical Hawaiian casual coffee shop energy\",\"best_for\":[\"families\",\"quick bites\",\"coffee lovers\",\"casual meetups\"],\"age_restriction\":null,\"dress_code\":null,\"parking\":null,\"accessibility\":null,\"reservations\":null,\"insider_tip\":\"Try the Hazelnut Hula or the Bad Ass One breakfast sandwich for a true taste of the Hawaiian-inspired menu.\",\"awards\":[],\"press\":[]},\"tags\":[\"coffee\",\"hawaiian\",\"cafe\",\"lattes\",\"cold brew\",\"smoothies\",\"breakfast\",\"lunch\",\"bakery\",\"kona coffee\",\"matcha\",\"chai\"],\"hashtags\":[\"#badasscoffee\",\"#tollesonaz\",\"#hawaiiancoffee\",\"#konacoffee\",\"#coffeelovers\",\"#azfoodie\",\"#arizonacafe\",\"#coldbrewcoffee\",\"#latteart\"],\"categories\":[\"Cafe\",\"Coffee Shop\",\"Bakery\",\"Breakfast Spot\",\"Lunch Spot\"],\"cuisine_types\":[\"Hawaiian\",\"American\",\"Coffee\",\"Bakery\"],\"atmosphere\":[\"Casual\",\"Family-Friendly\",\"Quick Service\"],\"features\":[\"pickup\",\"online ordering\",\"drive-thru style\",\"bakery\",\"breakfast sandwiches\",\"lunch sandwiches\",\"specialty coffee\",\"cold brew\",\"smoothies\",\"retail coffee bags\"],\"price_range\":\"$$\",\"neighborhood\":null,\"social_links\":{\"instagram\":null,\"facebook\":null,\"twitter\":null,\"tiktok\":null,\"youtube\":null,\"yelp\":null,\"tripadvisor\":null,\"opentable\":null,\"google_maps\":null,\"website\":\"https://badasscoffee.orderexperience.net/66f71b41f66b1f8f790a96c3/menu\"},\"specials\":[],\"events\":[],\"menu\":{\"categories\":[{\"name\":\"Featured\",\"type\":\"specials\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Hazelnut Hula | Hot, Small\",\"description\":\"12 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":4.70,\"subcategory\":null,\"tags\":[\"popular\",\"featured\"],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Hazelnut Hula | Hot, Medium\",\"description\":\"16 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":5.65,\"subcategory\":null,\"tags\":[\"popular\",\"featured\"],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Hazelnut Hula | Hot, Large\",\"description\":\"20 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":6.50,\"subcategory\":null,\"tags\":[\"popular\",\"featured\"],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Hazelnut Hula | Iced, Medium\",\"description\":\"16 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":5.65,\"subcategory\":null,\"tags\":[\"popular\",\"featured\"],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Hazelnut Hula | Iced, Big Kahuna\",\"description\":\"24 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":6.70,\"subcategory\":null,\"tags\":[\"popular\",\"featured\"],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"The Bad Ass One\",\"description\":\"Spam, egg, swiss, pineapple, and BBQ drizzle served on King's Hawaiian® sweet bread\",\"price\":6.00,\"subcategory\":null,\"tags\":[\"popular\",\"featured\"],\"allergens\":[\"gluten\",\"dairy\",\"eggs\"]},{\"name\":\"Aloha Sandwich\",\"description\":\"Ham, egg, swiss, pineapple, and BBQ drizzle served on King's Hawaiian® sweet bread\",\"price\":6.00,\"subcategory\":null,\"tags\":[\"popular\",\"featured\"],\"allergens\":[\"gluten\",\"dairy\",\"eggs\"]}]},{\"name\":\"Bad Ass Lattes | Hot\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Bad Ass Mocha | Hot, Small\",\"description\":\"12 oz | Dark Chocolate and White Chocolate\",\"price\":4.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Bad Ass Mocha | Hot, Medium\",\"description\":\"16 oz | Dark Chocolate and White Chocolate\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Bad Ass Mocha | Hot, Large\",\"description\":\"20 oz | Dark Chocolate and White Chocolate\",\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Beach Bliss | Hot, Small\",\"description\":\"12 oz | White Chocolate & Macadamia Nut\",\"price\":4.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Beach Bliss | Hot, Medium\",\"description\":\"16 oz | White Chocolate & Macadamia Nut\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Beach Bliss | Hot, Large\",\"description\":\"20 oz | White Chocolate & Macadamia Nut\",\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Caramel Wave | Hot, Small\",\"description\":\"12 oz | Caramel and Vanilla\",\"price\":4.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Caramel Wave | Hot, Medium\",\"description\":\"16 oz | Caramel and Vanilla\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Caramel Wave | Hot, Large\",\"description\":\"20 oz | Caramel and Vanilla\",\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"DIY Latte | Hot, Small\",\"description\":\"12 oz | Customize with your favorite flavors, choice of milk, and add a \\\"kick\\\" to make it your own.\",\"price\":4.70,\"subcategory\":null,\"tags\":[\"customizable\"],\"allergens\":[\"dairy\"]},{\"name\":\"DIY Latte | Hot, Medium\",\"description\":\"16 oz | Customize with your favorite flavors, choice of milk, and add a \\\"kick\\\" to make it your own.\",\"price\":5.65,\"subcategory\":null,\"tags\":[\"customizable\"],\"allergens\":[\"dairy\"]},{\"name\":\"DIY Latte | Hot, Large\",\"description\":\"20 oz | Customize with your favorite flavors, choice of milk, and add a \\\"kick\\\" to make it your own.\",\"price\":6.50,\"subcategory\":null,\"tags\":[\"customizable\"],\"allergens\":[\"dairy\"]},{\"name\":\"Hazelnut Hula | Hot, Small\",\"description\":\"12 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":4.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Hazelnut Hula | Hot, Medium\",\"description\":\"16 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Hazelnut Hula | Hot, Large\",\"description\":\"20 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Monkey Mocha | Hot, Small\",\"description\":\"12 oz | Banana and Dark Chocolate\",\"price\":4.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Monkey Mocha | Hot, Medium\",\"description\":\"16 oz | Banana and Dark Chocolate\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Monkey Mocha | Hot, Large\",\"description\":\"20 oz | Banana and Dark Chocolate\",\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Three Waves | Hot, Small\",\"description\":\"12 oz | Coconut, Caramel & Macadamia Nut\",\"price\":4.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Three Waves | Hot, Medium\",\"description\":\"16 oz | Coconut, Caramel & Macadamia Nut\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Three Waves | Hot, Large\",\"description\":\"20 oz | Coconut, Caramel & Macadamia Nut\",\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Vanilla Latte | Hot, Small\",\"description\":\"12 oz | Vanilla\",\"price\":4.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Vanilla Latte | Hot, Medium\",\"description\":\"16 oz | Vanilla\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Vanilla Latte | Hot, Large\",\"description\":\"20 oz | Vanilla\",\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]}]},{\"name\":\"Bad Ass Lattes | Iced\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Bad Ass Mocha | Iced, Medium\",\"description\":\"16 oz | Dark Chocolate and White Chocolate\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Bad Ass Mocha | Iced, Big Kahuna\",\"description\":\"24 oz | Dark Chocolate and White Chocolate\",\"price\":6.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Beach Bliss | Iced, Medium\",\"description\":\"16 oz | White Chocolate & Macadamia Nut\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Beach Bliss | Iced, Big Kahuna\",\"description\":\"24 oz | White Chocolate & Macadamia Nut\",\"price\":6.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Caramel Wave | Iced, Medium\",\"description\":\"16 oz | Caramel and Vanilla\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Caramel Wave | Iced, Big Kahuna\",\"description\":\"24 oz | Caramel and Vanilla\",\"price\":6.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Hazelnut Hula | Iced, Medium\",\"description\":\"16 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Hazelnut Hula | Iced, Big Kahuna\",\"description\":\"24 oz | Caramel, Dark Chocolate, and Hazelnut\",\"price\":6.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Monkey Mocha | Iced, Medium\",\"description\":\"16 oz | Banana and Dark Chocolate\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Monkey Mocha | Iced, Big Kahuna\",\"description\":\"24 oz | Banana and Dark Chocolate\",\"price\":6.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Three Waves | Iced, Medium\",\"description\":\"16 oz | Coconut, Caramel & Macadamia Nut\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Three Waves | Iced, Big Kahuna\",\"description\":\"24 oz | Coconut, Caramel & Macadamia Nut\",\"price\":6.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"DIY Latte | Iced, Medium\",\"description\":\"16 oz | Customize with your favorite flavors, choice of milk, and add a \\\"kick\\\" to make it your own\",\"price\":5.65,\"subcategory\":null,\"tags\":[\"customizable\"],\"allergens\":[\"dairy\"]},{\"name\":\"DIY Latte | Iced, Big Kahuna\",\"description\":\"24 oz | Customize with your favorite flavors, choice of milk, and add a \\\"kick\\\" to make it your own\",\"price\":6.70,\"subcategory\":null,\"tags\":[\"customizable\"],\"allergens\":[\"dairy\"]},{\"name\":\"Vanilla Latte | Iced, Medium\",\"description\":\"16 oz | Vanilla\",\"price\":5.65,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Vanilla Latte | Iced, Big Kahuna\",\"description\":\"24 oz | Vanilla\",\"price\":6.70,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]}]},{\"name\":\"Hot Classics\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"100% Kona | Brewed, Small\",\"description\":\"12 oz | 100% Kona coffee is renowned for being one of the richest and most flavorful coffees in the world. Slightly nutty and fruity, lightly acid, very rich and smooth.\",\"price\":6.00,\"subcategory\":null,\"tags\":[\"premium\",\"kona\"],\"allergens\":[]},{\"name\":\"100% Kona | Brewed, Medium\",\"description\":\"16 oz | 100% Kona coffee is renowned for being one of the richest and most flavorful coffees in the world. Slightly nutty and fruity, lightly acid, very rich and smooth.\",\"price\":7.20,\"subcategory\":null,\"tags\":[\"premium\",\"kona\"],\"allergens\":[]},{\"name\":\"100% Kona | Brewed, Large\",\"description\":\"20 oz | 100% Kona coffee is renowned for being one of the richest and most flavorful coffees in the world. Slightly nutty and fruity, lightly acid, very rich and smooth.\",\"price\":8.40,\"subcategory\":null,\"tags\":[\"premium\",\"kona\"],\"allergens\":[]},{\"name\":\"Americano | Hot, Small\",\"description\":\"12 oz | Espresso shots topped with hot water.\",\"price\":3.25,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Americano | Hot, Medium\",\"description\":\"16 oz | Espresso shots topped with hot water\",\"price\":3.75,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Americano | Hot, Large\",\"description\":\"20 oz | Espresso shots topped with hot water.\",\"price\":4.25,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Brewed Coffee | Small\",\"description\":\"12 oz | Brewed Coffee\",\"price\":3.00,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Brewed Coffee | Medium\",\"description\":\"16 oz | Brewed Coffee\",\"price\":3.50,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Brewed Coffee | Large\",\"description\":\"20 oz | Brewed Coffee\",\"price\":4.00,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Cafe Latte | Hot, Small\",\"description\":\"12 oz | Signature espresso combined with steamed milk and a layer of foam.\",\"price\":4.00,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Cafe Latte | Hot, Medium\",\"description\":\"16 oz | Signature espresso combined with steamed milk and a layer of foam.\",\"price\":4.80,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Cafe Latte | Hot, Large\",\"description\":\"20 oz | Signature espresso combined with steamed milk and a layer of foam.\",\"price\":5.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Café Au Lait | Hot, Small\",\"description\":\"12 oz | Hot coffee combined with steamed milk.\",\"price\":3.00,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Café Au Lait | Hot, Medium\",\"description\":\"16 oz | Hot coffee combined with steamed milk.\",\"price\":3.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Café Au Lait | Hot, Large\",\"description\":\"20 oz | Hot coffee combined with steamed milk.\",\"price\":4.00,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Cappuccino | Hot, Small\",\"description\":\"16 oz | Signature espresso combined with steamed milk and a thick layer of foam.\",\"price\":4.40,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Cappuccino | Hot, Medium\",\"description\":\"16 oz | Signature espresso combined with steamed milk and a thick layer of foam.\",\"price\":5.20,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Cappuccino | Hot, Large\",\"description\":\"16 oz | Signature espresso combined with steamed milk and a thick layer of foam.\",\"price\":5.90,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Espresso | Hot, Single\",\"description\":\"Single | 1 shot of espresso.\",\"price\":1.60,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Espresso | Hot, Double\",\"description\":\"Double | 2 shots of espresso.\",\"price\":2.90,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Espresso | Hot, Quad\",\"description\":\"Quad | 4 shots of espresso.\",\"price\":4.90,\"subcategory\":null,\"tags\":[],\"allergens\":[]}]},{\"name\":\"Iced Classics\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"10% Kona Blend | Iced, Medium\",\"description\":\"16 oz | Iced Coffee, 10% Kona Blend\",\"price\":3.50,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"10% Kona Blend | Iced, Big Kahuna\",\"description\":null,\"price\":4.00,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Americano | Iced, Medium\",\"description\":\"16 oz | Espresso shots topped with cold water, served over ice.\",\"price\":3.75,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Americano | Iced, Big Kahuna\",\"description\":\"24 oz | Espresso shots topped with cold water, served over ice.\",\"price\":4.50,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Cafe Latte | Iced, Medium\",\"description\":\"16 oz | Signature espresso combined with milk, served with Coffee Ice Cubes.\",\"price\":5.00,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Cafe Latte | Iced, Big Kahuna\",\"description\":\"24 oz | Signature espresso combined with milk served with Coffee Ice Cubes.\",\"price\":6.00,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Iced Espresso | Double\",\"description\":\"Double | 2 shots over ice.\",\"price\":2.90,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Iced Espresso | Quad\",\"description\":\"Quad | 4 shots over ice.\",\"price\":4.90,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Shaken Espresso | Medium\",\"description\":null,\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Shaken Espresso | Big Kahuna\",\"description\":null,\"price\":7.50,\"subcategory\":null,\"tags\":[],\"allergens\":[]}]},{\"name\":\"Cold Brew\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Cold Brew | Medium\",\"description\":\"16 oz | Our Hawaiian Blend Cold Brew delivers a rich and velvety smooth, mellow taste that is, by nature, less acidic.\",\"price\":5.50,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Cold Brew | Big Kahuna\",\"description\":\"24 oz | Our Hawaiian Blend Cold Brew delivers a rich and velvety smooth, mellow taste that is, by nature, less acidic.\",\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Cold Lava Cold Brew | Medium\",\"description\":\"16 oz | Our Hawaiian Blend Cold Brew topped with a chilled, flavored foam.\",\"price\":6.20,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Cold Lava Cold Brew | Big Kahuna\",\"description\":\"24 oz | Our Hawaiian Blend Cold Brew topped with a chilled, flavored foam.\",\"price\":7.20,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Cold Brew Lemonade | Medium\",\"description\":\"16 oz | Hawaiian blend cold brew & classic lemonade topped with coconut cold foam\",\"price\":4.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Cold Brew Lemonade | Big Kahuna\",\"description\":\"24 oz | Hawaiian blend cold brew & classic lemonade topped with coconut cold foam\",\"price\":5.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]}]},{\"name\":\"Iced Mana\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Sunrise Swell | Iced, Medium\",\"description\":\"16 oz | Strawberry & Orange Mango\",\"price\":5.75,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Sunrise Swell | Iced, Big Kahuna\",\"description\":\"24 oz | Strawberry & Orange Mango\",\"price\":6.75,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Pipeline Plunge | Iced, Medium\",\"description\":\"16 oz | Blue Raspberry & Pina Colada\",\"price\":5.75,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Pipeline Plunge | Iced, Big Kahuna\",\"description\":\"24 oz | Blue Raspberry & Pina Colada\",\"price\":6.75,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Reef Racer | Iced, Medium\",\"description\":\"16 oz | Watermelon & Dragon Fruit\",\"price\":5.75,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Reef Racer | Iced, Big Kahuna\",\"description\":\"24 oz | Watermelon & Dragon Fruit\",\"price\":6.75,\"subcategory\":null,\"tags\":[],\"allergens\":[]}]},{\"name\":\"Mana Whip\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Sunrise Swell | Whip, Medium\",\"description\":\"16 oz | Strawberry & Orange Mango\",\"price\":6.75,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Sunrise Swell | Whip, Big Kahuna\",\"description\":\"24 oz | Strawberry & Orange Mango\",\"price\":7.75,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Pipeline Plunge | Whip, Medium\",\"description\":\"16 oz | Blue Raspberry & Pina Colada\",\"price\":6.75,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Pipeline Plunge | Whip, Big Kahuna\",\"description\":\"24 oz | Blue Raspberry & Pina Colada\",\"price\":7.75,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Reef Racer | Whip, Medium\",\"description\":\"16 oz | Watermelon & Dragon Fruit\",\"price\":6.75,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Reef Racer | Whip, Big Kahuna\",\"description\":\"24 oz | Watermelon & Dragon Fruit\",\"price\":7.75,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]}]},{\"name\":\"Koffee Kooler\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Koffee Kooler | Medium\",\"description\":\"16 oz | Our twist on a classic granita. With rich coffee flavor and a smooth kick of vanilla.\",\"price\":5.50,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Koffee Kooler | Big Kahuna\",\"description\":\"24 oz | Our twist on a classic granita. With rich coffee flavor and a smooth kick of vanilla.\",\"price\":6.50,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Caramel Kick | Blended, Medium\",\"description\":\"16 oz | Caramel and vanilla with a caramel swirl\",\"price\":5.95,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Caramel Kick | Blended, Big Kahuna\",\"description\":\"24 oz | Caramel and vanilla with a caramel swirl\",\"price\":6.95,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Turtle Kick | Frozen, Medium\",\"description\":\"16 oz | Caramel, dark chocolate, and hazelnut with a dark chocolate swirl\",\"price\":5.95,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Turtle Kick | Frozen, Big Kahuna\",\"description\":\"24 oz | Caramel, dark chocolate, and hazelnut with a dark chocolate swirl\",\"price\":6.95,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\",\"nuts\"]},{\"name\":\"Mocha Kick | Frozen, Medium\",\"description\":\"16 oz | Dark chocolate and white chocolate with a dark chocolate swirl\",\"price\":5.95,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Mocha Kick | Frozen, Big Kahuna\",\"description\":\"24 oz | Dark chocolate and white chocolate with a dark chocolate swirl\",\"price\":6.95,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"DIY Koffee Kooler | Medium\",\"description\":\"16 oz | Customize with your favorite flavors and add a \\\"kick\\\" to make it your own.\",\"price\":5.95,\"subcategory\":null,\"tags\":[\"customizable\"],\"allergens\":[]},{\"name\":\"DIY Koffee Kooler | Big Kahuna\",\"description\":\"24 oz | Customize with your favorite flavors and add a \\\"kick\\\" to make it your own.\",\"price\":6.95,\"subcategory\":null,\"tags\":[\"customizable\"],\"allergens\":[]}]},{\"name\":\"Lemonade\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Lemonade | Medium\",\"description\":\"16 oz | Classic Lemonade\",\"price\":3.25,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Lemonade | Big Kahuna\",\"description\":\"24 oz | Classic lemonade\",\"price\":3.85,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Coconut Dream Lemonade | Iced, Medium\",\"description\":\"16 oz | Classic lemonade topped with coconut cold foam\",\"price\":3.75,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Coconut Dream Lemonade | Iced, Big Kahuna\",\"description\":\"24 oz | Classic lemonade topped with coconut cold foam\",\"price\":4.35,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Dragon Fruit Dream Lemonade | Medium\",\"description\":\"16 oz | Dragon fruit adds a tropical sweetness to classic lemonade topped with coconut cold foam\",\"price\":3.75,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Dragon Fruit Dream Lemonade | Big Kahuna\",\"description\":\"24 oz | Dragon fruit adds a tropical sweetness to classic lemonade topped with coconut cold foam\",\"price\":4.35,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]}]},{\"name\":\"Smoothies\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Strawberry Smoothie | Medium\",\"description\":\"16 oz | Strawberry\",\"price\":6.25,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Strawberry Smoothie | Big Kahuna\",\"description\":\"24 oz | Strawberry\",\"price\":7.25,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Orange Mango | Medium\",\"description\":\"16 oz | Orange Mango\",\"price\":6.25,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Orange Mango | Big Kahuna\",\"description\":\"24 oz | Orange Mango\",\"price\":7.25,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Pina Colada | Medium\",\"description\":\"16 oz | Pina Colada\",\"price\":6.25,\"subcategory\":null,\"tags\":[],\"allergens\":[]},{\"name\":\"Pina Colada | Big Kahuna\",\"description\":\"24 oz | Pina Colada\",\"price\":7.25,\"subcategory\":null,\"tags\":[],\"allergens\":[]}]},{\"name\":\"Teas\",\"type\":\"drinks\",\"description\":null,\"subcategories\":[],\"items\":[{\"name\":\"Chai Tea | Hot, Small\",\"description\":\"12 oz | Our proprietary Spiced Chai is rich in flavor with subtle hints of vanilla.\",\"price\":4.80,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Chai Tea | Hot, Medium\",\"description\":\"16 oz | Our proprietary Spiced Chai is rich in flavor with subtle hints of vanilla.\",\"price\":5.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Chai Tea | Hot, Large\",\"description\":\"20 oz | Our proprietary Spiced Chai is rich in flavor with subtle hints of vanilla.\",\"price\":6.20,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Chai Tea | Iced, Medium\",\"description\":\"16 oz | Our proprietary Spiced Chai is rich in flavor with subtle hints of vanilla.\",\"price\":5.50,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Chai Tea | Iced, Big Kahuna\",\"description\":\"24 oz | Our proprietary Spiced Chai is rich in flavor with subtle hints of vanilla.\",\"price\":6.20,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Chai Tea | Blended, Medium\",\"description\":\"16 oz | Our frozen blended proprietary Spiced Chai is rich in flavor with subtle hints of vanilla.\",\"price\":5.95,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Chai Tea | Blended, Big Kahuna\",\"description\":\"24 oz | Our frozen blended proprietary Spiced Chai is rich in flavor with subtle hints of vanilla.\",\"price\":6.95,\"subcategory\":null,\"tags\":[],\"allergens\":[\"dairy\"]},{\"name\":\"Hot Tea | Small\",\"description\":\"12 oz | Choose your favorite hot tea flavor.\",\"price\":"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139430506.5747.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139431119.0046.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139431324.0703.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139431554.7722.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139432143.7383.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139432559.812.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139433167.2266.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139433509.7434.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8eca3ed6-b9af-4332-805a-e31d4f6e0db7/8eca3ed6-b9af-4332-805a-e31d4f6e0db7_1779139433967.8057.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:13.707977+00:00",
+    "updated_at": "2026-05-18T21:23:59.055713+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "4a2fd73d-5f52-4eb7-9376-a1f210cdd839",
+      "tag": "hawaiian restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "e0bec848-9031-4874-8f58-7e6a8abda5c3",
+      "tag": "hawaiian restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "10e6e513-84b2-477f-a3c9-98211ca00937",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "7c12488e-d18e-478b-840b-36aebebcfa89",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d1d984a8-bcc6-4f70-a6df-4a82ca2dfe6d",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "96189737-54c2-4c29-a56e-ac1bd2742216",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "24f1972a-2a33-4006-98be-48f2d0104ea7",
+      "tag": "coffee roastery",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "fd1476c3-8c76-409b-8da2-afc872f22bcb",
+      "tag": "coffee roastery",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "0945ea2a-42df-4a87-b7ab-5bba487e2fe5",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "e9a1f807-081a-4ad8-bf37-dbc1d31f7b9c",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "1ec48658-efc0-4ccb-b148-2b9c212437be",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "29b0dfec-a8bd-433a-80ac-906ed8c1fb28",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "932e82d1-fbad-4a7d-88b7-a0b05f8f531a",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "8b0eaea4-d8c9-4fcb-9f89-0e89aaab7d4f",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "c3f7c68f-aa27-41df-a8a3-a097398d7bdd",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "19e459fa-58a0-4c26-8812-6161d1080027",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "16bc5ffc-ee81-4f1e-83cf-4f74d20b1f17",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "76f2f946-8f97-4e70-9a09-6d5e7d1d2c94",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "6f73ac95-f655-4050-8ea1-b577c0a2f838",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "8156545a-8f6a-4c26-86d5-0dae8f03e2b0",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "2f6b32f0-a23f-464b-ad5f-fbd8eaa6510f",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "0c0027ee-da4c-41c7-a44e-d7f52ca16e04",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "5cf646a8-5640-44e6-b096-76a851a8ec10",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 11
+    },
+    {
+      "id": "2c6d399e-d902-4289-b185-541fdf814637",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 11
+    },
+    {
+      "id": "672dd226-bb9d-4210-bba0-8f64f79ce094",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "fdec2978-d571-4d34-bdeb-b48fc980c70e",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "e1809d99-6ed0-42bd-bfbc-1e446ff8db8e",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "5d4a1e2c-eb36-442d-8a96-c78265887cf2",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "4ccb69bf-82b9-4382-8d81-a34a0bd9c276",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 14
+    },
+    {
+      "id": "428efa0f-7740-4741-bf8a-30128ac2ce75",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 14
+    },
+    {
+      "id": "8e588d91-46d4-4978-9f33-b0b8232997ab",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 15
+    },
+    {
+      "id": "93d20fac-da20-47e9-8fea-b83d8c63da4f",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 15
+    },
+    {
+      "id": "bd30d513-e06c-473f-8408-356ba6fd4f10",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "fb7527c5-90f2-4614-8885-3fc2bfdfc889",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "be8419c0-f85b-428e-b012-29c7b8b9f86d",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "7556a95b-33e0-4953-80a9-252a5d186192",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "e8c24e15-a5de-4cae-93d9-3f6990e0ed84",
+      "tag": "coffee_roastery",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "a6a1d8e1-b19e-4ca7-bc8f-abca9c9e6b9a",
+      "tag": "coffee_roastery",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "6c7169e9-dc70-4f01-bb22-a2ee05501a53",
+      "tag": "hawaiian_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "b9245983-de76-4eb2-9aa4-23c432b4fe78",
+      "tag": "hawaiian_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "8a1ff42d-cd49-41ca-b776-68139b7d27bc",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "4e5b3176-1be4-4031-a815-ebd09cb74051",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "2d2fcdce-9779-48e0-b852-8df7845c3e19",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "e6e31e13-e160-46b1-b9b2-3262e1058674",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "09defdb4-99ad-4512-a1ce-730a0049d279",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "14a88c93-0ad2-496c-a114-1290acd1be75",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "d431327b-02b9-45cd-bfa5-dedcab5f14e2",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "4ca25ea8-3116-4231-9fff-075aa317d667",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 23
+    }
+  ],
+  "sections": [
+    {
+      "id": "e732e012-5615-49d0-ac42-34d08dbf4a3b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

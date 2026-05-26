@@ -1,32 +1,439 @@
 {
-  "id": "92f90944-742a-44b1-acfd-0894feaa3825",
-  "slug": "fort-morgan-pizza-9RYrNQ",
-  "name": "Fort Morgan Pizza",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Right down the road. If you are in Fort Morgan you are no more than ten minutes away. Fort Morgan Pizza delivers fresh pizza to all beach houses and communities in the Fort Morgan area including Martinique, The Beach Club, The Plantation, Kiva Dunes, Fort Morgan Town Homes, The Indies, The Dunes and every beach house in between.",
-  "phone": "(251) 540-2622",
-  "email": null,
-  "website_url": "http://www.fortmorganpizza.com/",
-  "address_line_1": "9989 AL-180, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 2.6,
-  "review_count": 379,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "92f90944-742a-44b1-acfd-0894feaa3825",
+    "place_id": "ChIJ89noAR8imogR6TorW9RYrNQ",
+    "google_maps_uri": "https://maps.google.com/?cid=15324721301120826089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "fort-morgan-pizza-9RYrNQ",
+    "name": "Fort Morgan Pizza",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "pizza_restaurant",
+    "google_types": [
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 540-2622",
+    "international_phone": null,
+    "website_url": "http://www.fortmorganpizza.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "9989 AL-180, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2400952,
+    "longitude": -87.8527733,
+    "short_address": "9989 AL-180, Gulf Shores",
+    "plus_code": null,
+    "rating": 2.6,
+    "review_count": 379,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Down-to-earth counter-serve featuring basic cheese pizzas with traditional topping options.",
+    "description": "Right down the road. If you are in Fort Morgan you are no more than ten minutes away. Fort Morgan Pizza delivers fresh pizza to all beach houses and communities in the Fort Morgan area including Martinique, The Beach Club, The Plantation, Kiva Dunes, Fort Morgan Town Homes, The Indies, The Dunes and every beach house in between.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 4:00 – 9:00 PM",
+      "Tuesday: 4:00 – 9:00 PM",
+      "Wednesday: 4:00 – 9:00 PM",
+      "Thursday: 4:00 – 9:00 PM",
+      "Friday: 4:00 – 9:00 PM",
+      "Saturday: 3:00 – 10:00 PM",
+      "Sunday: 4:00 – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.027834+00:00",
+    "updated_at": "2026-05-17T21:17:41.538902+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "612b61ca-c7b3-4d38-b5f1-25cac269ba2b",
+      "tag": "pizza",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "1ac16085-0473-40da-9b1a-8623225125a2",
+      "tag": "pizza",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "2af1db91-ef30-409c-a464-569e89e64fe2",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "6a6f2c87-2044-4472-aaf7-548980d89219",
+      "tag": "casual dining",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "51d1b033-11a5-4815-ab81-d859c78e3523",
+      "tag": "delivery",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "1b9452c6-a914-4407-a280-1764a2ef432f",
+      "tag": "delivery",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "ffdf0771-0cab-404e-96f2-6b2317a8c818",
+      "tag": "beach area",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "1fa3d554-3bab-4c40-afdd-85199f5e7320",
+      "tag": "beach area",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "f3d7385c-cb52-4fba-88ad-eff134c2c347",
+      "tag": "fort morgan",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "be6c1fd6-c50f-4aac-a016-84522bafabd7",
+      "tag": "fort morgan",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "6cda7a1d-c2a5-4438-b560-c4d2824258a9",
+      "tag": "gulf shores",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "fb3b6c49-6fbe-40c5-ac17-d765b56d4979",
+      "tag": "gulf shores",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "641a3b09-1d90-4e16-9900-a951ee79c132",
+      "tag": "italian",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "f7fb5972-ee07-4962-b5e2-0a36946cf180",
+      "tag": "italian",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "b00a97f9-2eb8-4b78-94ae-2a20e3ba6b09",
+      "tag": "fast food",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "32c4dcb8-d6db-42ce-89d4-90f14dec242a",
+      "tag": "fast food",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "16fe0516-0a0c-4c11-8902-c4521b8e87b3",
+      "tag": "dine-in",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "bea28b45-f8cd-4b81-b672-0fa3b66d56c0",
+      "tag": "dine-in",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "390dc29f-0581-44fc-8edc-025f8693b7e6",
+      "tag": "takeout",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "36ef1a2b-e4d4-4cea-935c-b0568c2798d2",
+      "tag": "takeout",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "c3d2212f-6173-4a8e-9b0b-686328ef4dea",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "01be8b39-d402-44d5-b262-145f48d4e03a",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "70245767-89f1-4e55-b7ab-e3acf3eafdd3",
+      "tag": "Pizza",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "16947736-1cd8-4d8e-83f4-466e6a9c2125",
+      "tag": "Pizza",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "c9a5b012-223d-4e69-919a-347bcd638d4f",
+      "tag": "Italian",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "8c8c234e-a59c-4b9d-97e9-d2fc00a560e2",
+      "tag": "Italian",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "59dff468-4e80-431c-bbe5-bcced800fae6",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "c6119b5c-042b-465b-9146-71d0d92f1352",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "2b15850d-28aa-47a4-8439-39dfbd28d962",
+      "tag": "Delivery",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "d36baf33-1f19-4525-886b-2e8f070e8fe2",
+      "tag": "Delivery",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "7f14fc25-c986-49d7-9384-4bf6417cb7b6",
+      "tag": "Gulf Shores Dining",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "57307594-ddad-452c-afef-56648b7670e2",
+      "tag": "Gulf Shores Dining",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "9ef56d1e-8ca8-479a-ae92-3e837d7c7c70",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 16
+    },
+    {
+      "id": "e837a441-7e30-41d7-959f-9a964b72e0f6",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 16
+    },
+    {
+      "id": "717aff22-b7bc-4654-b1f1-35c7eb9d8313",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "7cb2b1b5-adec-41de-bb6d-c900f383ccf1",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "b4f80b81-541c-43e3-8ea8-716c4c4fac48",
+      "tag": "pizza_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "d9bed566-74e8-4df9-a36a-a476e846b8ec",
+      "tag": "pizza_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "e51d0ace-f5f3-44de-b430-70b2b0eb7612",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "3ec090d6-01f3-4d6e-b8fb-7a26a6c260d2",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "7632195b-e4f6-4f17-a3fd-27a892785f02",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "15e3f941-1c85-4be1-a852-a35876d3c63d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "13256a98-1c8c-45f2-9aa9-d69c01da2bce",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "dd1cb3df-b352-4ac5-8ce8-cd7807022a1e",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 21
+    }
+  ],
+  "sections": [
+    {
+      "id": "ff1093a6-5bfe-4d38-b49c-e570e1f1fe44",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,184 +1,243 @@
 {
-  "id": "181a97e5-d15c-4611-b856-7a66f27db3c5",
-  "slug": "pelican-grill",
-  "name": "Pelican Grill",
-  "entity_type": "gcr_business",
-  "entity_subtype": "restaurant",
-  "icon": "🦐",
-  "description": "Welcome to Pelican Grill located at the SanRoc Cay Marina! At Pelican Grill, we offer an unforgettable dining experience with our exquisite Gulf Coast cuisine. Nestled in the heart of Orange Beach, Alabama, our seafood restaurant is perfect for family-friendly dining and enjoying local favorites like shrimp baked potato, charbroiled oysters, and chicken tenders.",
-  "phone": "(251) 483-3665",
-  "email": "pelicangrillob@gmail.com",
-  "website_url": "https://www.pelicangrillob.com",
-  "address_line_1": "27267 Perdido Beach Blvd.",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": null,
-  "photos": [],
-  "hours": [
-    {
-      "day_of_week": "Monday",
-      "open_time": "11:00",
-      "close_time": "21:00",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Tuesday",
-      "open_time": "11:00",
-      "close_time": "21:00",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Wednesday",
-      "open_time": "11:00",
-      "close_time": "21:00",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Thursday",
-      "open_time": "11:00",
-      "close_time": "21:00",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Friday",
-      "open_time": "11:00",
-      "close_time": "21:00",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Saturday",
-      "open_time": "11:00",
-      "close_time": "21:00",
-      "is_closed": false
-    },
-    {
-      "day_of_week": "Sunday",
-      "open_time": "11:00",
-      "close_time": "21:00",
-      "is_closed": false
-    }
-  ],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "181a97e5-d15c-4611-b856-7a66f27db3c5",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "pelican-grill",
+    "name": "Pelican Grill",
+    "subtitle": "Exquisite Seafood Cuisine & Cocktails",
+    "entity_type": "gcr_business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": "🦐",
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 483-3665",
+    "international_phone": null,
+    "website_url": "https://www.pelicangrillob.com",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27267 Perdido Beach Blvd.",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": "Welcome to Pelican Grill located at the SanRoc Cay Marina! At Pelican Grill, we offer an unforgettable dining experience with our exquisite Gulf Coast cuisine. Nestled in the heart of Orange Beach, Alabama, our seafood restaurant is perfect for family-friendly dining and enjoying local favorites like shrimp baked potato, charbroiled oysters, and chicken tenders.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": true,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-20T19:21:55.554111+00:00",
+    "updated_at": "2026-05-20T19:38:29.195764+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "amenities": [],
-  "tags": [
+  "features": [
     {
-      "tag": "seafood",
-      "tag_category": null
+      "id": "d9013914-bafb-49c5-add8-36ab87138d43",
+      "label": "Waterfront",
+      "sort_order": 0
     },
     {
-      "tag": "gulf coast cuisine",
-      "tag_category": null
+      "id": "38d6dbec-724d-42ee-b040-36c22b77d6a3",
+      "label": "Live Music",
+      "sort_order": 1
     },
     {
-      "tag": "Orange Beach",
-      "tag_category": null
-    },
-    {
-      "tag": "casual dining",
-      "tag_category": null
-    },
-    {
-      "tag": "oysters",
-      "tag_category": null
-    },
-    {
-      "tag": "grouper",
-      "tag_category": null
-    },
-    {
-      "tag": "shrimp",
-      "tag_category": null
-    },
-    {
-      "tag": "crab",
-      "tag_category": null
-    },
-    {
-      "tag": "filet",
-      "tag_category": null
-    },
-    {
-      "tag": "cocktails",
-      "tag_category": null
-    },
-    {
-      "tag": "charbroiled",
-      "tag_category": null
-    },
-    {
-      "tag": "fresh catch",
-      "tag_category": null
-    },
-    {
-      "tag": "family-friendly",
-      "tag_category": null
-    },
-    {
-      "tag": "waterfront dining",
-      "tag_category": null
-    },
-    {
-      "tag": "marina restaurant",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Seafood",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Bars",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Gulf Coast",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Orange Beach Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Waterfront Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
+      "id": "5f88014d-53b9-4cb0-a4f5-d50cd5982bc3",
+      "label": "Takeout",
+      "sort_order": 2
     }
   ],
-  "featured": false,
-  "is_active": true,
-  "menus": [],
-  "businesses": [
+  "perfect_for": [
     {
-      "source": "orange-beach-restaurants.json",
-      "name": "Pelican Grill",
-      "phone": "(251) 483-3665",
-      "address": "",
-      "placeId": "",
-      "website": ""
+      "id": "8ebd4e94-0c33-4485-9862-60ccdeb252de",
+      "label": "Families",
+      "sort_order": 0
+    },
+    {
+      "id": "114e5654-b587-405a-ab59-c34cc6cde8c3",
+      "label": "Date night",
+      "sort_order": 1
+    },
+    {
+      "id": "1a47999e-4a87-4a9c-b59a-f2ff8e8a3e8d",
+      "label": "Groups",
+      "sort_order": 2
     }
   ],
-  "consolidatedAt": "2026-05-22T11:53:27.781Z"
+  "tags": [],
+  "sections": [
+    {
+      "id": "d033f0f3-cfdc-45a3-a1aa-7d04f1bcde63",
+      "section_key": "events",
+      "section_label": "Events",
+      "section_type": "events",
+      "sort_order": 5
+    },
+    {
+      "id": "3c24bbc5-1c28-4668-b28c-0c5ed69f4fc1",
+      "section_key": "hours",
+      "section_label": "Hours",
+      "section_type": "hours",
+      "sort_order": 98,
+      "hours": []
+    },
+    {
+      "id": "aa378bfa-809c-46eb-95bf-cd91e6da29c2",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 99,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "4c4a327b-4a43-4163-949d-8cd3def6299b",
+      "entity_id": "181a97e5-d15c-4611-b856-7a66f27db3c5",
+      "place_id": null,
+      "event_name": "Live Music",
+      "event_type": null,
+      "description": "See Facebook for band schedule",
+      "artist_name": null,
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": true,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-20T19:21:56.998254+00:00"
+    },
+    {
+      "id": "77156ef2-7c06-4afc-9510-36737f79cb61",
+      "entity_id": "181a97e5-d15c-4611-b856-7a66f27db3c5",
+      "place_id": null,
+      "event_name": "Live Music",
+      "event_type": null,
+      "description": "Live music see Facebook for band schedule.",
+      "artist_name": null,
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": true,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-20T19:32:25.007995+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

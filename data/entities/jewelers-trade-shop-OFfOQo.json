@@ -1,97 +1,272 @@
 {
-  "id": "1cddc779-8db3-47cf-9283-5f911c06cfd1",
-  "slug": "jewelers-trade-shop-OFfOQo",
-  "name": "Jewelers Trade Shop",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "Store featuring wedding rings, fashion jewelry, watches & gifts, plus repair services.",
-  "phone": "(850) 432-4433",
-  "email": null,
-  "address_line_1": "26 Palafox Pl, Pensacola, FL 32502, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32502",
-  "website_url": "https://www.jewelerstradeshop.com/.",
-  "rating": 4.9,
-  "review_count": 1062,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "1cddc779-8db3-47cf-9283-5f911c06cfd1",
+    "place_id": "ChIJ6xcdgq7AkIgRa9CmJOFfOQo",
+    "google_maps_uri": "https://maps.google.com/?cid=736725434638979179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "jewelers-trade-shop-OFfOQo",
+    "name": "Jewelers Trade Shop",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "jewelry_store",
+    "google_types": [
+      "jewelry_store",
+      "store",
+      "point_of_interest",
+      "finance",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 432-4433",
+    "international_phone": null,
+    "website_url": "https://www.jewelerstradeshop.com/.",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26 Palafox Pl, Pensacola, FL 32502, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32502",
+    "latitude": 30.4119888,
+    "longitude": -87.21493,
+    "short_address": "26 Palafox Pl, Pensacola",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 1062,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Store featuring wedding rings, fashion jewelry, watches & gifts, plus repair services.",
+    "description": "Store featuring wedding rings, fashion jewelry, watches & gifts, plus repair services.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 5:30 PM",
+      "Tuesday: 8:00 AM – 5:30 PM",
+      "Wednesday: 8:00 AM – 5:30 PM",
+      "Thursday: 8:00 AM – 5:30 PM",
+      "Friday: 8:00 AM – 5:30 PM",
+      "Saturday: 8:00 AM – 5:30 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.027834+00:00",
+    "updated_at": "2026-05-18T21:06:55.104712+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "f8fc6420-b000-4ccf-945c-072ee1d40746",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
-      "tag": "gulf_shores",
-      "tag_category": "search"
-    },
-    {
-      "tag": "jewelry_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "finance",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "0c1c9519-488a-4e10-9be1-b8817c73c83a",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "bea4dffb-e158-4925-a885-19cd5440c975",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "100520e2-2efe-459f-8b79-368cf4ea08f7",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "e08529db-e22f-4449-bd88-e310339565ce",
       "tag": "jewelry_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "2d12bb52-0585-46c5-bd70-2b71dcade1d7",
+      "tag": "jewelry_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "3b6faa2e-1840-44b6-9620-9a48f5a6cf33",
       "tag": "finance",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "377a03c1-27f0-429b-914a-4fc1b00a42fd",
+      "tag": "finance",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "80bc7c89-21dc-4b9c-b937-1300066a7fac",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "bc6c2cf7-aece-4213-a44a-bc7884913d49",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "67341499-148e-4fc8-b9bc-7257ab780afd",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "15895e76-332a-4df1-b3ce-da1b769b88f4",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "b5406747-2674-43d0-ad63-7de0585ea321",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "a077a1d4-1767-4caf-9f5f-7428a7ab0812",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "4aaa4030-14a3-45d5-b4de-250c451176cb",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "e2fb2be8-5d6c-4fd4-924f-5018328563a0",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "ce58b31a-940e-4580-b797-ca67e62b2a51",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

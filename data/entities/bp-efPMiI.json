@@ -1,37 +1,307 @@
 {
-  "id": "aebe1cc0-1d5b-47ae-96dc-df0e17536a07",
-  "slug": "bp-efPMiI",
-  "name": "bp",
-  "entity_type": "shopping",
-  "entity_subtype": "gas-station",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(850) 497-6012",
-  "email": null,
-  "address_line_1": "17100 Perdido Key Dr, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": "https://map.bp.com/en-US/US/gas-station/pensacola/bp/128241",
-  "rating": 2,
-  "review_count": 7,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "aebe1cc0-1d5b-47ae-96dc-df0e17536a07",
+    "place_id": "ChIJkWHLuU-okIgRNSwFuefPMiI",
+    "google_maps_uri": "https://maps.google.com/?cid=2464260540273601589&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "bp-efPMiI",
+    "name": "bp",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "gas-station",
+    "secondary_types": [],
+    "google_type": "gas_station",
+    "google_types": [
+      "gas_station",
+      "supermarket",
+      "grocery_store",
+      "food_store",
+      "service",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 497-6012",
+    "international_phone": null,
+    "website_url": "https://map.bp.com/en-US/US/gas-station/pensacola/bp/128241",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "17100 Perdido Key Dr, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.2833603,
+    "longitude": -87.5113581,
+    "short_address": "17100 Perdido Key Dr, Pensacola",
+    "plus_code": null,
+    "rating": 2,
+    "review_count": 7,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.325226+00:00",
+    "updated_at": "2026-05-17T21:17:45.553162+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "e4c32570-8a62-49b8-a87e-20b94daccbd0",
+      "tag": "gas station",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "095a98fd-b02d-47cc-8da6-81e340bdce0a",
+      "tag": "fuel",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "4cd45b2f-193a-4c12-824f-073e420c0b43",
+      "tag": "convenience",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "728a61b5-f5b8-4eee-b2ba-b178b182a121",
+      "tag": "Perdido Key",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "69722598-d8ab-44ad-8819-598445ac7c83",
+      "tag": "Pensacola",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "8d572b67-dafd-48c7-8cba-ac25daa3372a",
+      "tag": "24/7",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "8b87ef35-6012-4064-a766-b0a47b8d9dbe",
+      "tag": "Gas Stations",
+      "tag_category": "category",
+      "sort_order": 6
+    },
+    {
+      "id": "ec13c1e2-14e3-4318-ba65-6caef5de5826",
+      "tag": "Fuel",
+      "tag_category": "category",
+      "sort_order": 7
+    },
+    {
+      "id": "8b2d9f7c-22b1-4a98-a7fa-aebbaf4f92e1",
+      "tag": "Convenience Stores",
+      "tag_category": "category",
+      "sort_order": 8
+    },
+    {
+      "id": "7ae1bcf6-f142-436f-b1a8-16334910623d",
+      "tag": "fuel-and-convenience",
+      "tag_category": "industry",
+      "sort_order": 9
+    },
+    {
+      "id": "bea72148-5df2-43cb-b37d-be0911cf2380",
+      "tag": "gas-station",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "cd0f0ffa-c8db-446d-839c-bff86bb7143f",
+      "tag": "24-hour",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "cbb5edd5-352c-42c8-b5a7-d6f062b49070",
+      "tag": "BP fuel",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "80a7e9ca-6e73-401e-9c55-e4909be4cfa0",
+      "tag": "convenience store",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "65ab3f21-2c68-421d-863c-b018a876a7f8",
+      "tag": "gas_station",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "572166f0-4a61-4b25-8802-f18609706d9d",
+      "tag": "supermarket",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "c34c9356-121b-42b9-b156-b71f6a0c1717",
+      "tag": "grocery_store",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "d6f45dbf-763d-4a05-b48b-b0d8b81fa9aa",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "2b21fcda-cba0-4b25-981a-94e80cf11040",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "a9cc2cd7-19a9-473a-90cf-932bd310e8e8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "390e7462-279f-43b8-90c7-1781abd0a7ef",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "8b8aac9c-ff1b-4f12-b87c-cc1477094d15",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "6fd8c08e-ec7e-4327-b94d-ff80cb761156",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 22
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "b3c23332-7f48-45cb-bb9a-d2d7837abdea",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,664 @@
 {
-  "id": "044198a7-64fd-4ebe-82af-621907a22cbf",
-  "slug": "efes-greek-kitchen-hqg1zY",
-  "name": "Efes Greek Kitchen",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "We are a Mediterranean restaurant featuring casual quick service classics. Offering drive through pickup with a small outside patio.",
-  "phone": "(256) 342-1000",
-  "email": null,
-  "website_url": "http://efesgreekkitchen.com/",
-  "address_line_1": "1550 AL-59, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "Alabama",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 515,
-  "hero_image_url": "https://efesgreekkitchen.com/wp-content/uploads/2020/09/efesgreekkitchengulfshoresfrontwsign-300x200.jpg",
-  "photos": [],
+  "entity": {
+    "id": "044198a7-64fd-4ebe-82af-621907a22cbf",
+    "place_id": "ChIJBeL9TxwFmogRaZvfAhqg1zY",
+    "google_maps_uri": "https://maps.google.com/?cid=3951803231618702185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "efes-greek-kitchen-hqg1zY",
+    "name": "Efes Greek Kitchen",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "greek_restaurant",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(256) 342-1000",
+    "international_phone": null,
+    "website_url": "http://efesgreekkitchen.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1550 AL-59, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "Alabama",
+    "zip": "36542",
+    "latitude": 30.266746,
+    "longitude": -87.6881235,
+    "short_address": "1550 AL-59, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 515,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "We are a Mediterranean restaurant featuring casual quick service classics. Offering drive through pickup with a small outside patio.",
+    "hero_image_url": "https://efesgreekkitchen.com/wp-content/uploads/2020/09/efesgreekkitchengulfshoresfrontwsign-300x200.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://facebook.com/efesgreekkitchen",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 11:00 PM",
+      "Tuesday: 11:00 AM – 11:00 PM",
+      "Wednesday: 11:00 AM – 11:00 PM",
+      "Thursday: 11:00 AM – 11:00 PM",
+      "Friday: 11:00 AM – 11:00 PM",
+      "Saturday: 11:00 AM – 11:00 PM",
+      "Sunday: 11:00 AM – 11:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Sandwiches & Combos",
+          "items": [
+            {
+              "name": "Chicken Pita Combo",
+              "tags": [],
+              "price": 12.39,
+              "dietary": [],
+              "popular": false,
+              "description": "Grilled chicken on a pita bread with lettuce, tomato, onion and tzatziki sauce. Comes with Fries.",
+              "subcategory": null
+            },
+            {
+              "name": "Gyro Combo",
+              "tags": [],
+              "price": 12.39,
+              "dietary": [],
+              "popular": false,
+              "description": "Mix of lamb and beef meat on a pita bread with lettuce, tomato, onion and tzatziki sauce. Comes with fries.",
+              "subcategory": null
+            },
+            {
+              "name": "Falafel Wrap Combo",
+              "tags": [],
+              "price": 11.89,
+              "dietary": [],
+              "popular": false,
+              "description": "Fried chicpeas on a pita bread with lettuce, tomato, onion and hummus. Comes with fries.",
+              "subcategory": null
+            },
+            {
+              "name": "Philly Cheesesteak Combo",
+              "tags": [],
+              "price": 12.39,
+              "dietary": [],
+              "popular": false,
+              "description": "Comes with onions and green peppers. Comes with fries.",
+              "subcategory": null
+            },
+            {
+              "name": "Cheeseburger Combo",
+              "tags": [],
+              "price": 10.89,
+              "dietary": [],
+              "popular": false,
+              "description": "Comes with fries",
+              "subcategory": null
+            },
+            {
+              "name": "Hot Dog Combo",
+              "tags": [],
+              "price": 8.2,
+              "dietary": [],
+              "popular": false,
+              "description": "Comes with fries",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Appetizers & Sides",
+          "items": [
+            {
+              "name": "Grilled Pita with Hummus",
+              "tags": [],
+              "price": 7.49,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Greek Fries",
+              "tags": [],
+              "price": 10,
+              "dietary": [],
+              "popular": false,
+              "description": "Our famous handcut fries, gyro meat, onions, tomatoes, feta and tzatziki sauce",
+              "subcategory": null
+            },
+            {
+              "name": "Fresh Cut Cheese Fries",
+              "tags": [],
+              "price": 7,
+              "dietary": [],
+              "popular": false,
+              "description": "Our famous handcut fries with cheese",
+              "subcategory": null
+            },
+            {
+              "name": "Chicken Tenders Basket",
+              "tags": [],
+              "price": 11.89,
+              "dietary": [],
+              "popular": false,
+              "description": "3 tenders with fries",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Salads",
+          "items": [
+            {
+              "name": "Greek Salad",
+              "tags": [],
+              "price": 7,
+              "dietary": [],
+              "popular": false,
+              "description": "Romain lettuce, onions, tomatoes, cucumbers, olives, banana peppers, feta cheese and greek dressing. Add chicken or lamb meat 2.00",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Extras",
+          "items": [
+            {
+              "name": "Feta Cheese",
+              "tags": [],
+              "price": 0.75,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Tzatziki sauce",
+              "tags": [],
+              "price": 0.75,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Desserts & Beverages",
+          "items": [
+            {
+              "name": "Milkshake",
+              "tags": [],
+              "price": 8,
+              "dietary": [],
+              "popular": false,
+              "description": "Chocolate, vanilla, strawberry. Made with real ice cream",
+              "subcategory": null
+            },
+            {
+              "name": "Ice Cream",
+              "tags": [],
+              "price": 7,
+              "dietary": [],
+              "popular": false,
+              "description": "Chocolate, vanilla, strawberry. 2 scoops in a cup",
+              "subcategory": null
+            },
+            {
+              "name": "Cold Drinks",
+              "tags": [],
+              "price": 3,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Lemonade or Sweet Tea",
+              "tags": [],
+              "price": 3,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.7741+00:00",
+    "updated_at": "2026-05-18T21:06:30.173076+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "898cbfc0-b72c-495a-8919-a29cee8a7927",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "a32fc1c0-c66f-4b75-96b1-7f57fe80282a",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "8d4afbce-e33a-4a56-9807-11ce99ae8fa2",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "edc77745-8b5d-4282-beb0-1466c8948360",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "ed571c52-c7bd-4455-96ab-b895ac40e3c5",
+      "tag": "mediterranean",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "cd6ec1f1-a502-4c9f-950a-ff754830e05e",
+      "tag": "mediterranean",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "c5dc70c1-d4ac-42eb-951d-3b93f98199b6",
+      "tag": "greek",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "cc25ed1b-18cb-4f4f-806b-fdb8df090bea",
+      "tag": "greek",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "10f03283-8600-44a1-8811-149503a05168",
+      "tag": "quick-service",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "ba2e533a-8e08-427d-a260-6de782db215b",
+      "tag": "quick-service",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "f8d01b97-09d0-49ba-98ec-f9fb50f476de",
+      "tag": "drive-through",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "f7789bc3-7bf6-4a44-b48f-54ecba483534",
+      "tag": "drive-through",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "4af8ec50-69e5-4912-8094-44280a31989e",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 6
+    },
+    {
+      "id": "0e461b2e-9c5f-482e-b8d3-7e3efb26d2e8",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 6
+    },
+    {
+      "id": "3f6bcdfa-efe2-484b-b77b-d340b780d934",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 7
+    },
+    {
+      "id": "055bfbe7-3df6-4e59-b843-c77cfc2ddad5",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 7
+    },
+    {
+      "id": "f2c88427-7f94-4910-a18c-8a5c4d700065",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 8
+    },
+    {
+      "id": "ffeafbdb-d700-4934-89e6-f05828526a3d",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 8
+    },
+    {
+      "id": "f2b3f22b-5d53-4a01-a1ed-bd29965d3af4",
+      "tag": "takeout",
+      "tag_category": "amenity",
+      "sort_order": 9
+    },
+    {
+      "id": "02bceb11-d5d1-43b3-a881-9d7d14581650",
+      "tag": "takeout",
+      "tag_category": "amenity",
+      "sort_order": 9
+    },
+    {
+      "id": "955127b2-5e77-4688-b742-0201f864e785",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "b5eb72ae-951e-45e9-bf73-4bbd158cab82",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "512a6d91-106e-4010-bb8a-14496e11bff9",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "46fa3f89-f55d-45e2-876a-4b0c5d562602",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "ee705b99-313f-4a52-be91-bd1334588efb",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "07609352-8d98-460b-a147-84e3d64fc1ec",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "8d0986d4-15d0-419e-a53f-7145388763c9",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "a13b4393-870e-46c2-8d59-182a8d217f60",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "60e0d24a-2b1d-4240-95b3-a5a77ae95565",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "5c9a3706-2d6b-401a-949a-ba72612cd1ab",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "c529e24a-cbc2-4786-a68c-c9a5605d0913",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "6732f87a-3d08-4def-a100-3e25f0dabf1c",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "7c3f81aa-03a1-4d4a-9024-327e323a4d33",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "40dc9c70-7994-4107-8b79-985633b92be0",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "28c50975-da01-4ec0-864b-17579574dcfa",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "fa314da3-816c-4014-b389-25cdb945a790",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "e5aa6650-e5d5-409c-8cf9-f49236657b72",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 18
+    },
+    {
+      "id": "a64a3856-744a-479b-b2f6-c35f2a287c96",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 18
+    },
+    {
+      "id": "93ece0e1-6d8b-42f6-890e-52e9ec24068f",
+      "tag": "greek restaurant",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "7843b759-519f-4db6-9923-2f24744e83b0",
+      "tag": "greek restaurant",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "7c18eb96-8e54-426d-a8e0-122625cd437f",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 20
+    },
+    {
+      "id": "c4044b3a-42fe-4849-9c34-7acac62bd707",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 20
+    },
+    {
+      "id": "ca86da7c-28fa-4b38-a925-7b5908ef1278",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "9f5e0c65-e822-413e-9562-0721dd4a5b11",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "fafe99e1-bdc8-4c49-922b-7158199dc8f8",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "0c32a271-81ee-4ce8-98ff-367e4a0f5f43",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "d104ed87-35d6-4378-a2b1-dd95926968cf",
+      "tag": "greek_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "c645a633-d477-431c-b75f-270d1976a45d",
+      "tag": "greek_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "49f92f0f-6bbf-4590-b8ef-ce0dc0d37dde",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "7aed6c0b-d21a-4edb-87e5-7a3c35e0dcfd",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    }
+  ],
+  "sections": [
+    {
+      "id": "1e07be63-858c-4d1d-8141-5cff1b5a8685",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

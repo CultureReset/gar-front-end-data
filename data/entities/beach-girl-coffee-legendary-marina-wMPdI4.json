@@ -1,32 +1,582 @@
 {
-  "id": "69cd50df-228c-462e-8ff1-cbc5441c91e2",
-  "slug": "beach-girl-coffee-legendary-marina-wMPdI4",
-  "name": "Beach Girl Coffee - Legendary Marina",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 468-2380",
-  "email": null,
-  "website_url": "https://www.beachgirlcoffee.com/",
-  "address_line_1": "335 Waterway W Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 1,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/69cd50df-228c-462e-8ff1-cbc5441c91e2/69cd50df-228c-462e-8ff1-cbc5441c91e2_1779139637840.903.jpg",
-  "photos": [],
+  "entity": {
+    "id": "69cd50df-228c-462e-8ff1-cbc5441c91e2",
+    "place_id": "ChIJmwmYp4MFmogRKdkDwwMPdI4",
+    "google_maps_uri": "https://maps.google.com/?cid=10264845959515330857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "beach-girl-coffee-legendary-marina-wMPdI4",
+    "name": "Beach Girl Coffee - Legendary Marina",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "coffee_shop",
+    "google_types": [
+      "coffee_shop",
+      "gift_shop",
+      "cafe",
+      "breakfast_restaurant",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 468-2380",
+    "international_phone": null,
+    "website_url": "https://www.beachgirlcoffee.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "335 Waterway W Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2808801,
+    "longitude": -87.6936486,
+    "short_address": "335 Waterway W Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 1,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/69cd50df-228c-462e-8ff1-cbc5441c91e2/69cd50df-228c-462e-8ff1-cbc5441c91e2_1779139637840.903.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:30 AM – 2:30 PM",
+      "Tuesday: 7:30 AM – 2:30 PM",
+      "Wednesday: 7:30 AM – 2:30 PM",
+      "Thursday: 7:30 AM – 2:30 PM",
+      "Friday: 7:30 AM – 2:30 PM",
+      "Saturday: 7:30 AM – 4:00 PM",
+      "Sunday: 7:30 AM – 4:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.beachgirlcoffee.com/",
+      "menu": {
+        "categories": [
+          {
+            "name": "Holiday Menu - Seasonal Drinks",
+            "items": [
+              {
+                "name": "Peppermint Mocha",
+                "price": null,
+                "dietary": [],
+                "description": "Chocolate & Peppermint"
+              },
+              {
+                "name": "Christmas Cookie",
+                "price": null,
+                "dietary": [],
+                "description": "Vanilla, Cookie Dough, & Cane Sugar"
+              },
+              {
+                "name": "Gingerbread House",
+                "price": null,
+                "dietary": [],
+                "description": "Gingerbread Cookie Dough & Vanilla"
+              },
+              {
+                "name": "Rudolph",
+                "price": null,
+                "dietary": [],
+                "description": "Red Velvet & Vanilla"
+              },
+              {
+                "name": "Polar Express Hot Coco",
+                "price": null,
+                "dietary": [],
+                "description": "Coco Mix & Toasted Marshmallow"
+              },
+              {
+                "name": "Beach Girls Candy Cane",
+                "price": null,
+                "dietary": [],
+                "description": "White Chocolate & Peppermint Foam"
+              },
+              {
+                "name": "Sweater Weather",
+                "price": null,
+                "dietary": [],
+                "description": "Spiced Brown Sugar & Vanilla"
+              }
+            ]
+          },
+          {
+            "name": "Hot Drinks",
+            "items": [
+              {
+                "name": "French Brewed Coffee",
+                "price": "$2.45-$3.00",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Americano",
+                "price": "$3.25-$4.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Cappuccino",
+                "price": "$4.50-$6.00",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Macchiato",
+                "price": "$5.00-$7.00",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Latte",
+                "price": "$4.50-$6.00",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Chai Latte",
+                "price": "$4.25-$5.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Assorted Hot Teas",
+                "price": "$3.00-$3.50",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Hot Chocolate",
+                "price": "$3.00-$3.50",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Matcha",
+                "price": "$4.00-$6.00",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "To-Go Coffee Box 96oz",
+                "price": "$22.00",
+                "dietary": [],
+                "description": null
+              }
+            ]
+          },
+          {
+            "name": "On The Rocks",
+            "items": [
+              {
+                "name": "Ice Coffee",
+                "price": "$3.00-$5.75",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Ice Latte",
+                "price": "$4.25-$7.75",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Ice Macchiato",
+                "price": "$5.00-$8.75",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Ice Chai",
+                "price": "$4.25-$7.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Ice Tea",
+                "price": "$2.75-$5.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Lemonade",
+                "price": "$2.75-$5.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Energy",
+                "price": "$5.25-$8.50",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Tropical Bliss",
+                "price": "$4.25-$7.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Matcha",
+                "price": "$4.00-$7.75",
+                "dietary": [],
+                "description": null
+              }
+            ]
+          },
+          {
+            "name": "Blended Frozen",
+            "items": [
+              {
+                "name": "Vanilla",
+                "price": "$5.25-$7.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Caramel",
+                "price": "$5.25-$7.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Chocolate",
+                "price": "$5.25-$7.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "White Chocolate",
+                "price": "$5.25-$7.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Coffee",
+                "price": "$5.25-$7.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Java Chip",
+                "price": "$5.25-$7.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Cookies and Cream",
+                "price": "$5.25-$7.25",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "Choco Peanut butter",
+                "price": "$5.25-$7.25",
+                "dietary": [],
+                "description": null
+              }
+            ]
+          },
+          {
+            "name": "Customization",
+            "items": [
+              {
+                "name": "Extra Shot of Espresso",
+                "price": "$2.00",
+                "dietary": [],
+                "description": null
+              },
+              {
+                "name": "The Whole Shebang",
+                "price": null,
+                "dietary": [],
+                "description": "Whip cream drizzle & sprinkles"
+              }
+            ]
+          }
+        ]
+      },
+      "tags": [
+        "coffee",
+        "cafe",
+        "drive-through",
+        "seasonal drinks",
+        "customizable drinks",
+        "southern charm"
+      ],
+      "about": {
+        "description": "Beach Girl Coffee offers truly great coffee with southern hospitality. They serve hot, cold, blended, and kids' drinks made fresh to your specifications in a drive-through setting.",
+        "cuisine_type": "coffee"
+      },
+      "hours": {
+        "friday": "6:00am-3:00pm",
+        "monday": "6:00am-3:00pm",
+        "sunday": "6:00am-3:00pm",
+        "tuesday": "6:00am-3:00pm",
+        "saturday": "6:00am-3:00pm",
+        "thursday": "6:00am-3:00pm",
+        "wednesday": "6:00am-3:00pm"
+      },
+      "model": "claude-haiku-4-5",
+      "contact": {
+        "zip": "36542",
+        "city": "Gulf Shores",
+        "phone": "251-948-0474",
+        "state": "AL",
+        "address": "3500 Gulf Shores Pkwy"
+      },
+      "specials": [],
+      "happy_hour": {
+        "days": null,
+        "deals": null,
+        "end_time": null,
+        "available": false,
+        "start_time": null
+      },
+      "scraped_at": "2026-03-21T15:04:21.631Z",
+      "price_range": "$$",
+      "extracted_at": "2026-04-23T10:48:38.227Z",
+      "business_name": "Beach Girl Coffee"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.540391+00:00",
+    "updated_at": "2026-05-18T21:27:22.836635+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d568380b-72b6-49da-bfcf-ef4a7ab7b57a",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 0
+    },
+    {
+      "id": "94e54955-1a7d-4132-aca4-aa70d8a9a4e1",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "0a49b5ee-aabe-4168-8c35-2353dc0d257b",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "c354fe19-7ca8-4fbc-85a4-18334b2d0409",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 3
+    },
+    {
+      "id": "6d81959f-5b86-4b91-bb31-b0d295dd7db3",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "927cfe2f-4bf7-4e7b-95d3-b7b89c5f68c5",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "40ea1502-af52-4d61-80b2-a0cf26d33494",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 6
+    },
+    {
+      "id": "080083ac-196f-4996-a81e-b4c3f0239ab9",
+      "tag": "gift shop",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "ae6fabfe-6764-4f0a-b96d-68f8c5b952fa",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "bfb616b2-68fb-4689-8424-4cd75e6364e1",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "e73aeaa5-8b89-42e3-967c-5a2f342fd2de",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "4b2fbc53-970e-481e-a15b-8543b43d084d",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "e506c786-5697-42e6-b5fb-a7b48ec7ee9e",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "b7bea5c5-9cf0-4b6a-9fa8-4eebc24e1627",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 13
+    },
+    {
+      "id": "b3dfa767-af57-4c68-ae0f-b8165a5010e0",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "eee66b6d-87d2-49b4-8540-9dc56851c0ac",
+      "tag": "gift_shop",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "3f221d91-d4d1-49dc-9a9d-2ace4b9ac63b",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "ff9ca5d3-ea13-4655-98f8-401b75ddd7de",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "19306afc-a598-42d7-92e6-4ccd65771678",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "bb337ce5-3f8e-4dd9-af02-5a2e24893b5f",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 19
+    }
+  ],
+  "sections": [
+    {
+      "id": "5b33fe7c-2ebd-45b0-b076-38a9a5642a0b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

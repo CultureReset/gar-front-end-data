@@ -1,210 +1,593 @@
 {
-  "id": "05144c68-487d-4805-a725-b06ca92d4a9e",
-  "slug": "coles-acting-knowin-ii-415-u7fnFA",
-  "name": "Cole's Acting Knowin II 415",
-  "entity_type": "hotel",
-  "entity_subtype": "hotel",
-  "icon": "🏪",
-  "description": "Welcome to Cole's Acting Knowin II, your serene Gulf-front retreat nestled down Fort Morgan Road in Gulf Shores, Alabama! This spacious 3-bedroom, 2-bath home offers a tranquil escape for up to 8 guests, making it perfect for families or groups seeking a peaceful beach getaway. Enjoy stunning Gulf views from the comfort of your own home, and relax on the spacious deck overlooking the water. Inside, you'll find a comfortable and inviting living space, with a fully equipped kitchen and dining area perfect for family meals and gatherings. Retreat to the master bedroom with a king-size bed, while the second bedroom offers another king bed for additional comfort. The third bedroom features a cozy queen bed, and there's a convenient sofa queen in the living room for extra sleeping space. Located away from the hustle and bustle of Hwy 58 and the Beach Rd, Cole's Acting Knowin II provides a serene setting for relaxation, yet it's still close enough to local shops and restaurants for dining and entertainment options. Escape to the tranquility of Gulf Shores at Cole's Acting Knowin II. Book your stay now and experience the best of Gulf Coast living!",
-  "phone": null,
-  "email": null,
-  "address_line_1": "Alabama 36542, USA",
-  "city": "",
-  "state": "AL",
-  "zip": "36542",
-  "website_url": "https://www.redawning.com/rental-property/cole-s-acting-knowin-ii-415-gulf-shores-0",
-  "rating": 4,
-  "review_count": null,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132549998.3718.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+    "place_id": "ChIJqS9E4fYhmogR1HiWIu7fnFA",
+    "google_maps_uri": "https://maps.google.com/?cid=5808763833276594388&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "coles-acting-knowin-ii-415-u7fnFA",
+    "name": "Cole's Acting Knowin II 415",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "vacation-home",
+    "secondary_types": "",
+    "google_type": "lodging",
+    "google_types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": "https://www.redawning.com/rental-property/cole-s-acting-knowin-ii-415-gulf-shores-0",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Alabama 36542, USA",
+    "address_line_2": null,
+    "city": null,
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2299709,
+    "longitude": -87.8675079,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Welcome to Cole's Acting Knowin II, your serene Gulf-front retreat nestled down Fort Morgan Road in Gulf Shores, Alabama! This spacious 3-bedroom, 2-bath home offers a tranquil escape for up to 8 guests, making it perfect for families or groups seeking a peaceful beach getaway. Enjoy stunning Gulf views from the comfort of your own home, and relax on the spacious deck overlooking the water. Inside, you'll find a comfortable and inviting living space, with a fully equipped kitchen and dining area perfect for family meals and gatherings. Retreat to the master bedroom with a king-size bed, while the second bedroom offers another king bed for additional comfort. The third bedroom features a cozy queen bed, and there's a convenient sofa queen in the living room for extra sleeping space. Located away from the hustle and bustle of Hwy 58 and the Beach Rd, Cole's Acting Knowin II provides a serene setting for relaxation, yet it's still close enough to local shops and restaurants for dining and entertainment options. Escape to the tranquility of Gulf Shores at Cole's Acting Knowin II. Book your stay now and experience the best of Gulf Coast living!",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132549998.3718.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "vacationhomes-data"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132550433.5837.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132550592.0215.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132550912.3296.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551119.937.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551259.6877.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551556.2283.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551717.2961.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551875.7192.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552233.577.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552448.2637.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552609.0667.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552957.1492.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553173.6648.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553323.3303.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553473.403.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553734.05.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553897.6082.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554188.9106.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554411.2947.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554559.0703.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554827.038.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554974.2512.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555212.1077.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555416.0088.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555584.1045.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555825.951.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555985.7375.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132556235.913.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132556747.8347.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557055.6694.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557428.6865.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557669.7717.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557870.425.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558077.6985.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558396.2893.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558591.2703.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558747.0505.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558889.9219.jpg"
+    ],
+    "created_at": "2026-05-17T21:14:29.815771+00:00",
+    "updated_at": "2026-05-18T21:06:20.058926+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132550912.3296.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551875.7192.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553173.6648.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554188.9106.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555212.1077.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132556235.913.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551119.937.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552233.577.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553323.3303.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554411.2947.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555416.0088.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132556747.8347.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132549998.3718.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551259.6877.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552448.2637.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553473.403.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554559.0703.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555584.1045.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557055.6694.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132550433.5837.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551556.2283.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552609.0667.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553734.05.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554827.038.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555825.951.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557428.6865.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132550592.0215.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551717.2961.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552957.1492.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553897.6082.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554974.2512.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555985.7375.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557669.7717.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557870.425.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558889.9219.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558077.6985.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558396.2893.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558591.2703.jpg",
-      "caption": null
-    },
-    {
-      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558747.0505.jpg",
-      "caption": null
-    }
-  ],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "11189ba5-7669-4e90-bd6c-0482654e3a87",
       "tag": "vacation-home",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "ced81105-ee53-4064-a584-4946be99e098",
       "tag": "vacation-home",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "51daca14-4d2e-4b23-b4f2-c60d78431d16",
       "tag": "lodging",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "3f858d20-5225-4bd0-b2d5-bbc039178650",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "3bb3803d-1c19-4492-bf36-27da572f5b30",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "70512906-74b2-4eba-8bed-6c31783dd054",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "68d6ae65-7172-420b-9cee-337ab4b473b9",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "9e00ebfd-cf83-4e96-8456-b46bf058e273",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 3
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "e441e6a4-7a50-4289-9e92-dec296761794",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "168a83fa-b1fb-41c6-ab44-27a0ec4d6f2d",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132550912.3296.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:42.252516+00:00"
+    },
+    {
+      "id": "82de6297-488b-4945-88af-2ccf3972136d",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551875.7192.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:43.022258+00:00"
+    },
+    {
+      "id": "82627ba4-6a1b-4b24-9413-29906fca6a37",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553173.6648.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:43.818608+00:00"
+    },
+    {
+      "id": "70f59f97-a41e-4806-be66-95d38127901b",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554188.9106.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:44.580447+00:00"
+    },
+    {
+      "id": "7ce115cd-ffd0-4cb6-b3b8-f602aadc0672",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555212.1077.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:45.343287+00:00"
+    },
+    {
+      "id": "d550ce43-1cce-48f3-afec-aa78101575ca",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132556235.913.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:46.103965+00:00"
+    },
+    {
+      "id": "c63b0732-b149-4fa1-86cd-eb480f34ccc1",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551119.937.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:42.401126+00:00"
+    },
+    {
+      "id": "bfcf8c49-3e3b-476c-91c4-de5a6b13e065",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552233.577.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:43.178727+00:00"
+    },
+    {
+      "id": "983d9cfe-4804-4193-92aa-a75f0e8132ee",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553323.3303.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:43.963699+00:00"
+    },
+    {
+      "id": "4683b80d-f6ec-47ed-98cf-06a4b1c4663e",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554411.2947.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:44.735642+00:00"
+    },
+    {
+      "id": "2d04d938-6820-4fd6-b921-2febd335ed97",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555416.0088.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:45.497262+00:00"
+    },
+    {
+      "id": "b98ae3ab-bb8c-4574-894e-be0102a54776",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132556747.8347.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:46.260018+00:00"
+    },
+    {
+      "id": "1769af22-8142-4383-84fb-d8e6b166409f",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132549998.3718.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:41.795231+00:00"
+    },
+    {
+      "id": "5186c965-3bc2-4d94-867e-6d43ae8d96db",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551259.6877.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:42.550775+00:00"
+    },
+    {
+      "id": "455f9857-b32f-4762-b60d-ab719a0c81a7",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552448.2637.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:43.331459+00:00"
+    },
+    {
+      "id": "a14ae639-41bc-4d75-a102-8ef0a1e97dac",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553473.403.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:44.113315+00:00"
+    },
+    {
+      "id": "0e76278f-0929-4bbe-9e95-58a973e6fe71",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554559.0703.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:44.88013+00:00"
+    },
+    {
+      "id": "874412a6-3485-4da8-814b-0d3d3db9d439",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555584.1045.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:45.650006+00:00"
+    },
+    {
+      "id": "4747e405-bd65-47af-8851-b9e1a1ec30a1",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557055.6694.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:46.406963+00:00"
+    },
+    {
+      "id": "8f7db999-e50a-4ba2-be6f-fde257343364",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132550433.5837.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:41.943653+00:00"
+    },
+    {
+      "id": "d07ca559-1d23-454e-bd0a-d9f0e2ac65d3",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551556.2283.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:42.703303+00:00"
+    },
+    {
+      "id": "6eb86b76-98a9-46ad-86ab-b43264b3aaf7",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552609.0667.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:43.520633+00:00"
+    },
+    {
+      "id": "341b1e23-e0ff-4a85-a2d0-412560673070",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553734.05.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:44.271054+00:00"
+    },
+    {
+      "id": "bb6e2ca6-b0aa-47ca-a992-504606625d66",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554827.038.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:45.033003+00:00"
+    },
+    {
+      "id": "ccbaac75-d606-4a2a-bea1-44ed3753d8c3",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555825.951.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:45.801517+00:00"
+    },
+    {
+      "id": "4443b3e3-cb6f-4954-ab42-a09699847048",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557428.6865.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:46.575632+00:00"
+    },
+    {
+      "id": "97d64b08-8f12-4d3a-b1dd-cd901580e551",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132550592.0215.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:42.090665+00:00"
+    },
+    {
+      "id": "bdb1461d-74b1-442d-ab87-16768ac12c89",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132551717.2961.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:42.868568+00:00"
+    },
+    {
+      "id": "ed9e5be1-47a0-4001-861f-c93b8c89043a",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132552957.1492.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:43.672188+00:00"
+    },
+    {
+      "id": "4fcb5550-ae55-4c8c-b2d6-e675269cd02b",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132553897.6082.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:44.425994+00:00"
+    },
+    {
+      "id": "b68fe4a1-3e35-414a-a29b-3478a1346889",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132554974.2512.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:45.188845+00:00"
+    },
+    {
+      "id": "9758d575-7d78-44ad-b51b-74987ff63c32",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132555985.7375.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:45.951029+00:00"
+    },
+    {
+      "id": "1c917eae-e456-409c-84c6-ced8d27f608d",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557669.7717.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:46.722863+00:00"
+    },
+    {
+      "id": "558b88bd-16f6-490c-9cf2-9713d639cb72",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132557870.425.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:46.880562+00:00"
+    },
+    {
+      "id": "a0bc6fa1-ecea-40e0-8521-896933a9d3b1",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558889.9219.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:47.655884+00:00"
+    },
+    {
+      "id": "cd46f08d-0eda-4b12-86d0-f10fdbf52a3b",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558077.6985.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:47.036605+00:00"
+    },
+    {
+      "id": "6bb208bb-1aa7-4273-8b04-e4b35fef1e34",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558396.2893.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:47.201979+00:00"
+    },
+    {
+      "id": "34c4012a-6bb0-494f-8093-67b9f03cfe6b",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558591.2703.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:47.351751+00:00"
+    },
+    {
+      "id": "54eccd56-a44b-44d9-8d8c-cd1fc5c662ad",
+      "entity_id": "05144c68-487d-4805-a725-b06ca92d4a9e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/05144c68-487d-4805-a725-b06ca92d4a9e/05144c68-487d-4805-a725-b06ca92d4a9e_1779132558747.0505.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:47.500129+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

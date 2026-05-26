@@ -1,32 +1,310 @@
 {
-  "id": "17e6fd22-247e-4b8d-82c6-d0af4c25f0b7",
-  "slug": "beach-girl-at-home-QRhF5E",
-  "name": "Beach Girl At Home",
-  "entity_type": "shopping",
-  "entity_subtype": "clothing_store",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 223-4914",
-  "email": null,
-  "website_url": "https://www.beachgirlathome.com/",
-  "address_line_1": "3947 AL-59 Suite 240, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.9,
-  "review_count": 12,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7_1779139847058.1055.jpg",
-  "photos": [],
+  "entity": {
+    "id": "17e6fd22-247e-4b8d-82c6-d0af4c25f0b7",
+    "place_id": "ChIJKb9S1roFmogRhXn2CQRhF5E",
+    "google_maps_uri": "https://maps.google.com/?cid=10454931729938807173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "beach-girl-at-home-QRhF5E",
+    "name": "Beach Girl At Home",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "clothing_store",
+    "secondary_types": "",
+    "google_type": "clothing_store",
+    "google_types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 223-4914",
+    "international_phone": null,
+    "website_url": "https://www.beachgirlathome.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3947 AL-59 Suite 240, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3101971,
+    "longitude": -87.6838535,
+    "short_address": "3947 AL-59 Suite 240, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 12,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7_1779139847058.1055.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.804093+00:00",
+    "updated_at": "2026-05-18T21:30:52.357103+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "95e6a9f3-f2d6-4718-b8e4-fadad1d2ae02",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "2b4bf816-a5c8-4cfc-a3b6-68fddd78b553",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "7ed1c1da-ac9b-4015-bfa5-a8f145206b81",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "622fae4b-6ded-426d-b1d1-c71d9d6f3234",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "4f9dfce6-81fb-4e18-be4f-a86335935a7c",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "bb8b9339-3aba-4a8b-a978-9e1b15f3f2ee",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "ecb8d46f-52aa-4d69-92ef-d65a9b6e7393",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "d40ec040-7d7b-477a-beda-d2255840fd08",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "e5ebb3dd-1e5f-485a-a34c-439aa6999f04",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "86bdf922-6e3a-4cda-ba6c-838a6a0a2aa0",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "d5f298a4-d01b-4bc4-b890-90e2169aac22",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "23c57a76-5ee5-4abf-9a48-da85d4e53a96",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "0ef1235e-4be7-48d0-a5bc-549b12a0a016",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "9a1f575c-c140-416a-8ef1-41bfcfbc7d58",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "54ff6fe0-142a-4e52-8994-b2b7dc8ee826",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "99a34171-7fb0-42f7-8420-dfc6a3579933",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "5ca6c803-dafe-4152-82d1-c84d1cb9b107",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "54c5f9d9-972c-414b-8f20-b2ade8001fc4",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    }
+  ],
+  "sections": [
+    {
+      "id": "1e95e720-34c5-46c2-8290-bda4f50673e0",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "724e8e20-861f-474f-b82b-23d89c271752",
+      "entity_id": "17e6fd22-247e-4b8d-82c6-d0af4c25f0b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7_1779139847058.1055.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:59.98118+00:00"
+    },
+    {
+      "id": "dc8a8eae-7869-4966-8ed2-dc446a7b5b5d",
+      "entity_id": "17e6fd22-247e-4b8d-82c6-d0af4c25f0b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7_1779131561688.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:59.672888+00:00"
+    },
+    {
+      "id": "dc212562-e45f-4f3c-8859-53916fbd65ce",
+      "entity_id": "17e6fd22-247e-4b8d-82c6-d0af4c25f0b7",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7/17e6fd22-247e-4b8d-82c6-d0af4c25f0b7_1779132100964.4731.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:59.834563+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

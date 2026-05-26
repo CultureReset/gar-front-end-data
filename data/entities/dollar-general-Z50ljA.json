@@ -1,32 +1,443 @@
 {
-  "id": "7df6ed18-107b-4247-8ef9-11ec5cf666d7",
-  "slug": "dollar-general-Z50ljA",
-  "name": "Dollar General",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "Bargain retail chain selling a range of household goods, groceries, beauty products & more.",
-  "phone": "(251) 214-0018",
-  "email": null,
-  "website_url": "https://www.dollargeneral.com/store-directory/al/orange-beach/5707",
-  "address_line_1": "4225 Orange Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.3,
-  "review_count": 301,
-  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfWwlVeVOSdOEw2mSNHHCJzDLFDnojqv04WB7-8Pa3G4ecrXzf_rMduVPeJSBraPT1oTtTmuQT-Kbh_2fjqqxhgyboCiSZx67spl-Ot6gfwcfdTGi1xl-Tud70P13e5dscDewhl-r7DDSTOVyZrRSkkSasNhGHvYkGCNuMix_Mbw5734GZxfOPnfEifuMYxi6BKBAtjZ7vSt3aY0j9AzUlRFaXa5h0iX5hSChmnnBxS6c7XfZ59OGxj3YOwm4fgILfnn1NTklgJYOKXBc70B6ArKyxVLDgPL8MzZEE0w1tO7FQ&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
-  "photos": [],
+  "entity": {
+    "id": "7df6ed18-107b-4247-8ef9-11ec5cf666d7",
+    "place_id": "ChIJlWY0UPEGmogR1skAnZ50ljA",
+    "google_maps_uri": "https://maps.google.com/?cid=3501113984914868694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "dollar-general-Z50ljA",
+    "name": "Dollar General",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "discount_store",
+    "google_types": [
+      "discount_store",
+      "convenience_store",
+      "gift_shop",
+      "grocery_store",
+      "toy_store",
+      "drugstore",
+      "food_store",
+      "health",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 214-0018",
+    "international_phone": null,
+    "website_url": "https://www.dollargeneral.com/store-directory/al/orange-beach/5707",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4225 Orange Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2863894,
+    "longitude": -87.5817348,
+    "short_address": "4225 Orange Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.3,
+    "review_count": 301,
+    "price_level": "INEXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Bargain retail chain selling a range of household goods, groceries, beauty products & more.",
+    "description": "Bargain retail chain selling a range of household goods, groceries, beauty products & more.",
+    "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfWwlVeVOSdOEw2mSNHHCJzDLFDnojqv04WB7-8Pa3G4ecrXzf_rMduVPeJSBraPT1oTtTmuQT-Kbh_2fjqqxhgyboCiSZx67spl-Ot6gfwcfdTGi1xl-Tud70P13e5dscDewhl-r7DDSTOVyZrRSkkSasNhGHvYkGCNuMix_Mbw5734GZxfOPnfEifuMYxi6BKBAtjZ7vSt3aY0j9AzUlRFaXa5h0iX5hSChmnnBxS6c7XfZ59OGxj3YOwm4fgILfnn1NTklgJYOKXBc70B6ArKyxVLDgPL8MzZEE0w1tO7FQ&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.429275+00:00",
+    "updated_at": "2026-05-17T22:22:54.640946+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "1e0d9fd7-2a35-48ce-a84b-e1c181bd820c",
+      "tag": "dollar-store",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "74dc492e-f9cc-45d6-8acd-8e4976f71de8",
+      "tag": "discount-retail",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "a88c0835-27cb-4e05-ad3e-83060e53bec4",
+      "tag": "general-merchandise",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "b3b65977-0e08-42c4-96be-7ff3699475f6",
+      "tag": "everyday-essentials",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "1093f387-b253-4b2e-8e06-0c0fff98268a",
+      "tag": "budget-shopping",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "8d685229-2734-4a32-89b5-19ba57a3f64b",
+      "tag": "food-and-beverage",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "792d741c-5e66-4501-8968-02da5dd103f0",
+      "tag": "health-and-beauty",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "beba8895-95a7-4aa1-af67-b4607e9c034b",
+      "tag": "household-supplies",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "fb4630ab-a395-4ac0-a717-30d1480b6feb",
+      "tag": "cleaning-products",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "55dfb213-7279-4b2d-9b69-089897e55a8b",
+      "tag": "seasonal-items",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "01afc23a-f06b-4315-bfeb-126a6cce7e25",
+      "tag": "office-supplies",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "5a88eb12-25d8-46a9-acc9-8bf86ea6e04d",
+      "tag": "toys",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "16777a09-4c4f-4307-a9aa-b55492862fdc",
+      "tag": "pet-supplies",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "eafbbe6d-d064-4f8f-a929-64dc1bc262df",
+      "tag": "apparel",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "ba2455e0-f49c-4986-aaf7-4ce288eedde6",
+      "tag": "electronics",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "37a29edb-a3f2-4e46-a3b0-e4182fb66567",
+      "tag": "gift-cards",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "bb96e066-d330-49d1-976e-836736172a64",
+      "tag": "dg-delivery",
+      "tag_category": "search",
+      "sort_order": 16
+    },
+    {
+      "id": "0c70b375-803b-4567-aa80-06ef53ebe0bd",
+      "tag": "dollar store",
+      "tag_category": "search",
+      "sort_order": 17
+    },
+    {
+      "id": "c999d959-e160-42b5-8b47-965ecfb0c926",
+      "tag": "discount retail",
+      "tag_category": "search",
+      "sort_order": 18
+    },
+    {
+      "id": "d04b9f0b-a30a-41a5-8d2b-bce65e803894",
+      "tag": "general merchandise",
+      "tag_category": "search",
+      "sort_order": 19
+    },
+    {
+      "id": "068abb80-e030-466a-b480-b9acf4f73fcf",
+      "tag": "everyday essentials",
+      "tag_category": "search",
+      "sort_order": 20
+    },
+    {
+      "id": "4184f87c-eaa9-401c-804f-62d0a6e0952d",
+      "tag": "budget shopping",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "844f56ef-6513-4d9a-9b95-8c31baf81dc9",
+      "tag": "food and beverage",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "1f9ab7b6-3d91-4c12-8bc3-6b70345e59a8",
+      "tag": "health and beauty",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "fa625486-5070-4a9b-ba19-8a6cb5ddd6e4",
+      "tag": "household supplies",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "0132bc3b-e992-4789-abc8-bde71dbadc63",
+      "tag": "cleaning products",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "6ac8f1cb-17e5-4d5e-a523-918d8e75ed45",
+      "tag": "seasonal items",
+      "tag_category": "search",
+      "sort_order": 26
+    },
+    {
+      "id": "e96466cd-4514-478f-bc32-2449290be089",
+      "tag": "office supplies",
+      "tag_category": "search",
+      "sort_order": 27
+    },
+    {
+      "id": "bb1a4b30-4486-4956-88e0-16d5cc6b2fbf",
+      "tag": "pet supplies",
+      "tag_category": "search",
+      "sort_order": 28
+    },
+    {
+      "id": "97d00fda-72c6-47f1-87a1-02f8f45deb36",
+      "tag": "gift cards",
+      "tag_category": "search",
+      "sort_order": 29
+    },
+    {
+      "id": "12b61a51-169b-4e67-afc0-07774e858645",
+      "tag": "DG Delivery",
+      "tag_category": "search",
+      "sort_order": 30
+    },
+    {
+      "id": "427891d5-c007-4a8a-b31a-67874ee7555d",
+      "tag": "shopping",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "11a4dddc-4f67-4044-adfa-dae0c34bff6f",
+      "tag": "convenience_store",
+      "tag_category": "google_type",
+      "sort_order": 32
+    },
+    {
+      "id": "fbd31c4d-65b0-46e7-a52d-f6d862412ef6",
+      "tag": "drugstore",
+      "tag_category": "google_type",
+      "sort_order": 33
+    },
+    {
+      "id": "7d65c4f7-12dd-4043-a205-4db4a9a77ac6",
+      "tag": "gift_shop",
+      "tag_category": "google_type",
+      "sort_order": 34
+    },
+    {
+      "id": "87850eb3-2bab-4966-919c-0e4bbede51df",
+      "tag": "toy_store",
+      "tag_category": "google_type",
+      "sort_order": 35
+    },
+    {
+      "id": "d90b6167-e4eb-48de-b692-3ee0226099ce",
+      "tag": "discount_store",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "4111d0cb-0ac6-4bc9-aad2-4b40c9fc1b8a",
+      "tag": "grocery_store",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "c6ed2d56-85a6-4cb3-bff0-d5286ae2683a",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "46a632d4-e8b3-497e-8935-f22483ddb5cd",
+      "tag": "health",
+      "tag_category": "google_type",
+      "sort_order": 39
+    },
+    {
+      "id": "062c2e27-c259-4450-93aa-a8a9a0b42bab",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 40
+    },
+    {
+      "id": "c6dad2b2-a4f1-46c6-a5d6-caf20b68712a",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 41
+    },
+    {
+      "id": "2afc9e9b-e6aa-4c00-9255-bd425285ec8c",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 42
+    },
+    {
+      "id": "f295046e-c4e5-4d45-9cf2-09ddf3199469",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 43
+    }
+  ],
+  "sections": [
+    {
+      "id": "dc51ffca-fb34-403a-be4d-e5b50fc70371",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

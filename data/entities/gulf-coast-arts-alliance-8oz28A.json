@@ -1,32 +1,313 @@
 {
-  "id": "c4510bd5-377d-4718-bdd4-c417548bcbe5",
-  "slug": "gulf-coast-arts-alliance-8oz28A",
-  "name": "Gulf Coast Arts Alliance",
-  "entity_type": "shopping",
-  "entity_subtype": "attractions",
-  "icon": "🏪",
-  "description": "GCAA Studio & Gallery is a welcoming home for artists in our community and a quaint little shop for visitors to the Gulf Coast. The Gulf Coast Arts Alliance is dedicated to advancing creativity of the mind and spirit and enhancing the quality of life on the Gulf Coast. GCAA is an Art Gallery and Gift Shop showcasing works by local artists of Gulf Shores, Alabama, and also hosts the Gulf Shores Art Markets.",
-  "phone": "(251) 948-2627",
-  "email": null,
-  "website_url": "http://gulfcoastartsalliance.com/",
-  "address_line_1": "225 E 24th Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.7,
-  "review_count": 70,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/c4510bd5-377d-4718-bdd4-c417548bcbe5/c4510bd5-377d-4718-bdd4-c417548bcbe5_1779139858511.8513.jpg",
-  "photos": [],
+  "entity": {
+    "id": "c4510bd5-377d-4718-bdd4-c417548bcbe5",
+    "place_id": "ChIJVU6qmycFmogRGnq2F8oz28A",
+    "google_maps_uri": "https://maps.google.com/?cid=13896758018256042522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-coast-arts-alliance-8oz28A",
+    "name": "Gulf Coast Arts Alliance",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "attractions",
+    "secondary_types": [],
+    "google_type": "art_gallery",
+    "google_types": [
+      "art_gallery",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-2627",
+    "international_phone": null,
+    "website_url": "http://gulfcoastartsalliance.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "225 E 24th Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2778197,
+    "longitude": -87.684609,
+    "short_address": "225 E 24th Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 70,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "GCAA Studio & Gallery is a welcoming home for artists in our community and a quaint little shop for visitors to the Gulf Coast. The Gulf Coast Arts Alliance is dedicated to advancing creativity of the mind and spirit and enhancing the quality of life on the Gulf Coast. GCAA is an Art Gallery and Gift Shop showcasing works by local artists of Gulf Shores, Alabama, and also hosts the Gulf Shores Art Markets.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/c4510bd5-377d-4718-bdd4-c417548bcbe5/c4510bd5-377d-4718-bdd4-c417548bcbe5_1779139858511.8513.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": null,
+    "hours_text": [
+      "Monday: 10:00 AM – 5:00 PM",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.908176+00:00",
+    "updated_at": "2026-05-18T21:31:03.366179+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "58ff8006-ac47-46c5-937a-1d08f0f3c897",
+      "tag": "art gallery",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "b1d82d3e-2203-412a-a00f-1aabf30e7be5",
+      "tag": "gift shop",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "34c8d404-f7e5-46e3-87b6-5939cf9966d5",
+      "tag": "local artists",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "b4bfb5d4-b87d-4564-99ed-0b28baeb093e",
+      "tag": "art markets",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "fa072b68-fdbc-43ac-bceb-67911e4b0a47",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "460c666b-bb66-4018-82e2-5e6d1c655a93",
+      "tag": "Alabama",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "8cc105de-8721-4899-9bfd-185a114f29c6",
+      "tag": "creative community",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "8f6f657f-3af2-4570-b510-10fabe9ea37b",
+      "tag": "art classes",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "c2fbca92-4615-408c-b7f9-503ea09c792b",
+      "tag": "cultural events",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "bd69f8db-a03a-478f-9de3-435ba3df2e57",
+      "tag": "Attractions",
+      "tag_category": "category",
+      "sort_order": 9
+    },
+    {
+      "id": "f06ba97b-9fe0-4572-806e-1c727c4db8e5",
+      "tag": "Art Galleries",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "4e36a8ee-fe9d-4ead-ac95-1e2a5755e952",
+      "tag": "Gift Shops",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "068d2047-0051-4147-8de3-bba5408a87ca",
+      "tag": "Arts & Culture",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "7ce1d1dc-5ba1-4397-b56a-ca555104c4de",
+      "tag": "Shopping",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "be3f7270-5f43-4ef3-8323-0d4a62270d76",
+      "tag": "Classes & Workshops",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "4eb90fca-69a4-4a29-bee7-4aa3ee77a39c",
+      "tag": "arts-and-culture",
+      "tag_category": "industry",
+      "sort_order": 15
+    },
+    {
+      "id": "ae0743b8-dae7-4e8e-ba0b-d3687f21c5a2",
+      "tag": "attractions",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "cd58fb40-52da-4423-964d-1f2d9cb6c9ce",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "5797cc42-2f56-4b47-9703-bb4a5a9bb9ab",
+      "tag": "art",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "959d539c-fd68-482d-84a0-7a6657eb5644",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "1460fb2e-fe17-4204-b5b5-1317591fc689",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 20
+    },
+    {
+      "id": "b42c18af-fdff-41ed-89f9-f6525fd5a0dd",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 21
+    },
+    {
+      "id": "fd7e41d0-5268-4323-894f-f5f62cb619b3",
+      "tag": "art_gallery",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "64d7e0f0-c412-42d9-9731-c986ca0563cd",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 23
+    }
+  ],
+  "sections": [
+    {
+      "id": "98984c5f-00b9-49e3-8f91-564afa3b22ac",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

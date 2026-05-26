@@ -1,32 +1,241 @@
 {
-  "id": "d35e384c-14f0-41f4-a1b7-fbe81325830f",
-  "slug": "coastal-alabama-golf-qkmO8E",
-  "name": "Coastal Alabama Golf",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 968-5339",
-  "email": null,
-  "website_url": "http://coastalalabamagolf.com/",
-  "address_line_1": "3840 Cotton Creek Cir, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4,
-  "review_count": 2,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/d35e384c-14f0-41f4-a1b7-fbe81325830f/d35e384c-14f0-41f4-a1b7-fbe81325830f_1779139796160.1763.jpg",
-  "photos": [],
+  "entity": {
+    "id": "d35e384c-14f0-41f4-a1b7-fbe81325830f",
+    "place_id": "ChIJVYCCJHIFmogRO2vN9qkmO8E",
+    "google_maps_uri": "https://maps.google.com/?cid=13923765184378006331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "coastal-alabama-golf-qkmO8E",
+    "name": "Coastal Alabama Golf",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": [],
+    "google_type": "golf_course",
+    "google_types": [
+      "golf_course",
+      "athletic_field",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-5339",
+    "international_phone": null,
+    "website_url": "http://coastalalabamagolf.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3840 Cotton Creek Cir, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.3049681,
+    "longitude": -87.6664568,
+    "short_address": "3840 Cotton Creek Cir, Gulf Shores",
+    "plus_code": null,
+    "rating": 4,
+    "review_count": 2,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/d35e384c-14f0-41f4-a1b7-fbe81325830f/d35e384c-14f0-41f4-a1b7-fbe81325830f_1779139796160.1763.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.009375+00:00",
+    "updated_at": "2026-05-18T21:30:01.09913+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ca839afe-f110-4b29-aeb6-f86c30d6db2d",
+      "tag": "sports activity location",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "da61c01b-3b57-4234-861a-886888627533",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "b1edf9b0-a8a7-47c4-bb60-b9a9c6082221",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "28e9d88b-d390-4750-a6b7-815602cb6e7c",
+      "tag": "golf course",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "ba55cb54-bbf0-4d20-a15f-513002805475",
+      "tag": "athletic field",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "3188dd2c-8306-4639-b7c0-aad2c41f5ede",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "3d0ebe0b-0c52-4758-a076-93c59d369311",
+      "tag": "golf",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "1d04087d-7518-496e-837b-ffe6ffa83096",
+      "tag": "golf_course",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "9eabb72b-bfac-4167-8933-9882afcd69bc",
+      "tag": "athletic_field",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "43dde8f9-c5da-461d-a665-79c64dfeadea",
+      "tag": "sports_activity_location",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "67eca915-300b-419a-a087-e0612807cedc",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 10
+    }
+  ],
+  "sections": [
+    {
+      "id": "96a6ffe0-9937-48fe-be98-c5ff4fdf4604",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,316 @@
 {
-  "id": "bb5436f5-78da-4d34-9ec8-db37323541a0",
-  "slug": "the-beach-bun-vW6Q0I",
-  "name": "The Beach Bun",
-  "entity_type": "artist",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "The Beach Bun brings burgers, dogs, and more to Orange Beach! Family-owned, fun, and full of flavor—come grab your new go-to meal.",
-  "phone": "(251) 398-2866",
-  "email": null,
-  "website_url": "https://thebeachbunoba.com/",
-  "address_line_1": "25775 Perdido Beach Blvd Ste A, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.6,
-  "review_count": 48,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/bb5436f5-78da-4d34-9ec8-db37323541a0/bb5436f5-78da-4d34-9ec8-db37323541a0_1779139754134.9368.jpg",
-  "photos": [],
+  "entity": {
+    "id": "bb5436f5-78da-4d34-9ec8-db37323541a0",
+    "place_id": "ChIJtaI2MfAHmogRgmx5KvW6Q0I",
+    "google_maps_uri": "https://maps.google.com/?cid=4774865592085212290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "the-beach-bun-vW6Q0I",
+    "name": "The Beach Bun",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 398-2866",
+    "international_phone": null,
+    "website_url": "https://thebeachbunoba.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25775 Perdido Beach Blvd Ste A, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2705503,
+    "longitude": -87.5873466,
+    "short_address": "25775 Perdido Beach Blvd Ste A, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 48,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "The Beach Bun brings burgers, dogs, and more to Orange Beach! Family-owned, fun, and full of flavor—come grab your new go-to meal.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/bb5436f5-78da-4d34-9ec8-db37323541a0/bb5436f5-78da-4d34-9ec8-db37323541a0_1779139754134.9368.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 6:00 PM",
+      "Tuesday: 11:00 AM – 6:00 PM",
+      "Wednesday: 11:00 AM – 6:00 PM",
+      "Thursday: 11:00 AM – 6:00 PM",
+      "Friday: 11:00 AM – 8:00 PM",
+      "Saturday: 11:00 AM – 8:00 PM",
+      "Sunday: 11:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://thebeachbunoba.com",
+      "menu": {
+        "categories": []
+      },
+      "tags": [
+        "burgers",
+        "hot dogs",
+        "american",
+        "family-owned",
+        "casual",
+        "beach",
+        "orange beach",
+        "alabama"
+      ],
+      "type": "Restaurant",
+      "about": {
+        "chef": null,
+        "vibe": "Casual, fun, family-friendly beach eatery",
+        "owner": null,
+        "press": [],
+        "awards": [],
+        "parking": null,
+        "best_for": [
+          "families",
+          "casual dining",
+          "groups",
+          "lunch"
+        ],
+        "dress_code": null,
+        "description": "The Beach Bun brings burgers, dogs, and more to Orange Beach! Family-owned, fun, and full of flavor—come grab your new go-to meal.",
+        "established": null,
+        "insider_tip": null,
+        "reservations": null,
+        "accessibility": null,
+        "elevator_pitch": "A family-owned burger and hot dog joint on the Alabama Gulf Coast serving up fun, flavorful meals in a laid-back beach atmosphere.",
+        "age_restriction": null
+      },
+      "hours": {
+        "notes": null,
+        "friday": "11:00am — 08:00pm",
+        "monday": "11:00am — 06:00pm",
+        "sunday": "11:00am — 06:00pm",
+        "tuesday": "11:00am — 06:00pm",
+        "saturday": "11:00am — 08:00pm",
+        "thursday": "11:00am — 06:00pm",
+        "wednesday": "11:00am — 06:00pm"
+      },
+      "events": [],
+      "contact": {
+        "zip": "36561",
+        "city": "Orange Beach",
+        "email": "TheBeachBun@LyonsDenHoldingsLLC.com",
+        "phone": "(251) 398-2866",
+        "state": "AL",
+        "address": "25775 Perdido Beach Blvd Ste A"
+      },
+      "gallery": [
+        "https://images.squarespace-cdn.com/content/v1/68acd15c6edb8d343d937dea/c188edcd-ed5a-4fd8-b215-f43131dbfc8e/beachbun.jpg"
+      ],
+      "sources": [
+        "https://thebeachbunoba.com"
+      ],
+      "tagline": "Family-Owned Burgers & Dogs in Orange Beach",
+      "features": [],
+      "hashtags": [
+        "#thebeachbun",
+        "#orangebeach",
+        "#orangebeachal",
+        "#gulfcoast",
+        "#alabamarestaurants",
+        "#burgers",
+        "#hotdogs",
+        "#beachfood",
+        "#familyowned",
+        "#beachbun"
+      ],
+      "specials": [],
+      "atmosphere": [
+        "Casual",
+        "Family-Friendly",
+        "Beach Vibe",
+        "Fun"
+      ],
+      "categories": [
+        "Restaurant",
+        "Burger Joint",
+        "Fast Casual"
+      ],
+      "scraped_at": "2026-03-21T13:19:26.449Z",
+      "price_range": "$",
+      "extracted_at": "2026-03-21T13:28:16.802Z",
+      "neighborhood": null,
+      "social_links": {
+        "yelp": null,
+        "tiktok": null,
+        "twitter": null,
+        "website": "https://thebeachbunoba.com",
+        "youtube": null,
+        "facebook": null,
+        "instagram": null,
+        "opentable": null,
+        "google_maps": null,
+        "tripadvisor": null
+      },
+      "business_name": "The Beach Bun",
+      "cuisine_types": [
+        "American",
+        "Burgers",
+        "Hot Dogs"
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.198986+00:00",
+    "updated_at": "2026-05-18T21:29:19.374506+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "5f37412e-44eb-4611-902c-c2ef4cea663e",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "04c6e9d9-d45a-425d-9c78-a9d7d8aa40d6",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "b382c13c-b767-478f-a09e-7a41618ba30d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "8f419858-bf31-4355-aaf8-baf7f351924b",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 3
+    }
+  ],
+  "sections": [
+    {
+      "id": "1b9cbc22-98a1-4316-8d55-a9577b865c90",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

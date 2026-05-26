@@ -1,69 +1,229 @@
 {
-  "id": "5f600d45-2ecb-479f-922b-ce1fb13b3eea",
-  "slug": "legacy-carwash-and-detailing-aMM778",
-  "name": "Legacy Carwash and detailing",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 533-9506",
-  "email": null,
-  "address_line_1": "2300 S McKenzie St, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "https://www.facebook.com/profile.php?id=100094772135429&mibextid=ZbWKwL",
-  "rating": 4.8,
-  "review_count": 49,
-  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfUSLcFUEuS5dAxAbpaXivCaaFCcamAP5wdW6mFbD-57hECBtjE1A-xyZoug_bzbV6iwYa8ILJCsa9CCKtxMIts-QhxvYda83TUwMcCx7Q2tFIwNaPWzj8vadr20JpNrHHEuN7NTmj5P0AH4nPARQXEUkI3zDKN57K5vmsx92XIoCLPGyUCYuX_ulzThbjqG9k53E16dnqJUcFM_XtCZokM_2X2RSj_ZJ2WdF8kmEhjxsVk_zBGfQI8Yzf4oka5870UD11mghTcMfXfzvK0fxNg7EBk3kiyD3UUYbPldxmqUZw&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "5f600d45-2ecb-479f-922b-ce1fb13b3eea",
+    "place_id": "ChIJTW0deWMPmogR2rb07aMM778",
+    "google_maps_uri": "https://maps.google.com/?cid=13830286878889522906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "legacy-carwash-and-detailing-aMM778",
+    "name": "Legacy Carwash and detailing",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "car_wash",
+    "google_types": [
+      "car_wash",
+      "convenience_store",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 533-9506",
+    "international_phone": null,
+    "website_url": "https://www.facebook.com/profile.php?id=100094772135429&mibextid=ZbWKwL",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2300 S McKenzie St, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3818808,
+    "longitude": -87.6838074,
+    "short_address": "2300 S McKenzie St, Foley",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 49,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfUSLcFUEuS5dAxAbpaXivCaaFCcamAP5wdW6mFbD-57hECBtjE1A-xyZoug_bzbV6iwYa8ILJCsa9CCKtxMIts-QhxvYda83TUwMcCx7Q2tFIwNaPWzj8vadr20JpNrHHEuN7NTmj5P0AH4nPARQXEUkI3zDKN57K5vmsx92XIoCLPGyUCYuX_ulzThbjqG9k53E16dnqJUcFM_XtCZokM_2X2RSj_ZJ2WdF8kmEhjxsVk_zBGfQI8Yzf4oka5870UD11mghTcMfXfzvK0fxNg7EBk3kiyD3UUYbPldxmqUZw&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 9:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:14.746401+00:00",
+    "updated_at": "2026-05-18T21:06:59.577519+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "d4e2848e-9309-463c-9200-7055dcfbcdd7",
       "tag": "shopping",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 0
     },
     {
+      "id": "956907b3-76d8-4952-887a-d7a7c480c65c",
       "tag": "convenience_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 1
     },
     {
+      "id": "25ad6c6e-c398-41ca-8e7b-7f8486c55b41",
       "tag": "car_wash",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "dd9ff37d-d87c-49d2-8f0f-e262d6de6ce3",
       "tag": "food_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "9fa77e6c-d8cd-4876-bba8-6e1db561fc81",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "d2903456-0783-4675-896c-edd40b52598e",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "45964b52-eb73-4a24-96cf-39293aeecc23",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "b728aa99-03db-490a-8d77-5c1064fff346",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "27636d16-6b53-4541-9392-9f1070361997",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "1d093434-0726-4e1f-bea0-3fa6b04437b2",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

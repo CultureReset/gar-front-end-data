@@ -1,32 +1,262 @@
 {
-  "id": "ba26e40a-887a-4288-9160-7f6291a4e3d9",
-  "slug": "branyon-beach-OPB2vk",
-  "name": "Branyon Beach",
-  "entity_type": "park",
-  "entity_subtype": "hiking_area",
-  "icon": "🏪",
-  "description": "",
-  "phone": null,
-  "email": null,
-  "website_url": null,
-  "address_line_1": "22249 E Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 22,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/ba26e40a-887a-4288-9160-7f6291a4e3d9/ba26e40a-887a-4288-9160-7f6291a4e3d9_1779139846535.821.jpg",
-  "photos": [],
+  "entity": {
+    "id": "ba26e40a-887a-4288-9160-7f6291a4e3d9",
+    "place_id": "ChIJKSqwZFMFmogRy5x7bOPB2vk",
+    "google_maps_uri": "https://maps.google.com/?cid=18003915642888756427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "branyon-beach-OPB2vk",
+    "name": "Branyon Beach",
+    "subtitle": null,
+    "entity_type": "park",
+    "entity_subtype": "hiking_area",
+    "secondary_types": [],
+    "google_type": "hiking_area",
+    "google_types": [
+      "hiking_area",
+      "sports_activity_location",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "22249 E Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2513379,
+    "longitude": -87.6533333,
+    "short_address": "22249 E Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 22,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/ba26e40a-887a-4288-9160-7f6291a4e3d9/ba26e40a-887a-4288-9160-7f6291a4e3d9_1779139846535.821.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false
+    },
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.804093+00:00",
+    "updated_at": "2026-05-18T21:30:51.650818+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ed29c244-555d-4955-8628-dd3211cedbec",
+      "tag": "hiking area",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "4a7766a9-8d15-49dd-a484-0b8c89857f2a",
+      "tag": "hiking area",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "aca6afb7-69bf-495f-bd1a-8dba6d53361d",
+      "tag": "sports activity location",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "cf771058-9bb7-4f6b-ba77-2b50344fce59",
+      "tag": "sports activity location",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "a1b2ee0f-104d-4dbf-ad60-fcdb127efd2b",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "e8cc094e-2a4d-410e-86c4-6fe71c92a397",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "10e393d2-2c45-47b3-ad40-d1c36fe6f780",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "87f77f1e-e556-456f-accb-95a208582f79",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "4ac645bb-1351-4f3c-a0d0-25d3e08a685a",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "e28e283c-0e4d-41fd-84e1-dfb49d92287b",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "6d559ef9-774e-48e2-992a-dc5e129265cf",
+      "tag": "hiking_area",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "71c0c6c3-6275-47b5-9aea-db9638de437a",
+      "tag": "hiking_area",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "24e1b38f-163d-45c3-a7fd-a136ad8431b7",
+      "tag": "sports_activity_location",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "c470b495-df83-4044-ac2b-42e5a0c3246d",
+      "tag": "sports_activity_location",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "551c2dc6-4403-4294-a39a-1728d5704345",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "aebb08fc-830d-4c7b-9e93-1b416ed3175e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "04eb458d-8f16-4b9f-908f-8a37562265fd",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

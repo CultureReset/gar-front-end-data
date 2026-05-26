@@ -1,32 +1,345 @@
 {
-  "id": "0604b9f1-e65c-468d-8551-6a53f3eb226b",
-  "slug": "distraction-charters-xYVEhU",
-  "name": "Distraction Charters",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "{\"description\":null,\"elevator_pitch\":null,\"vibe\":null,\"best_for\":[],\"capacity\":null,\"duration_options\":[],\"departure_location\":null,\"what_provided\":[],\"what_to_bring\":[],\"age_restriction\":null,\"weight_restriction\":null,\"reservations\":null,\"cancellation_policy\":null,\"insider_tip\":null}",
-  "phone": "(251) 975-8111",
-  "email": null,
-  "website_url": "https://distractioncharters.com/",
-  "address_line_1": "27075 Marina Rd Slip E-12, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "27075",
-  "rating": 5,
-  "review_count": 940,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0604b9f1-e65c-468d-8551-6a53f3eb226b/0604b9f1-e65c-468d-8551-6a53f3eb226b_1779139777017.3574.jpg",
-  "photos": [],
+  "entity": {
+    "id": "0604b9f1-e65c-468d-8551-6a53f3eb226b",
+    "place_id": "ChIJG-i2e6MHmogRWLct5xYVEhU",
+    "google_maps_uri": "https://maps.google.com/?cid=1518299212489275224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "distraction-charters-xYVEhU",
+    "name": "Distraction Charters",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": "",
+    "google_type": "fishing_charter",
+    "google_types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 975-8111",
+    "international_phone": null,
+    "website_url": "https://distractioncharters.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27075 Marina Rd Slip E-12, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "27075",
+    "latitude": 30.2833965,
+    "longitude": -87.5640655,
+    "short_address": "27075 Marina Rd Slip E-12, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 940,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":null,\"elevator_pitch\":null,\"vibe\":null,\"best_for\":[],\"capacity\":null,\"duration_options\":[],\"departure_location\":null,\"what_provided\":[],\"what_to_bring\":[],\"age_restriction\":null,\"weight_restriction\":null,\"reservations\":null,\"cancellation_policy\":null,\"insider_tip\":null}",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0604b9f1-e65c-468d-8551-6a53f3eb226b/0604b9f1-e65c-468d-8551-6a53f3eb226b_1779139777017.3574.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 5:30 AM – 9:00 PM",
+      "Tuesday: 5:30 AM – 9:00 PM",
+      "Wednesday: 5:30 AM – 9:00 PM",
+      "Thursday: 5:30 AM – 9:00 PM",
+      "Friday: 5:30 AM – 9:00 PM",
+      "Saturday: 5:30 AM – 9:00 PM",
+      "Sunday: 5:30 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://distractioncharters.com",
+      "tags": [],
+      "type": "Unknown",
+      "about": {
+        "vibe": null,
+        "best_for": [],
+        "capacity": null,
+        "description": null,
+        "insider_tip": null,
+        "reservations": null,
+        "what_provided": [],
+        "what_to_bring": [],
+        "elevator_pitch": null,
+        "age_restriction": null,
+        "duration_options": [],
+        "departure_location": null,
+        "weight_restriction": null,
+        "cancellation_policy": null
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null
+      },
+      "gallery": [],
+      "sources": [
+        "https://distractioncharters.com"
+      ],
+      "tagline": null,
+      "features": [],
+      "packages": [],
+      "specials": [],
+      "scraped_at": "2026-03-21T19:48:14.749Z",
+      "extracted_at": "2026-03-23T03:38:37.069Z",
+      "social_links": {
+        "website": "https://distractioncharters.com",
+        "facebook": null,
+        "instagram": null,
+        "tripadvisor": null
+      },
+      "business_name": "Distraction Charters",
+      "extraction_note": "Website returned 403 Forbidden error - no business data could be extracted. The page is not accessible."
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.45857+00:00",
+    "updated_at": "2026-05-18T21:29:42.105831+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "932931d8-3cc9-4a16-91fb-e8ac132bab61",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "2f583eaa-6cd7-4cfb-8656-95d83ddbaf15",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "a48b7f7f-7e43-48ad-95f1-750915e26617",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "54608b3e-8f2d-49d3-af47-8e7be0472d8a",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "5a9676b4-b54b-4465-8cfa-76c2bc972958",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "03cea07b-35f8-4f10-84f1-1ea91f232516",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "5506057d-c281-4cd6-9c80-8d95b31841b9",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "cf226d3c-ce52-43d3-a1b5-11bc0dfa9923",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "d04dcbcb-ec96-434e-9e41-eb000a658c6f",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "378143cd-c906-4d32-aa53-5f5be8b66e14",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "5ed3d2db-49fd-4514-82f4-cab7acfd505a",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "2bac9d92-25ba-48ee-9b17-7b1301d26c84",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "7b9f9daf-a76a-4c87-8462-697d6f42d91b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "782335f8-c131-4af6-a027-8089a2c672f4",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "af18610a-90d7-4e65-9510-85a160d6ca9c",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "037d0a71-4ed5-4ae2-877b-04ce2f2b15dd",
+      "entity_id": "0604b9f1-e65c-468d-8551-6a53f3eb226b",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0604b9f1-e65c-468d-8551-6a53f3eb226b/0604b9f1-e65c-468d-8551-6a53f3eb226b_1779131492995.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:47.885974+00:00"
+    },
+    {
+      "id": "bb283111-52e0-4dfb-9d32-c4f2f4df3076",
+      "entity_id": "0604b9f1-e65c-468d-8551-6a53f3eb226b",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0604b9f1-e65c-468d-8551-6a53f3eb226b/0604b9f1-e65c-468d-8551-6a53f3eb226b_1779132031357.9807.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:48.039222+00:00"
+    },
+    {
+      "id": "f0b59aea-e3a5-4fd3-a1d4-3d83c9ee523c",
+      "entity_id": "0604b9f1-e65c-468d-8551-6a53f3eb226b",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0604b9f1-e65c-468d-8551-6a53f3eb226b/0604b9f1-e65c-468d-8551-6a53f3eb226b_1779139777017.3574.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:48.207998+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

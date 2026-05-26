@@ -1,32 +1,1057 @@
 {
-  "id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
-  "slug": "barometer-waterfront-grille-VRmxM0",
-  "name": "Barometer Waterfront Grille",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Barometer Waterfront Grille is a Gulf Coast gem, combining fresh, expertly crafted seafood dishes with coastal-inspired cuisine and handcrafted cocktails. Nestled along the water, this must-visit destination offers a relaxing atmosphere perfect for savoring tropical flavors while soaking in breathtaking waterfront views. Whether you're enjoying a casual meal or a special occasion, Barometer Waterfront Grille delivers an unforgettable dining experience with a true taste of paradise. The menu features fresh, locally-sourced ingredients crafted into coastal classics and modern favorites. From signature coastal-inspired creations to timeless classics, each drink is expertly prepared with high-quality ingredients and creative flair. Whether you're in the mood for a tropical escape or a bold, spirited blend, the bar has something to delight every taste.",
-  "phone": "(251) 451-5232",
-  "email": null,
-  "website_url": "https://www.barometerorangebeach.com/",
-  "address_line_1": "27842 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.7,
-  "review_count": 255,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb725330-7a9c-4e23-b8c2-bb401cbd1dde/eb725330-7a9c-4e23-b8c2-bb401cbd1dde_1779139724147.697.jpg",
-  "photos": [],
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
+    "place_id": "ChIJE50dMvAHmogRKm7VtVRmxM0",
+    "google_maps_uri": "https://maps.google.com/?cid=14827088387224464938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "barometer-waterfront-grille-VRmxM0",
+    "name": "Barometer Waterfront Grille",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 451-5232",
+    "international_phone": null,
+    "website_url": "https://www.barometerorangebeach.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27842 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2935972,
+    "longitude": -87.5506918,
+    "short_address": "27842 Canal Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 255,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Barometer Waterfront Grille is a Gulf Coast gem, combining fresh, expertly crafted seafood dishes with coastal-inspired cuisine and handcrafted cocktails. Nestled along the water, this must-visit destination offers a relaxing atmosphere perfect for savoring tropical flavors while soaking in breathtaking waterfront views. Whether you're enjoying a casual meal or a special occasion, Barometer Waterfront Grille delivers an unforgettable dining experience with a true taste of paradise. The menu features fresh, locally-sourced ingredients crafted into coastal classics and modern favorites. From signature coastal-inspired creations to timeless classics, each drink is expertly prepared with high-quality ingredients and creative flair. Whether you're in the mood for a tropical escape or a bold, spirited blend, the bar has something to delight every taste.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/eb725330-7a9c-4e23-b8c2-bb401cbd1dde/eb725330-7a9c-4e23-b8c2-bb401cbd1dde_1779139724147.697.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/barometerwaterfrontgrille",
+    "social_facebook": "https://www.facebook.com/profile.php?id=61570405859333",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 9:00 AM – 10:00 PM",
+      "Sunday: 9:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": {
+        "categories": []
+      },
+      "hours": {
+        "friday": "11am-10pm",
+        "monday": "11am-10pm",
+        "sunday": "9am-10pm",
+        "tuesday": "11am-10pm",
+        "saturday": "9am-10pm",
+        "thursday": "11am-10pm",
+        "wednesday": "11am-10pm"
+      },
+      "images": [],
+      "contact": {
+        "zip": "36561",
+        "city": "Orange Beach",
+        "email": "raquel@barometergrill.com",
+        "phone": "(251) 451-5232",
+        "state": "AL",
+        "address": "27842 Canal Rd",
+        "website": "https://www.barometerorangebeach.com/"
+      },
+      "features": [
+        "full bar",
+        "outdoor seating",
+        "waterfront views",
+        "handcrafted cocktails",
+        "live music",
+        "private events",
+        "boat docking",
+        "casual dining",
+        "special occasions",
+        "brunch"
+      ],
+      "specials": [
+        {
+          "days": [
+            "Thursday",
+            "Friday"
+          ],
+          "name": "Live Music",
+          "time": null,
+          "description": "Live music every Thursday & Friday"
+        }
+      ],
+      "description": "Barometer Waterfront Grille is a Gulf Coast gem, combining fresh, expertly crafted seafood dishes with coastal-inspired cuisine and handcrafted cocktails. Nestled along the water, this must-visit destination offers a relaxing atmosphere perfect for savoring tropical flavors while soaking in breathtaking waterfront views. Whether you're enjoying a casual meal or a special occasion, Barometer Waterfront Grille delivers an unforgettable dining experience with a true taste of paradise.",
+      "price_range": null,
+      "cuisine_type": "Seafood, Coastal-inspired",
+      "extracted_at": "2026-05-16T19:08:44.657Z",
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": "@barometerwaterfrontgrille"
+      },
+      "business_name": "Barometer Waterfront Grille",
+      "private_events": {
+        "total_capacity": 250,
+        "deposit_required": "50%",
+        "outdoor_capacity": 40,
+        "upstairs_capacity": 75,
+        "cancellation_policy": "2 weeks",
+        "downstairs_capacity": 166,
+        "boat_slips_available": 10,
+        "event_coordinator_email": "raquel@barometergrill.com",
+        "minimum_advance_booking": "30 days"
+      }
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "all-businesses",
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.140955+00:00",
+    "updated_at": "2026-05-18T21:28:49.058209+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "0fe4d9d3-9e29-4cba-b054-251ae581fe24",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "d87535d7-389f-4906-ada3-7961a1849df7",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "91a79df7-5592-4853-8597-2dc0f693d208",
+      "tag": "cocktails",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "cca3191c-b552-46a2-a481-fb9acb207803",
+      "tag": "cocktails",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "429be40d-89c3-4975-8cfe-66f7d1c03fa7",
+      "tag": "brunch",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "68549f42-d35a-4b2f-8383-656ac8148c3a",
+      "tag": "brunch",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "b076079c-7427-43dc-8b86-4a1fadfc62bf",
+      "tag": "live music",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "572f6920-d44b-4119-a291-9cbcac23c313",
+      "tag": "live music",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "65a2c763-a2af-492a-a7ec-147c9cb0a3a0",
+      "tag": "oysters",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "ad15eb91-74b3-45f8-bbf0-42ccac8e78f4",
+      "tag": "oysters",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "9cc7a2c2-8e99-4c24-b4b5-557fbb2e9621",
+      "tag": "waterfront_dining",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "ac59ba2b-cf34-43de-ac70-f563ba79dc46",
+      "tag": "waterfront_dining",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "fef7a35d-348e-4722-8d5e-441f8738775a",
+      "tag": "coastal_cuisine",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "13d5c473-2f5a-4e64-a613-e730e6e13ce4",
+      "tag": "coastal_cuisine",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "027a9aa1-e6aa-46c7-8dd0-17bc7df20913",
+      "tag": "orange_beach",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "11d565eb-d706-434f-8d71-9074c169b231",
+      "tag": "orange_beach",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "6af0bb28-d32f-4d0a-9bcf-16979dd6106c",
+      "tag": "casual_dining",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "4dee824f-e5df-44cc-b812-a73db962d715",
+      "tag": "casual_dining",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "3515492b-909a-48a8-9319-b67b122e8af7",
+      "tag": "tiki_bar",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "a6054401-7fe8-4ade-b125-1a22e68cabe9",
+      "tag": "tiki_bar",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "79daf8d7-aa62-411f-aa32-e8a509234085",
+      "tag": "fresh_fish",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "2b8857de-123d-40f8-8968-f11285c94c02",
+      "tag": "fresh_fish",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "cfbce0ad-090a-4dda-8c38-7059e7e80c5b",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 11
+    },
+    {
+      "id": "af696940-0def-41ec-af2b-8c82291be021",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 11
+    },
+    {
+      "id": "a509667f-5543-457c-8f6f-82241e2f2864",
+      "tag": "date_night",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "dd37ae2c-63e8-4144-97c6-577bbc5547eb",
+      "tag": "date_night",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "07db0d8c-625f-4a2d-b391-f71bcad03b52",
+      "tag": "boat_dining",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "7706d350-f50f-4e49-ba88-7e51a1a91ecf",
+      "tag": "boat_dining",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "e730c154-9d76-44c5-b55e-0599ed1aade2",
+      "tag": "sunset_views",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "11bcbeba-b217-463c-9a3c-d08610738d38",
+      "tag": "sunset_views",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "dc69eab7-1e47-4eef-be27-871f4d26078e",
+      "tag": "gulf_coast",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "272a6e80-c02c-4827-b425-8d68c3001651",
+      "tag": "gulf_coast",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "c68b3633-71be-4e7d-b57c-768fc4d1ec1e",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 16
+    },
+    {
+      "id": "e81713e5-b387-4f44-9814-1c0fa90680a0",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 16
+    },
+    {
+      "id": "73b82be0-f500-4e7c-a5ea-b9773f2d786d",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 17
+    },
+    {
+      "id": "ab58942a-230b-4765-98b1-9aa425ce082c",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 17
+    },
+    {
+      "id": "1f9f3e69-7cfb-4344-a17e-79ed03450cad",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 18
+    },
+    {
+      "id": "6e5a8e2e-4cb0-4e0c-adb4-72b28d6f7a66",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 18
+    },
+    {
+      "id": "fc3d8586-bbb9-44fe-ae9e-8b51d4f01518",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 19
+    },
+    {
+      "id": "28291709-6c4a-43d4-b0fe-e5aeebf7df09",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 19
+    },
+    {
+      "id": "1a8298b8-f5e1-4bbe-87cd-cf4384bc4dd8",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 20
+    },
+    {
+      "id": "5f1d42e9-5ad9-414d-a230-25628ebf3403",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 20
+    },
+    {
+      "id": "8ce25d30-ea02-4320-956e-b415047626b9",
+      "tag": "waterfront dining",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "5af0ba87-798f-4d6b-b7c0-0a59556a299c",
+      "tag": "waterfront dining",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "b9173349-4209-4c0c-81fd-d27a70943fb8",
+      "tag": "coastal cuisine",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "f6653a69-3e28-4a8c-9d50-21b6e582de47",
+      "tag": "coastal cuisine",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "1410c0a6-c727-48a1-980d-f8c2ca9a2b54",
+      "tag": "Orange Beach",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "85ce77c4-ac48-46b0-97f3-66e4d65d70c7",
+      "tag": "Orange Beach",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "39f0aa5f-f269-497d-919c-28fd9b99639d",
+      "tag": "date night",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "d68fc5c3-12a5-470a-9d80-c732c8d22ad7",
+      "tag": "date night",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "540dd3d7-8302-4a34-bb2d-47a9cf3628f5",
+      "tag": "boat dining",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "7539cb56-806e-4c33-b694-aa3cd6c16cd2",
+      "tag": "boat dining",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "a232cdd3-8ef0-4515-90b9-689607b9f0b2",
+      "tag": "live_music",
+      "tag_category": "amenity",
+      "sort_order": 26
+    },
+    {
+      "id": "bc22f75b-9d09-4e9d-a040-4dc323043b9f",
+      "tag": "live_music",
+      "tag_category": "amenity",
+      "sort_order": 26
+    },
+    {
+      "id": "c84192fd-457d-46f9-8c2c-22d3dfc36959",
+      "tag": "casual dining",
+      "tag_category": "search",
+      "sort_order": 27
+    },
+    {
+      "id": "0fe4aa53-5f50-411f-ab9e-0e70271152b7",
+      "tag": "casual dining",
+      "tag_category": "search",
+      "sort_order": 27
+    },
+    {
+      "id": "aeebefac-abf9-4962-b2bf-3b184fef7bee",
+      "tag": "fresh fish",
+      "tag_category": "search",
+      "sort_order": 28
+    },
+    {
+      "id": "19a06f65-b8b2-4ab7-8afc-dbde4d6babad",
+      "tag": "fresh fish",
+      "tag_category": "search",
+      "sort_order": 28
+    },
+    {
+      "id": "51217ca8-f261-4c1a-99e8-4ec201ad3d73",
+      "tag": "tiki bar",
+      "tag_category": "search",
+      "sort_order": 29
+    },
+    {
+      "id": "04c02a65-dfff-43ba-ac6d-ece6a86e73a4",
+      "tag": "tiki bar",
+      "tag_category": "search",
+      "sort_order": 29
+    },
+    {
+      "id": "86d3a34f-2202-4c81-895a-21cf4c6742ff",
+      "tag": "happy hour",
+      "tag_category": "search",
+      "sort_order": 30
+    },
+    {
+      "id": "75327c62-08d9-4897-9db8-d909bdb680e6",
+      "tag": "happy hour",
+      "tag_category": "search",
+      "sort_order": 30
+    },
+    {
+      "id": "e1ba33c9-299f-40b6-bb54-3567d9a80b49",
+      "tag": "Gulf Coast",
+      "tag_category": "search",
+      "sort_order": 31
+    },
+    {
+      "id": "66a73180-d04a-4282-b15a-7cb119378364",
+      "tag": "Gulf Coast",
+      "tag_category": "search",
+      "sort_order": 31
+    },
+    {
+      "id": "e7d5b0f2-88ec-443b-96df-a19a0aa0d002",
+      "tag": "sunset views",
+      "tag_category": "search",
+      "sort_order": 32
+    },
+    {
+      "id": "27149994-b2e5-4b8b-8fa8-f4c9a6b664ea",
+      "tag": "sunset views",
+      "tag_category": "search",
+      "sort_order": 32
+    },
+    {
+      "id": "0ea96d01-fcba-4e07-aff2-f8bb4337185f",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "da4ee2be-a13a-4744-8f21-3ea27b2500c3",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "04ea7f86-1ee7-40b8-8543-92547f67321b",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "59f97c80-1fcc-4a3e-82e7-a2e3709bc16f",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "d7ee2a92-c307-4af4-b333-596b34df8a5b",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 35
+    },
+    {
+      "id": "7674b2eb-244e-4a33-9af5-6f31bd82f500",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 35
+    },
+    {
+      "id": "3c9df6fe-bdca-4169-8679-f15c3e0b31c9",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "9da8c5a7-4d5b-4be4-b232-37fc152b2fbb",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "8dafa765-064d-42ae-9de9-a912dc25cff4",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 37
+    },
+    {
+      "id": "5c858563-427c-4d13-bd55-fed9857c2705",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 37
+    },
+    {
+      "id": "43ea4c46-dd19-41ca-8966-6e3e57b641f3",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 38
+    },
+    {
+      "id": "665a204f-02ed-43bb-b6d5-82bdac74c270",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 38
+    },
+    {
+      "id": "0e84c036-0b00-44d9-8535-64c64cd77f32",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 39
+    },
+    {
+      "id": "5781d7f8-c68a-47e9-81ea-16687882c067",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 39
+    },
+    {
+      "id": "35643593-2d4b-4da6-b82c-0d6fa81acf78",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 40
+    },
+    {
+      "id": "182fc6bd-b508-4150-a323-26c992302682",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 40
+    },
+    {
+      "id": "6594e860-cebc-4b88-b38d-f13f10a4db3f",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 41
+    },
+    {
+      "id": "a857f4ca-59d3-47ed-8bd0-3a398ece0bb9",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 41
+    },
+    {
+      "id": "bbd76d16-6d5d-4225-a6d6-1ac5cc3e1ab8",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 42
+    },
+    {
+      "id": "219ec612-270d-45e3-b8d3-b264ead8fc0a",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 42
+    },
+    {
+      "id": "97fe9c28-2dcc-48a0-9183-52d100443d5a",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 43
+    },
+    {
+      "id": "db7aabff-ac03-471e-a43d-09b3c31ee3be",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 43
+    },
+    {
+      "id": "ddb39a52-a9ba-4d56-87c0-d78af58366f5",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 44
+    },
+    {
+      "id": "001df6d9-b15f-4e5e-add6-ee3f2292444b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 44
+    },
+    {
+      "id": "9b8cb7b6-cbc1-4cef-80ae-a07ef419f3e4",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 45
+    },
+    {
+      "id": "d98cc6d6-f9bb-42a3-b993-0f8d723154ef",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 45
+    },
+    {
+      "id": "03d626f3-c618-4c2d-be02-1c11fc5ebbf5",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 46
+    },
+    {
+      "id": "56672cb7-c884-429d-9dc4-719ec4879879",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 46
+    },
+    {
+      "id": "88a3d38a-0b20-4712-a73d-7b04f52b261a",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 47
+    },
+    {
+      "id": "8afa2e6d-b21f-4129-ab44-bc299d79e39b",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 47
+    },
+    {
+      "id": "f25fd2b7-bd0c-44a5-b399-08a26227a0c4",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 48
+    },
+    {
+      "id": "18029494-2c17-47f5-84f8-0755742abd86",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 48
+    },
+    {
+      "id": "220213cf-2a2f-442a-b7ac-ca16482f9546",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 49
+    },
+    {
+      "id": "82fa93b1-56ec-4d73-a334-cee0ebb0ce70",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 49
+    }
+  ],
+  "sections": [
+    {
+      "id": "3856d4d2-ed20-4439-92dc-70e00e1446c5",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": [
+      {
+        "id": "92962f30-9234-4dac-8692-41b2e19d6066",
+        "item_name": "Monday - Friday",
+        "description": "15:00:00–18:00:00",
+        "price_text": "",
+        "hh_price": null
+      },
+      {
+        "id": "c6ec90fc-49f3-441c-828b-da7d1885e864",
+        "item_name": "Monday - Friday",
+        "description": "15:00:00–18:00:00",
+        "price_text": "",
+        "hh_price": null
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "009f4cbf-df7b-483d-8366-acdbd7b19494",
+      "entity_id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
+      "place_id": null,
+      "event_name": "Destiny Brown | Barometer Waterfront Grille | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Destiny Brown",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Barometer Waterfront Grille",
+      "day_of_week": null,
+      "event_date": "2026-05-21",
+      "start_time": "17:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "6af0d984-0ef3-4413-86a2-40d2b81bb82a",
+      "entity_id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
+      "place_id": null,
+      "event_name": "the boxcats | Barometer Waterfront Grille | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "the boxcats",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Barometer Waterfront Grille",
+      "day_of_week": null,
+      "event_date": "2026-07-25",
+      "start_time": "15:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "e88ab72d-5fe1-41d0-a19d-706df202a925",
+      "entity_id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
+      "place_id": null,
+      "event_name": "Justin Colvard | Barometer Waterfront Grille | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Justin Colvard",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Barometer Waterfront Grille",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "51ef6c0a-4c18-4023-ab45-713c41b50c9c",
+      "entity_id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
+      "place_id": null,
+      "event_name": "Jason Crysell | Barometer Waterfront Grille | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Jason Crysell",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Barometer Waterfront Grille",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "01dff4bc-8834-4c20-a73e-39e9b5a96dfe",
+      "entity_id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
+      "place_id": null,
+      "event_name": "Willie Traywick | Barometer Waterfront Grille | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Willie Traywick",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Barometer Waterfront Grille",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "c02458a1-465d-41d4-91d3-3438759094d3",
+      "entity_id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
+      "place_id": null,
+      "event_name": "Andy Lyle Hall | Barometer Waterfront Grille | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Andy Lyle Hall",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Barometer Waterfront Grille",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    },
+    {
+      "id": "89c72430-a760-4af1-b43f-0725b6590b8b",
+      "entity_id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
+      "place_id": null,
+      "event_name": "the boxcats | Barometer Waterfront Grille | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "the boxcats",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Barometer Waterfront Grille",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "f5c96a51-bb54-42da-a41c-689a42b4c4f2",
+      "entity_id": "eb725330-7a9c-4e23-b8c2-bb401cbd1dde",
+      "place_id": null,
+      "event_name": "Cade Pierce | Barometer Waterfront Grille | Orange Beach",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Cade Pierce",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "Barometer Waterfront Grille",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.542138+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

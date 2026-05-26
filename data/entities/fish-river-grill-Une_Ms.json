@@ -1,32 +1,721 @@
 {
-  "id": "caa08999-ba8a-4297-a420-e6466e34497f",
-  "slug": "fish-river-grill-Une_Ms",
-  "name": "Fish River Grill",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Fish River Grill is a Funky Junky Redneck Joint serving Baldwin County. It is also the home of the world famous 'Swamp Soup'. Baldwin County's award winning restaurant with great seafood, signature cocktails and famous Swamp Soup.",
-  "phone": "(251) 948-1110",
-  "email": null,
-  "website_url": "http://www.fishrivergrill.com/",
-  "address_line_1": "1545 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 2688,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/caa08999-ba8a-4297-a420-e6466e34497f/caa08999-ba8a-4297-a420-e6466e34497f_1779139715964.6187.jpg",
-  "photos": [],
+  "entity": {
+    "id": "caa08999-ba8a-4297-a420-e6466e34497f",
+    "place_id": "ChIJ3WT8K9AEmogRnEAtvUne_Ms",
+    "google_maps_uri": "https://maps.google.com/?cid=14698867692118294684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "fish-river-grill-Une_Ms",
+    "name": "Fish River Grill",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-1110",
+    "international_phone": null,
+    "website_url": "http://www.fishrivergrill.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1545 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.266723,
+    "longitude": -87.6895838,
+    "short_address": "1545 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 2688,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Fish River Grill is a Funky Junky Redneck Joint serving Baldwin County. It is also the home of the world famous 'Swamp Soup'. Baldwin County's award winning restaurant with great seafood, signature cocktails and famous Swamp Soup.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/caa08999-ba8a-4297-a420-e6466e34497f/caa08999-ba8a-4297-a420-e6466e34497f_1779139715964.6187.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:30 AM – 9:00 PM",
+      "Tuesday: 10:30 AM – 9:00 PM",
+      "Wednesday: 10:30 AM – 9:00 PM",
+      "Thursday: 10:30 AM – 9:00 PM",
+      "Friday: 10:30 AM – 9:00 PM",
+      "Saturday: 10:30 AM – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Signature Items",
+          "items": [
+            {
+              "name": "Hurricane Burger",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Award Winning and Local Favorite",
+              "subcategory": null
+            },
+            {
+              "name": "Mississippi Catfish",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Your Choice of Filets or Strips",
+              "subcategory": null
+            },
+            {
+              "name": "\"OMG\" Shrimp Feast PoBoy",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "PoBoy Slathered with Crawfish Sauce",
+              "subcategory": null
+            },
+            {
+              "name": "Gulf Shrimp Platter",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Delicious Gulf Shrimp",
+              "subcategory": null
+            },
+            {
+              "name": "Swamp Soup",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "World famous",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:25.32704+00:00",
+    "updated_at": "2026-05-18T21:28:40.819889+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "c3bd75f7-a013-44c1-b3e6-d152d9ca937d",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "5190a103-6451-419d-bcb1-b0aa7459574e",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "2f8f4413-4e5d-426c-85d5-c4f306849b0a",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "fdf3e634-0bad-497a-87a5-1d406254cb5d",
+      "tag": "fresh",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "6cc335d3-5a4c-44ba-a43f-2e31869eb066",
+      "tag": "fresh",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "c04c6797-0a74-40d3-8d49-15bbd18fee70",
+      "tag": "fresh",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "fba8e121-a479-47eb-a998-8b29ee6cc9a7",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "6d387204-d04d-4d43-887b-39772c3d05b1",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "ca30e310-fa13-428c-a037-7242e6b0c1c4",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "630badf4-df7e-4b84-b75b-c551767a658b",
+      "tag": "american",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "dba8fcaf-97f2-4230-ae9c-bdefd1c3a222",
+      "tag": "american",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "e488d296-d890-4c10-8ea1-62280501951b",
+      "tag": "american",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "782f209b-1a72-480c-8f04-70bf48120979",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "cbc7c2ce-2473-43af-9789-4fc4c7d6150b",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "88cbd722-2320-4661-ad11-2faa1ac3c500",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "38539844-2d3e-4ee7-b163-5f16d907805f",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "179496f2-24e0-4562-a680-6068670ca099",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "bf0a1f73-8306-442e-90cc-3f74e39b1607",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "be5318ed-1a17-491d-85b8-de76859c2b8d",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 6
+    },
+    {
+      "id": "5b5c3e9e-6a2c-4aee-ac98-00a44b7c6948",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 6
+    },
+    {
+      "id": "5f471183-3ee7-41f0-8d23-809ea8c7155a",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 6
+    },
+    {
+      "id": "5a04c28a-39b6-4565-9bc0-5aebcea5f9ce",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "8fe369e3-ca8b-40c6-8703-a8ad24cd1354",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "8bd75580-8bcf-4df1-9377-b666bb96d6ac",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "64656d2f-7ed9-49c7-8adb-2ce2347c8c94",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "d8e7ef53-d539-41a9-9542-003e93ed70ac",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "37ad4639-423c-4c05-a378-f9e1278ac43a",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 8
+    },
+    {
+      "id": "9fa1600c-fe66-445d-a39e-7a06e3fd5aec",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 9
+    },
+    {
+      "id": "30c3744b-220b-4f84-bf98-a28b802689c9",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 9
+    },
+    {
+      "id": "15cb0eb0-3a73-4793-8f47-bfc224715af1",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 9
+    },
+    {
+      "id": "a6343e9e-477e-440f-aeaf-09ca042e0991",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "e6d8933d-86c6-47a2-bb3b-e8831ab9ead1",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "c3655990-f9c1-4ed3-9629-3eaae256811e",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "16f14157-32b3-4a7f-9cdd-d53b900a2acb",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "8a69e940-cabf-404f-b1e6-c251421fe64d",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "afde46ff-ce7c-4ca1-999a-4945d56c6e4d",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "f6283263-c2d7-4a42-8d36-6bf8dc6b2ed9",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "7f4858a2-482f-49d2-8a15-2829fa12b8ea",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "4cf8b906-c66f-43f2-adad-2b96718db42b",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "adac4f51-f009-447c-a46e-3d38933f4605",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "2779bef1-8649-4003-ac63-9a5c2b7041a2",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "a4185932-7a84-420b-8eb8-891bdb8a1219",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "f10c6482-7cbe-4ee4-956a-495ba4717cde",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "0d17e727-cf8d-4cc1-931a-28963db3be8e",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "f780a854-9878-4c2c-8fd6-7930feed5582",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 14
+    },
+    {
+      "id": "bc2273a3-2a24-43a1-af04-fcb615f6428b",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "898fdb25-9a9b-442e-9d36-7747420d26b2",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "f1ff1fd0-b104-480d-a6d9-e309e90defa3",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "ddee98f9-1ffb-4d86-8945-f0b39e77cb4b",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "427609ad-0bce-4835-9834-e955655df03b",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "b6a9b450-81ea-4ba7-83d5-626aa3610f50",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 16
+    },
+    {
+      "id": "40a79abd-f687-4b7d-bc4c-f585e1b37904",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "e82b4b65-f61e-41f4-8629-7f2c39e6098e",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "92b30176-e5c8-4860-90c6-ce6f85948b24",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "6bf2d0ee-1095-413b-8f7f-bcc5a0c12e8b",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "4e40a23f-3613-4b31-8bd1-6b441d804ecc",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "e1f61e4f-ecd8-4081-9c41-b97b10669fbf",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "5902052f-609f-47ae-bf0f-4412c518d75a",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "ec54782b-8ae9-4bf6-beb3-0669b7a10481",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "4acc10a6-6643-4331-a62e-f1fc0094febb",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "32494e1a-0d6b-48c8-b5e3-f9d1981fa0d5",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "212072c6-9901-4693-813e-ce8a5c12538a",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "84889534-f0d0-4dd2-bc17-d82223c1cb4d",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "d7ffaf0a-eb7d-4eba-a0d6-82df457f1c6e",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 21
+    },
+    {
+      "id": "8b9be498-c1bc-48e4-a5b3-28583159f4c2",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 21
+    },
+    {
+      "id": "4e2ebfcd-aea0-4bc5-aa92-1323b07cb342",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 21
+    },
+    {
+      "id": "217e076a-69ed-466c-a874-36347b923865",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "4d65f729-e47e-45c8-9764-d81d53ad5d5f",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "e9a2984a-53ed-43d4-93e2-2e535be4f0f8",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "58109490-4b64-4e5b-8484-d6243e2e6197",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "0ef5f008-b28c-4e94-9758-58c286b95189",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "f04c9936-5c77-4e9f-a98b-2c2f05f1ee59",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "d7208cf2-5278-4ab9-b5e5-47983ae9ad5a",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 24
+    },
+    {
+      "id": "d0528ea3-47f9-4b65-ae85-8878b4b2b811",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 24
+    },
+    {
+      "id": "c6858911-08e9-417d-a709-0687aee7006e",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 24
+    },
+    {
+      "id": "86e6c59c-9f30-49f5-b5d5-fddc8ab84bed",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "989ed5cd-2736-48a9-b7e4-af8b3f02fc98",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "79be1880-4632-426b-876b-14786bf06a5b",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "031af43f-a292-4056-8bd2-37fbc576b730",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "9a3dc3dc-0baa-4c6c-a49c-917fe36e9a0a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "1800220f-9adb-47ea-8ca0-a19d151eabd7",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    }
+  ],
+  "sections": [
+    {
+      "id": "b3e8018e-e531-442b-a74e-a2b191d5a256",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

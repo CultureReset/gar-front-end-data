@@ -1,32 +1,295 @@
 {
-  "id": "5484d8f0-7cc7-4b1e-9672-f5801e002f7b",
-  "slug": "holy-spirit-thrift-shop-aSROYI",
-  "name": "Holy Spirit Thrift Shop",
-  "entity_type": "shopping",
-  "entity_subtype": "thrift_store",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 968-2797",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "6798 AL-59, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.4,
-  "review_count": 206,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b40c8915-7681-48e0-a2b7-6a131835c55a/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "5484d8f0-7cc7-4b1e-9672-f5801e002f7b",
+    "place_id": "ChIJ1ekiqfYPmogRNlVweaSROYI",
+    "google_maps_uri": "https://maps.google.com/?cid=9383691434201208118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "holy-spirit-thrift-shop-aSROYI",
+    "name": "Holy Spirit Thrift Shop",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "thrift_store",
+    "secondary_types": "",
+    "google_type": "thrift_store",
+    "google_types": [
+      "thrift_store",
+      "discount_store",
+      "point_of_interest",
+      "service",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-2797",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "6798 AL-59, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.323679,
+    "longitude": -87.6822518,
+    "short_address": "6798 AL-59, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 206,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b40c8915-7681-48e0-a2b7-6a131835c55a/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "paidParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: 10:00 AM – 4:00 PM",
+      "Wednesday: 10:00 AM – 4:00 PM",
+      "Thursday: 10:00 AM – 4:00 PM",
+      "Friday: 10:00 AM – 4:00 PM",
+      "Saturday: 10:00 AM – 1:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:11.268211+00:00",
+    "updated_at": "2026-05-18T21:06:49.328495+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "cee5dc92-170f-41ab-8b19-db634a3e5f0f",
+      "tag": "discount store",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "96e9822f-7c23-4452-98a4-e614e7cb3c39",
+      "tag": "discount store",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "2273d868-c6fc-466d-8f9b-008c9a031c9f",
+      "tag": "thrift store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "5ea99d79-210e-442b-9ce3-6e017bf4f34e",
+      "tag": "thrift store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "53f63674-684b-4e93-805e-d49b8f57c6fb",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "bde3bf12-8520-44f2-8717-2af330f37a3b",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "08decd05-f9db-4310-a40e-8bff09303cea",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "f40baf09-0935-47f3-8fdc-a38a81d09ee6",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "1bb6528b-0291-4ba8-a215-023b15a9948b",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "49afea03-fadd-4992-9537-c55e86a2f1bc",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "771c14fa-01f5-497e-b3e3-b06f3bdb7706",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "27b75a39-cb48-4298-b506-4d06bbdc4c01",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "4e26ec16-e332-4916-b28f-efca73eb28d4",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "7df224b6-64a0-4d86-8042-f332f93e966c",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "fd6b0d1f-4caf-49dd-93fc-b3e380bcd287",
+      "tag": "thrift_store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "6e019004-e8d2-4feb-b3d8-64e884d4d941",
+      "tag": "thrift_store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "232dfbef-3e3e-45c2-ada7-e037cf107b9e",
+      "tag": "discount_store",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "f84a17f3-5e95-4c32-a8f9-0bcbd3b59b85",
+      "tag": "discount_store",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "52301876-eec7-419e-beff-03ad8d56132a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "71df2e7a-6a88-4196-ad93-f3426bb5aba5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    }
+  ],
+  "sections": [
+    {
+      "id": "60b9cfb5-e17b-4cf7-9c6b-438fda954060",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

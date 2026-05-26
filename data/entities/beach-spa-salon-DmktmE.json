@@ -1,249 +1,498 @@
 {
-  "id": "be78bfa4-1fbf-4b3c-97dc-db1900509ab6",
-  "slug": "beach-spa-salon-DmktmE",
-  "name": "Beach Spa & Salon",
-  "entity_type": "service",
-  "entity_subtype": "salon-spa",
-  "icon": "🏪",
-  "description": "Beach Spa & Salon is a full-service salon and spa specializing in professional hair design, facials, massage, pedicures, and manicures. The salon is owned and operated by Angela Roth, a licensed cosmetologist with 20 years of experience and previous ownership of another spa in Mississippi. Specialties include hair color design, hairstyling, facials, and massage therapy. The salon welcomes clients looking for a relaxing, professional beauty and spa experience.",
-  "phone": "(251) 597-6264",
-  "email": null,
-  "address_line_1": "14425 River Rd, Pensacola, FL 32507, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32507",
-  "website_url": "https://www.beachspasalon.com/",
-  "rating": 4.2,
-  "review_count": 5,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "be78bfa4-1fbf-4b3c-97dc-db1900509ab6",
+    "place_id": "ChIJARG1162lkIgR_ZbtSDmktmE",
+    "google_maps_uri": "https://maps.google.com/?cid=7040995633383970557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "beach-spa-salon-DmktmE",
+    "name": "Beach Spa & Salon",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "salon-spa",
+    "secondary_types": [],
+    "google_type": "hair_salon",
+    "google_types": [
+      "hair_salon",
+      "hair_care",
+      "spa",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 597-6264",
+    "international_phone": null,
+    "website_url": "https://www.beachspasalon.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "14425 River Rd, Pensacola, FL 32507, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32507",
+    "latitude": 30.3024806,
+    "longitude": -87.4439001,
+    "short_address": "14425 River Rd, Pensacola",
+    "plus_code": null,
+    "rating": 4.2,
+    "review_count": 5,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Beach Spa & Salon is a full-service salon and spa specializing in professional hair design, facials, massage, pedicures, and manicures. The salon is owned and operated by Angela Roth, a licensed cosmetologist with 20 years of experience and previous ownership of another spa in Mississippi. Specialties include hair color design, hairstyling, facials, and massage therapy. The salon welcomes clients looking for a relaxing, professional beauty and spa experience.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://instagram.com/wix/",
+    "social_facebook": "http://www.facebook.com/wix",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 5:00 PM",
+      "Tuesday: 11:00 AM – 5:00 PM",
+      "Wednesday: 11:00 AM – 5:00 PM",
+      "Thursday: 11:00 AM – 5:00 PM",
+      "Friday: 11:00 AM – 5:00 PM",
+      "Saturday: 11:00 AM – 1:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.340344+00:00",
+    "updated_at": "2026-05-17T21:17:41.907684+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
-      "tag": "wellness",
-      "tag_category": "type"
-    },
-    {
+      "id": "d0440e50-255b-42fd-8444-ae4f25926a46",
       "tag": "salon",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
-      "tag": "spa",
-      "tag_category": "type"
-    },
-    {
-      "tag": "hair design",
-      "tag_category": "type"
-    },
-    {
-      "tag": "facials",
-      "tag_category": "type"
-    },
-    {
-      "tag": "massage",
-      "tag_category": "type"
-    },
-    {
-      "tag": "manicures",
-      "tag_category": "type"
-    },
-    {
-      "tag": "pedicures",
-      "tag_category": "type"
-    },
-    {
-      "tag": "beauty",
-      "tag_category": "type"
-    },
-    {
-      "tag": "wellness",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Pensacola",
-      "tag_category": "type"
-    },
-    {
-      "tag": "hair color",
-      "tag_category": "type"
-    },
-    {
-      "tag": "haircuts",
-      "tag_category": "type"
-    },
-    {
-      "tag": "microblading",
-      "tag_category": "type"
-    },
-    {
-      "tag": "Salons",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Spas",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Beauty Services",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Hair Salons",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Nail Salons",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Massage Therapy",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Cosmetic Services",
-      "tag_category": "category"
-    },
-    {
-      "tag": "beauty-wellness",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "salon-spa",
-      "tag_category": "type"
-    },
-    {
-      "tag": "hair_salon",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "hair_care",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "service",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "4b4e3949-05dc-461c-979a-28e3badc1b57",
       "tag": "salon",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "4359de13-8b47-4244-92bd-80d8c82c5042",
       "tag": "spa",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "c6910375-813e-4a9a-a378-213cef7e0992",
+      "tag": "spa",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "a171385b-0d1e-4791-88ef-c0b94efbad7a",
       "tag": "hair design",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "cfeb233e-cf03-4078-bb2a-b6193832b275",
+      "tag": "hair design",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "9a650eda-6167-4a45-8413-83ccfcada10e",
       "tag": "facials",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "430ccef2-aa65-4de1-a74d-e8212793fb14",
+      "tag": "facials",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "99f56303-c56b-4012-a6b7-09980b45e630",
       "tag": "massage",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "dc849f65-877a-4601-9625-19988d508ca8",
+      "tag": "massage",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "a676ec6e-8bc4-408c-8098-8a2db66353e0",
       "tag": "manicures",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "e2e5050f-dcfd-4a90-b742-93a81b37694a",
+      "tag": "manicures",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "a62ed74b-399b-4518-ba86-73941babd7b8",
       "tag": "pedicures",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "60ef3410-151c-41d5-8bdc-4b3f6a55d99c",
+      "tag": "pedicures",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "0bdeb462-d3c8-4bf2-84e3-c835aa13ad02",
       "tag": "beauty",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
-      "tag": "Nail Salons",
-      "tag_category": "category"
+      "id": "a4998270-2a0e-46cf-adce-06c0a56e3088",
+      "tag": "beauty",
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
-      "tag": "Massage Therapy",
-      "tag_category": "category"
+      "id": "4b8151ef-e56a-433d-82c6-57d7b34979c4",
+      "tag": "wellness",
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
-      "tag": "Cosmetic Services",
-      "tag_category": "category"
+      "id": "bdb339a9-c1c7-4f9c-8196-8ed8eb689c3a",
+      "tag": "wellness",
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
-      "tag": "beauty-wellness",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "salon-spa",
-      "tag_category": "type"
-    },
-    {
-      "tag": "hair_salon",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "hair_care",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "11a61561-6a28-4f95-87c0-45643749733b",
       "tag": "Pensacola",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 9
     },
     {
+      "id": "acd40c3f-b866-4a92-9839-1693d6174ce2",
+      "tag": "Pensacola",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "5f164e80-ac3d-401c-ad09-3a4fc9b3faf7",
       "tag": "hair color",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "7ba0b60c-f6fa-4302-b0fc-1057bcc9c4f7",
+      "tag": "hair color",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "cc669014-7cd9-4e9f-aadb-9ed168f7d35f",
       "tag": "haircuts",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 11
     },
     {
+      "id": "94bfe39f-f7ab-43be-8da7-baaf34a44e0c",
+      "tag": "haircuts",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "2f1157d5-c0cc-4541-a130-e9aa90ecc5a6",
       "tag": "microblading",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 12
     },
     {
+      "id": "36c0c805-e006-45ea-90ae-aceb68deb1b1",
+      "tag": "microblading",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "3c5fae0b-dc90-4470-b9c4-8292cac6a8cf",
       "tag": "Salons",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 13
     },
     {
+      "id": "d00b5768-108a-472f-9699-e3357ace2ec1",
+      "tag": "Salons",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "d80ab0fc-0a59-4f26-b03a-35ea7ccdf604",
       "tag": "Spas",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 14
     },
     {
+      "id": "7538c8ac-4121-41fb-97b9-fa8dd415f308",
+      "tag": "Spas",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "a95a03a1-1c9a-4f79-ae24-e99e8da28b23",
       "tag": "Beauty Services",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 15
     },
     {
+      "id": "d2ec11fe-8382-43a3-ba6e-7fd2ed27b956",
+      "tag": "Beauty Services",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "65830344-c0b6-4837-ad86-1b5201fc068e",
       "tag": "Hair Salons",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 16
     },
     {
+      "id": "661fb476-3e63-470c-8695-b4fd8088123a",
+      "tag": "Hair Salons",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "84175316-88eb-4acf-8bde-65dbfc4cf0f2",
+      "tag": "Nail Salons",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "c61a99a5-6241-437e-b07d-6925e4816285",
+      "tag": "Nail Salons",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "904815af-f486-4a9c-8c26-67e3d98d2cf8",
+      "tag": "Massage Therapy",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "fc3b749a-e78b-4eae-911c-7fba8f8e2570",
+      "tag": "Massage Therapy",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "9e3a10eb-726e-4b78-bece-0cd29ba6a13a",
+      "tag": "Cosmetic Services",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "93ce8647-b554-44cb-8c8a-5ef98749a3af",
+      "tag": "Cosmetic Services",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "07d26503-32b9-4e8d-a9bd-f308b8b8cb4d",
+      "tag": "beauty-wellness",
+      "tag_category": "industry",
+      "sort_order": 20
+    },
+    {
+      "id": "3b204c7d-b759-44b0-9860-1963d13b610d",
+      "tag": "beauty-wellness",
+      "tag_category": "industry",
+      "sort_order": 20
+    },
+    {
+      "id": "629e35b3-acdd-4df8-a71d-fb98628ee95c",
+      "tag": "salon-spa",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "94d797fc-0fd3-4ff3-b195-2f67e457fd97",
+      "tag": "salon-spa",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "50201ce0-c578-4abe-8652-44f658def392",
+      "tag": "hair_salon",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "22257f30-dae3-4dfc-9c86-32be303ed195",
+      "tag": "hair_salon",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "e4cb58d1-a65b-435f-a521-d6392c37768b",
+      "tag": "hair_care",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "1f92869f-050c-4e66-b2a7-d61df2a697a0",
+      "tag": "hair_care",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "6577e0bc-91f0-4592-a219-0545eb0c1b8b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "042978a5-9a9b-4d4e-90b2-2ddff997d8f1",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "e48bb1a7-0406-4014-b949-c9970fdb8d07",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 25
     },
     {
+      "id": "89207e38-c98d-49ad-9658-3a1a32ac3fb5",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "4fa14ee0-5ee6-42c8-9cf7-261a5a0607a4",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "acd709cd-a3c6-4c7b-930d-67030007dc74",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 26
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "645420fc-7463-4d65-a964-74f33e68c62d",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,65 +1,268 @@
 {
-  "id": "d301b6c2-44dc-488e-8732-b4af1077d034",
-  "slug": "azalea-city-bicycle-company-NBG3Oo",
-  "name": "Azalea City Bicycle Company",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 880-7508",
-  "email": null,
-  "address_line_1": "107 Dauphin St, Mobile, AL 36602, USA",
-  "city": "Mobile",
-  "state": "AL",
-  "zip": "36602",
-  "website_url": "https://www.acbcmobile.com/",
-  "rating": 5,
-  "review_count": 5,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "d301b6c2-44dc-488e-8732-b4af1077d034",
+    "place_id": "ChIJ8xkWKwBPmogR1nMKANBG3Oo",
+    "google_maps_uri": "https://maps.google.com/?cid=16923479358919308246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "azalea-city-bicycle-company-NBG3Oo",
+    "name": "Azalea City Bicycle Company",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "bicycle_store",
+    "google_types": [
+      "bicycle_store",
+      "sporting_goods_store",
+      "manufacturer",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 880-7508",
+    "international_phone": null,
+    "website_url": "https://www.acbcmobile.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "107 Dauphin St, Mobile, AL 36602, USA",
+    "address_line_2": null,
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36602",
+    "latitude": 30.6919673,
+    "longitude": -88.0411897,
+    "short_address": "107 Dauphin St, Mobile",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 5,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 6:00 PM",
+      "Tuesday: 10:00 AM – 6:00 PM",
+      "Wednesday: 10:00 AM – 6:00 PM",
+      "Thursday: 10:00 AM – 6:00 PM",
+      "Friday: 10:00 AM – 6:00 PM",
+      "Saturday: 10:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.14342+00:00",
+    "updated_at": "2026-05-17T21:17:41.653257+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "59195d67-061a-46f8-ad32-16faec7cd0c7",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "4a295c34-bd2b-4135-8679-33cb1ccd721c",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "81244069-ecb7-4a5d-a59e-4de4704ecab2",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "8316e2af-3bc4-4b88-b683-08d8c77896b4",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "16cddfca-eb6d-44f5-acfd-551210128a9d",
       "tag": "bicycle_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 2
     },
     {
+      "id": "c881036e-8e57-4a4c-a6d4-f6600ace7279",
+      "tag": "bicycle_store",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "395d1368-de95-4b67-9244-5978b77fcc80",
       "tag": "sporting_goods_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "de513368-e28c-4c41-b687-b6328853a5eb",
+      "tag": "sporting_goods_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "a565f1af-408a-4ceb-a20e-7bab1bf5161d",
       "tag": "manufacturer",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "9f80a0e1-94be-44be-817b-08c95240906e",
+      "tag": "manufacturer",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "ebaa43d4-9386-4030-97bb-5dc91f176fbc",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "2f84b9e3-875b-4acd-b833-2bcaeb8275c5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "5f5731ca-ff47-40bf-9567-17b522d3572a",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "120a02a4-92d8-4dce-ac4e-3d38d09d10f2",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "f92c227c-8899-4d64-9f03-df9aee0f522c",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "04c4c19c-c740-42af-9627-5c16558a0709",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "5bdd98dc-18fd-47f1-9d46-5545401dc708",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

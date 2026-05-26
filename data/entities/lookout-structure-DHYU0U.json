@@ -1,32 +1,226 @@
 {
-  "id": "48ef1574-34c9-422e-84ae-db20e09dfd56",
-  "slug": "lookout-structure-DHYU0U",
-  "name": "Lookout Structure",
-  "entity_type": "activity",
-  "entity_subtype": "observation_deck",
-  "icon": "🏪",
-  "description": "",
-  "phone": null,
-  "email": null,
-  "website_url": null,
-  "address_line_1": "Rosemary Dunes Trail, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.6,
-  "review_count": 10,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/d806bb68-aefb-4df2-871a-6c33105ebc50/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "48ef1574-34c9-422e-84ae-db20e09dfd56",
+    "place_id": "ChIJN7I7SoEGmogRBrfxVDHYU0U",
+    "google_maps_uri": "https://maps.google.com/?cid=4995574118074136326&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "lookout-structure-DHYU0U",
+    "name": "Lookout Structure",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "observation_deck",
+    "secondary_types": "",
+    "google_type": "observation_deck",
+    "google_types": [
+      "observation_deck",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Rosemary Dunes Trail, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2713308,
+    "longitude": -87.6139586,
+    "short_address": "Rosemary Dunes Trail, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 10,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/d806bb68-aefb-4df2-871a-6c33105ebc50/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.999548+00:00",
+    "updated_at": "2026-05-18T21:07:01.465119+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "b052bfb7-477d-4ed9-8fbc-447fbcf20aa9",
+      "tag": "observation deck",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "c67094d6-2fb8-4adb-b88f-4004e58335e2",
+      "tag": "observation deck",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "50ce887d-e732-406e-aabc-4280a61a438f",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "bf4ccb1c-a7de-4d64-95bb-7cedd45000fc",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d35b03dd-3a25-49b4-b8bd-8ddd145b441c",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "2d7373f4-0f38-405c-8612-87a3f7a2f751",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "01a7d00d-392d-412a-a939-ca4211c054e5",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "a8a26b96-349e-4257-8a14-d1b078bad560",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "79d2cf24-b47e-45a2-bbf8-ac7cd21e03f2",
+      "tag": "observation_deck",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "6f15b3b6-16db-424a-966a-e366e879e6b6",
+      "tag": "observation_deck",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "6e6ba654-a4c6-46e0-bb1e-502bd36aa415",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "65dbbce8-87b5-4d9f-8e7f-c4e36c55a998",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "b893337f-c223-4d48-9b6e-2681c6b8664e",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

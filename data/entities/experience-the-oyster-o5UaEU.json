@@ -1,32 +1,264 @@
 {
-  "id": "2842d0b5-f18e-44f9-8ae4-6b513d5470e0",
-  "slug": "experience-the-oyster-o5UaEU",
-  "name": "Experience The Oyster",
-  "entity_type": "venue",
-  "entity_subtype": "venue",
-  "icon": "🏪",
-  "description": "",
-  "phone": null,
-  "email": null,
-  "website_url": "https://www.hangoutcookoff.com/",
-  "address_line_1": "101 E Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 5,
-  "review_count": 1,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2842d0b5-f18e-44f9-8ae4-6b513d5470e0/2842d0b5-f18e-44f9-8ae4-6b513d5470e0_1779139724993.8901.jpg",
-  "photos": [],
+  "entity": {
+    "id": "2842d0b5-f18e-44f9-8ae4-6b513d5470e0",
+    "place_id": "ChIJHelL5sIFmogRwI39co5UaEU",
+    "google_maps_uri": "https://maps.google.com/?cid=5001340356986244544&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "experience-the-oyster-o5UaEU",
+    "name": "Experience The Oyster",
+    "subtitle": null,
+    "entity_type": "venue",
+    "entity_subtype": "venue",
+    "secondary_types": "",
+    "google_type": "event_venue",
+    "google_types": [
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": null,
+    "international_phone": null,
+    "website_url": "https://www.hangoutcookoff.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "101 E Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2480503,
+    "longitude": -87.689526,
+    "short_address": "101 E Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 1,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2842d0b5-f18e-44f9-8ae4-6b513d5470e0/2842d0b5-f18e-44f9-8ae4-6b513d5470e0_1779139724993.8901.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.582928+00:00",
+    "updated_at": "2026-05-18T21:28:49.884283+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "8d6ee465-1cd9-4d07-96fe-84c3216bee2a",
+      "tag": "event venue",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "1f012b86-d785-41f2-9081-79c4576a4428",
+      "tag": "event venue",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "e25fe154-9d58-4cc2-b1a1-a3524259eb32",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "a51c2dc9-1248-454a-8283-18e07f66caf8",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "17a05acf-a3ac-48a2-9fce-b9d258bdb1c8",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "f160c36d-bac1-4083-81bd-cd75edb9b8bd",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "8232d7c7-d94c-4994-ac3b-043dc9a96e46",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "450e3c4d-dc63-41e9-bb34-d5d52301d040",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "b92ad075-12ca-47d6-930b-e0ec06fc3be4",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "46a9f859-ceeb-4f05-8a4b-dac6d09c03e4",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "d83bc87d-f733-4f45-90ca-8b6ea411337e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "212647e0-3bb2-4077-884e-76759cee85c6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "4d52d2ed-0077-4ca1-a93e-a2ce55316391",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "88e4a784-1673-4275-a8cb-3e886e74fe85",
+      "entity_id": "2842d0b5-f18e-44f9-8ae4-6b513d5470e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2842d0b5-f18e-44f9-8ae4-6b513d5470e0/2842d0b5-f18e-44f9-8ae4-6b513d5470e0_1779139724993.8901.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:55.64167+00:00"
+    },
+    {
+      "id": "6fda8a8a-8341-4783-9c46-2e9b6fa29ffa",
+      "entity_id": "2842d0b5-f18e-44f9-8ae4-6b513d5470e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2842d0b5-f18e-44f9-8ae4-6b513d5470e0/2842d0b5-f18e-44f9-8ae4-6b513d5470e0_1779131444268.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:55.341841+00:00"
+    },
+    {
+      "id": "9d2afb56-1c6e-4f16-a61d-d9f975bfd090",
+      "entity_id": "2842d0b5-f18e-44f9-8ae4-6b513d5470e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2842d0b5-f18e-44f9-8ae4-6b513d5470e0/2842d0b5-f18e-44f9-8ae4-6b513d5470e0_1779131986182.5603.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:55.493562+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

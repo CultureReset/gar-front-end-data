@@ -1,113 +1,297 @@
 {
-  "id": "3787567f-d786-4e53-840b-f8e4e5cd2f28",
-  "slug": "barnes-noble-PvmFx8",
-  "name": "Barnes & Noble",
-  "entity_type": "shopping",
-  "entity_subtype": "boutique",
-  "icon": "🏪",
-  "description": "Bookseller chain stocking housebrand eReader, plus a broad selection of titles for adults & kids.",
-  "phone": "(850) 969-9554",
-  "email": null,
-  "address_line_1": "1200 Airport Blvd, Pensacola, FL 32504, USA",
-  "city": "Pensacola",
-  "state": "FL",
-  "zip": "32504",
-  "website_url": "https://stores.barnesandnoble.com/store/2926",
-  "rating": 4.6,
-  "review_count": 1978,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "3787567f-d786-4e53-840b-f8e4e5cd2f28",
+    "place_id": "ChIJ89YTBwzAkIgRMGNgZPvmFx8",
+    "google_maps_uri": "https://maps.google.com/?cid=2240513307035329328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "barnes-noble-PvmFx8",
+    "name": "Barnes & Noble",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "boutique",
+    "secondary_types": "",
+    "google_type": "book_store",
+    "google_types": [
+      "book_store",
+      "toy_store",
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(850) 969-9554",
+    "international_phone": null,
+    "website_url": "https://stores.barnesandnoble.com/store/2926",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1200 Airport Blvd, Pensacola, FL 32504, USA",
+    "address_line_2": null,
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32504",
+    "latitude": 30.4807745,
+    "longitude": -87.2171113,
+    "short_address": "Parking lot, 1200 Airport Blvd, Pensacola",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 1978,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Bookseller chain stocking housebrand eReader, plus a broad selection of titles for adults & kids.",
+    "description": "Bookseller chain stocking housebrand eReader, plus a broad selection of titles for adults & kids.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: 9:00 AM – 8:00 PM",
+      "Sunday: 10:00 AM – 7:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.027834+00:00",
+    "updated_at": "2026-05-18T21:06:03.164612+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "de583ddb-34b9-48d5-9a32-89708a299a4d",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
-      "tag": "cafe",
-      "tag_category": "search"
-    },
-    {
-      "tag": "gulf_shores",
-      "tag_category": "search"
-    },
-    {
-      "tag": "boutique",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "book_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "toy_store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "food",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "store",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "point_of_interest",
-      "tag_category": "google_type"
-    },
-    {
-      "tag": "establishment",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "920d7f70-b7b1-4a93-889a-0de8063c7bc0",
       "tag": "shopping",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 0
     },
     {
+      "id": "3c1e0273-6c3c-4e33-9121-db1cf70adefc",
       "tag": "cafe",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 1
     },
     {
+      "id": "89811748-d80e-42d5-8851-9e0361bfbcc2",
+      "tag": "cafe",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "f857510a-8d34-476b-ba36-4e0d02c4d723",
       "tag": "gulf_shores",
-      "tag_category": "search"
+      "tag_category": "search",
+      "sort_order": 2
     },
     {
+      "id": "5c989aad-906a-43b1-a75e-4485fbfe317e",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "cbeb9783-018a-48b1-95a9-318d65124a09",
       "tag": "boutique",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 3
     },
     {
+      "id": "6cf9c3d1-b1a1-4be2-b910-3851da83dec7",
+      "tag": "boutique",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "506748bc-9bc9-490a-81bf-57f2d14b1edb",
       "tag": "book_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 4
     },
     {
+      "id": "d2668262-e8ed-4952-8c6a-f3f427535584",
+      "tag": "book_store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "62605278-27d8-4fcb-9f9c-d38cd14ecc4d",
       "tag": "toy_store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 5
     },
     {
+      "id": "e939f90d-8626-4100-9a60-d71817ae055b",
+      "tag": "toy_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "d79fd7c8-4b54-48d6-be07-c166084a4fa4",
       "tag": "food",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 6
     },
     {
+      "id": "1caf2b77-e1f2-4261-9a2b-9881b2c1ef4b",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "1dfdf632-02b9-4375-b3ad-97cbc597588f",
       "tag": "store",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 7
     },
     {
+      "id": "ba3f9087-4e7a-41d9-9d29-b2a2be49b59a",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "a0fcf632-b084-4a97-90d5-690c9f4662a8",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
     },
     {
+      "id": "00c61722-500e-46c7-b4da-0cce53715e2a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "46ebcd81-a912-4431-abca-2ab4386a3ea0",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "bf3d3bb7-bc2d-47d1-9d56-83b2c33e0bca",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 9
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "195e39a8-c63e-4a87-935c-6c761dc22f53",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

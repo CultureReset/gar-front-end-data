@@ -1,32 +1,311 @@
 {
-  "id": "a54fb87e-216d-468c-8c17-56a8fefd5a14",
-  "slug": "enterprise-rent-a-car-kOTnhc",
-  "name": "Enterprise Rent-A-Car",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "Enterprise Rent-A-Car is part of the world's largest car rental provider, as measured by revenue, fleet, and employees. The Foley location at 3410 S McKenzie St offers convenient car rental services with a wide selection of vehicles including economy cars, full-size sedans, SUVs, minivans, and pickup trucks. Enterprise provides excellent customer service, competitive rates, and flexibility for all your transportation needs - whether you need a short-term rental, one-way rental, long-term rental, or specialty vehicle.",
-  "phone": "(251) 943-3888",
-  "email": null,
-  "address_line_1": "3410 S McKenzie St, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "https://www.enterprise.com/en/car-rental-locations/us/al/foley-5526.html?mcid=yext:245709",
-  "rating": 3.9,
-  "review_count": 623,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a54fb87e-216d-468c-8c17-56a8fefd5a14/a54fb87e-216d-468c-8c17-56a8fefd5a14_1779139737374.7498.jpg",
+  "entity": {
+    "id": "a54fb87e-216d-468c-8c17-56a8fefd5a14",
+    "place_id": "ChIJYzHDBMwPmogRgBW-AkOTnhc",
+    "google_maps_uri": "https://maps.google.com/?cid=1701959625210729856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "enterprise-rent-a-car-kOTnhc",
+    "name": "Enterprise Rent-A-Car",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "rentals",
+    "secondary_types": [],
+    "google_type": "car_rental",
+    "google_types": [
+      "car_rental",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 943-3888",
+    "international_phone": null,
+    "website_url": "https://www.enterprise.com/en/car-rental-locations/us/al/foley-5526.html?mcid=yext:245709",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3410 S McKenzie St, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.363731,
+    "longitude": -87.6837682,
+    "short_address": "3410 S McKenzie St, Foley",
+    "plus_code": null,
+    "rating": 3.9,
+    "review_count": 623,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Enterprise Rent-A-Car is part of the world's largest car rental provider, as measured by revenue, fleet, and employees. The Foley location at 3410 S McKenzie St offers convenient car rental services with a wide selection of vehicles including economy cars, full-size sedans, SUVs, minivans, and pickup trucks. Enterprise provides excellent customer service, competitive rates, and flexibility for all your transportation needs - whether you need a short-term rental, one-way rental, long-term rental, or specialty vehicle.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/a54fb87e-216d-468c-8c17-56a8fefd5a14/a54fb87e-216d-468c-8c17-56a8fefd5a14_1779139737374.7498.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/enterprise/",
+    "social_facebook": "https://www.facebook.com/enterprise",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "structured-data",
+      "gcr-import-ready",
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.22949+00:00",
+    "updated_at": "2026-05-18T21:29:02.374294+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "343e1a82-f55a-4401-96ed-9fe55be2ffd3",
+      "tag": "car rental",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "610e7f3a-4dd5-4c13-9cfa-75bce31e9b0d",
+      "tag": "vehicle rental",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "fa05ab8a-378b-497e-86cd-dd3a69a238d3",
+      "tag": "truck rental",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "819d38c4-9927-4233-962e-300625f40b08",
+      "tag": "van rental",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "9df0f3ae-8813-4d51-9e69-2a9c656e7d68",
+      "tag": "exotic cars",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "57c9f542-f749-44ad-af43-993ff3bc21fa",
+      "tag": "one-way rental",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "71c18375-6aa2-41c5-9388-85b9e97c768d",
+      "tag": "long-term rental",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "02b511f8-fdd9-4038-ab6a-8c2959850ec3",
+      "tag": "business rental",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "20006596-a204-4296-8cd5-a7d5b80328cf",
+      "tag": "affordable rates",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "beb3ba2c-6f2a-4431-9996-2a6dd5f460bc",
+      "tag": "locations nationwide",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "820ecf43-70e4-471c-a44c-a0d051ce4dfc",
+      "tag": "Car Rentals",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "dfcc8cf1-bb55-4ea6-94f0-65aad4b640eb",
+      "tag": "Truck Rentals",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "ec006bef-8f48-4517-aa00-752749bc71ba",
+      "tag": "Van Rentals",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "23761a6a-eeb3-4add-a039-7b83c52398e5",
+      "tag": "Exotic Car Rentals",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "8d4a852e-46cc-4b04-889c-e834d9d65e78",
+      "tag": "Used Car Sales",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "9a04fe97-8198-4b23-b472-78d60479b2df",
+      "tag": "Fleet Management",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "666d7382-bf83-4562-959f-3af6538b6723",
+      "tag": "Transportation Services",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "f35ab83e-3e82-4c15-8f41-8c72cab09fa6",
+      "tag": "automotive-rental",
+      "tag_category": "industry",
+      "sort_order": 17
+    },
+    {
+      "id": "ff2ff914-a94d-497a-a271-43ca337c20fd",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "4213aa95-efca-4171-9468-01453196ecd9",
+      "tag": "car_rental",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "a4420b62-9f34-4074-a0de-8c60227ee562",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "ff5ebf83-64ff-428d-aa18-eda059122dec",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "a8470494-421c-411a-b53d-2996738534d9",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 22
+    }
+  ],
+  "sections": [
+    {
+      "id": "f18d03bf-b8c0-4130-81ae-0bdbb1f668d5",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "photos": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

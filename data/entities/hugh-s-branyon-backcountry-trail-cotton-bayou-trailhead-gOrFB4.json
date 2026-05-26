@@ -1,32 +1,265 @@
 {
-  "id": "f1b522ae-b7a8-4dcb-b973-f6da692a5a91",
-  "slug": "hugh-s-branyon-backcountry-trail-cotton-bayou-trailhead-gOrFB4",
-  "name": "Hugh S. Branyon Backcountry Trail - Cotton Bayou Trailhead",
-  "entity_type": "activity",
-  "entity_subtype": "park",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 981-1063",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "Cotton Bayou Trail, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.9,
-  "review_count": 16,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b11e62d5-1b44-4351-a4ff-0ee16ba9cdb6/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "f1b522ae-b7a8-4dcb-b973-f6da692a5a91",
+    "place_id": "ChIJGWVr3fgGmogRJ0RKwgOrFB4",
+    "google_maps_uri": "https://maps.google.com/?cid=2167545353304949799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "hugh-s-branyon-backcountry-trail-cotton-bayou-trailhead-gOrFB4",
+    "name": "Hugh S. Branyon Backcountry Trail - Cotton Bayou Trailhead",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "park",
+    "secondary_types": [],
+    "google_type": "park",
+    "google_types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-1063",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "Cotton Bayou Trail, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2729808,
+    "longitude": -87.585234,
+    "short_address": "Cotton Bayou Trail, Orange Beach",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 16,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/b11e62d5-1b44-4351-a4ff-0ee16ba9cdb6/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsCashOnly": false
+    },
+    "hours_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.45857+00:00",
+    "updated_at": "2026-05-17T22:22:53.033133+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "c115addf-37f6-4890-87e6-2eaed350af56",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "90f6e8cf-62e2-4a6c-9871-ad30494ef9ce",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "7a226b58-9c81-4f11-8cfd-87e31e602f9e",
+      "tag": "park",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "454a81e3-dc98-4506-ba98-49e96f34d6e9",
+      "tag": "park",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d17bbcca-f86f-4714-817d-5a1086a5a05a",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "2a234a66-b458-4117-b3bf-75c39f270982",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "fd567417-a4c4-4734-b748-2a1ce29ac344",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "c43994b1-df03-4f68-bf0c-c30ab1147ec3",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "31a7befc-2629-4024-8de8-9fec3791a235",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "83b38634-b5ff-45a0-89c4-02f821e772bb",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "5efdb54f-8cdf-461d-a6bd-b9c92fb0d766",
+      "tag": "tourist attraction",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "ba715e81-74c2-47f3-8fe6-da5b40a55738",
+      "tag": "tourist attraction",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "2ec4e2c6-72f8-4f9d-8f5f-4b1a6fca5386",
+      "tag": "outdoor",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "ad94c004-4987-44d6-b3b9-2227b410ac32",
+      "tag": "outdoor",
+      "tag_category": "vibe",
+      "sort_order": 6
+    },
+    {
+      "id": "03f844bb-4924-4e60-8a44-d1c964855c80",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "d146213c-006a-4f17-8cd9-d8d315759834",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "8f9dac7e-66f5-4bf3-8355-5ad600631535",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,2330 @@
 {
-  "id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
-  "slug": "docs-seafood-shack-oyster-bar-tdDpkU",
-  "name": "Doc's Seafood Shack & Oyster Bar",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Doc's Seafood Shack is where Gulf Coast Alabama locals go for fresh seafood and Doc's famous fried shrimp. Since 1984 we have been grilling, frying and broiling seafood.",
-  "phone": "(251) 981-6999",
-  "email": null,
-  "website_url": "https://www.docsseafoodshack.com/",
-  "address_line_1": "26029 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": null,
-  "rating": 4.5,
-  "review_count": 5490,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55811c01-7fba-4ca5-9be9-e4983ed6587a/55811c01-7fba-4ca5-9be9-e4983ed6587a_1779139714928.867.jpg",
-  "photos": [],
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+    "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+    "google_maps_uri": "https://maps.google.com/?cid=5018773426903791034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "docs-seafood-shack-oyster-bar-tdDpkU",
+    "name": "Doc's Seafood Shack & Oyster Bar",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-6999",
+    "international_phone": null,
+    "website_url": "https://www.docsseafoodshack.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26029 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2924614,
+    "longitude": -87.5808946,
+    "short_address": "26029 Canal Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 5490,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Longtime seafood destination dishing out classics such as oysters in bustling, no-frills surrounds.",
+    "description": "Doc's Seafood Shack is where Gulf Coast Alabama locals go for fresh seafood and Doc's famous fried shrimp. Since 1984 we have been grilling, frying and broiling seafood.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55811c01-7fba-4ca5-9be9-e4983ed6587a/55811c01-7fba-4ca5-9be9-e4983ed6587a_1779139714928.867.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/docsseafoodshackorangebeach",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 8:00 PM",
+      "Tuesday: 11:00 AM – 8:00 PM",
+      "Wednesday: 11:00 AM – 8:00 PM",
+      "Thursday: 11:00 AM – 8:00 PM",
+      "Friday: 11:00 AM – 8:30 PM",
+      "Saturday: 11:00 AM – 8:30 PM",
+      "Sunday: 11:00 AM – 8:30 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Famous Fried Shrimp",
+          "items": [
+            {
+              "name": "Big 'Un Fried Shrimp",
+              "tags": [],
+              "price": 22.99,
+              "dietary": [],
+              "popular": false,
+              "description": "The best fried shrimp in the entire civilized world. Served with fries or baked potato, coleslaw & hush puppies",
+              "subcategory": null
+            },
+            {
+              "name": "Big 'Un",
+              "tags": [],
+              "price": 22.99,
+              "dietary": [],
+              "popular": false,
+              "description": "The Best Fried Shrimp In The Entire Civilized World! Served with fries or baked potato, coleslaw and hush puppies.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Oysters",
+          "items": [
+            {
+              "name": "Oysters on the Half Shell",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "1/2 dozen and 1 dozen oysters on the half shell",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Seafood Platters",
+          "items": [
+            {
+              "name": "Doc's Seafood Platter",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Create your own seafood platter. Grilled, fried, or baked options available",
+              "subcategory": null
+            },
+            {
+              "name": "Baked Seafood Platter",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Skewer of grilled shrimp, fried clam strips, baked stuffed crab, fish fillet, boiled potatoes & salad, creamy coleslaw, hush puppies, free cup of gumbo",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Other Specialties",
+          "items": [
+            {
+              "name": "Seafood Gumbo",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Fried Fish",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Soft Shell Crabs",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Steamed Deep Water Royal Red Shrimp",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Fried Crab Claws",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Grilled Shrimp",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Handmade Crab Cakes",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Chicken Fingers",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Onion Rings",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Hamburger",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Fried Chicken",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Specialty Items",
+          "items": [
+            {
+              "name": "Seafood Gumbo",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Traditional Gulf Coast seafood gumbo",
+              "subcategory": null
+            },
+            {
+              "name": "Oysters on the Half Shell",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh raw oysters",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Fish",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fresh fish filets",
+              "subcategory": null
+            },
+            {
+              "name": "Chicken Fingers",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fried chicken fingers",
+              "subcategory": null
+            },
+            {
+              "name": "Onion Rings",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Homemade onion rings",
+              "subcategory": null
+            },
+            {
+              "name": "Soft Shell Crabs",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Seasonal soft shell crabs",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Crab Claws",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Fried crab claws",
+              "subcategory": null
+            },
+            {
+              "name": "Deep Water Royal Red Shrimp",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Steamed or prepared your preferred way",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Signature Plates",
+          "items": [
+            {
+              "name": "Doc's Super Seafood Platter",
+              "tags": [],
+              "price": 37.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Crispy fried shrimp, house stuffed crab, golden fried fish fillets, classic Southern sides",
+              "subcategory": null
+            },
+            {
+              "name": "14oz Ribeye",
+              "tags": [],
+              "price": 43.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Hand-cut ribeye, char-grilled to order, juicy, tender, full flavor, choice of two sides",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Blue Plate Specials",
+          "items": [
+            {
+              "name": "Gumbo & Salad Bar",
+              "tags": [],
+              "price": 14.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Bowl of Gumbo, 1 Trip Salad Bar",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Early Bird Specials",
+          "items": [
+            {
+              "name": "Best Fried Shrimp in the Entire Civilized World",
+              "tags": [],
+              "price": 13.99,
+              "dietary": [],
+              "popular": false,
+              "description": "4 Fried Shrimp, 1 Stuffed Crab, 2 Fish Filets",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Appetizers",
+          "items": [
+            {
+              "name": "Dynamite Shrimp",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Doc's signature Dynamite Shrimp, lightly fried, saucy, savory, bold",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "scraped-menus",
+      "all-businesses",
+      "consolidation",
+      "consolidation-venue-data",
+      "raw-page-data",
+      "structured-data",
+      "gcr-import-ready",
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:25.32704+00:00",
+    "updated_at": "2026-05-18T21:28:40.036206+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "90e0cacf-4641-44db-b950-fbac409662e0",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "611187e1-1b28-420f-a497-83c27ff976d3",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "cb2bc2b3-ea6a-4f32-bc67-45e14f3815f2",
+      "tag": "seafood",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "97b1f911-ddc4-49ef-810d-d26be6a22da9",
+      "tag": "fried-shrimp",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "a9dcabc6-74af-4661-a17a-377963cdd655",
+      "tag": "fried-shrimp",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "d5cfbd10-e07a-4932-a082-23e91aaa3bd7",
+      "tag": "fried-shrimp",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "58c1148c-4130-4ba7-ab28-238b1f2981bd",
+      "tag": "oysters",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "a33b74e7-da2a-4ca6-a309-23b4eeacbdfc",
+      "tag": "oysters",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "e949fe44-2f37-4648-a2ca-df8319b40dbd",
+      "tag": "oysters",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "2bc6f2e1-8fce-4d5f-b9ae-1499e8e7cf62",
+      "tag": "orange-beach",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "52d83dbe-2c6f-4843-8ca8-6a1f61b4699c",
+      "tag": "orange-beach",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "4ddb4ea8-f817-4a5c-a6fb-69a5deae0e0d",
+      "tag": "orange-beach",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "0c349f38-cfc9-4054-8714-d135051aab5b",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "fd9d8fad-5c9f-4e87-8878-2d9d1091e54c",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "f60e6639-1f1a-4754-82bd-b1dea46770a9",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "5353b94c-a965-4434-ae68-e03666aaffe5",
+      "tag": "waterfront",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "d475102c-3404-45f4-ae61-23cd3e6db69a",
+      "tag": "waterfront",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "677a1515-1932-4fbe-9273-b52723aa3f09",
+      "tag": "waterfront",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "f5a51c8f-1677-493a-9a0d-983cc717f8a9",
+      "tag": "local-favorite",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "48380778-509d-425f-a2e5-10b4db80b032",
+      "tag": "local-favorite",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "a8dc87e3-0395-44e4-a3cc-dad6608fd71b",
+      "tag": "local-favorite",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "62bc586a-6751-4ef6-aba8-294fb796a236",
+      "tag": "fresh-seafood",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "e222ee7d-1a24-4c6f-ad47-73b4d433dd0a",
+      "tag": "fresh-seafood",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "354c30ec-92a8-4b66-b497-db86adb4fdbf",
+      "tag": "fresh-seafood",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "c908a0fc-297d-4204-8677-1608eeee6a04",
+      "tag": "gumbo",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "078ee468-50ab-45f3-9b8f-34d0034339b3",
+      "tag": "gumbo",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "135b4a3f-f522-49a1-80c1-e5464afbb5e4",
+      "tag": "gumbo",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "c82947ae-3684-47c7-ad25-85a05f0d1ae4",
+      "tag": "fish",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "e3c049a2-6ff1-403e-be97-b025bed34c0e",
+      "tag": "fish",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "a64e0ed6-c4cc-4ebd-8325-06f455100fef",
+      "tag": "fish",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "5a7c1f10-4ff1-4046-8190-5ace9cc5de9a",
+      "tag": "seafood-platter",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "579f49eb-0764-4389-a1b5-0f0758caabf6",
+      "tag": "seafood-platter",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "9acd9a27-e47b-4028-90dc-b96887a95cb4",
+      "tag": "seafood-platter",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "21625d15-9f8b-45b8-9135-1c82693b9ac4",
+      "tag": "takeout",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "f9d0d86a-3197-4509-bd92-1decc6c947be",
+      "tag": "takeout",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "4d967000-ffb5-406a-bead-06a925733b84",
+      "tag": "takeout",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "bd3292d2-09eb-4567-82ca-a1bbb78bef33",
+      "tag": "delivery",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "94a470e4-ca44-4f5b-957b-b7dbb14cb100",
+      "tag": "delivery",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "c81d33bf-3c0d-4d29-9e72-f8177bb02a5e",
+      "tag": "delivery",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "a371f03d-c552-4af0-b57e-411eb09da934",
+      "tag": "pickup",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "8b06f525-4529-41a6-ae23-e7f2c5f1607d",
+      "tag": "pickup",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "887ffb41-c5e3-48c6-b514-3144fa44c9d9",
+      "tag": "pickup",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "6449a403-7d24-4d34-a539-9f5109865db2",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "92cefb16-3c32-4a45-a78a-69eb9a2eb212",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "e0a2e8cf-cd12-4bbb-a074-9e5fc86f8f06",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "56d13be7-c0b6-4b49-9d3d-4201f991b8a1",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 15
+    },
+    {
+      "id": "13760efe-7ed3-426f-a8ed-1041e8e8a52d",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 15
+    },
+    {
+      "id": "8eff7a27-2984-47a4-9019-ed965973a563",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 15
+    },
+    {
+      "id": "9014d1a8-35ea-40e2-aadf-88e4b4446f40",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 16
+    },
+    {
+      "id": "0f80954e-43e3-467d-a1e3-8f083a7f47ca",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 16
+    },
+    {
+      "id": "1e99a0c5-d511-4099-a829-d7d3bcff45f0",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 16
+    },
+    {
+      "id": "f1dec849-0dd9-47c3-b2f8-b47fac0eb932",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 17
+    },
+    {
+      "id": "f3ee5dec-f701-461f-aa0e-07bde92a0776",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 17
+    },
+    {
+      "id": "3e5e0068-bce1-4ae1-ae9b-3cd884cf957f",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 17
+    },
+    {
+      "id": "d8aa80d1-d501-4a39-aa49-b72b63cc4cbf",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 18
+    },
+    {
+      "id": "456d2cc9-92fc-4155-92e9-c799199c2672",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 18
+    },
+    {
+      "id": "ea7112a5-1138-4777-9e97-0780cd4cef6b",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 18
+    },
+    {
+      "id": "bf5762af-b95d-43f3-9146-b225ece45533",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 19
+    },
+    {
+      "id": "0a71b012-bb79-49e2-a608-5c9815a1b141",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 19
+    },
+    {
+      "id": "836b47f5-edbf-4ce2-a014-4385c23a9a92",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 19
+    },
+    {
+      "id": "b61265d7-58f8-4838-80e2-644c72043f6b",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 20
+    },
+    {
+      "id": "b9395ebb-9867-4b41-961e-2d3ff53befb9",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 20
+    },
+    {
+      "id": "99e6473f-0b28-4715-b21b-83b196396173",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 20
+    },
+    {
+      "id": "abbd2a30-4a63-420e-a6a1-8a6c1d78bcd6",
+      "tag": "lunch-specials",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "c492745d-ea95-498a-8d9e-4e51e256a0c2",
+      "tag": "lunch-specials",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "138900bd-2607-4ade-aa2c-ed9b6e72153b",
+      "tag": "lunch-specials",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "5a9168b6-c30d-4bc0-bef0-a5be0ab115eb",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "a2270685-92ed-49ea-8f7b-fa4296906feb",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "5800ad16-53af-44f3-874d-5ca4dbc89e48",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "370e8b5b-43d2-4c45-9605-860619438f6f",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 23
+    },
+    {
+      "id": "63dfb061-aa0f-4f51-9d43-e09d98c29b00",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 23
+    },
+    {
+      "id": "437257bf-d08e-48bd-9ba3-681725f7040a",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 23
+    },
+    {
+      "id": "c00a422b-d63e-45a2-a015-786f5e4bccad",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 24
+    },
+    {
+      "id": "31a87e10-51a4-4d40-8ee9-c61e590ef36d",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 24
+    },
+    {
+      "id": "0ae4831f-ba29-482a-930e-bb5860d47c8d",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 24
+    },
+    {
+      "id": "189fdffd-6745-4cc8-beee-057bd7b80b72",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "4bc1fbf5-03ac-45dc-85ab-925ea1c28a0f",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "75868a06-346a-440b-8826-dc68b7e7daaa",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "e2e50b77-b4de-400b-95bd-af42be17b426",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 26
+    },
+    {
+      "id": "1a649975-d83a-4f0d-a84c-fac03aef887a",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 26
+    },
+    {
+      "id": "bfe9b455-e8b6-4d43-96b6-b3452f0d6a3e",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 26
+    },
+    {
+      "id": "39be980e-2fcd-4b60-afcc-6ca6bb9ba6fa",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 27
+    },
+    {
+      "id": "bd4181ea-afcd-4342-8695-069b73cba83d",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 27
+    },
+    {
+      "id": "99183920-f420-4150-9c4d-fafb187d501a",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 27
+    },
+    {
+      "id": "aa65dfc3-6744-45d8-8188-12b6bb0d71ef",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 28
+    },
+    {
+      "id": "4550e034-d2c3-4c71-9393-609d25a06e80",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 28
+    },
+    {
+      "id": "99d22e70-1d5f-4e86-afb3-ca761e985c42",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 28
+    },
+    {
+      "id": "d6618b26-00f2-4a8b-b8a7-939127bd98db",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "28e36676-62b3-4322-909f-d4a38459f62c",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "9d861bc7-96fa-4cbd-bd0d-b9984aec634f",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "8b443a8e-4ad5-4008-8e01-06151ede1573",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 30
+    },
+    {
+      "id": "b0cd6fa4-1b9e-480c-b537-1b715bf48ab6",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 30
+    },
+    {
+      "id": "c1510cee-d431-4262-a2c9-df9920fabd0a",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 30
+    },
+    {
+      "id": "eb6c293f-af17-4f3b-b001-229654c15a5a",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 31
+    },
+    {
+      "id": "0fabb293-edd1-4db8-b327-0506c57e9912",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 31
+    },
+    {
+      "id": "c760ff6b-4f96-421c-8876-0b630909eeb8",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 31
+    },
+    {
+      "id": "7bd0f470-a361-4c46-8c75-664e241734c8",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "365e2070-896c-46ef-bccf-ef021dff3685",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "99746f4a-73fe-4378-8b52-0cd3dc6d3d71",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "8219a427-c0e2-45fb-9358-4d6ae6f1156a",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 33
+    },
+    {
+      "id": "cd6b43a5-a047-4365-b609-210717a3c6ca",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 33
+    },
+    {
+      "id": "ad2475c8-7582-45f2-becd-0a9685e311ef",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 33
+    },
+    {
+      "id": "28e52a2e-8ac2-49cc-a0db-617a013e28a7",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 34
+    },
+    {
+      "id": "6ad3324c-2b77-4d93-bdf9-25db09f1ab70",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 34
+    },
+    {
+      "id": "0400e9b2-702d-402e-888f-1ffea4a2c733",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 34
+    },
+    {
+      "id": "60f996c7-ec5e-45de-b57d-0787cd846a6c",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 35
+    },
+    {
+      "id": "6b2e8289-bf78-4230-bb0f-53d675ef53d3",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 35
+    },
+    {
+      "id": "04e048c9-dc4c-47c9-811b-349d2322a1c0",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 35
+    },
+    {
+      "id": "5f845d18-02f8-4556-b7c2-bfae4f371bd0",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "3c941337-63a0-44c7-9f74-b78e0ec4c79c",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "4a757b96-d469-4f7d-bb95-b774a034a75c",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "9ccb9c58-d80b-46dc-8399-33322cd84975",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 37
+    },
+    {
+      "id": "dcf8c97a-be38-4df2-8048-9183f8a0d9e6",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 37
+    },
+    {
+      "id": "7cc4ef51-1ee7-4fd7-9dc1-83b51de9c73f",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 37
+    },
+    {
+      "id": "9ff56fd7-de0d-4e11-acbd-25b824e59e8a",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 38
+    },
+    {
+      "id": "4c2f3844-faef-43e8-ac93-08ea7fc9b763",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 38
+    },
+    {
+      "id": "14c2b126-c1a2-4d26-a13a-2396f5f43c75",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 38
+    },
+    {
+      "id": "79471bfe-188c-432b-9e27-1baa57226cc7",
+      "tag": "fresh",
+      "tag_category": "search",
+      "sort_order": 39
+    },
+    {
+      "id": "e7a767e1-1ba8-475c-b2bf-cb7170b59770",
+      "tag": "fresh",
+      "tag_category": "search",
+      "sort_order": 39
+    },
+    {
+      "id": "113daebc-f16a-4d62-b965-ec5e8041c53f",
+      "tag": "fresh",
+      "tag_category": "search",
+      "sort_order": 39
+    },
+    {
+      "id": "1832696b-e2d9-4c22-9718-cd659c64f2b3",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 40
+    },
+    {
+      "id": "e6c67ace-66c3-440d-8ed6-795a2f7b1274",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 40
+    },
+    {
+      "id": "3dff3c2b-c137-41e0-9348-0e90948f5ee0",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 40
+    },
+    {
+      "id": "a5707b82-d088-4bdd-a55a-1a4cd20b7eb5",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 41
+    },
+    {
+      "id": "e58b8a70-1004-4051-b45f-a5cdaa922950",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 41
+    },
+    {
+      "id": "521d0043-154a-4478-8cd0-228038e100c8",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 41
+    },
+    {
+      "id": "cbbe88fb-2669-465d-b816-7ea9d0a276df",
+      "tag": "oyster-bar",
+      "tag_category": "search",
+      "sort_order": 42
+    },
+    {
+      "id": "2efe6569-91a0-4442-9df9-a0c07ce1d967",
+      "tag": "oyster-bar",
+      "tag_category": "search",
+      "sort_order": 42
+    },
+    {
+      "id": "e62ec47b-26e4-4427-9b4c-6111bcf5e0dd",
+      "tag": "oyster-bar",
+      "tag_category": "search",
+      "sort_order": 42
+    },
+    {
+      "id": "9a55fd41-fbd3-4360-9bfd-80c84ab57287",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "92275484-10ad-4a87-8ae4-cfcc829c5734",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "d6352108-5e60-4f00-a5eb-30ed7daca52c",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "538b2a01-734a-41bc-8f43-53284d095ff9",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 44
+    },
+    {
+      "id": "1317337a-e903-43de-b4f0-881e8f510fab",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 44
+    },
+    {
+      "id": "11f7b5bd-8c76-4b7f-83f1-bd8fad4bdd94",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 44
+    }
+  ],
+  "sections": [
+    {
+      "id": "5ff9ecab-78ab-40d3-87b4-d30f291e6c27",
+      "section_key": "famous_fried_shrimp",
+      "section_label": "Famous Fried Shrimp",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "a28bf5ce-babc-494a-81cd-930a50cb9066",
+      "section_key": "oysters",
+      "section_label": "Oysters",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "208252e4-cedf-402c-82b5-cb6883d96aa3",
+      "section_key": "seafood_platters",
+      "section_label": "Seafood Platters",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "section_key": "other_specialties",
+      "section_label": "Other Specialties",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "d3890cfe-bb72-47c8-bb33-e3a85b742e58",
+      "section_key": "specialty_items",
+      "section_label": "Specialty Items",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "47777360-eeb5-4112-8335-eff39f0edbb4",
+      "section_key": "specials",
+      "section_label": "Specials",
+      "section_type": "specials",
+      "sort_order": 5
+    },
+    {
+      "id": "4b006b2c-cce1-4ffb-b06e-048b2313bd60",
+      "section_key": "events",
+      "section_label": "Events",
+      "section_type": "events",
+      "sort_order": 10
+    },
+    {
+      "id": "ff65521c-087b-4ec3-bc5b-9bf7755e12eb",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [
+    {
+      "id": "a751babe-1331-4817-b624-91fcb091a7d6",
+      "section_id": "208252e4-cedf-402c-82b5-cb6883d96aa3",
+      "group_id": null,
+      "item_name": "Doc's Seafood Platter",
+      "item_description": "Create your own seafood platter. Grilled, fried, or baked options available",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "40ddd76d-0064-4355-ae95-1b362ea57e12",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Seafood Gumbo",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 0,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "cbd64165-da80-4527-b4d9-117f90a2ed83",
+      "section_id": "208252e4-cedf-402c-82b5-cb6883d96aa3",
+      "group_id": null,
+      "item_name": "Baked Seafood Platter",
+      "item_description": "Skewer of grilled shrimp, fried clam strips, baked stuffed crab, fish fillet, boiled potatoes & salad, creamy coleslaw, hush puppies, free cup of gumbo",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "2d707a74-8b0f-4ea3-8da5-e76ebe4ecc82",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Fried Fish",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 1,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "09ede332-ef6a-471c-b67e-e61b186c392e",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Soft Shell Crabs",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 2,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "d3e6a0b0-3333-4e54-875e-341c5923dfd2",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Steamed Deep Water Royal Red Shrimp",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 3,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "16c14c7a-f272-4f5d-9d8d-29de5a223583",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Fried Crab Claws",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 4,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "0ab1c6f6-3403-41b5-a8bb-b3bbeb4d31d0",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Grilled Shrimp",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 5,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "b8bbbf29-ed7a-4f15-8866-31fada0b7741",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Handmade Crab Cakes",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 6,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "419a27fa-22f4-422e-992a-15e371f551dd",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Chicken Fingers",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 7,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "b32009d8-888a-4144-a057-622887cfdf1b",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Onion Rings",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 8,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "d34e8629-a0b9-44f3-8483-07c23d9ad3ee",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Hamburger",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 9,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    },
+    {
+      "id": "060d8bab-0379-407d-bb78-f5795f39eea9",
+      "section_id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+      "group_id": null,
+      "item_name": "Fried Chicken",
+      "item_description": "",
+      "price_label": null,
+      "price_text": "",
+      "price_numeric": null,
+      "price_min": null,
+      "price_max": null,
+      "unit_label": null,
+      "item_type": null,
+      "image_url": null,
+      "metadata_json": null,
+      "sort_order": 10,
+      "allergens": null,
+      "tags": null,
+      "item_style": null,
+      "abv": null,
+      "ibu": null,
+      "brewery": null,
+      "cuisine_style": null,
+      "course": null,
+      "bedrooms": null,
+      "bathrooms": null,
+      "sqft": null,
+      "category": null,
+      "amenity_type": null,
+      "features": null,
+      "availability": null,
+      "capacity": null
+    }
+  ],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "e550b49d-c314-4a11-a05f-dc4d3cf010ec",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55811c01-7fba-4ca5-9be9-e4983ed6587a/55811c01-7fba-4ca5-9be9-e4983ed6587a_1779131434578.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:45.121433+00:00"
+    },
+    {
+      "id": "1ae5a4f6-f8b1-4b79-a265-80187e6c6c98",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55811c01-7fba-4ca5-9be9-e4983ed6587a/55811c01-7fba-4ca5-9be9-e4983ed6587a_1779131976705.3665.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:45.27954+00:00"
+    },
+    {
+      "id": "65680956-be3e-4222-a504-d1514bf1edfa",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/55811c01-7fba-4ca5-9be9-e4983ed6587a/55811c01-7fba-4ca5-9be9-e4983ed6587a_1779139714928.867.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:45.44227+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [
+      {
+        "id": "5ff9ecab-78ab-40d3-87b4-d30f291e6c27",
+        "section_name": "Famous Fried Shrimp",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+        "sort_order": 0
+      },
+      {
+        "id": "a28bf5ce-babc-494a-81cd-930a50cb9066",
+        "section_name": "Oysters",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+        "sort_order": 0
+      },
+      {
+        "id": "208252e4-cedf-402c-82b5-cb6883d96aa3",
+        "section_name": "Seafood Platters",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+        "sort_order": 0
+      },
+      {
+        "id": "04b229ae-80a4-44af-ae00-72e643c7681d",
+        "section_name": "Other Specialties",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+        "sort_order": 0
+      },
+      {
+        "id": "d3890cfe-bb72-47c8-bb33-e3a85b742e58",
+        "section_name": "Specialty Items",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": [
+      {
+        "id": "a751babe-1331-4817-b624-91fcb091a7d6",
+        "item_name": "Doc's Seafood Platter",
+        "description": "Create your own seafood platter. Grilled, fried, or baked options available",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "208252e4-cedf-402c-82b5-cb6883d96aa3"
+      },
+      {
+        "id": "40ddd76d-0064-4355-ae95-1b362ea57e12",
+        "item_name": "Seafood Gumbo",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 0,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "cbd64165-da80-4527-b4d9-117f90a2ed83",
+        "item_name": "Baked Seafood Platter",
+        "description": "Skewer of grilled shrimp, fried clam strips, baked stuffed crab, fish fillet, boiled potatoes & salad, creamy coleslaw, hush puppies, free cup of gumbo",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "208252e4-cedf-402c-82b5-cb6883d96aa3"
+      },
+      {
+        "id": "2d707a74-8b0f-4ea3-8da5-e76ebe4ecc82",
+        "item_name": "Fried Fish",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 1,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "09ede332-ef6a-471c-b67e-e61b186c392e",
+        "item_name": "Soft Shell Crabs",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 2,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "d3e6a0b0-3333-4e54-875e-341c5923dfd2",
+        "item_name": "Steamed Deep Water Royal Red Shrimp",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 3,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "16c14c7a-f272-4f5d-9d8d-29de5a223583",
+        "item_name": "Fried Crab Claws",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 4,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "0ab1c6f6-3403-41b5-a8bb-b3bbeb4d31d0",
+        "item_name": "Grilled Shrimp",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 5,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "b8bbbf29-ed7a-4f15-8866-31fada0b7741",
+        "item_name": "Handmade Crab Cakes",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 6,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "419a27fa-22f4-422e-992a-15e371f551dd",
+        "item_name": "Chicken Fingers",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 7,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "b32009d8-888a-4144-a057-622887cfdf1b",
+        "item_name": "Onion Rings",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 8,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "d34e8629-a0b9-44f3-8483-07c23d9ad3ee",
+        "item_name": "Hamburger",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 9,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      },
+      {
+        "id": "060d8bab-0379-407d-bb78-f5795f39eea9",
+        "item_name": "Fried Chicken",
+        "description": "",
+        "price_text": "",
+        "price": null,
+        "image_url": null,
+        "allergens": "",
+        "tags": [],
+        "sort_order": 10,
+        "menu_section_id": "04b229ae-80a4-44af-ae00-72e643c7681d"
+      }
+    ]
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "01849060-447d-4254-89e8-34cd28adbd62",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Justin Colvard Duo | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Justin Colvard Duo",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:09.625965+00:00"
+    },
+    {
+      "id": "c64de322-6fb0-4bc6-8bfd-895edb704cd4",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Austin Thompson | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Austin Thompson",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:09.700182+00:00"
+    },
+    {
+      "id": "41eb32b4-95d5-4c7d-a639-a29059d37ce8",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Justin Colvard Duo | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Justin Colvard Duo",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:09.776116+00:00"
+    },
+    {
+      "id": "3cd1dd0c-84d6-40bd-b36e-4e13976e579d",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Aaron Smithey | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Aaron Smithey",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:09.847737+00:00"
+    },
+    {
+      "id": "6e11e9b0-1b50-46ca-a5eb-2e6bab939dec",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Tim Nowell | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Tim Nowell",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:09.92078+00:00"
+    },
+    {
+      "id": "17920bb5-22f5-48df-a302-4763c17faff0",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Justin Colvard Duo | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Justin Colvard Duo",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:09.998782+00:00"
+    },
+    {
+      "id": "6f163844-4b0a-477e-a296-d0de51dcce9a",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "David Wiley | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "David Wiley",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:10.110201+00:00"
+    },
+    {
+      "id": "22a900f0-2c49-4152-b3a2-8600176d389c",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Tim Nowell | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Tim Nowell",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:10.18142+00:00"
+    },
+    {
+      "id": "61af59fa-aa38-4616-9656-799e949d2f57",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Tim Nowell | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Tim Nowell",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:10.256006+00:00"
+    },
+    {
+      "id": "00c223ba-b560-4f83-8b5b-ef0b1a373744",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Tim Nowell | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Tim Nowell",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:10.330255+00:00"
+    },
+    {
+      "id": "90ca30b0-a9f2-42b2-8133-4327c71e6f21",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Tim Nowell | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Tim Nowell",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:10.416155+00:00"
+    },
+    {
+      "id": "8383de2e-944d-4b67-9e4d-43162343b44e",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Tim Nowell | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Tim Nowell",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:10.48689+00:00"
+    },
+    {
+      "id": "a171d9e4-9635-44bb-bc60-f554439e4822",
+      "entity_id": "55811c01-7fba-4ca5-9be9-e4983ed6587a",
+      "place_id": "ChIJ2y7BnEwGmogRujXFVtdDpkU",
+      "event_name": "Tim Nowell | Doc’s Seafood and Steaks | Orange Beach",
+      "event_type": null,
+      "description": null,
+      "artist_name": "Tim Nowell",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": null,
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-19T02:22:10.561211+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

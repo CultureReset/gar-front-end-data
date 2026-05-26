@@ -1,32 +1,691 @@
 {
-  "id": "f83c9150-b871-41ba-ae8e-97d267d15704",
-  "slug": "change-of-pace-at-turquoise-place-turquoise-place-guests-only-4OWtKc",
-  "name": "Change of Pace at Turquoise Place (Turquoise Place Guests Only)",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 923-5402",
-  "email": null,
-  "website_url": "https://turquoiseplace.spectrumresorts.com/dining/change-of-pace/?utm_source=google_places&utm_medium=referral",
-  "address_line_1": "26350 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.9,
-  "review_count": 12,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/f83c9150-b871-41ba-ae8e-97d267d15704/f83c9150-b871-41ba-ae8e-97d267d15704_1779139722974.8582.jpg",
-  "photos": [],
+  "entity": {
+    "id": "f83c9150-b871-41ba-ae8e-97d267d15704",
+    "place_id": "ChIJC-zOA1sHmogRMg0c94OWtKc",
+    "google_maps_uri": "https://maps.google.com/?cid=12084449193672576306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "change-of-pace-at-turquoise-place-turquoise-place-guests-only-4OWtKc",
+    "name": "Change of Pace at Turquoise Place (Turquoise Place Guests Only)",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 923-5402",
+    "international_phone": null,
+    "website_url": "https://turquoiseplace.spectrumresorts.com/dining/change-of-pace/?utm_source=google_places&utm_medium=referral",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26350 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2718755,
+    "longitude": -87.5732569,
+    "short_address": "26350 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 12,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/f83c9150-b871-41ba-ae8e-97d267d15704/f83c9150-b871-41ba-ae8e-97d267d15704_1779139722974.8582.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": false
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 6:00 PM",
+      "Tuesday: 9:00 AM – 6:00 PM",
+      "Wednesday: 9:00 AM – 6:00 PM",
+      "Thursday: 9:00 AM – 6:00 PM",
+      "Friday: 9:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 6:00 PM",
+      "Sunday: 9:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.brett-robinson.com/beach-condo/turquoise-place/",
+      "tags": [
+        "beachfront",
+        "family-friendly",
+        "luxury",
+        "pools",
+        "resort-style",
+        "Orange Beach",
+        "Alabama Gulf Coast"
+      ],
+      "type": "Condo Resort",
+      "about": {
+        "floors": null,
+        "check_in": null,
+        "check_out": null,
+        "year_built": null,
+        "description": "Turquoise Place is a beachfront condo resort in Orange Beach, Alabama, managed by Brett/Robinson Vacation Rentals, a family-owned company with over 40 years of experience. The property offers beachfront condos with modern amenities, resort-style pools, and direct Gulf access.",
+        "total_units": null,
+        "minimum_stay": "3 nights",
+        "pet_friendly": false,
+        "elevator_pitch": "Beachfront luxury condo resort in Orange Beach with premier amenities and family-friendly accommodations on the Gulf of Mexico.",
+        "age_restriction": "Must be 25 years of age to book"
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "dining": [],
+      "contact": {
+        "zip": "36561",
+        "city": "Orange Beach",
+        "email": null,
+        "phone": "1-800-211-7892",
+        "state": "AL",
+        "address": "26350 Perdido Beach Blvd"
+      },
+      "gallery": [
+        "https://www.brett-robinson.com/assets/images/BRV-25-95-Vacations-Logo-GS-OB-PK-Horizontal-V2.png",
+        "https://www.brett-robinson.com/uploads/BRV-26-25--Easter-30-Days-WebpageGraphic_184150.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-27--Mothers-Day-60-Days-WebpageGraphic_185358.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-11-Memorial-Day-Stays-V1-WebpageGraphic_150618.jpg",
+        "https://www.brett-robinson.com/uploads/BRV-26-14-4-Bedroom-WebpageGraphic-V4_105813.jpg",
+        "https://www.brett-robinson.com/uploads/lFullSizeRender_110222.jpg",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024446PM_144957.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024255PM_144955.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024250PM_144952.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024550PM_145000.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024658PM_145003.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024800PM_145005.png",
+        "https://www.brett-robinson.com/uploads/ChatGPTImageJun92025024929PM_150512.png",
+        "https://www.brett-robinson.com/uploads/45dcbabd-14da-4c03-86b9-e33b1bec1699_152424.png",
+        "https://www.brett-robinson.com/uploads/f7c22236-e96b-4131-a6ef-3b8c161f6d60_152431.png",
+        "https://www.brett-robinson.com/uploads/114f4761-0d52-45a5-adf7-626f0144ccf1_152427.png",
+        "https://www.brett-robinson.com/uploads/7ea53f3d-a24b-4d65-96fa-e5f6adaf272d_152421.png",
+        "https://www.brett-robinson.com/uploads/b96b1f24-e333-42bc-9e47-d77fd57855e4_152429.png",
+        "https://www.brett-robinson.com/uploads/732961ba-7d13-4aa9-9294-690e2e1f3420_153528.png",
+        "https://www.brett-robinson.com/uploads/31e08f79-9b97-4008-a4c9-aac831c9b812_153520.png",
+        "https://www.brett-robinson.com/uploads/bad38faf-f976-4ddb-bf87-78b7a03d52df_153530.png",
+        "https://www.brett-robinson.com/uploads/9c90c840-9dd2-46b1-bc95-cc5c75810af3_153523.png",
+        "https://www.brett-robinson.com/uploads/9703bb55-7293-4a01-ad02-34e7793ffbd7_153525.png"
+      ],
+      "sources": [
+        "https://www.brett-robinson.com/beach-condo/turquoise-place",
+        "https://www.brett-robinson.com/specials-and-promotions",
+        "https://www.brett-robinson.com/specials-and-promotions/4bedrooms?icid=4+bedrooms&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/charming-beachfront-stays-for-a-tranquil-getaway?icid=Hidden-Gems&startDate=2026-06-28&endDate=2026-07-01",
+        "https://www.brett-robinson.com/specials-and-promotions/memorial90?icid=Memorial-Day-90&startDate=2026-05-21&endDate=2026-05-24",
+        "https://www.brett-robinson.com/specials-and-promotions/mothers-day-1?icid=Mothers-Day&startDate=2026-05-07&endDate=2026-05-09",
+        "https://www.brett-robinson.com/specials-and-promotions/spring-informationalb?icid=Spring-InformationalB&startDate=2026-03-05&endDate=2026-03-08",
+        "https://www.brett-robinson.com/specials-and-promotions/easter?icid=Easter&startDate=2026-04-02&endDate=2026-04-05",
+        "https://www.brett-robinson.com/history-of-brettrobinson",
+        "https://www.brett-robinson.com/gulf-shores-orange-beach-events",
+        "https://www.brett-robinson.com/about-brett-robinson",
+        "https://www.brett-robinson.com/office-locations",
+        "https://www.brett-robinson.com/contact",
+        "https://www.brett-robinson.com/driving-directions"
+      ],
+      "tagline": null,
+      "features": [
+        "on-site covered parking",
+        "on-site reserved parking",
+        "private beach access",
+        "elevators",
+        "beach chair rentals",
+        "zero entry pool",
+        "lazy river",
+        "sauna",
+        "steam room",
+        "tennis courts",
+        "indoor pool",
+        "outdoor pool",
+        "kiddie pool",
+        "hot tub",
+        "bbq grills",
+        "washer/dryer in units"
+      ],
+      "location": {
+        "bay_view": false,
+        "beachfront": true,
+        "description": "Beachfront on Gulf of Mexico in Orange Beach, Alabama"
+      },
+      "specials": [
+        {
+          "name": "Seasonal Discounts",
+          "dates": "Year-round",
+          "description": "Seasonal promotions and discounts on select dates throughout the year"
+        },
+        {
+          "name": "Snowbird Specials",
+          "dates": "Seasonal",
+          "description": "Special rates for longer stays during winter months"
+        },
+        {
+          "name": "Last-Minute Deals",
+          "dates": "Ongoing",
+          "description": "Last-minute discounts on available inventory"
+        },
+        {
+          "name": "Promo Codes",
+          "dates": "Varies",
+          "description": "Percentage-off promotions with codes (past examples include Bama2025 for 10% savings)"
+        }
+      ],
+      "amenities": {
+        "spa": false,
+        "gated": false,
+        "other": [
+          "sauna",
+          "steam room",
+          "beach chair rentals",
+          "washer/dryer in units"
+        ],
+        "pools": [
+          "outdoor pool",
+          "indoor pool",
+          "lazy river",
+          "zero entry pool",
+          "kiddie pool"
+        ],
+        "parking": "on-site covered parking, on-site reserved parking",
+        "hot_tubs": true,
+        "elevators": true,
+        "bbq_grills": true,
+        "bar_on_site": false,
+        "tennis_courts": true,
+        "fitness_center": false,
+        "business_center": false,
+        "kids_splash_pad": false,
+        "pickleball_courts": false,
+        "restaurant_on_site": false,
+        "private_beach_access": true
+      },
+      "scraped_at": "2026-03-21T21:23:35.917Z",
+      "unit_types": [
+        {
+          "name": "Turquoise Place C2602",
+          "view": "beach front",
+          "sq_ft": null,
+          "sleeps": null,
+          "bedrooms": null,
+          "features": [
+            "television",
+            "washer",
+            "dryer",
+            "essentials"
+          ],
+          "bathrooms": null,
+          "starting_price": null
+        }
+      ],
+      "extracted_at": "2026-03-23T04:16:06.422Z",
+      "social_links": {
+        "website": "https://www.brett-robinson.com/beach-condo/turquoise-place/",
+        "facebook": "https://www.facebook.com/BrettRobinsonVacations",
+        "instagram": "https://www.instagram.com/brett_robinson_vacations"
+      },
+      "business_name": "Turquoise Place"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "raw-page-data",
+      "gcr-organized",
+      "all-businesses",
+      "consolidation"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.7741+00:00",
+    "updated_at": "2026-05-18T21:28:47.826936+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "fa13392b-5ed6-45a0-8e51-aaad82c38e0c",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 0
+    },
+    {
+      "id": "4b44e736-ce23-4fe2-bd20-2163140c23f8",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 0
+    },
+    {
+      "id": "ff1fc41e-6454-4302-8f67-92d491820e43",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 1
+    },
+    {
+      "id": "f104c305-7761-4b01-b9d5-12d1197a872e",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 1
+    },
+    {
+      "id": "5a7bfcb0-589f-4e63-9cca-2a8dace56bb7",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 2
+    },
+    {
+      "id": "2dda4582-4b57-486b-8ddc-12b14940a31b",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 2
+    },
+    {
+      "id": "49c3d7d8-d177-44f7-add9-fe5a6e828e16",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 3
+    },
+    {
+      "id": "ad4cc3cd-c765-42cb-9036-a2ce95ff11e8",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 3
+    },
+    {
+      "id": "29625145-f54c-4683-adeb-41d79eb6a48b",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 4
+    },
+    {
+      "id": "34b8f17c-e127-4353-866e-d5d22eab829d",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 4
+    },
+    {
+      "id": "520a7a40-0290-4e2f-a853-c6e62cec10d4",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "56086a4a-4e00-4dc0-8e7c-f9591d081c31",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "8991de4c-f894-4059-8cf8-54dd7765dc37",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "4fb35912-e320-4db5-8a97-256619c206a0",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "c8a5fc73-f1bd-49ae-8c46-6e242c760ac7",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 7
+    },
+    {
+      "id": "1dd635f3-fd04-465e-9483-1da408c5eafe",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 7
+    },
+    {
+      "id": "0a20f11e-c778-40a8-bd63-918a3b4facc8",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "cc7ace06-01bd-491a-969a-ad94eacb5441",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "6af4844c-d724-4d92-b392-8b57408e183f",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "2b13e528-ebd6-4119-93f4-0071ba5536c5",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "4accdf82-b798-4291-9b66-1b4fb042f4b8",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "51926489-3f30-49cc-95dc-0665b2b6e760",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "40ebad0d-8693-49f7-8eee-be26a1460e56",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "9d024af2-aa5f-4648-a012-f444ca64a750",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "1283917f-ae6e-460d-9459-2c131178774b",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "62ef8da7-92c3-4345-957b-71282a9b72ab",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "76496811-3a91-4ca1-83c6-584ee05f0462",
+      "tag": "brunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "ce938a42-0bcd-4d23-8090-da3a294a74f7",
+      "tag": "brunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "8bd63dc0-a8fb-4751-bd7b-a148615c9a6e",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "92c299a5-594c-495d-9c01-f09fcb7ffee1",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "05f501de-b871-4bdf-ba64-074b2146eeca",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 15
+    },
+    {
+      "id": "e1e4a2e3-3173-4409-afb1-2129b4b4d9cb",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 15
+    },
+    {
+      "id": "46c9977a-ea0b-481f-ac91-7f7bf2f6681b",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "ec2e3f57-0ee6-4884-a7b5-96732cdeed4c",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "75c13051-8a9c-47cf-a814-1f7317d6f435",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 17
+    },
+    {
+      "id": "82babd46-f562-42d2-8da6-beb4ff09da3d",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 17
+    },
+    {
+      "id": "e363f4d5-6b4a-4f92-ad45-2fd6499381fc",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "efb36a39-9ec8-46ab-96eb-91eaf0c652be",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "e888b526-2d65-4507-a543-fcd30046f230",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "30f6b769-3ca2-442d-80ae-04b4f9719840",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "4ec3f28e-7182-4f2a-9e40-7eecf8a9ff40",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "5f4aab5c-1f8b-412f-9562-c5a90667da41",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "df9da03a-f2a5-4688-8de0-f8d05c2aa23b",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "259e95d7-c6f8-4bdd-b75b-45f3bb0ec8b7",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "3302e919-4b96-4fda-ba8e-997c30bf1281",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "23867ace-0944-4059-8082-6ad15b9db7d0",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "d88d8750-dc1d-47ac-9760-66e8204818d0",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "4ca6930a-a7d7-4a9c-a0de-417b97e31e84",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "44a87576-309b-4d01-8eb4-bcde5a41a296",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "226d7ae5-3493-4e36-ba65-5cd3e16d015a",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "4de69df6-d8b4-4afc-80d9-fec9bae2d848",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 25
+    },
+    {
+      "id": "cf3676e8-420a-4754-bc68-bf8577fa171c",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 25
+    },
+    {
+      "id": "7905842c-90f8-4414-94b9-517dfadad168",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "490f1048-b3cf-45f6-ad21-3534cf8a0f57",
+      "tag": "clothing",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "cd6a9a48-867b-41a8-a393-196de7b67fbe",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "b4b3bd3d-3cb7-4cdb-b1eb-9d559955d3b8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 27
+    }
+  ],
+  "sections": [
+    {
+      "id": "198da893-0366-4cae-a155-681c2afb3b2f",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

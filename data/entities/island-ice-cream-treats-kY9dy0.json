@@ -1,32 +1,862 @@
 {
-  "id": "33827fbf-387b-4523-84d6-7cdaa445f817",
-  "slug": "island-ice-cream-treats-kY9dy0",
-  "name": "Island Ice Cream & Treats",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Gulf Shores ice cream shop serving premium Blue Bell ice cream with over 40 flavor options including Italian Ice, yogurt, sherbet, and reduced fat options. Offers milkshakes, smoothies, sundaes, chocolates, and doughnut sandwiches.",
-  "phone": "(251) 540-2423",
-  "email": null,
-  "website_url": "http://www.islandicecreamandtreats.com/",
-  "address_line_1": "1154 W Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 281,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/8db7ec31-84ee-41bf-8f4a-551e8603f015/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "33827fbf-387b-4523-84d6-7cdaa445f817",
+    "place_id": "ChIJ2_Da_iobmogREZR1VkY9dy0",
+    "google_maps_uri": "https://maps.google.com/?cid=3276154626242876433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "island-ice-cream-treats-kY9dy0",
+    "name": "Island Ice Cream & Treats",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "ice_cream_shop",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 540-2423",
+    "international_phone": null,
+    "website_url": "http://www.islandicecreamandtreats.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1154 W Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2447355,
+    "longitude": -87.7163351,
+    "short_address": "1154 W Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 281,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Gulf Shores ice cream shop serving premium Blue Bell ice cream with over 40 flavor options including Italian Ice, yogurt, sherbet, and reduced fat options. Offers milkshakes, smoothies, sundaes, chocolates, and doughnut sandwiches.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/8db7ec31-84ee-41bf-8f4a-551e8603f015/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Ice Cream Flavors",
+          "items": [
+            {
+              "name": "Cotton Candy",
+              "tags": [
+                "popular",
+                "unique"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Tastes exactly like the real thing",
+              "subcategory": null
+            },
+            {
+              "name": "Banana Pudding",
+              "tags": [
+                "unique",
+                "specialty"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Tastes just like banana pudding with vanilla cookie chunks",
+              "subcategory": null
+            },
+            {
+              "name": "Superman",
+              "tags": [
+                "kids favorite"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Birthday Batter",
+              "tags": [
+                "kids favorite"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cherry",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Key Lime Pie",
+              "tags": [
+                "adult favorite"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Honey Roasted Peanut Butter",
+              "tags": [
+                "popular"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Coffee House Cookies & Cream",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Specialty Items",
+          "items": [
+            {
+              "name": "Doughnut Sandwich",
+              "tags": [
+                "specialty",
+                "popular"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Ice cream sandwich using doughnuts",
+              "subcategory": null
+            },
+            {
+              "name": "Milkshakes",
+              "tags": [
+                "drinks"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Made with any of 40+ flavors",
+              "subcategory": null
+            },
+            {
+              "name": "Smoothies",
+              "tags": [
+                "drinks"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Specialty Sundaes",
+              "tags": [
+                "specialty",
+                "souvenir"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Served in souvenir jars to keep",
+              "subcategory": null
+            },
+            {
+              "name": "Chocolate Dipped Waffle Cones",
+              "tags": [
+                "specialty"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Products",
+          "items": [
+            {
+              "name": "Gift Cards",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Available for purchase",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:25.32704+00:00",
+    "updated_at": "2026-05-18T21:06:52.650986+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "b1fa09a1-47a2-4147-9c29-693527f7da88",
+      "tag": "ice-cream",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "b4a59ab1-fa91-458a-b1a1-a977353b2040",
+      "tag": "ice-cream",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "5ea6438a-6c2d-428b-af6e-b09fa7ecf4ec",
+      "tag": "ice-cream",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "37c9ab84-efa6-40aa-91d0-f1a579346acf",
+      "tag": "dessert",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "8691b59f-9c43-42d1-a0cf-8d6ee6d6566b",
+      "tag": "dessert",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "46bedeba-0011-4350-8af6-80df8b5e47f0",
+      "tag": "dessert",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "d16790e3-5473-4b1c-a455-f769efa344ab",
+      "tag": "sweet",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "9fdfd23a-0d97-4ad1-ac45-08b49d04e83f",
+      "tag": "sweet",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "f6beafa6-2ac0-4542-b5d1-2cbd46537801",
+      "tag": "sweet",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "6fc6056f-f90b-489f-a12b-d0104ec43bea",
+      "tag": "desserts",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "23500179-2675-4c63-8c56-4e930b365066",
+      "tag": "desserts",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "5ffdb023-ab27-4da6-9387-604eb3ec146d",
+      "tag": "desserts",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "ebabcddc-8a49-4bd7-8082-dfa7e49b9e0e",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "00539e9f-fa88-4e40-86b3-77a834dbb2c1",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "a0914f7f-6f8f-4416-a8bb-c83ab6b96d5e",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "61749d5c-dc93-422f-bf08-f11e1c36671c",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "d7800c30-e05b-4fdb-a11d-f29e4c1fb2ec",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "a1f3f09d-e5c9-4665-9dcc-9c25a160fd38",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "8e392f23-b42b-48dd-8517-46de4b5b0504",
+      "tag": "beach-destination",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "156e8c5c-ce63-4dad-a847-9ec9fb27cf29",
+      "tag": "beach-destination",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "14ee546e-c9e4-4421-97e8-e6e77b7726f0",
+      "tag": "beach-destination",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "a08686e7-b23d-4461-a9b0-e94209877ccd",
+      "tag": "doughnut-sandwiches",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "c3e1b37d-9df2-422a-8493-3e073e3d6757",
+      "tag": "doughnut-sandwiches",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "a9b9ca67-0c83-4d30-ba83-a55c60888c70",
+      "tag": "doughnut-sandwiches",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "030081b9-cf8c-4784-a094-8937bd3c721c",
+      "tag": "sundaes",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "7b6e9172-3c70-4aae-a7d7-65f8edbebbd1",
+      "tag": "sundaes",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "231de774-dc89-4dec-b36d-2e3d0c81cc9d",
+      "tag": "sundaes",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "b5f0cc60-ca7a-447a-93ef-eea138571f31",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 9
+    },
+    {
+      "id": "35e088ed-e161-4923-aed0-de9f0509e77d",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 9
+    },
+    {
+      "id": "ac1a0f27-d9cb-4ef9-ab11-ceebf19db893",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 9
+    },
+    {
+      "id": "1b83b05d-c6d5-4a9d-b58b-0113d71dd586",
+      "tag": "premium-ice-cream",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "aa576a45-77fa-4bcb-bb9e-cdb36b6a810a",
+      "tag": "premium-ice-cream",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "e1e3e6e4-ed3c-4347-b0c6-7626ea929673",
+      "tag": "premium-ice-cream",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "2ad27959-eeac-4a2d-9769-46a873d1594d",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "38f79839-f6ea-41b6-8af0-eb0f2c7834be",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "100b389d-ee05-4ce8-b1ba-ba6ff213bf69",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "a15bdf75-6332-41f6-a2f4-b35f7cb2e21a",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "c2e443e1-2730-4a1e-973b-1058a9bb4bfc",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "b33b1e17-035c-4624-b04c-e881f5ee88b2",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "c25e0a0d-e8ae-4446-b3ed-051a33c66cd5",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "86834250-f876-4939-a2ca-dde18ee9e743",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "8a15ede4-ef35-4551-b70b-dc61aa3906b2",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "c342f8bd-4fa6-4744-8a9b-db2e95cb09e4",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "338b135b-820c-4177-b920-2ce3ec217539",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "683c0c99-16f1-4ac3-84d0-fb59ae76bbd4",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "51cdf5df-7be7-4f80-acf8-520009900da4",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 15
+    },
+    {
+      "id": "ff222ab5-3b28-491a-84fb-eee32b1feadc",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 15
+    },
+    {
+      "id": "809f164c-b166-44a6-8865-b59e1fdd1ad8",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 15
+    },
+    {
+      "id": "6c4de1cd-a006-4816-a156-1ed24d0aa127",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "c1507752-546b-463d-ac76-87acd9d9b399",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "23a179a3-3c9b-4c99-adeb-ad3228b73a72",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "b1ca58eb-bd2f-4b0c-9874-250ec1f36565",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "20464a05-6683-4d7c-baa9-05c9db1716a0",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "8b03afe0-580b-4386-a43b-34735ba6a94b",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "a8c3df81-dcb3-4ee6-9455-fbac3b4edd95",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "88763682-5876-48ea-9419-3605ce503d0f",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "67ea7a57-58ba-4472-9f58-d7a102a6d39c",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 18
+    },
+    {
+      "id": "41e5f91f-25e0-483e-b186-101dc86eb60d",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "e2d6c33d-f061-4156-b842-b916c3b2047b",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "35439713-88de-4486-b788-8fb415b6dc05",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "7515cfbf-579f-46a0-b731-ed0b68d6a5b8",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "b0703108-0b49-4c5c-8bfc-b1ba3c8bcbe0",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "42af034b-1cc8-4bd1-b891-9a0119f0ea9c",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "d7fd0ec5-6980-432c-8c32-e1806c989535",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "019082b5-c283-46a3-b01a-956e63f37e10",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "4f2519c4-a903-41e3-9e1b-043c1c538bb2",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "3557ec39-6a40-4f91-9fec-9bfd999528cd",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "8f97db1d-5aa3-4804-842e-5f843a8cf581",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "574d5e86-97d5-43e6-bb13-1d409af0fde1",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "98ff2bb6-4518-403f-8fa2-c39b65000a17",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "87976e62-67b0-486b-a8c5-01d4de996367",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "621252e7-37a9-48a0-bce2-a4a7765697b0",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "1d77fe6c-88b0-42a9-b10b-f5cbc7036764",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "ac625316-4472-4520-8c35-d3dfc0f50c3a",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "8ecacf33-137a-4641-b6ca-8ed138150c0a",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "7e7b4041-2da4-438d-9b1a-e828db1e770a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "f8f3d7b7-02e6-4d92-8703-06fef9b84634",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "26849a4c-995f-4045-b183-3fe47457a704",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 25
+    }
+  ],
+  "sections": [
+    {
+      "id": "f088fb21-5719-4cb8-940b-22c4d3fbaedd",
+      "section_key": "ice_cream_flavors",
+      "section_label": "Ice Cream Flavors",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "62dd440c-99b9-4a35-8906-18e899eb893e",
+      "section_key": "specialty_items",
+      "section_label": "Specialty Items",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "a4557aa8-1e50-44e6-9c60-41efdb889c72",
+      "section_key": "products",
+      "section_label": "Products",
+      "section_type": "menu",
+      "sort_order": 0
+    },
+    {
+      "id": "370d3711-f2da-49d2-9cb2-07bbbedb8dfe",
+      "section_key": "specials",
+      "section_label": "Specials",
+      "section_type": "specials",
+      "sort_order": 5
+    },
+    {
+      "id": "25b9bfc5-1b93-4672-9347-4a01499b405d",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [
+      {
+        "id": "f088fb21-5719-4cb8-940b-22c4d3fbaedd",
+        "section_name": "Ice Cream Flavors",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "33827fbf-387b-4523-84d6-7cdaa445f817",
+        "sort_order": 0
+      },
+      {
+        "id": "62dd440c-99b9-4a35-8906-18e899eb893e",
+        "section_name": "Specialty Items",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "33827fbf-387b-4523-84d6-7cdaa445f817",
+        "sort_order": 0
+      },
+      {
+        "id": "a4557aa8-1e50-44e6-9c60-41efdb889c72",
+        "section_name": "Products",
+        "section_note": "",
+        "icon": null,
+        "entity_id": "33827fbf-387b-4523-84d6-7cdaa445f817",
+        "sort_order": 0
+      }
+    ],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

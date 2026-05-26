@@ -1,32 +1,944 @@
 {
-  "id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
-  "slug": "anchored-coffee-house-F56PKc",
-  "name": "Anchored Coffee House",
-  "entity_type": "restaurant",
-  "entity_subtype": "cafe",
-  "icon": "🏪",
-  "description": "Anchored Coffee House is a welcoming cafe offering locally roasted coffee blends paired with delicious pastries and light fare. Located in Gulf Shores AL, we provide a warm environment where friends gather over cappuccinos or croissants. Our complimentary conference room is perfect for small meetings while soothing Christian tunes set a peaceful tone. Every sip tells our story of community connection and quality craftsmanship.",
-  "phone": "(251) 486-0600",
-  "email": null,
-  "website_url": "https://anchoredcoffeehouse0557.s4shops.com/",
-  "address_line_1": "1229 Gulf Shores Pkwy Suite 101, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.4,
-  "review_count": 33,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139472367.4915.jpg",
-  "photos": [],
+  "entity": {
+    "id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+    "place_id": "ChIJN3QoLkEFmogRl3uwPF56PKc",
+    "google_maps_uri": "https://maps.google.com/?cid=12050641248100318103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "anchored-coffee-house-F56PKc",
+    "name": "Anchored Coffee House",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "cafe",
+    "secondary_types": "",
+    "google_type": "coffee_shop",
+    "google_types": [
+      "cafe",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 486-0600",
+    "international_phone": null,
+    "website_url": "https://anchoredcoffeehouse0557.s4shops.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1229 Gulf Shores Pkwy Suite 101, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2622838,
+    "longitude": -87.688867,
+    "short_address": "1229 Gulf Shores Pkwy Suite 101, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 33,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Anchored Coffee House is a welcoming cafe offering locally roasted coffee blends paired with delicious pastries and light fare. Located in Gulf Shores AL, we provide a warm environment where friends gather over cappuccinos or croissants. Our complimentary conference room is perfect for small meetings while soothing Christian tunes set a peaceful tone. Every sip tells our story of community connection and quality craftsmanship.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139472367.4915.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 6:30 AM – 2:30 PM",
+      "Tuesday: 6:30 AM – 2:30 PM",
+      "Wednesday: 6:30 AM – 2:30 PM",
+      "Thursday: 6:30 AM – 2:30 PM",
+      "Friday: 6:30 AM – 2:30 PM",
+      "Saturday: 6:30 AM – 2:30 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://anchoredcoffeehouse.com/",
+      "menu": {
+        "categories": []
+      },
+      "tags": [
+        "coffee",
+        "cafe",
+        "coffeehouse",
+        "local",
+        "community"
+      ],
+      "type": "Cafe",
+      "about": {
+        "chef": null,
+        "vibe": "Cozy, welcoming neighborhood coffeehouse with community feel",
+        "owner": null,
+        "press": [],
+        "awards": [],
+        "parking": null,
+        "best_for": [
+          "remote workers",
+          "casual meetups",
+          "solo visits",
+          "coffee enthusiasts"
+        ],
+        "dress_code": null,
+        "description": "Anchored Coffeehouse is a local coffeehouse offering a welcoming space for coffee lovers and community members alike.",
+        "established": null,
+        "insider_tip": null,
+        "reservations": null,
+        "accessibility": null,
+        "elevator_pitch": "Anchored Coffeehouse is your go-to community coffee haven where every cup is crafted to keep you grounded and connected.",
+        "age_restriction": null
+      },
+      "hours": {
+        "notes": null,
+        "friday": null,
+        "monday": null,
+        "sunday": null,
+        "tuesday": null,
+        "saturday": null,
+        "thursday": null,
+        "wednesday": null
+      },
+      "events": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null
+      },
+      "gallery": [],
+      "sources": [],
+      "tagline": null,
+      "features": [
+        "specialty coffee",
+        "takeout"
+      ],
+      "hashtags": [
+        "#anchoredcoffeehouse",
+        "#coffeehouse",
+        "#localcafe",
+        "#coffeelovers",
+        "#communitycoffe"
+      ],
+      "specials": [],
+      "atmosphere": [
+        "Casual",
+        "Cozy",
+        "Community-Oriented"
+      ],
+      "categories": [
+        "Cafe",
+        "Coffee Shop"
+      ],
+      "scraped_at": "2026-03-22T02:33:37.151Z",
+      "price_range": "$",
+      "extracted_at": "2026-05-15T18:52:53.773Z",
+      "neighborhood": null,
+      "social_links": {
+        "yelp": null,
+        "tiktok": null,
+        "twitter": null,
+        "website": "https://anchoredcoffeehouse.com/",
+        "youtube": null,
+        "facebook": null,
+        "instagram": null,
+        "opentable": null,
+        "google_maps": null,
+        "tripadvisor": null
+      },
+      "business_name": "Anchored Coffeehouse",
+      "cuisine_types": [
+        "Coffee",
+        "Cafe"
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139472645.9548.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139472897.4165.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139473310.3125.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139473920.7122.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139474192.5742.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139474419.9111.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139474611.5217.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139474989.3599.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139475355.8127.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:13.999548+00:00",
+    "updated_at": "2026-05-18T21:24:40.358482+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "bdcbd731-fd17-454d-a762-63c42eeed1e0",
+      "tag": "coffee",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "80e363e4-2297-410a-986d-358f12be39c7",
+      "tag": "coffee",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "b16c37bb-665c-4bbf-871f-91db43452ee5",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "76341827-e976-4fb7-b450-1e6e2399a341",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "9f183519-33fe-4387-8160-56d8e955e82e",
+      "tag": "locally roasted",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "06256001-762f-422e-a922-5b1e0c82e855",
+      "tag": "locally roasted",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "813a1fb0-3ad8-4457-af5c-c7b012441894",
+      "tag": "pastries",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "9235c850-384f-45c7-b03d-95002f813aa4",
+      "tag": "pastries",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "536d7f07-7956-4788-be80-45ae748589da",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "6c59eb1a-fd0c-48d3-8e78-2d961b8b5a3d",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "09179c70-e989-47de-bdfd-64b7d04bf99b",
+      "tag": "breakfast",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "83277bfc-362e-4141-bde3-6b321638b487",
+      "tag": "breakfast",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "14023388-6ddb-41fa-9170-6111b0e5ff37",
+      "tag": "Christian atmosphere",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "9b1d4fa6-7928-415f-a4d3-2465bd08d653",
+      "tag": "Christian atmosphere",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "6cbbdc5e-a801-4ba6-ae3c-128069faf06a",
+      "tag": "light fare",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "c3d22191-2631-42f5-a20a-a02f165e47b4",
+      "tag": "light fare",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "4a90583a-31ca-4983-9f05-37ed3111c7e0",
+      "tag": "desserts",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "f4ed4e64-dd5e-45a9-be9e-c26d252a4c71",
+      "tag": "desserts",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "513d4b93-4171-45a6-912c-70080c7a79fe",
+      "tag": "specialty drinks",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "538479bd-6e80-423e-8228-0c144361c665",
+      "tag": "specialty drinks",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "32e100f3-7bbe-41a5-be93-fd2efdcb0c91",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "edb6a930-9d83-4f95-81df-0a3329127ebe",
+      "tag": "Restaurants",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "731e1817-823d-4511-9ea9-234ab8498de2",
+      "tag": "Cafes",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "5fbd25e6-3fba-4952-b492-86a862eea598",
+      "tag": "Cafes",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "7da90c9c-ed7e-4d20-b8b4-538827104697",
+      "tag": "Coffee Shops",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "a44f414f-1ca9-43fd-9571-243b4a7c6e8e",
+      "tag": "Coffee Shops",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "85ff40cd-0a61-42de-a0c1-69fe7b909e46",
+      "tag": "Bakeries",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "fe3cfffa-4bf4-4d37-ae23-b1e9ce77ea23",
+      "tag": "Bakeries",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "0a988c87-b1a5-45f9-9d03-0e16a36122d5",
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "cce7394e-749f-4183-8d91-dd570dd5e4ed",
+      "tag": "Breakfast & Brunch",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "f658b0d8-ed53-49ca-9cb8-0d72b6a17805",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "6fdab368-b9e2-413e-9746-f8f4a438b9c1",
+      "tag": "Casual Dining",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "1da3f7aa-0052-4f8b-bd33-f325ab3f573f",
+      "tag": "Takeout",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "6c2cab48-81b8-4a1f-8970-b8e8f6a93283",
+      "tag": "Takeout",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "9b7547bd-5326-454c-897b-a9dd0f130e3c",
+      "tag": "Delivery",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "d959e0a7-28d3-4d3a-b9e6-149ef4a69638",
+      "tag": "Delivery",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "4ecb100e-7cbd-4e49-9c21-a058a9af35a8",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 18
+    },
+    {
+      "id": "0c7aa351-085f-4756-a741-21dd536400a8",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 18
+    },
+    {
+      "id": "f42d8ca3-84bc-4fbc-b464-585319765097",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "12e5b837-177e-4629-bb58-c3c6e3cf2a42",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "a82a35f6-8c13-4942-94b7-c4676d8b380d",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 20
+    },
+    {
+      "id": "4b6917ee-b1ea-4240-b3c0-72af966a9c3e",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 20
+    },
+    {
+      "id": "37a1d37c-d688-4267-91b9-cafb64af265a",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "bf8ebe94-65f9-418d-9adc-112819f7c70f",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "78ba1370-e067-483f-8766-289ecb8b1d7c",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 22
+    },
+    {
+      "id": "9ed90ff0-5e18-4403-ac1c-ea758a1ef65a",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 22
+    },
+    {
+      "id": "43cf1c20-1787-43e0-a818-b3d856a276dc",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "8cf0c822-4ad7-4f03-93a5-92bb66d34641",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 23
+    },
+    {
+      "id": "e7004dd4-5fe6-4b15-8b6c-cf054dbcbfe3",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "4258bbaa-cdeb-4ed5-8e6c-c89ea531bf51",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "c5dac617-a16a-4366-b9b2-3f69c2dec4c3",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 25
+    },
+    {
+      "id": "9476fc60-bb87-46b7-b319-80795773c0e9",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 25
+    },
+    {
+      "id": "4a5818e6-c9c5-4034-adf9-37b434f4930a",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "23889c3a-e2c9-42d7-929e-5b3821eed1c0",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "58671c6d-6d94-4d46-86a8-c6bb79124780",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "cf72cdcb-9a9a-4aa9-901d-8040950c07bd",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "72ccbd79-cf5b-41a2-bdc8-1128ce2547d6",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "6be5449a-5f78-46e9-8708-83dc54854232",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "125a4bd5-0d4c-4965-b6ef-b09be1801890",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "d645ff17-8618-4eef-ab14-ff5c1459e0bc",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 29
+    },
+    {
+      "id": "679b7266-4070-4bf7-be03-e83d0a0ce5b0",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 30
+    },
+    {
+      "id": "55786087-c455-4355-aa73-8fc5a6aec503",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 30
+    },
+    {
+      "id": "1546a6b9-a0b8-4b68-95c1-fbfbec032ed7",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "7ee6ee97-9c0b-401c-88f8-9b8ff2e52415",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "c95cef99-2975-4877-a407-afd4a4ce5962",
+      "tag": "espresso",
+      "tag_category": "search",
+      "sort_order": 32
+    },
+    {
+      "id": "c2e1d82f-4af5-4628-9cac-82ace85c1be3",
+      "tag": "espresso",
+      "tag_category": "search",
+      "sort_order": 32
+    },
+    {
+      "id": "e003ecaf-c3d2-4080-affc-8aa0d28f3f71",
+      "tag": "locally-roasted",
+      "tag_category": "search",
+      "sort_order": 33
+    },
+    {
+      "id": "4a840f0a-a49e-48b7-9c89-52d71719b162",
+      "tag": "locally-roasted",
+      "tag_category": "search",
+      "sort_order": 33
+    },
+    {
+      "id": "bf0b5711-9d9e-4877-a175-138bc6cf9007",
+      "tag": "light-fare",
+      "tag_category": "search",
+      "sort_order": 34
+    },
+    {
+      "id": "c14c49a0-140c-449b-b8e5-c5aefa58ae45",
+      "tag": "light-fare",
+      "tag_category": "search",
+      "sort_order": 34
+    },
+    {
+      "id": "89073f08-392a-44de-98b6-95ee0a03bfbd",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 35
+    },
+    {
+      "id": "213961c4-acd7-405f-8af0-d32e8059d2b0",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 35
+    },
+    {
+      "id": "07b51170-b813-4d6e-be3e-c9c6b67b67db",
+      "tag": "christian-music",
+      "tag_category": "search",
+      "sort_order": 36
+    },
+    {
+      "id": "c43fab96-17fe-4e68-94ac-311a3275e0a1",
+      "tag": "christian-music",
+      "tag_category": "search",
+      "sort_order": 36
+    },
+    {
+      "id": "7e4b4cff-34e3-4d9b-96e9-ac8c76ed53ad",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "925ae6f7-4545-49ea-968d-06cc502b740e",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "7dd4c3f3-7cb4-487a-bfce-c718dcb8caf8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "1aded6e3-be1f-4ebe-a971-c4ace9f47ba0",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 38
+    }
+  ],
+  "sections": [
+    {
+      "id": "e44dc3c9-1713-434c-9da0-52dcc7cdd539",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "b70920ff-0ab6-4701-891e-a6e4c82986fb",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131759850.4717.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:06.147293+00:00"
+    },
+    {
+      "id": "f063f7d5-c128-4421-9cc9-4771e93269be",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131761821.6929.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:06.893667+00:00"
+    },
+    {
+      "id": "8f0f5f2e-a3d4-4722-9926-59a4b2be05ed",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139472367.4915.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:07.674291+00:00"
+    },
+    {
+      "id": "cc2fe946-0b81-4818-ad16-ea450380a0eb",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139474192.5742.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:08.407634+00:00"
+    },
+    {
+      "id": "a6ba7524-7166-453f-8e3f-32b5107c2c4b",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131760390.1519.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:06.316818+00:00"
+    },
+    {
+      "id": "ebbc93b4-66d4-4b95-85db-eb1dd7172a67",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131762026.1545.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:07.071954+00:00"
+    },
+    {
+      "id": "96010ecb-9c2f-4575-a7e5-2acc9c2f18fb",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139472645.9548.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:07.819646+00:00"
+    },
+    {
+      "id": "9569be81-055f-4488-92d6-3da0f92b1456",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139474419.9111.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:08.549804+00:00"
+    },
+    {
+      "id": "558d73a8-b555-4e9a-bb5f-8c69d908291e",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131760592.2769.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:06.460207+00:00"
+    },
+    {
+      "id": "57c2cd5d-4385-4838-8762-1050f0e57f5f",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131762442.549.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:07.216216+00:00"
+    },
+    {
+      "id": "d50d6f50-a1d3-42fa-a5d8-54b3ba4a3362",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139472897.4165.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:07.964998+00:00"
+    },
+    {
+      "id": "60ab3dce-c77f-41df-adf9-fa95c402e463",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139474611.5217.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:08.692165+00:00"
+    },
+    {
+      "id": "edc466f7-5d90-4b9e-8cdc-55bed0845b3c",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131760835.1875.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:06.603603+00:00"
+    },
+    {
+      "id": "458d6ed4-356c-4282-989c-7227fb753c44",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131762783.2192.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:07.369846+00:00"
+    },
+    {
+      "id": "a2a6b4c2-64c8-46b3-92c4-69c921171b19",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139473310.3125.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:08.118388+00:00"
+    },
+    {
+      "id": "185e29a3-6a38-4dfd-8fdf-a50246bf31b7",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139474989.3599.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:08.83916+00:00"
+    },
+    {
+      "id": "8eca81f7-4e29-4fee-8b12-622b0f10e145",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131407396.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:06.002746+00:00"
+    },
+    {
+      "id": "58200bbc-0838-4a28-b5f4-96fd92d2fd09",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131761415.4841.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:06.748616+00:00"
+    },
+    {
+      "id": "5db5ef54-2cc4-4923-b5e7-d72af7857398",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779131763049.9214.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:07.525431+00:00"
+    },
+    {
+      "id": "f664d97e-3cd6-4200-9b11-8ecce116b3fc",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139473920.7122.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:08.262912+00:00"
+    },
+    {
+      "id": "d146423c-f791-4389-9518-d8b227214432",
+      "entity_id": "2f1649e6-1ee2-4184-aaa7-4797b10ee968",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/2f1649e6-1ee2-4184-aaa7-4797b10ee968/2f1649e6-1ee2-4184-aaa7-4797b10ee968_1779139475355.8127.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:10:08.988629+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

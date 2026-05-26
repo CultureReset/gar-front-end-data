@@ -1,32 +1,599 @@
 {
-  "id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
-  "slug": "island-time-daiquiris-pizza-at-the-wharf-4U3I0c",
-  "name": "Island Time Daiquiris & Pizza at The Wharf",
-  "entity_type": "restaurant",
-  "entity_subtype": "bar",
-  "icon": "🏪",
-  "description": "This relaxed sports bar with a tropical theme specializes in fruity cocktails & offers live music.",
-  "phone": "(251) 224-0265",
-  "email": null,
-  "website_url": "http://islandtimedaiquiris.com/",
-  "address_line_1": "4830 Wharf Pkwy W G101, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.2,
-  "review_count": 306,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139811093.681.jpg",
-  "photos": [],
+  "entity": {
+    "id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+    "place_id": "ChIJn9f8HN0FmogRioNaU4U3I0c",
+    "google_maps_uri": "https://maps.google.com/?cid=5126001846646375306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "island-time-daiquiris-pizza-at-the-wharf-4U3I0c",
+    "name": "Island Time Daiquiris & Pizza at The Wharf",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "bar",
+    "secondary_types": "",
+    "google_type": "bar",
+    "google_types": [
+      "atm",
+      "bar",
+      "establishment",
+      "finance",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 224-0265",
+    "international_phone": null,
+    "website_url": "http://islandtimedaiquiris.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4830 Wharf Pkwy W G101, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.295,
+    "longitude": -87.6283333,
+    "short_address": "4830 Wharf Pkwy W G101, Orange Beach",
+    "plus_code": null,
+    "rating": 4.2,
+    "review_count": 306,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "This relaxed sports bar with a tropical theme specializes in fruity cocktails & offers live music.",
+    "description": "This relaxed sports bar with a tropical theme specializes in fruity cocktails & offers live music.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139811093.681.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 2:00 AM",
+      "Friday: 11:00 AM – 2:00 AM",
+      "Saturday: 11:00 AM – 2:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "consolidation",
+      "gcr-organized",
+      "all-businesses",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.540391+00:00",
+    "updated_at": "2026-05-18T21:30:16.108341+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "9195b543-a1b8-4c40-a9cf-8aca3c86dafc",
+      "tag": "bar",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "85da6f64-9d60-4e3d-887f-27b505450c42",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 1
+    },
+    {
+      "id": "1f451ca5-c6af-4856-9d64-979396d034b9",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 2
+    },
+    {
+      "id": "18d1d239-e577-4328-b2f8-b604dead6751",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "b9b99e92-6970-41eb-b333-27d562ac3b6b",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 4
+    },
+    {
+      "id": "51d48487-64cf-4e74-998e-09446fd690ab",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "c2abae17-46cf-4d4b-87f3-30b415b4c60a",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "0b746857-6366-49ac-b5f6-5352bd87dce4",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "d7e9298c-8608-4f8d-9278-4d41e3272fa1",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "72e334ad-296d-4ffa-b432-35e602536559",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 9
+    },
+    {
+      "id": "b8291337-caf2-4960-b831-22f7dbb5f064",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "d6088a53-ce4a-4afd-95b7-e4deadab6abf",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "07670219-9c6b-41b6-b02b-d4f14baa6c50",
+      "tag": "bar and grill",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "2d98fce3-5387-4824-be13-d4f47026e187",
+      "tag": "chicken wings restaurant",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "f6b05742-87e1-4e5b-8697-712e95865a78",
+      "tag": "pizza restaurant",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "baaed930-835e-453e-a254-052fc19fd4ef",
+      "tag": "atm",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "6f9097ac-e2a8-42e2-bd47-44e1a4558467",
+      "tag": "live music venue",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "0ff45f3f-5666-4f5c-a794-2f7d6db2cd20",
+      "tag": "event venue",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "03541631-6d77-4416-b502-667b7785a1b9",
+      "tag": "finance",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "1097596d-0235-445d-bf6b-ea6832524663",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "bd24ed37-4864-43f9-8179-4af603a28c9b",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "e36277a8-8f09-4e5d-ab11-21bedc631156",
+      "tag": "pizza",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "787a8a57-7f76-4188-bbbd-b74907f9fd02",
+      "tag": "chicken_wings_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "8495050d-29a4-41e7-a295-fb80aeb2a873",
+      "tag": "bar_and_grill",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "c43af096-4d39-4a00-8cb2-cc4572cf49e8",
+      "tag": "pizza_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "0e3a0a3d-1c0f-4cb0-b96b-8d36cfad8336",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "71f01e69-7110-403d-a958-0f9768d842ae",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "a6187cbd-34bf-4e71-ae7d-dcd82cbbafb0",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "a130d9a1-29e4-4835-8028-743f768cb304",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 28
+    }
+  ],
+  "sections": [
+    {
+      "id": "117b1217-3bc3-442d-8e78-473018912f96",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "1a08cc3a-d01d-4a96-bcd2-35bb0c880f49",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131526217.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:02.485759+00:00"
+    },
+    {
+      "id": "31c73c35-c337-46a5-8c3f-7f74f84164dd",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131918417.0535.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:03.260092+00:00"
+    },
+    {
+      "id": "66342349-2d13-4ab8-9db3-7572f4c462ad",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131919722.0234.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:04.118396+00:00"
+    },
+    {
+      "id": "67d61e35-8693-4ed8-a2e9-75f19ed8ab2f",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139642062.6072.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:04.975132+00:00"
+    },
+    {
+      "id": "8d4afce8-e676-4b64-b884-d9eb42e33525",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139644120.8408.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:05.717986+00:00"
+    },
+    {
+      "id": "89e3bf6c-5bda-4910-94a6-58952831b182",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131917470.5518.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:02.637276+00:00"
+    },
+    {
+      "id": "914463c7-a656-455f-b58e-fb11f7dac930",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131918844.078.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:03.406993+00:00"
+    },
+    {
+      "id": "f1f8794b-4ed0-4a19-950a-1e3ce871d34e",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779132004029.0325.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:04.273344+00:00"
+    },
+    {
+      "id": "5154976c-6035-4e26-9883-3f209dabb323",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139642472.4026.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:05.127083+00:00"
+    },
+    {
+      "id": "85cdd492-0aa2-47b2-9f6f-652ba9a1bb58",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139644520.6177.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:05.87984+00:00"
+    },
+    {
+      "id": "74647f99-e3eb-48d0-806a-83e4b56aa03e",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131917729.835.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:02.810127+00:00"
+    },
+    {
+      "id": "e833d927-b14c-4fc1-a45e-2e3180235f10",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131919108.7192.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:03.585161+00:00"
+    },
+    {
+      "id": "1a660126-9a3e-473a-96cc-c6dbfe36c543",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779132063590.0981.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:04.422022+00:00"
+    },
+    {
+      "id": "d388c878-0287-4f60-95d1-e3820755a14c",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139643087.4126.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:05.273902+00:00"
+    },
+    {
+      "id": "3694bcaa-b60e-4b4c-9f58-58a316ae42cb",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139644928.308.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:06.034689+00:00"
+    },
+    {
+      "id": "8a187540-01f2-4400-af2d-de8911cc96a1",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131426029.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:02.173691+00:00"
+    },
+    {
+      "id": "6b738ce6-09cf-423f-9568-5ce84f06569e",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131917933.1995.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:02.957373+00:00"
+    },
+    {
+      "id": "50c46fd2-8a7f-4bfe-bb26-cfb4a1f1c78c",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131919305.472.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:03.807052+00:00"
+    },
+    {
+      "id": "47521d09-93f0-4245-a29e-a939c9ad0d73",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139641315.643.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:04.680857+00:00"
+    },
+    {
+      "id": "f04f8196-e3a6-42ba-86fc-060f320c39e2",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139643301.0771.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:05.41926+00:00"
+    },
+    {
+      "id": "07875cce-5d26-4722-9f2a-d3bf376cfb46",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139747814.3877.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:06.185994+00:00"
+    },
+    {
+      "id": "b982e5bb-4e03-4025-b2b7-5f17887c4134",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131463503.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:02.329957+00:00"
+    },
+    {
+      "id": "0454cbac-8ac9-4c90-80e1-4e9e1e8cc96f",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131918154.106.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:03.106562+00:00"
+    },
+    {
+      "id": "e7ecab52-c527-47a5-b29a-f483388e5b30",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779131919508.5027.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:03.953625+00:00"
+    },
+    {
+      "id": "1c17e754-70d4-4983-95c5-b214d9d90028",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139641654.069.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:04.830413+00:00"
+    },
+    {
+      "id": "e34f92a4-2fb7-4d86-8a25-258c7238e96b",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139643684.5723.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:05.570491+00:00"
+    },
+    {
+      "id": "c5ba07e4-bc75-44f0-9ce9-ef4a8f37003f",
+      "entity_id": "0746ad4c-eef7-4727-a7d7-401ff6ac64ac",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/0746ad4c-eef7-4727-a7d7-401ff6ac64ac/0746ad4c-eef7-4727-a7d7-401ff6ac64ac_1779139811093.681.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:08:06.345022+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

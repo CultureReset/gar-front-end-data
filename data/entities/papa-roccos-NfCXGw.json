@@ -1,32 +1,362 @@
 {
-  "id": "7162176b-894b-4cfd-8dac-554b1991d8e2",
-  "slug": "papa-roccos-NfCXGw",
-  "name": "Papa Rocco's",
-  "entity_type": "artist",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Popular hub for pizza, oysters & other casual American eats, plus live music & gulf views.",
-  "phone": "(251) 948-7262",
-  "email": null,
-  "address_line_1": "101 W 6th Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Coast",
-  "state": "AL",
-  "zip": null,
-  "website_url": "https://paparoccos.com/",
-  "rating": 4.2,
-  "review_count": 3091,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139549983.9915.jpg",
+  "entity": {
+    "id": "7162176b-894b-4cfd-8dac-554b1991d8e2",
+    "place_id": "ChIJXQxIx7cEmogRDAn4DNfCXGw",
+    "google_maps_uri": "https://maps.google.com/?cid=7808330082844936460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "papa-roccos-NfCXGw",
+    "name": "Papa Rocco's",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "pizza_restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-7262",
+    "international_phone": null,
+    "website_url": "https://paparoccos.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "101 W 6th Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Coast",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2524618,
+    "longitude": -87.6894741,
+    "short_address": "101 W 6th Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.2,
+    "review_count": 3091,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Popular hub for pizza, oysters & other casual American eats, plus live music & gulf views.",
+    "description": "Popular hub for pizza, oysters & other casual American eats, plus live music & gulf views.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139549983.9915.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://instagram.com/paparoccospizza/",
+    "social_facebook": "https://www.facebook.com/people/Papa-Roccos/100084720384636/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 12:00 AM",
+      "Tuesday: 11:00 AM – 12:00 AM",
+      "Wednesday: 11:00 AM – 12:00 AM",
+      "Thursday: 11:00 AM – 12:00 AM",
+      "Friday: 11:00 AM – 12:00 AM",
+      "Saturday: 11:00 AM – 12:00 AM",
+      "Sunday: 11:00 AM – 12:00 AM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Pizza",
+          "items": [],
+          "description": "Famous mouthwatering pizzas - consistently voted People's Choice Best Pizza in Gulf Shores"
+        },
+        {
+          "name": "Raw Oysters",
+          "items": [],
+          "description": "Fresh, local oysters - won the People's Choice Award for Best Raw Oysters fifteen years running"
+        },
+        {
+          "name": "Wings",
+          "items": [],
+          "description": "Baked Buffalo Wings - best in Gulf Shores for gameday meals"
+        },
+        {
+          "name": "Burgers",
+          "items": [
+            {
+              "name": "The Who's Your Daddy Burger",
+              "tags": [
+                "signature",
+                "specialty"
+              ],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Double decker burger with swiss, pepperjack, American cheese, mushrooms, and bacon",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139550301.9255.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139550724.2097.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139551144.9033.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139551587.3486.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139552158.7192.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139552776.524.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139553288.5137.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139553591.6313.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/7162176b-894b-4cfd-8dac-554b1991d8e2/7162176b-894b-4cfd-8dac-554b1991d8e2_1779139554030.9243.jpg"
+    ],
+    "created_at": "2026-05-17T21:14:28.112197+00:00",
+    "updated_at": "2026-05-18T21:25:58.978466+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "e0ce1ce0-009e-4ba2-baba-d6dd588ba363",
+      "tag": "pizza_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "5a71c052-dad7-41b2-9173-72fafe06f239",
+      "tag": "pizza_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "c4e8d802-7160-4c43-8786-269a8cc67a5f",
+      "tag": "oyster_bar_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "dd2f16db-b816-4040-9fe0-5b87eda81301",
+      "tag": "oyster_bar_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "2e86647c-dc6f-401f-a540-f6506ad63874",
+      "tag": "sports_bar",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "afb6c8bd-461d-4f4b-98a6-4d57f46524e1",
+      "tag": "sports_bar",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "d1fdcbde-0893-4680-b63d-313296e79943",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "efdb59f0-a20f-40b2-9c73-747ec2d1c88c",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "851fdad2-20f7-4080-a9d5-5ece29a1794a",
+      "tag": "chicken_wings_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "a8599583-c686-4cec-8905-31f0fdddd8bc",
+      "tag": "chicken_wings_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "2f092647-d2a7-45df-b122-be04fd0f466c",
+      "tag": "bar",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "a9d79937-974c-4700-9f40-c7f77df0fb35",
+      "tag": "bar",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "086729d9-2d7e-4e3a-a6a9-7d53425051d2",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "a3b34b24-6964-4ca1-b740-b6d30660eb20",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "a08e8fda-f087-44ac-a9da-02d17656ff28",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "7d264fd1-cf42-4db8-a4ad-d339ec9c0b7d",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "7c15859c-cd0b-4722-934f-ce5cfd0d4e81",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "bf4577ca-87b7-4d30-a8aa-ebb18e141a9f",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "b0f12879-43c9-4369-9ab8-af4de6771353",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "e39441b3-0584-4bcf-98fe-890fdaa4c902",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "88abd3b5-79f4-4e5b-af56-5ea569e5d6dc",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "f9f1c6e3-03cf-4284-b11e-4cf5c0d20238",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 10
+    }
+  ],
+  "sections": [
+    {
+      "id": "f35c8210-8f15-4217-80a7-0aef8e6f43e9",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "photos": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

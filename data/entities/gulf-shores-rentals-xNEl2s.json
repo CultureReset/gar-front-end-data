@@ -1,32 +1,413 @@
 {
-  "id": "23c37819-1598-40be-974d-d3ea58e5211b",
-  "slug": "gulf-shores-rentals-xNEl2s",
-  "name": "Gulf Shores Rentals",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "Gulf Shores Rentals, Inc. has been in the vacation rental and property management business offering exceptional customer service and vacation rental properties in the Gulf Shores/Orange Beach vacation destination for over 25 years. Gulf Shores International Airport now offers many direct flights to our area. Gulf Shores Rentals offers you, your family, and friends over 150 vacation rental properties, ranging from one-bedroom condominiums to ten-bedroom beach houses in both Gulf Shores and Orange Beach. We have something for everyone that is sure to make your vacation a memorable one. Find your place in the sun with Gulf Shores Rentals. If you are a first-time visitor to the area, you'll love the 32 miles of sugar white sand beaches, emerald green waters, and a wide range of area activities perfect for you and your family. We have water attractions, amusement parks, zip lines, and bike trails for those who enjoy being active; outdoor enthusiasts will love our nature trails, exotic animals at the Alabama Gulf Coast Zoo, historic forts, and dolphin cruises on the back bay. Our area offers abundant golfing and charter fishing. Or, do some shopping at the outlet mall located a few miles from our beaches. Whatever your pleasure, you are sure to find it here on Alabama's beautiful Gulf Coast.",
-  "phone": "(866) 783-0702",
-  "email": null,
-  "website_url": "https://www.gulfshoresrentals.com/",
-  "address_line_1": "1325 Gulf Shores Pkwy Suite 1, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.4,
-  "review_count": 150,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/23c37819-1598-40be-974d-d3ea58e5211b/23c37819-1598-40be-974d-d3ea58e5211b_1779139864697.787.jpg",
-  "photos": [],
+  "entity": {
+    "id": "23c37819-1598-40be-974d-d3ea58e5211b",
+    "place_id": "ChIJaRdoEdAEmogR8D7HixNEl2s",
+    "google_maps_uri": "https://maps.google.com/?cid=7752740134281756400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "gulf-shores-rentals-xNEl2s",
+    "name": "Gulf Shores Rentals",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": "",
+    "google_type": "travel_agency",
+    "google_types": [
+      "real_estate_agency",
+      "travel_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(866) 783-0702",
+    "international_phone": null,
+    "website_url": "https://www.gulfshoresrentals.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1325 Gulf Shores Pkwy Suite 1, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2632993,
+    "longitude": -87.6888923,
+    "short_address": "1325 Gulf Shores Pkwy Suite 1, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 150,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Gulf Shores Rentals, Inc. has been in the vacation rental and property management business offering exceptional customer service and vacation rental properties in the Gulf Shores/Orange Beach vacation destination for over 25 years. Gulf Shores International Airport now offers many direct flights to our area. Gulf Shores Rentals offers you, your family, and friends over 150 vacation rental properties, ranging from one-bedroom condominiums to ten-bedroom beach houses in both Gulf Shores and Orange Beach. We have something for everyone that is sure to make your vacation a memorable one. Find your place in the sun with Gulf Shores Rentals. If you are a first-time visitor to the area, you'll love the 32 miles of sugar white sand beaches, emerald green waters, and a wide range of area activities perfect for you and your family. We have water attractions, amusement parks, zip lines, and bike trails for those who enjoy being active; outdoor enthusiasts will love our nature trails, exotic animals at the Alabama Gulf Coast Zoo, historic forts, and dolphin cruises on the back bay. Our area offers abundant golfing and charter fishing. Or, do some shopping at the outlet mall located a few miles from our beaches. Whatever your pleasure, you are sure to find it here on Alabama's beautiful Gulf Coast.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/23c37819-1598-40be-974d-d3ea58e5211b/23c37819-1598-40be-974d-d3ea58e5211b_1779139864697.787.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/alabamasbeachessportsevents/",
+    "social_facebook": "https://www.facebook.com/gsrentalsfanpage",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "paidParkingLot": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 5:00 PM",
+      "Sunday: 8:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.477529+00:00",
+    "updated_at": "2026-05-18T21:31:09.522032+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "8b32cbd9-f756-415d-99a2-286d3fa7d61c",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "f90b4ca9-4e11-433b-8965-86b286f2951e",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "5987f9c9-2be3-46ab-8220-490ea8ecf734",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "f9c7940a-be92-4317-b3c9-2bd5d7893743",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "a6600cdf-1297-4be4-bd72-271b6c9f2cce",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "91858c4e-a48f-4de3-a068-33e58cdbf197",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "525acb92-5c7b-4581-ba63-7f8c1ce56a6e",
+      "tag": "tours",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "96f8977d-472a-469f-899d-effe4f397d5a",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "2864d2ef-bc23-485a-8cef-d676106036f8",
+      "tag": "vacation rentals",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "3fd01605-68b7-4c63-baa9-bff6cbfce4e0",
+      "tag": "beach houses",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "ed5c8bfd-c868-4413-a2d1-a0cfeafff3f9",
+      "tag": "gulf front condos",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "724d3b18-d738-4d18-bd09-37bda556b58c",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "528dade8-275a-4d51-9f21-a492e0ca5f2c",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "0eab8d69-5397-45cc-92ef-23e39261228c",
+      "tag": "Alabama beaches",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "5f0b4200-4764-4f0c-898f-b6766e8c2699",
+      "tag": "pet-friendly rentals",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "63fae980-b899-4305-a525-9dd45c9f6b61",
+      "tag": "beachfront properties",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "813e9a1f-00b9-49f0-92ac-fdd788517a86",
+      "tag": "family vacation",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "ae99693d-059d-471a-8756-369777c1dd89",
+      "tag": "coastal accommodation",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "f3c57741-5b4a-4ab2-b2f6-91f753cefc24",
+      "tag": "Vacation Rentals",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "13599919-ccc6-4b15-8da9-a0670a0d085a",
+      "tag": "Beach Houses",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "85830eba-cad0-4c26-9748-3320e4340ce1",
+      "tag": "Condominiums",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "4df53e38-bf46-4b7d-aea0-f9f80b561729",
+      "tag": "Beachfront Properties",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "aa9859c6-3a49-4efc-9ffb-c5feb554b911",
+      "tag": "Pet-Friendly Accommodations",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "2949a5aa-561f-4e99-abbc-a7bbc98ccb99",
+      "tag": "Gulf Front Rentals",
+      "tag_category": "category",
+      "sort_order": 23
+    },
+    {
+      "id": "edfc76ef-7652-465a-a31f-a1dc011f147d",
+      "tag": "Family Vacation Destinations",
+      "tag_category": "category",
+      "sort_order": 24
+    },
+    {
+      "id": "1d080a1a-3a05-40cd-95d2-6fc910414d98",
+      "tag": "Coastal Tourism",
+      "tag_category": "category",
+      "sort_order": 25
+    },
+    {
+      "id": "0ad2a9ad-8355-4e3f-9138-2a92cc5971da",
+      "tag": "vacation-rentals",
+      "tag_category": "industry",
+      "sort_order": 26
+    },
+    {
+      "id": "a601159d-0e8f-42fa-8924-9529c6294820",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "7d174c4a-ff7d-447a-9e27-3a1a516c3e9e",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "f434ccec-0e28-45f3-91c2-909c685c7996",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 29
+    }
+  ],
+  "sections": [
+    {
+      "id": "838c7a23-3107-47f7-92b6-bb15a31e3026",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "7415b951-869c-4e6b-9851-6d82f1ef0b57",
+      "entity_id": "23c37819-1598-40be-974d-d3ea58e5211b",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/23c37819-1598-40be-974d-d3ea58e5211b/23c37819-1598-40be-974d-d3ea58e5211b_1779131515117.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:36.824499+00:00"
+    },
+    {
+      "id": "2764e591-d35a-4359-b092-8d0c5f42406b",
+      "entity_id": "23c37819-1598-40be-974d-d3ea58e5211b",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/23c37819-1598-40be-974d-d3ea58e5211b/23c37819-1598-40be-974d-d3ea58e5211b_1779139864697.787.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:37.587504+00:00"
+    },
+    {
+      "id": "8ee4f185-b79c-4b2c-a649-c642b8f68e40",
+      "entity_id": "23c37819-1598-40be-974d-d3ea58e5211b",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/23c37819-1598-40be-974d-d3ea58e5211b/23c37819-1598-40be-974d-d3ea58e5211b_1779131579497.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:36.976859+00:00"
+    },
+    {
+      "id": "79aaf5a0-cdc8-4100-8f87-1fecdd7c0125",
+      "entity_id": "23c37819-1598-40be-974d-d3ea58e5211b",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/23c37819-1598-40be-974d-d3ea58e5211b/23c37819-1598-40be-974d-d3ea58e5211b_1779132055101.734.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:37.128763+00:00"
+    },
+    {
+      "id": "ceaf6884-333e-4164-91ed-411dbb29489a",
+      "entity_id": "23c37819-1598-40be-974d-d3ea58e5211b",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/23c37819-1598-40be-974d-d3ea58e5211b/23c37819-1598-40be-974d-d3ea58e5211b_1779132116864.8396.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:37.283054+00:00"
+    },
+    {
+      "id": "601e6763-a1e0-4074-8110-cd9cab117c21",
+      "entity_id": "23c37819-1598-40be-974d-d3ea58e5211b",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/23c37819-1598-40be-974d-d3ea58e5211b/23c37819-1598-40be-974d-d3ea58e5211b_1779139800752.1143.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:37.435163+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

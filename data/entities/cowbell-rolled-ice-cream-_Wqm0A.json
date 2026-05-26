@@ -1,32 +1,410 @@
 {
-  "id": "e96be4e3-d2e0-42f7-97e7-9319958925b7",
-  "slug": "cowbell-rolled-ice-cream-_Wqm0A",
-  "name": "Cowbell Rolled Ice Cream",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 970-2355",
-  "email": null,
-  "website_url": "https://www.facebook.com/Cowbellrolledicecream",
-  "address_line_1": "2200 E 2nd St STE D, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.9,
-  "review_count": 474,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/afa7e20c-4ea0-4df5-95b8-b35d670f3eb9/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "e96be4e3-d2e0-42f7-97e7-9319958925b7",
+    "place_id": "ChIJJ-JvWM4PmogRNTl1W_Wqm0A",
+    "google_maps_uri": "https://maps.google.com/?cid=4655502610595658037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "cowbell-rolled-ice-cream-_Wqm0A",
+    "name": "Cowbell Rolled Ice Cream",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "ice_cream_shop",
+    "google_types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 970-2355",
+    "international_phone": null,
+    "website_url": "https://www.facebook.com/Cowbellrolledicecream",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "2200 E 2nd St STE D, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2751523,
+    "longitude": -87.6825297,
+    "short_address": "2200 E 2nd St STE D, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 474,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/afa7e20c-4ea0-4df5-95b8-b35d670f3eb9/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: 1:00 – 9:00 PM",
+      "Wednesday: 1:00 – 9:00 PM",
+      "Thursday: 1:00 – 9:00 PM",
+      "Friday: 1:00 – 9:00 PM",
+      "Saturday: 1:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://cowbellrolledicecream.com/",
+      "pages": [
+        {
+          "url": "http://cowbellrolledicecream.com",
+          "meta": {
+            "description": ""
+          },
+          "text": "404. That’s an error.\n\nThe requested URL was not found on this server. That’s all we know.",
+          "links": [
+            "https://www.google.com/"
+          ],
+          "title": "Error 404 (Not Found)!!1",
+          "structuredData": []
+        }
+      ],
+      "pdfUrls": [],
+      "scraper": "chrome-visible",
+      "pdfTexts": [],
+      "imageUrls": [],
+      "scraped_at": "2026-03-22T02:43:39.113Z",
+      "business_name": "Cowbell Rolled Ice Cream"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.707977+00:00",
+    "updated_at": "2026-05-17T22:22:53.156249+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "3df54568-5aa4-465a-863f-59c93c6b5bc8",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "25675560-38f6-48aa-8ecb-ff10d265100b",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "e662f309-94f6-401c-850b-e20d81db2323",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "9997d92b-2e08-4a25-83af-079f102ebf9a",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d682cd6d-1c0f-4e70-92e5-b1ff5370710c",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "64991f04-4b68-4e8b-9a8e-52d072c059b7",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "abf95c9c-e736-48b5-81d2-f008da5be948",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "c272e721-637f-4305-9336-97b2c7ffbab2",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "b672265f-a075-411e-85b3-e7fbc940dc48",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "33ede117-3b70-4737-8bdc-884dfee359e7",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "57d9e77a-4907-4131-b1a0-fd628a7dae3a",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "5c047e24-de14-4fb3-9f0a-b0c2b80ed27d",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "99e7f4dd-84fa-4bc6-a299-e1fc6934f909",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "1cc1bd56-d8ec-45a1-be1b-42eef57c6fab",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "f4f0cdbc-767f-46fe-900b-aee01c80fd2f",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "4c6e76ec-0bde-46ff-9d24-2687552e0776",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "54cecd03-1a2f-420e-95bd-9fa6b899cbc7",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "985c58fb-3baa-49a2-bd44-2e8cf5a15f46",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "0f866a54-a5b8-4290-8323-f5b98060c845",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "66d991a3-c321-4c8f-a861-75149142b8e7",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "9358ff6f-efd1-431d-b4a3-ed928f312609",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "a8f6c35b-aa13-41cf-b7cd-532966299e72",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "49197d33-0067-4a31-abfb-579a05898e58",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 11
+    },
+    {
+      "id": "9e8e9ccb-a25d-4544-a338-b4204bbcce8e",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 11
+    },
+    {
+      "id": "81b5a171-deb9-464c-ae01-95a27c88d5e9",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "9d279994-17de-494e-95f8-197fbeaed862",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "2fd9f832-94cc-49a7-93d0-ad64fe77ac91",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "9e7f9807-1597-4acc-aa47-0fc95274822a",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "cee015fe-436c-40a7-8251-9849f3025556",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "edc99546-3b20-4002-910a-ea3587c1d47a",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "79252956-6f87-48b6-bfd6-9e9bfd050890",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "56c7eb0f-e22e-4bae-a44b-fe39eece78cf",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "bf984929-0ba0-457f-9360-993aa7f89bdc",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "f37b6d44-6e1e-470d-a0a6-6918e5cd557a",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "12a083ce-b015-40f0-9be6-96817b0b09df",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "b6b605e7-dbff-40d8-a3e2-c29cdd773cb0",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 17
+    }
+  ],
+  "sections": [
+    {
+      "id": "16afba07-7947-45c9-8212-c8958c08030d",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

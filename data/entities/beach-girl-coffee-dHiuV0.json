@@ -1,32 +1,817 @@
 {
-  "id": "be165aa2-cc9d-46b5-8abc-e2baa0b67cd9",
-  "slug": "beach-girl-coffee-dHiuV0",
-  "name": "Beach Girl Coffee",
-  "entity_type": "restaurant",
-  "entity_subtype": "coffee_shop",
-  "icon": "🏪",
-  "description": "{\"description\":\"Beach Girl Coffee offers truly great coffee with southern hospitality. They serve hot, cold, blended, and kids' drinks made fresh to your specifications in a drive-through setting.\",\"cuisine_type\":\"coffee\"}",
-  "phone": "(251) 948-0474",
-  "email": null,
-  "website_url": "https://www.beachgirlcoffee.com/",
-  "address_line_1": "3500 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.7,
-  "review_count": 662,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139396196.9714.jpg",
-  "photos": [],
+  "entity": {
+    "id": "be165aa2-cc9d-46b5-8abc-e2baa0b67cd9",
+    "place_id": "ChIJAcGzx-cFmogR4csOwdHiuV0",
+    "google_maps_uri": "https://maps.google.com/?cid=6753678506733784033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "beach-girl-coffee-dHiuV0",
+    "name": "Beach Girl Coffee",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "coffee_shop",
+    "secondary_types": [],
+    "google_type": "coffee_shop",
+    "google_types": [
+      "coffee_shop",
+      "coffee_stand",
+      "breakfast_restaurant",
+      "dessert_restaurant",
+      "cafe",
+      "clothing_store",
+      "food_store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-0474",
+    "international_phone": null,
+    "website_url": "https://www.beachgirlcoffee.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "3500 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.292146,
+    "longitude": -87.683402,
+    "short_address": "3500 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 662,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"Beach Girl Coffee offers truly great coffee with southern hospitality. They serve hot, cold, blended, and kids' drinks made fresh to your specifications in a drive-through setting.\",\"cuisine_type\":\"coffee\"}",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139396196.9714.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleSeating": false
+    },
+    "parking": {
+      "valetParking": false,
+      "freeParkingLot": false,
+      "freeStreetParking": false
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 6:00 AM – 3:00 PM",
+      "Tuesday: 6:00 AM – 3:00 PM",
+      "Wednesday: 6:00 AM – 3:00 PM",
+      "Thursday: 6:00 AM – 3:00 PM",
+      "Friday: 6:00 AM – 3:00 PM",
+      "Saturday: 6:00 AM – 3:00 PM",
+      "Sunday: 6:00 AM – 3:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Holiday Menu - Seasonal Drinks",
+          "items": [
+            {
+              "name": "Peppermint Mocha",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Chocolate & Peppermint",
+              "subcategory": null
+            },
+            {
+              "name": "Christmas Cookie",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Vanilla, Cookie Dough, & Cane Sugar",
+              "subcategory": null
+            },
+            {
+              "name": "Gingerbread House",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Gingerbread Cookie Dough & Vanilla",
+              "subcategory": null
+            },
+            {
+              "name": "Rudolph",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Red Velvet & Vanilla",
+              "subcategory": null
+            },
+            {
+              "name": "Polar Express Hot Coco",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Coco Mix & Toasted Marshmallow",
+              "subcategory": null
+            },
+            {
+              "name": "Beach Girls Candy Cane",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "White Chocolate & Peppermint Foam",
+              "subcategory": null
+            },
+            {
+              "name": "Sweater Weather",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Spiced Brown Sugar & Vanilla",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Hot Drinks",
+          "items": [
+            {
+              "name": "French Brewed Coffee",
+              "tags": [],
+              "price": "$2.45-$3.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Americano",
+              "tags": [],
+              "price": "$3.25-$4.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cappuccino",
+              "tags": [],
+              "price": "$4.50-$6.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Macchiato",
+              "tags": [],
+              "price": "$5.00-$7.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Latte",
+              "tags": [],
+              "price": "$4.50-$6.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Chai Latte",
+              "tags": [],
+              "price": "$4.25-$5.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Assorted Hot Teas",
+              "tags": [],
+              "price": "$3.00-$3.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Hot Chocolate",
+              "tags": [],
+              "price": "$3.00-$3.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Matcha",
+              "tags": [],
+              "price": "$4.00-$6.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "To-Go Coffee Box 96oz",
+              "tags": [],
+              "price": "$22.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "On The Rocks",
+          "items": [
+            {
+              "name": "Ice Coffee",
+              "tags": [],
+              "price": "$3.00-$5.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Ice Latte",
+              "tags": [],
+              "price": "$4.25-$7.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Ice Macchiato",
+              "tags": [],
+              "price": "$5.00-$8.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Ice Chai",
+              "tags": [],
+              "price": "$4.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Ice Tea",
+              "tags": [],
+              "price": "$2.75-$5.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Lemonade",
+              "tags": [],
+              "price": "$2.75-$5.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Energy",
+              "tags": [],
+              "price": "$5.25-$8.50",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Tropical Bliss",
+              "tags": [],
+              "price": "$4.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Matcha",
+              "tags": [],
+              "price": "$4.00-$7.75",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Blended Frozen",
+          "items": [
+            {
+              "name": "Vanilla",
+              "tags": [],
+              "price": "$5.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Caramel",
+              "tags": [],
+              "price": "$5.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Chocolate",
+              "tags": [],
+              "price": "$5.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "White Chocolate",
+              "tags": [],
+              "price": "$5.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Coffee",
+              "tags": [],
+              "price": "$5.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Java Chip",
+              "tags": [],
+              "price": "$5.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Cookies and Cream",
+              "tags": [],
+              "price": "$5.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "Choco Peanut butter",
+              "tags": [],
+              "price": "$5.25-$7.25",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Customization",
+          "items": [
+            {
+              "name": "Extra Shot of Espresso",
+              "tags": [],
+              "price": "$2.00",
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            },
+            {
+              "name": "The Whole Shebang",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "Whip cream drizzle & sprinkles",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139396510.751.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139396937.9688.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139397247.1494.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139397483.1406.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139397960.2732.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139398430.8442.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139398683.6108.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139398967.2148.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9/be165aa2-cc9d-46b5-8abc-e2baa0b67cd9_1779139399376.418.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:12.340344+00:00",
+    "updated_at": "2026-05-18T21:23:24.65471+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "75017b9b-d1f7-4cc8-b134-286139e83a7a",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "544ba4d1-d71c-4e97-9b8a-9456bd1a9625",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "92cf3b43-8e63-4b59-8a6b-b5ee68c40ecf",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "4904da77-9545-45d9-add1-04f2b0b0e643",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "140449a7-5778-42fb-8da3-4c7b99017055",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "ba11e49d-4dbf-436b-abbc-637a7394717e",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "d7c5b401-9130-455a-86d4-5cf021a6d033",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "2433caa4-dc71-45b5-82d8-8b90991901a9",
+      "tag": "clothing store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "43eb736d-6047-4be9-93e3-ca711a247d75",
+      "tag": "dessert restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "ecf6332e-edc6-4e74-bfb4-afa71d01ef32",
+      "tag": "dessert restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "62a87991-e530-4ea5-9810-55ead784f95e",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "6a565662-d374-44a6-afe9-98a407eb8d01",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "37fb799e-b9b0-49bd-a0df-163df661e168",
+      "tag": "coffee stand",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "d579a391-a7d1-4f05-8200-b5c54490ea83",
+      "tag": "coffee stand",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "02c8b052-2218-479b-85ba-2887c7601988",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "c923a069-2a49-440b-8073-25657cf5f860",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "5c3a8f1f-4097-4478-9afe-371cc6ff600e",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "e3103f47-800c-4a06-9eb5-37b84a27368b",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "c89b51a0-dc19-47a3-8534-360eb15fef68",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "7468bdf8-0229-42d8-b0f5-e903a0f64d5c",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "6948ac84-9c54-488d-a7ee-88bddd543b0a",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "64a0f32a-6afb-43a3-9ee1-3d4a8fd29058",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "4ccb2bbf-3d3d-4562-94d1-cd08110cd7f6",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "a2e84768-f664-481c-b234-7905e3ef06d6",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 11
+    },
+    {
+      "id": "c10119b4-5f1a-4841-91a7-0513166a4761",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "7d81b243-d66e-4805-a7ca-88d452a002e2",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "2dc6249a-0a29-4db0-8ce8-bb862c746cf6",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "3f27c320-7a13-4840-ab53-c9648a415486",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "e6a92ac7-4ad5-42ce-b7af-0f200dc18619",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "915fcdc2-0ac9-4615-bc16-b76e496e603b",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "2e848e1e-7338-4e55-bdeb-0bc4cd022630",
+      "tag": "coffee_stand",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "6f0a7b20-98b8-493e-917b-a2ded7498154",
+      "tag": "coffee_stand",
+      "tag_category": "google_type",
+      "sort_order": 15
+    },
+    {
+      "id": "dee4ebd8-426c-4c69-92ed-6f0dc89fc11c",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "e9d30ef2-91f9-4363-97bd-4f5856625ea2",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "210d03e1-f138-4fd4-83bf-fe1ec3a540b8",
+      "tag": "dessert_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "944bf12b-67e1-4ab5-859a-709e6e36e0dd",
+      "tag": "dessert_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "1a0ac039-b23f-4ccf-8e7d-1a6a3834243d",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "4885dee7-0e52-4339-9791-1bcf6f270cbe",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "93df1ebc-4d26-4b36-b6af-ba29a9823cf2",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "a1d917ff-8792-4a17-92ac-151144ff03e3",
+      "tag": "clothing_store",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "ece054ce-a212-4a61-b006-70cce57976c8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "3c223db9-9003-4850-babc-7ca59fa3c689",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "cc16f94b-d37d-4a15-8749-0483ee14a5b3",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "e3db9a68-9eea-45e8-b1b2-8a56ff6db0bd",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 21
+    }
+  ],
+  "sections": [
+    {
+      "id": "65f66108-a1f5-4096-8829-dc138d6886f6",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,455 @@
 {
-  "id": "d9895bd7-a4e9-4624-81e4-8a2d63f7ff3b",
-  "slug": "cool-change-charters-zxlOzc",
-  "name": "Cool Change Charters",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "{\"description\":\"Orange Beach and Gulf Shores fishing charters offering private, family, reef and offshore trips with experienced local crew. Captain Joe Nash has over 35 years of professional fishing guide experience and has completed over 5,000 paid fishing charters. The business offers deep sea fishing, inshore fishing, reef and bottom fishing, and customized private charters.\",\"elevator_pitch\":\"Expert-led fishing charters in Orange Beach and Gulf Shores with over 35 years of experience and 5,000+ completed trips.\",\"vibe\":\"Professional, family-friendly, fun, and patient with first-time anglers. Captain Joe Nash is known for creating memorable experiences and great customer service.\",\"best_for\":[\"families\",\"groups\",\"first-time anglers\",\"experienced fishermen\",\"private parties\",\"corporate groups\"],\"capacity\":\"Up to 20 people on Cool Change 2 (44 ft, USCG approved)\",\"duration_options\":[\"1/2 Day Morning\",\"1/2 Day Evening\",\"Full Day\"],\"departure_location\":\"Zeke's Marina, 26619 Perdido Beach Blvd, Orange Beach, AL 36561\",\"what_provided\":[\"Quality tackle\",\"Professional fishing guide\",\"USCG licensed captain\",\"Boat and equipment\"],\"what_to_bring\":null,\"age_restriction\":null,\"weight_restriction\":null,\"reservations\":\"Required - Book online at https://coolchangecharter.com/book/ or call (251) 979-1812\",\"cancellation_policy\":null,\"insider_tip\":\"Captain Joe says first-timers are his favorite to watch. Snapper season opens June 1st - book early as it fills up quickly. Red snapper season is highly popular.\"}",
-  "phone": "(251) 979-1812",
-  "email": null,
-  "website_url": "https://www.coolchangecharter.com/",
-  "address_line_1": "26619 Perdido Beach Blvd Suite WBO2, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "26619",
-  "rating": 4.7,
-  "review_count": 55,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/fd4e8391-9c5b-41a0-bc04-e6a91ddf5060/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "d9895bd7-a4e9-4624-81e4-8a2d63f7ff3b",
+    "place_id": "ChIJvWiOTkwbmogR1RcEmzxlOzc",
+    "google_maps_uri": "https://maps.google.com/?cid=3979886006685145045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "cool-change-charters-zxlOzc",
+    "name": "Cool Change Charters",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": [],
+    "google_type": "fishing_charter",
+    "google_types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 979-1812",
+    "international_phone": null,
+    "website_url": "https://www.coolchangecharter.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26619 Perdido Beach Blvd Suite WBO2, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "26619",
+    "latitude": 30.2753617,
+    "longitude": -87.5691303,
+    "short_address": "26619 Perdido Beach Blvd Suite WBO2, Orange Beach",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 55,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"Orange Beach and Gulf Shores fishing charters offering private, family, reef and offshore trips with experienced local crew. Captain Joe Nash has over 35 years of professional fishing guide experience and has completed over 5,000 paid fishing charters. The business offers deep sea fishing, inshore fishing, reef and bottom fishing, and customized private charters.\",\"elevator_pitch\":\"Expert-led fishing charters in Orange Beach and Gulf Shores with over 35 years of experience and 5,000+ completed trips.\",\"vibe\":\"Professional, family-friendly, fun, and patient with first-time anglers. Captain Joe Nash is known for creating memorable experiences and great customer service.\",\"best_for\":[\"families\",\"groups\",\"first-time anglers\",\"experienced fishermen\",\"private parties\",\"corporate groups\"],\"capacity\":\"Up to 20 people on Cool Change 2 (44 ft, USCG approved)\",\"duration_options\":[\"1/2 Day Morning\",\"1/2 Day Evening\",\"Full Day\"],\"departure_location\":\"Zeke's Marina, 26619 Perdido Beach Blvd, Orange Beach, AL 36561\",\"what_provided\":[\"Quality tackle\",\"Professional fishing guide\",\"USCG licensed captain\",\"Boat and equipment\"],\"what_to_bring\":null,\"age_restriction\":null,\"weight_restriction\":null,\"reservations\":\"Required - Book online at https://coolchangecharter.com/book/ or call (251) 979-1812\",\"cancellation_policy\":null,\"insider_tip\":\"Captain Joe says first-timers are his favorite to watch. Snapper season opens June 1st - book early as it fills up quickly. Red snapper season is highly popular.\"}",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/fd4e8391-9c5b-41a0-bc04-e6a91ddf5060/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 6:00 AM – 9:00 PM",
+      "Tuesday: 6:00 AM – 9:00 PM",
+      "Wednesday: 6:00 AM – 9:00 PM",
+      "Thursday: 6:00 AM – 9:00 PM",
+      "Friday: 6:00 AM – 9:00 PM",
+      "Saturday: 6:00 AM – 9:00 PM",
+      "Sunday: 6:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://coolchangecharter.com",
+      "tags": [
+        "fishing",
+        "deep sea fishing",
+        "offshore fishing",
+        "inshore fishing",
+        "reef fishing",
+        "family fun",
+        "private charter",
+        "Gulf Shores",
+        "Orange Beach",
+        "Alabama Gulf Coast",
+        "red snapper",
+        "king mackerel",
+        "trolling"
+      ],
+      "type": "Fishing Charter",
+      "about": {
+        "vibe": "Professional, family-friendly, fun, and patient with first-time anglers. Captain Joe Nash is known for creating memorable experiences and great customer service.",
+        "best_for": [
+          "families",
+          "groups",
+          "first-time anglers",
+          "experienced fishermen",
+          "private parties",
+          "corporate groups"
+        ],
+        "capacity": "Up to 20 people on Cool Change 2 (44 ft, USCG approved)",
+        "description": "Orange Beach and Gulf Shores fishing charters offering private, family, reef and offshore trips with experienced local crew. Captain Joe Nash has over 35 years of professional fishing guide experience and has completed over 5,000 paid fishing charters. The business offers deep sea fishing, inshore fishing, reef and bottom fishing, and customized private charters.",
+        "insider_tip": "Captain Joe says first-timers are his favorite to watch. Snapper season opens June 1st - book early as it fills up quickly. Red snapper season is highly popular.",
+        "reservations": "Required - Book online at https://coolchangecharter.com/book/ or call (251) 979-1812",
+        "what_provided": [
+          "Quality tackle",
+          "Professional fishing guide",
+          "USCG licensed captain",
+          "Boat and equipment"
+        ],
+        "what_to_bring": null,
+        "elevator_pitch": "Expert-led fishing charters in Orange Beach and Gulf Shores with over 35 years of experience and 5,000+ completed trips.",
+        "age_restriction": null,
+        "duration_options": [
+          "1/2 Day Morning",
+          "1/2 Day Evening",
+          "Full Day"
+        ],
+        "departure_location": "Zeke's Marina, 26619 Perdido Beach Blvd, Orange Beach, AL 36561",
+        "weight_restriction": null,
+        "cancellation_policy": null
+      },
+      "hours": {
+        "notes": "By appointment only",
+        "friday": "6:00 AM - 6:00 PM",
+        "monday": "6:00 AM - 6:00 PM",
+        "sunday": "6:00 AM - 6:00 PM",
+        "tuesday": "6:00 AM - 6:00 PM",
+        "saturday": "6:00 AM - 6:00 PM",
+        "thursday": "6:00 AM - 6:00 PM",
+        "wednesday": "6:00 AM - 6:00 PM"
+      },
+      "model": "claude-haiku-4-5-20251001",
+      "events": [],
+      "contact": {
+        "zip": "36561",
+        "city": "Orange Beach",
+        "email": "info@coolchangecharter.com",
+        "phone": "(251) 979-1812",
+        "state": "AL",
+        "address": "26619 Perdido Beach Blvd, Zeke's Marina"
+      },
+      "gallery": [
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/fishing-charters-orange-beach-alabama-1.png",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/20180728_114904-1024x576.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/1000001311-1024x768.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2026/02/Cool-Change-Charters-Inshore-Fishing-Charter-Orange-Beach-AL-1024x768.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/best-orange-beach-fishing-charters-1024x768.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/orange-beach-snapper-fishing.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/family-fishing-charters-orange-beach-768x432.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2015/04/P1000905.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2025/10/gulf-shores-offshore-fishing-charter-prices-768x430.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/fishing-charters-orange-beach-alabama-1-300x300.png",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/family-fishing-trips-orange-beach-Charter-boats-for-groups-in-Orange-Beach.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/offshore-fishing-orange-beach-1.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/family-fishing-charters-orange-beach-alabama.jpg",
+        "https://coolchangecharter.com/wp-content/uploads/2025/06/orange-beach-Spanish-mackere-fishing.jpg"
+      ],
+      "sources": [
+        "https://coolchangecharter.com",
+        "https://coolchangecharter.com/about",
+        "https://coolchangecharter.com/contact"
+      ],
+      "tagline": "35 Years of experience in Orange Beach Fishing Charters",
+      "features": [
+        "Private charters available",
+        "Group charters available",
+        "USCG licensed and insured",
+        "U.S. Coast Guard approved vessel",
+        "Professional crew",
+        "Customized trips",
+        "Kid-friendly options",
+        "Expert local guide",
+        "35+ years experience"
+      ],
+      "packages": [
+        {
+          "name": "Offshore Fishing Private Charter",
+          "type": "fishing",
+          "notes": "Customizable trip - choose species, pace, and techniques for your group",
+          "price": null,
+          "duration": "Half Day or Full Day",
+          "max_people": 20,
+          "min_people": 1,
+          "price_note": "Contact for pricing",
+          "price_type": "per boat",
+          "booking_url": "https://coolchangecharter.com/book/",
+          "description": "Book a private Orange Beach fishing charter and reel in snapper, grouper, king mackerel, mahi, wahoo, and more with deep sea and offshore trolling action.",
+          "what_included": [
+            "Professional captain",
+            "Quality tackle",
+            "Boat and equipment",
+            "Expert guidance"
+          ],
+          "days_available": "Daily by appointment",
+          "departure_times": [
+            "Morning",
+            "Evening"
+          ]
+        },
+        {
+          "name": "Inshore Fishing Private Charter",
+          "type": "fishing",
+          "notes": "Steady action, good for small groups",
+          "price": null,
+          "duration": "Half Day or Full Day",
+          "max_people": 4,
+          "min_people": 1,
+          "price_note": "Contact for pricing",
+          "price_type": "per boat",
+          "booking_url": "https://coolchangecharter.com/book/",
+          "description": "Inshore fishing targeting king and Spanish mackerel with drift line fishing nearshore reefs. Awesome trip for small groups 1-4 people.",
+          "what_included": [
+            "Professional captain",
+            "Quality tackle",
+            "Boat and equipment",
+            "Expert guidance"
+          ],
+          "days_available": "Daily by appointment",
+          "departure_times": [
+            "Morning",
+            "Evening"
+          ]
+        },
+        {
+          "name": "Reef & Bottom Fishing Charter",
+          "type": "fishing",
+          "notes": "Alabama artificial reefs, seasonal species",
+          "price": null,
+          "duration": "Half Day or Full Day",
+          "max_people": 20,
+          "min_people": 1,
+          "price_note": "Contact for pricing",
+          "price_type": "per boat",
+          "booking_url": "https://coolchangecharter.com/book/",
+          "description": "Guided drops over wrecks and high-relief structure targeting vermilion snapper, triggerfish, and grouper when in season.",
+          "what_included": [
+            "Professional captain",
+            "Quality tackle",
+            "Boat and equipment",
+            "Expert guidance"
+          ],
+          "days_available": "Daily by appointment",
+          "departure_times": [
+            "Morning",
+            "Evening"
+          ]
+        },
+        {
+          "name": "Family & First-Timer Fishing Trip",
+          "type": "fishing",
+          "notes": "Captain Joe specializes in making first-timers' experiences memorable",
+          "price": null,
+          "duration": "Half Day",
+          "max_people": 20,
+          "min_people": 1,
+          "price_note": "Contact for pricing",
+          "price_type": "per boat",
+          "booking_url": "https://coolchangecharter.com/book/",
+          "description": "Short nearshore or bay outings focused on steady action and kid-friendly techniques. Perfect for families and first-time anglers.",
+          "what_included": [
+            "Professional captain",
+            "Quality tackle",
+            "Boat and equipment",
+            "Patient instruction",
+            "Kid-friendly approach"
+          ],
+          "days_available": "Daily by appointment",
+          "departure_times": [
+            "Morning",
+            "Evening"
+          ]
+        },
+        {
+          "name": "Small & Large Group Fishing Charter",
+          "type": "fishing",
+          "notes": "USCG approved for groups up to 20 people",
+          "price": null,
+          "duration": "Half Day or Full Day",
+          "max_people": 20,
+          "min_people": 5,
+          "price_note": "Contact for pricing",
+          "price_type": "per boat",
+          "booking_url": "https://coolchangecharter.com/book/",
+          "description": "Cool Change 2 – 44 ft, USCG approved vessel for up to 20 people. Specialize in private group charters in Orange Beach and Gulf Shores.",
+          "what_included": [
+            "Professional captain",
+            "Quality tackle",
+            "Boat and equipment",
+            "Expert guidance"
+          ],
+          "days_available": "Daily by appointment",
+          "departure_times": [
+            "Morning",
+            "Evening"
+          ]
+        }
+      ],
+      "specials": [
+        {
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "name": "Snapper Season Special",
+          "time": null,
+          "description": "Red snapper season opens June 1st. Book before it fills up!"
+        }
+      ],
+      "scraped_at": "2026-03-21T19:50:05.654Z",
+      "extracted_at": "2026-03-23T03:36:10.023Z",
+      "social_links": {
+        "website": "https://coolchangecharter.com",
+        "facebook": "https://www.facebook.com/coolchangecharters",
+        "instagram": "https://www.instagram.com/coolchangecharters",
+        "tripadvisor": null
+      },
+      "business_name": "Cool Change Charters"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.692881+00:00",
+    "updated_at": "2026-05-17T22:22:55.15264+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ab4af432-b41e-43fe-93ed-09c1b5d47aaa",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "3638ef1b-7c4b-4e8e-8613-e62230bfc5b0",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "5a0eba8e-dfa7-47ad-bddf-1a25ff625f81",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "74e7497f-a63a-4eb0-a7bf-de7a71f5882f",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "f8904a35-e0a6-4b28-a1ce-bb7c638faadf",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "3ec7a05a-6e22-4585-bfde-02dc60c4879c",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "4a9ee5b9-aac4-436d-927d-7a70d7794269",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

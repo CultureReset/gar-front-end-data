@@ -1,32 +1,365 @@
 {
-  "id": "dea9404a-8a07-40a8-91fe-2258295bfc8b",
-  "slug": "bender-vacation-rentals-GxqPbM",
-  "name": "Bender Vacation Rentals",
-  "entity_type": "activity",
-  "entity_subtype": "rentals",
-  "icon": "🏪",
-  "description": "Bender Realty is a small, boutique real estate and property management company serving the Gulf Shores and Orange Beach areas along the Gulf Coast of Alabama. Our team is dedicated to providing top-notch service to our guests and owners alike. We don't strive to be the biggest company in the area, but rather the best. Our team has combined decades of experience in real estate and vacation property management, and have a deep understanding of the needs of those living and traveling to the Gulf Coast. Bender Vacation Rentals offers vacation condos and property management services throughout the Alabama Gulf Coast area. We manage over 100 vacation condos and homes in prime locations near beaches, dining, and attractions. Our rentals feature comfortable, fully equipped condos and homes with stunning views of the Gulf of Mexico and friendly service from local experts. We have been matching families with the perfect place to make memories since 1986.",
-  "phone": "(251) 948-2651",
-  "email": null,
-  "website_url": "http://www.benderrealty.com/",
-  "address_line_1": "956 W Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.7,
-  "review_count": 217,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/dea9404a-8a07-40a8-91fe-2258295bfc8b/dea9404a-8a07-40a8-91fe-2258295bfc8b_1779139884823.4116.jpg",
-  "photos": [],
+  "entity": {
+    "id": "dea9404a-8a07-40a8-91fe-2258295bfc8b",
+    "place_id": "ChIJtTrseEUbmogR_CfIhGxqPbM",
+    "google_maps_uri": "https://maps.google.com/?cid=12915596320685172732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "bender-vacation-rentals-GxqPbM",
+    "name": "Bender Vacation Rentals",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "rentals",
+    "secondary_types": [],
+    "google_type": "travel_agency",
+    "google_types": [
+      "travel_agency",
+      "real_estate_agency",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-2651",
+    "international_phone": null,
+    "website_url": "http://www.benderrealty.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "956 W Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.24563,
+    "longitude": -87.707825,
+    "short_address": "956 W Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 217,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Bender Realty is a small, boutique real estate and property management company serving the Gulf Shores and Orange Beach areas along the Gulf Coast of Alabama. Our team is dedicated to providing top-notch service to our guests and owners alike. We don't strive to be the biggest company in the area, but rather the best. Our team has combined decades of experience in real estate and vacation property management, and have a deep understanding of the needs of those living and traveling to the Gulf Coast. Bender Vacation Rentals offers vacation condos and property management services throughout the Alabama Gulf Coast area. We manage over 100 vacation condos and homes in prime locations near beaches, dining, and attractions. Our rentals feature comfortable, fully equipped condos and homes with stunning views of the Gulf of Mexico and friendly service from local experts. We have been matching families with the perfect place to make memories since 1986.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/dea9404a-8a07-40a8-91fe-2258295bfc8b/dea9404a-8a07-40a8-91fe-2258295bfc8b_1779139884823.4116.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/bendervacationrentals/",
+    "social_facebook": "https://www.facebook.com/BenderVacationRentals",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 5:00 PM",
+      "Sunday: 10:00 AM – 2:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "all-businesses",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.198986+00:00",
+    "updated_at": "2026-05-18T21:31:29.835373+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "b547abaf-bda2-4c14-8846-45e9b5e34374",
+      "tag": "vacation rentals",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "9d663c47-cbaf-4c03-9346-297394e66f65",
+      "tag": "condos",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "7c64db82-2500-4f5c-a9cd-ef4b31f0d99f",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "5a48635f-2e74-4917-9660-4f09a833a206",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "7fe88eb9-6b10-4d39-9e2b-1a1afc0ba470",
+      "tag": "beachfront",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "14978604-732d-48ee-b221-f8efd84f42a6",
+      "tag": "dog-friendly",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "3c2aef61-fb78-4238-96c6-cdd55419ff09",
+      "tag": "family vacation",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "62ec6aca-7d4d-4de0-a7ed-9691524cdfd5",
+      "tag": "beach houses",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "723b0051-7c4c-455d-9b72-1d20ef35df4b",
+      "tag": "property management",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "b0215c12-6697-455a-ac90-92b8faf8c39c",
+      "tag": "Alabama Gulf Coast",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "4cbcd020-a5f4-4fe8-ae00-2c7fc3077df2",
+      "tag": "vacation homes",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "ab5dffb4-8c07-48e7-a3d0-906e6606552a",
+      "tag": "condo rentals",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "e865ea4b-e91e-4c44-9a34-10b49a0278c7",
+      "tag": "group rentals",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "13ae0f2e-05c5-456c-9967-7de8e1f1595e",
+      "tag": "beach getaway",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "91a7ab49-7fb5-4016-90b8-2970410f30af",
+      "tag": "Vacation Rentals",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "6ffd1dfb-004d-4fec-b748-deb6af6155ea",
+      "tag": "Condos",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "52b36298-1ee6-4ff6-b5c5-520aa02e9f9e",
+      "tag": "Beach Rentals",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "95b3b2e3-fc50-4d79-ba60-aacc5e852f15",
+      "tag": "Property Management",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "a9923d18-9b85-4d02-8b97-4c527d8553ab",
+      "tag": "Lodging",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "55652c7d-2c83-48aa-b1e7-b0bbd7f21b60",
+      "tag": "Group Accommodations",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "755c54ed-5a64-4a76-80f8-d16e1ee36b99",
+      "tag": "Pet-Friendly Rentals",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "9209f9dd-693e-48a6-8392-6a87e6d88522",
+      "tag": "vacation-rentals",
+      "tag_category": "industry",
+      "sort_order": 21
+    },
+    {
+      "id": "815256b6-ceaa-4789-8ead-753313159d11",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "c8369e2e-1243-43f0-9b30-9d8997907a40",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "e89f3a2d-7094-4de9-be20-537b0c812910",
+      "tag": "tours",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "e0e22843-0092-4b7c-9f19-47c307190ae6",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 25
+    },
+    {
+      "id": "1e89bce3-83e5-4dae-b5a5-ac5d376a31f9",
+      "tag": "real estate agency",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "8795adfa-dc8a-470a-9531-65dd134df047",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "d778ae38-7315-4665-85c9-459eff62a35b",
+      "tag": "travel agency",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "419b7157-a455-4f7a-a48f-9fc20735ed7a",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 29
+    },
+    {
+      "id": "3ba779c5-d99f-4652-872c-c837b238556a",
+      "tag": "real_estate_agency",
+      "tag_category": "google_type",
+      "sort_order": 30
+    },
+    {
+      "id": "64bd3e00-5e6c-408d-9618-4af86a3c7464",
+      "tag": "travel_agency",
+      "tag_category": "google_type",
+      "sort_order": 31
+    },
+    {
+      "id": "b39e89d0-ca6f-4f92-a69f-7928496780a5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 32
+    }
+  ],
+  "sections": [],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

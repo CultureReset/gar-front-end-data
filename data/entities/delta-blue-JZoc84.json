@@ -1,32 +1,529 @@
 {
-  "id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
-  "slug": "delta-blue-JZoc84",
-  "name": "Delta Blue",
-  "entity_type": "restaurant",
-  "entity_subtype": "bar",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 948-1044",
-  "email": null,
-  "website_url": null,
-  "address_line_1": "103 W Canal Dr, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.5,
-  "review_count": 66,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139377223.7236.jpg",
-  "photos": [],
+  "entity": {
+    "id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+    "place_id": "ChIJ5apn-icFmogR6G7jdJZoc84",
+    "google_maps_uri": "https://maps.google.com/?cid=14876348989550325480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "delta-blue-JZoc84",
+    "name": "Delta Blue",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "bar",
+    "secondary_types": "",
+    "google_type": "bar",
+    "google_types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-1044",
+    "international_phone": null,
+    "website_url": null,
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "103 W Canal Dr, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2776002,
+    "longitude": -87.6871624,
+    "short_address": "103 W Canal Dr, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 66,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139377223.7236.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 10:00 PM",
+      "Sunday: 3:00 – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139377668.2004.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139378693.2246.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139378888.7888.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139379102.3213.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139379716.6052.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139380169.652.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139380582.6487.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139381064.8499.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139381255.3215.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:11.802106+00:00",
+    "updated_at": "2026-05-18T21:23:06.223993+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "bbf68ab9-dccd-4ea1-a7b5-d3eb99d02e86",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "c2457794-3d35-45af-9399-8b54ad8318d8",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "bfac79fa-bde4-4eb3-ac75-360239907137",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "c7f0a166-f961-4594-8056-b76cb8847fc0",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "2c87e8cd-ef6d-4c8e-b409-a45157018dc9",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "721b3a08-23f6-4203-8415-533aea6ba434",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "421f1631-d638-42cd-b1d2-5e328e36a2d1",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "bd5e3fd1-a91e-4492-94e2-a2da923f0811",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "fda79cb4-6eb6-4535-867e-37aca1cfa0b8",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "9f3d61bb-57b7-444c-87ac-3d683761c907",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "21b4035d-cfda-4b76-a567-dea03edca063",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "f33f3667-96b5-4288-92c9-5a0a0ab99adf",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 5
+    },
+    {
+      "id": "ab8a1a5c-ef3d-452f-bbae-cca9d02035ca",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 6
+    },
+    {
+      "id": "a01ff8d6-a7df-481d-82d4-203303a83c74",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 6
+    },
+    {
+      "id": "7bfca235-444a-4d61-b591-22aeb6fcd834",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "5c811285-cc43-4e5e-a73a-585e1355f428",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "7133501c-0990-4fee-a7f7-bc8060c9b392",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "6ae5b3fd-9201-4e2d-8b67-81834a4cde18",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "a92c47bb-291c-4ad8-a5b6-0f361df25c87",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "4d841124-d682-430d-98b7-d952142f9ce8",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "cbc891d7-6747-45ec-8584-502a7dfc5a57",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 10
+    },
+    {
+      "id": "8739a32b-a539-4748-bcbb-5cb042a21149",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 10
+    },
+    {
+      "id": "20d26247-4ad0-4158-a8b6-e8cbc4b868b8",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "1cf6205f-d54e-4e5d-ac5c-0fad9af37805",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "200ab283-f4eb-4c60-9689-a5c91cb0dc3d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "b5409d0d-edb9-4255-be3b-13ec2ca91bf8",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 12
+    }
+  ],
+  "sections": [
+    {
+      "id": "f768864b-60dd-4ce8-8b96-5a19d6d6c0c5",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "ddb9a979-ca88-49a5-9cf4-84ea84ea8dbc",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131687684.817.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:34.000013+00:00"
+    },
+    {
+      "id": "ef2e1e3e-729f-4c9f-8797-8992228805a9",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139377668.2004.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:35.17647+00:00"
+    },
+    {
+      "id": "47ed744b-688d-478a-a44c-319057289923",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139380169.652.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:35.904301+00:00"
+    },
+    {
+      "id": "11c5649a-d04e-4fa0-9920-67bd4dbe029d",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131398332.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:33.402641+00:00"
+    },
+    {
+      "id": "b379b372-68e3-4bae-824e-fa2ee693d7dd",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131687977.8206.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:34.150458+00:00"
+    },
+    {
+      "id": "36e97faf-de82-499b-ae9c-ee0aecdaee81",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131688913.5535.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:34.596449+00:00"
+    },
+    {
+      "id": "f047284b-cd8c-4fc4-9936-78261c6a14c4",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139378693.2246.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:35.330384+00:00"
+    },
+    {
+      "id": "04d902e4-9e21-4693-86a4-8617b58acc0b",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139380582.6487.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:36.050433+00:00"
+    },
+    {
+      "id": "2fcc473b-eedd-4582-a333-271d677afc3a",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131686649.3894.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:33.554439+00:00"
+    },
+    {
+      "id": "9ccea132-ba11-4f3a-bef4-d90496d09071",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131688311.6865.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:34.293789+00:00"
+    },
+    {
+      "id": "668618bc-3464-42b8-b74b-6c96f144c764",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131689133.5159.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:34.742521+00:00"
+    },
+    {
+      "id": "dc06b917-bcbe-4abb-a034-62472b5a95e2",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139378888.7888.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:35.470466+00:00"
+    },
+    {
+      "id": "c2c40f52-36cf-470a-ba8f-fbb95877f784",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131687163.9048.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:33.851529+00:00"
+    },
+    {
+      "id": "678eac24-58bb-4622-a115-376a3fb09199",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131688624.8108.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:34.45294+00:00"
+    },
+    {
+      "id": "a697a98b-8e27-44b4-a920-f3c46b0a5a67",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139377223.7236.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:35.033124+00:00"
+    },
+    {
+      "id": "30269bf4-f65e-4e1e-be5d-3e703f996996",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139379716.6052.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:35.759008+00:00"
+    },
+    {
+      "id": "f8acc256-bdc3-4b99-9d09-484de6c554a0",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139381255.3215.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:36.343516+00:00"
+    },
+    {
+      "id": "f9d2dba7-d0d3-4db6-8104-63fb7143a7ce",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131686975.684.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:33.700035+00:00"
+    },
+    {
+      "id": "d62d135f-38c1-4a26-a516-eafc9818237a",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779131689321.286.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:34.890885+00:00"
+    },
+    {
+      "id": "27768f49-3131-4aa4-8c6b-207d2bacdf0f",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139379102.3213.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:35.615262+00:00"
+    },
+    {
+      "id": "d5eb0990-68b8-429a-b63c-83033d7ebc82",
+      "entity_id": "51c9b923-1a22-4e4b-b5f5-7fb030fd6317",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/51c9b923-1a22-4e4b-b5f5-7fb030fd6317/51c9b923-1a22-4e4b-b5f5-7fb030fd6317_1779139381064.8499.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:36.196842+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

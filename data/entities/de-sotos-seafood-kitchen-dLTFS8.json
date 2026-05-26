@@ -1,32 +1,1485 @@
 {
-  "id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
-  "slug": "de-sotos-seafood-kitchen-dLTFS8",
-  "name": "De Soto's Seafood Kitchen",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Award winning DeSoto's Seafood Kitchen, one of Gulf Shores, Alabama's favorite family restaurants features fresh seafood, chicken, pasta, steak, home style sides, salads and sandwiches. Our daily lunch specials include seafood, chicken, country fried and hamburger steak, ham, 12 great homemade sides, and our fabulous fresh baked rolls. Our dinner menu features exquisite appetizers, seafood favorites prepared your way: fried, broiled, grilled, blackened, steamed, or Cajun style, plus chicken and pasta dishes and one great Hawaiian Ribeye steak. Try the fresh catch and have it prepared New Orleans, Mediterranean, Caribbean, or our house favorite Pecan Encrusted Style. We offer an excellent wine choices and homemade desserts to compliment your meal. Click the menu link to view our entire menu, or see our calendar for daily lunch specials. We're located just one block north of the Gulf of Mexico, in the heart of Gulf Shores, so stop in on your next visit to the beach. You won't be disappointed!",
-  "phone": "(251) 948-7294",
-  "email": null,
-  "website_url": "https://www.desotosseafoodkitchen.com/",
-  "address_line_1": "138 W 1st Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": null,
-  "rating": 4.4,
-  "review_count": 5510,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139739417.1577.jpg",
-  "photos": [],
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+    "place_id": "ChIJaym-x7YEmogR0U8amdLTFS8",
+    "google_maps_uri": "https://maps.google.com/?cid=3392850795758768081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "de-sotos-seafood-kitchen-dLTFS8",
+    "name": "De Soto's Seafood Kitchen",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-7294",
+    "international_phone": null,
+    "website_url": "https://www.desotosseafoodkitchen.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "138 W 1st Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.2495477,
+    "longitude": -87.6914411,
+    "short_address": "138 W 1st Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.4,
+    "review_count": 5510,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Kitchen dishing out a diverse lineup of seafood & sides in a casual, airy setting.",
+    "description": "Award winning DeSoto's Seafood Kitchen, one of Gulf Shores, Alabama's favorite family restaurants features fresh seafood, chicken, pasta, steak, home style sides, salads and sandwiches. Our daily lunch specials include seafood, chicken, country fried and hamburger steak, ham, 12 great homemade sides, and our fabulous fresh baked rolls. Our dinner menu features exquisite appetizers, seafood favorites prepared your way: fried, broiled, grilled, blackened, steamed, or Cajun style, plus chicken and pasta dishes and one great Hawaiian Ribeye steak. Try the fresh catch and have it prepared New Orleans, Mediterranean, Caribbean, or our house favorite Pecan Encrusted Style. We offer an excellent wine choices and homemade desserts to compliment your meal. Click the menu link to view our entire menu, or see our calendar for daily lunch specials. We're located just one block north of the Gulf of Mexico, in the heart of Gulf Shores, so stop in on your next visit to the beach. You won't be disappointed!",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139739417.1577.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": "https://www.facebook.com/desotosseafoodkitchen/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": true,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "paidParkingLot": true,
+      "freeStreetParking": true,
+      "paidStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Daily Lunch Specials",
+          "items": [
+            {
+              "name": "Fried Chicken",
+              "tags": [],
+              "price": 12.5,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with two sides, bread & tea",
+              "subcategory": null
+            },
+            {
+              "name": "Bar-B-Q Meat Loaf",
+              "tags": [],
+              "price": 12.5,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with two sides, bread & tea",
+              "subcategory": null
+            },
+            {
+              "name": "Chicken-N-Dumplings",
+              "tags": [],
+              "price": 12.5,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with two sides, bread & tea",
+              "subcategory": null
+            },
+            {
+              "name": "Beef Tips over Rice",
+              "tags": [],
+              "price": 12.5,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with two sides, bread & tea",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Parmesan Encrusted Flounder",
+              "tags": [],
+              "price": 12.5,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with two sides, bread & tea",
+              "subcategory": null
+            },
+            {
+              "name": "Chicken-N-Dumplins",
+              "tags": [],
+              "price": 12.5,
+              "dietary": [],
+              "popular": false,
+              "description": null,
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Seniors Menu",
+          "items": [
+            {
+              "name": "Coconut Shrimp",
+              "tags": [],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": "with spicy orange marmalade, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Stuffed Shrimp",
+              "tags": [],
+              "price": 17.99,
+              "dietary": [],
+              "popular": false,
+              "description": "bacon wrapped, stuffed with crabmeat dressing & monterey jack cheese, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Shrimp",
+              "tags": [],
+              "price": 13.99,
+              "dietary": [],
+              "popular": false,
+              "description": "tail-less, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Grilled Shrimp",
+              "tags": [],
+              "price": 15.99,
+              "dietary": [],
+              "popular": false,
+              "description": "over yellow rice, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Oysters",
+              "tags": [],
+              "price": null,
+              "dietary": [],
+              "popular": false,
+              "description": "with cocktail sauce, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Seafood Platter",
+              "tags": [],
+              "price": 20.99,
+              "dietary": [],
+              "popular": false,
+              "description": "shrimp, oysters, flounder, crab claws, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Broiled Seafood Platter",
+              "tags": [],
+              "price": 19.99,
+              "dietary": [],
+              "popular": false,
+              "description": "shrimp, scallops, flounder almondine, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Chicken Tenders",
+              "tags": [],
+              "price": 13.99,
+              "dietary": [],
+              "popular": false,
+              "description": "with honey mustard, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Grilled Chicken Breast",
+              "tags": [],
+              "price": 13.99,
+              "dietary": [],
+              "popular": false,
+              "description": "with a light touch of lemon-herb oil, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Yellow-Fin Tuna",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": "grilled or blackened, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Trigger",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": "grilled, blackened or broiled almandine, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Flounder",
+              "tags": [],
+              "price": 13.99,
+              "dietary": [],
+              "popular": false,
+              "description": "fried or broiled almandine, served with two side dishes & Iced Tea",
+              "subcategory": null
+            },
+            {
+              "name": "Grouper",
+              "tags": [],
+              "price": 16.99,
+              "dietary": [],
+              "popular": false,
+              "description": "grilled, blackened, broiled almandine or fried, served with two side dishes & Iced Tea",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Kids Menu",
+          "items": [
+            {
+              "name": "Fish Sticks",
+              "tags": [],
+              "price": 8.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with French Fries or Applesauce",
+              "subcategory": null
+            },
+            {
+              "name": "Corn Dog",
+              "tags": [],
+              "price": 8.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with French Fries or Applesauce",
+              "subcategory": null
+            },
+            {
+              "name": "Fried Shrimp",
+              "tags": [],
+              "price": 8.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with French Fries or Applesauce",
+              "subcategory": null
+            },
+            {
+              "name": "Hamburger",
+              "tags": [],
+              "price": 7.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with French Fries or Applesauce",
+              "subcategory": null
+            },
+            {
+              "name": "Chicken Fingers",
+              "tags": [],
+              "price": 8.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with French Fries or Applesauce",
+              "subcategory": null
+            },
+            {
+              "name": "Grilled Cheese",
+              "tags": [],
+              "price": 8.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with French Fries or Applesauce",
+              "subcategory": null
+            },
+            {
+              "name": "Cheeseburger",
+              "tags": [],
+              "price": 5.99,
+              "dietary": [],
+              "popular": false,
+              "description": "Served with French Fries or Applesauce",
+              "subcategory": null
+            },
+            {
+              "name": "Fettuccine Alfredo",
+              "tags": [],
+              "price": 9.99,
+              "dietary": [],
+              "popular": false,
+              "description": "no side",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data",
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.638853+00:00",
+    "updated_at": "2026-05-18T21:29:04.56905+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "e8bcb493-0c3a-415e-9387-eb98d3705a47",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "c81d6963-34b8-4efd-9803-eb65e92b1200",
+      "tag": "restaurant",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "3741754e-ae0f-47c3-9b5b-6a8daad2f434",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 1
+    },
+    {
+      "id": "fb60d036-020d-4081-9375-9de7636eeeb7",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 1
+    },
+    {
+      "id": "dab5a976-021d-4805-98f5-ee9bb349171d",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 2
+    },
+    {
+      "id": "41d24263-bf25-494c-a5b7-d3ec10af58df",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 2
+    },
+    {
+      "id": "272ff7c7-e4e1-4a40-9e4e-8718d86b0ecb",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "c96f4ab8-7ff4-4df6-a78e-c8cb83a2e8ab",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "d4f8ddc5-baa1-44cc-b1a6-f3ae59e79b1b",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 4
+    },
+    {
+      "id": "6d3cd024-63a5-4db7-bf3c-629cd0a9e7ba",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 4
+    },
+    {
+      "id": "22a22477-300e-47e2-b14c-ba4f2f0ef9b2",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 5
+    },
+    {
+      "id": "b83e4866-c992-4b9f-84bc-3e829f6d733f",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 5
+    },
+    {
+      "id": "2896ee11-d104-41f6-a461-5b97e7c83422",
+      "tag": "family restaurant",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "45fad2bb-8d2d-4bbf-b13b-a35faa9b63d2",
+      "tag": "family restaurant",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "36e35c8f-db6a-4af8-82ed-f3088bf534a1",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "4d61971b-c455-405e-b2b2-730707e26991",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "55fd632d-b6b4-4da8-ae92-174fa80c7e46",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "07e572e0-d432-4987-ae25-2245da36c96e",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "be1e0558-1850-4668-9bd0-7216da709d37",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "5ca36a53-9af5-4fbc-8606-e9ac3067185b",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "d84e08b9-3e95-4860-8447-6d68995dc339",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "6d86bf13-1163-414c-ad84-19de348425de",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "3a8614ae-4b6f-4aad-8e22-aa52ff6e6abe",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "996a44e8-3def-4965-9a5e-fc59e7f3bce9",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "af2cfe8b-baa4-43d9-bd81-7427941eaa48",
+      "tag": "cocktail bar",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "25a88be4-b0fb-44f1-a6b9-04854b2f8da0",
+      "tag": "cocktail bar",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "f32eee97-33d2-4e26-b7e0-ff2863beaddc",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "aacd38f6-a52a-49d8-ac35-67f74ef56f85",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "1352cb4e-656a-4ab7-a0a5-aabf7a5a0cd3",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 14
+    },
+    {
+      "id": "641a7b65-4967-452b-acdb-827a9bda5703",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 14
+    },
+    {
+      "id": "e27c4f7e-b666-4185-9c27-f8335e634838",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 15
+    },
+    {
+      "id": "10be4b10-5d0b-4136-b06e-a185e19b9631",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 15
+    },
+    {
+      "id": "6f56f3e2-f2fa-4bd9-8f9a-931a3bd05e97",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "faf9a199-e476-492d-b66b-746157332dbd",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "4b06120a-b824-4891-a474-43a4b0d7fb6e",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 17
+    },
+    {
+      "id": "02291ffb-b9c9-4f1d-aa33-e8182cc3bd47",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 17
+    },
+    {
+      "id": "2e4e4871-b735-4971-ad14-1df4145d30d0",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 18
+    },
+    {
+      "id": "3a03cbd3-b6e5-4138-aabe-208c99a896b4",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 18
+    },
+    {
+      "id": "71d3d0ee-246a-42f8-bb11-84d0b5a5f6b1",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 19
+    },
+    {
+      "id": "8cd5e177-0dad-4122-ac65-7c8fcf1335a8",
+      "tag": "vegetarian",
+      "tag_category": "food",
+      "sort_order": 19
+    },
+    {
+      "id": "226e3126-c459-4f58-9dc8-def0184feb26",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 20
+    },
+    {
+      "id": "28904e46-b428-4ef2-8351-d77c27da88f1",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 20
+    },
+    {
+      "id": "d1bad06e-9d2d-47ab-95ff-4d013ab911f9",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 21
+    },
+    {
+      "id": "31a71c23-debc-4b51-a2d1-50e5e26415c4",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 21
+    },
+    {
+      "id": "9aa684a0-18a8-4a96-aebd-6fe15b661389",
+      "tag": "seafood",
+      "tag_category": "food",
+      "sort_order": 22
+    },
+    {
+      "id": "d39afbb9-d8f6-4663-9734-27e3885df6a7",
+      "tag": "seafood",
+      "tag_category": "food",
+      "sort_order": 22
+    },
+    {
+      "id": "68e8de20-a7fc-431a-9792-569971560c00",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "f20985f6-c185-45d8-ab0f-32cf1b9b46f8",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "90e3dc16-940d-49c0-8fbb-67d4491690a4",
+      "tag": "locally-owned",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "a2c81e9d-11d9-4f82-839a-1ddbf59850a4",
+      "tag": "locally-owned",
+      "tag_category": "search",
+      "sort_order": 24
+    },
+    {
+      "id": "abc3b520-fa9a-40f4-b7f0-645f55952014",
+      "tag": "fresh-seafood",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "1d5d52a9-3641-49c9-8e13-b854bd5a4ba8",
+      "tag": "fresh-seafood",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "57e79f82-e525-45af-afb3-565b9bf410f3",
+      "tag": "lunch-specials",
+      "tag_category": "search",
+      "sort_order": 26
+    },
+    {
+      "id": "7abedc07-ec1f-4cb7-a0cc-8580fcde5262",
+      "tag": "lunch-specials",
+      "tag_category": "search",
+      "sort_order": 26
+    },
+    {
+      "id": "0bb2bcc7-b904-402b-81fd-a848d7289fce",
+      "tag": "salads",
+      "tag_category": "search",
+      "sort_order": 27
+    },
+    {
+      "id": "3a18386f-12a0-41a4-b51e-a6478b83c63a",
+      "tag": "salads",
+      "tag_category": "search",
+      "sort_order": 27
+    },
+    {
+      "id": "adc87c1d-2359-4f64-b283-f2fd93fd1d75",
+      "tag": "sandwiches",
+      "tag_category": "search",
+      "sort_order": 28
+    },
+    {
+      "id": "99489d04-5e58-4e7e-a66f-0ae3541024d6",
+      "tag": "sandwiches",
+      "tag_category": "search",
+      "sort_order": 28
+    },
+    {
+      "id": "1cc15420-0eaa-4a27-ab73-3c7a21bb5e6a",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 29
+    },
+    {
+      "id": "9425f4b4-050a-4455-9f0b-ada8864a0c7e",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 29
+    },
+    {
+      "id": "88aed988-112d-416b-b591-9ab2395d04d2",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 30
+    },
+    {
+      "id": "fa74d23c-11ee-4870-a7c9-028267aee62a",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 30
+    },
+    {
+      "id": "f4b41b13-a0ec-4eba-bf7c-88854a884a37",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 31
+    },
+    {
+      "id": "e73dabd0-e912-46f8-a8be-8133133303ed",
+      "tag": "casual-dining",
+      "tag_category": "search",
+      "sort_order": 31
+    },
+    {
+      "id": "c2cf3170-5b41-4ef0-b5d8-f74ac61f5a0a",
+      "tag": "steak",
+      "tag_category": "search",
+      "sort_order": 32
+    },
+    {
+      "id": "67dd253c-3980-4351-95b2-ff016f3a89c7",
+      "tag": "steak",
+      "tag_category": "search",
+      "sort_order": 32
+    },
+    {
+      "id": "d81fe800-1d23-446f-9346-645253f97823",
+      "tag": "chicken",
+      "tag_category": "search",
+      "sort_order": 33
+    },
+    {
+      "id": "19e72be5-6de2-4313-995f-dd07cdf1bc01",
+      "tag": "chicken",
+      "tag_category": "search",
+      "sort_order": 33
+    },
+    {
+      "id": "ab07654d-f9e3-4aeb-a10c-3a47ba326e5a",
+      "tag": "pasta",
+      "tag_category": "search",
+      "sort_order": 34
+    },
+    {
+      "id": "4e2e79f4-df80-469f-9dfe-c61118617c30",
+      "tag": "pasta",
+      "tag_category": "search",
+      "sort_order": 34
+    },
+    {
+      "id": "0f4db512-7b4f-43c0-958c-c14fe6cea85e",
+      "tag": "appetizers",
+      "tag_category": "search",
+      "sort_order": 35
+    },
+    {
+      "id": "ec02da75-8401-4742-b0e3-5981794fc092",
+      "tag": "appetizers",
+      "tag_category": "search",
+      "sort_order": 35
+    },
+    {
+      "id": "9b6d6cbb-987c-4a86-ac76-b2b4b8653825",
+      "tag": "homemade-rolls",
+      "tag_category": "search",
+      "sort_order": 36
+    },
+    {
+      "id": "a698709f-3e30-4a02-8c90-06fe25effd22",
+      "tag": "homemade-rolls",
+      "tag_category": "search",
+      "sort_order": 36
+    },
+    {
+      "id": "4bdad813-dc15-4a8d-a46e-fc41bfe0fb8c",
+      "tag": "desserts",
+      "tag_category": "search",
+      "sort_order": 37
+    },
+    {
+      "id": "9ec26705-3288-48bf-b60f-93b0455e8e65",
+      "tag": "desserts",
+      "tag_category": "search",
+      "sort_order": 37
+    },
+    {
+      "id": "eda9fbf1-3ed0-423e-b18e-9fd680e7f195",
+      "tag": "kid-friendly",
+      "tag_category": "search",
+      "sort_order": 38
+    },
+    {
+      "id": "4126e87d-1160-4099-9a9d-610eca2d9dec",
+      "tag": "kid-friendly",
+      "tag_category": "search",
+      "sort_order": 38
+    },
+    {
+      "id": "df39b6cf-ba44-4801-9a6f-6d34077772a2",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 39
+    },
+    {
+      "id": "1cf5ef1a-323c-49ef-a4a6-3c00bdb2fd29",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 39
+    },
+    {
+      "id": "0b44b23b-ff5e-44c5-a6b5-d64266932fe8",
+      "tag": "pet_friendly",
+      "tag_category": "amenity",
+      "sort_order": 40
+    },
+    {
+      "id": "6863a380-212b-440d-936b-32fb7d51ef17",
+      "tag": "pet_friendly",
+      "tag_category": "amenity",
+      "sort_order": 40
+    },
+    {
+      "id": "25bf50a5-7b41-4537-a0d0-f516133de811",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 41
+    },
+    {
+      "id": "75181170-8727-4433-9f4a-beef22b91d4b",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 41
+    },
+    {
+      "id": "ef30fc26-02b7-4f9c-85b0-52ac81c7e27d",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 42
+    },
+    {
+      "id": "a757c465-81a5-40fe-b8a6-d369f606944b",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 42
+    },
+    {
+      "id": "c707030e-8132-4d75-abe7-9d24500b85ba",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 43
+    },
+    {
+      "id": "f55fcaef-066a-4ff6-9224-a81c817b70c7",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 43
+    },
+    {
+      "id": "a623b64a-e437-49e1-834a-56423c0e2bec",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 44
+    },
+    {
+      "id": "a0a94e47-8a80-460b-acd5-0b7b26cf7a41",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 44
+    },
+    {
+      "id": "cd74fdac-9bc6-45db-a847-5cb12d34edad",
+      "tag": "family-dining",
+      "tag_category": "search",
+      "sort_order": 45
+    },
+    {
+      "id": "75a0a3c4-6892-4355-9823-04acf9580b72",
+      "tag": "family-dining",
+      "tag_category": "search",
+      "sort_order": 45
+    },
+    {
+      "id": "4e047246-d190-4556-8823-e6be05bbe44c",
+      "tag": "waterfront-location",
+      "tag_category": "search",
+      "sort_order": 46
+    },
+    {
+      "id": "07ffac91-2344-4a4d-9753-dc271dd95911",
+      "tag": "waterfront-location",
+      "tag_category": "search",
+      "sort_order": 46
+    },
+    {
+      "id": "b8fc4475-321d-4836-95b0-459914e00349",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 47
+    },
+    {
+      "id": "3d162bc8-20bf-4451-a3af-e2cd94d2647b",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 47
+    },
+    {
+      "id": "30ad460d-cd6e-43b3-ba7e-ff8df1ff9f05",
+      "tag": "fresh-food-made-from-scratch",
+      "tag_category": "search",
+      "sort_order": 48
+    },
+    {
+      "id": "dadda2ce-19c1-4513-944d-d5245afbabc8",
+      "tag": "fresh-food-made-from-scratch",
+      "tag_category": "search",
+      "sort_order": 48
+    },
+    {
+      "id": "a269187e-70a8-4e50-afad-fb2038b2502a",
+      "tag": "fresh",
+      "tag_category": "search",
+      "sort_order": 49
+    },
+    {
+      "id": "87c67dee-7ddc-43bc-a568-56f96e3e58fb",
+      "tag": "fresh",
+      "tag_category": "search",
+      "sort_order": 49
+    },
+    {
+      "id": "2171dfbf-88d3-423d-b61f-a4bded20a57f",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 50
+    },
+    {
+      "id": "5b32d9b7-d7cf-4d7b-bd96-ffa47c8f0919",
+      "tag": "gulf-coast",
+      "tag_category": "search",
+      "sort_order": 50
+    },
+    {
+      "id": "85ea88a0-2716-45c2-930b-a0e0bd30f471",
+      "tag": "award-winning",
+      "tag_category": "search",
+      "sort_order": 51
+    },
+    {
+      "id": "f36c6211-34a8-4cc9-8d5f-21ac323c22cc",
+      "tag": "award-winning",
+      "tag_category": "search",
+      "sort_order": 51
+    },
+    {
+      "id": "814071ff-f876-4c9b-a6ae-37a679e51be2",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 52
+    },
+    {
+      "id": "c1280543-c320-477d-b95b-dcea4640bce5",
+      "tag": "casual",
+      "tag_category": "search",
+      "sort_order": 52
+    },
+    {
+      "id": "02737427-b734-4f29-8154-3b7e9f2c76ed",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 53
+    },
+    {
+      "id": "743647fb-126f-4b92-91ed-83dd759ca732",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 53
+    },
+    {
+      "id": "36706336-646f-400d-8362-8a24740a63b4",
+      "tag": "dinner-specials",
+      "tag_category": "search",
+      "sort_order": 54
+    },
+    {
+      "id": "990cb6b4-0fd1-41fa-b5fa-76cdd5fff3ed",
+      "tag": "dinner-specials",
+      "tag_category": "search",
+      "sort_order": 54
+    },
+    {
+      "id": "ec4c8ce7-eee9-488a-802c-97267fb1ea28",
+      "tag": "cocktail_bar",
+      "tag_category": "google_type",
+      "sort_order": 55
+    },
+    {
+      "id": "c45f4910-5546-40ee-a288-0960e73b30c1",
+      "tag": "cocktail_bar",
+      "tag_category": "google_type",
+      "sort_order": 55
+    },
+    {
+      "id": "6fa8428a-4b88-4b74-999f-e8b397071fe3",
+      "tag": "family_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 56
+    },
+    {
+      "id": "d2602857-b39d-4ac3-9b85-d32fa1c57054",
+      "tag": "family_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 56
+    },
+    {
+      "id": "dd1ca088-2764-4cf8-8aa3-e5ee0adaaac8",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 57
+    },
+    {
+      "id": "99b9889c-2d5d-49ed-b51c-076305e2695a",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 57
+    },
+    {
+      "id": "1046d5ea-6257-46bf-95ad-c914f65c9e71",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 58
+    },
+    {
+      "id": "6e621eb6-3798-4b80-b1a9-f38138094f92",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 58
+    }
+  ],
+  "sections": [
+    {
+      "id": "743a467d-39c3-494b-b2ce-8e1901110285",
+      "section_key": "specials",
+      "section_label": "Specials",
+      "section_type": "specials",
+      "sort_order": 5
+    },
+    {
+      "id": "ef82380e-d725-4e3e-8561-801c7e453222",
+      "section_key": "events",
+      "section_label": "Events",
+      "section_type": "events",
+      "sort_order": 10
+    },
+    {
+      "id": "b735541e-557d-49f5-bb5f-766952779d07",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "04239046-47af-45df-9519-3e008d9d4865",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131456744.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:16.462142+00:00"
+    },
+    {
+      "id": "8e2b4512-5654-4ba9-885d-b76a09515c7e",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131418860.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:16.320199+00:00"
+    },
+    {
+      "id": "5f812615-1fca-4cb9-b48d-797d05f18bd7",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131867908.1965.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:16.750683+00:00"
+    },
+    {
+      "id": "bf923866-15b4-4b11-80d4-72e61632b87c",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131869749.246.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:17.505704+00:00"
+    },
+    {
+      "id": "7931daa8-5d26-4894-9a63-666bb3b586e4",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139584589.6555.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:18.230942+00:00"
+    },
+    {
+      "id": "99ef9d94-21b5-458a-8076-6c1289bd5fa7",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139586093.6904.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:18.853682+00:00"
+    },
+    {
+      "id": "69bf88a3-3d85-4825-a606-a9651561b4b8",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139587580.831.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:19.696516+00:00"
+    },
+    {
+      "id": "4a2acadc-5f8c-4d4f-99ed-15777835f320",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131867574.1711.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:16.606265+00:00"
+    },
+    {
+      "id": "12c6853e-e5ca-43e4-a44b-4f9cee00716e",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131869134.9785.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:17.355012+00:00"
+    },
+    {
+      "id": "9410edd0-156a-49a6-a901-5b60e710b16e",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131996890.0833.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:18.079526+00:00"
+    },
+    {
+      "id": "facc65cb-05b1-40a6-8356-555f8e78020d",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139585910.798.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:18.699122+00:00"
+    },
+    {
+      "id": "8696bab3-5ffb-42ef-8b8a-db1b75ce2572",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139587381.6545.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:19.540631+00:00"
+    },
+    {
+      "id": "1da27e3d-0af6-4e3e-b0e5-ec18769b074d",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131868433.173.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:16.892366+00:00"
+    },
+    {
+      "id": "6e8521e3-79a9-4031-9b1c-df33f952ee9f",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131869941.6616.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:17.649626+00:00"
+    },
+    {
+      "id": "2597cc49-35fb-476e-b808-fd4226ef1e05",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139585128.1465.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:18.38333+00:00"
+    },
+    {
+      "id": "82b3acec-1a8c-417d-9aca-1ddf54ce74fc",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139586356.4385.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:19.033241+00:00"
+    },
+    {
+      "id": "ab1f7bfe-d5a2-4632-8161-7885f3d21567",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139739417.1577.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:19.845112+00:00"
+    },
+    {
+      "id": "caf1410b-3ab7-464e-872c-530f920316ca",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131868625.5857.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:17.036517+00:00"
+    },
+    {
+      "id": "f4695d9e-64be-4f56-815f-e048bf30aa78",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131870161.6304.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:17.796212+00:00"
+    },
+    {
+      "id": "6c176e05-1f9c-4af1-bd39-7680b1cd1fd6",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139586851.6055.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:19.202621+00:00"
+    },
+    {
+      "id": "80de896f-dabc-440a-9ab5-c6d1ee0461bd",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131868844.6047.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:17.18437+00:00"
+    },
+    {
+      "id": "9bb61a58-2e5f-4060-b2d5-e2512e7792f0",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779131870369.3628.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:17.936892+00:00"
+    },
+    {
+      "id": "0e788e73-e6e2-4685-afe8-6d9a0531f1f4",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139585559.5242.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:18.549992+00:00"
+    },
+    {
+      "id": "fb078ec9-55c6-4293-957e-1a9f205cbefd",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0/3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0_1779139587039.075.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:11:19.387486+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [
+    {
+      "id": "d4220f96-4af7-45ad-9a88-77ff139305f7",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "event_name": "Zoe Burdette | De Soto’s Seafood Kitchen | Gulf Shores",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Zoe Burdette",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "De Soto’s Seafood Kitchen",
+      "day_of_week": null,
+      "event_date": "2026-05-26",
+      "start_time": "18:00:00",
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "fc907225-1784-41c7-8734-8125c6901f6a",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "event_name": "Zoe Burdette | De Soto’s Seafood Kitchen | Gulf Shores",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Zoe Burdette",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "De Soto’s Seafood Kitchen",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "e03b8777-6b2d-43e0-919f-634a36f39939",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "event_name": "Zoe Burdette | De Soto’s Seafood Kitchen | Gulf Shores",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Zoe Burdette",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "De Soto’s Seafood Kitchen",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    },
+    {
+      "id": "f8ca3dbd-d425-4713-85b4-fa17b25e29f2",
+      "entity_id": "3b7ac80c-b0d5-4cfc-a2f0-9bcae07d57e0",
+      "place_id": null,
+      "event_name": "Zoe Burdette | De Soto’s Seafood Kitchen | Gulf Shores",
+      "event_type": "live_music_or_event",
+      "description": null,
+      "artist_name": "Zoe Burdette",
+      "artist_about": null,
+      "music_style": null,
+      "venue_location": "De Soto’s Seafood Kitchen",
+      "day_of_week": null,
+      "event_date": null,
+      "start_time": null,
+      "end_time": null,
+      "recurring": false,
+      "recurring_start_date": null,
+      "recurring_end_date": null,
+      "cover_charge": null,
+      "image_url": null,
+      "ticket_url": null,
+      "is_active": true,
+      "created_at": "2026-05-18T18:46:48.795591+00:00"
+    }
+  ],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

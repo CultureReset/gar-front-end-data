@@ -1,137 +1,480 @@
 {
-  "id": "547a268a-78e5-4a3a-b548-62c610888a21",
-  "slug": "deep-south-boat-storage-rv-park-AwwZpM",
-  "name": "Deep South Boat Storage & RV Park",
-  "entity_type": "park",
-  "entity_subtype": "park",
-  "icon": "🏪",
-  "description": "Deep South is less than 8 miles to Gulf Shores and only 3 miles to restaurants, OWA water park and Tanger Outlets. We are situated on 18 acres, with 24 RV sites. All sites include full hookup, 30 and 50 amp. along with sewer hookup. Park your RV on spacious cement pads perfect for lawn chairs, personal grills, and relaxing. Sites also include high speed Wi-Fi. For your convenience we offer storage for boats, campers and trailers.",
-  "phone": "(251) 978-7275",
-  "email": null,
-  "address_line_1": "19546 County Rd 12 S, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "http://deepsouthboatstoragervpark.com/",
-  "rating": 4.8,
-  "review_count": 57,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "547a268a-78e5-4a3a-b548-62c610888a21",
+    "place_id": "ChIJeSBOoY8PmogR52mZbAwwZpM",
+    "google_maps_uri": "https://maps.google.com/?cid=10621229601119627751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "deep-south-boat-storage-rv-park-AwwZpM",
+    "name": "Deep South Boat Storage & RV Park",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "rentals",
+    "secondary_types": "",
+    "google_type": "storage",
+    "google_types": [
+      "rv_park",
+      "campground",
+      "storage",
+      "lodging",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 978-7275",
+    "international_phone": null,
+    "website_url": "http://deepsouthboatstoragervpark.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "19546 County Rd 12 S, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3553589,
+    "longitude": -87.6912896,
+    "short_address": "19546 County Rd 12 S, Foley",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 57,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Deep South is less than 8 miles to Gulf Shores and only 3 miles to restaurants, OWA water park and Tanger Outlets. We are situated on 18 acres, with 24 RV sites. All sites include full hookup, 30 and 50 amp. along with sewer hookup. Park your RV on spacious cement pads perfect for lawn chairs, personal grills, and relaxing. Sites also include high speed Wi-Fi. For your convenience we offer storage for boats, campers and trailers.",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/deepsouthboatstorageandrvpark/?hl=en",
+    "social_facebook": "https://www.facebook.com/deepsouthboatstorageandrvpark/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [
+      "Monday: 10:00 AM – 5:00 PM",
+      "Tuesday: 10:00 AM – 5:00 PM",
+      "Wednesday: 10:00 AM – 5:00 PM",
+      "Thursday: 10:00 AM – 5:00 PM",
+      "Friday: 10:00 AM – 5:00 PM",
+      "Saturday: 10:00 AM – 5:00 PM",
+      "Sunday: 10:00 AM – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.923903+00:00",
+    "updated_at": "2026-05-18T21:06:24.927641+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
-      "tag": "lodging",
-      "tag_category": "google_type"
-    },
-    {
+      "id": "03bf987e-cafa-4d72-b75d-2af01fc84343",
       "tag": "RV park",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "5abee62b-0eaa-49be-8515-726955091b6a",
+      "tag": "RV park",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "7f917ec7-531e-4f9c-9598-df42e6de0e34",
       "tag": "boat storage",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "bb37d0fa-c2be-45b3-9855-248590d74812",
+      "tag": "boat storage",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "193a6e7b-a760-49b6-bae5-57a905e25789",
       "tag": "RV storage",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
     },
     {
+      "id": "0e54d83c-f6b5-4936-b26c-fec54f8b22b0",
+      "tag": "RV storage",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "4f67c05d-78e1-401a-bbbe-36f87ee9e1d5",
       "tag": "jet ski storage",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 3
     },
     {
+      "id": "77e135c3-c407-4e05-990a-a6c1890b3191",
+      "tag": "jet ski storage",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "0ba9cfd2-97a5-4f10-b367-9a0d3376ecc3",
       "tag": "trailer storage",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 4
     },
     {
+      "id": "d768df56-90b7-4dda-8c64-60fb9b1a3d1d",
+      "tag": "trailer storage",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "1043bcd0-a0f5-4e7c-b20b-a11084b9165e",
       "tag": "Foley Alabama",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 5
     },
     {
+      "id": "b72eaa96-ff7b-45c6-bdee-f416dd7a856a",
+      "tag": "Foley Alabama",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "be3a49e9-c94e-4b40-86b9-1c26d59fbdac",
       "tag": "Gulf Shores",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 6
     },
     {
+      "id": "dfa814c7-07d5-4d09-938d-be9940dac310",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "9471be16-f833-4689-abde-1b121429d982",
       "tag": "Orange Beach",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 7
     },
     {
+      "id": "937660c7-2b06-4a97-8d89-3aacf2ae4c4a",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "b8b2e8c3-f356-48eb-a853-898bfd08ab95",
       "tag": "full hookup RV",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 8
     },
     {
+      "id": "a056aba2-4127-499c-b196-f71bf76ae0c4",
+      "tag": "full hookup RV",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "44df8030-d939-4ebb-ad74-567e52a78fef",
       "tag": "camping",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 9
     },
     {
+      "id": "4e8f1fe8-6b4d-4780-961c-e4ea13eccbbd",
+      "tag": "camping",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "54c43f99-3846-4e50-8bc8-7772c0782f9f",
       "tag": "outdoor recreation",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 10
     },
     {
+      "id": "3e28f77c-12c1-4745-adcf-2353a5bf3eed",
+      "tag": "outdoor recreation",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "c5b5d7c8-936d-4a71-a1be-5a73b6e7dfe1",
+      "tag": "RV Parks",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "81f5bca3-9e46-4a39-b78a-1961b85bd803",
+      "tag": "RV Parks",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "4ba937d7-06e0-491e-b3bd-143e33e95022",
       "tag": "Boat Storage",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 12
     },
     {
+      "id": "c0ae4663-eb9e-4237-9bbe-798436c4d40c",
+      "tag": "Boat Storage",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "41d0b437-f658-484f-a4e6-662c9371da4d",
       "tag": "Rentals",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 13
     },
     {
+      "id": "9089438c-dca2-4f4b-8777-adefac609c82",
+      "tag": "Rentals",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "e5e57cce-f119-404c-bc3f-c78a68a19ae1",
       "tag": "Campgrounds",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 14
     },
     {
+      "id": "54b933ec-22a2-4485-949c-fd7ec70c06ee",
+      "tag": "Campgrounds",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "71a058c3-a2c8-4c31-a052-1f560b3557b4",
       "tag": "Outdoor Recreation",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 15
     },
     {
+      "id": "42107776-522a-4a5e-8d3d-d15e04ad6fae",
+      "tag": "Outdoor Recreation",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "628a6ff4-1322-419f-bcf3-23dbc46f5696",
       "tag": "Storage Facilities",
-      "tag_category": "category"
+      "tag_category": "category",
+      "sort_order": 16
     },
     {
+      "id": "4694a7a2-b272-46d3-a185-643427464b28",
+      "tag": "Storage Facilities",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "a0262413-4f97-419d-816f-88824e426f55",
       "tag": "outdoor-recreation",
-      "tag_category": "industry"
+      "tag_category": "industry",
+      "sort_order": 17
     },
     {
+      "id": "8bc1b2a1-130d-4a2c-a056-e623e36a6f08",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 17
+    },
+    {
+      "id": "1e15df6a-bf12-4d6e-94fc-275a0302df43",
       "tag": "rentals",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 18
     },
     {
+      "id": "798efaa5-0d8c-4ce1-baa1-7730fc30c7f7",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "8b11434b-91df-4469-ad69-8d3db36ae75b",
       "tag": "rv_park",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 19
     },
     {
+      "id": "96d12888-957b-4946-8245-84ed6861095c",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "4969b293-de41-4817-ad4e-7b38121d36bf",
       "tag": "campground",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 20
     },
     {
+      "id": "fda01d32-0616-4372-b0bc-6034057a8520",
+      "tag": "campground",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "f0e25259-e551-4e6e-8151-7df396eca189",
       "tag": "lodging",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 21
     },
     {
+      "id": "5d5a5b9c-e939-4700-971d-de9e5800696e",
+      "tag": "lodging",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "a1f9ce9f-56dd-4af7-a90f-4d4ccc81356a",
       "tag": "storage",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 22
     },
     {
+      "id": "877ce8fa-d32e-4991-be9b-7855467607e9",
+      "tag": "storage",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "6deac1e6-c4a4-4fda-a4b5-8f10df185ac8",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 23
     },
     {
+      "id": "e8869ef5-33e3-410f-84f0-0f07e0ed39b9",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "feab90e9-7d0d-4a61-b856-4a7319fa7490",
       "tag": "point_of_interest",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 24
     },
     {
+      "id": "97426066-4132-4573-a451-e670ba0eccf6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "0d031a76-9b20-40c4-ad19-d295c479fe90",
       "tag": "establishment",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "b3c74b43-a10e-4ad8-8454-ea711272d217",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 25
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "0ac1acbc-95f6-4f8f-b834-998ae4700707",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

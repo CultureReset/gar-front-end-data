@@ -1,32 +1,246 @@
 {
-  "id": "fe07132c-167c-487a-9a6f-55f8ae774d86",
-  "slug": "beachy-blowout-bar-aFDKuQ",
-  "name": "Beachy Blowout Bar",
-  "entity_type": "service",
-  "entity_subtype": "hair_salon",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 397-7299",
-  "email": null,
-  "website_url": "http://www.beachyblowoutbar.com/",
-  "address_line_1": "750 Commerce Dr #6, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.7,
-  "review_count": 37,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/d5fed206-36ab-4dba-88db-e7585073c8eb/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "fe07132c-167c-487a-9a6f-55f8ae774d86",
+    "place_id": "ChIJtR5BtbgFmogReI5MmaFDKuQ",
+    "google_maps_uri": "https://maps.google.com/?cid=16441027751010143864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "beachy-blowout-bar-aFDKuQ",
+    "name": "Beachy Blowout Bar",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "hair_salon",
+    "secondary_types": [],
+    "google_type": "hair_salon",
+    "google_types": [
+      "hair_salon",
+      "hair_care",
+      "makeup_artist",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 397-7299",
+    "international_phone": null,
+    "website_url": "http://www.beachyblowoutbar.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "750 Commerce Dr #6, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2844334,
+    "longitude": -87.6730737,
+    "short_address": "750 Commerce Dr #6, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 37,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/d5fed206-36ab-4dba-88db-e7585073c8eb/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 2:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 9:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.198986+00:00",
+    "updated_at": "2026-05-17T22:22:54.915124+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "22e83a1d-a4bf-4a89-82af-c1b2d6576da2",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "b9192ea9-0704-4cc8-9370-5896c77c6bd7",
+      "tag": "hair salon",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d8a934e3-3a73-4d28-9c1d-100d5e84353a",
+      "tag": "hair care",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "53929b74-1896-4454-824c-597f8404d372",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "5beb158f-1ad8-4ca3-a742-38212027032e",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "13399109-01f3-4cf4-8968-44c45c408ebf",
+      "tag": "makeup artist",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "c75dc098-b027-4f77-9587-2363d18b2c4b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "cd8c254f-5d38-4ffe-a6b7-44b6d9462e44",
+      "tag": "salon",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "636661dd-553d-40bb-bd15-0d2832db166a",
+      "tag": "hair_salon",
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "fe7e5960-061a-4341-a17a-6964e3667956",
+      "tag": "makeup_artist",
+      "tag_category": "google_type",
+      "sort_order": 9
+    },
+    {
+      "id": "21ac730c-7aae-4360-ba49-755bd3a21962",
+      "tag": "hair_care",
+      "tag_category": "google_type",
+      "sort_order": 10
+    },
+    {
+      "id": "f6b3ed4a-57cc-420b-96a5-8d38b9be28aa",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 11
+    }
+  ],
+  "sections": [
+    {
+      "id": "e622e7a8-2b72-43af-8b7c-8f2ed678ebc6",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

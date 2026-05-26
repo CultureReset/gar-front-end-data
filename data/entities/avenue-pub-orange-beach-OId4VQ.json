@@ -1,32 +1,793 @@
 {
-  "id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
-  "slug": "avenue-pub-orange-beach-OId4VQ",
-  "name": "Avenue Pub - Orange Beach",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "AVENUE PUB is a hand-crafted food, local beer and fresh cocktails restaurant with locations in Orange Beach and Tuscaloosa, Alabama. Every person that is a part of our staff is integral to our success. We are always expanding our team and looking for individuals who are committed to learning and growing alongside us.",
-  "phone": "(251) 200-0250",
-  "email": null,
-  "website_url": "http://www.avepub.com/",
-  "address_line_1": "4575 S Wilson Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.6,
-  "review_count": 394,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139774237.9846.jpg",
-  "photos": [],
+  "entity": {
+    "id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+    "place_id": "ChIJDV39l9sHmogR1dEooOId4VQ",
+    "google_maps_uri": "https://maps.google.com/?cid=6116202628132688341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "avenue-pub-orange-beach-OId4VQ",
+    "name": "Avenue Pub - Orange Beach",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": "",
+    "google_type": "restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 200-0250",
+    "international_phone": null,
+    "website_url": "http://www.avepub.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4575 S Wilson Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2912203,
+    "longitude": -87.5589927,
+    "short_address": "4575 S Wilson Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 394,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "AVENUE PUB is a hand-crafted food, local beer and fresh cocktails restaurant with locations in Orange Beach and Tuscaloosa, Alabama. Every person that is a part of our staff is integral to our success. We are always expanding our team and looking for individuals who are committed to learning and growing alongside us.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139774237.9846.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/avepub",
+    "social_facebook": "https://www.facebook.com/avepub",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": true,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 9:00 PM",
+      "Saturday: 11:00 AM – 9:00 PM",
+      "Sunday: 11:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": null,
+      "hours": null,
+      "images": [],
+      "contact": {
+        "zip": null,
+        "city": null,
+        "email": null,
+        "phone": null,
+        "state": null,
+        "address": null,
+        "website": "https://www.avepub.com"
+      },
+      "features": null,
+      "specials": null,
+      "locations": [
+        {
+          "zip": "35401",
+          "city": "Tuscaloosa",
+          "hours": {
+            "friday": "11am-10pm",
+            "monday": "11am-9pm",
+            "sunday": "10am-9pm",
+            "tuesday": "11am-9pm",
+            "saturday": "11am-10pm",
+            "thursday": "11am-9pm",
+            "wednesday": "11am-9pm"
+          },
+          "phone": "205-759-4900",
+          "state": "AL",
+          "address": "2230 University Blvd., Tuscaloosa, AL 35401",
+          "location_name": "Downtown Tuscaloosa"
+        },
+        {
+          "zip": "35406",
+          "city": "Tuscaloosa",
+          "hours": {
+            "friday": "11am-10pm",
+            "monday": "11am-9pm",
+            "sunday": "10am-9pm",
+            "tuesday": "11am-9pm",
+            "saturday": "11am-10pm",
+            "thursday": "11am-9pm",
+            "wednesday": "11am-9pm"
+          },
+          "phone": "205-331-4063",
+          "state": "AL",
+          "address": "1491 Northbank Pkwy, Tuscaloosa, AL 35406",
+          "location_name": "Northbank"
+        },
+        {
+          "zip": "36561",
+          "city": "Orange Beach",
+          "hours": {
+            "friday": "11am-9pm",
+            "monday": "11am-9pm",
+            "sunday": "11am-9pm",
+            "tuesday": "11am-9pm",
+            "saturday": "11am-9pm",
+            "thursday": "11am-9pm",
+            "wednesday": "11am-9pm"
+          },
+          "phone": "251-200-0250",
+          "state": "AL",
+          "address": "4575 S Wilson Blvd., Orange Beach, AL 36561",
+          "location_name": "Orange Beach"
+        }
+      ],
+      "description": null,
+      "price_range": null,
+      "cuisine_type": null,
+      "extracted_at": "2026-05-16T19:07:29.214Z",
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "AVENUE PUB"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "structured-data",
+      "gcr-import-ready",
+      "scraped-menus",
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.040151+00:00",
+    "updated_at": "2026-05-18T21:29:39.241087+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "98695a32-e00e-4551-9e9c-4df6ad406490",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 0
+    },
+    {
+      "id": "a6030a21-d6fe-4e9d-a4bf-f76dd8dd5641",
+      "tag": "live music",
+      "tag_category": "vibe",
+      "sort_order": 0
+    },
+    {
+      "id": "417a5c41-df47-46d9-a761-6b0850ade757",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 1
+    },
+    {
+      "id": "456a3e59-95a3-42fa-9840-28f7dda9a7d5",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 1
+    },
+    {
+      "id": "37602ff9-7c97-4603-a5ea-0e4c0caaf00d",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 2
+    },
+    {
+      "id": "bf7c8f4d-0392-4440-9fb0-faf32441fc2c",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 2
+    },
+    {
+      "id": "eb4b404a-8954-43a9-a956-f8cb922fad43",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 3
+    },
+    {
+      "id": "00a35c25-e215-4c10-8609-32da3ccd6641",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 3
+    },
+    {
+      "id": "6b0336cb-ecbe-448f-8838-49578484c600",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "d00c9ecc-4644-4fcf-94fb-833ee740eeb7",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 4
+    },
+    {
+      "id": "fc22f9bf-b65b-43af-a5e1-9fcd597e2550",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "d9be85c5-a90e-4b43-b3b2-7253349ece5e",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 5
+    },
+    {
+      "id": "e29c38e5-71fa-481c-84c5-c7318e38e638",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 6
+    },
+    {
+      "id": "fdaaebbf-5ba7-4c25-b20c-5d30b8c4b76f",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 6
+    },
+    {
+      "id": "ec683390-7df9-4c99-a7fe-e0e482a9c793",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "5ff1d2a3-a440-4b3b-a159-60be96c6723a",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 7
+    },
+    {
+      "id": "968d3341-9bda-48c5-8eb7-4516fc992a46",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "ed7dec80-a0e0-4b49-8494-11f880384426",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "8606dec9-0d62-485d-a0ad-7e1c9d7e96bc",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 9
+    },
+    {
+      "id": "24731bc9-10e8-45cd-b452-162269cd3d67",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 9
+    },
+    {
+      "id": "76481587-eeeb-4464-b4f3-921c45b56429",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "502f281d-f91e-4709-a42e-658714a1a534",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "88aabfa4-d643-416f-9047-c984edb4156f",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "d6f0407c-88a2-417b-b92b-e11d9d293303",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "90d17337-ccc9-48f2-bd41-0240474fef17",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "81374323-8a64-4265-94f5-d1cd23a8c5bb",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 12
+    },
+    {
+      "id": "235c0a3c-52f3-41ec-8f09-87ddd76da8d5",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "3e673f09-51a4-4c56-bccf-68b5a88a7441",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "87d2a13d-4f7a-497b-b19f-080b88c4b2af",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "4f767653-2b9c-47b0-a19d-1ad4d4869333",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "4bac40ba-0f28-4965-a275-5ccba7276ddb",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "60e5e200-d1ed-4ba5-b7d2-fdc954329f13",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "79d440a4-316e-4cd9-924b-d3f960e9593a",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "2a5ea4b5-7c23-41c5-9b8a-965c37a7bb85",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "99209491-3b36-4caf-8a59-c91a75df86ac",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "9b83770d-d7a8-4ff2-a8cc-a7273ddafe5c",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "88488d80-b1a0-4c83-8bdf-006c2a56be05",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "afd8a2c4-2070-407c-b11c-d4dfdbbcdc71",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "a249de7d-6d7b-4ebd-8670-e277a6f718d2",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "7578c3d4-0c44-494e-ac3c-5e8b23b63091",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 19
+    },
+    {
+      "id": "f10bbcb0-e041-4fd8-be31-7a00b615eefd",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 20
+    },
+    {
+      "id": "10fdf73b-5457-4e87-b839-6e6086a6ffcd",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 20
+    },
+    {
+      "id": "c06a876c-162f-43f5-8628-3a613e1c4fb1",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 21
+    },
+    {
+      "id": "c96cc07c-f133-449a-a602-1720b8d556d4",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 21
+    },
+    {
+      "id": "62710e83-5402-43e9-a59f-e48082acacbf",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "8c53a00a-6e1e-450a-8fcc-29a35e43433f",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "35cc63bd-eb91-454a-98db-b713611f33c2",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "89a8961f-a186-4dc3-9df9-bfbbe0d678c4",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 23
+    }
+  ],
+  "sections": [
+    {
+      "id": "fe259ec4-aac8-46e1-a2cb-8a09bbc2fa24",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "780ed299-a0eb-46ea-bb48-678b668f4cb2",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131442837.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:39.399054+00:00"
+    },
+    {
+      "id": "8ec1e52c-3fe9-46bc-8995-c9b3dd8f5326",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131717447.9954.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:40.585528+00:00"
+    },
+    {
+      "id": "804a6d18-933f-4912-bfa7-4c7bfcd1195b",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139418635.6091.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:42.343165+00:00"
+    },
+    {
+      "id": "4d31a793-6fff-4b3f-bdaa-d12fee8ea6db",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139774237.9846.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:43.095648+00:00"
+    },
+    {
+      "id": "fc127e70-1768-4164-b739-8aefcc831b49",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131490333.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:39.547728+00:00"
+    },
+    {
+      "id": "e8e06a04-0ea4-4f97-bcdc-627f455245e5",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131716252.624.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:39.992966+00:00"
+    },
+    {
+      "id": "eacb06d2-3d6b-441f-a3f3-ed761ecde49b",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131717718.3325.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:40.730372+00:00"
+    },
+    {
+      "id": "c7655095-7799-4def-a16a-a45108152a4b",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131984930.41.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:41.173342+00:00"
+    },
+    {
+      "id": "dfc07d48-06a5-45e1-9dc3-e5bb4b29ffa4",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139417193.2993.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:41.755932+00:00"
+    },
+    {
+      "id": "c37594dc-419c-4105-817e-a7f6b141ec78",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139419036.118.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:42.489784+00:00"
+    },
+    {
+      "id": "0e096da6-932b-4a38-bbdc-dff9a5766bca",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131716737.0964.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:40.29083+00:00"
+    },
+    {
+      "id": "1af6cd8d-1864-4767-b3fe-32c60db83af2",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131718397.7354.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:41.029107+00:00"
+    },
+    {
+      "id": "e2ed3df5-9566-4015-b3eb-31470eabcca6",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139416784.4578.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:41.607685+00:00"
+    },
+    {
+      "id": "979a06bc-f51e-4a16-b073-1a44f18c35ab",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139418422.6685.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:42.195926+00:00"
+    },
+    {
+      "id": "303ae858-9b22-4cb2-b521-265cdae204bd",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131402374.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:39.246499+00:00"
+    },
+    {
+      "id": "052c7769-b688-4821-b853-cb5b67e0c9e7",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131715588.421.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:39.70072+00:00"
+    },
+    {
+      "id": "913cd68d-cec8-42dd-b480-1725c08d8229",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131716430.1868.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:40.147171+00:00"
+    },
+    {
+      "id": "21b55f59-991b-4322-b9e2-b4a3869a86f7",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131718109.9348.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:40.884421+00:00"
+    },
+    {
+      "id": "e912a1e1-82b9-4766-b4dd-2ec8bbf82092",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139416451.6755.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:41.463839+00:00"
+    },
+    {
+      "id": "b472d1fe-b04f-4f9e-8b65-52f5aca2b2a9",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139417605.289.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:41.89703+00:00"
+    },
+    {
+      "id": "ae617934-cc04-468b-a712-f45d1f7495fe",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139419446.3564.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:42.64587+00:00"
+    },
+    {
+      "id": "0784bff6-a6a0-4e43-8b9c-6eb4f84fc481",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131715906.9932.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:39.844685+00:00"
+    },
+    {
+      "id": "c8f3fa0a-837f-4a4d-aa99-9b4dc4469e7f",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779131717121.275.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:40.440431+00:00"
+    },
+    {
+      "id": "b2730bbb-433a-4066-8865-02a649711453",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779132028541.5613.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:41.318281+00:00"
+    },
+    {
+      "id": "89e91c7f-6018-4b5a-a95a-ef4898729692",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139418022.1404.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:42.039737+00:00"
+    },
+    {
+      "id": "05b5f2c0-ac75-47e9-9f17-f22653d626d0",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139419854.8867.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:42.801841+00:00"
+    },
+    {
+      "id": "318f897c-619e-4601-8c39-00fa4bbcfe1a",
+      "entity_id": "554d4e7d-28ed-4af4-b74a-40ad585ce58a",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/554d4e7d-28ed-4af4-b74a-40ad585ce58a/554d4e7d-28ed-4af4-b74a-40ad585ce58a_1779139723878.385.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:12:42.949033+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

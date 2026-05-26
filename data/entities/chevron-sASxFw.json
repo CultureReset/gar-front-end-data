@@ -1,32 +1,500 @@
 {
-  "id": "2cc9d02b-89bd-4e6b-95d9-a5d889c856e4",
-  "slug": "chevron-sASxFw",
-  "name": "Chevron",
-  "entity_type": "business",
-  "entity_subtype": "gas-station",
-  "icon": "🏪",
-  "description": "Find the Chevron or Texaco gas station nearest to you. Fuel up on premium Chevron with Techron fuel, grab drinks and snacks inside the store, or use the car wash (at participating locations).",
-  "phone": "(251) 974-5879",
-  "email": null,
-  "website_url": "https://www.chevronwithtechron.com/en_us/home/gas-station-near-me.html?/station/23141-PERDIDO-BEACH-BLVD-ORANGE-BEACH-AL-365613067-id388224",
-  "address_line_1": "23141 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4,
-  "review_count": 9,
-  "hero_image_url": null,
-  "photos": [],
+  "entity": {
+    "id": "2cc9d02b-89bd-4e6b-95d9-a5d889c856e4",
+    "place_id": "ChIJbQmfXTsEmogRwguVDsASxFw",
+    "google_maps_uri": "https://maps.google.com/?cid=6684488363012328386&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "slug": "chevron-sASxFw",
+    "name": "Chevron",
+    "subtitle": null,
+    "entity_type": "business",
+    "entity_subtype": "gas-station",
+    "secondary_types": "",
+    "google_type": "gas_station",
+    "google_types": [
+      "gas_station",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 974-5879",
+    "international_phone": null,
+    "website_url": "https://www.chevronwithtechron.com/en_us/home/gas-station-near-me.html?/station/23141-PERDIDO-BEACH-BLVD-ORANGE-BEACH-AL-365613067-id388224",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "23141 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2592938,
+    "longitude": -87.6296729,
+    "short_address": "23141 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4,
+    "review_count": 9,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Find the Chevron or Texaco gas station nearest to you. Fuel up on premium Chevron with Techron fuel, grab drinks and snacks inside the store, or use the car wash (at participating locations).",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/chevron",
+    "social_facebook": "https://www.facebook.com/Chevron",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.638853+00:00",
+    "updated_at": "2026-05-18T21:06:15.87322+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "bdd883b0-5aee-4491-92f7-6522cc0a6a48",
+      "tag": "gas station",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "2e3518e2-4847-4b44-a0b0-556fd8f208fc",
+      "tag": "gas station",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "aee92b6e-954e-4933-a4a3-d2dbdf40d1e0",
+      "tag": "fuel",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "40053e67-12fc-4b0f-8448-d666b37c7a62",
+      "tag": "fuel",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "6580303a-e9b3-488d-be62-8c0e75e8e948",
+      "tag": "diesel",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "2d45c3f8-30d7-44ae-bbc0-a2481eb03622",
+      "tag": "diesel",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "9c93ce3c-2926-4cae-bec1-9ccde25efb4c",
+      "tag": "car wash",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "ee662f0b-c058-4067-b6f9-33342d2bd85e",
+      "tag": "car wash",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "04260f5b-7943-4b29-a91b-a033973ff83f",
+      "tag": "convenience store",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "75788f2c-5e54-4256-b72c-18e49c2d4c06",
+      "tag": "convenience store",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "60400efe-98af-46cf-9a27-c54bc88059aa",
+      "tag": "EV charging",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "7d779aeb-5869-4b3e-83f6-b1819c892a58",
+      "tag": "EV charging",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "0e3d6c56-ac23-48fc-bf9c-e748214f4762",
+      "tag": "automotive",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "33c4f74c-76ed-4ce3-b4f0-35b275be43c5",
+      "tag": "automotive",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "dd2577f1-cd70-48aa-92c5-ab5cc171b5a2",
+      "tag": "rewards program",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "70885b99-8aaa-4780-b520-061c9add983c",
+      "tag": "rewards program",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "d6cc5f80-81e0-4be4-8acd-ca662c8cc45f",
+      "tag": "mobile payments",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "828703fa-643d-4c64-8254-c4cbd3e606aa",
+      "tag": "mobile payments",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "4b2686a3-383c-4445-988d-45a8b0905a61",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "1aaaf864-97a2-43a8-b210-e7b8f77c4f6c",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "541331f1-bca8-4242-afaf-7b3320c7b3c3",
+      "tag": "Perdido Beach Boulevard",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "98706f69-413c-4bcb-bd48-f471d053fea4",
+      "tag": "Perdido Beach Boulevard",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "a2cde11d-96d4-4192-a898-cf89ff90aba2",
+      "tag": "Gas Stations",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "9850e0f0-cd9c-4ff8-88b5-f31d7add45c1",
+      "tag": "Gas Stations",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "95939281-3243-446b-8ddc-ce65f0478e38",
+      "tag": "Convenience Stores",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "5c7c1b3e-42d9-4871-9f69-72001936e5f6",
+      "tag": "Convenience Stores",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "2c2e7d5a-f296-4423-bdbb-cd02015b1cd5",
+      "tag": "Car Wash",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "225ea102-a2e6-46aa-8c83-6cb3d7e43c4b",
+      "tag": "Car Wash",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "32d75eaa-f16d-4eef-901b-c92e804a5406",
+      "tag": "EV Charging",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "a15e8125-bd78-4ee0-adc5-b3e4716567a7",
+      "tag": "EV Charging",
+      "tag_category": "category",
+      "sort_order": 14
+    },
+    {
+      "id": "2a4d1204-a7fe-4073-b8ca-e12176cb83c6",
+      "tag": "Automotive Services",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "9840c104-d769-432a-9fdb-c04e7fac6a9d",
+      "tag": "Automotive Services",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "2ea0507b-b7b4-4b1d-8b2f-f1f9990ce225",
+      "tag": "Fuel & Energy",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "4d3afef8-cf19-4b85-b7de-f054ca246475",
+      "tag": "Fuel & Energy",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "21294a11-0230-40ac-a22e-9f770404833b",
+      "tag": "fuel-and-automotive",
+      "tag_category": "industry",
+      "sort_order": 17
+    },
+    {
+      "id": "7f8bc203-52fc-4210-be97-5ef75f683aa9",
+      "tag": "fuel-and-automotive",
+      "tag_category": "industry",
+      "sort_order": 17
+    },
+    {
+      "id": "84e4c975-71b1-4245-bf13-3fb0dc493e26",
+      "tag": "gas-station",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "183b2df5-d7d5-4800-adf6-05147b5a520c",
+      "tag": "gas-station",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "0113ec36-956a-42b4-b1c5-ae5420c2ebd0",
+      "tag": "Auto Services",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "2679f1f4-24af-4466-8169-8b9ee8cfeaca",
+      "tag": "Auto Services",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "79d78e4a-a916-46be-bff4-8a9cb3d12039",
+      "tag": "EV Charging Stations",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "8813008a-9d5e-4f89-a1f0-17af6cd90b05",
+      "tag": "EV Charging Stations",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "2831774f-67e5-498d-87e6-a8864a8babb2",
+      "tag": "Retail",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "934c5bde-f6a7-4204-aaec-b0cd03812419",
+      "tag": "Retail",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "5a42173e-ee9d-4482-a2d5-cfa7d11c2200",
+      "tag": "techron",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "2df5d014-c9af-405f-acf6-05844ca1f2ed",
+      "tag": "techron",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "919d89e0-0972-4092-a645-06ff49f37400",
+      "tag": "fuel-and-convenience",
+      "tag_category": "industry",
+      "sort_order": 23
+    },
+    {
+      "id": "9578b3e4-4c53-459b-a0c0-40f38445690a",
+      "tag": "fuel-and-convenience",
+      "tag_category": "industry",
+      "sort_order": 23
+    },
+    {
+      "id": "9393bce0-3ad7-4cf4-bb1d-57eab22d6a4f",
+      "tag": "gas_station",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "44144b4a-9276-4773-aff0-ac6f437c5d7c",
+      "tag": "gas_station",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "81a51c12-f452-4d8e-9259-574b3d42b6a6",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "d757309a-3482-4b52-b969-d4642bfea405",
+      "tag": "service",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "f851d83c-c4c8-40e8-89cc-e5281feb3806",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "2c942a3f-41fe-4d6e-816e-da8f360330b4",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "d866ea53-19b4-45a7-8251-b97fe4bb625d",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "c4739749-ec60-474a-81a7-abe88f5edb11",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 27
+    }
+  ],
+  "sections": [
+    {
+      "id": "b5493a82-c51a-4345-91f3-0c0438855022",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

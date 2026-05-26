@@ -1,32 +1,354 @@
 {
-  "id": "c7665250-f961-481d-bb45-6e04bb681d2a",
-  "slug": "frost-bites-gulf-shoresorange-beach-c8qveA",
-  "name": "Frost Bites Gulf Shores/Orange Beach",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(214) 578-2014",
-  "email": null,
-  "website_url": "http://www.facebook.com/frostbitesgulfshores",
-  "address_line_1": "27853 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 5,
-  "review_count": 27,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/8ec856be-5c1c-4ead-82fd-7dbda7b78d1f/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "c7665250-f961-481d-bb45-6e04bb681d2a",
+    "place_id": "ChIJXdPBxhMHmogRuqNGfc8qveA",
+    "google_maps_uri": "https://maps.google.com/?cid=16194146905742549946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "frost-bites-gulf-shoresorange-beach-c8qveA",
+    "name": "Frost Bites Gulf Shores/Orange Beach",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "ice_cream_shop",
+    "google_types": [
+      "ice_cream_shop",
+      "dessert_shop",
+      "confectionery",
+      "point_of_interest",
+      "food_store",
+      "store",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(214) 578-2014",
+    "international_phone": null,
+    "website_url": "http://www.facebook.com/frostbitesgulfshores",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27853 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2769776,
+    "longitude": -87.5510468,
+    "short_address": "27853 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 27,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/8ec856be-5c1c-4ead-82fd-7dbda7b78d1f/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00 AM – 5:00 PM",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: 12:00 – 5:00 PM",
+      "Saturday: 12:00 – 5:00 PM",
+      "Sunday: 12:00 – 5:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:28.112197+00:00",
+    "updated_at": "2026-05-17T22:22:54.117947+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "ad0a69dc-3bcf-4f90-8916-a80e7487f02e",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "a613a256-dd38-4c5c-95fd-4691f9fedf5b",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "5f6c0588-e6b4-4c49-92df-0f1000c811a4",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "7e11a931-4580-4f1a-8231-fd4e4be719bb",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "15a4a9ad-e338-4748-818e-feb7be382d90",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "a78e4565-cb88-4a3e-ba5e-105e0de3cf6d",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "7609d0c4-5908-407c-be0b-5f8575978fd8",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "a0daf6cd-3f34-4feb-aa2c-5ee6f6452465",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "9cf1c219-e1b5-4a9c-bc03-9544bc412ab4",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "ba57f2fe-aa2c-4692-9ba8-52c57e5cf013",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "3aa4d5e8-a310-48c0-a2a8-71cddb91eba8",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "d21ca71e-d6ab-4eef-ab65-afcf8e1f6c40",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "93146b34-c972-48bd-8480-04aa3554f2f4",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "be5598c6-b816-43b4-a83a-c5d0f696ce1c",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "772ec36a-c8bc-432c-a553-1e50d4daf5f2",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "13a52796-745c-4688-b09d-f2a07809c50a",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "5c328782-8a13-4852-a1c0-7a6639dc4807",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "6e3b7913-f1f9-44bc-9e2e-0ae06cdea089",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "56589d33-ef56-4910-a1e7-8e0e76f8fd07",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "4915e7ef-fe45-41ac-89ba-78082dfc2885",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 9
+    },
+    {
+      "id": "1a77fd68-ee7e-4a68-8b84-fba43abb1ab6",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "3fb49ad9-830a-4ebb-9431-72406545476e",
+      "tag": "ice cream",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "cb068226-1250-4378-979d-8db0014cec30",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "125d154a-4003-4762-a98e-495f9b351e89",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 11
+    },
+    {
+      "id": "f0852de2-d8c0-42e3-91ac-7629e45ab260",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "bae268b4-6b9c-40e5-9388-05e357819a4b",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 12
+    },
+    {
+      "id": "660bb185-8f1e-4e6c-8a35-7b28e0023655",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 13
+    },
+    {
+      "id": "62be3bee-8712-4ad6-85ee-cc87a3657fa2",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 13
+    },
+    {
+      "id": "8b138504-7509-4687-ac0f-1a823a7ac9a0",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 14
+    },
+    {
+      "id": "09a309e3-bce8-4a39-8b13-b29c76e4dde6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 14
+    }
+  ],
+  "sections": [
+    {
+      "id": "5d13ca34-e93a-433e-b6e9-ce51c661e2b3",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

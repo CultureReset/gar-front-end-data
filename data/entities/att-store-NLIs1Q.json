@@ -1,32 +1,304 @@
 {
-  "id": "1f75472d-d1bb-404a-ba95-1aa6ca42ac98",
-  "slug": "att-store-NLIs1Q",
-  "name": "AT&T Store",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "Retailer providing wireless plans & a range of phones, devices & accessories.",
-  "phone": "(251) 207-7652",
-  "email": null,
-  "website_url": "https://www.att.com/stores/alabama/orange-beach/119133?source=E-g2s10000000000X&wtExtndSource=stores",
-  "address_line_1": "25773 Perdido Beach Blvd Suite 2, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.6,
-  "review_count": 278,
-  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfXILxLTkyBN2MBTJ94AKNCBrMQhNfuluYnKm-3Fgnsz1GA7hZGx3TD2cgj4sRmChaazCH1SplmFkMzegl5Z6LKr-Ew2N_v2X7VPRXJ6sqN1mmdFi7qRkkM7df1Vj-NJMTJKN9a6TIcaFyWNF2oAbALEN-8Kikz5M3MJfrrOaxx7CSOolfaSiquRLBcif5fRx_HnRBMiJ5nM7rgi-NEetjZ9Y5Nyx81ZgfTGzB57rPniIqUGSqz2tLc6zj-K7ZdbCYz9bffjn56D2QMS9aaUfA5TkYjNUXqhuQLSHkQ8yGEusg&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
-  "photos": [],
+  "entity": {
+    "id": "1f75472d-d1bb-404a-ba95-1aa6ca42ac98",
+    "place_id": "ChIJc-zXJvoGmogRnin1BNLIs1Q",
+    "google_maps_uri": "https://maps.google.com/?cid=6103442724369017246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "att-store-NLIs1Q",
+    "name": "AT&T Store",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": "",
+    "google_type": "cell_phone_store",
+    "google_types": [
+      "cell_phone_store",
+      "telecommunications_service_provider",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 207-7652",
+    "international_phone": null,
+    "website_url": "https://www.att.com/stores/alabama/orange-beach/119133?source=E-g2s10000000000X&wtExtndSource=stores",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25773 Perdido Beach Blvd Suite 2, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2697198,
+    "longitude": -87.5877437,
+    "short_address": "25773 Perdido Beach Blvd Suite 2, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 278,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Retailer providing wireless plans & a range of phones, devices & accessories.",
+    "description": "Retailer providing wireless plans & a range of phones, devices & accessories.",
+    "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=ATCDNfXILxLTkyBN2MBTJ94AKNCBrMQhNfuluYnKm-3Fgnsz1GA7hZGx3TD2cgj4sRmChaazCH1SplmFkMzegl5Z6LKr-Ew2N_v2X7VPRXJ6sqN1mmdFi7qRkkM7df1Vj-NJMTJKN9a6TIcaFyWNF2oAbALEN-8Kikz5M3MJfrrOaxx7CSOolfaSiquRLBcif5fRx_HnRBMiJ5nM7rgi-NEetjZ9Y5Nyx81ZgfTGzB57rPniIqUGSqz2tLc6zj-K7ZdbCYz9bffjn56D2QMS9aaUfA5TkYjNUXqhuQLSHkQ8yGEusg&key=AIzaSyCckxbsKP9mQmQMWkRv6UUdLVaGTrHFxMo",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 7:00 PM",
+      "Tuesday: 9:00 AM – 7:00 PM",
+      "Wednesday: 9:00 AM – 7:00 PM",
+      "Thursday: 9:00 AM – 7:00 PM",
+      "Friday: 9:00 AM – 7:00 PM",
+      "Saturday: 9:00 AM – 7:00 PM",
+      "Sunday: 12:00 – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.69054+00:00",
+    "updated_at": "2026-05-18T21:06:01.611344+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d122c06a-9477-4881-81cf-ea8edaaf3d6b",
+      "tag": "cell phones",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "31c8b731-49c3-40e8-bbbd-59b77d3d4da9",
+      "tag": "smartphones",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "ebee4669-69aa-463d-a635-c7500c092c89",
+      "tag": "iPhone",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "ed5b39fe-774f-44e4-845e-e71b4c25ffb0",
+      "tag": "Samsung Galaxy",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "f16df3b8-520b-423d-9d51-9f88310a7446",
+      "tag": "wireless plans",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "1a7bdaa7-cfd4-439c-8200-3eef4b6a885c",
+      "tag": "prepaid phones",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "7a992686-e900-4d7d-9df3-c592021e8f5c",
+      "tag": "phone accessories",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "f5bc5eba-7773-4243-8ec8-1194863786d9",
+      "tag": "5G",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "b6160d3e-d3f6-461e-b421-4f2163aa50fd",
+      "tag": "mobile devices",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "46037080-bef8-40c7-83d2-a6944225865e",
+      "tag": "phone upgrades",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "d4f523aa-f20f-4f35-bf51-5fb52928144b",
+      "tag": "device trade-in",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "fb4dba64-732f-4e15-a939-f161d29c1122",
+      "tag": "phone repairs",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "33ae2a17-663c-4717-b9e1-f07e532a736e",
+      "tag": "screen repair",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "2e8718fd-4e5c-463b-ab25-f01d9243bff9",
+      "tag": "wireless service",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "a5c5dc96-5db6-4cbb-af40-148380e2dfdc",
+      "tag": "internet plans",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "39da98dc-2c29-4ad3-bc68-30cc31a13de0",
+      "tag": "AT&T Fiber",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "70ddab51-86f5-422b-a2dd-a2f7cd0cc867",
+      "tag": "shopping",
+      "tag_category": "google_type",
+      "sort_order": 16
+    },
+    {
+      "id": "e8bc1ef5-cd31-42e7-824f-537050c870c7",
+      "tag": "cell_phone_store",
+      "tag_category": "google_type",
+      "sort_order": 17
+    },
+    {
+      "id": "6b5682a2-79fe-40c1-8adc-d6f067f79ee9",
+      "tag": "telecommunications_service_provider",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "808bb0bd-32d9-447d-a7f1-b914e6408be6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 19
+    },
+    {
+      "id": "e6e36c20-17c3-4e5c-b316-2f5d646d94b3",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 20
+    },
+    {
+      "id": "b55b58a4-1f6e-47c2-8a9f-f8d9ffa4b621",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 21
+    }
+  ],
+  "sections": [
+    {
+      "id": "18eea3ff-e4e3-4ef3-8e0c-eddf0f8236d1",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

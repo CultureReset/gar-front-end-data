@@ -1,32 +1,450 @@
 {
-  "id": "b004d65f-f121-4b8e-aa0a-140eeade994d",
-  "slug": "docs-rv-park-E8XwXc",
-  "name": "Doc's RV Park",
-  "entity_type": "hotel",
-  "entity_subtype": "rentals",
-  "icon": "🏪",
-  "description": "Doc's RV Park is a quiet, cozy retreat located amid stately oaks with Spanish moss, just beyond the center of Gulf Shores, AL. We are a family friendly park with 62 RV sites, 13 park model homes, a clubhouse with kitchen, outdoor swimming pool, playground, horseshoe pit and volleyball net. Doc's is located just 3 short miles from public beaches, restaurants and other local attractions. Whether you're passing through for a short stay, vacationing with your family or planning a seasonal stay, we have accommodations for you. Doc's RV Park is located away from the busy traffic of downtown yet within walking or biking distance to local beaches, shopping, restaurants and family activities.",
-  "phone": "(251) 968-4511",
-  "email": null,
-  "website_url": "http://www.docsrvpark.com/",
-  "address_line_1": "17595 AL-180, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.5,
-  "review_count": 202,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/c6e119e0-62f1-42bd-ac72-be14e8988127/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "b004d65f-f121-4b8e-aa0a-140eeade994d",
+    "place_id": "ChIJBTMiPBMbmogRWLSLmE8XwXc",
+    "google_maps_uri": "https://maps.google.com/?cid=8629203991647728728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "docs-rv-park-E8XwXc",
+    "name": "Doc's RV Park",
+    "subtitle": null,
+    "entity_type": "hotel",
+    "entity_subtype": "rentals",
+    "secondary_types": [],
+    "google_type": "rv_park",
+    "google_types": [
+      "rv_park",
+      "lodging",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-4511",
+    "international_phone": null,
+    "website_url": "http://www.docsrvpark.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "17595 AL-180, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2575378,
+    "longitude": -87.7237014,
+    "short_address": "17595 AL-180, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 202,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "RV park with 62 sites & 13 park model homes, plus a clubhouse, swimming pool & volleyball court.",
+    "description": "Doc's RV Park is a quiet, cozy retreat located amid stately oaks with Spanish moss, just beyond the center of Gulf Shores, AL. We are a family friendly park with 62 RV sites, 13 park model homes, a clubhouse with kitchen, outdoor swimming pool, playground, horseshoe pit and volleyball net. Doc's is located just 3 short miles from public beaches, restaurants and other local attractions. Whether you're passing through for a short stay, vacationing with your family or planning a seasonal stay, we have accommodations for you. Doc's RV Park is located away from the busy traffic of downtown yet within walking or biking distance to local beaches, shopping, restaurants and family activities.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/c6e119e0-62f1-42bd-ac72-be14e8988127/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: 8:00 AM – 4:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.7741+00:00",
+    "updated_at": "2026-05-17T22:22:52.866386+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "10b6a46b-a878-42f4-a4a1-721380472770",
+      "tag": "RV park",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "77a8c785-3896-4bc7-bd40-266d2faacf43",
+      "tag": "RV park",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "36de9422-8a73-4c2c-b2a1-292f3d0627cb",
+      "tag": "RV sites",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "ddc371f2-471a-4684-9edd-8b565e5af258",
+      "tag": "RV sites",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "1b38f070-a9d9-4d80-8746-a64bdc911936",
+      "tag": "park models",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "5c3400f7-25bb-42b5-b9c7-0e5ce3a143fc",
+      "tag": "park models",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "0e8b63bd-6fac-4e39-aa34-e6a69f0dddf7",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "f9a05767-49ce-4a4b-81b8-3763c3bb67c8",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "cda8cec5-4701-41ab-b1da-53c2a187d1a2",
+      "tag": "camping",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "8f76dfa2-2ff6-4cd3-8993-831de9749ae4",
+      "tag": "camping",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "ce0451a8-b1b9-426c-a7b9-7794f9d8f20d",
+      "tag": "vacation rental",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "19b6f467-7301-4e3b-bd02-20225ec13736",
+      "tag": "vacation rental",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "d1717600-af00-4604-a4e0-11484e6e7b34",
+      "tag": "family friendly",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "b11515e8-5e58-4e7c-841d-d11649757a97",
+      "tag": "family friendly",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "484c8965-318f-4b87-9178-800cb6946dcf",
+      "tag": "full hookups",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "5e3ad9c4-ae39-4f99-b68d-6ff302e4a66b",
+      "tag": "full hookups",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "f2efdce9-681a-4da3-ae30-27cd3cc39d03",
+      "tag": "seasonal stay",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "a9278339-0179-460b-8a41-8b71f2509cc3",
+      "tag": "seasonal stay",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "b715d499-e2ca-445a-aa02-48c64d9dd4af",
+      "tag": "short term rental",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "9dcb48cc-6c7f-4fe6-ab9e-d760ddc28c6c",
+      "tag": "short term rental",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "6fd43acc-4405-4892-873f-dc0493790d30",
+      "tag": "RV Parks",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "036ec0f9-7fb9-4b01-bd61-923c08a1eb3c",
+      "tag": "RV Parks",
+      "tag_category": "category",
+      "sort_order": 10
+    },
+    {
+      "id": "2ae4e6b9-3789-4a3e-9e36-e53e91bed52e",
+      "tag": "Vacation Rentals",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "aad49e48-fb56-4384-9cab-e7cb56e5d024",
+      "tag": "Vacation Rentals",
+      "tag_category": "category",
+      "sort_order": 11
+    },
+    {
+      "id": "06793ac4-343e-4ab3-a450-80a5d9cf154b",
+      "tag": "Accommodations",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "9e97e827-5429-4e91-89b5-5da18e39a97e",
+      "tag": "Accommodations",
+      "tag_category": "category",
+      "sort_order": 12
+    },
+    {
+      "id": "d31ced71-ba14-444b-976a-af46a0fa5aa5",
+      "tag": "Outdoor Recreation",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "77acfc60-eaa5-4f21-95a0-b897c985638d",
+      "tag": "Outdoor Recreation",
+      "tag_category": "category",
+      "sort_order": 13
+    },
+    {
+      "id": "258ad920-afd8-4551-81ab-ed9e1165da75",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 14
+    },
+    {
+      "id": "3efbf166-58f6-42eb-9171-b9e8d01c940a",
+      "tag": "outdoor-recreation",
+      "tag_category": "industry",
+      "sort_order": 14
+    },
+    {
+      "id": "4162fb8f-ccf3-481b-905d-1e6eec9f0df1",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "13dd9890-bb81-42b3-9646-2ebbe5eceac4",
+      "tag": "rentals",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "a9c74de3-a997-4f43-8abf-af8bfd579ef2",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "c2ebb7a3-b6f2-42e1-86cd-5b55a253646f",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "8829bbef-b0c1-4aa8-81eb-49b68c61a33f",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "0110c5e3-e975-46a7-a7be-48e683c2a5f3",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "f54cec1c-e3b3-4500-85e3-6ed2be98f36e",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "9ba25129-1416-4f59-b4c6-1fe76dd12e1c",
+      "tag": "lodging",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "82131cde-0b30-4b4a-8e5f-d814056d12e7",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 19
+    },
+    {
+      "id": "99f4a14f-1448-4bbd-959a-309512810027",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 19
+    },
+    {
+      "id": "b47d33e4-82ca-457c-a064-a831178aacf6",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "9ae7ade7-2d0e-44ac-9a98-284de2ca356d",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "8c166a95-56cb-44d4-8bc0-93aa7651b1ec",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "962d9eea-73d4-4262-8d8b-b92dcc7e4074",
+      "tag": "rv_park",
+      "tag_category": "google_type",
+      "sort_order": 21
+    },
+    {
+      "id": "cd456e57-0342-4906-91ba-03b290ac2a35",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "ca52adfc-771c-4b20-9cca-8ad9b003c7fa",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 22
+    }
+  ],
+  "sections": [
+    {
+      "id": "9040922c-9eab-4c11-9836-4697182a0bff",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

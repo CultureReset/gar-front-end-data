@@ -1,32 +1,272 @@
 {
-  "id": "38a1871e-d1f9-4dc8-af82-1092f9550024",
-  "slug": "mythic-beach-banana-bar-I2543k",
-  "name": "Mythic Beach Banana Bar",
-  "entity_type": "restaurant",
-  "entity_subtype": "ice_cream_shop",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 215-8293",
-  "email": null,
-  "website_url": "https://www.facebook.com/profile.php?id=61577270530423",
-  "address_line_1": "524 W Beach Blvd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.9,
-  "review_count": 105,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/2b891ae6-0bfa-4c58-94cb-9f8ae9b73e03/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "38a1871e-d1f9-4dc8-af82-1092f9550024",
+    "place_id": "ChIJB7SazP8bmogRrDDRjI2543k",
+    "google_maps_uri": "https://maps.google.com/?cid=8783067715906646188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "mythic-beach-banana-bar-I2543k",
+    "name": "Mythic Beach Banana Bar",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "ice_cream_shop",
+    "secondary_types": "",
+    "google_type": "dessert_shop",
+    "google_types": [
+      "dessert_shop",
+      "ice_cream_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 215-8293",
+    "international_phone": null,
+    "website_url": "https://www.facebook.com/profile.php?id=61577270530423",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "524 W Beach Blvd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2472571,
+    "longitude": -87.6981188,
+    "short_address": "524 W Beach Blvd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 105,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/2b891ae6-0bfa-4c58-94cb-9f8ae9b73e03/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": true,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true
+    },
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 1:00 – 9:30 PM",
+      "Tuesday: 1:00 – 9:30 PM",
+      "Wednesday: 1:00 – 9:30 PM",
+      "Thursday: 1:00 – 9:30 PM",
+      "Friday: 1:00 – 9:30 PM",
+      "Saturday: 1:00 – 9:30 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.7741+00:00",
+    "updated_at": "2026-05-18T21:07:03.280231+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "6b3c1c39-163b-4740-8ff1-af454af076f2",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "62b77c87-28a3-4aef-8471-7bca94bd8f5c",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "330318cb-0c5b-4ca0-a4bc-53317d0c07de",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "a51f0461-cffa-484c-aa5d-6634e382e54d",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "addcfd16-6b75-4d7f-ab61-4444ee21b562",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "72b4e4ea-0f63-4033-a290-6626eaf1e9c8",
+      "tag": "confectionery",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "57c97938-068a-41ab-aacb-182ce13240e7",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "49a941d6-7b11-4c10-82ce-50ddb4d782eb",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "79e1fc8a-b7c8-489a-a7ae-1b04b8f555e2",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "64121018-2593-4ad4-98cc-f9806a38c6de",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "40d4ed28-78ad-4697-8f8c-6973f07cc8a0",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "1c18f3aa-c13e-413e-8ca1-7fdf4a92d175",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "eeb3b595-49ed-4dec-8ae3-f34ec03731d7",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "85fe973a-c3ce-4594-82e3-1f411e31093b",
+      "tag": "food",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "7af7aaa0-1e1f-47b1-b160-0601bb6affbb",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "fdf9b43f-850f-4433-bcc3-868a8c3c26c9",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "b6f180b5-4e3d-4a54-b3d0-8447eb93b537",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

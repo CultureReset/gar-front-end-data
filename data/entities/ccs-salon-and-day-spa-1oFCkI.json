@@ -1,32 +1,883 @@
 {
-  "id": "00c6aaf5-d7b9-4dee-9aff-aca12b4c6526",
-  "slug": "ccs-salon-and-day-spa-1oFCkI",
-  "name": "CCs Salon and Day Spa",
-  "entity_type": "service",
-  "entity_subtype": "salon-spa",
-  "icon": "🏪",
-  "description": "CC's Salon, Day Spa, and Boutique is a full-service salon designed to help you relax and unwind serving clients in Gulf Shores, Perdido Key, Foley, and Orange Beach. Our salon professionals use their 50+ years of combined experience to help clients escape their busy schedules and focus on beauty, relaxation, and style. Located on Gulf Shores Parkway, our team strives to provide premier customer service with Gulf Coast charm. To us, our customers are more than clients – they're friends. We help our friends tell their stories through beauty and style. Since 2009, CC's Salon, Day Spa & Boutique has been helping clients in Gulf Shores, Orange Beach, Foley, and Perdido Key look and feel their best. At CC's, our clients are more than guests – they're friends. Our salon professionals, estheticians, and nail technicians help clients achieve the perfect look through our hair design services, fresh manicures and pedicures, our trendy boutique items, and more.",
-  "phone": "(251) 968-2077",
-  "email": null,
-  "website_url": "https://www.ccssalondayspaboutique.com/",
-  "address_line_1": "1556 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.6,
-  "review_count": 143,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526_1779139772188.552.jpg",
-  "photos": [],
+  "entity": {
+    "id": "00c6aaf5-d7b9-4dee-9aff-aca12b4c6526",
+    "place_id": "ChIJBY99btAEmogRIBZ1o1oFCkI",
+    "google_maps_uri": "https://maps.google.com/?cid=4758621843117905440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "ccs-salon-and-day-spa-1oFCkI",
+    "name": "CCs Salon and Day Spa",
+    "subtitle": null,
+    "entity_type": "service",
+    "entity_subtype": "salon-spa",
+    "secondary_types": "",
+    "google_type": "beauty_salon",
+    "google_types": [
+      "beauty_salon",
+      "nail_salon",
+      "hair_care",
+      "massage",
+      "spa",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 968-2077",
+    "international_phone": null,
+    "website_url": "https://www.ccssalondayspaboutique.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1556 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2667503,
+    "longitude": -87.6877593,
+    "short_address": "1556 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 143,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "CC's Salon, Day Spa, and Boutique is a full-service salon designed to help you relax and unwind serving clients in Gulf Shores, Perdido Key, Foley, and Orange Beach. Our salon professionals use their 50+ years of combined experience to help clients escape their busy schedules and focus on beauty, relaxation, and style. Located on Gulf Shores Parkway, our team strives to provide premier customer service with Gulf Coast charm. To us, our customers are more than clients – they're friends. We help our friends tell their stories through beauty and style. Since 2009, CC's Salon, Day Spa & Boutique has been helping clients in Gulf Shores, Orange Beach, Foley, and Perdido Key look and feel their best. At CC's, our clients are more than guests – they're friends. Our salon professionals, estheticians, and nail technicians help clients achieve the perfect look through our hair design services, fresh manicures and pedicures, our trendy boutique items, and more.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526_1779139772188.552.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/ccsalon_dayspa_boutique/",
+    "social_facebook": "https://www.facebook.com/CCsSalonDaySpaBoutique",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 9:00 AM – 5:00 PM",
+      "Tuesday: 9:00 AM – 5:00 PM",
+      "Wednesday: 9:00 AM – 5:00 PM",
+      "Thursday: 9:00 AM – 5:00 PM",
+      "Friday: 9:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://www.ccssalondayspaboutique.com/",
+      "pages": [
+        {
+          "url": "https://www.ccssalondayspaboutique.com/",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nExperience. Style. Service.\nA full service salon, spa, and boutique serving the Alabama Gulf Coast.\nBOOK NOW\nSalon. Day Spa. Boutique.\n\nSince 2009, CC’s Salon, Day Spa & Boutique has been helping clients in Gulf Shores, Orange Beach, Foley, and Perdido Key look and feel their best. At CC’s, our clients are more than guests – they’re friends. Our salon professionals, estheticians, and nail technicians help clients achieve the perfect look through our hair design services, fresh manicures and pedicures, our trendy boutique items, and more. Visit our services page to learn how we can take care of all your beauty needs.\n\nOur Services\nLook and feel your best with our personalized hair, nail, and spa services.\nHair Cut & Color\nFrom classic highlights to perms, rainbow hair coloring techniques, and everything in between, our experienced stylists can handle any challenge.\nMani's & Pedi's\nWe offer a variety of services, including manicures and pedicures, to keep your nails strong, stylish, and beautiful.\nMassage & Facials\nSit back, relax, and escape from the stress of the day with a massage, facial, or another one of our luxurious spa packages.\nWaxing\nWe offer bikini waxes, Brazilians, brows, legs, and more! Our talented staff will leave you smooth and hairless.\nVIEW ALL SERVICES\nBook Now!\nBook Your Appointment\nWe’re here to help make every occasion special. CC’s Salon, Day Spa, and Boutique offers comprehensive wedding, special event, and spa packages that include hair design, facials, massages, makeup, and more. Call us at (251) 968-2077 for specific pricing and details.\nWeddings & Special Events\nWe'll make your wedding party look and feel relaxed and radiant on your special day.\nSpa Packages\nAll packages include a relaxing massage, rejuvenating facial, and dazzling pedicure.\nProfessional Makeup\nMake a statement with a stunning look from our experienced salon professionals.\nFollow Us\nFollow us on Facebook & Instagram to learn about our specials, latest boutique items and more!\nFacebook\nInstagram\nSchedule Your Appointment\nBOOK NOW\nMeet the Team\nMeet the talented ladies who specialize in making beauty dreams a reality.\nCindy Todd Chapman\n\nOwner/Master Stylist\n\nKathe Hoffman\n\nReceptionist & Boutique Associate\n\nLaura Clark\n\nMaster Esthetician\n\nAzhara Tagaybekova\n\nEsthetician, Makeup Artist & Nail Tech\n\nView all staff\nWhat we offer\n\nOur master stylists, estheticians, nail technicians, and massage therapists offer many services to help you look and feel your best. We are also available to cater to all of your wedding and special event salon and spa needs. Check out some of our offerings below or visit our booking site for a complete list of services.\n\nCut & Color\nManicures & Pedicures\nMassage\nWaxing\nMakeup\nFacial\nHappy customers\nKatie Fountain\n\nBride\n\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\n\nAshley VanHook\n\nBride\n\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\n\nAngie Kluesner-Mitchell\n\nClient\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nKatie Fountain\n\nBride\n\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\n\nAshley VanHook\n\nBride\n\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\n\nAngie Kluesner-Mitchell\n\nClient\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nKatie Fountain\n\nBride\n\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\n\nFrom our gallery\n\nCheck out some of our best cuts, favorite manicures, trendiest outfits, and more.\n\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "CCs Salon, Day Spa & Boutique – Gulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nExperience. Style. Service.\nA full service salon, spa, and boutique serving the Alabama Gulf Coast.\nBOOK NOW\nSalon. Day Spa. Boutique.\n\nSince 2009, CC’s Salon, Day Spa & Boutique has been helping clients in Gulf Shores, Orange Beach, Foley, and Perdido Key look and feel their best. At CC’s, our clients are more than guests – they’re friends. Our salon professionals, estheticians, and nail technicians help clients achieve the perfect look through our hair design services, fresh manicures and pedicures, our trendy boutique items, and more. Visit our services page to learn how we can take care of all your beauty needs.\n\nOur Services\nLook and feel your best with our personalized hair, nail, and spa services.\nHair Cut & Color\nFrom classic highlights to perms, rainbow hair coloring techniques, and everything in between, our experienced stylists can handle any challenge.\nMani's & Pedi's\nWe offer a variety of services, including manicures and pedicures, to keep your nails strong, stylish, and beautiful.\nMassage & Facials\nSit back, relax, and escape from the stress of the day with a massage, facial, or another one of our luxurious spa packages.\nWaxing\nWe offer bikini waxes, Brazilians, brows, legs, and more! Our talented staff will leave you smooth and hairless.\nVIEW ALL SERVICES\nBook Now!\nBook Your Appointment\nWe’re here to help make every occasion special. CC’s Salon, Day Spa, and Boutique offers comprehensive wedding, special event, and spa packages that include hair design, facials, massages, makeup, and more. Call us at (251) 968-2077 for specific pricing and details.\nWeddings & Special Events\nWe'll make your wedding party look and feel relaxed and radiant on your special day.\nSpa Packages\nAll packages include a relaxing massage, rejuvenating facial, and dazzling pedicure.\nProfessional Makeup\nMake a statement with a stunning look from our experienced salon professionals.\nFollow Us\nFollow us on Facebook & Instagram to learn about our specials, latest boutique items and more!\nFacebook\nInstagram\nSchedule Your Appointment\nBOOK NOW\nMeet the Team\nMeet the talented ladies who specialize in making beauty dreams a reality.\nCindy Todd Chapman\n\nOwner/Master Stylist\n\nKathe Hoffman\n\nReceptionist & Boutique Associate\n\nLaura Clark\n\nMaster Esthetician\n\nAzhara Tagaybekova\n\nEsthetician, Makeup Artist & Nail Tech\n\nView all staff\nWhat we offer\n\nOur master stylists, estheticians, nail technicians, and massage therapists offer many services to help you look and feel your best. We are also available to cater to all of your wedding and special event salon and spa needs. Check out some of our offerings below or visit our booking site for a complete list of services.\n\nCut & Color\nManicures & Pedicures\nMassage\nWaxing\nMakeup\nFacial\nHappy customers\nKatie Fountain\n\nBride\n\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\n\nAshley VanHook\n\nBride\n\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\n\nAngie Kluesner-Mitchell\n\nClient\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nKatie Fountain\n\nBride\n\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\n\nAshley VanHook\n\nBride\n\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\n\nAngie Kluesner-Mitchell\n\nClient\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nKatie Fountain\n\nBride\n\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\n\nFrom our gallery\n\nCheck out some of our best cuts, favorite manicures, trendiest outfits, and more.\n\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "CCs Salon, Day Spa & Boutique – Gulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/gulf-shores-salon-orange-beach-spa-boutique-2",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nService Driven. Customer Focused.\nCC's Salon, Day Spa & Boutique\nServing Clients Since 2009\n\nCC’s Salon, Day Spa, and Boutique is a full-service salon designed to help you relax and unwind serving clients in Gulf Shores, Perdido Key, Foley, and Orange Beach. Our salon professionals use their 50+ years of combined experience to help clients escape their busy schedules and focus on beauty, relaxation, and style. Located on Gulf Shores Parkway, our team strives to provide premier customer service with Gulf Coast charm. To us, our customers are more than clients – they’re friends. We help our friends tell their stories through beauty and style. Visit us in Gulf Shores, (across from Rouse’s), for a luxurious experience that brings out your inner beauty. Give us a call or book your appointment online to share your beauty transformation today.\n\nWhat we offer\nOur master stylists, estheticians, nail technicians, and massage therapists offer a variety of beauty services to help you look and feel your best. Check out some of our offerings below and visit our booking site for a complete list of services.\n\nCall (251) 968-2077 to hear how we can cater to all of your wedding and special event salon and spa needs.\n\nCut & Color\nManicures & Pedicures\nMassage\nWaxing\nMakeup\nFacial\nHappy customers\nKatie Fountain\n\nBride\n\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\n\nAshley VanHook\n\nBride\n\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\n\nAngie Kluesner-Mitchell\n\nClient\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nKatie Fountain\n\nBride\n\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\n\nAshley VanHook\n\nBride\n\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\n\nAngie Kluesner-Mitchell\n\nClient\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nKatie Fountain\n\nBride\n\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\n\nMeet the Team\nOur staff are committed to helping you look and feel your best.\nCindy Todd Chapman\n\nOwner/Master Stylist\n\nCindy is a Gulf Shores native and stylist with over three and a half decades in the hair industry. She has advanced training in haircuts & color, manicures, and pedicures and loves designing new styles for clients.\n\nKathe Hoffman\n\nReceptionist & Boutique Associate\n\nKathe is the first face you’ll see when you walk in and the last you’ll see when you leave. She’s passionate about creating an inclusive atmosphere that celebrates beauty in all of its forms.\n\nLaura Clark\n\nMaster Esthetician\n\nLaura is an Indiana native with 13 years of experience in facials, microdermabrasion, waxing, haircuts, and hair color. She loves helping clients look and feel their best through personalized spa treatments.\n\nAzhara Tagaybekova\n\nEsthetician, Makeup Artist & Nail Tech\n\nAzhara is a talented salon professional specializing in ombre powder brows, microdermabrasion, waxing, nails and professional makeup. She loves helping clients bring their beauty dreams to life.\n\nBrian Malloy\n\nMassage Therapist\n\nBrian Malloy uses his passion and extensive (34yr.) experience in the field of massage therapy to provide high-quality massage treatments to satisfy even the most discerning clientele. He uses a variety of massage modalities allows for a customized massage treatment that best meets your needs as the client, whether they be pain/injury management or relaxation.…\n\nSchedule Your Appointment\nBOOK NOW\nFrom our gallery\nCheck out some of our best cuts, favorite nails, cutest outfits, and more.\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "About – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/gulf-shores-orange-beach-salon-spa-services-hair-nails-waxing-massage",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nGulf Shores Salon & Spa Services\nServing Clients in Gulf Shores, Orange Beach, Foley, Perdido Key & Other Areas\nYou are here:\nHomeServices\nHaircut & Hair Color\n\nNo client has the same style. Our talented stylists customize the hairstyle, haircut, and hair color to the beautiful customers we serve. Our team has over 50 years of combined experience offering women’s cuts, men’s cuts, color, perms, extensions, and Brazilian blowouts to clients in Orange Beach, Foley, Perdido, and Gulf Shores.\n\nManicures & Pedicures\n\nLet us make your nails beautiful with relaxing manicures and pedicures. Our talented nail technicians provide a unique and relaxing experience complete with a consultation that helps you achieve and maintain the perfect look. We offer acrylic nails, gel nails, and shellac polish as well as other services to enhance your natural nails. Give us a call or book online to schedule your appointment.\n\nWaxing\n\nHair can often seem like a blessing and a curse. Harmful chemicals often burn skin resulting in redness and irritation while shaving and trimming are temporary solutions that only cut hair on the surface, leaving the root intact.\n\nOur waxing professionals use warm wax to remove hair from the root, leaving you smooth and hairless for weeks not days. At CC’s, we strive to provide a judgment-free environment that uses hygienic, effective, and comfortable techniques. We offer waxing for brows, lips, chin, full face, bikini, Brazilian, half legs, full legs, back, underarms, and arms.\n\nCall us if you have questions about scheduling, preparation, our waxing process, or aftercare.\n\nMassage & Spa Packages\n\nOur experienced, professional massage therapists personalize each massage to meet every client’s needs with the goal of improving their overall wellness. CC’s offers a variety of massage types and time options at 30, 60, and 90-minute intervals including: relaxation, hot stone, deep tissue/Swedish, reiki, and neck, back, and shoulder. Couples massages are available upon request and based on availability.\n\nYou can also select from spa package options to help you sit back, relax, and unwind.\n\nFacials & Skincare\n\nPut your best face forward and love the skin you’re in! Our relaxing facial treatments will leave you refreshed and glowing inside and out. We use organic skincare products that stimulate blood flow and improve the flow of oxygen to your skin and surrounding tissue. At CC’s, we only use high-quality products that maintain healthy, youthful, and radiant skin.\n\nBook a consultation with one of our salon professionals to see how we can help you with your skincare!\n\nProfessional Makeup\n\nMakeup should enhance a woman’s natural beauty – not hide it! At CC’s, we help clients put a ‘finishing touch’ on their look while being careful to preserve and respect their personal style. Our team doesn’t do over-the-top makeovers but instead strives to provide beautiful, subtle enhancements. We offer mineral makeup, airbrush makeup, eyelash extensions (placement & fills), and eyelash strip applications.\n\nOur services can be customized for date nights, prom, weddings, or any special occasion.\n\nWeddings & Special Events\n\nOur team of experienced stylists, makeup artists, and nail technicians can handle all of your wedding day and special event beauty needs! Our packages are customized to your specific needs and preferences. We offer haircuts, hair color, hair design, facials, manicures, pedicures, massage, and professional makeup services for the entire bridal party. Let CC’s Salon, Day Spa & Boutique take the stress out of your wedding or special event to give you the relaxing and memorable experience you deserve. Call (251) 968-2077 for quotes and more information.\n\nOur team is also available to serve your bridal party before the dress rehearsal and on your wedding day at our salon or on-site (additional on-site fees apply). We are excited to help you celebrate your special day!\n\nMicroblading\n\nReclaim your time spent drawing and maintaining beautiful brows with microblading, a semi-permanent eyebrow enhancement technique. Microblading allows you to create your desired eyebrow shape, fullness, and color by inserting pigment into the outer layers of the skin. Our experienced technicians work with you to produce custom, fuller brows that last between one and three years, depending on a variety of factors. Touch-ups are often needed about once a year, especially for those with oily skin.\n\nCall today for more info or to book your appointment!\n\nEyelash Extensions\n\nA look isn’t complete without some lash love! Our technicians offer several eyelash extension options. We can apply individual lashes to enhance your natural look or to make up for lashes that have been lost in the natural shedding process. We also offer temporary lash strips for special occasions.\n\nCall today for more info or to book your appointment!\n\nCryotherapy\n\nCryotherapy, or “cold therapy,” is a therapy that involves localized freezing temperatures for several minutes at a time. Cryotherapy has been proven to have several health benefits including aiding in pain management, weight loss, skin conditions, migraines, anxiety and depression, cancer prevention and muscle relaxation.\n\nCall today for more info or to book your cryotherapy appointment at our gulf shores salon and spa!\n\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Services – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/hair-color-shadow-root-gulf-shores-al-orange-beach",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nGulf Shores Hair Color Trends: Shadow Root & More\nYou are here:\nHomeGulf Shores Hair Color Trends:…\nHair Color Trends: Shadow Roots, Balayage & More\nAre you ready to change up your look? Check out these top hair color trends in Gulf Shores and Orange Beach, Alabama. Whether you prefer something subtle or want to go bold, the hair color specialists at our Gulf Shores salon will help you find the best style to suit your tastes. Learn more about trending techniques including shadow roots, balayage, traditional highlights, baby lowlights and ombre.\nShadow Roots\nGULF SHORES SALON HAIR COLOR TREND #1\n\nShadow roots are one of the hottest trends in Gulf Shores and Orange Beach, Alabama, not to mention budget-friendly and easy to maintain!\n\nAlso known as “root smudge,” this technique fades fresh color into your natural roots and creates the illusion of your roots casting a shadow on the rest of your hair.\nRoot shadowing adds subtle contrast and dimension to your look, which can also make your hair appear more full and voluminous.\nThis hair trend extends the life of your color and requires fewer root touch-ups, so you save money on trips to the salon.\nShadow roots are a low-maintenance style that is easy to grow out, which is perfect if you want longer locks.\nColor options are endless, so shadow roots are suitable for anyone!\nBalayage\nGULF SHORES SALON HAIR COLOR TREND #2\n\nBalayage creates natural-looking highlights that add pops of brightness and contrast throughout your hair.\n\nBalayage is a French word meaning “to sweep.” These hand-painted highlights are “swept” onto the surface of the hair.\nUnlike traditional highlights, balayage does not require the use of foils, which means the process is quicker.\nBalayage highlights blend seamlessly into your natural color, making them easy to maintain.\nThis technique adds beautiful dimension with color that is typically just a few shades lighter than your natural hair.\nThis style is perfect if you want a natural sun-kissed glow that looks like you just came from the beach!\nHighlights\nGULF SHORES SALON HAIR COLOR TREND #3\n\nLighten your locks with traditional highlights for amazing depth and dimension, and get ready for summer in Gulf Shores!\n\nTraditional highlights are obtained by separating pieces of hair into foils and adding color from root to tip.\nDistinct lines of color are woven through the hair, resulting in bold, bright strands.\nFoil highlights require fewer touch-ups than a full dye, but more than balayage highlights.\nFull highlights cover the whole head, while partial highlights are placed strategically on top sections or around the face.\nIf you’re looking for an all-over lighter look, traditional highlights may be the best choice for you.\nCute Baby Lowlights\nGULF SHORES SALON HAIR COLOR TREND #4\n\nIf you want to darken your look oh, so slightly, baby lowlights might be the style for you. Visit our Orange Beach stylists today!\n\nBaby lowlights are delicate strands of color that are darker than your natural hair.\nUsing a traditional foiling method, dye is applied to sections of hair, creating deeper tones and depth.\nLowlights allow you to darken your look and add dimension without committing to a drastic change.\nLowlights can give the illusion of thicker, voluminous hair, so they work particularly well for clients with fine hair.\nBaby lowlights are achieved by coloring micro-strands of hair, creating a more subtle look than that of traditional lowlights.\nOmbre\nGULF SHORES SALON HAIR COLOR TREND #5\n\nOmbre is a dramatic color effect that is low maintenance and can work on anyone. Our Gulf Shores stylists are ready to show you how!\n\nMeaning “to shade,” this hair color trend is a seamless graduation from dark roots to light tips.\nOmbre is similar to balayage, except that ombre results in a bolder look with more saturated color.\nThis style is easy to maintain and easy to grow out, thanks to the gradual gradation of color.\nOmbre hairstyles can be any color combination, from natural blonde, brown or red to something more unconventional.\nA more subtle variation of ombre is called sombre, which features a lesser contrast between light and dark shades.\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Gulf Shores Hair Color Trends: Shadow Root & More – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/blog",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nBlog, Beauty Tips, & News\nNeed-to-Know Tips, Trends & More\nYou are here:\nHomeBlog\nApr\n15\n2022\nBalayage, Ombre, Shadow Root & More: Top 2022 Hair Color Trends from the Best Gulf Shores Salon\n\nIf you want to add a little flair to your hair, check out the top hair color trends of 2022 from the best Gulf Shores hair salon! Our hair color specialists are highly skilled in popular techniques like balayage, ombre, shadow root and traditional highlights. If another salon left you with a less-than-desirable dye job, we do color correction, too!\n\nRead more\nAug\n24\n2020\nFall 2020 Hair Trends\n\nFall may seem like a million months away, but Pantone yellows, plaid long sleeves, and pumpkin spice lattes are coming fast.\n\nRead more\nAug\n17\n2020\nOmbré Powder Brows Vs. Microblading\n\nWhat’s the difference between ombré powder brows and micro-blading? Ombré powder brows are achieved using a small machine, which disperses extremely fine dots of pigments evenly into and across the skin in a shading technique.\n\nRead more\nAug\n10\n2020\nFrench Manicures: What to Know\n\nA French manicure is more than just a fad high school girls wear to prom and homecoming. It’s a timeless statement of elegance, professionalism, and style.\n\nRead more\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Blog – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/contact-gulf-shores-hair-salon-spa-boutique",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nContact Our Hair Salon, Spa & Boutique\nServing the Alabama Gulf Coast: Gulf Shores, Orange Beach, Foley\nYou are here:\nHomeContact\nDirections\nContact Info\n1556 Gulf Shores Pkwy. Bldg. 5\n\nGulf Shores, AL 36542\n\n \n\nPhone: (251) 968-2077\n\nEmail: gulfshoressalon@yahoo.com\n\nFacebook\nInstagram\nBOOK NOW\nHours of Operation\nStop by CC’s Salon, Day Spa & Boutique on Gulf Shores Parkway across from Rouse’s in Gulf Shores, AL. You can schedule your appointment online or give us a call to learn more about our pricing and services.\nMonday\t9 am – 5 pm\nTuesday\t9 am – 5 pm\nWednesday\t9 am – 5 pm\nThursday\t9 am – 5 pm\nFriday\t9 am – 5 pm\nSaturday\t8 am – 2 pm\nSunday\tCLOSED\nGet In Touch\nName *\nE-mail *\nTelephone\nMessage\n\nSend message\n\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Contact – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/boutique-shop-gulf-shores-al",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nShop Our Boutique & Salon\nClothing, Accessories, Salon Products & More\nYou are here:\nHomeShop\nBoutique Clothing\n\nOur boutique offers the latest women’s clothing styles. Choose from flattering dresses, tees, shorts, skirts, pants, and more! Go casual or dressy – you’ll find it all in our boutique.\n\nSHOP NOW\nBoutique Accessories\n\nLooking for the perfect bracelet set, necklace or earrings to go with your new boutique pieces? Look no further – our accessories are also the latest and greatest on the market.\n\nSHOP NOW\nSalon Products\n\nWe carry some of the most popular salon brands and products to keep your mane looking and feeling fabulous! Shop now to skip the store lines and take advantage of competitive prices.\n\nLEARN MORE\nSkincare Products\n\nIs your skin in need of a little TLC? Make an appointment for a facial to keep your skin light, bright, and blemish-free. You can also shop our line of incredible skincare products!\n\nLEARN MORE\n\nVisit our boutique online at: ccsboutique.commentsold.com\n\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Shop – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/salon-spa-services",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nPage not found\nYou are here:\nHomeError 404\nOops! That page can’t be found.\n\nIt looks like nothing was found at this location. Try using the search box below:\n\nSearch:\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Page not found – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/gulf-shores-salon-orange-beach-spa-boutique-2/our-team",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nOur Team\nYou are here:\nHomeAboutOur Team\nCindy Todd Chapman\n\nOwner/Master Stylist\n\nKathe Hoffman\n\nReceptionist & Boutique Associate\n\nLaura Clark\n\nMaster Esthetician\n\nAzhara Tagaybekova\n\nEsthetician, Makeup Artist & Nail Tech\n\nBrian Malloy\n\nMassage Therapist\n\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Our Team – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/dt_gallery/haircut-color",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nHaircut & Hair Color\nYou are here:\nHomePhoto AlbumHaircut & Hair Color\nteen-college-girl-blonde-haircut-hair-color-gulf-shores-ccs-salon-day-spa-boutique\ncute-red-womans-haircut-ccs-salon-day-spa-boutique\nhaircut-hair-color-hairstyle-hair-design-salon-orange-beach-foley-gulf-shores\nteen-college-girl-blonde-haircut-hair-color-gulf-shores-ccs-salon-day-spa-boutique\ncute-red-womans-haircut-ccs-salon-day-spa-boutique\nhaircut-hair-color-hairstyle-hair-design-salon-orange-beach-foley-gulf-shores\nteen-college-girl-blonde-haircut-hair-color-gulf-shores-ccs-salon-day-spa-boutique\n\nNo client has the same style. Our talented stylists customize the hairstyle, haircut, and hair color to the beautiful customers we serve. Our team has over 50 years of combined experience offering women’s cuts, men’s cuts, color, perms, extensions, and Brazilian blowouts to clients in Orange Beach, Foley, Perdido, and Gulf Shores.\n\nSeptember 19, 2019\nAlbum navigation\nPREVIOUS\nPrevious album:\nManicures & Pedicures\nNEXT\nNext album:\nWaxing\nRecent posts\nBalayage, Ombre, Shadow Root & More: Top 2022 Hair Color Trends from the Best Gulf Shores Salon\n\nApril 15, 2022\nFall 2020 Hair Trends\n\nAugust 24, 2020\nOmbré Powder Brows Vs. Microblading\n\nAugust 17, 2020\nFrench Manicures: What to Know\n\nAugust 10, 2020\nFrom the gallery\nFollow Us\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nTestimonials\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\nAshley VanHook\nBride\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nAngie Kluesner-Mitchell\nClient\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\nAshley VanHook\nBride\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nAngie Kluesner-Mitchell\nClient\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Haircut & Hair Color – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/dt_gallery/mani-pedis",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nManicures & Pedicures\nYou are here:\nHomePhoto AlbumManicures & Pedicures\nmanicure-pedicure-nail-painting-art-nail-salon-orange-beach-foley-gulf-shores\nnail-art-pedicure-manicure-orange-beach-foley-gulf-shores-alabama\nmanicure-pedicure-nail-painting-art-nail-salon-orange-beach-foley-gulf-shores\nnail-art-pedicure-manicure-orange-beach-foley-gulf-shores-alabama\nmanicure-pedicure-nail-painting-art-nail-salon-orange-beach-foley-gulf-shores\nnail-art-pedicure-manicure-orange-beach-foley-gulf-shores-alabama\n\nLet us make your nails beautiful with relaxing manicures and pedicures. Our talented nail technicians provide a unique and relaxing experience complete with a consultation that helps you achieve and maintain the perfect look. We offer acrylic nails, gel nails, and shellac polish as well as other services to enhance your natural nails. Give us a call or book online to schedule your appointment.\n\nSeptember 19, 2019\nAlbum navigation\nNEXT\nNext album:\nHaircut & Hair Color\nRecent posts\nBalayage, Ombre, Shadow Root & More: Top 2022 Hair Color Trends from the Best Gulf Shores Salon\n\nApril 15, 2022\nFall 2020 Hair Trends\n\nAugust 24, 2020\nOmbré Powder Brows Vs. Microblading\n\nAugust 17, 2020\nFrench Manicures: What to Know\n\nAugust 10, 2020\nFrom the gallery\nFollow Us\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nTestimonials\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\nAshley VanHook\nBride\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nAngie Kluesner-Mitchell\nClient\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\nAshley VanHook\nBride\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nAngie Kluesner-Mitchell\nClient\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Manicures & Pedicures – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/dt_gallery/waxing",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nWaxing\nYou are here:\nHomePhoto AlbumWaxing\nleg-hair-brazillian-bikini-waxing-ccs-salon-day-spa-boutique\narm-hair-waxing-smooth-hair-removal-orange-beach-foley-gulf-shores\neyebrow-waxing-hair-removal-hairless-orange-beach-foley-gulf-shores\nleg-hair-brazillian-bikini-waxing-ccs-salon-day-spa-boutique\narm-hair-waxing-smooth-hair-removal-orange-beach-foley-gulf-shores\neyebrow-waxing-hair-removal-hairless-orange-beach-foley-gulf-shores\nleg-hair-brazillian-bikini-waxing-ccs-salon-day-spa-boutique\n\nHair can often seem like a blessing and a curse. Harmful chemicals often burn skin resulting in redness and irritation while shaving and trimming are temporary solutions that only cut hair on the surface, leaving the root intact.\n\nOur waxing professionals use warm wax to remove hair from the root, leaving you smooth and hairless for weeks not days. At CC’s, we strive to provide a judgment-free environment that uses hygienic, effective, and comfortable techniques. We offer waxing for brows, lips, chin, full face, bikini, Brazilian, half legs, full legs, back, underarms, and arms.\n\nCall us if you have questions about scheduling, preparation, our waxing process, or aftercare.\n\nSeptember 19, 2019\nAlbum navigation\nPREVIOUS\nPrevious album:\nHaircut & Hair Color\nNEXT\nNext album:\nMassage & Spa Packages\nRecent posts\nBalayage, Ombre, Shadow Root & More: Top 2022 Hair Color Trends from the Best Gulf Shores Salon\n\nApril 15, 2022\nFall 2020 Hair Trends\n\nAugust 24, 2020\nOmbré Powder Brows Vs. Microblading\n\nAugust 17, 2020\nFrench Manicures: What to Know\n\nAugust 10, 2020\nFrom the gallery\nFollow Us\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nTestimonials\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\nAshley VanHook\nBride\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nAngie Kluesner-Mitchell\nClient\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\nAshley VanHook\nBride\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nAngie Kluesner-Mitchell\nClient\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Waxing – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/contact",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nContact Our Hair Salon, Spa & Boutique\nServing the Alabama Gulf Coast: Gulf Shores, Orange Beach, Foley\nYou are here:\nHomeContact\nDirections\nContact Info\n1556 Gulf Shores Pkwy. Bldg. 5\n\nGulf Shores, AL 36542\n\n \n\nPhone: (251) 968-2077\n\nEmail: gulfshoressalon@yahoo.com\n\nFacebook\nInstagram\nBOOK NOW\nHours of Operation\nStop by CC’s Salon, Day Spa & Boutique on Gulf Shores Parkway across from Rouse’s in Gulf Shores, AL. You can schedule your appointment online or give us a call to learn more about our pricing and services.\nMonday\t9 am – 5 pm\nTuesday\t9 am – 5 pm\nWednesday\t9 am – 5 pm\nThursday\t9 am – 5 pm\nFriday\t9 am – 5 pm\nSaturday\t8 am – 2 pm\nSunday\tCLOSED\nGet In Touch\nName *\nE-mail *\nTelephone\nMessage\n\nSend message\n\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Contact – CCs Salon, Day Spa & Boutique"
+        },
+        {
+          "url": "https://www.ccssalondayspaboutique.com/dt_gallery/massage-spa-packages",
+          "text": "Skip to content\nCCs Salon, Day Spa & Boutique\nGulf Shores, Alabama Salon, Beach Spa, Orange Beach Boutique\nHome\nAbout\nServices\nBlog\nContact\nShop\nBook Now\nMassage & Spa Packages\nYou are here:\nHomePhoto AlbumMassage & Spa Packages\nmassage-hot-stone-relaxing-day-spa-treatment-orange-beach-foley-gulf-shores\nwoman-relaxing-day-spa-package\nmassage-deep-tissue-sweedish-orange-beach-perdido-key-gulf-shores\nmassage-hot-stone-relaxing-day-spa-treatment-orange-beach-foley-gulf-shores\nwoman-relaxing-day-spa-package\nmassage-deep-tissue-sweedish-orange-beach-perdido-key-gulf-shores\nmassage-hot-stone-relaxing-day-spa-treatment-orange-beach-foley-gulf-shores\n\nOur experienced, professional massage therapists personalize each massage to meet every client’s needs with the goal of improving their overall wellness. CC’s offers a variety of massage types and time options at 30, 60, and 90-minute intervals including: relaxation, hot stone, deep tissue/Swedish, reiki, and neck, back, and shoulder. Couples massages are available upon request and based on availability.\n\nYou can also select from spa package options to help you sit back, relax, and unwind.\n\nSeptember 19, 2019\nAlbum navigation\nPREVIOUS\nPrevious album:\nWaxing\nNEXT\nNext album:\nFacials & Skincare\nRecent posts\nBalayage, Ombre, Shadow Root & More: Top 2022 Hair Color Trends from the Best Gulf Shores Salon\n\nApril 15, 2022\nFall 2020 Hair Trends\n\nAugust 24, 2020\nOmbré Powder Brows Vs. Microblading\n\nAugust 17, 2020\nFrench Manicures: What to Know\n\nAugust 10, 2020\nFrom the gallery\nFollow Us\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nTestimonials\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\nAshley VanHook\nBride\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nAngie Kluesner-Mitchell\nClient\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nMy hair & makeup looked better than I could have imagined on my wedding day thanks to these ladies!\nAshley VanHook\nBride\n\nI am a nail tech and only wanted to get a pedicure at someplace I could trust. I 100% recommend these sweet ladies! It was so relaxing and my feet still feel amazing.\n\nAngie Kluesner-Mitchell\nClient\nThey did an amazing job on my hair and makeup for my wedding on 9/7! I highly recommend!\nKatie Fountain\nBride\nContact\ngulfshoressalon@yahoo.com\n(251) 968-2077\n1556 Gulf Shores Pkwy., Bldg. 5\nGulf Shores, AL 36542\n\nFind us on:\n\nFacebook page opens in new window\nInstagram page opens in new window\nHours of Operation\n\nMon – Fri: 9AM to 5PM\n\nSat: 8AM to 3PM\n\n*Late appointments available upon request.\n\nBOOK NOW\nFacebook\n\nWebsite Designed by Kakapo Marketing, LLC\n\n© 2020 CC's Salon, Day Spa & Boutique. All rights reserved.\n\nGo to Top",
+          "title": "Massage & Spa Packages – CCs Salon, Day Spa & Boutique"
+        }
+      ],
+      "imageUrls": [
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/CCsWebsiteLogos_logo-main.png",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/CCsWebsiteLogos_logo-small.png",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/CCsWebsiteLogos_logo-header.png",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/haircut-hair-color-hairstyle-hair-design-salon-orange-beach-foley-gulf-shores-1024x512.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2019/09/cute-red-womans-haircut-ccs-salon-day-spa-boutique-.jpeg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2019/10/teen-college-girl-blonde-haircut-hair-color-gulf-shores-ccs-salon-day-spa-boutique-150x150.jpeg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/haircut-hair-color-hairstyle-hair-design-salon-orange-beach-foley-gulf-shores-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/manicure-pedicure-nail-painting-art-nail-salon-orange-beach-foley-gulf-shores-1024x512.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2019/10/nail-art-pedicure-manicure-orange-beach-foley-gulf-shores-alabama-150x150.jpeg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/manicure-pedicure-nail-painting-art-nail-salon-orange-beach-foley-gulf-shores-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/arm-hair-waxing-smooth-hair-removal-orange-beach-foley-gulf-shores-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/leg-hair-brazillian-bikini-waxing-ccs-salon-day-spa-boutique--150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/eyebrow-waxing-hair-removal-hairless-orange-beach-foley-gulf-shores-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/woman-relaxing-day-spa-package-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/massage-hot-stone-relaxing-day-spa-treatment-orange-beach-foley-gulf-shores-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/massage-deep-tissue-sweedish-orange-beach-perdido-key-gulf-shores-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/facial-spa-relax-day-treatment-orange-beach-perdido-key-gulf-shores-alabama-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/facial-treatment-skincare-oily-facemask-ccs-salon-day-spa-boutique-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/facial-cream-spa-relax-orange-beach-foley-gulf-shores-alabama-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/tan-girl-professional-makeup-artist-orange-beach-foley-gulf-shores-alabama-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/bridal-professional-makeup-artist-orange-beach-foley-gulf-shores-alabama-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/professional-makeup-artist-design-wedding-orange-beach-perdido-key-gulf-shores-alabama-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/wedding-flower-girl-haircut-orange-beach-foley-gulf-shores-alabama-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/bridal-wedding-hair-style-orange-beach-ccs-salon-day-spa-boutique-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/hair-style-hair-design-wedding-bride-special-event-prom-orange-beach-gulf-shores-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2019/10/eyebrow-waxing-microblading-orange-beach-perdido-key-gulf-shores-alabama-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/microblading-measuring-eyebrows-orange-beach-foley-gulf-shores-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/microblading-eyebrow-treatment-orange-beach-gulf-shores-alabama-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/97949110_2691067074460379_1300568491534843904_o-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/101870865_2697390967161323_6949423076824055808_o-1-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/90681693_2638943109672776_4024198079325405184_o-1-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/blond-haired-woman-entering-cryotherapy-sauna-booth-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/localized-cryotherapy-session-face-young-woman-treatment-uses-vaporized-nitrogen-lower-skin-temperature-150x150.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/close-up-young-female-receiving-local-cryotherapy-treatment-her-shoulder-nitrogen-vapors-applied-neck-shoulders-spa-1-scaled-e1658976399724.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/localized-cryotherapy-session-face-young-woman-treatment-uses-vaporized-nitrogen-lower-skin-temperature-scaled-e1658976172577-600x600.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/blond-haired-woman-entering-cryotherapy-sauna-booth-scaled-e1658976095912-600x600.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/portrait-happy-young-woman-whole-body-cryotherapy-cabin-with-her-eyes-closed-cryosauna-chamber-overall-increase-muscular-performance-scaled-e1658975980908-600x600.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/90681693_2638943109672776_4024198079325405184_o-1-e1674489157745-768x768.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/101870865_2697390967161323_6949423076824055808_o-1-768x768.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/07/97949110_2691067074460379_1300568491534843904_o-768x768.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/04/shadow-roots-gulf-shores-salon.png",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/04/balayage-gulf-shores-salon.png",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/04/traditional-highlights-gulf-shores-salon.png",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/04/baby-lowlights-gulf-shores-salon.png",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/04/ombre-gulf-shores-salon.png",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2022/04/Top-2022-Hair-Color-Trends-from-the-Best-Gulf-Shores-Salon-990x660.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/Cindy-Chapman-CCs-Salon-Gulf-Shores-Alabama-scaled-e1658939072958.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/Kathe-Hoffman-CCs-Salon-Gulf-Shores-Alabama-scaled-e1658939140640.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/Laura-Clark-CCs-Salon-Gulf-Shores-Alabama-scaled-e1658939234506.jpg",
+        "https://www.ccssalondayspaboutique.com/wp-content/uploads/2020/08/Azhara-Tagaybekova-CCs-Salon-Gulf-Shores-Alabama-scaled-e1658939199439.jpg"
+      ],
+      "scraped_at": "2026-05-16T07:47:18.930Z",
+      "business_name": "CCs Salon and Day Spa"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.7741+00:00",
+    "updated_at": "2026-05-18T21:29:37.059337+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "d768efb2-f6a0-41a4-9ff1-3aa7e03f8c55",
+      "tag": "hair salon",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "8fe5ea6b-1d21-4af9-938b-5f95bd120a9c",
+      "tag": "hair salon",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "8dc62cf8-32f7-4bda-ab98-b35c393d3236",
+      "tag": "day spa",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d38a55b0-2f40-4dea-9c57-936c928a6c92",
+      "tag": "day spa",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "6fc6e377-514a-403f-a7c8-ee0d8686956a",
+      "tag": "boutique",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "4a317b64-f3db-42dc-ba86-3e0b58057cfe",
+      "tag": "boutique",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "855d9735-4bb7-4fab-ac78-e9d94055e584",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "f77c6b52-133c-4375-a866-14544a5136cc",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "8a42b3f7-34f6-4dd7-a399-7567ce0f522c",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "ac96b1cc-5ae5-432d-9fc3-cc623a5f8958",
+      "tag": "Orange Beach",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "1285248b-bb32-42fa-b4f5-0b284e3c950d",
+      "tag": "manicures",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "b536ff54-a532-485f-b847-6f1067f1a7f0",
+      "tag": "manicures",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "8470d45f-9ba6-45fb-a37d-7d2c8a545c8f",
+      "tag": "pedicures",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "c40d8255-9272-4181-ac27-7ed8649c5e01",
+      "tag": "pedicures",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "06fb3d47-6ddb-4b92-a4fc-29678928992c",
+      "tag": "massage",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "9d01c7ce-2635-421c-8043-8c5d9b14d6ae",
+      "tag": "massage",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "3242359d-5f59-4bec-a212-552eb97fc2cc",
+      "tag": "facials",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "7ff19528-2702-4111-92e8-c17e0a837464",
+      "tag": "facials",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "6ea0a9df-202d-4176-a096-0662f0949783",
+      "tag": "waxing",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "7865d1b2-b411-4d76-a551-942c573ee3e6",
+      "tag": "waxing",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "5fa20e9c-1963-42c9-ad20-ef3c3e52cf57",
+      "tag": "makeup",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "32e25b32-9a9c-4a08-b495-4cb307810847",
+      "tag": "makeup",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "b8d56b90-d19d-4d83-9870-fae6e5b6b8fd",
+      "tag": "microblading",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "f98ceeee-19f5-4e45-8a50-7d1fcd2608f4",
+      "tag": "microblading",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "244cac26-aa6f-47d5-9f8a-12190b4d7c50",
+      "tag": "eyelash extensions",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "d424c6cd-ede7-4ed6-87ab-14a0636c649e",
+      "tag": "eyelash extensions",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "810c2a71-6d39-4565-a469-b11031b2fff1",
+      "tag": "cryotherapy",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "c4eda2b9-9480-4eab-86ce-1e7f618d3916",
+      "tag": "cryotherapy",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "117afbbb-0cf0-4e66-bca1-3a3a0532fb52",
+      "tag": "bridal services",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "2ca1674d-289e-40d2-b099-72bb9da0fcc5",
+      "tag": "bridal services",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "eea1048d-c66d-4c33-9399-54f4dcf72b2d",
+      "tag": "wedding hair",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "7d1d5a65-bd6f-4838-ba38-25910de37f0c",
+      "tag": "wedding hair",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "97aba32c-b032-4058-ac13-07259d134f95",
+      "tag": "special events",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "5a80dc73-2b9b-4569-8eaf-9362cca2c166",
+      "tag": "special events",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "ee95ecbd-4aff-4673-beb9-d59f876492ed",
+      "tag": "hair color",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "26b50000-153f-4498-9d96-e1bc40d061de",
+      "tag": "hair color",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "1bb4e2d0-e772-4b33-a45f-b07017310581",
+      "tag": "hair extensions",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "d3358922-73fe-4dba-a3b6-f6c5fc396845",
+      "tag": "hair extensions",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "ff6f52a7-276b-4410-b569-69ea52b7aa7c",
+      "tag": "Brazilian blowout",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "0c259c53-d7d3-4c68-b693-9a856eca3402",
+      "tag": "Brazilian blowout",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "effa555d-91be-4f0d-a3d8-3d312b5f7bb8",
+      "tag": "Salons",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "ff5b1514-a095-4ef5-9fe3-088395cbe95d",
+      "tag": "Salons",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "43459985-d409-4518-b161-d50c824607f4",
+      "tag": "Day Spas",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "0084bd6d-219d-43b5-b6cc-38f9c0dd22fa",
+      "tag": "Day Spas",
+      "tag_category": "category",
+      "sort_order": 21
+    },
+    {
+      "id": "7abaf429-af6e-4247-a2fb-fdbf4d2ac784",
+      "tag": "Beauty & Wellness",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "aebfa3e5-10c4-4c58-845b-4eb8cc303c18",
+      "tag": "Beauty & Wellness",
+      "tag_category": "category",
+      "sort_order": 22
+    },
+    {
+      "id": "84317da8-0e64-417d-83a7-20d44ddaf532",
+      "tag": "Hair Salons",
+      "tag_category": "category",
+      "sort_order": 23
+    },
+    {
+      "id": "80608082-67d4-4a56-ab03-90e5e2f6cd93",
+      "tag": "Hair Salons",
+      "tag_category": "category",
+      "sort_order": 23
+    },
+    {
+      "id": "ccc0dd84-7f17-4ece-a4e9-561577ca5594",
+      "tag": "Nail Salons",
+      "tag_category": "category",
+      "sort_order": 24
+    },
+    {
+      "id": "576550ef-4910-4439-8fe7-169a3477d805",
+      "tag": "Nail Salons",
+      "tag_category": "category",
+      "sort_order": 24
+    },
+    {
+      "id": "c48a8c59-7b8c-47a5-ab2d-70f4c1d2e668",
+      "tag": "Massage Therapy",
+      "tag_category": "category",
+      "sort_order": 25
+    },
+    {
+      "id": "f249b65e-3dce-4adf-b036-be1d47bfef7b",
+      "tag": "Massage Therapy",
+      "tag_category": "category",
+      "sort_order": 25
+    },
+    {
+      "id": "dee29a4b-d7c7-43d7-a796-d36f1daab361",
+      "tag": "Esthetics",
+      "tag_category": "category",
+      "sort_order": 26
+    },
+    {
+      "id": "30a34b5c-7007-4cd3-b81c-df708c348d8b",
+      "tag": "Esthetics",
+      "tag_category": "category",
+      "sort_order": 26
+    },
+    {
+      "id": "6891baee-9094-4d5a-83ad-867f6bed46b3",
+      "tag": "Boutique",
+      "tag_category": "category",
+      "sort_order": 27
+    },
+    {
+      "id": "6936df35-bec3-40a8-b91f-38141bdd9834",
+      "tag": "Boutique",
+      "tag_category": "category",
+      "sort_order": 27
+    },
+    {
+      "id": "8d253a1d-c3d2-4ea8-9eb9-14a93a966784",
+      "tag": "Bridal Services",
+      "tag_category": "category",
+      "sort_order": 28
+    },
+    {
+      "id": "6a7d1924-7ecd-40df-98d6-d85d888d95d8",
+      "tag": "Bridal Services",
+      "tag_category": "category",
+      "sort_order": 28
+    },
+    {
+      "id": "22a32423-4cee-4758-b7e1-c36ebdff134c",
+      "tag": "Shopping",
+      "tag_category": "category",
+      "sort_order": 29
+    },
+    {
+      "id": "2b55cc11-0a9b-49d2-85b3-1e970fb1785c",
+      "tag": "Shopping",
+      "tag_category": "category",
+      "sort_order": 29
+    },
+    {
+      "id": "3557d7b6-719f-42cd-828e-fd8e318d1110",
+      "tag": "beauty-wellness",
+      "tag_category": "industry",
+      "sort_order": 30
+    },
+    {
+      "id": "d33505e4-9458-4aaa-803b-721645e9aaa9",
+      "tag": "beauty-wellness",
+      "tag_category": "industry",
+      "sort_order": 30
+    },
+    {
+      "id": "8100ec79-fb94-4af2-801d-42794a2071eb",
+      "tag": "salon-spa",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "ca85e6c1-435f-4059-a98e-f67151cb1ddd",
+      "tag": "salon-spa",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "4484f025-9c9a-4028-9f8f-204d58e4023a",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "bfee6a29-be40-4cde-be20-3419a026ad9e",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "a50a6cd3-35b8-4d31-b26a-7f493a15950e",
+      "tag": "beauty salon",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "2b2f6deb-a2e8-4dff-a302-22d56e380ae2",
+      "tag": "beauty salon",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "649d2601-f204-49ce-b4f0-464b56de92bb",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "bcadd8dc-d887-4629-9138-ac82b568b0dc",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "bb2a975e-84b7-4002-b7f8-7374c4e0e2a5",
+      "tag": "nail salon",
+      "tag_category": "type",
+      "sort_order": 35
+    },
+    {
+      "id": "309892a0-f30e-4b54-b510-923f90efd1ee",
+      "tag": "nail salon",
+      "tag_category": "type",
+      "sort_order": 35
+    },
+    {
+      "id": "1b784ca0-f0ab-4233-bf09-bc5c24bd7157",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "1b015f36-41f7-4655-acad-9650827e6ffd",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 36
+    },
+    {
+      "id": "71d978b8-118f-4b7a-b3b4-8840706cacb6",
+      "tag": "spa",
+      "tag_category": "type",
+      "sort_order": 37
+    },
+    {
+      "id": "a558d0f6-5951-4339-a48f-854ebf302d7b",
+      "tag": "spa",
+      "tag_category": "type",
+      "sort_order": 37
+    },
+    {
+      "id": "2cfe01d5-939b-404b-b195-c8abbf8de9ea",
+      "tag": "hair care",
+      "tag_category": "type",
+      "sort_order": 38
+    },
+    {
+      "id": "c71ab4e9-2c2b-4612-a162-bb5768e09eab",
+      "tag": "hair care",
+      "tag_category": "type",
+      "sort_order": 38
+    },
+    {
+      "id": "b9db5356-63f0-4d26-b3e0-abdd3b656fdc",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 39
+    },
+    {
+      "id": "2c2d0e56-3641-40f7-9e14-010aa777dddf",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 39
+    },
+    {
+      "id": "8497ddd4-d9af-4584-94b1-588386c30c62",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 40
+    },
+    {
+      "id": "011f3981-acb2-4a27-a743-cfcbd5f889d2",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 40
+    },
+    {
+      "id": "3a6b2630-9ccb-4813-8de8-72888233a9fa",
+      "tag": "beauty_salon",
+      "tag_category": "google_type",
+      "sort_order": 41
+    },
+    {
+      "id": "6bceaa49-c7a8-4a6a-8c8a-2a87da5d68ef",
+      "tag": "beauty_salon",
+      "tag_category": "google_type",
+      "sort_order": 41
+    },
+    {
+      "id": "c064759f-ff1d-45bc-bd65-3d2a16109c5e",
+      "tag": "nail_salon",
+      "tag_category": "google_type",
+      "sort_order": 42
+    },
+    {
+      "id": "edf1c7b3-7355-4673-83ed-028b9147efe3",
+      "tag": "nail_salon",
+      "tag_category": "google_type",
+      "sort_order": 42
+    },
+    {
+      "id": "2b65063d-6cdc-4283-9e23-8adc1d62272b",
+      "tag": "hair_care",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "021fdb53-bbe9-4e78-b5a6-967b9a502b32",
+      "tag": "hair_care",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "268198e3-cee3-4be8-b275-26fff8c96474",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 44
+    },
+    {
+      "id": "495e0d8c-80de-40fe-9a6b-9c8936c45bfe",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 44
+    }
+  ],
+  "sections": [
+    {
+      "id": "5f33f7f6-1bec-44c9-b005-e1909542d581",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "08b4aa0e-a2ce-4089-8133-1fdac3bec905",
+      "entity_id": "00c6aaf5-d7b9-4dee-9aff-aca12b4c6526",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526_1779131488492.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:18.640648+00:00"
+    },
+    {
+      "id": "ad4c3544-8ff1-451d-a488-9abbe8ecfaf3",
+      "entity_id": "00c6aaf5-d7b9-4dee-9aff-aca12b4c6526",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526_1779132026599.0464.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:18.791546+00:00"
+    },
+    {
+      "id": "7cedf597-9b6b-4e3d-9e21-ecf5ae5ad3d1",
+      "entity_id": "00c6aaf5-d7b9-4dee-9aff-aca12b4c6526",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526/00c6aaf5-d7b9-4dee-9aff-aca12b4c6526_1779139772188.552.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:07:18.944726+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

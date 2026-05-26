@@ -1,32 +1,324 @@
 {
-  "id": "d4b9ab3c-6e11-418d-822f-c5bd4425098a",
-  "slug": "extreme-chaos-fishing-charters-_hmxWY",
-  "name": "Extreme Chaos Fishing Charters",
-  "entity_type": "activity",
-  "entity_subtype": "activity",
-  "icon": "🏪",
-  "description": "{\"description\":\"Extreme Chaos Fishing Charters offers inshore, nearshore, and offshore fishing adventures in Orange Beach, Alabama. Led by Captain Doug Maines (aka 'Captain Chaos'), the company provides expert-guided fishing trips targeting various saltwater species including Red Snapper, Vermilion Snapper, Triggerfish, King Mackerel, Redfish, and more. The service includes all fishing gear, bait, safety equipment, fish cleaning, and expert guidance.\",\"elevator_pitch\":\"Expert-guided charter fishing trips in Orange Beach, Alabama with Captain Doug Maines offering inshore, nearshore, and offshore fishing experiences for all skill levels.\",\"vibe\":\"Adventure-focused, family-friendly, professional fishing charter with experienced captain and crew dedicated to creating memorable fishing experiences.\",\"best_for\":[\"families\",\"first-time anglers\",\"experienced fishermen\",\"kids\",\"group adventures\"],\"established\":null,\"reservations\":\"Online booking available; phone booking accepted at (228) 365-2352\",\"insider_tip\":\"2026 Snapper Season starts in May with limited availability - call early to book your charter.\"}",
-  "phone": "(228) 365-2352",
-  "email": null,
-  "website_url": "https://www.extremechaos.fish/",
-  "address_line_1": "26619 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "26619",
-  "rating": 5,
-  "review_count": 156,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/d4b9ab3c-6e11-418d-822f-c5bd4425098a/d4b9ab3c-6e11-418d-822f-c5bd4425098a_1779139779253.0586.jpg",
-  "photos": [],
+  "entity": {
+    "id": "d4b9ab3c-6e11-418d-822f-c5bd4425098a",
+    "place_id": "ChIJH63G_acHmogRqQ-cF_hmxWY",
+    "google_maps_uri": "https://maps.google.com/?cid=7405438378014674857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "extreme-chaos-fishing-charters-_hmxWY",
+    "name": "Extreme Chaos Fishing Charters",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "activity",
+    "secondary_types": [],
+    "google_type": "fishing_charter",
+    "google_types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(228) 365-2352",
+    "international_phone": null,
+    "website_url": "https://www.extremechaos.fish/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "26619 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "26619",
+    "latitude": 30.2754209,
+    "longitude": -87.5692043,
+    "short_address": "26619 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 5,
+    "review_count": 156,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "{\"description\":\"Extreme Chaos Fishing Charters offers inshore, nearshore, and offshore fishing adventures in Orange Beach, Alabama. Led by Captain Doug Maines (aka 'Captain Chaos'), the company provides expert-guided fishing trips targeting various saltwater species including Red Snapper, Vermilion Snapper, Triggerfish, King Mackerel, Redfish, and more. The service includes all fishing gear, bait, safety equipment, fish cleaning, and expert guidance.\",\"elevator_pitch\":\"Expert-guided charter fishing trips in Orange Beach, Alabama with Captain Doug Maines offering inshore, nearshore, and offshore fishing experiences for all skill levels.\",\"vibe\":\"Adventure-focused, family-friendly, professional fishing charter with experienced captain and crew dedicated to creating memorable fishing experiences.\",\"best_for\":[\"families\",\"first-time anglers\",\"experienced fishermen\",\"kids\",\"group adventures\"],\"established\":null,\"reservations\":\"Online booking available; phone booking accepted at (228) 365-2352\",\"insider_tip\":\"2026 Snapper Season starts in May with limited availability - call early to book your charter.\"}",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/d4b9ab3c-6e11-418d-822f-c5bd4425098a/d4b9ab3c-6e11-418d-822f-c5bd4425098a_1779139779253.0586.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true
+    },
+    "parking": null,
+    "payment": {
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 6:00 AM – 8:00 PM",
+      "Tuesday: 6:00 AM – 8:00 PM",
+      "Wednesday: 6:00 AM – 8:00 PM",
+      "Thursday: 6:00 AM – 8:00 PM",
+      "Friday: 6:00 AM – 8:00 PM",
+      "Saturday: 6:00 AM – 8:00 PM",
+      "Sunday: 6:00 AM – 8:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "categories": [
+        {
+          "name": "Inshore Fishing Charters",
+          "items": [
+            {
+              "name": "Inshore Fishing - 2 Hours",
+              "tags": [
+                "inshore",
+                "2 hours",
+                "up to 4 people",
+                "catch and release",
+                "kids-friendly"
+              ],
+              "price": 400,
+              "dietary": [],
+              "popular": false,
+              "description": "Tranquil inshore fishing in calm waters. Perfect for catching Redfish, Trout, and Flounder. Great for kids and first-time anglers. Catch & Release trip.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Nearshore Fishing Charters",
+          "items": [
+            {
+              "name": "Inshore-Nearshore Fishing - 6 Hours",
+              "tags": [
+                "nearshore",
+                "6 hours",
+                "2 people",
+                "keep what you catch"
+              ],
+              "price": 800,
+              "dietary": [],
+              "popular": false,
+              "description": "Venture farther from shore to target Snapper, King Mackerel, and Amberjack. Adventure awaits with horizon views.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        },
+        {
+          "name": "Offshore Bottom Fishing Charters",
+          "items": [
+            {
+              "name": "Offshore Bottom Fishing - 4 Hours",
+              "tags": [
+                "offshore",
+                "4 hours",
+                "up to 4 people",
+                "keep what you catch",
+                "deep sea"
+              ],
+              "price": 1200,
+              "dietary": [],
+              "popular": false,
+              "description": "Fish the deep waters for trophy fish including Red Snapper, Triggerfish, Vermillion Snapper, and Amberjack. Keep what you catch.",
+              "subcategory": null
+            },
+            {
+              "name": "Offshore Bottom Fishing - 6 Hours",
+              "tags": [
+                "offshore",
+                "6 hours",
+                "up to 4 people",
+                "keep what you catch",
+                "most popular",
+                "adventure"
+              ],
+              "price": 1400,
+              "dietary": [],
+              "popular": false,
+              "description": "Extended offshore adventure for ultimate angling experience. Target trophy fish in deep blue waters. Keep what you catch.",
+              "subcategory": null
+            }
+          ],
+          "description": null
+        }
+      ]
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "raw-page-data",
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.45857+00:00",
+    "updated_at": "2026-05-18T21:29:44.149763+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "6abb2a6a-b6cb-4d58-b735-510af9d75cbc",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "336f80f2-c67b-4ff8-8c70-ffd5a2b18558",
+      "tag": "fishing charter",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "5bf22c96-4eff-41e6-8ae5-b4443e567d06",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "f760afac-3a4b-43e7-962a-a6360799c779",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "270b2c75-9d72-44bb-90be-c85b4f19a0a3",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "d4aae00a-8d9a-4101-b722-f511505c4a91",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "691bb60a-44d1-41ee-942b-59f743c19c51",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "fae2a322-806e-4c83-addc-e29d25de63f4",
+      "tag": "fishing",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "4e653a18-9260-48bd-95e2-22e4c9c222b7",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "595c1b0b-0903-4448-a7d6-0b3fa386f761",
+      "tag": "fishing_charter",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "db4d2d4c-020e-478a-9621-53ab2d22fa0d",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "5d8f0ba9-e037-424b-8229-2b6889397579",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 5
+    }
+  ],
+  "sections": [
+    {
+      "id": "347b9226-c74b-400c-bf6e-b19ffc43e842",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

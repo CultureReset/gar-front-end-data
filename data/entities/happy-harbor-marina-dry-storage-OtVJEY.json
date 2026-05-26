@@ -1,32 +1,464 @@
 {
-  "id": "1983c0d9-dbb9-4b19-be3e-82c10e5d6a10",
-  "slug": "happy-harbor-marina-dry-storage-OtVJEY",
-  "name": "Happy Harbor Marina & Dry Storage",
-  "entity_type": "activity",
-  "entity_subtype": "marina",
-  "icon": "🏪",
-  "description": "Three small land masses are waiting to welcome you ashore. Head out on a high-speed adventure with a Jet Ski rental in...",
-  "phone": "(251) 981-6111",
-  "email": null,
-  "website_url": "http://happyharbors.com/",
-  "address_line_1": "27212 Marina Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.6,
-  "review_count": 541,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10_1779139877451.416.jpg",
-  "photos": [],
+  "entity": {
+    "id": "1983c0d9-dbb9-4b19-be3e-82c10e5d6a10",
+    "place_id": "ChIJnXObmrYHmogRJRe4NOtVJEY",
+    "google_maps_uri": "https://maps.google.com/?cid=5054259150506694437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "happy-harbor-marina-dry-storage-OtVJEY",
+    "name": "Happy Harbor Marina & Dry Storage",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": "marina",
+    "secondary_types": "",
+    "google_type": "marina",
+    "google_types": [
+      "marina",
+      "storage",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-6111",
+    "international_phone": null,
+    "website_url": "http://happyharbors.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27212 Marina Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.282065,
+    "longitude": -87.560762,
+    "short_address": "27212 Marina Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.6,
+    "review_count": 541,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Three small land masses are waiting to welcome you ashore. Head out on a high-speed adventure with a Jet Ski rental in...",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10_1779139877451.416.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "paidParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: 8:00 AM – 6:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "activities",
+      "gcr-organized",
+      "structured-data",
+      "gcr-import-ready",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data",
+      "tripshock-operators"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:16.540391+00:00",
+    "updated_at": "2026-05-18T21:31:22.32061+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "39a628bd-2a2a-4537-b313-db7a7b4ab6fd",
+      "tag": "pontoon-rentals",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "2ebd5dae-ee3a-40aa-b535-f3793a2a1675",
+      "tag": "jet-ski-rentals",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "d4314253-3b4e-44f1-b0fe-eb55594ff559",
+      "tag": "watersports",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "990e4d2b-0ffa-45d1-b30f-fc1cc70877c6",
+      "tag": "center-console",
+      "tag_category": "search",
+      "sort_order": 3
+    },
+    {
+      "id": "8d8f395c-96d3-4c42-9825-bc6a32d30159",
+      "tag": "kayak-rentals",
+      "tag_category": "search",
+      "sort_order": 4
+    },
+    {
+      "id": "87546ef1-537f-44c8-85bf-b7f129d22a66",
+      "tag": "water-activities",
+      "tag_category": "search",
+      "sort_order": 5
+    },
+    {
+      "id": "4201ac01-8d8d-4d16-bc15-8a513e462936",
+      "tag": "family-fun",
+      "tag_category": "search",
+      "sort_order": 6
+    },
+    {
+      "id": "20ced299-3d90-46b8-825e-72779e63ebd4",
+      "tag": "orange-beach",
+      "tag_category": "search",
+      "sort_order": 7
+    },
+    {
+      "id": "cc20b0b0-20f9-48b5-8529-11d2eab1fc56",
+      "tag": "boat-rentals",
+      "tag_category": "search",
+      "sort_order": 8
+    },
+    {
+      "id": "db673083-316b-4aaf-a9b5-ceb7b8bc3f62",
+      "tag": "waverunners",
+      "tag_category": "search",
+      "sort_order": 9
+    },
+    {
+      "id": "88d0048e-1bc6-4e93-83e0-0d9e737d534c",
+      "tag": "paddlesports",
+      "tag_category": "search",
+      "sort_order": 10
+    },
+    {
+      "id": "9c645a10-a137-45a0-a536-f587a0be73a4",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 11
+    },
+    {
+      "id": "fa8b6e1d-691b-4a63-aef4-4213bfb4a674",
+      "tag": "kids_friendly",
+      "tag_category": "amenity",
+      "sort_order": 12
+    },
+    {
+      "id": "f87ee92c-9c11-45be-8710-ad244bd76059",
+      "tag": "outdoor_seating",
+      "tag_category": "amenity",
+      "sort_order": 13
+    },
+    {
+      "id": "431c99d6-7472-4d4e-8ee9-5babce64b68c",
+      "tag": "reservations",
+      "tag_category": "amenity",
+      "sort_order": 14
+    },
+    {
+      "id": "e265f605-03db-43f7-b44a-5ef22dfc67d0",
+      "tag": "booking_required",
+      "tag_category": "amenity",
+      "sort_order": 15
+    },
+    {
+      "id": "1edbc80b-4278-4f16-b60d-70160c11bd0e",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 16
+    },
+    {
+      "id": "f4dc3f25-b663-4f2d-a735-2ff3ab6aa9b6",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 17
+    },
+    {
+      "id": "7e999f5c-635f-4234-b068-f45c04bad235",
+      "tag": "attraction",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "9ced078e-4642-4316-92ca-20e9e893b5a0",
+      "tag": "center-console-rentals",
+      "tag_category": "search",
+      "sort_order": 19
+    },
+    {
+      "id": "40307405-6d5b-43a1-9126-9844b8d3b40d",
+      "tag": "family-friendly",
+      "tag_category": "search",
+      "sort_order": 20
+    },
+    {
+      "id": "4a35d9e3-3df1-41f6-bc3d-3e1e103331fe",
+      "tag": "marine-service",
+      "tag_category": "search",
+      "sort_order": 21
+    },
+    {
+      "id": "38f292d7-5cde-4eba-881e-395a4d11c295",
+      "tag": "marina",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "9ae86e05-947b-4850-b9da-30b983da6cbf",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "3cba83d6-f8a8-49c1-9758-40f9f1a0c464",
+      "tag": "jet_ski",
+      "tag_category": "activity",
+      "sort_order": 24
+    },
+    {
+      "id": "75a21cb6-d6a2-45c2-a703-75d2d00a2b10",
+      "tag": "water-sports",
+      "tag_category": "search",
+      "sort_order": 25
+    },
+    {
+      "id": "49d32e9f-3093-4d7a-8dc2-0df0b0606849",
+      "tag": "thrill_seekers",
+      "tag_category": "search",
+      "sort_order": 26
+    },
+    {
+      "id": "45f4e480-0525-4045-9bd1-3ad422d46f2d",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "7c554d44-1947-4efb-a893-f1b006bfe74c",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 28
+    },
+    {
+      "id": "1c6c7467-6666-43de-bed1-51d92c196f7b",
+      "tag": "3_seater_models_available",
+      "tag_category": "feature",
+      "sort_order": 29
+    },
+    {
+      "id": "bc7289f5-378a-4108-8d99-8fc86d57efa0",
+      "tag": "thrill",
+      "tag_category": "search",
+      "sort_order": 30
+    },
+    {
+      "id": "049ea70b-34dd-4762-b328-b87fb7fbdb0b",
+      "tag": "great_experience_for_ages_5",
+      "tag_category": "feature",
+      "sort_order": 31
+    },
+    {
+      "id": "413535a5-21f4-41bd-8df3-041c83ce566c",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 32
+    },
+    {
+      "id": "9c68e904-7cf3-42d4-b95f-4e7b9644f352",
+      "tag": "storage",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "942fd83b-13df-4822-8394-f11298ac2d05",
+      "tag": "waterfront",
+      "tag_category": "vibe",
+      "sort_order": 34
+    },
+    {
+      "id": "08a3b0a4-da70-4075-ae66-60d736eb5977",
+      "tag": "jet-ski",
+      "tag_category": "search",
+      "sort_order": 35
+    },
+    {
+      "id": "d2cdbfa8-7731-4372-990e-6263806c9a5e",
+      "tag": "water_sports",
+      "tag_category": "search",
+      "sort_order": 36
+    },
+    {
+      "id": "a5166ec3-44c9-4425-ab77-eab87d46a74e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 37
+    }
+  ],
+  "sections": [
+    {
+      "id": "9be12499-979d-4c2e-ba80-b42f2c45b6ce",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "bfbe187b-db39-4791-a2d6-a16e35fe4400",
+      "entity_id": "1983c0d9-dbb9-4b19-be3e-82c10e5d6a10",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10_1779139811925.264.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:01.086052+00:00"
+    },
+    {
+      "id": "6e56470b-071c-498f-a5a2-25341c9b5154",
+      "entity_id": "1983c0d9-dbb9-4b19-be3e-82c10e5d6a10",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10_1779131527030.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:00.468226+00:00"
+    },
+    {
+      "id": "51256e2a-0f38-4b0c-af4f-735039a7dd52",
+      "entity_id": "1983c0d9-dbb9-4b19-be3e-82c10e5d6a10",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10_1779139877451.416.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:01.233862+00:00"
+    },
+    {
+      "id": "b25f1437-8479-4da7-a7cf-0888c11cc58d",
+      "entity_id": "1983c0d9-dbb9-4b19-be3e-82c10e5d6a10",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10_1779131592530.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:00.615735+00:00"
+    },
+    {
+      "id": "9522acf2-1e22-44e4-83dc-9957db04ee88",
+      "entity_id": "1983c0d9-dbb9-4b19-be3e-82c10e5d6a10",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10_1779132064194.507.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:00.761433+00:00"
+    },
+    {
+      "id": "55e3cbeb-0aaa-4d24-9d0f-13585b02818e",
+      "entity_id": "1983c0d9-dbb9-4b19-be3e-82c10e5d6a10",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10/1983c0d9-dbb9-4b19-be3e-82c10e5d6a10_1779132129953.6265.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:09:00.909431+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

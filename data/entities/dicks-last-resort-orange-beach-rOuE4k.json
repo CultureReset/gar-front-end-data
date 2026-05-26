@@ -1,32 +1,406 @@
 {
-  "id": "e93f87b4-c0da-40fd-bf69-426ee796af38",
-  "slug": "dicks-last-resort-orange-beach-rOuE4k",
-  "name": "Dick's Last Resort - Orange Beach",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Restaurant chain where gruff staffers serve a Southern-style menu in a rowdy roadhouse environment.",
-  "phone": "(251) 240-6013",
-  "email": null,
-  "website_url": "https://dickslastresort.com/locations/",
-  "address_line_1": "4720 Main St Suite M 101, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.7,
-  "review_count": 1856,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/abf92c3e-9766-42d4-b2e4-4f9fd5a84fc4/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "e93f87b4-c0da-40fd-bf69-426ee796af38",
+    "place_id": "ChIJNYvfdigHmogRqN-EqrOuE4k",
+    "google_maps_uri": "https://maps.google.com/?cid=9877430494436843432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "dicks-last-resort-orange-beach-rOuE4k",
+    "name": "Dick's Last Resort - Orange Beach",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 240-6013",
+    "international_phone": null,
+    "website_url": "https://dickslastresort.com/locations/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4720 Main St Suite M 101, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2932071,
+    "longitude": -87.6279481,
+    "short_address": "4720 Main St Suite M 101, Orange Beach",
+    "plus_code": null,
+    "rating": 4.7,
+    "review_count": 1856,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Restaurant chain where gruff staffers serve a Southern-style menu in a rowdy roadhouse environment.",
+    "description": "Restaurant chain where gruff staffers serve a Southern-style menu in a rowdy roadhouse environment.",
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/abf92c3e-9766-42d4-b2e4-4f9fd5a84fc4/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/dicks_lastresort/",
+    "social_facebook": "https://www.facebook.com/dickslastresort",
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 10:00 PM",
+      "Tuesday: 11:00 AM – 10:00 PM",
+      "Wednesday: 11:00 AM – 10:00 PM",
+      "Thursday: 11:00 AM – 10:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 11:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "structured-data",
+      "gcr-import-ready",
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.999548+00:00",
+    "updated_at": "2026-05-17T22:22:53.70098+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "31dc858b-e212-432a-bf8a-73eb1a583690",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 0
+    },
+    {
+      "id": "66c0e373-5829-406e-9723-2e904e7d5e76",
+      "tag": "good for sports",
+      "tag_category": "vibe",
+      "sort_order": 0
+    },
+    {
+      "id": "ebfe9d77-1828-4b75-a2f3-38c664de4031",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 1
+    },
+    {
+      "id": "89eadf46-9b19-4f85-a1b8-2fb77f7df03f",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 1
+    },
+    {
+      "id": "e2f438f8-b9fc-4e43-8891-846102550eb5",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 2
+    },
+    {
+      "id": "83f64724-64b7-40f6-ac7b-e300350871ad",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 2
+    },
+    {
+      "id": "295fbe3d-aabe-4281-9a5c-266f8d0dde15",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "87652032-868d-4284-ab37-fe21543c6c78",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 3
+    },
+    {
+      "id": "ec3bcbe0-24be-49b8-9b74-af2f56bbb6ce",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 4
+    },
+    {
+      "id": "fd93d456-1d77-46dc-b6cb-d7eae4c74c89",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 4
+    },
+    {
+      "id": "d0b20204-93b9-4a30-8eda-ae12362a23b5",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "8fe06ddc-f3ca-4323-bd30-e9e03eff2214",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "3e0cc293-3931-4716-bc0a-cabfbefc977d",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "fe8d61f5-8ce6-40a5-af9e-48e2fd0ead50",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "1bd45cc4-18ab-430a-9be3-86f77b3cf6f4",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "057236ff-fb3c-4883-ab65-bfeb24ff660d",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "4e2bf18a-76a5-417c-aa60-f5b949152ae3",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "7c3248a9-4fb5-4741-8cd4-3241c7c757eb",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "5322247b-4170-4ea9-b627-ce3f46f1650b",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "fd84da49-5dad-4a03-84ff-6779f31bb7a0",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "bf6c1355-4cc1-4d44-a618-457e1956ceb3",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "3e395f86-b95b-452d-b67a-b159ec121ec1",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 10
+    },
+    {
+      "id": "45c2ff04-4ee7-4c01-83a7-5c8c4207c11f",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "f6d9576d-f50d-4ddb-9820-60d257cbadf1",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "f7c8c8fa-2103-4d82-8fdc-ad2007c392d6",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "b4c572d0-db44-400b-915e-8ef3e25475f2",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "336254d5-1215-4c73-8318-b563e7310f51",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "cf0bf216-f1c1-4982-9670-0fefc24dd7bf",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 13
+    },
+    {
+      "id": "00b501b6-8616-4f3a-bc22-fc921a7f7940",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "2990d496-dbb5-40e5-b226-0e90f4339d8d",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "548aebf4-f04a-448e-a16e-1da795ef11f6",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "e250253a-2d46-4ff9-b717-d3e494da7b3d",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 15
+    },
+    {
+      "id": "28fab2eb-57fe-47a0-bcb3-555d79296b02",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "58014d4c-d01b-430d-9358-de6b7a75bcec",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 16
+    },
+    {
+      "id": "ad978b67-55e9-4140-a2d7-99b209114ffe",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "15eb9b8e-b5d8-4795-92c2-e1d7cf777de7",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 17
+    },
+    {
+      "id": "b7f7058b-9aaf-4b25-b9e6-a6058d0011ea",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 18
+    },
+    {
+      "id": "54967b64-697e-4bd9-9561-9d8ef9d91019",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 18
+    }
+  ],
+  "sections": [
+    {
+      "id": "c0c19e17-f948-4e38-8980-feac1a98daf9",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

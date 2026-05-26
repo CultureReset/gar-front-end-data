@@ -1,162 +1,348 @@
 {
-  "id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
-  "slug": "shipps-dockside-grill",
-  "name": "Shipp's Dockside Grill",
-  "entity_type": "business",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "Shipp’s Dockside Grill in 27075 Marina Rd, Orange Beach",
-  "phone": "(251) 412-7447",
-  "email": "info@shippsdockside.com",
-  "website_url": null,
-  "address_line_1": "27075 Marina Road",
-  "city": "Orange Beach",
-  "state": "",
-  "zip": null,
-  "rating": 4.5,
-  "review_count": null,
-  "hero_image_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN2167Tcx9oVGI-r9QvqNAPysN3vIewBnVZFKE9yYia7R7aip-LQtoafvDNadV0_daG63Xg0MX3QyKwoOmIXJLuPt6RVUdXQBYhSQ1haPwlKeY6x4yyWhJnJiG1YMWRIr5MDc8UtM7JRJnfuW5aoONNixdlBVqgPNDgUHXm5CQ1US7OcO0gfp0AuFaw7T9S8-NhPYoxGlU60Wr5-Z1Il-vooOMBr4BFJtckE9qMHCTbDiGJWVBChK7Eb-kYp571osAc6Ch8hIq-Ol2SW_tGXgugmxRW9eSqAbm-SxhlrMeR8oA&key=AIzaSyA53S45dU9xRY5D-YKfEPPIHA1cP_nBvTY",
+  "entity": {
+    "id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+    "place_id": null,
+    "google_maps_uri": null,
+    "slug": "shipps-dockside-grill",
+    "name": "Shipps Dockside Grill",
+    "subtitle": "Seafood, Steaks, Sushi - Best Menu in Orange Beach",
+    "entity_type": "gcr_business",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": null,
+    "google_types": [],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 412-7447",
+    "international_phone": null,
+    "website_url": "https://www.shippsdockside.com/menu",
+    "email": "info@shippsdockside.com",
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27075 Marina Road",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561-3557",
+    "latitude": null,
+    "longitude": null,
+    "short_address": null,
+    "plus_code": null,
+    "rating": null,
+    "review_count": 0,
+    "price_level": null,
+    "business_status": null,
+    "editorial_summary": null,
+    "description": "Different Menus Different Decks",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-20T20:25:14.308954+00:00",
+    "updated_at": "2026-05-21T18:42:11.143821+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [
+    {
+      "id": "fa918dda-aea6-4d34-99e8-07cd3f1664d6",
+      "label": "Waterfront",
+      "sort_order": 0
+    }
+  ],
+  "perfect_for": [
+    {
+      "id": "b1749a77-5440-44ed-9fa4-b9633e1dbe6c",
+      "label": "Families",
+      "sort_order": 0
+    }
+  ],
+  "tags": [],
+  "sections": [
+    {
+      "id": "ff4b7601-0a5d-46e5-9ecd-3683cc9f2263",
+      "section_key": "hours",
+      "section_label": "Hours",
+      "section_type": "hours",
+      "sort_order": 98,
+      "hours": []
+    },
+    {
+      "id": "4a1c2b9d-9f6e-4f83-94b2-acdee4e360ab",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 99,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
   "photos": [],
-  "hours": "Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM; Tuesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM; Wednesday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM; Thursday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM; Friday: 11:00 AM – 9:00 PM; Saturday: 11:00 AM – 9:00 PM; Sunday: 11:00 AM – 9:00 PM",
-  "menu_sections": [],
-  "drink_sections": [],
+  "menu": {
+    "sections": [
+      {
+        "id": "91a535c6-4a12-46f6-8d1e-c35e0eac921a",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Upper Deck",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 0,
+        "created_at": "2026-05-20T20:25:14.382111+00:00"
+      },
+      {
+        "id": "beb53b0c-2504-41c3-8105-9e40e4dbbbe4",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Upper Deck",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 0,
+        "created_at": "2026-05-21T18:34:40.762696+00:00"
+      },
+      {
+        "id": "8ca5d7f8-350b-4ba9-acb6-bcaeb5966656",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Upper Deck",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 0,
+        "created_at": "2026-05-20T20:25:15.079503+00:00"
+      },
+      {
+        "id": "d75a7300-5d6e-44d4-905a-ffba9db49685",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Upper Deck Brunch",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 1,
+        "created_at": "2026-05-20T20:25:14.43902+00:00"
+      },
+      {
+        "id": "300765aa-3924-4a06-a77c-77707edac0e2",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Upper Deck Brunch",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 1,
+        "created_at": "2026-05-20T20:25:15.132434+00:00"
+      },
+      {
+        "id": "be9770ad-0a6d-4a92-aaee-707d10dda9c4",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Upper Deck Brunch",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 1,
+        "created_at": "2026-05-21T18:34:40.813312+00:00"
+      },
+      {
+        "id": "d7f65b90-068c-4442-9168-c4895b906903",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Lower Deck",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 2,
+        "created_at": "2026-05-21T18:34:40.865135+00:00"
+      },
+      {
+        "id": "8fab53a8-3e27-4208-b774-0037d7725866",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Lower Deck",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 2,
+        "created_at": "2026-05-20T20:25:15.185385+00:00"
+      },
+      {
+        "id": "aaf4c461-0dfd-4f04-847f-bc850e397c67",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Lower Deck",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 2,
+        "created_at": "2026-05-20T20:25:14.485418+00:00"
+      },
+      {
+        "id": "41af032b-eb9e-48a9-b3e6-196e132fd6f1",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 3,
+        "created_at": "2026-05-21T18:34:40.916414+00:00"
+      },
+      {
+        "id": "35fe2f38-4195-40e8-8751-2d686dec1534",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 3,
+        "created_at": "2026-05-20T20:25:14.548408+00:00"
+      },
+      {
+        "id": "0bbae0a4-9a17-4430-8c3f-ba5a5549d21e",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 3,
+        "created_at": "2026-05-20T20:25:15.236029+00:00"
+      },
+      {
+        "id": "591ffa64-fb68-41ee-8fd3-1efaedc66cb7",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 99,
+        "created_at": "2026-05-20T20:36:10.211064+00:00"
+      },
+      {
+        "id": "46d01f22-eb14-4150-b358-1a60af65829c",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 99,
+        "created_at": "2026-05-20T20:36:10.361853+00:00"
+      },
+      {
+        "id": "c71bd8e6-1b0a-451b-997c-f52fe4a21903",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 99,
+        "created_at": "2026-05-20T20:36:10.514879+00:00"
+      },
+      {
+        "id": "c12919db-20a1-4589-9a25-7ef83839816b",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 99,
+        "created_at": "2026-05-20T20:36:10.630498+00:00"
+      },
+      {
+        "id": "3d123cfe-7c57-4cca-b3ca-b35d431a7d81",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 99,
+        "created_at": "2026-05-20T20:36:09.993813+00:00"
+      },
+      {
+        "id": "a925ddd8-f56c-43cb-913f-677160f82d05",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 99,
+        "created_at": "2026-05-20T20:36:09.807524+00:00"
+      },
+      {
+        "id": "b2e76e9a-273b-4604-8a73-78e1069b2ac2",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 99,
+        "created_at": "2026-05-20T20:36:09.594273+00:00"
+      },
+      {
+        "id": "6d9a57e8-b5c7-49a7-ac11-94a74e732646",
+        "entity_id": "ea478b58-ccab-4bfd-a0db-77bf48db1c38",
+        "section_name": "Bar Snacks",
+        "icon": null,
+        "section_description": null,
+        "sort_order": 99,
+        "created_at": "2026-05-20T20:36:09.37072+00:00"
+      }
+    ],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [
-    "bar",
-    "establishment",
-    "food",
-    "point_of_interest",
-    "restaurant",
-    "store",
-    {
-      "tag": "seafood",
-      "tag_category": null
-    },
-    {
-      "tag": "steaks",
-      "tag_category": null
-    },
-    {
-      "tag": "sushi",
-      "tag_category": null
-    },
-    {
-      "tag": "waterfront dining",
-      "tag_category": null
-    },
-    {
-      "tag": "casual dining",
-      "tag_category": null
-    },
-    {
-      "tag": "upscale casual",
-      "tag_category": null
-    },
-    {
-      "tag": "Orange Beach",
-      "tag_category": null
-    },
-    {
-      "tag": "marina",
-      "tag_category": null
-    },
-    {
-      "tag": "counter service",
-      "tag_category": null
-    },
-    {
-      "tag": "full service",
-      "tag_category": null
-    },
-    {
-      "tag": "happy hour",
-      "tag_category": null
-    },
-    {
-      "tag": "game day",
-      "tag_category": null
-    },
-    {
-      "tag": "family-friendly",
-      "tag_category": null
-    },
-    {
-      "tag": "dock access",
-      "tag_category": null
-    },
-    {
-      "tag": "boat access",
-      "tag_category": null
-    },
-    {
-      "tag": "Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Seafood Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Steakhouses",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Sushi Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Bars & Grills",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Waterfront Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Casual Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Fine Dining",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Happy Hour Spots",
-      "tag_category": "category"
-    },
-    {
-      "tag": "Family Restaurants",
-      "tag_category": "category"
-    },
-    {
-      "tag": "food-and-drink",
-      "tag_category": "industry"
-    },
-    {
-      "tag": "restaurant",
-      "tag_category": "type"
-    }
-  ],
-  "featured": false,
-  "is_active": true,
-  "website": "https://www.shippsdockside.com/",
-  "address": "27075 Marina Rd, Orange Beach, AL 36561, USA",
-  "menus": [],
-  "google_places_id": "ChIJm4lIKgAHmogR_AoSmroSrkU",
-  "businesses": [
-    {
-      "source": "jsonld.json",
-      "name": "Shipp's Dockside Grill",
-      "phone": "",
-      "address": "",
-      "placeId": "",
-      "website": ""
-    }
-  ],
-  "consolidatedAt": "2026-05-22T11:53:21.038Z"
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

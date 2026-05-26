@@ -1,32 +1,924 @@
 {
-  "id": "5b201993-0222-48d9-90e4-a0aed512844e",
-  "slug": "chocolate-corner-ice-cream-N_iWuc",
-  "name": "Chocolate Corner & Ice Cream",
-  "entity_type": "restaurant",
-  "entity_subtype": "ice_cream_shop",
-  "icon": "🏪",
-  "description": "The Chocolate Corner is a family-owned operation where we strive to create a friendly and inviting atmosphere. We supply quality products that are made by people who enjoy making them as much as you enjoy eating them! My name is Todd Nelson and I am the owner/operator of The Chocolate Corner. I am a Gulf Shores native, and in fact, my family was one of the founding members of this island back in the 1800's! We started this company with a few things in mind. We want to provide great, friendly service, serve quality products, and make our customers' day a little sweeter. I think we achieve these goals every day with our valued customers that walk through the door and those that order from us online! My wife, Susan, teaches at our local school and she is able to help in the summer months during our peak season. We have been blessed with two beautiful daughters, Ava Callen and Eliza Adeline, who both seem to like the idea that Mom and Dad own a chocolate store! Our chocolates are made fresh daily with recipes either handed down or created along the way. Pecan Caramel Paws, Real Butter Fudge, Chocolate Barks, Gourmet Truffles, and Creamy Turtles are just a few of the favorites that seem to keep people coming back. We hope you enjoy! If you have any questions, please contact us and we will be happy to assist in any way we can!",
-  "phone": "(251) 948-2462",
-  "email": null,
-  "website_url": "http://chocolatecorneronline.com/",
-  "address_line_1": "200 W Fort Morgan Rd, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.8,
-  "review_count": 417,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139475767.5635.jpg",
-  "photos": [],
+  "entity": {
+    "id": "5b201993-0222-48d9-90e4-a0aed512844e",
+    "place_id": "ChIJN6G97s8EmogR3z7Q0N_iWuc",
+    "google_maps_uri": "https://maps.google.com/?cid=16670886421574205151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "chocolate-corner-ice-cream-N_iWuc",
+    "name": "Chocolate Corner & Ice Cream",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "ice_cream_shop",
+    "secondary_types": "",
+    "google_type": "chocolate_shop",
+    "google_types": [
+      "chocolate_shop",
+      "coffee_shop",
+      "ice_cream_shop",
+      "candy_store",
+      "cafe",
+      "dessert_shop",
+      "confectionery",
+      "food_store",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-2462",
+    "international_phone": null,
+    "website_url": "http://chocolatecorneronline.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "200 W Fort Morgan Rd, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2651407,
+    "longitude": -87.6901567,
+    "short_address": "200 W Fort Morgan Rd, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 417,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "The Chocolate Corner is a family-owned operation where we strive to create a friendly and inviting atmosphere. We supply quality products that are made by people who enjoy making them as much as you enjoy eating them! My name is Todd Nelson and I am the owner/operator of The Chocolate Corner. I am a Gulf Shores native, and in fact, my family was one of the founding members of this island back in the 1800's! We started this company with a few things in mind. We want to provide great, friendly service, serve quality products, and make our customers' day a little sweeter. I think we achieve these goals every day with our valued customers that walk through the door and those that order from us online! My wife, Susan, teaches at our local school and she is able to help in the summer months during our peak season. We have been blessed with two beautiful daughters, Ava Callen and Eliza Adeline, who both seem to like the idea that Mom and Dad own a chocolate store! Our chocolates are made fresh daily with recipes either handed down or created along the way. Pecan Caramel Paws, Real Butter Fudge, Chocolate Barks, Gourmet Truffles, and Creamy Turtles are just a few of the favorites that seem to keep people coming back. We hope you enjoy! If you have any questions, please contact us and we will be happy to assist in any way we can!",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139475767.5635.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/chocolatecornergs/",
+    "social_facebook": "https://www.facebook.com/ChocolateCornerGS/",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": true,
+    "delivery": true,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "structured-data",
+      "gcr-import-ready",
+      "gcr-organized"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139476072.6235.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139476558.6714.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139476821.906.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139477363.1255.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139477837.947.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139478287.715.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139478631.052.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139479079.9597.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139479534.5762.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:13.999548+00:00",
+    "updated_at": "2026-05-18T21:24:44.446964+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "b18eda41-b3bd-4a67-880c-7d8cc3d74bed",
+      "tag": "chocolate shop",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "dcc403a4-f561-4df7-8564-53b2b0d4ea04",
+      "tag": "chocolate shop",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "8e9ac06e-b663-4bb8-a4ad-c0b17874eb43",
+      "tag": "ice cream",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "75b8a5f9-b305-4975-bbf2-8b08054264d1",
+      "tag": "ice cream",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "4c5a99c2-acc2-47ad-8f57-c010542f376a",
+      "tag": "homemade chocolates",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "6b44cd1f-9221-47b0-86d9-718976703413",
+      "tag": "homemade chocolates",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "ec6d1894-1e40-4dc5-a532-a06ebfcd81cf",
+      "tag": "fudge",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "4e532554-8c14-4ce3-b44e-a46e84805653",
+      "tag": "fudge",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "35b67e60-8021-4731-8554-b46eb77c1937",
+      "tag": "truffles",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "dd66caa0-3323-4a8a-b730-328b63286a1a",
+      "tag": "truffles",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "8dc64b90-a467-4574-a695-4ba9434caf73",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "95b27726-2a0d-4176-ba04-32c3a9547ccb",
+      "tag": "Gulf Shores",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "32cfe364-1b88-4ce5-ad55-5058510170a5",
+      "tag": "desserts",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "f24fe859-e9df-4fe7-8ffd-8c9cc2ba780b",
+      "tag": "desserts",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "a1b161a6-a00e-45e4-ae8b-b0a113af77e1",
+      "tag": "candy",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "4c3cb9ae-5eb9-4d1b-a3fb-2a0bf260c04e",
+      "tag": "candy",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "a737f21d-da81-4aeb-bbeb-389b47e42dc6",
+      "tag": "sweets",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "d03da231-f3fe-41b1-aceb-2203a0b0dfb7",
+      "tag": "sweets",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "635eace4-af23-4ff4-97e3-49926cc2cdd9",
+      "tag": "gourmet treats",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "fe75f109-2beb-4001-bd09-afd90661afae",
+      "tag": "gourmet treats",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "e8ece6a6-1c01-4e33-9580-4fe17b32e9fa",
+      "tag": "chocolate covered strawberries",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "f78acd33-b869-484e-a7c1-5e2c764efdd9",
+      "tag": "chocolate covered strawberries",
+      "tag_category": "type",
+      "sort_order": 10
+    },
+    {
+      "id": "bdf2e6c2-82d9-4202-847c-dc65f786ab1a",
+      "tag": "smoothies",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "ead42852-b947-4edb-b3ce-5af7ef2cebd1",
+      "tag": "smoothies",
+      "tag_category": "type",
+      "sort_order": 11
+    },
+    {
+      "id": "05240079-b18f-4af2-b61a-fbb0d39d41a1",
+      "tag": "coffee drinks",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "4e3eeacb-4543-44e4-8bdd-a08266397724",
+      "tag": "coffee drinks",
+      "tag_category": "type",
+      "sort_order": 12
+    },
+    {
+      "id": "008e188c-1acc-4a08-aca0-b7b51e3edc17",
+      "tag": "Blue Bell ice cream",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "0ba46dc0-cbe8-42ee-be00-3d76ea158415",
+      "tag": "Blue Bell ice cream",
+      "tag_category": "type",
+      "sort_order": 13
+    },
+    {
+      "id": "b7254471-0d0f-49de-af60-e7ead62b1101",
+      "tag": "local business",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "0071a82a-f9f8-475a-aad8-83672c74eb44",
+      "tag": "local business",
+      "tag_category": "type",
+      "sort_order": 14
+    },
+    {
+      "id": "5de6493f-8bff-483c-a584-b559fb7ef94b",
+      "tag": "Restaurants & Food",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "95534753-6ce0-47bc-9659-a9e4666046b7",
+      "tag": "Restaurants & Food",
+      "tag_category": "category",
+      "sort_order": 15
+    },
+    {
+      "id": "5ea48c05-15c1-4a48-9485-f8d7d6676a90",
+      "tag": "Desserts & Sweets",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "dbeaf0d3-ba8f-473e-9268-0d8003732ee9",
+      "tag": "Desserts & Sweets",
+      "tag_category": "category",
+      "sort_order": 16
+    },
+    {
+      "id": "a5b17f27-1122-42cc-b82b-85d9c485ca50",
+      "tag": "Candy Shops",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "04ad2b5f-1127-4dd9-a642-cecfcc45c46b",
+      "tag": "Candy Shops",
+      "tag_category": "category",
+      "sort_order": 17
+    },
+    {
+      "id": "2db0a79f-9392-40be-97f6-8ac9d7160239",
+      "tag": "Ice Cream Shops",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "28644a03-8fd2-4de8-9ae0-6aa2ceaeeb95",
+      "tag": "Ice Cream Shops",
+      "tag_category": "category",
+      "sort_order": 18
+    },
+    {
+      "id": "781b0d67-2287-4c7d-8033-cb1250e9c4d3",
+      "tag": "Coffee Shops",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "4577c14d-d043-443c-9a84-604da03b2d42",
+      "tag": "Coffee Shops",
+      "tag_category": "category",
+      "sort_order": 19
+    },
+    {
+      "id": "e1517e6d-2de2-41a3-9c3c-c43df26ec82b",
+      "tag": "Retail",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "30ca80a3-c9d3-4f9a-9a0a-95199dfffac8",
+      "tag": "Retail",
+      "tag_category": "category",
+      "sort_order": 20
+    },
+    {
+      "id": "2cfccf61-7af1-41ce-8de5-0644080037f4",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 21
+    },
+    {
+      "id": "ba1c578a-00e0-4dab-9c66-eb48311286c1",
+      "tag": "food-and-drink",
+      "tag_category": "industry",
+      "sort_order": 21
+    },
+    {
+      "id": "f2b705c2-bfcb-4edd-b10e-3a49ce23b349",
+      "tag": "retail",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "e205b82c-a05f-45df-ac30-14bdb32d06ed",
+      "tag": "retail",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "74889cc0-7e27-4a4e-8f9d-1e7c267d36b2",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "507464b0-891c-4f8f-a090-f6db49615074",
+      "tag": "cafe",
+      "tag_category": "type",
+      "sort_order": 23
+    },
+    {
+      "id": "7e0dcfc7-d7f9-4328-9335-88d2156b9b81",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "92b8b54e-1d84-4420-8c91-b3b7e58e2035",
+      "tag": "food store",
+      "tag_category": "type",
+      "sort_order": 24
+    },
+    {
+      "id": "959b7738-65c3-4ee4-b555-55cd4b20602c",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 25
+    },
+    {
+      "id": "c81e29d2-5c88-4f5f-aad0-75e27b9a1479",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 25
+    },
+    {
+      "id": "1d71c035-27f1-4b2e-8340-98cf4417b746",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "ffb2402e-6fe3-4899-a0bd-000ada93423d",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 26
+    },
+    {
+      "id": "298dd9c8-2f32-4391-b8a4-6a090531954c",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "336136bf-9384-418a-8251-79b54b8d4714",
+      "tag": "dessert shop",
+      "tag_category": "type",
+      "sort_order": 27
+    },
+    {
+      "id": "477af3f0-0810-4322-9da2-8065fcece3d5",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "e26a0a90-5ca0-4599-a121-52bfe3216c51",
+      "tag": "ice cream shop",
+      "tag_category": "type",
+      "sort_order": 28
+    },
+    {
+      "id": "fa724eae-03d9-4e30-b2c3-5b1ace125cac",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 29
+    },
+    {
+      "id": "7e6fe740-34bd-475a-b8d2-9e8275e8a810",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 29
+    },
+    {
+      "id": "20172884-25e8-498d-bac6-a3f9ade1441e",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "61bd969e-6b46-4ced-9cd7-adbf8b9f57c8",
+      "tag": "coffee shop",
+      "tag_category": "type",
+      "sort_order": 30
+    },
+    {
+      "id": "db9351df-ca05-4317-8981-a2c9d7251d0f",
+      "tag": "candy store",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "0c915fa8-8e3a-4713-8ee3-7a50d33b196f",
+      "tag": "candy store",
+      "tag_category": "type",
+      "sort_order": 31
+    },
+    {
+      "id": "f5dd34d1-b879-43bf-a7c8-1e1f7e0ce691",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 32
+    },
+    {
+      "id": "4c58b6ae-bb7b-4a65-bd2d-03971aebb847",
+      "tag": "delivery",
+      "tag_category": "service",
+      "sort_order": 32
+    },
+    {
+      "id": "1d37fc0d-0fa5-4ab1-bcf5-89240b49fc4a",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "ec6e918f-7cc6-46a2-9430-8786bcc771d7",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 33
+    },
+    {
+      "id": "2b260ae6-cc75-43ed-964b-30d3931ab55d",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "d5cf268b-80f2-4bc3-a6ef-f50cdb4142c5",
+      "tag": "confectionery",
+      "tag_category": "type",
+      "sort_order": 34
+    },
+    {
+      "id": "8fe9ba5d-4ba9-49dd-bc01-2b9e89374ba3",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 35
+    },
+    {
+      "id": "3fd42f6a-b826-44ed-b309-22813bd06b77",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 35
+    },
+    {
+      "id": "fecccc38-6008-4725-b830-1aa35ea6901a",
+      "tag": "bakery",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "4d1050da-489b-42f3-b94d-f1f58caceccb",
+      "tag": "bakery",
+      "tag_category": "google_type",
+      "sort_order": 36
+    },
+    {
+      "id": "e4a7af3b-97df-440f-a0e9-b5e866c42c9e",
+      "tag": "chocolate_shop",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "f6d594dd-d36c-426e-b2da-8c007247d11a",
+      "tag": "chocolate_shop",
+      "tag_category": "google_type",
+      "sort_order": 37
+    },
+    {
+      "id": "8f92cb5b-1887-4f1c-aeb7-800f08e4ecc6",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "c47f2461-ea90-4936-8f10-a3d391d65ebd",
+      "tag": "ice_cream_shop",
+      "tag_category": "google_type",
+      "sort_order": 38
+    },
+    {
+      "id": "33265cac-035f-4710-be58-6684dc427b6d",
+      "tag": "candy_store",
+      "tag_category": "google_type",
+      "sort_order": 39
+    },
+    {
+      "id": "ef397bd5-ac45-4115-b435-1c1fee3629bb",
+      "tag": "candy_store",
+      "tag_category": "google_type",
+      "sort_order": 39
+    },
+    {
+      "id": "a0a4d556-0a16-45cc-82c6-7b0210401e33",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 40
+    },
+    {
+      "id": "d12b3327-46df-46f8-b0c3-f9fde0856c77",
+      "tag": "coffee_shop",
+      "tag_category": "google_type",
+      "sort_order": 40
+    },
+    {
+      "id": "bd3c1efc-c4ee-47ec-a1ac-2f7d81d9f8e2",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 41
+    },
+    {
+      "id": "b88adc7d-777b-4878-86b3-37bee6605396",
+      "tag": "dessert_shop",
+      "tag_category": "google_type",
+      "sort_order": 41
+    },
+    {
+      "id": "3c4d13da-12a0-47f5-8b77-521fcca3771b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 42
+    },
+    {
+      "id": "daafccf8-1551-40c0-a175-16c6ca8b399a",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 42
+    },
+    {
+      "id": "9b2d120e-d57d-4b4e-9f52-be831636e0a3",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "6833f8b7-322e-437b-a004-ba3f5a118211",
+      "tag": "food_store",
+      "tag_category": "google_type",
+      "sort_order": 43
+    },
+    {
+      "id": "cadf7b7a-6138-4554-85ed-ec5eab399968",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 44
+    },
+    {
+      "id": "366aab7e-8faf-4295-b08f-1b8e4f982e50",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 44
+    }
+  ],
+  "sections": [
+    {
+      "id": "8714000a-bcdc-495d-9ad3-71cd2be2b64b",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [
+    {
+      "id": "b7132df5-4d6b-4eaf-a927-623f9713dc8a",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131764738.178.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:10.188198+00:00"
+    },
+    {
+      "id": "050c3223-bc5d-4bf3-9b59-c1e6b07ebb5f",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131766737.001.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:10.911429+00:00"
+    },
+    {
+      "id": "9c89cd17-97bd-4527-ac76-1ecab5ab14c6",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139476558.6714.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:11.682896+00:00"
+    },
+    {
+      "id": "4f44bb2a-e732-4d73-af85-57e30eccb499",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139477837.947.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:12.134115+00:00"
+    },
+    {
+      "id": "e26adad0-bc92-49d8-a23f-13e940f4314f",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131765394.468.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:10.336452+00:00"
+    },
+    {
+      "id": "fef0b45f-9f44-4c44-b74d-144f665f2dba",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131767146.9045.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:11.055333+00:00"
+    },
+    {
+      "id": "f7615d45-1046-43a6-8fd5-9e7e671688c1",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131764278.1257.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:10.044124+00:00"
+    },
+    {
+      "id": "8e000682-bb36-42de-829e-5516aebd354b",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131766393.1091.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:10.76821+00:00"
+    },
+    {
+      "id": "3f295f19-1f09-4cbf-92e7-660c4a8bd293",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139476072.6235.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:11.526241+00:00"
+    },
+    {
+      "id": "144bb6cc-f549-4c36-ae41-7cf797df3b36",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139478287.715.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:12.335243+00:00"
+    },
+    {
+      "id": "abaa3975-b276-4cf0-924d-df113d9818f5",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131407660.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:09.73709+00:00"
+    },
+    {
+      "id": "138547ba-c5a3-4356-9a30-83fa698b1a85",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131765712.0132.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:10.479744+00:00"
+    },
+    {
+      "id": "2c07c24d-e996-417c-b47f-68eeb8528049",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131767350.0747.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:11.200502+00:00"
+    },
+    {
+      "id": "d02b3929-e6a9-48a1-9635-4d369e45df1e",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139477363.1255.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:11.987624+00:00"
+    },
+    {
+      "id": "0c101fd1-1317-4e5c-9529-4aa529920186",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139479079.9597.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:12.637134+00:00"
+    },
+    {
+      "id": "65679191-ec1a-418a-ae12-778ae5163b33",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131763740.3738.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:09.883163+00:00"
+    },
+    {
+      "id": "08bf9ebd-e8a4-454f-a15b-02867d6f4206",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779131766131.4219.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:10.622631+00:00"
+    },
+    {
+      "id": "cff0c2f1-daf5-41e1-8e8b-450961966340",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139475767.5635.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:11.347917+00:00"
+    },
+    {
+      "id": "f8eaac9f-cba1-4aaa-9567-006132bc1c50",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139479534.5762.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:12.795011+00:00"
+    },
+    {
+      "id": "6a754734-5cd7-4062-96e2-74f5530f9bae",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139476821.906.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:11.834558+00:00"
+    },
+    {
+      "id": "7e989c64-a077-4fc1-9ab0-21b4a482621d",
+      "entity_id": "5b201993-0222-48d9-90e4-a0aed512844e",
+      "place_id": null,
+      "image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/5b201993-0222-48d9-90e4-a0aed512844e/5b201993-0222-48d9-90e4-a0aed512844e_1779139478631.052.jpg",
+      "caption": null,
+      "sort_order": 0,
+      "created_at": "2026-05-18T22:13:12.479834+00:00"
+    }
+  ],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

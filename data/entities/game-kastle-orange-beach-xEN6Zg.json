@@ -1,32 +1,275 @@
 {
-  "id": "d4d112e5-e4ab-47e4-888b-99e8e48a2fef",
-  "slug": "game-kastle-orange-beach-xEN6Zg",
-  "name": "Game Kastle (Orange Beach)",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 223-4298",
-  "email": null,
-  "website_url": "https://gamekastle.com/pages/orange-beach-al",
-  "address_line_1": "4851 Wharf Pkwy E D-234 (2nd floor, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.8,
-  "review_count": 38,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/d4d112e5-e4ab-47e4-888b-99e8e48a2fef/d4d112e5-e4ab-47e4-888b-99e8e48a2fef_1779139835468.9421.jpg",
-  "photos": [],
+  "entity": {
+    "id": "d4d112e5-e4ab-47e4-888b-99e8e48a2fef",
+    "place_id": "ChIJ7VDG2s4FmogRrwfhKxEN6Zg",
+    "google_maps_uri": "https://maps.google.com/?cid=11018352330740402095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "game-kastle-orange-beach-xEN6Zg",
+    "name": "Game Kastle (Orange Beach)",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "store",
+    "google_types": [
+      "toy_store",
+      "association_or_organization",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 223-4298",
+    "international_phone": null,
+    "website_url": "https://gamekastle.com/pages/orange-beach-al",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "4851 Wharf Pkwy E D-234 (2nd floor, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2954304,
+    "longitude": -87.6284495,
+    "short_address": "4851 Wharf Pkwy E D-234 (2nd floor, Orange Beach",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 38,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/d4d112e5-e4ab-47e4-888b-99e8e48a2fef/d4d112e5-e4ab-47e4-888b-99e8e48a2fef_1779139835468.9421.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeGarageParking": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 12:00 – 9:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 9:00 PM",
+      "Friday: 12:00 – 10:00 PM",
+      "Saturday: 12:00 – 9:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:12.027834+00:00",
+    "updated_at": "2026-05-18T21:30:40.472893+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "a7143ca0-bfe4-479a-a491-79cebd7f7f4d",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "b5849caf-59c5-43ac-94e7-da36625c2292",
+      "tag": "shopping",
+      "tag_category": "search",
+      "sort_order": 0
+    },
+    {
+      "id": "29e1feb6-eb8a-4315-a0bd-99c9961ab2a0",
+      "tag": "waterfront",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "ae9fe82f-74ea-48bc-85d4-47ff607c496c",
+      "tag": "waterfront",
+      "tag_category": "search",
+      "sort_order": 1
+    },
+    {
+      "id": "6639367d-ef74-42db-a55e-781e77c1dafd",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "a571c0c7-7798-45ba-9de1-ba0f84836a65",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 2
+    },
+    {
+      "id": "38a6a47c-d962-41c4-8e7a-b3c799f82e1a",
+      "tag": "toy_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "9a7b2566-9b45-45f5-8eff-0899983beff6",
+      "tag": "toy_store",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "5438dd89-c2ee-4300-8124-c3f30c608fe2",
+      "tag": "association_or_organization",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "1356a48d-15de-4375-94aa-190a6935009a",
+      "tag": "association_or_organization",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "915d3884-ec57-4a8c-ae05-0da729a9c2b2",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "0d4f65c0-03c2-46d3-8cd5-eb780f087bb3",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "c012ed90-97f4-461e-9833-3fb6f8e817a6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "9dd4215d-0c80-4f2f-a7d8-416237351923",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "e94c38d6-7618-4e88-8584-c542e41fa22f",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "98e3ed37-22e8-440e-aed0-937f2f57b282",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 7
+    }
+  ],
+  "sections": [
+    {
+      "id": "c6e05fc5-94f2-499e-adb5-74412ffc1024",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,548 @@
 {
-  "id": "e974215c-8b28-4404-beb8-4bd7a2017a14",
-  "slug": "big-fish-restaurant-x1wRkc",
-  "name": "Big Fish Restaurant",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Varied menu focused on seafood also offers steaks & pasta at this comfortable strip-mall eatery.",
-  "phone": "(251) 981-5516",
-  "email": null,
-  "website_url": "https://bigfishrestaurantbar.com/",
-  "address_line_1": "25814 Canal Rd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "25814",
-  "rating": 4.5,
-  "review_count": 1641,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e974215c-8b28-4404-beb8-4bd7a2017a14/e974215c-8b28-4404-beb8-4bd7a2017a14_1779139729051.0864.jpg",
-  "photos": [],
+  "entity": {
+    "id": "e974215c-8b28-4404-beb8-4bd7a2017a14",
+    "place_id": "ChIJNYHyl04GmogRUllxWx1wRkc",
+    "google_maps_uri": "https://maps.google.com/?cid=5135915696453146962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "big-fish-restaurant-x1wRkc",
+    "name": "Big Fish Restaurant",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "seafood_restaurant",
+    "google_types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-5516",
+    "international_phone": null,
+    "website_url": "https://bigfishrestaurantbar.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "25814 Canal Rd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "25814",
+    "latitude": 30.290588,
+    "longitude": -87.584251,
+    "short_address": "25814 Canal Rd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 1641,
+    "price_level": "EXPENSIVE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Varied menu focused on seafood also offers steaks & pasta at this comfortable strip-mall eatery.",
+    "description": "Varied menu focused on seafood also offers steaks & pasta at this comfortable strip-mall eatery.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/e974215c-8b28-4404-beb8-4bd7a2017a14/e974215c-8b28-4404-beb8-4bd7a2017a14_1779139729051.0864.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 3:00 – 9:00 PM",
+      "Tuesday: 3:00 – 9:00 PM",
+      "Wednesday: 3:00 – 9:00 PM",
+      "Thursday: 3:00 – 9:00 PM",
+      "Friday: 3:00 – 9:00 PM",
+      "Saturday: 3:00 – 9:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "https://bigfishrestaurantbar.com/",
+      "pages": [],
+      "pdfUrls": [],
+      "pdfTexts": [],
+      "imageUrls": [],
+      "scraped_at": "2026-05-16T06:40:29.719Z",
+      "business_name": "Big Fish Restaurant"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.999548+00:00",
+    "updated_at": "2026-05-18T21:28:54.045211+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "70da1960-f2ed-47c8-9282-15d2faab9cfc",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "2a43b8bd-2b42-4700-b39a-2eed2b71d280",
+      "tag": "seafood restaurant",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "43971613-7f72-49ba-9532-41a66d25abd5",
+      "tag": "thai restaurant",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "90d0b62a-c1ff-4eed-b935-23cb1218b150",
+      "tag": "thai restaurant",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "d35cdce9-6747-48c5-bdfd-52ba84cb1f1b",
+      "tag": "steak house",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "147cb92e-69a8-4241-8a13-991967f5ab37",
+      "tag": "steak house",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "6416ea42-c5a9-4c54-ae5b-476c0b89f17c",
+      "tag": "sushi restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "49fefae0-3dfc-4faa-b788-8a0b90ccaff5",
+      "tag": "sushi restaurant",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "fea1b06a-4e3c-43d6-b126-e9f7b1d44248",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "2d07a5ac-fb12-492b-be80-77ea433ba558",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "fee9fbff-06c7-4d39-b5f6-158d864e7e8e",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "f4dd8d2b-3215-4831-aaf0-1d4277e6f4a2",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "62904548-7a24-4845-b8d5-92adb1336fd7",
+      "tag": "japanese restaurant",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "76735729-9cd4-472d-aa87-4a912cdcecd0",
+      "tag": "japanese restaurant",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "a9423c54-e73b-458f-9134-8ae9a9d49ad4",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "88c3e176-8fee-454d-8018-9ce42761df9d",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "1de1c8b1-e04a-47cb-98e4-1e25b2466136",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "71f9f519-a682-44e0-9fd1-dd2773967966",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 8
+    },
+    {
+      "id": "e34b2c84-5335-437d-9246-263adae66508",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "48d464b4-00ce-4ec2-8d77-8e1ff1a52233",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 9
+    },
+    {
+      "id": "9e6b67fe-fc78-4d18-8aed-77f7c81ebacc",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "2637e17c-9d4c-4259-a39d-ae5734fb1a20",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 10
+    },
+    {
+      "id": "cfc5ee3b-706f-4236-abbb-6f16a8138824",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 11
+    },
+    {
+      "id": "955b82af-6e2f-4915-bdf6-86a505160183",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 11
+    },
+    {
+      "id": "a4415747-5d34-42a8-bb40-670ad8a72911",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "ef1678bc-8366-46b8-aeb2-3ea63b4d19d1",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 12
+    },
+    {
+      "id": "1936a301-7790-4450-b372-16c6cfc19f72",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 13
+    },
+    {
+      "id": "98da895b-7cc4-417a-96c8-4dcc226a0617",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 13
+    },
+    {
+      "id": "104967bc-4de8-4d32-88c8-367c9fe65bee",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "93d12f4a-58d8-4677-99df-4ac895715dca",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "5e5a5ec1-9c43-452c-8988-3771c4eab68b",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 15
+    },
+    {
+      "id": "2305ddaa-d7cb-4d96-9828-2b8d86be01c9",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 15
+    },
+    {
+      "id": "c7c7714a-2d74-40ad-85aa-cc1ebe7176fa",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 16
+    },
+    {
+      "id": "93f51574-f96e-49dc-917b-4c2c76a7e5d6",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 16
+    },
+    {
+      "id": "0c34b728-5561-46f0-98bb-9c4496fa5028",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 17
+    },
+    {
+      "id": "7328bb5e-9fa9-4de2-b733-d8529c62743b",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 17
+    },
+    {
+      "id": "b7a556d2-1c2e-480b-8375-48a1c1ad4847",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 18
+    },
+    {
+      "id": "7dc74bc7-ce53-44e4-86ee-41aab02c9fb1",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 18
+    },
+    {
+      "id": "b5f754b2-622e-41b6-81f0-ed49b90fc5fb",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 19
+    },
+    {
+      "id": "72d308d3-3143-452d-820b-c9be18d21704",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 19
+    },
+    {
+      "id": "e96975ee-7662-49dd-bcd4-982daa597114",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "9dcc3d0c-0de5-462f-8d78-f89730555445",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 20
+    },
+    {
+      "id": "8aaa197a-5f97-4316-b27d-b45a6efbbc8b",
+      "tag": "seafood",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "8550c3f7-3d83-4935-8402-d39d96213fdc",
+      "tag": "seafood",
+      "tag_category": "food",
+      "sort_order": 21
+    },
+    {
+      "id": "b99a032f-2ceb-4322-ac13-0626d88f6c19",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "09d76a31-2383-4153-90c6-3c68872019ae",
+      "tag": "seafood_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 22
+    },
+    {
+      "id": "220080c0-c074-460f-86c6-569b3baae2d2",
+      "tag": "thai_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "d8428076-0f34-4d88-b728-e6ce0b446a45",
+      "tag": "thai_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "54445d36-962f-4a0a-901a-dcbf319e3c9a",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "64cee89a-e7c8-464d-a40a-ca80706089b1",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "e1e42d3b-e1f2-40bb-ba62-4abd7ff53bf5",
+      "tag": "sushi_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "94ac1ab2-90fe-4342-ac36-ec246c6bc56e",
+      "tag": "sushi_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "2ac5ef3c-d92c-49a2-8851-dbe204187262",
+      "tag": "steak_house",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "8aab83d3-128c-4635-a92b-4a501095b5dc",
+      "tag": "steak_house",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "c095726e-ff98-4655-9c74-59c299b6c31a",
+      "tag": "japanese_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "8ab72161-a20a-4cc9-8d54-e45c18e7b5f2",
+      "tag": "japanese_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 27
+    },
+    {
+      "id": "47a9a817-c1ce-4c54-83ca-205785cb058b",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "f620897f-3ed8-45d5-b293-a4cefcecccd7",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 28
+    },
+    {
+      "id": "1aebd5da-6e3c-4bd2-a503-103d6b582004",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 29
+    },
+    {
+      "id": "32c6efd2-6a81-4005-9134-61968477123e",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 29
+    }
+  ],
+  "sections": [
+    {
+      "id": "bd771e73-8afc-4f8c-8112-92b105f89636",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

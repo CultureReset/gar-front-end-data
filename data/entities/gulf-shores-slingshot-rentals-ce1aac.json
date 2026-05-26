@@ -1,57 +1,197 @@
 {
-  "id": "124d41b6-5c19-4ac8-993c-13a6ed44bc0a",
-  "slug": "gulf-shores-slingshot-rentals-ce1aac",
-  "name": "Gulf Shores Slingshot Rentals",
-  "entity_type": "activity",
-  "entity_subtype": "general",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 501-6538",
-  "email": null,
-  "address_line_1": "8605 AL-59, Foley, AL 36535, USA",
-  "city": "foley",
-  "state": "AL",
-  "zip": null,
-  "website_url": "http://www.gulfshoresslingshotrentals.com/",
-  "rating": 4.9,
-  "review_count": 16,
-  "hero_image_url": null,
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "124d41b6-5c19-4ac8-993c-13a6ed44bc0a",
+    "place_id": "a20aaa48-275a-4003-8e9d-912a78ce1aac",
+    "google_maps_uri": null,
+    "slug": "gulf-shores-slingshot-rentals-ce1aac",
+    "name": "Gulf Shores Slingshot Rentals",
+    "subtitle": null,
+    "entity_type": "activity",
+    "entity_subtype": null,
+    "secondary_types": "",
+    "google_type": "service",
+    "google_types": [
+      "car_rental",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 501-6538",
+    "international_phone": null,
+    "website_url": "http://www.gulfshoresslingshotrentals.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "8605 AL-59, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "foley",
+    "state": "AL",
+    "zip": null,
+    "latitude": 30.3504141,
+    "longitude": -87.6836436,
+    "short_address": null,
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 16,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "",
+    "hero_image_url": null,
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": null,
+    "parking": null,
+    "payment": null,
+    "hours_text": [
+      "Monday: 10:00 AM – 9:00 PM",
+      "Tuesday: 10:00 AM – 9:00 PM",
+      "Wednesday: 10:00 AM – 9:00 PM",
+      "Thursday: 10:00 AM – 9:00 PM",
+      "Friday: 10:00 AM – 9:00 PM",
+      "Saturday: 10:00 AM – 9:00 PM",
+      "Sunday: 10:00 AM – 9:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:14:30.650287+00:00",
+    "updated_at": "2026-05-18T21:06:43.913095+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "24ba1ff4-dba4-4c9f-a780-c6831a6e797d",
       "tag": "activity",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
-      "tag": "watersports",
-      "tag_category": "type"
-    },
-    {
-      "tag": "tripshock",
-      "tag_category": "type"
-    },
-    {
+      "id": "6543dc30-e4f4-41b5-b400-2c81819e2af3",
       "tag": "activity",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 0
     },
     {
+      "id": "149dfcc5-f5d7-49a0-8052-4f9ee7d697e3",
       "tag": "watersports",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 1
     },
     {
+      "id": "797d244a-9132-4bb0-996e-22d6e2ef5129",
+      "tag": "watersports",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "7a736f77-d5c7-4116-b580-9f38a56254ae",
       "tag": "tripshock",
-      "tag_category": "type"
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "52836d41-9078-497b-ae7f-e3d7329bbbea",
+      "tag": "tripshock",
+      "tag_category": "type",
+      "sort_order": 2
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "a5a704dd-9735-4f8a-81e2-79fa16a7f20e",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

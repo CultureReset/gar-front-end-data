@@ -1,37 +1,480 @@
 {
-  "id": "8628bfa6-f2ed-4879-b8cc-7ab6b05da48c",
-  "slug": "brandon-styles-live-theater-magic-shop-at-owa-i-0q1A",
-  "name": "Brandon Styles Live Theater & Magic Shop at OWA",
-  "entity_type": "artist",
-  "entity_subtype": "entertainment",
-  "icon": "🏪",
-  "description": "Brandon Styles delivers a perfect mix of impressions, comedy, dance, grand illusions, audience participation, ventriloquism and award-winning magic. His tours have taken him all throughout the country. Whether you are 1 or 100, The Brandon Styles Show has something for everyone! Brandon is a master of illusions and shares the magic and swag with magic tricks and props that any age can practice and perform. The Brandon Styles VARIETY SHOW is a performance by one man that you won't want to miss! Get ready to be amazed by Brandon's live performance, where he impersonates nearly 60 different famous people, from Frank Sinatra to Justin Bieber. This show is unique because Brandon has added just the right amount of comedy, magic, dancing, ventriloquism, and audience participation to keep you entertained in a fast-paced 70-minute show!",
-  "phone": "(251) 237-3330",
-  "email": null,
-  "address_line_1": "101 S Owa Blvd suite H, Foley, AL 36535, USA",
-  "city": "Foley",
-  "state": "AL",
-  "zip": "36535",
-  "website_url": "http://www.brandonstyles.com/",
-  "rating": 4.9,
-  "review_count": 753,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8628bfa6-f2ed-4879-b8cc-7ab6b05da48c/8628bfa6-f2ed-4879-b8cc-7ab6b05da48c_1779139800038.6765.jpg",
-  "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
-  "happy_hour": {
-    "schedule": "",
-    "sections": []
+  "entity": {
+    "id": "8628bfa6-f2ed-4879-b8cc-7ab6b05da48c",
+    "place_id": "ChIJ__hjNoUGmogRngpB9i-0q1A",
+    "google_maps_uri": "https://maps.google.com/?cid=5812937862139677342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "brandon-styles-live-theater-magic-shop-at-owa-i-0q1A",
+    "name": "Brandon Styles Live Theater & Magic Shop at OWA",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "entertainment",
+    "secondary_types": [],
+    "google_type": "live_music_venue",
+    "google_types": [
+      "live_music_venue",
+      "tourist_attraction",
+      "comedy_club",
+      "performing_arts_theater",
+      "event_venue",
+      "store",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 237-3330",
+    "international_phone": null,
+    "website_url": "http://www.brandonstyles.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "101 S Owa Blvd suite H, Foley, AL 36535, USA",
+    "address_line_2": null,
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535",
+    "latitude": 30.3743003,
+    "longitude": -87.6582699,
+    "short_address": "101 S Owa Blvd suite H, Foley",
+    "plus_code": null,
+    "rating": 4.9,
+    "review_count": 753,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Brandon Styles delivers a perfect mix of impressions, comedy, dance, grand illusions, audience participation, ventriloquism and award-winning magic. His tours have taken him all throughout the country. Whether you are 1 or 100, The Brandon Styles Show has something for everyone! Brandon is a master of illusions and shares the magic and swag with magic tricks and props that any age can practice and perform. The Brandon Styles VARIETY SHOW is a performance by one man that you won't want to miss! Get ready to be amazed by Brandon's live performance, where he impersonates nearly 60 different famous people, from Frank Sinatra to Justin Bieber. This show is unique because Brandon has added just the right amount of comedy, magic, dancing, ventriloquism, and audience participation to keep you entertained in a fast-paced 70-minute show!",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/8628bfa6-f2ed-4879-b8cc-7ab6b05da48c/8628bfa6-f2ed-4879-b8cc-7ab6b05da48c_1779139800038.6765.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/brandonstylesshow",
+    "social_facebook": "https://www.facebook.com/Brandon-Styles-Impressionist-6881773297/?fref=ts",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30 – 8:30 PM",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: 5:30 – 8:30 PM",
+      "Saturday: 5:30 – 8:30 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "url": "http://www.brandonstyles.com/",
+      "pages": [
+        {
+          "url": "http://www.brandonstyles.com/",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nSEE ALL TICKETS HERE\n\nThe Brandon Styles VARIETY SHOW is a performance by one man that you won't want to miss! Get ready to be amazed by Brandon's live performance, where he impersonates nearly 60 different famous people, from Frank Sinatra to Justin Bieber. This show is unique because Brandon has added just the right amount of comedy, magic, dancing, ventriloquism, and audience participation to keep you entertained in a fast-paced 70-minute show! \n\nDon't pass up this opportunity to see the best variety show on the Gulf Coast, just a few miles away from Gulf Shores.\n\n*This show runs every Tuesday and Saturday at 7:00 pm year-round.\n\nThe Brandon Styles COMEDY MAGIC SHOW is filled with a variety of magic tricks, both big and small, that will astonish and entertain you. This show is designed to make you laugh and leave you in awe. There are plenty of opportunities for audience participation, and fun props are used to create a lively and enjoyable experience for everyone. Make sure you don't miss Alabama's only magic show!\n\n*This show runs on select Wednesdays & Fridays at 7:00 pm.\n\nJoin Brandon Styles as he transports you back in time with a captivating performance that will make you reminisce. With his magical voice, Brandon effortlessly sings songs from the 1950s to the 1970s, representing a variety of iconic artists such as Frank Sinatra, Tony Bennett, Neil Diamond, and Louis Armstrong, among others. It's no wonder this show has been voted as the best date night experience on the Gulf Coast.\n\n*This show runs select Sundays at 3:00 pm.\n\n“AN EXPERIENCE LIKE NOTHING ELSE”\n— ATTENDEE\nBRANDON STYLES IS BOTH TIMELESS AND TIMELY, A STYLE TO STAND OUT\n\nWith a variety of exciting shows to choose from, Brandon Styles' 1-Man Variety Show delivers the perfect blend of impressions, comedy, dance, grand illusions, audience interaction, ventriloquism, and award-winning magic. His Magic Show is an action-packed hour of jaw-dropping tricks and hilarious moments! Take a nostalgic journey with the Trip Down Memory Lane Dinner Show, where you'll relive the hits and vibes of the '50s, '60s, and '70s. Having toured across the country, Brandon Styles brings his unique blend of entertainment to audiences of all ages—whether you're 8 or 80, his shows are sure to captivate and delight!\n\nCOVER\nIMAGE\nCONTENT\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "#1 Theater in Gulf Shores! Buy Tickets NOW! BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nSEE ALL TICKETS HERE\n\nThe Brandon Styles VARIETY SHOW is a performance by one man that you won't want to miss! Get ready to be amazed by Brandon's live performance, where he impersonates nearly 60 different famous people, from Frank Sinatra to Justin Bieber. This show is unique because Brandon has added just the right amount of comedy, magic, dancing, ventriloquism, and audience participation to keep you entertained in a fast-paced 70-minute show! \n\nDon't pass up this opportunity to see the best variety show on the Gulf Coast, just a few miles away from Gulf Shores.\n\n*This show runs every Tuesday and Saturday at 7:00 pm year-round.\n\nThe Brandon Styles COMEDY MAGIC SHOW is filled with a variety of magic tricks, both big and small, that will astonish and entertain you. This show is designed to make you laugh and leave you in awe. There are plenty of opportunities for audience participation, and fun props are used to create a lively and enjoyable experience for everyone. Make sure you don't miss Alabama's only magic show!\n\n*This show runs on select Wednesdays & Fridays at 7:00 pm.\n\nJoin Brandon Styles as he transports you back in time with a captivating performance that will make you reminisce. With his magical voice, Brandon effortlessly sings songs from the 1950s to the 1970s, representing a variety of iconic artists such as Frank Sinatra, Tony Bennett, Neil Diamond, and Louis Armstrong, among others. It's no wonder this show has been voted as the best date night experience on the Gulf Coast.\n\n*This show runs select Sundays at 3:00 pm.\n\n“AN EXPERIENCE LIKE NOTHING ELSE”\n— ATTENDEE\nBRANDON STYLES IS BOTH TIMELESS AND TIMELY, A STYLE TO STAND OUT\n\nWith a variety of exciting shows to choose from, Brandon Styles' 1-Man Variety Show delivers the perfect blend of impressions, comedy, dance, grand illusions, audience interaction, ventriloquism, and award-winning magic. His Magic Show is an action-packed hour of jaw-dropping tricks and hilarious moments! Take a nostalgic journey with the Trip Down Memory Lane Dinner Show, where you'll relive the hits and vibes of the '50s, '60s, and '70s. Having toured across the country, Brandon Styles brings his unique blend of entertainment to audiences of all ages—whether you're 8 or 80, his shows are sure to captivate and delight!\n\nCOVER\nIMAGE\nCONTENT\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "#1 Theater in Gulf Shores! Buy Tickets NOW! BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/cart",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nSHOPPING CART\n\nYou have nothing in your shopping cart.\n\nCONTINUE SHOPPING\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/home",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nSEE ALL TICKETS HERE\n\nThe Brandon Styles VARIETY SHOW is a performance by one man that you won't want to miss! Get ready to be amazed by Brandon's live performance, where he impersonates nearly 60 different famous people, from Frank Sinatra to Justin Bieber. This show is unique because Brandon has added just the right amount of comedy, magic, dancing, ventriloquism, and audience participation to keep you entertained in a fast-paced 70-minute show! \n\nDon't pass up this opportunity to see the best variety show on the Gulf Coast, just a few miles away from Gulf Shores.\n\n*This show runs every Tuesday and Saturday at 7:00 pm year-round.\n\nThe Brandon Styles COMEDY MAGIC SHOW is filled with a variety of magic tricks, both big and small, that will astonish and entertain you. This show is designed to make you laugh and leave you in awe. There are plenty of opportunities for audience participation, and fun props are used to create a lively and enjoyable experience for everyone. Make sure you don't miss Alabama's only magic show!\n\n*This show runs on select Wednesdays & Fridays at 7:00 pm.\n\nJoin Brandon Styles as he transports you back in time with a captivating performance that will make you reminisce. With his magical voice, Brandon effortlessly sings songs from the 1950s to the 1970s, representing a variety of iconic artists such as Frank Sinatra, Tony Bennett, Neil Diamond, and Louis Armstrong, among others. It's no wonder this show has been voted as the best date night experience on the Gulf Coast.\n\n*This show runs select Sundays at 3:00 pm.\n\n“AN EXPERIENCE LIKE NOTHING ELSE”\n— ATTENDEE\nBRANDON STYLES IS BOTH TIMELESS AND TIMELY, A STYLE TO STAND OUT\n\nWith a variety of exciting shows to choose from, Brandon Styles' 1-Man Variety Show delivers the perfect blend of impressions, comedy, dance, grand illusions, audience interaction, ventriloquism, and award-winning magic. His Magic Show is an action-packed hour of jaw-dropping tricks and hilarious moments! Take a nostalgic journey with the Trip Down Memory Lane Dinner Show, where you'll relive the hits and vibes of the '50s, '60s, and '70s. Having toured across the country, Brandon Styles brings his unique blend of entertainment to audiences of all ages—whether you're 8 or 80, his shows are sure to captivate and delight!\n\nCOVER\nIMAGE\nCONTENT\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "#1 Theater in Gulf Shores! Buy Tickets NOW! BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/varietyshow",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\n1 MAN - 1 HOUR - 60 IMPRESSIONS\nThe Brandon Styles VARIETY SHOW Is A Performance By One Man That You Won't Want To Miss! Get Ready To Be Amazed By Brandon's Live Performance, Where He Impersonates Nearly 60 Different Famous People, From Frank Sinatra To Justin Bieber. This Show Is Unique Because Brandon Has Added Just The Right Amount Of Comedy, Magic, Dancing, Ventriloquism, And Audience Participation To Keep You Entertained In A Fast-Paced 60-Minute Show! \nDon't Pass Up This Opportunity To See The Best Variety Show On The Gulf Coast, Just A Few Miles Away From Gulf Shores.\n\n*This show runs every Tuesday & Saturday at 7:00 pm, all year long!\n\nBUY TICKETS NOW\nPlay\n00:00\n00:15\nMute\nSettings\nEnter fullscreen\n00:00\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Indoor family fun in Gulf Shores — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/magicshow",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nBIG MAGIC - LITTLE MAGIC - FUNNY MAGIC\nThe Brandon Styles COMEDY MAGIC SHOW Is Filled With A Variety Of Magic Tricks, Both Big And Small, That Will Astonish And Entertain You. This Show Is Designed To Make You Laugh And Leave You In Awe. There Are Plenty Of Opportunities For Audience Participation, And Fun Props Are Used To Create A Lively And Enjoyable Experience For Everyone.\nMake Sure You Don't Miss Alabama's Only Magic Show!\n\n*This show runs on select Wednesdays & Fridays at 7:00 pm (see ticket page for exact dates)\n\nBUY TICKETS NOW\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Indoor Family Entertainment In Gulf Shores — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/tripdownmemorylane",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\n1 MAN - 40 VOICES\nJoin Brandon Styles As He Transports You Back In Time With A Captivating Performance That Will Make You Reminisce. With His Magical Voice, Brandon Effortlessly Sings Songs From The 1950s To The 1970s, Representing A Variety Of Iconic Artists Such As Frank Sinatra, Tony Bennett, Neil Diamond, And Louis Armstrong, Among Others. It's No Wonder This Show Has Been Voted As The Best Date Night Experience On The Gulf Coast.\nSNOWBIRDS VOTED,\n“BEST DATE NIGHT IN GULF SHORES\" \n+ \n“FAVORITE GROUP ACTIVITY IN GULF SHORES”\nBUY TICKETS NOW\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Voted #1 Snowbird Entertainment in Gulf Shores — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/show-schedule",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nWant Some Fun In Gulf Shores? Bring The Whole Family To A Live Show That Will Stay In Their Memories Forever!\nNAMED THE PREFERRED CHOICE FOR INDOOR FAMILY ENTERTAINMENT AND THE TOP SPOT FOR A MEMORABLE DATE NIGHT IN GULF SHORES.\nBUY TICKETS HERE\nBUY TICKETS HERE\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Family Entertainment & Best Date Night in Gulf Shores — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/media",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nBE PART OF THE ACTION!\nCHECK FACEBOOK FOR MORE FUN PICS & VIDEOS!\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Gulf Shores best indoor family entertainment — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/theater",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nINTIMATE INDOOR THEATER\nHANDICAP ACCESSIBLE\nFREE PARKING \nBOX OFFICE & MAGIC SHOP\nCONCESSIONS\n\nBrandon Styles Theater was created with 138 seats so that everyone is near to the action. This closeness makes the performance experience unmatched. Get your favorite snacks before finding your seat. The theater has top-notch lighting, sound systems, projection, and great views of the stage. Brandon Styles Theater & Magic Shop is a special entertainment venue in Downtown OWA where people keep coming back to see Brandon Styles' different shows.\n\nBRANDON STYLES THEATER IS ALSO HOME TO GULF COAST COMEDY FEST, MURDER MYSTERY DINNER SHOWS, HYPNOSIS SHOWS, AND MORE!\n\nTHEATER STYLE SEATING: Seating for up to 138, front 2 rows are reserved for VIP; concessions available\n\nGet more ideas on what to do on the Gulf Shores Travel Guide\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Theater at OWA in Foley, AL — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/vip",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nVIP EXPERIENCE\nDon't Miss Out On This Exclusive Opportunity To Elevate Your Experience At Brandon Styles' Show. With Limited Availability, The VIP Experience Offers A One-Of-A-Kind Addition To Your Evening Of Magic, Comedy, And Unforgettable Entertainment. Treat Yourself To An Extraordinary Night You'll Never Forget!\nPlay\n00:00\n00:33\nMute\nSettings\nEnter fullscreen\n00:00\nVIP EXPERIENCE – AVAILABLE FOR THE VARIETY SHOW & MAGIC SHOW\n\n• Arrive 1 hour before showtime for an exclusive VIP experience\n• Enjoy guaranteed front-row seating in the first two rows\n• Private pre-show meet & greet with Brandon Styles – including a photo opportunity and an intimate close-up magic experience (fun fact: Brandon ranked in the top 6 in the world for close-up magic!)\n• Receive a commemorative VIP lanyard to remember your special night\n• Get an autographed photo as a souvenir of your unforgettable evening\n\nLimited to just 24 guests per show for an intimate, one-of-a-kind experience\n\nBOOK YOUR VIP TICKET NOW\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330\n\nJOIN OUR VIP MAILING LIST.\n\nBe the first to know about new events, get early access to all of our sales, and get a code for $5 off VIP tickets.\n\nSubscribe\n\nWe respect your privacy.\n\nThank you! Please use code: 5offvip for $5 off your VIP ticket to any show",
+          "title": "VIP Experience — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/privateevents",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nBRING BRANDON STYLES TO ENTERTAIN YOUR NEXT EVENT! \nTRAVELING WORLDWIDE OUT OF GULF SHORES, AL.\nFROM STAGE SHOWS TO CLOSE UP MAGIC & EVEN CHARACTERS\nHave You Ever Witnessed Magic Being Performed Right In Front Of You, Where You Can Actually Touch And See It Up Close? Well, Now You Have The Chance! In This Unique And Unforgettable Experience, Brandon Will Walk Around From Table To Table, Dazzling And Astonishing Everyone With His Award-Winning Magic Tricks. No Matter The Size Of Your Event, The Ages Of The Attendees, Or The Theme You Have In Mind, This Show Is A Perfect Fit For All.\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Magic, Comedy & Impressions at your next event — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nVIEW SHOPPING CART\nNOW YOU CAN DO MAGIC TOO!\n\nWe have a full magic shop located inside Brandon Styles Theater at OWA or you can shop our most popular products online\n\nMagic Tricks & Brandon Styles Swag For All Ages\n\nOur gift certificates can be used for show tickets, concessions and magic tricks at the shop. *Please call 251-237-3330 to purchase and we’ll mail it to you\n\nULTIMATE MAGIC KIT\nSale Price:\n$55.00 \nOriginal Price:\n$100.00\nI LOVE BS UNISEX TEE\nfrom $24.00\nBSTYLES EMBROIDERED BEANIE\n$24.00\nBSTYLES SNAPBACK HAT\n$25.00\nSHORT-SLEEVE WOMEN'S T-SHIRT\nfrom $24.00\nBRANDON STYLES GULF COAST UNISEX HOODIE\nfrom $39.00\nMANY FACES OF BRANDON STYLES YOUTH JERSEY T-SHIRT\n$24.00\nSHAMONE CREEPY MJ SHORT-SLEEVE UNISEX T-SHIRT\nfrom $24.00\nLISTEN! CREEPY MJ SHORT-SLEEVE UNISEX T-SHIRT\nfrom $24.00\nWOMEN'S RACERBACK TANK - SHAMONE CREEPY MJ\n$28.00\nYOUTH SHORT SLEEVE T-SHIRT - CREEPY MJ\n$24.00\nCREEPY MJ - BABY SHORT SLEEVE ONE PIECE\n$22.00\nCREEPY MJ SOCKS\n$16.00\nSHAMONE RED SHORT-SLEEVE UNISEX T-SHIRT\nfrom $24.00\nSHAMORNING - CREEPY MJ MUG\n$16.00\nSHAMONE DIE-CUT STICKER - CREEPY MJ\n$5.00\nCREEPY MJ HEAD - DIE CUT STICKER\n$5.00\nDON'T BE IGNORANT! CREEPY MJ SHORT-SLEEVE UNISEX T-SHIRT\nfrom $24.00\nGRAMPS \"HE NASTY\" T-SHIRT\nfrom $24.00\nGRANNY \"SHE NAUGHTY\" T-SHIRT\nfrom $24.00\nCREEPY MJ PLAYING CARDS\n$18.00\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Brandon Styles Magic Shop in Gulf Shores — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/contact",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nCONTACT US\nName\nFirst Name\n(required)\nLast Name\n(required)\nEmail Address\n(required)\nMessage\n(required)\nPhone\n(required)\nSUBMIT\n\nFree Parking at OWA\n\n1501 South OWA Blvd., Foley, AL 36535\n\nCall or Text: 251-237-3330\n\nSorry, we have no imagery here.\nSorry, we have no imagery here.\nSorry, we have no imagery here.\nSorry, we have no imagery here.\nSorry, we have no imagery here.\nSorry, we have no imagery here.\nMap Data\nMap data ©2026 Google, INEGI\n1 km \nTerms\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Contact Brandon Styles Theater at OWA — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/ultimate-magic-kit",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nULTIMATE MAGIC KIT\nSale Price:\n$55.00 \nOriginal Price:\n$100.00\n\nThese Are Professional Magic Tricks You Can Learn To Perform To Amaze And Astound! In This Kit, You Will Receive: The Ultimate Levitation System, Magic Svengali Deck, Top Secret Vanishing Kit and Handkerchief, Magic Card Box, Amazing Pen Penetration, Sponge Balls and The Amazing Three Rope Mystery along with a booklet of over 350 effects. $100 VALUE for only $55!\n\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Ultimate Magic Kit — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/i-love-bs-unisex-tee",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nI LOVE BS UNISEX TEE\nfrom $24.00\nThis t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all.\n\n• 100% combed and ring-spun cotton (Heather colors contain polyester)\n• Fabric weight: 4.2 oz/yd² (142 g/m²)\n• Pre-shrunk fabric\n• Side-seamed construction\n• Shoulder-to-shoulder taping\n• Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the US\n\nThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!\nSIZE:\n \nSelect Size\nXS\nS\nM\nL\nXL\n2XL\n3XL\n4XL\n5XL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "I love BS Unisex Tee — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/bstyles-embroidered-beanie",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nBSTYLES EMBROIDERED BEANIE\n$24.00\nThe perfect beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing.\n\n• 60% cotton, 40% acrylic\n• Breathable cotton blend\n• Form-fitting shape\n• One size fits most\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "BStyles Embroidered Beanie — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/bstyles-snapback-hat",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nBSTYLES SNAPBACK HAT\n$25.00\nThis is the snapback of your dreams! It's structured and high-profile, with a flat visor and a subtle grey under visor.\n\n• 85% acrylic, 15% wool\n• Structured, 6-panel, high-profile\n• Plastic snap closure\n• Grey under visor\n• Head circumference: 22″–24″ (55–60 cm)\n• Blank product sourced from China\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "BStyles Snapback Hat — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/short-sleeve-womens-t-shirt",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nSHORT-SLEEVE WOMEN'S T-SHIRT\nfrom $24.00\n\nThere is magic within us all. This t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all.\n\n• 100% combed and ring-spun cotton (Heather colors contain polyester)\n• Fabric weight: 4.2 oz/yd² (142 g/m²)\n• Pre-shrunk fabric\n• Side-seamed construction\n• Shoulder-to-shoulder taping\n• Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the US\n\nSIZE:\n \nSelect Size\nS\nM\nL\nXL\n2XL\n3XL\n4XL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Short-sleeve women's t-shirt — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/brandon-styles-gulf-coast-unisex-hoodie",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nBRANDON STYLES GULF COAST UNISEX HOODIE\nfrom $39.00\nEveryone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings!\n\n• 50% pre-shrunk cotton, 50% polyester\n• Fabric weight: 8.0 oz/yd² (271.25 g/m²)\n• Air-jet spun yarn with a soft feel and reduced pilling\n• Double-lined hood with matching drawcord\n• Quarter-turned body to avoid crease down the middle\n• 1 × 1 athletic rib-knit cuffs and waistband with spandex\n• Front pouch pocket\n• Double-needle stitched collar, shoulders, armholes, cuffs, and hem\n• Blank product sourced from Honduras, Mexico, or Nicaragua\nSIZE:\n \nSelect Size\nS\nM\nL\nXL\n2XL\n3XL\n4XL\n5XL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Brandon Styles Gulf Coast Unisex Hoodie — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/faces-youth-jersey-t-shirt",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nMANY FACES OF BRANDON STYLES YOUTH JERSEY T-SHIRT\n$24.00\nMade from 100% ring-spun combed cotton, this classic youth jersey t-shirt is soft and comfy—great for an everyday outfit. Try it out!\n\n• 100% ring-spun combed cotton\n• Heather colors are 90% ring-spun combed cotton, 10% polyester\n• Soft jersey fabric\n• Fabric weight: 4.5 4.5 oz./sq. yd. (153 g/m²)\n• Crew neck and ribbed collar\n• Shoulder-to-shoulder taping\n• Double-needle stitched sleeves and bottom hem\n• Set-in sleeves\n• Blank product sourced from India, Mexico, Haiti, or Guatemala\nCOLOR:\n \nSelect Color\nHot Pink\nHeather\nLight Blue\n \nSIZE:\n \nSelect Size\nXS\nS\nM\nL\nXL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Many Faces Of Brandon Styles Youth jersey t-shirt — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/shamone-creepy-mj-short-sleeve-unisex-t-shirt-1",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nSHAMONE CREEPY MJ SHORT-SLEEVE UNISEX T-SHIRT\nfrom $24.00\nYou've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite!\n\n• 100% ring-spun cotton\n• Sport Grey is 90% ring-spun cotton, 10% polyester\n• Dark Heather is 65% polyester, 35% cotton\n• 4.5 oz/yd² (153 g/m²)\n• Pre-shrunk\n• Shoulder-to-shoulder taping\n• Quarter-turned to avoid crease down the center\n• Blank product sourced from Bangladesh, Honduras, Haiti, Mexico, or Nicaragua\nCOLOR:\n \nSelect Color\nBlack\nDark Heather\nSport Grey\n \nSIZE:\n \nSelect Size\nS\nM\nL\nXL\n2XL\n3XL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Shamone Creepy MJ Short-Sleeve Unisex T-Shirt — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/listen-creepy-mj-short-sleeve-unisex-t-shirt-1",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nLISTEN! CREEPY MJ SHORT-SLEEVE UNISEX T-SHIRT\nfrom $24.00\nYou've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite!\n\n• 100% ring-spun cotton\n• Sport Grey is 90% ring-spun cotton, 10% polyester\n• Dark Heather is 65% polyester, 35% cotton\n• 4.5 oz/yd² (153 g/m²)\n• Pre-shrunk\n• Shoulder-to-shoulder taping\n• Quarter-turned to avoid crease down the center\n• Blank product sourced from Bangladesh, Honduras, Haiti, Mexico, or Nicaragua\nCOLOR:\n \nSelect Color\nBlack\nDark Heather\nSport Grey\n \nSIZE:\n \nSelect Size\nS\nM\nL\nXL\n2XL\n3XL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "LISTEN! Creepy MJ Short-Sleeve Unisex T-Shirt — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/womens-racerback-tank-shamone-creepy-mj",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nWOMEN'S RACERBACK TANK - SHAMONE CREEPY MJ\n$28.00\nThis racerback tank is soft, lightweight, and form-fitting with a flattering cut and raw edge seams for an edgy touch.\n\n• 50% polyester, 25% combed ring-spun cotton, 25% rayon\n• Fabric weight: 4.2 oz/yd² (142 g/m²)\n• 32 singles\n• Fabric is laundered to reduce shrinkage\n• Raw edge seams\n• Blank product sourced from Haiti or Nicaragua\nSIZE:\n \nSelect Size\nXS\nS\nM\nL\nXL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Women's Racerback Tank - Shamone Creepy MJ — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/youth-short-sleeve-t-shirt-creepy-mj",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nYOUTH SHORT SLEEVE T-SHIRT - CREEPY MJ\n$24.00\nThis is the tee that you've been looking for, and it's bound to become a favorite in any youngster's wardrobe. It's light, soft, and comes with a unique design that stands out from the crowd wherever you go!\n\n• 100% combed and ring-spun cotton\n• Heather colors are 52% combed and ring-spun cotton, 48% polyester\n• Athletic Heather is 90% combed and ring-spun cotton, 10% polyester\n• Fabric weight: 4.2 oz/yd² (142 g/m2)\n• Pre-shrunk fabric\n• 32 singles\n• Relaxed unisex fit\n• Side-seamed construction\n• Blank product sourced from Nicaragua, the US, or Honduras\nCOLOR:\n \nSelect Color\nBlack\nRed\n \nSIZE:\n \nSelect Size\nS\nM\nL\nXL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Youth Short Sleeve T-Shirt - Creepy MJ — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/creepy-mj-baby-short-sleeve-one-piece",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nCREEPY MJ - BABY SHORT SLEEVE ONE PIECE\n$22.00\nDress your baby to the nines with this 100% cotton one piece. It has three snap leg closure for easy changing, a comfortable envelope neckline, and a beautiful print that's bound to get the baby all happy and giggling.\n\n• 100% ring-spun combed cotton\n• Heather colors are 52% ring-spun combed cotton and 48% polyester\n• Fabric weight: 3.9 oz/y² (132.2 g/m²)\n• Side-seamed construction\n• Envelope neckline\n• Three-snap leg closure\n• Blank product sourced from Nicaragua or Honduras\nSIZE:\n \nSelect Size\n3-6m\n6-12m\n12-18m\n18-24m\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Creepy MJ - Baby short sleeve one piece — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/creepy-mj-socks",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nCREEPY MJ SOCKS\n$16.00\nThese socks are extra comfortable thanks to their cushioned bottom. The foot is black with artwork printed along the leg with crisp, bold colors that won't fade.\n\n• 60% nylon, 22% cotton, 18% spandex\n• Crew length\n• Cushioned bottom\n• Ribbed leg\n• Blank product sourced from China\nSIZE:\n \nSelect Size\nL\nM\nXL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Creepy MJ Socks — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/short-sleeve-unisex-t-shirt-1",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nSHAMONE RED SHORT-SLEEVE UNISEX T-SHIRT\nfrom $24.00\nThis t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all.\n\n• 100% combed and ring-spun cotton (Heather colors contain polyester)\n• Fabric weight: 4.2 oz/yd² (142 g/m²)\n• Pre-shrunk fabric\n• Side-seamed construction\n• Shoulder-to-shoulder taping\n• Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the US\nSIZE:\n \nSelect Size\nS\nM\nL\nXL\n2XL\n3XL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Shamone RED Short-sleeve unisex t-shirt — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/creepy-mj-mug",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nSHAMORNING - CREEPY MJ MUG\n$16.00\nShamorning! Creepy MJ wants you to have the best morning while you're looking at hims face during coffee. It's sturdy and glossy with a vivid print that'll withstand the microwave and dishwasher.\n\n• Ceramic\n• 11 oz mug dimensions: 3.85″ (9.8 cm) in height, 3.35″ (8.5 cm) in diameter\n• 15 oz mug dimensions: 4.7″ (12 cm) in height, 3.35″ (8.5 cm) in diameter\n• Dishwasher and microwave safe\n• Blank product sourced from China\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Shamorning - Creepy MJ Mug — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/shamone-die-cut-sticker-creepy-mj",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nSHAMONE DIE-CUT STICKER - CREEPY MJ\n$5.00\nThese stickers are printed on durable, high opacity adhesive vinyl which makes them perfect for regular use, as well as for covering other stickers or paint. The high-quality vinyl ensures there are no bubbles when applying the stickers.\n\n• High opacity film that’s impossible to see through\n• Fast and easy bubble-free application\n• Durable vinyl, perfect for indoor use\n• 95µ density\n\nDon't forget to clean the surface before applying the sticker.\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Shamone Die-Cut Sticker - Creepy MJ — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/creepy-mj-head-die-cut-sticker",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nCREEPY MJ HEAD - DIE CUT STICKER\n$5.00\nThese stickers are printed on durable, high opacity adhesive vinyl which makes them perfect for regular use, as well as for covering other stickers or paint. The high-quality vinyl ensures there are no bubbles when applying the stickers.\n\n• High opacity film that’s impossible to see through\n• Fast and easy bubble-free application\n• Durable vinyl, perfect for indoor use\n• 95µ density\n\nDon't forget to clean the surface before applying the sticker.\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Creepy MJ Head - Die Cut Sticker — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/dont-be-ignorant-creepy-mj-short-sleeve-unisex-t-shirt",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nDON'T BE IGNORANT! CREEPY MJ SHORT-SLEEVE UNISEX T-SHIRT\nfrom $24.00\nYou've now found the staple t-shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite!\n\n• 100% ring-spun cotton\n• Sport Grey is 90% ring-spun cotton, 10% polyester\n• Dark Heather is 65% polyester, 35% cotton\n• 4.5 oz/yd² (153 g/m²)\n• Pre-shrunk\n• Shoulder-to-shoulder taping\n• Quarter-turned to avoid crease down the center\n• Blank product sourced from Bangladesh, Honduras, Haiti, Mexico, or Nicaragua\nSIZE:\n \nSelect Size\nS\nM\nL\nXL\n2XL\n3XL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "DON'T BE IGNORANT! Creepy MJ Short-Sleeve Unisex T-Shirt — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/gramps-he-nasty-t-shirt",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nGRAMPS \"HE NASTY\" T-SHIRT\nfrom $24.00\nThis t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all.\n\n• 100% combed and ring-spun cotton (Heather colors contain polyester)\n• Fabric weight: 4.2 oz/yd² (142 g/m²)\n• Pre-shrunk fabric\n• Side-seamed construction\n• Shoulder-to-shoulder taping\n• Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the US\nSIZE:\n \nSelect Size\nM\nL\nXL\n2XL\n3XL\n4XL\n5XL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Gramps \"He Nasty\" t-shirt — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/granny-she-naughty-t-shirt",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nGRANNY \"SHE NAUGHTY\" T-SHIRT\nfrom $24.00\nThis t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all.\n\n• 100% combed and ring-spun cotton (Heather colors contain polyester)\n• Fabric weight: 4.2 oz/yd² (142 g/m²)\n• Pre-shrunk fabric\n• Side-seamed construction\n• Shoulder-to-shoulder taping\n• Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the US\nSIZE:\n \nSelect Size\nXS\nS\nM\nL\nXL\n2XL\n3XL\n4XL\n5XL\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Granny \"She Naughty\" t-shirt — BRANDON STYLES"
+        },
+        {
+          "url": "https://www.brandonstyles.com/shop/creepy-mj-playing-cards",
+          "text": "Rain or shine, BUY TICKETS NOW to see the Gulf Coast’s Hottest Shows!\n\n0\nHOMEVARIETY SHOWMAGIC SHOWTRIP DOWN MEMORY LANESHOW SCHEDULEVIDEOSTHEATER INFOVIP TICKETSPRIVATE EVENTSSHOP/CARTCONTACT\nCREEPY MJ PLAYING CARDS\n$18.00\nBring a fun, personal touch to game night with these smooth, premium-feel poker cards. They’re great for family games, special events, and unique gifts. Each deck comes ready to play and easy to carry.\n\n• Smooth 305 gsm cardstock\n• Standard 2.5″ × 3.5″ (6.4 cm × 8.9 cm) size\n• 52 cards + 2 Jokers\n• Includes a clear acrylic box\n• Blank product sourced from the USA\nADD TO CART\n\nBrandon Styles Live - Theater & Magic Shop at OWA\n\nOWA: 1501 South OWA Blvd., Foley, AL 36535\n\n251-237-3330",
+          "title": "Creepy MJ playing cards — BRANDON STYLES"
+        }
+      ],
+      "imageUrls": [
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1525748019373-FR34USGLC4U88QV5DDAA/Choose+Your+Style+BG.png?format=2500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/fab91f00-bec7-4ae0-89eb-85c5385f2786/Magic+Show+for+epk+%281%29.png",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/c14c660d-547f-4983-80e9-7383a53380c6/tdml+poster+for+epk+website.png",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747928247-8SF4I9Q4OIFHZT0BGKBD/DSC08646.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747878439-06109EW9KE5SO4E6XT4W/1.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747909305-NKABOBWOYNLNIQUSFPK6/DSC08850-733x489.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1575600335653-EXJ14W9RQGSK4EE7X2NO/DSC00061-1.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747878520-WP4AR7CQ30N7V6P3U1QG/2.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747908739-1UBB2HAV5KI2J1VX0M4V/DSC08706-654x981.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747886340-A9IV3VVBHO4MLLHCKMR0/3.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1575600170876-25IBJH38RHDGIU9AFI0I/DSC09963-1.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747886099-Z4I3AZ1KY5UJ74HJQGS0/4.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747930807-LR8HH7P8IDH9A3MDR2SS/DSC09042.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747991907-2T5ERLY87JAKMF6IVF8J/DSC09132.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1575600399841-AP4I93P1ZRTTNEV9QHUN/ej.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747898564-XDFL6WY9DRJVAUTHR2DH/5+-+Copy.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1575600499743-V6FCQWGBLA86EX4R8YCT/DSC09769-1.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1559747985255-2TAW2JZLTTS2TTPXOMZV/DSC09307-1.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1596831297037-4H4KVL5KRY5JMUV7QBVG/image-asset.png",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860006068-SUYKBVBY60XIHLGTUCFE/criss+%281%29.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860241587-FPW5T19X0P5JJDA8RKIK/IMG_9161.JPG?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1732074216310-PTP1I26KRDR8PCCXFIVM/ej.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860005004-3HCJ33SC9RLU9PSCTQNL/DSC09132.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576951311077-Z6WS7S7E8QCUOSTJOOTM/DSC09451-1.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860106897-MD8FBLWS7BUE90XUR4HA/IMG_1020.JPG?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860014202-271K4EINQHKR1PQWHWVN/DSC09240-1.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860112510-OHE9GGBGCWEAKQZO6X9Q/IMG_1094.JPG?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860023053-ELZ0XFI7J1RPNYY3JP8Z/DSC09307-1.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860024131-BXMZTVYPSGAASNY1FAOQ/just+brandon+resized+and+light+adjusted.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860124258-A9LFD939CD6E6F7H9SI3/IMG_1134.JPG?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860044182-O1561R3VPCWCAMN86YSE/prince.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861177885-B8SMQPIGYS1MASCC5FTI/IMG_0187.JPG?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576860045214-U27JCQVKB78ELTM6PG1P/u2.png?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861111343-GDL7HNJ0XJTO6EYBH5V2/audience.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576951319596-9G4UAH56U3TYMCYZBXFQ/DSC09641-1.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576951369565-4WKTFT49AJ5HV4AIPYWF/DSC08728.jpg?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861240269-D2M79C89BC41F7L085LP/1+%286%29.JPG?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1596833009275-XKAGH8326QEM5C8U0B3B/image-asset.png",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861891181-GUYMTSU2BSZ7JMJNLNJN/1.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576863136142-W1FAKP1RCGCQSUP8IGAW/smiles.png?format=500w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861891251-L91FXQGM6UMRQ4FT6Z0D/2.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861900713-6TQNRFZNXSZ6TD79Z1J4/3.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861900369-XLGVL5SBPNCUI6PNKICG/4.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861933545-SI8VLHNACNZ6Z76PYTAM/5.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861928420-XA3KV9B64NR10HD9R974/DSC01299-1.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576861938156-PFK1FEWNIVVGC65URI9T/DSC01636-1.jpg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576862882845-HNTM93ZI759GUFL5E4CP/IMG_0141.JPG?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/43b56e19-f03d-4ce1-8ed1-d7dd7c7f2fb1/Brandon-Styles-Trip-Down-Memory-Lane-Logo-3-Gold.png",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1755454616534-2F0BWLI3Y0MN57H0MME6/DSC01298.jpeg?format=750w",
+        "https://images.squarespace-cdn.com/content/v1/5626efe7e4b0fcee47569fe7/1576862277845-2TN0P4S79NMMZKH1XD3D/DSC00061-1.jpg?format=750w"
+      ],
+      "scraped_at": "2026-05-16T07:45:13.721Z",
+      "business_name": "Brandon Styles Live Theater & Magic Shop at OWA"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "structured-data",
+      "gcr-import-ready",
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "raw-page-data"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:15.477529+00:00",
+    "updated_at": "2026-05-18T21:30:05.044297+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
   },
-  "events": [],
-  "photos": [],
-  "amenities": [],
+  "features": [],
+  "perfect_for": [],
   "tags": [
     {
+      "id": "77e0eecd-c7b1-41ec-9d1e-43748e09997f",
+      "tag": "entertainment",
+      "tag_category": "google_type",
+      "sort_order": 0
+    },
+    {
+      "id": "af06805f-5140-45ad-b7de-22763d4b427c",
+      "tag": "live_music_venue",
+      "tag_category": "google_type",
+      "sort_order": 1
+    },
+    {
+      "id": "dc566a2b-f00c-47cd-bd36-d85d1491a4fa",
+      "tag": "comedy_club",
+      "tag_category": "google_type",
+      "sort_order": 2
+    },
+    {
+      "id": "b0bcc2e7-e361-4038-a7db-d37aa0a7daa5",
+      "tag": "tourist_attraction",
+      "tag_category": "google_type",
+      "sort_order": 3
+    },
+    {
+      "id": "bf0122ce-a848-4cff-b38f-a6a86b51e2b4",
+      "tag": "performing_arts_theater",
+      "tag_category": "google_type",
+      "sort_order": 4
+    },
+    {
+      "id": "5af35b93-063c-43b2-a1a2-fc46ab4b98a7",
+      "tag": "event_venue",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "41d01391-9955-4aa0-993e-8958e4d80466",
+      "tag": "store",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "85fac41c-c4f8-4bb0-9e5f-cc1566b6c47e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 7
+    },
+    {
+      "id": "535ce3a6-9ef7-4e17-86c6-021b82d83508",
       "tag": "service",
-      "tag_category": "google_type"
+      "tag_category": "google_type",
+      "sort_order": 8
+    },
+    {
+      "id": "b3a3df3b-cdec-4ae1-a619-2630e3a44fe3",
+      "tag": "establishment",
+      "tag_category": "google_type",
+      "sort_order": 9
     }
   ],
-  "featured": false,
-  "is_active": true
+  "sections": [
+    {
+      "id": "97789ad2-ae8d-4646-8e98-e22f8c2c2f24",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
+  "hours": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
+  "happy_hour": {
+    "sections": [],
+    "items": []
+  },
+  "events": [],
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

@@ -1,32 +1,257 @@
 {
-  "id": "8802cfef-1890-4bcc-9726-cab611ca64af",
-  "slug": "abc-select-spirits-ueDwUY",
-  "name": "ABC SELECT SPIRITS",
-  "entity_type": "shopping",
-  "entity_subtype": "shopping",
-  "icon": "🏪",
-  "description": "",
-  "phone": "(251) 948-1016",
-  "email": null,
-  "website_url": "https://alabcboard.gov/",
-  "address_line_1": "1514 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.5,
-  "review_count": 175,
-  "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/3e3745d7-088e-4513-a501-52c0b425fac3/image_1.jpg",
-  "photos": [],
+  "entity": {
+    "id": "8802cfef-1890-4bcc-9726-cab611ca64af",
+    "place_id": "ChIJJda_ENAEmogRaggYoueDwUY",
+    "google_maps_uri": "https://maps.google.com/?cid=5098501284040280170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "abc-select-spirits-ueDwUY",
+    "name": "ABC SELECT SPIRITS",
+    "subtitle": null,
+    "entity_type": "shopping",
+    "entity_subtype": "shopping",
+    "secondary_types": [],
+    "google_type": "liquor_store",
+    "google_types": [
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-1016",
+    "international_phone": null,
+    "website_url": "https://alabcboard.gov/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "1514 Gulf Shores Pkwy, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2654072,
+    "longitude": -87.6881515,
+    "short_address": "1514 Gulf Shores Pkwy, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.5,
+    "review_count": 175,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": null,
+    "hero_image_url": "https://adpnhipmdefutkzzltbs.supabase.co/storage/v1/object/public/entity-images/3e3745d7-088e-4513-a501-52c0b425fac3/image_1.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": null,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    },
+    "parking": {
+      "paidParkingLot": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 11:00 AM – 7:00 PM",
+      "Tuesday: 11:00 AM – 7:00 PM",
+      "Wednesday: 11:00 AM – 7:00 PM",
+      "Thursday: 11:00 AM – 7:00 PM",
+      "Friday: 11:00 AM – 7:00 PM",
+      "Saturday: 11:00 AM – 7:00 PM",
+      "Sunday: Closed"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "gcr-organized"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:13.707977+00:00",
+    "updated_at": "2026-05-17T22:22:53.198238+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "3f17e671-57d4-4a41-a33a-a852bb7d9d3c",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "6c6791fc-e2ba-4d5b-b0e6-88fa78276e86",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "8bcff015-7b1d-4d78-9a79-452f31e1b36b",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "5a5b6e8d-29ee-4cf4-a0c7-94f822f8de2c",
+      "tag": "store",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "b9fe3e79-1245-4ac8-bc5b-5e0af9362de6",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "038a0bfd-dd51-4e1b-a798-ae862e25293e",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "740d996c-5c75-4fa0-a6d6-bfd5b1b23fb7",
+      "tag": "liquor store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "0c3b23f2-272b-46a7-8ddc-6ee0c4b447e2",
+      "tag": "liquor store",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "bfe46abd-d3dc-41f6-886e-56a240126388",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "4760922d-2fc1-4cd6-b17f-f65f470cdd75",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "eddb4270-20e1-4451-bffd-61d84fef7d76",
+      "tag": "liquor_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "6311ab31-efc8-4799-bdc7-340404c30aa8",
+      "tag": "liquor_store",
+      "tag_category": "google_type",
+      "sort_order": 5
+    },
+    {
+      "id": "01334abe-2361-49c2-9d45-35f8b5bd9ef5",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    },
+    {
+      "id": "1fe38fb2-3c6f-45fa-9b63-ba27a26b6675",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 6
+    }
+  ],
+  "sections": [
+    {
+      "id": "de486cb4-435e-4406-b92d-d21ff8cc4c59",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

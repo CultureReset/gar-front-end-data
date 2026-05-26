@@ -1,32 +1,384 @@
 {
-  "id": "cb0e5a76-e394-4f53-b0c5-fefe820bf03a",
-  "slug": "big-beach-brewing-wwqX_0",
-  "name": "Big Beach Brewing",
-  "entity_type": "artist",
-  "entity_subtype": "bar",
-  "icon": "🏪",
-  "description": "Big Beach Brewing Company is the southernmost brewery in Alabama located in the heart of Gulf Shores. The brewery features a beautiful open-air taproom with fireplace and comfortable seating. They operate a 10 barrel brewing system with six fermenters capable of producing up to 12 beers on tap at a time, specializing in craft ales including IPAs, Stouts, Cream Ales, and Belgian style beers. The taproom offers flatbreads and shareable snacks from their Taproom Table Kitchen. They carry Pensacola-made Big Jerk Soda for non-drinkers and operate on a tank-to-tap system with eight 300-gallon vessels for the freshest beer. The space is family-friendly with outdoor seating and four garage doors for coastal breeze flow.",
-  "phone": "(251) 948-2337",
-  "email": null,
-  "website_url": "http://bigbeachbrewing.com/",
-  "address_line_1": "300 E 24th Ave, Gulf Shores, AL 36542, USA",
-  "city": "Gulf Shores",
-  "state": "AL",
-  "zip": "36542",
-  "rating": 4.8,
-  "review_count": 764,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/cb0e5a76-e394-4f53-b0c5-fefe820bf03a/cb0e5a76-e394-4f53-b0c5-fefe820bf03a_1779139819167.5986.jpg",
-  "photos": [],
+  "entity": {
+    "id": "cb0e5a76-e394-4f53-b0c5-fefe820bf03a",
+    "place_id": "ChIJtWvLtCAFmogRenDIewwqX_0",
+    "google_maps_uri": "https://maps.google.com/?cid=18257357647487987834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "big-beach-brewing-wwqX_0",
+    "name": "Big Beach Brewing",
+    "subtitle": null,
+    "entity_type": "artist",
+    "entity_subtype": "bar",
+    "secondary_types": [],
+    "google_type": "brewery",
+    "google_types": [
+      "brewery",
+      "wine_bar",
+      "bar",
+      "manufacturer",
+      "food",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 948-2337",
+    "international_phone": null,
+    "website_url": "http://bigbeachbrewing.com/",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "300 E 24th Ave, Gulf Shores, AL 36542, USA",
+    "address_line_2": null,
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542",
+    "latitude": 30.2782115,
+    "longitude": -87.6828105,
+    "short_address": "300 E 24th Ave, Gulf Shores",
+    "plus_code": null,
+    "rating": 4.8,
+    "review_count": 764,
+    "price_level": null,
+    "business_status": "OPERATIONAL",
+    "editorial_summary": null,
+    "description": "Big Beach Brewing Company is the southernmost brewery in Alabama located in the heart of Gulf Shores. The brewery features a beautiful open-air taproom with fireplace and comfortable seating. They operate a 10 barrel brewing system with six fermenters capable of producing up to 12 beers on tap at a time, specializing in craft ales including IPAs, Stouts, Cream Ales, and Belgian style beers. The taproom offers flatbreads and shareable snacks from their Taproom Table Kitchen. They carry Pensacola-made Big Jerk Soda for non-drinkers and operate on a tank-to-tap system with eight 300-gallon vessels for the freshest beer. The space is family-friendly with outdoor seating and four garage doors for coastal breeze flow.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/cb0e5a76-e394-4f53-b0c5-fefe820bf03a/cb0e5a76-e394-4f53-b0c5-fefe820bf03a_1779139819167.5986.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": "https://www.instagram.com/bigbeachbrewing/",
+    "social_facebook": "https://www.facebook.com/bigbeachbrewing",
+    "social_tiktok": null,
+    "outdoor_seating": null,
+    "reservable": null,
+    "dine_in": null,
+    "takeout": null,
+    "delivery": null,
+    "good_for_groups": null,
+    "live_music": null,
+    "serves_breakfast": null,
+    "serves_brunch": null,
+    "serves_lunch": null,
+    "serves_dinner": null,
+    "serves_beer": true,
+    "serves_wine": null,
+    "serves_cocktails": null,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 12:00 – 10:00 PM",
+      "Tuesday: 12:00 – 10:00 PM",
+      "Wednesday: 12:00 – 10:00 PM",
+      "Thursday: 12:00 – 10:00 PM",
+      "Friday: 12:00 – 11:00 PM",
+      "Saturday: 12:00 – 11:00 PM",
+      "Sunday: 12:00 – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": {
+      "menu": {
+        "categories": []
+      },
+      "hours": {
+        "friday": "12pm-11pm",
+        "monday": "12pm-10pm",
+        "sunday": "12pm-10pm",
+        "tuesday": "12pm-10pm",
+        "saturday": "12pm-11pm",
+        "thursday": "12pm-10pm",
+        "wednesday": "12pm-10pm"
+      },
+      "images": [],
+      "contact": {
+        "zip": "36542",
+        "city": "Gulf Shores",
+        "email": "info@bigbeachbrewing.com",
+        "phone": "251-948-2337",
+        "state": "AL",
+        "address": "300 East 24th Avenue",
+        "website": "https://www.bigbeachbrewing.com"
+      },
+      "features": [
+        "brewery",
+        "taproom",
+        "outdoor seating",
+        "family-friendly",
+        "fireplace",
+        "live music and events",
+        "kitchen"
+      ],
+      "specials": [],
+      "description": "Big Beach Brewing Company is the southernmost brewery in Alabama located in the heart of Gulf Shores. The brewery features a beautiful open-air taproom with fireplace and comfortable seating. They operate a 10 barrel brewing system with six fermenters capable of producing up to 12 beers on tap at a time, specializing in craft ales including IPAs, Stouts, Cream Ales, and Belgian style beers. The taproom offers flatbreads and shareable snacks from their Taproom Table Kitchen. They carry Pensacola-made Big Jerk Soda for non-drinkers and operate on a tank-to-tap system with eight 300-gallon vessels for the freshest beer. The space is family-friendly with outdoor seating and four garage doors for coastal breeze flow.",
+      "price_range": null,
+      "cuisine_type": "Brewery",
+      "extracted_at": "2026-05-16T19:09:13.399Z",
+      "social_media": {
+        "twitter": null,
+        "facebook": null,
+        "instagram": null
+      },
+      "business_name": "Big Beach Brewing Company"
+    },
+    "parent_entity_id": null,
+    "_sources": [
+      "raw-page-data",
+      "gcr-organized",
+      "all-businesses",
+      "consolidation",
+      "scraped-menus",
+      "structured-data",
+      "gcr-import-ready"
+    ],
+    "_extra_photos": [],
+    "created_at": "2026-05-17T21:16:17.198986+00:00",
+    "updated_at": "2026-05-18T21:30:24.093636+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "3e6fec93-c826-4135-b3a2-ceebbe4bd9d5",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 0
+    },
+    {
+      "id": "d8c4bc5c-9d3c-4f9a-bf9c-2f733a58a5dd",
+      "tag": "brewery",
+      "tag_category": "type",
+      "sort_order": 1
+    },
+    {
+      "id": "a720c2e6-f7c4-4642-8e61-072556e78fcd",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 2
+    },
+    {
+      "id": "af390d23-790d-4f60-982f-05a42bb612da",
+      "tag": "wine bar",
+      "tag_category": "type",
+      "sort_order": 3
+    },
+    {
+      "id": "60688c46-f940-4dff-b89c-14add2778c02",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 4
+    },
+    {
+      "id": "042c5c1f-655d-40e8-8c63-e52771ef538e",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 5
+    },
+    {
+      "id": "e1ecc96b-dbb3-4893-9373-5e9a1ca8386b",
+      "tag": "service",
+      "tag_category": "type",
+      "sort_order": 6
+    },
+    {
+      "id": "6ea5e251-d261-4fd3-90c7-43393d1157ac",
+      "tag": "manufacturer",
+      "tag_category": "type",
+      "sort_order": 7
+    },
+    {
+      "id": "de5a7fb5-68be-41e1-ac44-09b9b5658b70",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 8
+    },
+    {
+      "id": "b0664064-9d14-449b-a509-1e541df98f1d",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 9
+    },
+    {
+      "id": "1ababede-6ee3-433b-88f7-81e55123106a",
+      "tag": "full bar",
+      "tag_category": "drinks",
+      "sort_order": 10
+    },
+    {
+      "id": "0aae5674-88a1-4a32-b6d7-86ae4b9da44f",
+      "tag": "craft-beer",
+      "tag_category": "search",
+      "sort_order": 11
+    },
+    {
+      "id": "6a49cb7f-433c-470c-bef3-06f54a33ec50",
+      "tag": "beer-on-tap",
+      "tag_category": "search",
+      "sort_order": 12
+    },
+    {
+      "id": "04731178-9049-47b5-92d0-2d4e45a5a0fe",
+      "tag": "wine",
+      "tag_category": "search",
+      "sort_order": 13
+    },
+    {
+      "id": "aec0d79c-c654-427b-9863-4defa9b6cb2f",
+      "tag": "live-music",
+      "tag_category": "search",
+      "sort_order": 14
+    },
+    {
+      "id": "ef49fdfe-edf1-46d0-a5b7-37e3df5d385b",
+      "tag": "events",
+      "tag_category": "search",
+      "sort_order": 15
+    },
+    {
+      "id": "2312cc19-978b-4645-87b3-e15730bae622",
+      "tag": "alabama",
+      "tag_category": "search",
+      "sort_order": 16
+    },
+    {
+      "id": "e8ce7b8e-d85f-459f-929a-497cbb2f3bd8",
+      "tag": "beer-hall",
+      "tag_category": "search",
+      "sort_order": 17
+    },
+    {
+      "id": "1065dc83-8571-4d78-bba1-c0fdd8c93eb8",
+      "tag": "happy_hour",
+      "tag_category": "amenity",
+      "sort_order": 18
+    },
+    {
+      "id": "460ec645-ca28-4e71-b793-82cd435b5497",
+      "tag": "gulf_shores",
+      "tag_category": "search",
+      "sort_order": 19
+    },
+    {
+      "id": "d78bca37-8799-4182-b81f-d4c1b3a2121e",
+      "tag": "live_music",
+      "tag_category": "amenity",
+      "sort_order": 20
+    },
+    {
+      "id": "5c77f5eb-6aec-4887-9585-035f756d18e9",
+      "tag": "full_bar",
+      "tag_category": "amenity",
+      "sort_order": 21
+    },
+    {
+      "id": "3b9d74a2-a666-4b0f-9804-5256c4e63e03",
+      "tag": "local-brewery",
+      "tag_category": "search",
+      "sort_order": 22
+    },
+    {
+      "id": "050dc93b-07d1-4ba1-b5f7-6b7069ce29aa",
+      "tag": "gulf-shores",
+      "tag_category": "search",
+      "sort_order": 23
+    },
+    {
+      "id": "a9290805-8e96-4612-af13-4fa3f2e2e635",
+      "tag": "wine_bar",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "cdbdc658-3d99-46b9-9b16-2e89641ffcfb",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 25
+    }
+  ],
+  "sections": [
+    {
+      "id": "6410d17a-601b-465d-9d81-d6da508db349",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }

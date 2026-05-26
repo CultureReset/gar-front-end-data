@@ -1,32 +1,517 @@
 {
-  "id": "6f5e208b-1938-4649-86ff-17f00c610b2f",
-  "slug": "latitude-30-2_gRZI",
-  "name": "Latitude 30",
-  "entity_type": "restaurant",
-  "entity_subtype": "restaurant",
-  "icon": "🏪",
-  "description": "Relaxed eatery offering regional American classics & breakfast at the Perdido Beach Resort.",
-  "phone": "(251) 981-9811",
-  "email": null,
-  "website_url": "http://www.perdidobeachresort.com/dining/latitude-30",
-  "address_line_1": "27200 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
-  "city": "Orange Beach",
-  "state": "AL",
-  "zip": "36561",
-  "rating": 4.1,
-  "review_count": 226,
-  "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139439376.2212.jpg",
-  "photos": [],
+  "entity": {
+    "id": "6f5e208b-1938-4649-86ff-17f00c610b2f",
+    "place_id": "ChIJK4TikwoHmogRxGwlt2_gRZI",
+    "google_maps_uri": "https://maps.google.com/?cid=10540077273349188804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "slug": "latitude-30-2_gRZI",
+    "name": "Latitude 30",
+    "subtitle": null,
+    "entity_type": "restaurant",
+    "entity_subtype": "restaurant",
+    "secondary_types": [],
+    "google_type": "restaurant",
+    "google_types": [
+      "restaurant",
+      "family_restaurant",
+      "breakfast_restaurant",
+      "american_restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "icon": null,
+    "emoji": null,
+    "tagline": null,
+    "phone": "(251) 981-9811",
+    "international_phone": null,
+    "website_url": "http://www.perdidobeachresort.com/dining/latitude-30",
+    "email": null,
+    "directions_url": null,
+    "call_url": null,
+    "address_line_1": "27200 Perdido Beach Blvd, Orange Beach, AL 36561, USA",
+    "address_line_2": null,
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561",
+    "latitude": 30.2732153,
+    "longitude": -87.5615907,
+    "short_address": "27200 Perdido Beach Blvd, Orange Beach",
+    "plus_code": null,
+    "rating": 4.1,
+    "review_count": 226,
+    "price_level": "MODERATE",
+    "business_status": "OPERATIONAL",
+    "editorial_summary": "Relaxed eatery offering regional American classics & breakfast at the Perdido Beach Resort.",
+    "description": "Relaxed eatery offering regional American classics & breakfast at the Perdido Beach Resort.",
+    "hero_image_url": "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139439376.2212.jpg",
+    "cover_url": null,
+    "logo_url": null,
+    "is_active": true,
+    "featured": false,
+    "gcr_listed": false,
+    "gcr_verified": false,
+    "sort_order": 0,
+    "booking_url": null,
+    "reservation_url": null,
+    "order_url": null,
+    "price_range": null,
+    "price_from": null,
+    "price_to": null,
+    "price_unit": null,
+    "social_instagram": null,
+    "social_facebook": null,
+    "social_tiktok": null,
+    "outdoor_seating": true,
+    "reservable": true,
+    "dine_in": true,
+    "takeout": true,
+    "delivery": null,
+    "good_for_groups": true,
+    "live_music": null,
+    "serves_breakfast": true,
+    "serves_brunch": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "serves_beer": true,
+    "serves_wine": true,
+    "serves_cocktails": true,
+    "serves_vegetarian": null,
+    "accessibility": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleSeating": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    },
+    "parking": {
+      "freeParkingLot": true,
+      "freeStreetParking": true
+    },
+    "payment": {
+      "acceptsNfc": true,
+      "acceptsCashOnly": false,
+      "acceptsDebitCards": true,
+      "acceptsCreditCards": true
+    },
+    "hours_text": [
+      "Monday: 7:00 AM – 10:00 PM",
+      "Tuesday: 7:00 AM – 10:00 PM",
+      "Wednesday: 7:00 AM – 10:00 PM",
+      "Thursday: 7:00 AM – 10:00 PM",
+      "Friday: 7:00 AM – 10:00 PM",
+      "Saturday: 7:00 AM – 10:00 PM",
+      "Sunday: 7:00 AM – 10:00 PM"
+    ],
+    "hh_days": null,
+    "hh_start": null,
+    "hh_end": null,
+    "hh_description": null,
+    "menu": null,
+    "parent_entity_id": null,
+    "_sources": [
+      "raw-page-data",
+      "gcr-organized",
+      "all-businesses",
+      "consolidation"
+    ],
+    "_extra_photos": [
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139439947.34.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139440755.909.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139441325.3577.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139441892.117.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139442390.7725.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139442814.5503.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139443321.9082.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139443815.891.jpg",
+      "https://xbptmkpbiqzvxptjkfoi.supabase.co/storage/v1/object/public/entity-images/entity-images/6f5e208b-1938-4649-86ff-17f00c610b2f/6f5e208b-1938-4649-86ff-17f00c610b2f_1779139444430.2617.jpg"
+    ],
+    "created_at": "2026-05-17T21:16:13.707977+00:00",
+    "updated_at": "2026-05-18T21:24:09.511489+00:00",
+    "menu_edit_pin": null,
+    "cuisine_type": null,
+    "atmosphere": null,
+    "extraction_confidence": null,
+    "extraction_timestamp": null,
+    "extraction_notes": null,
+    "social_twitter": null,
+    "social_youtube": null,
+    "accepts_reservations": null,
+    "online_booking_platform": null,
+    "phone_reservations": null,
+    "group_size_limit": null,
+    "advance_notice_required": null
+  },
+  "features": [],
+  "perfect_for": [],
+  "tags": [
+    {
+      "id": "4d8948cd-4c3a-4d24-b978-d47d00c6e459",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "126583cc-501e-498f-bc9d-09fa3e82cc32",
+      "tag": "dine in",
+      "tag_category": "service",
+      "sort_order": 0
+    },
+    {
+      "id": "9d7064e8-4602-49cd-b015-611a880ad318",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 1
+    },
+    {
+      "id": "0f1ffd2f-6d99-4d06-9398-6711f033071d",
+      "tag": "dinner",
+      "tag_category": "food",
+      "sort_order": 1
+    },
+    {
+      "id": "9e8748bb-98b7-428c-9bbb-a538d33f35cd",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 2
+    },
+    {
+      "id": "1d71eaec-2905-4597-9d37-5f46f3c038c0",
+      "tag": "dessert",
+      "tag_category": "food",
+      "sort_order": 2
+    },
+    {
+      "id": "1e4845d5-f722-484c-b779-1206eb305289",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "b92b4026-e0a0-48b9-8334-c41a4062fc4c",
+      "tag": "outdoor seating",
+      "tag_category": "vibe",
+      "sort_order": 3
+    },
+    {
+      "id": "1c2142b9-ef56-4dd8-9e05-47264da89436",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "92591d9c-4473-4a81-8fd6-d9a0b42ed502",
+      "tag": "takeout",
+      "tag_category": "service",
+      "sort_order": 4
+    },
+    {
+      "id": "23233b0c-f3ff-4d62-ab5e-7e0e6f0f64b9",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 5
+    },
+    {
+      "id": "55a82e93-aa3d-46e9-b284-f265a541ab05",
+      "tag": "beer",
+      "tag_category": "drinks",
+      "sort_order": 5
+    },
+    {
+      "id": "732185cc-3d21-4774-9dbf-a8d02881b42d",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "6a13903a-c260-40a3-b1fa-f8e4c955cff2",
+      "tag": "wheelchair accessible",
+      "tag_category": "service",
+      "sort_order": 6
+    },
+    {
+      "id": "d8988ddb-3178-4d34-b91b-8265eab0a36e",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 7
+    },
+    {
+      "id": "2754bfbf-5146-4d32-8c55-9e76c6389240",
+      "tag": "lunch",
+      "tag_category": "food",
+      "sort_order": 7
+    },
+    {
+      "id": "9a08e13f-c4b7-4cf8-b961-004e4ffa5927",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "569dee06-43a6-4028-b698-3e8ac55c47dd",
+      "tag": "coffee",
+      "tag_category": "drinks",
+      "sort_order": 8
+    },
+    {
+      "id": "9ae079e0-132e-44d2-9269-4dd77dfe75b1",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "0ddfc5b5-2078-453a-9f35-618cef5c5207",
+      "tag": "family friendly",
+      "tag_category": "vibe",
+      "sort_order": 9
+    },
+    {
+      "id": "63bbe5fc-e813-4c74-b161-a2b00fe56c20",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "ee96cd04-ef52-45cd-9ddb-cb2ab2ad0822",
+      "tag": "breakfast",
+      "tag_category": "food",
+      "sort_order": 10
+    },
+    {
+      "id": "029bad0d-45d2-44a6-8d5f-90ed1a018133",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "4de0f285-d1b2-4e7b-8279-62c068e73c59",
+      "tag": "wine",
+      "tag_category": "drinks",
+      "sort_order": 11
+    },
+    {
+      "id": "c01be75f-6667-4f65-b956-18f31d33abf2",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "23f161d0-ccf8-4972-b83e-7b5501aba9a5",
+      "tag": "good for groups",
+      "tag_category": "vibe",
+      "sort_order": 12
+    },
+    {
+      "id": "a8d9bd60-bc41-4dc6-b373-541450d223e3",
+      "tag": "brunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "aae6effe-3f4c-4c86-b423-95ccab2e214e",
+      "tag": "brunch",
+      "tag_category": "food",
+      "sort_order": 13
+    },
+    {
+      "id": "0edf4255-e470-45cf-99af-37d7a19e7007",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "0a9635a3-c035-4e7c-bb92-00e68b3f81fc",
+      "tag": "cocktails",
+      "tag_category": "drinks",
+      "sort_order": 14
+    },
+    {
+      "id": "64e6c741-cecd-4670-b68a-4af363b1e2de",
+      "tag": "family restaurant",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "d54eac6c-5115-4a52-8f5d-baf7b3fa1043",
+      "tag": "family restaurant",
+      "tag_category": "type",
+      "sort_order": 15
+    },
+    {
+      "id": "272ab756-57d7-4731-8184-240a86436997",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "a32d7573-ad51-4ef8-9ec4-53cb3f714af5",
+      "tag": "point of interest",
+      "tag_category": "type",
+      "sort_order": 16
+    },
+    {
+      "id": "92a6692c-c961-40f1-bdec-443ba36ba74d",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "aa0fba43-db11-49fe-a361-00700ba1234f",
+      "tag": "breakfast restaurant",
+      "tag_category": "type",
+      "sort_order": 17
+    },
+    {
+      "id": "007e476a-c180-4689-980d-326dfd9a901c",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "b52e346f-cedd-4f79-a606-3963fb6592a4",
+      "tag": "establishment",
+      "tag_category": "type",
+      "sort_order": 18
+    },
+    {
+      "id": "c2be0376-a081-494a-8fb7-e143e9e884ad",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "7c98f4a0-07bb-4359-a4c6-110ab00616b7",
+      "tag": "bar",
+      "tag_category": "type",
+      "sort_order": 19
+    },
+    {
+      "id": "605a66b2-226f-4d42-82dc-6326481baa2c",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "62faa91c-964f-4bb6-ab89-7f078ba19900",
+      "tag": "american restaurant",
+      "tag_category": "type",
+      "sort_order": 20
+    },
+    {
+      "id": "e75c5c69-c32f-44c5-98ad-5b59f30345be",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "6cab322f-7f22-48bd-9158-75f71f8b1025",
+      "tag": "restaurant",
+      "tag_category": "type",
+      "sort_order": 21
+    },
+    {
+      "id": "d0c596bc-364a-428d-8655-3f3172ddd844",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "2b4f0160-830c-4d37-a416-a1df5cf268cc",
+      "tag": "food",
+      "tag_category": "type",
+      "sort_order": 22
+    },
+    {
+      "id": "88ac589e-e59b-419e-933d-6a5545c227af",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "3733654f-9025-4fb9-94d0-935b7f61b160",
+      "tag": "breakfast_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 23
+    },
+    {
+      "id": "69ae71c8-7269-4cd3-8e08-bb74d57bf3cf",
+      "tag": "family_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "cb647da7-cf75-46c4-97ac-676dbd06845a",
+      "tag": "family_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 24
+    },
+    {
+      "id": "95bd504a-7b0f-49c8-81c2-5f7f5f5e55f8",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "d1e7ba17-63ad-4830-9a96-46e8fd471f06",
+      "tag": "american_restaurant",
+      "tag_category": "google_type",
+      "sort_order": 25
+    },
+    {
+      "id": "fb059233-8d3e-4a56-8363-a74a4a9106c6",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    },
+    {
+      "id": "110bd0f9-15a6-464a-8185-251bc308450e",
+      "tag": "point_of_interest",
+      "tag_category": "google_type",
+      "sort_order": 26
+    }
+  ],
+  "sections": [
+    {
+      "id": "0fb4acef-86c3-4833-9046-b2847e9ae616",
+      "section_key": "location",
+      "section_label": "Location",
+      "section_type": "location",
+      "sort_order": 20,
+      "location": null
+    }
+  ],
+  "sectionItems": [],
+  "sectionBullets": [],
   "hours": [],
-  "menu_sections": [],
-  "drink_sections": [],
+  "about_bullets": [],
+  "photos": [],
+  "menu": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  },
+  "drinks": {
+    "sections": [],
+    "items": []
+  },
   "happy_hour": {
-    "schedule": "",
-    "sections": []
+    "sections": [],
+    "items": []
   },
   "events": [],
-  "amenities": [],
-  "tags": [],
-  "featured": false,
-  "is_active": true
+  "specials": [],
+  "activities": [],
+  "pricing": [],
+  "booking_slots": [],
+  "fleet": [],
+  "addons": [],
+  "whats_included": [],
+  "requirements": [],
+  "policies": [],
+  "meeting_points": [],
+  "qna": [],
+  "shopping": {
+    "sections": [],
+    "sub_sections": [],
+    "items": []
+  }
 }
