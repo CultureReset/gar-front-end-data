@@ -118,4 +118,94 @@ router.get('/ai-settings', auth, (req, res) => {
   res.json({ model: 'claude-opus-4-7', enabled: true });
 });
 
+// ── POST /api/admin/parse-data ────────────────────────────────────
+// Parse raw unstructured data and return structured business fields
+router.post('/parse-data', async (req, res) => {
+  try {
+    const { rawData, currentBusiness } = req.body;
+    if (!rawData) return res.status(400).json({ error: 'rawData required' });
+
+    // Try to use Claude API if key is available
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    if (!apiKey) {
+      return res.json({ parsed: null, message: 'Claude API key not configured' });
+    }
+
+    const prompt = `You are a business data extraction expert. Parse this raw business data and extract structured information.
+
+Raw data:
+${rawData}
+
+Current business (if any):
+${JSON.stringify(currentBusiness, null, 2)}
+
+Extract and return ONLY a valid JSON object with these fields (use null for missing data):
+{
+  "name": "business name",
+  "phone": "phone number",
+  "email": "email address",
+  "website_url": "website URL",
+  "address_line_1": "street address",
+  "city": "city name",
+  "state": "state",
+  "zip": "zip code",
+  "entity_type": "restaurant/bar/shopping/etc",
+  "rating": 0-5,
+  "description": "business description",
+  "hours": [{"day":"Mon","open":"10am","close":"10pm"}],
+  "amenities": ["amenity1", "amenity2"]
+}
+
+Return ONLY the JSON, no markdown or explanation.`;
+
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': apiKey,
+        'anthropic-version': '2023-06-01'
+      },
+      body: JSON.stringify({
+        model: 'claude-opus-4-7',
+        max_tokens: 1000,
+        messages: [{
+          role: 'user',
+          content: prompt
+        }]
+      })
+    });
+
+    if (!response.ok) {
+      const error = await response.text();
+      console.error('Claude API error:', error);
+      return res.json({ parsed: null, error: 'Claude API failed' });
+    }
+
+    const result = await response.json();
+    const content = result.content[0]?.text || '';
+
+    // Parse the JSON response
+    const jsonMatch = content.match(/\{[\s\S]*\}/);
+    if (!jsonMatch) {
+      return res.json({ parsed: null, message: 'Could not parse Claude response' });
+    }
+
+    const parsed = JSON.parse(jsonMatch[0]);
+
+    // Clean up the parsed data
+    const cleaned = {};
+    Object.keys(parsed).forEach(key => {
+      const val = parsed[key];
+      if (val !== null && val !== undefined && val !== '') {
+        cleaned[key] = val;
+      }
+    });
+
+    res.json({ parsed: cleaned });
+  } catch (e) {
+    console.error('Parse error:', e.message);
+    res.json({ parsed: null, error: e.message });
+  }
+});
+
 module.exports = router;

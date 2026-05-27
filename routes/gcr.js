@@ -87,7 +87,7 @@ router.get('/entities', (req, res) => {
     entities = entities.filter(e => e.featured);
   }
 
-  const limit = Math.min(parseInt(req.query.limit) || 1000, 1000);
+  const limit = Math.min(parseInt(req.query.limit) || 1000, 10000);
   const offset = parseInt(req.query.offset) || 0;
   const paged = entities.slice(offset, offset + limit);
 

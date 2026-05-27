@@ -3,11 +3,11 @@
  * Include this script in launching-GCR pages to dynamically load all sections
  */
 
-const GCR_API = 'https://gar-front-end-data.vercel.app';
+const LAUNCHING_GCR_API = 'https://gcr-api-gules.vercel.app';
 
 class LaunchingGCRSections {
   constructor(options = {}) {
-    this.api = options.api || GCR_API;
+    this.api = options.api || LAUNCHING_GCR_API;
     this.cache = {};
   }
 

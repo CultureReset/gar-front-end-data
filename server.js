@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors');
+const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
@@ -27,6 +28,9 @@ function setCache(key, value) {
 app.use(cors());
 app.use(express.json());
 
+// Serve static files
+app.use('/data', express.static(path.join(__dirname, 'data')));
+
 // Make cache available to routes
 app.getCache = getCache;
 app.setCache = setCache;
@@ -44,6 +48,11 @@ app.use('/api/gcr/menu-editor-data', require('./routes/admin'));
 app.use('/api/gcr/menu-editor-save', require('./routes/admin'));
 
 app.get('/', (req, res) => res.json({ status: 'gcr-front-end-data running' }));
+
+// Serve dashboard
+app.get('/dashboard', (req, res) => {
+  res.sendFile(path.join(__dirname, 'dashboard.html'));
+});
 
 app.listen(PORT, () => console.log(`gcr-front-end-data running on port ${PORT}`));
 module.exports = app;

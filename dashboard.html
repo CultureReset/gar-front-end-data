@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GCR Business Dashboard - AI Powered</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+    .dashboard { max-width: 1600px; margin: 0 auto; display: flex; height: 90vh; gap: 20px; }
+    .header {
+      background: white;
+      border-radius: 16px;
+      padding: 24px 32px;
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+    }
+    .logo-text {
+      font-size: 24px;
+      font-weight: 700;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .main-area { flex: 1; display: flex; gap: 20px; margin-top: 100px; }
+    .sidebar {
+      width: 300px;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .sidebar-search { padding: 16px; border-bottom: 1px solid #e5e7eb; }
+    .sidebar-search input {
+      width: 100%;
+      padding: 10px 12px;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+    .sidebar-search input:focus { outline: none; border-color: #667eea; }
+    .business-list { flex: 1; overflow-y: auto; }
+    .business-item {
+      padding: 12px 16px;
+      border-bottom: 1px solid #f3f4f6;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .business-item:hover { background: #f9fafb; }
+    .business-item.active {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      font-weight: 600;
+    }
+    .business-name { font-size: 14px; font-weight: 500; margin-bottom: 4px; }
+    .business-type { font-size: 12px; opacity: 0.7; }
+    .chat-container {
+      flex: 0 0 350px;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+    }
+    .chat-header {
+      padding: 16px;
+      border-bottom: 1px solid #e5e7eb;
+      font-weight: 600;
+      color: #333;
+    }
+    .chat-messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .message {
+      padding: 12px 16px;
+      border-radius: 12px;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .message.user {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      align-self: flex-end;
+      max-width: 80%;
+    }
+    .message.assistant {
+      background: #f3f4f6;
+      color: #333;
+      align-self: flex-start;
+      max-width: 80%;
+    }
+    .chat-input-area {
+      padding: 16px;
+      border-top: 1px solid #e5e7eb;
+      display: flex;
+      gap: 8px;
+    }
+    .chat-input-area textarea {
+      flex: 1;
+      padding: 10px 12px;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      font-size: 13px;
+      resize: none;
+      font-family: inherit;
+      max-height: 100px;
+    }
+    .chat-input-area textarea:focus { outline: none; border-color: #667eea; }
+    .btn-send {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      padding: 10px 16px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.2s;
+    }
+    .btn-send:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3); }
+    .editor-container {
+      flex: 1;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      overflow-y: auto;
+      padding: 32px;
+    }
+    .editor-header { font-size: 28px; font-weight: 700; margin-bottom: 24px; color: #1a1a1a; }
+    .section { margin-bottom: 32px; }
+    .section-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #333;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #e5e7eb;
+    }
+    .form-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    .form-grid.full { grid-template-columns: 1fr; }
+    .form-group { display: flex; flex-direction: column; }
+    .form-label {
+      font-size: 13px;
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 6px;
+    }
+    .form-input, .form-textarea {
+      padding: 10px 12px;
+      border: 2px solid #e5e7eb;
+      border-radius: 8px;
+      font-size: 14px;
+      font-family: inherit;
+    }
+    .form-input:focus, .form-textarea:focus { outline: none; border-color: #667eea; box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1); }
+    .form-textarea { min-height: 100px; resize: vertical; }
+    .btn-primary {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(102, 126, 234, 0.4); }
+    .placeholder { text-align: center; color: #999; padding: 80px 40px; }
+    .status { padding: 12px 16px; margin-bottom: 16px; background: #e8f5e9; border-left: 4px solid #4CAF50; border-radius: 4px; color: #2e7d32; font-size: 14px; }
+    @media (max-width: 1200px) { .chat-container { display: none; } }
+  </style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="logo-text">🏖️ GCR Business Dashboard</div>
+  <div style="font-size: 14px; color: #666;">
+    Total Businesses: <strong id="totalCount">0</strong>
+  </div>
+</div>
+
+<!-- Main Area -->
+<div class="main-area">
+  <!-- Sidebar - Business List -->
+  <div class="sidebar">
+    <div class="sidebar-search">
+      <input type="text" id="searchBox" placeholder="Search businesses..." oninput="searchBusinesses()">
+    </div>
+    <div class="business-list" id="businessList"></div>
+  </div>
+
+  <!-- Editor -->
+  <div class="editor-container">
+    <div class="placeholder" id="placeholder">
+      👈 Select a business from the list to edit
+    </div>
+    <div id="editorForm" style="display: none;">
+      <div id="statusMsg"></div>
+      <div class="editor-header" id="businessTitle"></div>
+
+      <!-- Basic Info Section -->
+      <div class="section">
+        <div class="section-title">📝 Basic Information</div>
+        <div class="form-grid">
+          <div class="form-group"><label class="form-label">Business Name</label><input type="text" class="form-input" id="name" onchange="updateData('name')"></div>
+          <div class="form-group"><label class="form-label">Type</label><input type="text" class="form-input" id="entity_type" onchange="updateData('entity_type')"></div>
+          <div class="form-group"><label class="form-label">Subtype</label><input type="text" class="form-input" id="entity_subtype" onchange="updateData('entity_subtype')"></div>
+          <div class="form-group"><label class="form-label">Rating</label><input type="number" class="form-input" id="rating" min="0" max="5" step="0.1" onchange="updateData('rating')"></div>
+          <div class="form-group full"><label class="form-label">Description</label><textarea class="form-textarea" id="description" onchange="updateData('description')"></textarea></div>
+        </div>
+      </div>
+
+      <!-- Contact Section -->
+      <div class="section">
+        <div class="section-title">📞 Contact</div>
+        <div class="form-grid">
+          <div class="form-group"><label class="form-label">Phone</label><input type="tel" class="form-input" id="phone" onchange="updateData('phone')"></div>
+          <div class="form-group"><label class="form-label">Email</label><input type="email" class="form-input" id="email" onchange="updateData('email')"></div>
+          <div class="form-group full"><label class="form-label">Website</label><input type="url" class="form-input" id="website_url" onchange="updateData('website_url')"></div>
+        </div>
+      </div>
+
+      <!-- Address Section -->
+      <div class="section">
+        <div class="section-title">📍 Address</div>
+        <div class="form-grid">
+          <div class="form-group full"><label class="form-label">Street Address</label><input type="text" class="form-input" id="address_line_1" onchange="updateData('address_line_1')"></div>
+          <div class="form-group"><label class="form-label">City</label><input type="text" class="form-input" id="city" onchange="updateData('city')"></div>
+          <div class="form-group"><label class="form-label">State</label><input type="text" class="form-input" id="state" onchange="updateData('state')"></div>
+          <div class="form-group"><label class="form-label">ZIP</label><input type="text" class="form-input" id="zip" onchange="updateData('zip')"></div>
+        </div>
+      </div>
+
+      <!-- Hours & Menu -->
+      <div class="section">
+        <div class="section-title">⏰ Hours & Scheduling</div>
+        <div class="form-grid full">
+          <div class="form-group"><label class="form-label">Hours (JSON)</label><textarea class="form-textarea" id="hours" onchange="updateData('hours')"></textarea></div>
+          <div class="form-group"><label class="form-label">Menu (JSON)</label><textarea class="form-textarea" id="menu" onchange="updateData('menu')"></textarea></div>
+        </div>
+      </div>
+
+      <!-- Drinks & Specials -->
+      <div class="section">
+        <div class="section-title">🍹 Drinks & Specials</div>
+        <div class="form-grid full">
+          <div class="form-group"><label class="form-label">Drinks (JSON)</label><textarea class="form-textarea" id="drinks" onchange="updateData('drinks')"></textarea></div>
+          <div class="form-group"><label class="form-label">Specials (JSON)</label><textarea class="form-textarea" id="specials" onchange="updateData('specials')"></textarea></div>
+        </div>
+      </div>
+
+      <!-- Events & Happy Hour -->
+      <div class="section">
+        <div class="section-title">🎉 Events & Happy Hour</div>
+        <div class="form-grid full">
+          <div class="form-group"><label class="form-label">Events (JSON)</label><textarea class="form-textarea" id="events" onchange="updateData('events')"></textarea></div>
+          <div class="form-group"><label class="form-label">Happy Hour (JSON)</label><textarea class="form-textarea" id="happy_hour" onchange="updateData('happy_hour')"></textarea></div>
+        </div>
+      </div>
+
+      <!-- Tags & More -->
+      <div class="section">
+        <div class="section-title">✨ Tags & Metadata</div>
+        <div class="form-grid full">
+          <div class="form-group"><label class="form-label">Tags (JSON)</label><textarea class="form-textarea" id="tags" onchange="updateData('tags')"></textarea></div>
+          <div class="form-group"><label class="form-label">Amenities (JSON)</label><textarea class="form-textarea" id="amenities" onchange="updateData('amenities')"></textarea></div>
+        </div>
+        <div class="form-grid" style="margin-top: 16px;">
+          <label><input type="checkbox" id="featured" onchange="updateData('featured')"> Featured</label>
+          <label><input type="checkbox" id="is_active" onchange="updateData('is_active')"> Active</label>
+        </div>
+      </div>
+
+      <button class="btn-primary" onclick="saveBusiness()">💾 Save All Changes</button>
+    </div>
+  </div>
+
+  <!-- Chat - AI Assistant -->
+  <div class="chat-container">
+    <div class="chat-header">🤖 AI Assistant</div>
+    <div class="chat-messages" id="chatMessages"></div>
+    <div class="chat-input-area">
+      <textarea id="chatInput" placeholder="Ask AI to extract data, structure info, or fill details..." onkeypress="if(event.key==='Enter' && !event.shiftKey) sendMessage(); else if(event.key==='Enter') event.preventDefault();"></textarea>
+      <button class="btn-send" onclick="sendMessage()">→</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const API = 'http://localhost:3001/api';
+  let businesses = [];
+  let currentBusiness = null;
+  let currentData = {};
+
+  // Load businesses
+  async function loadBusinesses() {
+    try {
+      const res = await fetch(`${API}/gcr/entities?limit=10000`);
+      const data = await res.json();
+      businesses = data.entities || [];
+      document.getElementById('totalCount').textContent = businesses.length;
+      renderBusinessList();
+      addChatMessage('assistant', `Loaded ${businesses.length} businesses. Click one to edit or ask me to extract data from a website!`);
+    } catch (e) {
+      showStatus('Error loading businesses: ' + e.message, true);
+    }
+  }
+
+  // Render business list
+  function renderBusinessList() {
+    const list = document.getElementById('businessList');
+    list.innerHTML = businesses.map((b, i) => `
+      <div class="business-item" onclick="selectBusiness(${i})" id="item-${i}">
+        <div class="business-name">${b.name || 'Unnamed'}</div>
+        <div class="business-type">${b.entity_type || 'unknown'}</div>
+      </div>
+    `).join('');
+  }
+
+  // Search businesses
+  function searchBusinesses() {
+    const q = document.getElementById('searchBox').value.toLowerCase();
+    const filtered = businesses.filter(b =>
+      (b.name || '').toLowerCase().includes(q) ||
+      (b.entity_type || '').toLowerCase().includes(q)
+    );
+    const list = document.getElementById('businessList');
+    list.innerHTML = filtered.map((b, i) => `
+      <div class="business-item" onclick="selectBusiness(${businesses.indexOf(b)})" style="opacity: ${businesses.indexOf(b) >= 0 ? 1 : 0.5}">
+        <div class="business-name">${b.name}</div>
+        <div class="business-type">${b.entity_type}</div>
+      </div>
+    `).join('');
+  }
+
+  // Select business
+  async function selectBusiness(i) {
+    try {
+      const b = businesses[i];
+      const res = await fetch(`${API}/gcr/entity/${b.slug}`);
+      const response = await res.json();
+      currentBusiness = response.entity || response.business || response;
+      currentData = JSON.parse(JSON.stringify(currentBusiness));
+
+      document.getElementById('placeholder').style.display = 'none';
+      document.getElementById('editorForm').style.display = 'block';
+      document.getElementById('businessTitle').textContent = currentBusiness.name || 'Unnamed';
+
+      // Fill form
+      fillForm();
+
+      // Update UI
+      document.querySelectorAll('.business-item').forEach(el => el.classList.remove('active'));
+      document.getElementById(`item-${i}`).classList.add('active');
+
+      addChatMessage('assistant', `Loaded ${currentBusiness.name}. You can edit the fields directly or ask me to extract data from their website.`);
+    } catch (e) {
+      showStatus('Error loading business: ' + e.message, true);
+    }
+  }
+
+  // Fill form with business data
+  function fillForm() {
+    Object.keys(currentData).forEach(key => {
+      const el = document.getElementById(key);
+      if (!el) return;
+      const val = currentData[key];
+      if (el.type === 'checkbox') {
+        el.checked = val;
+      } else {
+        el.value = typeof val === 'object' ? JSON.stringify(val, null, 2) : (val || '');
+      }
+    });
+  }
+
+  // Update data
+  function updateData(key) {
+    const el = document.getElementById(key);
+    let val = el.type === 'checkbox' ? el.checked : el.value;
+
+    // Try to parse JSON if needed
+    if (typeof val === 'string' && (val.startsWith('{') || val.startsWith('['))) {
+      try { val = JSON.parse(val); } catch(e) {}
+    }
+
+    currentData[key] = val;
+  }
+
+  // Save business
+  async function saveBusiness() {
+    try {
+      const res = await fetch(`${API}/admin/businesses/${currentBusiness.slug}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(currentData)
+      });
+      if (res.ok) {
+        showStatus('✅ Saved! Commit & push to deploy.');
+        addChatMessage('assistant', `Saved ${currentData.name}! All changes are ready to be committed.`);
+      } else {
+        showStatus('❌ Save failed', true);
+      }
+    } catch (e) {
+      showStatus('Error: ' + e.message, true);
+    }
+  }
+
+  // Chat functions
+  function addChatMessage(role, text) {
+    const msgs = document.getElementById('chatMessages');
+    const msg = document.createElement('div');
+    msg.className = `message ${role}`;
+    msg.textContent = text;
+    msgs.appendChild(msg);
+    msgs.scrollTop = msgs.scrollHeight;
+  }
+
+  // Parse raw data and auto-fill form
+  async function parseRawData(rawInput) {
+    try {
+      addChatMessage('assistant', '🔄 Parsing your data...');
+
+      // Call Claude API to parse raw data
+      const response = await fetch('/api/admin/parse-data', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          rawData: rawInput,
+          currentBusiness: currentBusiness || {}
+        })
+      });
+
+      if (!response.ok) {
+        // Fallback: basic parsing if API not available
+        handleBasicParsing(rawInput);
+        return;
+      }
+
+      const result = await response.json();
+
+      if (result.parsed) {
+        // Auto-fill the form with parsed data
+        Object.keys(result.parsed).forEach(key => {
+          const el = document.getElementById(key);
+          if (el && result.parsed[key]) {
+            if (el.type === 'checkbox') {
+              el.checked = Boolean(result.parsed[key]);
+            } else {
+              el.value = typeof result.parsed[key] === 'object' ?
+                JSON.stringify(result.parsed[key], null, 2) :
+                String(result.parsed[key]);
+            }
+            updateData(key);
+          }
+        });
+
+        addChatMessage('assistant', `✅ Auto-filled ${Object.keys(result.parsed).length} fields! Review and save when ready.`);
+      } else {
+        addChatMessage('assistant', '❌ Could not parse data. Try pasting specific info like: Name: XYZ, Phone: 123-456-7890, Hours: Mon-Fri 10am-10pm');
+      }
+    } catch (e) {
+      handleBasicParsing(rawInput);
+    }
+  }
+
+  // Basic parsing without AI
+  function handleBasicParsing(text) {
+    const parsed = {};
+    const lines = text.split('\n');
+
+    // Simple key-value extraction
+    lines.forEach(line => {
+      const [key, value] = line.split(':').map(s => s.trim());
+      if (key && value) {
+        const fieldMap = {
+          'name': 'name', 'business name': 'name',
+          'phone': 'phone', 'tel': 'phone',
+          'email': 'email', 'web': 'website_url', 'website': 'website_url',
+          'address': 'address_line_1', 'street': 'address_line_1',
+          'city': 'city', 'state': 'state', 'zip': 'zip',
+          'hours': 'hours', 'description': 'description',
+          'rating': 'rating'
+        };
+
+        const field = fieldMap[key.toLowerCase()];
+        if (field) parsed[field] = value;
+      }
+    });
+
+    if (Object.keys(parsed).length > 0) {
+      Object.keys(parsed).forEach(key => {
+        const el = document.getElementById(key);
+        if (el) {
+          el.value = parsed[key];
+          updateData(key);
+        }
+      });
+      addChatMessage('assistant', `✅ Auto-filled ${Object.keys(parsed).length} fields from your data!`);
+    } else {
+      addChatMessage('assistant', '📋 Paste your raw business data (any format) and I\'ll clean it up and auto-fill the form. Example:\n\nName: Restaurant Name\nPhone: 555-1234\nCity: Gulf Shores\nHours: Mon-Fri 11am-10pm');
+    }
+  }
+
+  function sendMessage() {
+    const input = document.getElementById('chatInput');
+    const msg = input.value.trim();
+    if (!msg) return;
+
+    addChatMessage('user', msg);
+    input.value = '';
+
+    // Parse raw data with Claude API
+    parseRawData(msg);
+  }
+
+  // Status message
+  function showStatus(msg, isError = false) {
+    const el = document.getElementById('statusMsg');
+    el.innerHTML = msg;
+    el.className = isError ? 'status' : 'status';
+    el.style.backgroundColor = isError ? '#ffebee' : '#e8f5e9';
+    el.style.color = isError ? '#c62828' : '#2e7d32';
+    if (!isError) setTimeout(() => el.innerHTML = '', 4000);
+  }
+
+  // Initialize
+  loadBusinesses();
+</script>
+
+</body>
+</html>
