@@ -12,7 +12,7 @@ const ENTITIES_DIR = path.join(__dirname, 'data/entities');
 
 // Use GCR Supabase
 const SUPABASE_URL = 'https://xbptmkpbiqzvxptjkfoi.supabase.co';
-const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhicHRta3BiaXF6dnhwdGprZm9pIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3ODE3NTk1NiwiZXhwIjoyMDkzNzUxOTU2fQ.Z_xD_yMq8a-H0QkLR2tpvZ0Yq1K2eF4vZ5aB9cD_eGk';
+const SUPABASE_KEY = (process.env.SUPABASE_SERVICE_ROLE_KEY || (() => { throw new Error('Set SUPABASE_SERVICE_ROLE_KEY (Supabase > Settings > API) before running this script'); })());
 
 function query(table, select = '*', filters = '') {
   return new Promise((resolve, reject) => {
